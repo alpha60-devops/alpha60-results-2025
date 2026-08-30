@@ -1,0 +1,1509 @@
+{
+  "archive": {
+    "path": "/home/bkoz/src/alpha60-xperiments/year-2025-archives/alien-earth-101.cache/cache.20260210.tar.xz",
+    "sha256": "382905707e40942e001877df080538c558d187d1215bb0a92466fb79a417b5dd",
+    "size": 4550948368
+  },
+  "authorization": {
+    "archive_mutated": false,
+    "excluded_member_classes": [
+      "hour",
+      "week",
+      "cumulative"
+    ],
+    "raw_samples_opened": false,
+    "scope": "read only streaming of per-torrent day records"
+  },
+  "collection_key": "alien-earth-101",
+  "day_product_contract": {
+    "collection_key": "alien-earth-101",
+    "day_products": 182,
+    "first_date": "2025-08-13",
+    "first_index": 1,
+    "geojson_data_version": "20260701",
+    "ip_geolocation_version": "6:1777968300",
+    "json_data_version": "2026-08-05",
+    "last_date": "2026-02-10",
+    "last_index": 182,
+    "schema": "alpha60-day-product-contract/1",
+    "sparse": false,
+    "status": "pass"
+  },
+  "publications": {
+    "data/geojson.day/alien-earth-101-day-00001.geojson.gz": {
+      "sha256": "80732c8811fb24aa46cb7cdd1e0508814acb69ca9ac786332b4b61b839e0d875",
+      "size": 270138
+    },
+    "data/geojson.day/alien-earth-101-day-00002.geojson.gz": {
+      "sha256": "08f7ec4d40d529e5730b36f1c7acd38fafe0e55ac0c0675aa908296a3586e02a",
+      "size": 297221
+    },
+    "data/geojson.day/alien-earth-101-day-00003.geojson.gz": {
+      "sha256": "d620e218345e92ee4fe2e1f3725cde8a45e49f4e81a970d787c506ee7edf0604",
+      "size": 259952
+    },
+    "data/geojson.day/alien-earth-101-day-00004.geojson.gz": {
+      "sha256": "bec32f3fbe538087fc6507c817839534e61f067c55cab11955e57bba6ce0a84b",
+      "size": 249907
+    },
+    "data/geojson.day/alien-earth-101-day-00005.geojson.gz": {
+      "sha256": "b281e44309ddfd8f2e7019ae9c6366fca4a265bc5fbe673ae5edd6a42507d0f5",
+      "size": 319120
+    },
+    "data/geojson.day/alien-earth-101-day-00006.geojson.gz": {
+      "sha256": "17a9dcef1007de53d12d5cd045bd6d29ab4eb3b7e5e10e3a3709b78a87b91c4e",
+      "size": 322668
+    },
+    "data/geojson.day/alien-earth-101-day-00007.geojson.gz": {
+      "sha256": "05d5252433233fd6e485e304f273e91c483c87405d16001311a7682318443ebe",
+      "size": 311397
+    },
+    "data/geojson.day/alien-earth-101-day-00008.geojson.gz": {
+      "sha256": "7fb378614c7d9b1f62449a8a48001f717fe295c2e9012da5333b6166186d66de",
+      "size": 371460
+    },
+    "data/geojson.day/alien-earth-101-day-00009.geojson.gz": {
+      "sha256": "b18eaa38ab29087958db7fa9a2a3f82cdd038fae12c6d870715fdc1f358b2a27",
+      "size": 405146
+    },
+    "data/geojson.day/alien-earth-101-day-00010.geojson.gz": {
+      "sha256": "76410b06249a6404fa977832f6b8a93ffac276e4f59354cd9d1b5f9e1ec67a2b",
+      "size": 403664
+    },
+    "data/geojson.day/alien-earth-101-day-00011.geojson.gz": {
+      "sha256": "68ea0578b5e5045226438afa6e54a0a5213ec346b067099a6600f652f0ce5141",
+      "size": 384638
+    },
+    "data/geojson.day/alien-earth-101-day-00012.geojson.gz": {
+      "sha256": "b4721106b05ab16252b68faa02cd934e8daa357ac6b0c47238fb550c086cc11b",
+      "size": 375570
+    },
+    "data/geojson.day/alien-earth-101-day-00013.geojson.gz": {
+      "sha256": "a441307bfa719bac9043a402cf125014e4c8b0bf4d0d66519d8cba03626ce92b",
+      "size": 380098
+    },
+    "data/geojson.day/alien-earth-101-day-00014.geojson.gz": {
+      "sha256": "670f4b1d1ee001998a4e50ba79ff462c6a3d8e8c5edeb9f921680be2cb3c5026",
+      "size": 347270
+    },
+    "data/geojson.day/alien-earth-101-day-00015.geojson.gz": {
+      "sha256": "ba7555b2116e87964b26675544cf0852b5feaa0a749a82ae0d26bcfc5a7c1475",
+      "size": 329393
+    },
+    "data/geojson.day/alien-earth-101-day-00016.geojson.gz": {
+      "sha256": "18c80fd185e5a23d4dbb132a1f59a395c37a7c27eb53c07fe80738b1a844e0a4",
+      "size": 371455
+    },
+    "data/geojson.day/alien-earth-101-day-00017.geojson.gz": {
+      "sha256": "cddf20771883f583aa73866d3b813c1441c216462ec1a82fbcd7923158e9688c",
+      "size": 389381
+    },
+    "data/geojson.day/alien-earth-101-day-00018.geojson.gz": {
+      "sha256": "7d9331e54a39d59e572b17699f6374f187ccc0174c206a74cf38ad8e04281392",
+      "size": 400049
+    },
+    "data/geojson.day/alien-earth-101-day-00019.geojson.gz": {
+      "sha256": "2f2d6293ebaafad5e8219c8a1993579dd0b4a5ef3e364d20c4faf5e1a478db62",
+      "size": 380451
+    },
+    "data/geojson.day/alien-earth-101-day-00020.geojson.gz": {
+      "sha256": "25af46758c6ea9c3cd19855f6ef8b099b0f8acb17974eba78a4b261d00f28ebd",
+      "size": 366118
+    },
+    "data/geojson.day/alien-earth-101-day-00021.geojson.gz": {
+      "sha256": "00fa9e27c2a967d72537076638a7dd79343315e5cd918341ecd919c2bacb990e",
+      "size": 358119
+    },
+    "data/geojson.day/alien-earth-101-day-00022.geojson.gz": {
+      "sha256": "11c13872cfebed95e88b71d3d02aeb2b7e04637928ae250adb325c880a1f02fc",
+      "size": 355416
+    },
+    "data/geojson.day/alien-earth-101-day-00023.geojson.gz": {
+      "sha256": "181c4b6d2cb828f428fdd4c74acaadae52a462791db014b885576ea97e1be6ec",
+      "size": 369128
+    },
+    "data/geojson.day/alien-earth-101-day-00024.geojson.gz": {
+      "sha256": "f87a0038cc889a3608e870b67ccf322738625c59e09a16c61cdb1bfa3224e284",
+      "size": 355664
+    },
+    "data/geojson.day/alien-earth-101-day-00025.geojson.gz": {
+      "sha256": "390b06a16b8316b973278e3a41facb60baa4e4dc5459511e67420ab328b98c22",
+      "size": 346069
+    },
+    "data/geojson.day/alien-earth-101-day-00026.geojson.gz": {
+      "sha256": "c53fa8deea034986333b5eebca8505036bda759084569a3732257cc8f0058908",
+      "size": 349637
+    },
+    "data/geojson.day/alien-earth-101-day-00027.geojson.gz": {
+      "sha256": "9e546b1a9e52375af565a89ddd3ecaa24736e591af9fce45f48c532fc12dde55",
+      "size": 353458
+    },
+    "data/geojson.day/alien-earth-101-day-00028.geojson.gz": {
+      "sha256": "d037e7e684126ca30584772834b6542662d07934b28e57d3a701f10746beb649",
+      "size": 370325
+    },
+    "data/geojson.day/alien-earth-101-day-00029.geojson.gz": {
+      "sha256": "5ad59ab2dd9e38de8bbc3739e7813852330805018919b784c715785dd9e0253b",
+      "size": 357843
+    },
+    "data/geojson.day/alien-earth-101-day-00030.geojson.gz": {
+      "sha256": "fc1c8c978b624198908f1542dc440caecf1f0f0ba4d58dc5d6fd8ac258d690c0",
+      "size": 343804
+    },
+    "data/geojson.day/alien-earth-101-day-00031.geojson.gz": {
+      "sha256": "21b9bd356c4d2961b5fc2cd0a4e7859bc2ad20ce05e7ad53e95b5ebd73a43517",
+      "size": 340167
+    },
+    "data/geojson.day/alien-earth-101-day-00032.geojson.gz": {
+      "sha256": "2f49d4e48e993425fa82ff03f0baca89359ea130621c3563284a8f7808c84f9b",
+      "size": 334790
+    },
+    "data/geojson.day/alien-earth-101-day-00033.geojson.gz": {
+      "sha256": "705199c13f96f120f4c05c246e2683519fe7216cfbfba4a29ac5824179bc39fc",
+      "size": 324591
+    },
+    "data/geojson.day/alien-earth-101-day-00034.geojson.gz": {
+      "sha256": "fbb728a7518d4fb670b7f08d53bdcadb3b8675f085b95a55a3d61e50aaff1ab5",
+      "size": 341564
+    },
+    "data/geojson.day/alien-earth-101-day-00035.geojson.gz": {
+      "sha256": "c058a179d479e7c08bb5dd80b90645b411e5ee977b9bdc017bcfa371065ac718",
+      "size": 326005
+    },
+    "data/geojson.day/alien-earth-101-day-00036.geojson.gz": {
+      "sha256": "1c573c4606bf6d8937284b8da95047b05d18f79657db16c760b610c1615d444b",
+      "size": 345046
+    },
+    "data/geojson.day/alien-earth-101-day-00037.geojson.gz": {
+      "sha256": "90085a395332b28b479fe0ab936164d6e0d4d66a29c3f0a6681377e8505a5cfc",
+      "size": 342358
+    },
+    "data/geojson.day/alien-earth-101-day-00038.geojson.gz": {
+      "sha256": "fe1619ac871974eddace0b52a8e8c8b0c151438ca3f10c0813363568f35f3db4",
+      "size": 338126
+    },
+    "data/geojson.day/alien-earth-101-day-00039.geojson.gz": {
+      "sha256": "04983f0c9e2114e7b6aaba2bfc73ff24d1200efaf333ea2e1e7a4d4744af9078",
+      "size": 332623
+    },
+    "data/geojson.day/alien-earth-101-day-00040.geojson.gz": {
+      "sha256": "cad219f0b53553b018d60ec9be2df67db2cd764096d90388df06c2d72f1ca854",
+      "size": 342555
+    },
+    "data/geojson.day/alien-earth-101-day-00041.geojson.gz": {
+      "sha256": "74bcdc2a535790adca6e30d986eb8a476c0b296588d5c43e7613c5100f8e2eea",
+      "size": 346065
+    },
+    "data/geojson.day/alien-earth-101-day-00042.geojson.gz": {
+      "sha256": "8dd1b92caea062231549294ab97cde30deac0ddcca9b176047e8408287e0b2ee",
+      "size": 364296
+    },
+    "data/geojson.day/alien-earth-101-day-00043.geojson.gz": {
+      "sha256": "4777e951a7689cb0fd516af78d6c4018cfbcd7cf2ed873289f757abd486675bd",
+      "size": 368039
+    },
+    "data/geojson.day/alien-earth-101-day-00044.geojson.gz": {
+      "sha256": "d8f22386e95fdb0639de601c6775741825c9e71398c09270b4b0692c675a8196",
+      "size": 354343
+    },
+    "data/geojson.day/alien-earth-101-day-00045.geojson.gz": {
+      "sha256": "f8292ca8eda50c790a2c23c99d74e1ec3a4d65cc71c6a32f6b1d073139ce3f51",
+      "size": 372794
+    },
+    "data/geojson.day/alien-earth-101-day-00046.geojson.gz": {
+      "sha256": "01987a18fecb760f24bd9018e54653466369f472068fb8f3607f4cb43f859989",
+      "size": 342382
+    },
+    "data/geojson.day/alien-earth-101-day-00047.geojson.gz": {
+      "sha256": "801653eb88840d51634c8287a2fbeb87d14f459809a4e0d8ab46f00c50adcc5b",
+      "size": 314073
+    },
+    "data/geojson.day/alien-earth-101-day-00048.geojson.gz": {
+      "sha256": "17eedcbdef71fe57b13febf665b23cf77afaf15027c998415d404535363a026d",
+      "size": 354095
+    },
+    "data/geojson.day/alien-earth-101-day-00049.geojson.gz": {
+      "sha256": "32cdc39280136ed82bf0c33687e9a5692e7e6252b71bc44865ed19f0ad6a329d",
+      "size": 347905
+    },
+    "data/geojson.day/alien-earth-101-day-00050.geojson.gz": {
+      "sha256": "faf84d84500aba2320324b53f53e2304f8d864641e2280431eb535c1cc6ced8e",
+      "size": 330708
+    },
+    "data/geojson.day/alien-earth-101-day-00051.geojson.gz": {
+      "sha256": "aec224a78e0bcfe3524d8deecca3dfe8c63ec6193492667e88f0a15c1c8bd6ee",
+      "size": 331330
+    },
+    "data/geojson.day/alien-earth-101-day-00052.geojson.gz": {
+      "sha256": "b225baaf4cfd7f93b16dc79cca29d0edf0efd8612240d0bec2ba4c016b65574f",
+      "size": 326141
+    },
+    "data/geojson.day/alien-earth-101-day-00053.geojson.gz": {
+      "sha256": "da5339b3dbd4d1c2ea824ca228b0ba177227987c069624a22673684e7489d068",
+      "size": 319825
+    },
+    "data/geojson.day/alien-earth-101-day-00054.geojson.gz": {
+      "sha256": "4312bafeff3723e6c6054dc5696cbd248ab8095f3bee16ab7d48fc91d0c86581",
+      "size": 327231
+    },
+    "data/geojson.day/alien-earth-101-day-00055.geojson.gz": {
+      "sha256": "8e2a89797267c051af2bbf7c31229ffee6fb7f5285062cbfd2d252c000083f99",
+      "size": 346122
+    },
+    "data/geojson.day/alien-earth-101-day-00056.geojson.gz": {
+      "sha256": "4ed7dae12fede1d78c0aa88542790b89a2c2ae5ef0114354521e72fc3c5946e5",
+      "size": 326149
+    },
+    "data/geojson.day/alien-earth-101-day-00057.geojson.gz": {
+      "sha256": "778c1c6e049b569f84e712d47b716382f11d1530da651505cc5d3e7f9e656605",
+      "size": 340479
+    },
+    "data/geojson.day/alien-earth-101-day-00058.geojson.gz": {
+      "sha256": "4f307a4c722a32a31684898a0ec703447e85eb30aae8e50accf0fcdac4b42788",
+      "size": 352298
+    },
+    "data/geojson.day/alien-earth-101-day-00059.geojson.gz": {
+      "sha256": "cd988f1211ae0e3e01ed8bac982304f4dfb02b43e5c61b8f3a39b5d9ae5af973",
+      "size": 350829
+    },
+    "data/geojson.day/alien-earth-101-day-00060.geojson.gz": {
+      "sha256": "864b9443f9bce453a63470838525938ee85d2ee8c2df715d07b03780cfaed0d5",
+      "size": 337999
+    },
+    "data/geojson.day/alien-earth-101-day-00061.geojson.gz": {
+      "sha256": "433626128f4bcf001d6c9b6882f81199225c6fa545d7c45267eb8ac59b04ff19",
+      "size": 339272
+    },
+    "data/geojson.day/alien-earth-101-day-00062.geojson.gz": {
+      "sha256": "462f61f35f05b7ebe81b8894c0f2d87801ca4e2a4b3bc6f3df44216fbf368ee2",
+      "size": 341964
+    },
+    "data/geojson.day/alien-earth-101-day-00063.geojson.gz": {
+      "sha256": "61e40724f70fb51ab066c9c5639c3824d61adc2911594bfadaa950fef4520449",
+      "size": 330529
+    },
+    "data/geojson.day/alien-earth-101-day-00064.geojson.gz": {
+      "sha256": "8fdafdef1dd630a0e0ac985d1dd832b58f9d6bc2d1ee52c5daa54fd43c0a6dee",
+      "size": 332447
+    },
+    "data/geojson.day/alien-earth-101-day-00065.geojson.gz": {
+      "sha256": "521b8170b460f11ea48cfa9862bdd2143dfb97906538dc5a5b106adf8bdd0568",
+      "size": 328391
+    },
+    "data/geojson.day/alien-earth-101-day-00066.geojson.gz": {
+      "sha256": "2dda815d542efd33858d97621589a9fde43ff043ff7a95df20d68a76d8ab16ac",
+      "size": 328249
+    },
+    "data/geojson.day/alien-earth-101-day-00067.geojson.gz": {
+      "sha256": "8a957eccb4607ba202ef9b5ffb92138a596529115bf187e3e336670719c50686",
+      "size": 335146
+    },
+    "data/geojson.day/alien-earth-101-day-00068.geojson.gz": {
+      "sha256": "175c69ab986d87431dd02acbba113f8325b6dcdec803e8f311db6ad6ee70defc",
+      "size": 328913
+    },
+    "data/geojson.day/alien-earth-101-day-00069.geojson.gz": {
+      "sha256": "ed265132469c8a8f9d2654b163921c75c997c4789220a7351a84afe74ceb0af0",
+      "size": 340777
+    },
+    "data/geojson.day/alien-earth-101-day-00070.geojson.gz": {
+      "sha256": "76093f45aacce385bc637d0e4c0331fe5ea144498819ae2da9d0e65f4fa96eea",
+      "size": 329789
+    },
+    "data/geojson.day/alien-earth-101-day-00071.geojson.gz": {
+      "sha256": "a7f411aec63199e53c022c78546144fea18f4222c644f948161cb7e313176c89",
+      "size": 328891
+    },
+    "data/geojson.day/alien-earth-101-day-00072.geojson.gz": {
+      "sha256": "c66e01ad11c93898e382999c60326385c82dd81e3a3b9378d491e5390b75fb25",
+      "size": 324817
+    },
+    "data/geojson.day/alien-earth-101-day-00073.geojson.gz": {
+      "sha256": "b76a0440eac75140dd7300391d298c17a22039afcf1968b52748560758623a02",
+      "size": 358567
+    },
+    "data/geojson.day/alien-earth-101-day-00074.geojson.gz": {
+      "sha256": "dec1f296a3024cf957d6a3c78e40708ed8e75951ad1ed45ab10214fea418dbe0",
+      "size": 325029
+    },
+    "data/geojson.day/alien-earth-101-day-00075.geojson.gz": {
+      "sha256": "d259a6aa3d5d1d9cc39ba0b431158f848440706ae305f654362734d0047e1c54",
+      "size": 317799
+    },
+    "data/geojson.day/alien-earth-101-day-00076.geojson.gz": {
+      "sha256": "a225c390d353d8a0a83077609bdc29bd06bdecc664a12aa20034d2033b01fe10",
+      "size": 334450
+    },
+    "data/geojson.day/alien-earth-101-day-00077.geojson.gz": {
+      "sha256": "17525f84aee3e05000320198552f2b943980069914ca6b66137bf1cc18d9750d",
+      "size": 330673
+    },
+    "data/geojson.day/alien-earth-101-day-00078.geojson.gz": {
+      "sha256": "5c2a1e70ceef6a5dad09bc40511f86c844db1e6dfcfd0f96edad9a1368072bda",
+      "size": 331421
+    },
+    "data/geojson.day/alien-earth-101-day-00079.geojson.gz": {
+      "sha256": "7d67067d20f2437f7d94a2f7b231848dfe519cb9f383c8a1b1eb227efb7729db",
+      "size": 327187
+    },
+    "data/geojson.day/alien-earth-101-day-00080.geojson.gz": {
+      "sha256": "05fdb00edd0df6738ed57876196e9f59eae5fb2d5b2ebc0f1ee6cad340a65edf",
+      "size": 326550
+    },
+    "data/geojson.day/alien-earth-101-day-00081.geojson.gz": {
+      "sha256": "c54a7e388110d67948d279057ad771b51682b6d4b20569ce5ff4e9014780b059",
+      "size": 323016
+    },
+    "data/geojson.day/alien-earth-101-day-00082.geojson.gz": {
+      "sha256": "04b29eb9b2dcca1c9fb865e96961797cf38e8294eb6a0053cefc4431b0c93a35",
+      "size": 328861
+    },
+    "data/geojson.day/alien-earth-101-day-00083.geojson.gz": {
+      "sha256": "d22a7c2c3baf57f4d70c227bffa19fd201a33fa445372914ecc3c8ef30eabd39",
+      "size": 320555
+    },
+    "data/geojson.day/alien-earth-101-day-00084.geojson.gz": {
+      "sha256": "f109f2ad277fbbb2d8a1c7fe14ba7ade1b1f22f1582598aec4b05f4c11f43c76",
+      "size": 314170
+    },
+    "data/geojson.day/alien-earth-101-day-00085.geojson.gz": {
+      "sha256": "a60eea4e998f2a0e5365b95624beb78cf6ff8e9dc2dae52f6874993a5d4c7b47",
+      "size": 320664
+    },
+    "data/geojson.day/alien-earth-101-day-00086.geojson.gz": {
+      "sha256": "1271919ede2a78fa22e33ee7f10fcd7de62150f7384e14ea4b112e6412c0d8d6",
+      "size": 324786
+    },
+    "data/geojson.day/alien-earth-101-day-00087.geojson.gz": {
+      "sha256": "f43aa2d21f7f50127e89db498dc265395702092ecf677c29716404777f685137",
+      "size": 315078
+    },
+    "data/geojson.day/alien-earth-101-day-00088.geojson.gz": {
+      "sha256": "e36f044f7865ad445dab55b0e83d71c7cb3df18b858a30f0bb062f65f297cdd9",
+      "size": 316637
+    },
+    "data/geojson.day/alien-earth-101-day-00089.geojson.gz": {
+      "sha256": "95247a936170dd70f28258082975bc67aaed6f0218426e1d13deef49086178ef",
+      "size": 309660
+    },
+    "data/geojson.day/alien-earth-101-day-00090.geojson.gz": {
+      "sha256": "0018029b34e9a03a959fedb5d32729ef9421d189a8b3eb8624abf36119084397",
+      "size": 319757
+    },
+    "data/geojson.day/alien-earth-101-day-00091.geojson.gz": {
+      "sha256": "a82c37cfbae43799c8012ae5fe69721fd359f592f8576a71a9434496c1d632a3",
+      "size": 322038
+    },
+    "data/geojson.day/alien-earth-101-day-00092.geojson.gz": {
+      "sha256": "977a02ab23d7bc982104c9da52b138ec90113a8e9d99ca3a6a94a688b27d3df3",
+      "size": 317629
+    },
+    "data/geojson.day/alien-earth-101-day-00093.geojson.gz": {
+      "sha256": "dff27facdd0811aa276e453dc155bf9fa237f6735deed838ea253e949993f9d5",
+      "size": 314432
+    },
+    "data/geojson.day/alien-earth-101-day-00094.geojson.gz": {
+      "sha256": "7a684dc2c51f77f490dc52f2c79a7641f034981d9f1118110c55504db3182057",
+      "size": 315600
+    },
+    "data/geojson.day/alien-earth-101-day-00095.geojson.gz": {
+      "sha256": "349205be02ef862f8b4fbbb83aeab77e3d7a9a682d3fcbe352f376d9cbddea2b",
+      "size": 312755
+    },
+    "data/geojson.day/alien-earth-101-day-00096.geojson.gz": {
+      "sha256": "ac774efeb3c52e172f0dea6f748c2c90973aa7b9ff5b94a79ad3994d5007784b",
+      "size": 297551
+    },
+    "data/geojson.day/alien-earth-101-day-00097.geojson.gz": {
+      "sha256": "cb61c4e3b8f060d907752caff76552c8778ad477d90588973f6d9dbdf0f483ac",
+      "size": 324913
+    },
+    "data/geojson.day/alien-earth-101-day-00098.geojson.gz": {
+      "sha256": "deb4b4b15862fafa1dad312cdde4b0f80570ec768cf973905ec5292d1dd1a2a0",
+      "size": 319914
+    },
+    "data/geojson.day/alien-earth-101-day-00099.geojson.gz": {
+      "sha256": "7f4d34bb99f392e415e61186b04d6052871c3ed2ac82c0bf8452b2e9a760cff0",
+      "size": 318049
+    },
+    "data/geojson.day/alien-earth-101-day-00100.geojson.gz": {
+      "sha256": "fec78cc254529e32c02dcf34abb2a58df57342d2f0d783736d2ae92f7195934e",
+      "size": 318099
+    },
+    "data/geojson.day/alien-earth-101-day-00101.geojson.gz": {
+      "sha256": "abe5fc1bd4efaa6dffabf23ae55997bb61a5a296beca1767a89acd5af2d63c7f",
+      "size": 365048
+    },
+    "data/geojson.day/alien-earth-101-day-00102.geojson.gz": {
+      "sha256": "84c996a1e27848cfee4a75d40317e4e58e89dd5ab333be99a4e942937ec1faa5",
+      "size": 304839
+    },
+    "data/geojson.day/alien-earth-101-day-00103.geojson.gz": {
+      "sha256": "78823f4a3b43210fa3eca59caa3dfb60d8ce3c690c9af3eb0ee5cc4475bd6139",
+      "size": 292792
+    },
+    "data/geojson.day/alien-earth-101-day-00104.geojson.gz": {
+      "sha256": "19a16ef69d8f303127b2a68cb7fc9ebe477b7c436ce84df7847fb9d383200327",
+      "size": 324220
+    },
+    "data/geojson.day/alien-earth-101-day-00105.geojson.gz": {
+      "sha256": "968792f55060a8cc33f6ca72f864a529f09a90b6a32e7c9702f939ab5229c00d",
+      "size": 312179
+    },
+    "data/geojson.day/alien-earth-101-day-00106.geojson.gz": {
+      "sha256": "eca1e8eff27a3fe8fecd02d67ac365fb9d3ceb45fa1200710753de88192df358",
+      "size": 321995
+    },
+    "data/geojson.day/alien-earth-101-day-00107.geojson.gz": {
+      "sha256": "cd5b692718b31b9d11f9bb77d014adf039c19238d294c386609a5ae85a43c051",
+      "size": 329162
+    },
+    "data/geojson.day/alien-earth-101-day-00108.geojson.gz": {
+      "sha256": "d1be5d1e2a39b85ce51b063bf43c2bac845f2e2dbdb7fc70a0967cbc33329156",
+      "size": 319865
+    },
+    "data/geojson.day/alien-earth-101-day-00109.geojson.gz": {
+      "sha256": "a782b4e6b71995daf6618669c6a05c5b48bd4cbca373ba3e1b414ed1318e7a89",
+      "size": 316991
+    },
+    "data/geojson.day/alien-earth-101-day-00110.geojson.gz": {
+      "sha256": "ba628b4a772f75cf4140c9a7b9922b77c920620c293b132d3985fbef441d7e38",
+      "size": 326322
+    },
+    "data/geojson.day/alien-earth-101-day-00111.geojson.gz": {
+      "sha256": "60e87f990afc54613b559130f7e2fabfb6b7b309c81c3adec6fa860f0c1e5696",
+      "size": 337008
+    },
+    "data/geojson.day/alien-earth-101-day-00112.geojson.gz": {
+      "sha256": "e3ccf03276374e18de194faaa9b3994c83bc7979363c8af1576cfc48dfbd14c5",
+      "size": 335695
+    },
+    "data/geojson.day/alien-earth-101-day-00113.geojson.gz": {
+      "sha256": "a4884834ad86845302df7e1399693b2c328dea0d03d1116495b0cb56a22e2f0f",
+      "size": 325363
+    },
+    "data/geojson.day/alien-earth-101-day-00114.geojson.gz": {
+      "sha256": "5e44539c9ed2a2a95454a8e8708b9e6d2fc7bbde9a7aa1bed6ad2bfeec63488e",
+      "size": 325764
+    },
+    "data/geojson.day/alien-earth-101-day-00115.geojson.gz": {
+      "sha256": "bb319c5bc7588edac2a43409aed845e3b3a566dc7053a51611de31e9b1780668",
+      "size": 322402
+    },
+    "data/geojson.day/alien-earth-101-day-00116.geojson.gz": {
+      "sha256": "effc5815d00f8bab77b1226a8fdfaa563f3f0cc421017b91bd9def23b56fa688",
+      "size": 304820
+    },
+    "data/geojson.day/alien-earth-101-day-00117.geojson.gz": {
+      "sha256": "048d95fcfb82a80743b972f805b5b588626670170c124577a51f343c221b429b",
+      "size": 296477
+    },
+    "data/geojson.day/alien-earth-101-day-00118.geojson.gz": {
+      "sha256": "96a488723ce05ed674f9787f01367eaaa6fa6ec38dfa1c96407ef36b8ab33434",
+      "size": 328761
+    },
+    "data/geojson.day/alien-earth-101-day-00119.geojson.gz": {
+      "sha256": "8c5880b42660b5c476b893a995ff2fae516f8cd1762f096fe4c04f0b6c392193",
+      "size": 311987
+    },
+    "data/geojson.day/alien-earth-101-day-00120.geojson.gz": {
+      "sha256": "2e6fa009718b01e002d62659876fa8a9b6546629a43dd75fde100af1aee80b38",
+      "size": 310094
+    },
+    "data/geojson.day/alien-earth-101-day-00121.geojson.gz": {
+      "sha256": "8e9729755483073a6aadad92cba5ccc187ebe961efc16e82a6f3f9decea2ac15",
+      "size": 299467
+    },
+    "data/geojson.day/alien-earth-101-day-00122.geojson.gz": {
+      "sha256": "b3721fa3655a0ebfee155c5888e5f57eba95ced2f5130acc7e20a05a9c456b95",
+      "size": 302603
+    },
+    "data/geojson.day/alien-earth-101-day-00123.geojson.gz": {
+      "sha256": "a0d4476834b2be5c3239debf92b251c257992b5a380c0a8f8c21778463c7a180",
+      "size": 288191
+    },
+    "data/geojson.day/alien-earth-101-day-00124.geojson.gz": {
+      "sha256": "c1b58d11ebda867aa2636b9c9a0736af47f90a928d127ad25df5c710af8429ab",
+      "size": 265676
+    },
+    "data/geojson.day/alien-earth-101-day-00125.geojson.gz": {
+      "sha256": "681f101efda0c0da31cba426f27f0c2c1a25869ef21262e61029b103fad831a4",
+      "size": 314750
+    },
+    "data/geojson.day/alien-earth-101-day-00126.geojson.gz": {
+      "sha256": "ab04c4d7d7eba3e3e795783f51c4f0b1417ff76d9b98eadef881e09a167e1051",
+      "size": 318419
+    },
+    "data/geojson.day/alien-earth-101-day-00127.geojson.gz": {
+      "sha256": "554386ec64f68b433cebe1f0760603e271343fb66134e98439b323fccbd9d223",
+      "size": 313242
+    },
+    "data/geojson.day/alien-earth-101-day-00128.geojson.gz": {
+      "sha256": "72a6be2db317e57454aa45061d0467e52432646f386f256b639956740f21c1e8",
+      "size": 312381
+    },
+    "data/geojson.day/alien-earth-101-day-00129.geojson.gz": {
+      "sha256": "e1b6d09f4330f535b139117fa7b06867d9fe396d39fec78813d8cc5ba8654c9c",
+      "size": 303494
+    },
+    "data/geojson.day/alien-earth-101-day-00130.geojson.gz": {
+      "sha256": "0503515b751871b60c86326440aefa27f6b288d6cba6014ad23fc2caa6dc4106",
+      "size": 299752
+    },
+    "data/geojson.day/alien-earth-101-day-00131.geojson.gz": {
+      "sha256": "2b7d2da267ef52cf9b1095a9669506de0108ac025a0b457ad0a8da4f0bd936bc",
+      "size": 305218
+    },
+    "data/geojson.day/alien-earth-101-day-00132.geojson.gz": {
+      "sha256": "f73ea7fc36d9bc6c6f045a54618ab6ee55048fc2ab4aae69029222ed73318970",
+      "size": 263455
+    },
+    "data/geojson.day/alien-earth-101-day-00133.geojson.gz": {
+      "sha256": "1f9197feede441de5ce2e2cd8f77cd0cb70385b4644a00b30c5a9ebb61cd9ed0",
+      "size": 191692
+    },
+    "data/geojson.day/alien-earth-101-day-00134.geojson.gz": {
+      "sha256": "4ff67f2c786ff31ecc891707bbbb27e425e3c0d5e35867077c745e6ce4b7be6f",
+      "size": 294066
+    },
+    "data/geojson.day/alien-earth-101-day-00135.geojson.gz": {
+      "sha256": "8743cfebc4bf3e800138b1631ae8d906bcf8d1b7af6353264f495203cfb4c9ab",
+      "size": 286568
+    },
+    "data/geojson.day/alien-earth-101-day-00136.geojson.gz": {
+      "sha256": "e08ec87b5cd53eb74aa5c5c9b0d485d99fba9a092139863b1fdfe2b8f32a57d1",
+      "size": 282697
+    },
+    "data/geojson.day/alien-earth-101-day-00137.geojson.gz": {
+      "sha256": "68b8d857d9ad59656239162e643d4d556d8ebb25d67a8229a4bc7c3e6648eb11",
+      "size": 280980
+    },
+    "data/geojson.day/alien-earth-101-day-00138.geojson.gz": {
+      "sha256": "ff20c8776ebf1c1efc5345631306cbfb7be6a14c69948cfa11946efdd3b86b4a",
+      "size": 269078
+    },
+    "data/geojson.day/alien-earth-101-day-00139.geojson.gz": {
+      "sha256": "605841e0505ce4af1ffea01c8517da201b006f1c4c60f6c07239829b9e069077",
+      "size": 298385
+    },
+    "data/geojson.day/alien-earth-101-day-00140.geojson.gz": {
+      "sha256": "4e16f63c5734ce28a97c9ad144b596a6187916e5b0e77cf4d0e1957059acdadb",
+      "size": 297255
+    },
+    "data/geojson.day/alien-earth-101-day-00141.geojson.gz": {
+      "sha256": "d709b306cf3b606c360e992e60d72595358e50bf9191b420ac1c12c336e13c0d",
+      "size": 309709
+    },
+    "data/geojson.day/alien-earth-101-day-00142.geojson.gz": {
+      "sha256": "45735be4b9377e1cf86e9f549f7647f99c4f2cdfc0faa1c612373db017000fb7",
+      "size": 313179
+    },
+    "data/geojson.day/alien-earth-101-day-00143.geojson.gz": {
+      "sha256": "a575a4f6cf72a304f05dcf5fbcd5245e39853ea226f90ae67d8f2987643b8877",
+      "size": 316883
+    },
+    "data/geojson.day/alien-earth-101-day-00144.geojson.gz": {
+      "sha256": "dc9bfe9ea243c807a13ca5425a5b240ecc20e0ea393d28a194429ecb5eedae3f",
+      "size": 296260
+    },
+    "data/geojson.day/alien-earth-101-day-00145.geojson.gz": {
+      "sha256": "40e2b142f2b911748e51431fc555b93edb00947e1354783d4db7df775618478a",
+      "size": 293461
+    },
+    "data/geojson.day/alien-earth-101-day-00146.geojson.gz": {
+      "sha256": "2475f5edaf259f5e8fd9213767654f5748e016eae73f6306e96df321f58bf04b",
+      "size": 308678
+    },
+    "data/geojson.day/alien-earth-101-day-00147.geojson.gz": {
+      "sha256": "c9573a71bc41dc2006440f700f7f1a843bd9e3327477bc8f8c272c2284a0dd2a",
+      "size": 285577
+    },
+    "data/geojson.day/alien-earth-101-day-00148.geojson.gz": {
+      "sha256": "5d50d0a46b24dfee3f451c9e71741b1e3d3e7b80a3bb3d1144b0f2b0c97b7902",
+      "size": 309996
+    },
+    "data/geojson.day/alien-earth-101-day-00149.geojson.gz": {
+      "sha256": "5479e637bd3b83a110332a5960498346e3a518abecbf88bacce7b25d2b7b4048",
+      "size": 327499
+    },
+    "data/geojson.day/alien-earth-101-day-00150.geojson.gz": {
+      "sha256": "9d2a43c3f666226b8e94035282b8b26fabd905edb778df715e8f227b9418f1ca",
+      "size": 315735
+    },
+    "data/geojson.day/alien-earth-101-day-00151.geojson.gz": {
+      "sha256": "bc834736865909f1902469b2d954d8527dd64602d146bd0030d5c09076524dce",
+      "size": 298814
+    },
+    "data/geojson.day/alien-earth-101-day-00152.geojson.gz": {
+      "sha256": "56017f894c5a6216315bf6f4b8bc2df45daac11f00e6bc4b541724309c526272",
+      "size": 302926
+    },
+    "data/geojson.day/alien-earth-101-day-00153.geojson.gz": {
+      "sha256": "f15f8cc706bfb58ff8e0c93417002d8eae68d9b55d4c7971ed33c365b34db696",
+      "size": 298661
+    },
+    "data/geojson.day/alien-earth-101-day-00154.geojson.gz": {
+      "sha256": "fc41e4282640e20cc32f217427bd7ae0e494533c643b8f41020e11cc14533bd8",
+      "size": 314117
+    },
+    "data/geojson.day/alien-earth-101-day-00155.geojson.gz": {
+      "sha256": "c8a76bf3d2fd65ed5d7170d29467592a9dde271cf2809ad8b4b32482dfeae60b",
+      "size": 304950
+    },
+    "data/geojson.day/alien-earth-101-day-00156.geojson.gz": {
+      "sha256": "771fc84b93f953979cb809c8f9fa0a51c2b5e6d1689f679d8fe82fbb4cf26f30",
+      "size": 314812
+    },
+    "data/geojson.day/alien-earth-101-day-00157.geojson.gz": {
+      "sha256": "1536766614da737c881034da3000e9b41a0597ed4b5f38c3675c5260ee0f0249",
+      "size": 316655
+    },
+    "data/geojson.day/alien-earth-101-day-00158.geojson.gz": {
+      "sha256": "5e0d69faeedc53032899420dafeddf39b75c787528d9b5eb98f1060ecd7efdf2",
+      "size": 301613
+    },
+    "data/geojson.day/alien-earth-101-day-00159.geojson.gz": {
+      "sha256": "f39071b288475c55d64dbdbdde252e9a133bed238cd15dd67cc4bc90d7854dbe",
+      "size": 295041
+    },
+    "data/geojson.day/alien-earth-101-day-00160.geojson.gz": {
+      "sha256": "be5e048fce4803a5d9b23e1b1be2475a3d956ac1b1e9629725bb7a58a798b84a",
+      "size": 309576
+    },
+    "data/geojson.day/alien-earth-101-day-00161.geojson.gz": {
+      "sha256": "85db5ecad28c4869f527a5ee396b2180f88797dc4270dbb9e89a3c169bc6ba62",
+      "size": 311119
+    },
+    "data/geojson.day/alien-earth-101-day-00162.geojson.gz": {
+      "sha256": "40896a1cd67b211746d16ac71c9d3022958ae3a9a57ed54fc19208c5bac5c7eb",
+      "size": 304219
+    },
+    "data/geojson.day/alien-earth-101-day-00163.geojson.gz": {
+      "sha256": "6777740157739257bc57b83120ad6ce8fea8b5f74631d5b28820e217a7bac8b0",
+      "size": 309180
+    },
+    "data/geojson.day/alien-earth-101-day-00164.geojson.gz": {
+      "sha256": "baa69202d7eed24326f3d1692cbb4b7b8fa798a2bd8483c8b74d8b17a0501231",
+      "size": 311214
+    },
+    "data/geojson.day/alien-earth-101-day-00165.geojson.gz": {
+      "sha256": "ccf3f778770cbd5d5646c9b8e9cf424f8c5f627c2daabfad7edd70294ed00c78",
+      "size": 279614
+    },
+    "data/geojson.day/alien-earth-101-day-00166.geojson.gz": {
+      "sha256": "557751aa0c8c7083c0a682cfc0dac691629c871e91c7bd8a8f2ae829b2c42148",
+      "size": 295966
+    },
+    "data/geojson.day/alien-earth-101-day-00167.geojson.gz": {
+      "sha256": "3a4c519c2b0854708cb1839006d64cce413c3478d7bb4c0847114b36da06218b",
+      "size": 309262
+    },
+    "data/geojson.day/alien-earth-101-day-00168.geojson.gz": {
+      "sha256": "f64cb575eaf773d15e370a1971476d84894622fe10df72e95211dde8ee80bb29",
+      "size": 311790
+    },
+    "data/geojson.day/alien-earth-101-day-00169.geojson.gz": {
+      "sha256": "06e746d223c90ec6cbd8186aa092c35a6d3aa69855ee81caa11d03baff737bd9",
+      "size": 293362
+    },
+    "data/geojson.day/alien-earth-101-day-00170.geojson.gz": {
+      "sha256": "cc8b8bbda363978e11c3d1150ad539e5623db7ec3695f25bccc5fe60436c09a8",
+      "size": 286807
+    },
+    "data/geojson.day/alien-earth-101-day-00171.geojson.gz": {
+      "sha256": "fadd7ccde61c59dafde6bb941abdcdd3db8b3f37ecf01b9f8f5dde051b5c74e4",
+      "size": 312176
+    },
+    "data/geojson.day/alien-earth-101-day-00172.geojson.gz": {
+      "sha256": "f3ad174dda0ecc435d16a801180c4a66159722242d2e1d566e74dcf7a7c611df",
+      "size": 286869
+    },
+    "data/geojson.day/alien-earth-101-day-00173.geojson.gz": {
+      "sha256": "a3b368532946f6f107c68d2a9f1aa750e6e9287cca5ed10f9f028f079c673f7b",
+      "size": 289153
+    },
+    "data/geojson.day/alien-earth-101-day-00174.geojson.gz": {
+      "sha256": "317323be6d2d587664cf9b8eb6d12c65e1a37858e50acf93d19d00d1600d0f59",
+      "size": 313927
+    },
+    "data/geojson.day/alien-earth-101-day-00175.geojson.gz": {
+      "sha256": "d7b0fe7e30b70bda88ef84d19e4af08c7a55102a23eae82a804942d36ad64475",
+      "size": 302598
+    },
+    "data/geojson.day/alien-earth-101-day-00176.geojson.gz": {
+      "sha256": "9e582d003e9125c94361c469c64d8cda754f726f92f4f23570572a4269595644",
+      "size": 305101
+    },
+    "data/geojson.day/alien-earth-101-day-00177.geojson.gz": {
+      "sha256": "1567cb43afe4bccf10ddd9268a0092e1aa65a48115d6bbd878af91961f6c4039",
+      "size": 305332
+    },
+    "data/geojson.day/alien-earth-101-day-00178.geojson.gz": {
+      "sha256": "872524ec3069adb7ac8199fd170d0fd224f75f6a2e264cf4bccf3222b4e2ee27",
+      "size": 353778
+    },
+    "data/geojson.day/alien-earth-101-day-00179.geojson.gz": {
+      "sha256": "5c73327ad74ef5325d04377a760ae22e5e1739a74494e458aa4d7c07fb36f247",
+      "size": 300843
+    },
+    "data/geojson.day/alien-earth-101-day-00180.geojson.gz": {
+      "sha256": "45f87fd04e8611258dbdebd3987e6da3d8762d0850247c8caf4d99eae12dc2df",
+      "size": 283139
+    },
+    "data/geojson.day/alien-earth-101-day-00181.geojson.gz": {
+      "sha256": "3bdc0d215c98fb0aba04d3768380a6e1412332ecca36518ecabb9fa7d3c58713",
+      "size": 308110
+    },
+    "data/geojson.day/alien-earth-101-day-00182.geojson.gz": {
+      "sha256": "b1abf42e7fe35b52b8ab660260838c0dab21218997abfbb8c7219a2c63cc5489",
+      "size": 308350
+    },
+    "data/json/alien-earth-101-swarm-day-00001-2025-08-13.json": {
+      "sha256": "600c46ccc5ae7ebdff6bbfdc83876be9ee6ce1314d7c3e3cfafea36a9aef4f0d",
+      "size": 457
+    },
+    "data/json/alien-earth-101-swarm-day-00002-2025-08-14.json": {
+      "sha256": "fa295f7ffe4e584f44c3dcf80bfa4db61386b6285b1b43c3c38d60996983bfd3",
+      "size": 457
+    },
+    "data/json/alien-earth-101-swarm-day-00003-2025-08-15.json": {
+      "sha256": "2affca84de38a18b05db016c405a51397e8380dcea859b130bdc3bd8b0f4475f",
+      "size": 457
+    },
+    "data/json/alien-earth-101-swarm-day-00004-2025-08-16.json": {
+      "sha256": "d2883362a32aa250fb07aa6f4a0b8a0e941db36962f111f62ab4ac4aa51927fc",
+      "size": 457
+    },
+    "data/json/alien-earth-101-swarm-day-00005-2025-08-17.json": {
+      "sha256": "484603168ac97b5d04403aa1c2fe2c2123d949a72e1076a261f8cc8c15912a2b",
+      "size": 457
+    },
+    "data/json/alien-earth-101-swarm-day-00006-2025-08-18.json": {
+      "sha256": "82988b2e20b6910b6271818d63dfe53fe1611e6351be32b34930fe80b830bdf1",
+      "size": 457
+    },
+    "data/json/alien-earth-101-swarm-day-00007-2025-08-19.json": {
+      "sha256": "f43d544bfc6e5920703d4a5fe922912a6384e9215e7703163aa8e93c9ee76b3a",
+      "size": 457
+    },
+    "data/json/alien-earth-101-swarm-day-00008-2025-08-20.json": {
+      "sha256": "6154a29160907aed58e0665fbcdf3068f03cc27d45d41d11ad14713607b2219f",
+      "size": 457
+    },
+    "data/json/alien-earth-101-swarm-day-00009-2025-08-21.json": {
+      "sha256": "6e55ad40b9e5afcd43e6dcb43d1d2d06571c774f1dbd1e1276da0bc547aa7847",
+      "size": 457
+    },
+    "data/json/alien-earth-101-swarm-day-00010-2025-08-22.json": {
+      "sha256": "c41679b9e36e95c94df20aba005ca593c50cf44d17ef53fa6e1e99048be82f77",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00011-2025-08-23.json": {
+      "sha256": "2c3fd2ef76bc6bbcbc25367c38285d277c8def91efd5f84a9778ec798c83c459",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00012-2025-08-24.json": {
+      "sha256": "a002d438ce13a0c89202b4523c04bad25aaa4242755ba60799b3d2474a173640",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00013-2025-08-25.json": {
+      "sha256": "ec1f83e1287dc8397d00b90eec175d9ab8603ea91bbdf9907d61f0a2640777a1",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00014-2025-08-26.json": {
+      "sha256": "d0fc32eb921294bbc3637f63cb0dc14e1c61f717f3ec000f7188a78cd5cf2e48",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00015-2025-08-27.json": {
+      "sha256": "f995feaf19d6e8630c661310fb4f0198cfd127cf7e3043cbef191e9dc3334d43",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00016-2025-08-28.json": {
+      "sha256": "21a8da09ec52fda5cd3d270388b5f81e823a303c40f79b6d87bc5d5a72e6e471",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00017-2025-08-29.json": {
+      "sha256": "65af6433a107d5384d8a339fc410d82d6e757c199cb308b6c695b7eb3d777371",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00018-2025-08-30.json": {
+      "sha256": "91f25c3a9c1e657e24b1a1e96a605e8206b3940afbc6bdf73f6860468aeeaef3",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00019-2025-08-31.json": {
+      "sha256": "0aa59c67223d81c568ce72efee03f320c9c7272288c9a07ea6be0ee1f32c3ba6",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00020-2025-09-01.json": {
+      "sha256": "1c2471df33421b56e6e277501e2e3aae9f712381c2c979e3befc610626b5bec3",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00021-2025-09-02.json": {
+      "sha256": "c017222166f4cffb70a26a77baef8e1a1ec74b6bb8b9a006b235696209f60aef",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00022-2025-09-03.json": {
+      "sha256": "0e84571f182c3df51ce6af167bb65409fd26d1c3d619a5e319b57a864695ea76",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00023-2025-09-04.json": {
+      "sha256": "1e5a0d37ed90ede0369c5fa2995c50f8d616d7aa7c53bdef5ff57198f9cef1d4",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00024-2025-09-05.json": {
+      "sha256": "5d98716924d5c53231803a319ad437027028421479a1275c78f619cae1d986b4",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00025-2025-09-06.json": {
+      "sha256": "2ddcfbb5c27c7e2e3d7b79d2e5ae9511e231734f023276e763bc84bd2852ffb4",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00026-2025-09-07.json": {
+      "sha256": "fbcd9811f956cb2394d41ac8b2d9f364910a1b46d7f3a2dc9eb0737b4ef5a661",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00027-2025-09-08.json": {
+      "sha256": "41a1bc9cf1882ddb5dca012ceb65c67536590e06769130ddee8e05a4c384bdf6",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00028-2025-09-09.json": {
+      "sha256": "464b266e3e94f160d0e79ef3731c9045b49428aa47efa86d65c0d3ae4201611e",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00029-2025-09-10.json": {
+      "sha256": "8af57a68f9ccf4e2245fd038bb622f82b9c073303b69baf17c3ca1e94ac46e43",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00030-2025-09-11.json": {
+      "sha256": "77bfb49b9365dc79d1c59e652e0858a19783ced89e068ea909f5eb96c502ef72",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00031-2025-09-12.json": {
+      "sha256": "a4b560b47cd60073de3c4e06eb1995b7ae0b787e8a40d07c225d9e612699c8bd",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00032-2025-09-13.json": {
+      "sha256": "0bd517f48e6a7799b2682aa892ff8fe668bfe08911f57ed47cf489d82fb47a61",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00033-2025-09-14.json": {
+      "sha256": "4dc1a0a9139131cd3faee82edf3c7de8aa831f3d7ff88f9c33adb550000f5e61",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00034-2025-09-15.json": {
+      "sha256": "387e48db9aeced7d3fcb846e90c16603c5e715bd24862206603fda950045da72",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00035-2025-09-16.json": {
+      "sha256": "213870a59eac7697372fe2fd0113016123a6dcd3b8dc4c416b54aa68e1f41e46",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00036-2025-09-17.json": {
+      "sha256": "d5e71a551d663bf96c151a23ac942666a507aa3c34865b19d1fd3c0830a85309",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00037-2025-09-18.json": {
+      "sha256": "20b5c66861039c0fda6b5ed6cb96561309f99503f818ddfb4c7bf7372809c4b9",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00038-2025-09-19.json": {
+      "sha256": "b1681a07dbafa8999be37b2a985fb20c69c1f7f1563d5ea3b36b90525cac1a35",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00039-2025-09-20.json": {
+      "sha256": "a4a7bbc04cfb75aa3ddc9384d46dbdcebfe6690a1d86e3e088e4b41efd2c5b38",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00040-2025-09-21.json": {
+      "sha256": "7c5adc2087df739146a6cda60c86d56502cefd2da4128401a8bcf86f44779b68",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00041-2025-09-22.json": {
+      "sha256": "a42d3dbb178c0c395b7248a4ea78e6f4d1250313578c713790ac556df5749330",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00042-2025-09-23.json": {
+      "sha256": "67d286f864c0b570e49c880afd964d5abde968bafe725265257ee946711a62c6",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00043-2025-09-24.json": {
+      "sha256": "4905232f64d08783c047f61d9d106bb3100be20ca2eb247453986b3e02156ce1",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00044-2025-09-25.json": {
+      "sha256": "f06c28a1dff6d6b2ff38b57bf1ec464e3189c1c8972e89f89e467b33d41bb6f0",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00045-2025-09-26.json": {
+      "sha256": "1c30c29bcf67135f733ef76b29fa613bbcfcdcc0ee3d88d1a2c8c661f02b7472",
+      "size": 457
+    },
+    "data/json/alien-earth-101-swarm-day-00046-2025-09-27.json": {
+      "sha256": "a97e090c3427d8511c702b735d97640b7fe17c3aabec824a3cab523aa798e604",
+      "size": 457
+    },
+    "data/json/alien-earth-101-swarm-day-00047-2025-09-28.json": {
+      "sha256": "fe1083212cebf556b69e1f5446287f140a95cdc43b6b257f9d361f399bb5128c",
+      "size": 457
+    },
+    "data/json/alien-earth-101-swarm-day-00048-2025-09-29.json": {
+      "sha256": "986bbceedf761c7eda996f80f1d51eb8b03e2b66305230888b53d61a9cbd6001",
+      "size": 457
+    },
+    "data/json/alien-earth-101-swarm-day-00049-2025-09-30.json": {
+      "sha256": "8ca8b05732b717028de93a96d3a24136fdc956a15787154dec9667606aa6a63d",
+      "size": 457
+    },
+    "data/json/alien-earth-101-swarm-day-00050-2025-10-01.json": {
+      "sha256": "90724430f1ad93152db908dbc6f303441df41ab7161bbdfcb2e5ab34d8f9e068",
+      "size": 457
+    },
+    "data/json/alien-earth-101-swarm-day-00051-2025-10-02.json": {
+      "sha256": "3445ac0ae5c01f05ec5ab52c60623dd774cf900be13cba1f35e2234ff0f5eb84",
+      "size": 457
+    },
+    "data/json/alien-earth-101-swarm-day-00052-2025-10-03.json": {
+      "sha256": "8536837eddc54e1d4d9d36e5d185b1457e7dd238c5598766f76a4fb8d1d14da1",
+      "size": 457
+    },
+    "data/json/alien-earth-101-swarm-day-00053-2025-10-04.json": {
+      "sha256": "8a5f75718b5bbfb5c18cf92cbf125a3e811660b0dc853965ece3ec5938599ace",
+      "size": 457
+    },
+    "data/json/alien-earth-101-swarm-day-00054-2025-10-05.json": {
+      "sha256": "d3ca43a6a67c0b1d47b167a0dfc06fda605062eecd74bdd2f9698c286f43c65b",
+      "size": 457
+    },
+    "data/json/alien-earth-101-swarm-day-00055-2025-10-06.json": {
+      "sha256": "20b3c4fe93220188f380e72c06af187228c3f97ef3978a4486ce1031e388e201",
+      "size": 457
+    },
+    "data/json/alien-earth-101-swarm-day-00056-2025-10-07.json": {
+      "sha256": "001bad0512860239724d0cbd657c3f6e305078336cb47882a0c49a3eb625c91e",
+      "size": 457
+    },
+    "data/json/alien-earth-101-swarm-day-00057-2025-10-08.json": {
+      "sha256": "8e99d7f2216ac876c3491826d880e4a030a985aef0a57621b2c042c93d76961f",
+      "size": 457
+    },
+    "data/json/alien-earth-101-swarm-day-00058-2025-10-09.json": {
+      "sha256": "38c27c9352302427403a9303c655d93c6772fe24cccdfe24a89fb900bce8c886",
+      "size": 457
+    },
+    "data/json/alien-earth-101-swarm-day-00059-2025-10-10.json": {
+      "sha256": "1f5dd37220904ae0a56d24164fee950a685a1bb5ee516636048c68ecd5f6eb26",
+      "size": 457
+    },
+    "data/json/alien-earth-101-swarm-day-00060-2025-10-11.json": {
+      "sha256": "6ff4da4ab326010f82c1b4368963de4f0eacc3bd219e7ce712a58ce607b8edf5",
+      "size": 457
+    },
+    "data/json/alien-earth-101-swarm-day-00061-2025-10-12.json": {
+      "sha256": "da9fb2fba24dad7d3b4099823495f58352f3ff490feaf3ecf65a3564e4192518",
+      "size": 457
+    },
+    "data/json/alien-earth-101-swarm-day-00062-2025-10-13.json": {
+      "sha256": "6f61b661100f8b0fa936dace740a3e8f97c6980c62b233ec5333e5eee68babf7",
+      "size": 457
+    },
+    "data/json/alien-earth-101-swarm-day-00063-2025-10-14.json": {
+      "sha256": "4d03f20cbabc6f07a93efe742793df354646cb2b9061b100daa3f3840baeaffb",
+      "size": 457
+    },
+    "data/json/alien-earth-101-swarm-day-00064-2025-10-15.json": {
+      "sha256": "01c71ed7718cc6bd1225825eefd29fa6af77c8070c38b2844474ca9c5f613e90",
+      "size": 457
+    },
+    "data/json/alien-earth-101-swarm-day-00065-2025-10-16.json": {
+      "sha256": "10ce43ab20b719ef2185632e6664226d30382bb9f6a6630def7f250730077228",
+      "size": 457
+    },
+    "data/json/alien-earth-101-swarm-day-00066-2025-10-17.json": {
+      "sha256": "505131df82b7fc3f6ab2bd463fa58cde9ff174d4932858eb5b0a1b70fc23800d",
+      "size": 457
+    },
+    "data/json/alien-earth-101-swarm-day-00067-2025-10-18.json": {
+      "sha256": "114ecb8c65b019f21637d0eb7f5cf8c67c2c434712236d077fa7d85205247ef4",
+      "size": 457
+    },
+    "data/json/alien-earth-101-swarm-day-00068-2025-10-19.json": {
+      "sha256": "b2ed75b0d910eff21a9a901a3f70d1a874771946ba5a0e1a6f231fee7f8f2b73",
+      "size": 457
+    },
+    "data/json/alien-earth-101-swarm-day-00069-2025-10-20.json": {
+      "sha256": "6a127ddb0e9b5b5a9aa8e8a6ef6f69737075c9af1969e1b83726efabe1721078",
+      "size": 457
+    },
+    "data/json/alien-earth-101-swarm-day-00070-2025-10-21.json": {
+      "sha256": "b56e965e89dea4945e6b84671257d6223144d34209cb2f2c497de03d78d9158a",
+      "size": 457
+    },
+    "data/json/alien-earth-101-swarm-day-00071-2025-10-22.json": {
+      "sha256": "a138f34cd9d386b6ca5498a8facd187a5a49cb8e2c95f333df291d282e6b924f",
+      "size": 457
+    },
+    "data/json/alien-earth-101-swarm-day-00072-2025-10-23.json": {
+      "sha256": "602e2e2305e879315ce4a9f904cb2707bd3a5a932d9993dc72199230aa1a8caa",
+      "size": 457
+    },
+    "data/json/alien-earth-101-swarm-day-00073-2025-10-24.json": {
+      "sha256": "700d56227657323324ded1853e4a7fb3497f2ef19cebe622c214eb304b23fffa",
+      "size": 457
+    },
+    "data/json/alien-earth-101-swarm-day-00074-2025-10-25.json": {
+      "sha256": "aec133dffcef918d00ed60ab9e8d0c5d509f884891c076f9e88937dc4d8cd428",
+      "size": 457
+    },
+    "data/json/alien-earth-101-swarm-day-00075-2025-10-26.json": {
+      "sha256": "13feaa1711f6c681bcfedbf28f7acc813c6205d8f970f0a6fa95f483f8b6741d",
+      "size": 457
+    },
+    "data/json/alien-earth-101-swarm-day-00076-2025-10-27.json": {
+      "sha256": "41c8b1f7df8a123b607a56f8e3594077486ec855ef562af6c45c2573e7a2e8a5",
+      "size": 457
+    },
+    "data/json/alien-earth-101-swarm-day-00077-2025-10-28.json": {
+      "sha256": "f65d859df008aaaeea0c1b9d053176c65cf5485ca19f66b4a62dda762aad87dd",
+      "size": 457
+    },
+    "data/json/alien-earth-101-swarm-day-00078-2025-10-29.json": {
+      "sha256": "0ec2e2815a6a2745fcfff93d0327d9b7fcc39ad1bc369db093e2e11433334df3",
+      "size": 457
+    },
+    "data/json/alien-earth-101-swarm-day-00079-2025-10-30.json": {
+      "sha256": "e7ab7e462e84b3cd630b0616a6617a9a1094fcadd5c440633b30d87040a6a59c",
+      "size": 457
+    },
+    "data/json/alien-earth-101-swarm-day-00080-2025-10-31.json": {
+      "sha256": "5bc4a81139bfc11061c7fc31b4e9047dea81e7e9f8c265b1902f9573090eca59",
+      "size": 457
+    },
+    "data/json/alien-earth-101-swarm-day-00081-2025-11-01.json": {
+      "sha256": "e5fc809b15fa093b5b18fb72ade4dae73c1ed7e8fec3ef89736d27547ae7d296",
+      "size": 457
+    },
+    "data/json/alien-earth-101-swarm-day-00082-2025-11-02.json": {
+      "sha256": "d75c32e58b82b654607e87dc384db8c01beffabaed25ac0ecf3ec03532707519",
+      "size": 457
+    },
+    "data/json/alien-earth-101-swarm-day-00083-2025-11-03.json": {
+      "sha256": "e29585583f3078278423a05f9e7aa23ceee4e26154902f1412057a77271c2904",
+      "size": 457
+    },
+    "data/json/alien-earth-101-swarm-day-00084-2025-11-04.json": {
+      "sha256": "84f9533b06ee975c2c79a08ef239a0b20bca0ec56de11572ed5ec9c570e0debc",
+      "size": 457
+    },
+    "data/json/alien-earth-101-swarm-day-00085-2025-11-05.json": {
+      "sha256": "35df88532bbc0cd0e698a6f00362c7786d43583f5f94331721dfa0ec3e00f1b4",
+      "size": 457
+    },
+    "data/json/alien-earth-101-swarm-day-00086-2025-11-06.json": {
+      "sha256": "b8dfd475a5bcaa574a2e3aa62e0fbbaf9bdb9540faeffa084074282f2c441c0a",
+      "size": 457
+    },
+    "data/json/alien-earth-101-swarm-day-00087-2025-11-07.json": {
+      "sha256": "999afa6b50bd18da38aa1bcc967e9134dfb6c6facb9c617a21d8b62a696cdc96",
+      "size": 457
+    },
+    "data/json/alien-earth-101-swarm-day-00088-2025-11-08.json": {
+      "sha256": "b150357d4f4987ec5855e1191824c516c8f7f43ae24e456ed16751f342aa8b70",
+      "size": 457
+    },
+    "data/json/alien-earth-101-swarm-day-00089-2025-11-09.json": {
+      "sha256": "bb1315b1ded80976166fbcebeb2801c6a1e8c39590be367a247566ef36418378",
+      "size": 457
+    },
+    "data/json/alien-earth-101-swarm-day-00090-2025-11-10.json": {
+      "sha256": "e79913d2cef8a2e64429465e698073e199bcac775389e75cc20fa16de598badb",
+      "size": 457
+    },
+    "data/json/alien-earth-101-swarm-day-00091-2025-11-11.json": {
+      "sha256": "65c2e22546ee0d9b7214a51d8ba3dd22f0dc4e3cbccec29a7b604d7b11e477d6",
+      "size": 457
+    },
+    "data/json/alien-earth-101-swarm-day-00092-2025-11-12.json": {
+      "sha256": "582ecbf0555ff062360175f8caa9ca7eec8b5037847748660e1174260dabccb1",
+      "size": 457
+    },
+    "data/json/alien-earth-101-swarm-day-00093-2025-11-13.json": {
+      "sha256": "fce582391a2d688b8de9b79e858bf2151c13b4d257fbd5d54eb42201d5b8b856",
+      "size": 457
+    },
+    "data/json/alien-earth-101-swarm-day-00094-2025-11-14.json": {
+      "sha256": "dbbb0e27b49dba7e11e987d556d241bec1fb3c0e3d72ac7db46916734d52d3b8",
+      "size": 457
+    },
+    "data/json/alien-earth-101-swarm-day-00095-2025-11-15.json": {
+      "sha256": "c3d3643dd4730db8cbb77c44cfce79ac9553f83bbde234558b86c621d7b16726",
+      "size": 457
+    },
+    "data/json/alien-earth-101-swarm-day-00096-2025-11-16.json": {
+      "sha256": "be83b0a216a8ec8ff00696845be8b483d2213271d20c330c9089a667ec941a32",
+      "size": 457
+    },
+    "data/json/alien-earth-101-swarm-day-00097-2025-11-17.json": {
+      "sha256": "6c37cd57b6856a3675a8bc5b40f6fc7f9eef3d402cdcd9d7bc7d51844fc80055",
+      "size": 457
+    },
+    "data/json/alien-earth-101-swarm-day-00098-2025-11-18.json": {
+      "sha256": "5e156f38fa169b4eccbd229babf28cd95ac148e255eb805f0ea86fab90934fea",
+      "size": 457
+    },
+    "data/json/alien-earth-101-swarm-day-00099-2025-11-19.json": {
+      "sha256": "87998afe4e77b76037d0e0a28702f7ee9fd36b9347ffe055751343fbadd9eec4",
+      "size": 457
+    },
+    "data/json/alien-earth-101-swarm-day-00100-2025-11-20.json": {
+      "sha256": "86a0c6a963fcfa3ae6a64be227c5b27aba2cf3333115aeae56324b93189c5d62",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00101-2025-11-21.json": {
+      "sha256": "df53113c26435b0ff078f1bd32e7c185daae5182d288ce71f1f800fb59643d4a",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00102-2025-11-22.json": {
+      "sha256": "624db059eaab8754169494d1031c4d9957aa316e1081723a2ea573e270ca193b",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00103-2025-11-23.json": {
+      "sha256": "cb054726258e9475937c7dee5a6b83a79010c05930ab1213d4986dac350dbd71",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00104-2025-11-24.json": {
+      "sha256": "d82499bfd22a3b33f722a8e817cb7dff98548ef995284aeb206c2e05fe1b4067",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00105-2025-11-25.json": {
+      "sha256": "3175371e8f35cd25e8de43f538a56ec5e0505d843829ab5ea6b6e53a91c0f1fe",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00106-2025-11-26.json": {
+      "sha256": "38fb72b0ca2f75a66d68887c4e9067740708bb58f8990b5f814c8260df554880",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00107-2025-11-27.json": {
+      "sha256": "fdfd92129f6ade7a6ba44c38f6cbc3deebdd11707b250f19b8719e829d54cc96",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00108-2025-11-28.json": {
+      "sha256": "a0549c04f0efafca0d52bf6829546fbfa97ed7598fb336526c2c71d6c4fc18d6",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00109-2025-11-29.json": {
+      "sha256": "4132d58d5245c35a8fd4ef65295384a800aeb1ed3008cadbda7661979e44041d",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00110-2025-11-30.json": {
+      "sha256": "d9fdae4609f6c4ecf00b3e1c490ebab8b91a94d40e1b72ecc3456c996a32415b",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00111-2025-12-01.json": {
+      "sha256": "96381e0ecabbeec8e75f0f901410aafa400c615f458f800cb650559090dbb3f3",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00112-2025-12-02.json": {
+      "sha256": "ce1d82e03dbad86693b6fae035fabcef859f9e971e55b6f92f71ad5b0bdcebf4",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00113-2025-12-03.json": {
+      "sha256": "a5f87b4ef52cca378d59a7091e5559ec56affc7b4a108ad6e5854174108736ce",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00114-2025-12-04.json": {
+      "sha256": "1c431d26020b701ac25f69e674af60ce679e37143e5b52cb38b8c6676d54b94c",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00115-2025-12-05.json": {
+      "sha256": "6da06d1cda65f312181b416bc5d7be60af95e8995176b61e7da2efc24c11ed9e",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00116-2025-12-06.json": {
+      "sha256": "4962ff02cd7f4617416a5bc5ca1456750c4318a80de003a763961431e4d32a27",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00117-2025-12-07.json": {
+      "sha256": "481758ccfa28f8f3d75c8ca1a6ce99f38c0f1f0a43e4d790bd322bfe540e701a",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00118-2025-12-08.json": {
+      "sha256": "c67371506822bffe7f1228c1cc1a91eb7490bace42c87c377bf74f88d893d32c",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00119-2025-12-09.json": {
+      "sha256": "5a20bc0f3920d692f351cf93e693f0337ea2f133714ffed2eb70632cd38f44ef",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00120-2025-12-10.json": {
+      "sha256": "16e2be95d59ca315e4e053e313c4498110f9d461e70aed43f231e28a8c101acd",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00121-2025-12-11.json": {
+      "sha256": "a3c6a1247d555639063c78a575323085f0460ffae400dde162d0dbeefd86f8f2",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00122-2025-12-12.json": {
+      "sha256": "75f0a741b79c291a834791b0a363bf2d2865b61f9f2e5b748664fbda50c4f5f1",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00123-2025-12-13.json": {
+      "sha256": "b0af7371b626fa13e5dc9c323c729b7796c6e868bd3e439c8e61d52aa8d146eb",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00124-2025-12-14.json": {
+      "sha256": "10c825a18ca73cbdb6f5f55b1e29fb937e639d8255ea3d12c1b73ac2694f915d",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00125-2025-12-15.json": {
+      "sha256": "0656bc495183d5dea78796068bce4c09812712dbd3e65721346d43da2eb5beca",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00126-2025-12-16.json": {
+      "sha256": "4a4dce644f7a008c202968b66b65a712d56d9176d87c25504ab0f0dc90da94ff",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00127-2025-12-17.json": {
+      "sha256": "908b7915aadc8a0f132ff98b286698647e0b191e6afc6098e09da701c967d2d7",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00128-2025-12-18.json": {
+      "sha256": "28adc949031c9ec7f0d87dd12104f0470f5f7486d3a9a653aca739b65c71ef5b",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00129-2025-12-19.json": {
+      "sha256": "126254cde3ceacacff7aaed6633680c6064c6546a2963ee4bf5a6fbf0a09b1de",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00130-2025-12-20.json": {
+      "sha256": "089cc1caaed63fbf59d20f5acb3798425d2edcd0e2e6a4fdb01908a2f072aa58",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00131-2025-12-21.json": {
+      "sha256": "c628552198a14af6b60ba2cc93b5733b8867b5e2fc7cc53f3d6455700624425f",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00132-2025-12-22.json": {
+      "sha256": "d3a4d7a37e73294832b91fbf31d218246073a0d23746e02931a4448d31d8073e",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00133-2025-12-23.json": {
+      "sha256": "34f06006c000d5f1a024f2d449104a8261364410a41423554687232b04339ee9",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00134-2025-12-24.json": {
+      "sha256": "b24c467ad59edcee637ccd94525504265eb9e5efcf743cc8ecbff903c505a05a",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00135-2025-12-25.json": {
+      "sha256": "d33ef9ac786d18f45f11771fcb35c11eec42df91bee78cfdd36ce57493276ac3",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00136-2025-12-26.json": {
+      "sha256": "50947d1a9ef31d3445f94f88de6e5093d97c094c8a28d273a796cae459034e1c",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00137-2025-12-27.json": {
+      "sha256": "a547484d89026e3a198c9c264568f0fc4f5ce388a389e7d11c3f0515e2461bac",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00138-2025-12-28.json": {
+      "sha256": "698c8a248124b41f300c842c0efd2504efa2b08dcbaca5b333e11b857c502046",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00139-2025-12-29.json": {
+      "sha256": "f706a37ea17c0595d3ce0e074dce3058fdba7a8058315a8bb7ca0a7df0d7b0fd",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00140-2025-12-30.json": {
+      "sha256": "5644ce6a9dbfa223b36c8f8d5acc21023a9ec03e359d1735208408864bee8ec8",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00141-2025-12-31.json": {
+      "sha256": "709b98afc0305760410f826a4cd9367974e2896ec3d5e7068314ce044793c30e",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00142-2026-01-01.json": {
+      "sha256": "7e4982e55c25e5b641f629c1b862869a9c4c765ca6919d39e2fac9f2ec4a0e91",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00143-2026-01-02.json": {
+      "sha256": "b85036639d047748ee9e2271cc0e9b1b915ee2d17ffa880efa9850ba5995768e",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00144-2026-01-03.json": {
+      "sha256": "56697fa8f87f9936ef885fe7ea80605a1977d6a9e33b19fcd0cc7a0c6f13b343",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00145-2026-01-04.json": {
+      "sha256": "8c6d6bf947d710652a40b0e88e5f774bd1f5e7101ccddab544d6a73291660716",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00146-2026-01-05.json": {
+      "sha256": "e2728e030bf0bdfe17b055f73c968552c01380b38575a3ce4782835200f01839",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00147-2026-01-06.json": {
+      "sha256": "c9c371a32918ea3315cc058041981eb705559c317afeb9713d9cdd51fa2c4f61",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00148-2026-01-07.json": {
+      "sha256": "af05042e14d577d79202126ef9c931eaf48adebd5c2e6c5c8a10bff7b8f9a504",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00149-2026-01-08.json": {
+      "sha256": "26ee9af8b6e170afd106f274e4b317b86589bbfbd43dd5d5533104de2ee15728",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00150-2026-01-09.json": {
+      "sha256": "b2551044a6c1469b43cadf1fe26ff5f1dd4a204fda15e974cb0c3f3bbe07c74f",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00151-2026-01-10.json": {
+      "sha256": "a6922779a227cef5af34fe50e9a98758c27b2437c729d0c1cf65aab0f5582e9e",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00152-2026-01-11.json": {
+      "sha256": "a13bb0634ebcd471d0f391528f924b54f899020feb4be5fee424f6a3a33c8f1b",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00153-2026-01-12.json": {
+      "sha256": "3645e2b25c2886d0a8c4cfccf41a20d6c2e3e867efbe44edee37ad38f1b9bb9d",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00154-2026-01-13.json": {
+      "sha256": "1f6241b4d85371008659e8424848fbb052a7c320a5f6bb26f8fb3dd5eea73c14",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00155-2026-01-14.json": {
+      "sha256": "290dffdb862adfbede21f50c4156ba440aea4f6009fed6cd49078e5bcf2db6bc",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00156-2026-01-15.json": {
+      "sha256": "3604abddb0a554a5167b93823bca7561e327982f3b92b3b8c625187ee022e6e7",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00157-2026-01-16.json": {
+      "sha256": "4e41468df2546145a5a8eeb03aa98966e466b54e0c400293a2b6aa14822c6e6f",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00158-2026-01-17.json": {
+      "sha256": "835c7a4a03d374567213d810dbd22314f9e37a084597c7d43184023a3da307b6",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00159-2026-01-18.json": {
+      "sha256": "67628e9641b850c72a6d8ae04a9f68e9463563f3763486436b788df60b7891c6",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00160-2026-01-19.json": {
+      "sha256": "b3438b95f47bd4a72859f57ce997c67a7efdc1b4c688db3e2915f9482b73cd81",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00161-2026-01-20.json": {
+      "sha256": "71d0b14d70e6da1afc2b862142d81ad8eb0a7bfc0ca55e6302787574acf7a87a",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00162-2026-01-21.json": {
+      "sha256": "462c01765b36d1f0d0b44ae5bf0848574dde5b094ae55a78909f90f2e28e0d9d",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00163-2026-01-22.json": {
+      "sha256": "646c6d85a7b6268cdbb6b8b6770c116dcd9c0cc6ba1cf524a00071072076d324",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00164-2026-01-23.json": {
+      "sha256": "40fa4869862e5b76567d9dd00b8f8a914661bac793037a209ed20065c85abde5",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00165-2026-01-24.json": {
+      "sha256": "31c4d3bbcb393d33fccc353efcbd992bb4fe0ebaae75b9fff6821735fb979f6d",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00166-2026-01-25.json": {
+      "sha256": "7618fc3f2fd04fbe618a92dbc73e7393ffcec41a0eb08e1e7d91c312111c1a82",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00167-2026-01-26.json": {
+      "sha256": "0da064a624bdafac603128bcee67348d131592fc3c8ef6d380cc0b1587d3e82b",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00168-2026-01-27.json": {
+      "sha256": "7dbb6e62161827bc6c5f5358e8c15ab1dafff4546ca863dbe86dd4f12290e0ae",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00169-2026-01-28.json": {
+      "sha256": "0eca6f27cc2362fd7aafd55b362f48613fb52ab4a0238177455f0f7b664c865c",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00170-2026-01-29.json": {
+      "sha256": "f4d2c87bdb81e5fa5cb368a911ce6e9ba75bc9591437942f7148c5e859388c77",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00171-2026-01-30.json": {
+      "sha256": "22be779e20200d06ddd33f01a68cae189e366c44013cbbe624517befcc745263",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00172-2026-01-31.json": {
+      "sha256": "5b4e52469a638c4f5fec129792ae5ce1767360ea5270730c9ab4f6ccf1178272",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00173-2026-02-01.json": {
+      "sha256": "7547eaacdad54376772e2f3911236d5c101cbfe328aa6a5ec6c34f0d9f33fdfa",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00174-2026-02-02.json": {
+      "sha256": "afc388fc73d0f24c0f8a07e0ab6e97826247a3218960796838248395fdb8c1fc",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00175-2026-02-03.json": {
+      "sha256": "508583a523cde5cda0302d413ac86ec570f80819cf028a729e045c20fcc83941",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00176-2026-02-04.json": {
+      "sha256": "495c722795a160b420f3105cc6b777fdc88ba6fa01824dea889b8885ac6fae34",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00177-2026-02-05.json": {
+      "sha256": "f4f553fe1c31b988cd338c2ca549f03076d2919652368cc3d0d82e866a9925fb",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00178-2026-02-06.json": {
+      "sha256": "329cac848bea2e4cbc4b0fa3f861852a5f4c86ad82412319e79edc31e69ca235",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00179-2026-02-07.json": {
+      "sha256": "b8f817d8cd29ded8d73d1ce0142e7d25d3c4612ca5ae18e5cee2e5991984c97c",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00180-2026-02-08.json": {
+      "sha256": "eaa8af1d93d0c59e9139e9b632ea0b96f5d3e9503fd84178cfe2ea89fa992d24",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00181-2026-02-09.json": {
+      "sha256": "812e790df3a48bc3d038934c6dd90ec53bbe1866f7a062de0dcada78ae6ac3e0",
+      "size": 458
+    },
+    "data/json/alien-earth-101-swarm-day-00182-2026-02-10.json": {
+      "sha256": "479dba164b776d6470eb1444a7eed4be826d5d4804fd2beab1d6ef739ff55da2",
+      "size": 458
+    }
+  },
+  "schema": "alpha60-year-day-product-bundle/1",
+  "source_revisions": {
+    "aggregate_binary": {
+      "sha256": "80bdf6691c0ef6ed5fcc7fa3a6462748104e1935ce5b2a4df3861e11bb13195a",
+      "size": 38582648
+    },
+    "alpha60": "ee81b50bb9790eb0c52125cba38ea8787a1a140f",
+    "alpha60_data": "8faeae67a5d274d1fc00bffe9fc9318329163b20",
+    "day_product_contract": {
+      "sha256": "72cef2b39ed0d6c6f6120f86d21517dd8d4f76982935c36e8d290638c4a3a10b",
+      "size": 9267
+    },
+    "metadata": "fbeb53a0b523f937fae2f23d14689d8c5c84dd5a",
+    "package_script": {
+      "sha256": "79bb170e38712e3653cf3cd8b781ddddf293af5eb6a916b4cb881a67cab8cf97",
+      "size": 11299
+    }
+  },
+  "status": "pass"
+}
