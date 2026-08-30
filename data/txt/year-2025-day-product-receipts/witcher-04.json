@@ -1,0 +1,1710 @@
+{
+  "archive": {
+    "path": "/home/bkoz/src/alpha60-xperiments/year-2025-archives/witcher-04.cache/cache.20260429.tar.xz",
+    "sha256": "4bf1e561ef6434bffff119cf2e85bcf9adf479f064cbff7b65d51f06ae7800e6",
+    "size": 3655566904
+  },
+  "authorization": {
+    "archive_mutated": false,
+    "excluded_member_classes": [
+      "hour",
+      "week",
+      "cumulative"
+    ],
+    "raw_samples_opened": false,
+    "scope": "read only streaming of per-torrent day records"
+  },
+  "collection_key": "witcher-04",
+  "day_cache_stream_contract": {
+    "authorization": {
+      "archive_mutated": false,
+      "excluded_member_classes": [
+        "hour",
+        "week",
+        "cumulative"
+      ],
+      "raw_samples_opened": false,
+      "scope": "read only streaming of per-torrent day records"
+    },
+    "available_day_products": 180,
+    "cache_members": 76351,
+    "collection_key": "witcher-04",
+    "first_date": "2025-10-30",
+    "first_index": 1,
+    "indices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144,
+      145,
+      146,
+      147,
+      148,
+      149,
+      150,
+      151,
+      152,
+      153,
+      154,
+      155,
+      156,
+      157,
+      158,
+      159,
+      160,
+      161,
+      162,
+      163,
+      164,
+      165,
+      166,
+      167,
+      168,
+      169,
+      170,
+      171,
+      172,
+      173,
+      174,
+      175,
+      176,
+      177,
+      178,
+      179,
+      180,
+      181,
+      182
+    ],
+    "last_date": "2026-04-29",
+    "last_index": 182,
+    "missing_indices": [
+      40,
+      41
+    ],
+    "sample_span_days": 182,
+    "schema": "alpha60-day-cache-stream-contract/1",
+    "sparse": true,
+    "status": "pass"
+  },
+  "day_product_contract": {
+    "collection_key": "witcher-04",
+    "day_products": 180,
+    "first_date": "2025-10-30",
+    "first_index": 1,
+    "geojson_data_version": "20260701",
+    "ip_geolocation_version": "6:1777968300",
+    "json_data_version": "2026-08-05",
+    "last_date": "2026-04-29",
+    "last_index": 182,
+    "schema": "alpha60-day-product-contract/1",
+    "sparse": true,
+    "status": "pass"
+  },
+  "publications": {
+    "data/geojson.day/witcher-04-day-00001.geojson.gz": {
+      "sha256": "e3caaac6fd37f76cdd5fc4f1e8e31c08e9e44bf85da3231c0d8ea21ce9daf20f",
+      "size": 168378
+    },
+    "data/geojson.day/witcher-04-day-00002.geojson.gz": {
+      "sha256": "83c36bd6e0587e5d3f90e004c63da49217a437afe8b3419a4ff3ac4a98167c80",
+      "size": 244603
+    },
+    "data/geojson.day/witcher-04-day-00003.geojson.gz": {
+      "sha256": "3f94d0c1a3d358ab761d2079163cca0496a2d0f771b38b0ccfd367547d61bc7d",
+      "size": 236852
+    },
+    "data/geojson.day/witcher-04-day-00004.geojson.gz": {
+      "sha256": "746c35b4b8b654deb1db2a3541e83faf33c8bd3fd0a2d82a5540df35f169400e",
+      "size": 279832
+    },
+    "data/geojson.day/witcher-04-day-00005.geojson.gz": {
+      "sha256": "ce7f442c3f117d3dee3859abcc33429b84250729994ad17bae1fc8376c18f328",
+      "size": 186481
+    },
+    "data/geojson.day/witcher-04-day-00006.geojson.gz": {
+      "sha256": "ea6b1d25923193cbcc572306a60d6a8ef4585a7b4168d74f310e0fbbf9bb16da",
+      "size": 280527
+    },
+    "data/geojson.day/witcher-04-day-00007.geojson.gz": {
+      "sha256": "cada27af2f1cbaf8e6892345452cb145ef01583f3506106c48eb2727ff6dbc20",
+      "size": 282025
+    },
+    "data/geojson.day/witcher-04-day-00008.geojson.gz": {
+      "sha256": "09d9117cc982145b3be328c55a9aa7b6605f72bd1f3e140d476c1d12ecd9b329",
+      "size": 282959
+    },
+    "data/geojson.day/witcher-04-day-00009.geojson.gz": {
+      "sha256": "6cc36b0eae992e76d8d2786591f2a03a3f3cca5ee28882f3dd9ba6bf75704aae",
+      "size": 270360
+    },
+    "data/geojson.day/witcher-04-day-00010.geojson.gz": {
+      "sha256": "c6d7cbcc515875c7ba656cb20b8f196067ccaedb386fe64bae2bf1e152119756",
+      "size": 273820
+    },
+    "data/geojson.day/witcher-04-day-00011.geojson.gz": {
+      "sha256": "f27994733f32f138eafa315b457479357c8fc7e5f35c84cb6a55ca4b8b8dbbe2",
+      "size": 265638
+    },
+    "data/geojson.day/witcher-04-day-00012.geojson.gz": {
+      "sha256": "0587e48b206732527f783878672c961d09b37fcfc022cb80bb817d14f39a7675",
+      "size": 305965
+    },
+    "data/geojson.day/witcher-04-day-00013.geojson.gz": {
+      "sha256": "04d90e773265f59f0b18a375e6502abae5202075a247056bd50e5dc5279101c4",
+      "size": 302741
+    },
+    "data/geojson.day/witcher-04-day-00014.geojson.gz": {
+      "sha256": "bec31b3aecadc0c2b67260baa26246c70160cf93fff242343e537f5ff92d2784",
+      "size": 306021
+    },
+    "data/geojson.day/witcher-04-day-00015.geojson.gz": {
+      "sha256": "c37dab588a6cb2a54dfda573310d6b297f076aa360a87085e0de0fec6887b789",
+      "size": 287393
+    },
+    "data/geojson.day/witcher-04-day-00016.geojson.gz": {
+      "sha256": "7b044bfe9d5f9cb89dc96323ee1fbc0b8b5b0372cc857ba990aa57b190a53c9a",
+      "size": 304169
+    },
+    "data/geojson.day/witcher-04-day-00017.geojson.gz": {
+      "sha256": "e54b273c864dca7ded7f8f7baa428f9396945fde86765054cf2890c20049dd31",
+      "size": 299471
+    },
+    "data/geojson.day/witcher-04-day-00018.geojson.gz": {
+      "sha256": "bbef0eb3566ed10ce87171c817b3a3ae31aca59757e6ba0fa8174a9de1e113c3",
+      "size": 290748
+    },
+    "data/geojson.day/witcher-04-day-00019.geojson.gz": {
+      "sha256": "7ce5288b44cdd1b3bb14ea7581759ca8d5681a3c5f9be3ef9f68ba93a6ee3f00",
+      "size": 312340
+    },
+    "data/geojson.day/witcher-04-day-00020.geojson.gz": {
+      "sha256": "b75b4d3122c7dcfdcc5fd07652e9cfd548f48ad6ed37687dbe41f55fa7908408",
+      "size": 303249
+    },
+    "data/geojson.day/witcher-04-day-00021.geojson.gz": {
+      "sha256": "d93c56aa176953c72ad0e6c6ba269642642d151deb21c0e68ca8b9403a39223f",
+      "size": 107501
+    },
+    "data/geojson.day/witcher-04-day-00022.geojson.gz": {
+      "sha256": "27a8f3eaef529b5e1b35132ea7f734f428ab9a9c49945067b5fb4ddf4ffa1f84",
+      "size": 311199
+    },
+    "data/geojson.day/witcher-04-day-00023.geojson.gz": {
+      "sha256": "f9f5ed426ae2c94c89e7b5989b25566b5adfca86d51bd96b534d87bf1ff30812",
+      "size": 354095
+    },
+    "data/geojson.day/witcher-04-day-00024.geojson.gz": {
+      "sha256": "c54a1dfe57b9da3966ae59295d226897738bc5d88d00c77ebf4de2a01c2eac66",
+      "size": 304153
+    },
+    "data/geojson.day/witcher-04-day-00025.geojson.gz": {
+      "sha256": "f62ddfe17f9efcfe25100f21c20ea440d474c6af7a2329c4aea5757a58261a4e",
+      "size": 300326
+    },
+    "data/geojson.day/witcher-04-day-00026.geojson.gz": {
+      "sha256": "7372fb67fc5944ffcdaff6ef38e175e1077727dbef0f49ba8c7dbdd12ad6e93a",
+      "size": 311730
+    },
+    "data/geojson.day/witcher-04-day-00027.geojson.gz": {
+      "sha256": "098bf1040093e58f2a23d97f59e485aa859f4980bf37beb8e3f62f0760fae967",
+      "size": 303692
+    },
+    "data/geojson.day/witcher-04-day-00028.geojson.gz": {
+      "sha256": "b3f2e5982e576ea3dc6f53867448f25bc90f3d91f44ae68f43ab99be07732c47",
+      "size": 311390
+    },
+    "data/geojson.day/witcher-04-day-00029.geojson.gz": {
+      "sha256": "4ae694245344bc94dd53ba71a65814a1cf604f53b4a1019389597fa738e88f83",
+      "size": 320008
+    },
+    "data/geojson.day/witcher-04-day-00030.geojson.gz": {
+      "sha256": "a548cc4ec8fe8097db64c783c0c37fddfd8bd55e3e5434469f6e5888b75b00d6",
+      "size": 299367
+    },
+    "data/geojson.day/witcher-04-day-00031.geojson.gz": {
+      "sha256": "b8cd3d9c0b3cb3c9017d6f2e91e324def3698913607e8e978471cf2d6846d675",
+      "size": 295636
+    },
+    "data/geojson.day/witcher-04-day-00032.geojson.gz": {
+      "sha256": "2dea6455b9c6b0a50e55946e77860212df099f800e5d8b1136a27ca2763ad129",
+      "size": 304260
+    },
+    "data/geojson.day/witcher-04-day-00033.geojson.gz": {
+      "sha256": "46408cc529ba0bd4b11474f7163762d57a8ea0c3726c03451fd4d7c05df0ea41",
+      "size": 307827
+    },
+    "data/geojson.day/witcher-04-day-00034.geojson.gz": {
+      "sha256": "6aaa2a83f32c897a90df793cba0fd7bc2ea9729ce0ceb318fbd50b623c2ed1e5",
+      "size": 314465
+    },
+    "data/geojson.day/witcher-04-day-00035.geojson.gz": {
+      "sha256": "86c4dc4c2b135b2e6a285b7f9482de86a270d2a6e8ecce1855e41676d60fad40",
+      "size": 294573
+    },
+    "data/geojson.day/witcher-04-day-00036.geojson.gz": {
+      "sha256": "f3963d8c3e9d34569b0f31639f86f5e6e62fcec73a3bc06970a1ede1ee6a707f",
+      "size": 295817
+    },
+    "data/geojson.day/witcher-04-day-00037.geojson.gz": {
+      "sha256": "a677e3bf0bf772d395920b48c118cbfacfe1aea9333e80594754ffe02e074162",
+      "size": 290832
+    },
+    "data/geojson.day/witcher-04-day-00038.geojson.gz": {
+      "sha256": "7e0d1dc4a92c263fc4e7209db0b692fed8a1f936f6fff7bcd6ec78687535446a",
+      "size": 282967
+    },
+    "data/geojson.day/witcher-04-day-00039.geojson.gz": {
+      "sha256": "341c9ccee20ec88d0dc0e01d9ab2d198f00644c6d6e640c4cc6b23d8de9e758e",
+      "size": 282123
+    },
+    "data/geojson.day/witcher-04-day-00042.geojson.gz": {
+      "sha256": "e78283af82a5087e56a82e821618f8b980baf2d29ff6a95b101735900d51ed0e",
+      "size": 298257
+    },
+    "data/geojson.day/witcher-04-day-00043.geojson.gz": {
+      "sha256": "6ac1e00484c1890c0cbb146ff38c394277c4a2ae4d127b0142f5043a9abd5986",
+      "size": 287570
+    },
+    "data/geojson.day/witcher-04-day-00044.geojson.gz": {
+      "sha256": "793010de42ed792b9c095d6137365c7b28b4b29f823610537f59abc61f3906fc",
+      "size": 275137
+    },
+    "data/geojson.day/witcher-04-day-00045.geojson.gz": {
+      "sha256": "90236ce37972a83ed45d7b38d8bc264979834a1c514055ba7b9777cc1f432ded",
+      "size": 262951
+    },
+    "data/geojson.day/witcher-04-day-00046.geojson.gz": {
+      "sha256": "f83253fa8c394724a8a0ffae390435924eaf7a6b51cae0e42d5ecc2d11d82664",
+      "size": 251249
+    },
+    "data/geojson.day/witcher-04-day-00047.geojson.gz": {
+      "sha256": "ff033a8aa8b0fae10697c38d6fa8bfba64b630ee35c34dc66f928440c71d2707",
+      "size": 289729
+    },
+    "data/geojson.day/witcher-04-day-00048.geojson.gz": {
+      "sha256": "8fd8d07a73e34e5d9ba02751764276b800f33d672fe5c542f3de32b33a9f4e66",
+      "size": 294504
+    },
+    "data/geojson.day/witcher-04-day-00049.geojson.gz": {
+      "sha256": "be73ebaa36fe066ee446b6e55fda484257f9482c54dc9dfed1a28a35d3979e5e",
+      "size": 295984
+    },
+    "data/geojson.day/witcher-04-day-00050.geojson.gz": {
+      "sha256": "03ee51ad2434fee16e4777123cf4a9fb079df6959cecbf2815acc53ad930a6e2",
+      "size": 288051
+    },
+    "data/geojson.day/witcher-04-day-00051.geojson.gz": {
+      "sha256": "e5b462084567fad514142a0082462a004418b0084f34a0af5c22f5d96f319fd3",
+      "size": 279657
+    },
+    "data/geojson.day/witcher-04-day-00052.geojson.gz": {
+      "sha256": "9f327504b42353b8527f26a2d63ae586735399d52ae27ce3c03e740089f50225",
+      "size": 271603
+    },
+    "data/geojson.day/witcher-04-day-00053.geojson.gz": {
+      "sha256": "f34e590cf2a2968c7e0278eb8409c1b005b59c156e11f507d24bef263fb995d4",
+      "size": 277943
+    },
+    "data/geojson.day/witcher-04-day-00054.geojson.gz": {
+      "sha256": "0640d036eb401b8f42e625a42b4d7801cc2cd8f42292964a7923eecc3ae54dd6",
+      "size": 233503
+    },
+    "data/geojson.day/witcher-04-day-00055.geojson.gz": {
+      "sha256": "e376534bdb96f77d31f3b0fbf1b3fdee130abff0723b4df3bb4548082c11f345",
+      "size": 170449
+    },
+    "data/geojson.day/witcher-04-day-00056.geojson.gz": {
+      "sha256": "c45a8a9e0982fe91a4da81441dd646cdf04021270c08c1dab7a10eaec6a20a76",
+      "size": 287837
+    },
+    "data/geojson.day/witcher-04-day-00057.geojson.gz": {
+      "sha256": "03f6b6596936945ace36ac94cf777a23bb0cfafba4b49c0216b48d275c7f72b2",
+      "size": 273201
+    },
+    "data/geojson.day/witcher-04-day-00058.geojson.gz": {
+      "sha256": "77a0c39c71abfa2eb5e71e2e511dce7a2ee2195854f4d284a7f4f9c4d6df6cd5",
+      "size": 261955
+    },
+    "data/geojson.day/witcher-04-day-00059.geojson.gz": {
+      "sha256": "5c0bbcf68493b725fabe3d5d98b7fb7b6b08c226a222681fdfdadffb404c34a0",
+      "size": 256020
+    },
+    "data/geojson.day/witcher-04-day-00060.geojson.gz": {
+      "sha256": "8ad8787a392c68c085d6c8ec85a719a1f4679dd260c6365a5d301851a6f9512f",
+      "size": 134751
+    },
+    "data/geojson.day/witcher-04-day-00061.geojson.gz": {
+      "sha256": "a0d9b4e918f91c029f9945ea315903f7fe5e5d097cab3bda30d6431cd1c1fb66",
+      "size": 276421
+    },
+    "data/geojson.day/witcher-04-day-00062.geojson.gz": {
+      "sha256": "441c06b1c080d025a77b83688ccfe2b8822e5b12b27ffa106cbc4240093241cd",
+      "size": 268298
+    },
+    "data/geojson.day/witcher-04-day-00063.geojson.gz": {
+      "sha256": "ec513ac39564731038ae27587344eab9efc0c42ae8667551bb78b0623b06a548",
+      "size": 274242
+    },
+    "data/geojson.day/witcher-04-day-00064.geojson.gz": {
+      "sha256": "7ed02e038d7f1fe5941198f38f6889c4ebfe10e756b6e1fe711defeae6244a1d",
+      "size": 287880
+    },
+    "data/geojson.day/witcher-04-day-00065.geojson.gz": {
+      "sha256": "ec0d7a1a5da9f2d73fda13d3a52f1e0f98c202f4f0df6746627b63b904b7bb36",
+      "size": 296481
+    },
+    "data/geojson.day/witcher-04-day-00066.geojson.gz": {
+      "sha256": "a65d7c1e482a06896c667fea8a1483f9689b779b50757fce85cb19bbbf4d8024",
+      "size": 276727
+    },
+    "data/geojson.day/witcher-04-day-00067.geojson.gz": {
+      "sha256": "8076bd7ecec883d10035f764bc85e98470d9434123e84df4cf421edfe6001a40",
+      "size": 274628
+    },
+    "data/geojson.day/witcher-04-day-00068.geojson.gz": {
+      "sha256": "310583195c88eabd5e40b19515b3771ad0e5324ef56bf7c03a133f772a844e3b",
+      "size": 291982
+    },
+    "data/geojson.day/witcher-04-day-00069.geojson.gz": {
+      "sha256": "d7875bc12e0c1367ff6894adcb2c7f88d03c8c5c47915c9ff56cafeeece68a7e",
+      "size": 273995
+    },
+    "data/geojson.day/witcher-04-day-00070.geojson.gz": {
+      "sha256": "cdc96d1e1cf6066ea6773fc3f963c8931e8641569ac940ad9fe9a52c620d3c67",
+      "size": 294608
+    },
+    "data/geojson.day/witcher-04-day-00071.geojson.gz": {
+      "sha256": "e94aae655503cbcea9df7889c14f29fee04bc173f9f92cecff482191118ed4b5",
+      "size": 302263
+    },
+    "data/geojson.day/witcher-04-day-00072.geojson.gz": {
+      "sha256": "230b4f210bbbd42f188d4ad337491558f8cdffefedb8eae81bd739c65b644010",
+      "size": 291614
+    },
+    "data/geojson.day/witcher-04-day-00073.geojson.gz": {
+      "sha256": "6fa409f67d5fd505519a6bfc98c1b3f5f3bcc14e9b10cb9a0625e22aa11e2dd0",
+      "size": 276711
+    },
+    "data/geojson.day/witcher-04-day-00074.geojson.gz": {
+      "sha256": "ccf3ea7721fb860fc5e7e9d5867814479af5452ea2a2d436e487cc003ff56d72",
+      "size": 280550
+    },
+    "data/geojson.day/witcher-04-day-00075.geojson.gz": {
+      "sha256": "b7214db5fcf7a66b83e54877af47e5fb7248f15821b8a21f91b8e3df89779ccc",
+      "size": 271597
+    },
+    "data/geojson.day/witcher-04-day-00076.geojson.gz": {
+      "sha256": "b8ad11985a4b40d47de9e7eff6cf5eafdbff9d84fb9d446033ed15c5cc6250c4",
+      "size": 274737
+    },
+    "data/geojson.day/witcher-04-day-00077.geojson.gz": {
+      "sha256": "a0cbeac4fc15b345f885997cf2caecfb87b555103b4d30b742782238207ff355",
+      "size": 283523
+    },
+    "data/geojson.day/witcher-04-day-00078.geojson.gz": {
+      "sha256": "a69e5f0f0fda4269716269462dac2a84cc6a7b80f5221c6eef020dbca934448e",
+      "size": 275949
+    },
+    "data/geojson.day/witcher-04-day-00079.geojson.gz": {
+      "sha256": "a338088dac562d91ff49e853994b4292e655a25c161f30ea39affa52a2331425",
+      "size": 267950
+    },
+    "data/geojson.day/witcher-04-day-00080.geojson.gz": {
+      "sha256": "6fbd616b93713de8e07ac401dfb70a944449e6f55b1a1906bef433179168b331",
+      "size": 270108
+    },
+    "data/geojson.day/witcher-04-day-00081.geojson.gz": {
+      "sha256": "d902a26c064c7dab3969dbc6dde6555d798cc6637e2ab39c30bcaec3cc5ecaaf",
+      "size": 259055
+    },
+    "data/geojson.day/witcher-04-day-00082.geojson.gz": {
+      "sha256": "a090409183e540703466d2eff5a81fe9b5ca2cca85491ca7bc2f6d7b3c38ce9c",
+      "size": 275695
+    },
+    "data/geojson.day/witcher-04-day-00083.geojson.gz": {
+      "sha256": "25747c7a080c010dabb091cdbc3fc8290e3e91751f2f9ebd3d3b0a30490079d6",
+      "size": 270984
+    },
+    "data/geojson.day/witcher-04-day-00084.geojson.gz": {
+      "sha256": "6fa60b4d040f8b5d4421a19c64ba4670c6288ccb31390d26381859ad376712cf",
+      "size": 269151
+    },
+    "data/geojson.day/witcher-04-day-00085.geojson.gz": {
+      "sha256": "4c3bba1ac19eef2ed28cc9b51dcabcdc856d38e94a56f79968df67baefccc6bf",
+      "size": 282440
+    },
+    "data/geojson.day/witcher-04-day-00086.geojson.gz": {
+      "sha256": "40e26553c4ee458f77aad26c80bc1ac496556afdce3ec016115fb50bbe5b2006",
+      "size": 284095
+    },
+    "data/geojson.day/witcher-04-day-00087.geojson.gz": {
+      "sha256": "419c6afc7b163d0ca96d650e37dfa0dac2f155483a59cc68da231572816a9683",
+      "size": 258173
+    },
+    "data/geojson.day/witcher-04-day-00088.geojson.gz": {
+      "sha256": "a2da07a4cae21c7679f3359b4b8d0d734814747006f38d166c43e19967faa24b",
+      "size": 259985
+    },
+    "data/geojson.day/witcher-04-day-00089.geojson.gz": {
+      "sha256": "9c5f6854164979ddd04edbfadfb5b73380b24b7903ece2e0ec89d1d19db0ebec",
+      "size": 279618
+    },
+    "data/geojson.day/witcher-04-day-00090.geojson.gz": {
+      "sha256": "ad3e3ceec06ff2b099073978b35af0852beb34df67d4b50fe52617d002b247f3",
+      "size": 270989
+    },
+    "data/geojson.day/witcher-04-day-00091.geojson.gz": {
+      "sha256": "dedbb128920ca0516bfdc9f6b765e41b90b0105ad1a413407622c31012bde63e",
+      "size": 253948
+    },
+    "data/geojson.day/witcher-04-day-00092.geojson.gz": {
+      "sha256": "d0f01fe74ae9358fc18daa80065561d2cd3df4b1515660d2046feec0043c43f7",
+      "size": 266032
+    },
+    "data/geojson.day/witcher-04-day-00093.geojson.gz": {
+      "sha256": "95f0e1dd19f6e6dcd157e3475e6e1d9626fd2c4f6368bef292a30c1f024936dc",
+      "size": 286527
+    },
+    "data/geojson.day/witcher-04-day-00094.geojson.gz": {
+      "sha256": "01c4692bccd23a40822c5062fc8ec5d6c8213e19c790e731c076e46037e79e9e",
+      "size": 261445
+    },
+    "data/geojson.day/witcher-04-day-00095.geojson.gz": {
+      "sha256": "ebd67c88d4cafe5cc476f2681a6e3e21c5092321b6a0b9f0d451833917555c55",
+      "size": 264910
+    },
+    "data/geojson.day/witcher-04-day-00096.geojson.gz": {
+      "sha256": "caa195c8cc626799722ca18da4af915d6bb5a10d77ff9a8168d3559921fb77c2",
+      "size": 278542
+    },
+    "data/geojson.day/witcher-04-day-00097.geojson.gz": {
+      "sha256": "19bd18fe9cd7e37fbe0d465e4cc4287aa2274de8eaa5989fd6edbaa589367819",
+      "size": 282212
+    },
+    "data/geojson.day/witcher-04-day-00098.geojson.gz": {
+      "sha256": "25722c5a67084bae872de440fdde4ee1778baa6030ea83e806c48b7b902e4e5b",
+      "size": 279978
+    },
+    "data/geojson.day/witcher-04-day-00099.geojson.gz": {
+      "sha256": "ad382ffc96b6cd85b3334225a07d744f8ef51b86d9a093fbe63eb0d61a31686b",
+      "size": 286927
+    },
+    "data/geojson.day/witcher-04-day-00100.geojson.gz": {
+      "sha256": "22ec03e25100b6be7443a65b4b00a7fa8a832b22e78367af3ae091ccc745fdcf",
+      "size": 331250
+    },
+    "data/geojson.day/witcher-04-day-00101.geojson.gz": {
+      "sha256": "c05864d53ddea62afd75c6b74f5a550468a83ec7614929531f8ef274a69ff35d",
+      "size": 280113
+    },
+    "data/geojson.day/witcher-04-day-00102.geojson.gz": {
+      "sha256": "cbc8b1bb7892bc2861ca2ed1d96ca1a272180229a1679981cef9d173c703a7cd",
+      "size": 257694
+    },
+    "data/geojson.day/witcher-04-day-00103.geojson.gz": {
+      "sha256": "8d074880135237ed0043ed458f578faee06a1224fa31d67e411763a07b21e34a",
+      "size": 290274
+    },
+    "data/geojson.day/witcher-04-day-00104.geojson.gz": {
+      "sha256": "54f3593e7df44b7782a434f3c9aa5519b24f963e7d817d95360f1d3e4adf5180",
+      "size": 286189
+    },
+    "data/geojson.day/witcher-04-day-00105.geojson.gz": {
+      "sha256": "433314893f5d5603ce687d761e5986605a161152fd369fed79ebc4849c109a03",
+      "size": 291276
+    },
+    "data/geojson.day/witcher-04-day-00106.geojson.gz": {
+      "sha256": "3228911e1202c4acfb94ebc6e36fab4b345002c1ae8ca1082acf95b129fbdddb",
+      "size": 292853
+    },
+    "data/geojson.day/witcher-04-day-00107.geojson.gz": {
+      "sha256": "64f8575de7666e0ef22c85e430d9899159c866283c3b0d994924ec54fdbd8110",
+      "size": 291203
+    },
+    "data/geojson.day/witcher-04-day-00108.geojson.gz": {
+      "sha256": "f04b3ce46b2dc5d6fcc9756257b3db95aa3283fffa895a4c49012708ccbc3723",
+      "size": 289411
+    },
+    "data/geojson.day/witcher-04-day-00109.geojson.gz": {
+      "sha256": "0d25ffe868765d0975fd92b9f2a967734697abf8f8ab2a6641dc6f9f88ffb6bf",
+      "size": 289666
+    },
+    "data/geojson.day/witcher-04-day-00110.geojson.gz": {
+      "sha256": "5e12c38f120d23c60fc1a47fd8c609c18265722d80784b3a96e04a782ac28ee7",
+      "size": 303778
+    },
+    "data/geojson.day/witcher-04-day-00111.geojson.gz": {
+      "sha256": "be0018eaa95b08028352e1956330e40f24e6034d50b889528369d5a26a259439",
+      "size": 280722
+    },
+    "data/geojson.day/witcher-04-day-00112.geojson.gz": {
+      "sha256": "85d32a712a357e761f4d6bf6a322f7a92f0f6d995d5b33ca3f5aa456f7383055",
+      "size": 271691
+    },
+    "data/geojson.day/witcher-04-day-00113.geojson.gz": {
+      "sha256": "6b75b11d3d5fc744b744d8f2988f6a340e102e0e5f3aad1e94e9d10007f32b78",
+      "size": 282354
+    },
+    "data/geojson.day/witcher-04-day-00114.geojson.gz": {
+      "sha256": "13e13b3fd3e6bd783532a1527bfaab02f1980b4b1793d94c7a8d3cb1771f46b0",
+      "size": 287006
+    },
+    "data/geojson.day/witcher-04-day-00115.geojson.gz": {
+      "sha256": "bdc21b4c7cabc253b07468930de2a48ad9040f11c7fd9de14393a3526f60763e",
+      "size": 281338
+    },
+    "data/geojson.day/witcher-04-day-00116.geojson.gz": {
+      "sha256": "45ba9fce05bc3ca4440b7f4002b7c5353d4ec6a22844e6026a7d22234f5c6a66",
+      "size": 282878
+    },
+    "data/geojson.day/witcher-04-day-00117.geojson.gz": {
+      "sha256": "e05e29b12a65fdb9208671d24b2d0f802852d7e90cb4e5bee1bf3d21f2751f85",
+      "size": 287031
+    },
+    "data/geojson.day/witcher-04-day-00118.geojson.gz": {
+      "sha256": "e15d85f8c6e310f47957d1bb452c7e639677cb813235785dd13eb47080349d70",
+      "size": 298238
+    },
+    "data/geojson.day/witcher-04-day-00119.geojson.gz": {
+      "sha256": "8df9bf8aa63d672f9a99db262fe22c08aaea2749a1114c5c1276cbb8a50f9915",
+      "size": 287131
+    },
+    "data/geojson.day/witcher-04-day-00120.geojson.gz": {
+      "sha256": "6f039084a1c3eed9a34845ad74cc5295585f41fe082679308334d9404e5bb149",
+      "size": 271687
+    },
+    "data/geojson.day/witcher-04-day-00121.geojson.gz": {
+      "sha256": "ab4406d2b2695f213fd660f518e4c2066730111993d51590e733e9c2f83687c5",
+      "size": 259732
+    },
+    "data/geojson.day/witcher-04-day-00122.geojson.gz": {
+      "sha256": "13bfd572c068b1cf80f81bb892346d2791e18e290474d594be8c941bb0619b2d",
+      "size": 258936
+    },
+    "data/geojson.day/witcher-04-day-00123.geojson.gz": {
+      "sha256": "f2ae82a936057eb6bbcbfb5c790c4fb5a212352071eeb5bebcce68a9535a51ba",
+      "size": 252787
+    },
+    "data/geojson.day/witcher-04-day-00124.geojson.gz": {
+      "sha256": "e60b68d3f471e99b03afd076fa58d4f132b91effa24e1d4d72c068fc1aacbab3",
+      "size": 262376
+    },
+    "data/geojson.day/witcher-04-day-00125.geojson.gz": {
+      "sha256": "5d8a89fc3439168fd6ca5f0ea5a9f6feeaabafa5f8b43edcc0bc10a6781af55b",
+      "size": 269348
+    },
+    "data/geojson.day/witcher-04-day-00126.geojson.gz": {
+      "sha256": "26b99287b1b1798653b97df66613461ded8fc8d739cc812dee23e6670f4c7382",
+      "size": 276041
+    },
+    "data/geojson.day/witcher-04-day-00127.geojson.gz": {
+      "sha256": "386447173ff0f88797191feb9c060602c6c440b0441a2bcb8b1d5af4f0d32d42",
+      "size": 277888
+    },
+    "data/geojson.day/witcher-04-day-00128.geojson.gz": {
+      "sha256": "4d3d932c1b38a0675d5c4a437ee0f5f8118f5bb0f6221bdbfb4b9603bb153daa",
+      "size": 258069
+    },
+    "data/geojson.day/witcher-04-day-00129.geojson.gz": {
+      "sha256": "e45102f1262d2eec7bad5ec59a582d68282ba8cf4366a80aa93d3a780903a766",
+      "size": 241718
+    },
+    "data/geojson.day/witcher-04-day-00130.geojson.gz": {
+      "sha256": "31e42eae0f0d99b8b12eb024daa1f24ced3c2660420332edccc1f0869a4f956f",
+      "size": 232660
+    },
+    "data/geojson.day/witcher-04-day-00131.geojson.gz": {
+      "sha256": "28b7db63780385b8817535ae3c6e9f1b458c2c70b492b524ec07f909566c8634",
+      "size": 267885
+    },
+    "data/geojson.day/witcher-04-day-00132.geojson.gz": {
+      "sha256": "0ff2cb9a64bf017c421e5b92f436bd49de1712c3edaa95ad57bbd18333293348",
+      "size": 270467
+    },
+    "data/geojson.day/witcher-04-day-00133.geojson.gz": {
+      "sha256": "3b88a03140aa03eb19552172fcca3080373d510d4fca9773e554798a075901ec",
+      "size": 274839
+    },
+    "data/geojson.day/witcher-04-day-00134.geojson.gz": {
+      "sha256": "3b8859e617dde140e2724574be5a5026873da50ac403df56f526014fdde790a6",
+      "size": 279938
+    },
+    "data/geojson.day/witcher-04-day-00135.geojson.gz": {
+      "sha256": "6d60be227c081b9f1e4cf4985a01f9145838341702bc0dadfd0b14323f4bd153",
+      "size": 267357
+    },
+    "data/geojson.day/witcher-04-day-00136.geojson.gz": {
+      "sha256": "3550cf62364053ff4a16cba6533f9c35c0bdcafda048095dbe5748cd44df4d91",
+      "size": 248584
+    },
+    "data/geojson.day/witcher-04-day-00137.geojson.gz": {
+      "sha256": "07579c9ef9fc92a07f789dfb8266244f0acc7d94a4ee51bed18a8ba5fed6a78e",
+      "size": 257015
+    },
+    "data/geojson.day/witcher-04-day-00138.geojson.gz": {
+      "sha256": "b4e3be4d497c139a0e5587bf7c0fa70980acf49369c25bf970b7dcf7013862d5",
+      "size": 261421
+    },
+    "data/geojson.day/witcher-04-day-00139.geojson.gz": {
+      "sha256": "f5a27680f4cd2eff50d6f628c6c0ab8a933a9e4ec0f1ba7e1fa93863b4e6a98a",
+      "size": 257421
+    },
+    "data/geojson.day/witcher-04-day-00140.geojson.gz": {
+      "sha256": "0c8359417e448703de0ff191be4c0c0ce73484595641669dd68c3f64f68a5d01",
+      "size": 248179
+    },
+    "data/geojson.day/witcher-04-day-00141.geojson.gz": {
+      "sha256": "96139060b1ce02989d789ed428477a754a2b92783ff1443cc7490023e41a7cda",
+      "size": 265577
+    },
+    "data/geojson.day/witcher-04-day-00142.geojson.gz": {
+      "sha256": "72b4c0eb1f8c7afc11a3ec6af42a531330be0c7372b6de499a6e2ecea3ef26f6",
+      "size": 267832
+    },
+    "data/geojson.day/witcher-04-day-00143.geojson.gz": {
+      "sha256": "11530442719ead962570ce532cd9490bfce24ac1f39aa41f01d9fd92569f7853",
+      "size": 249375
+    },
+    "data/geojson.day/witcher-04-day-00144.geojson.gz": {
+      "sha256": "f623a5ef7ef883e9eb834636c5a3c30b2bd055bbc8bf4d78cc8c5de0b52cb9c0",
+      "size": 241066
+    },
+    "data/geojson.day/witcher-04-day-00145.geojson.gz": {
+      "sha256": "bcf122c092116666cea089cf85248634b7766c3881c2e49af91e9746addf36d8",
+      "size": 260662
+    },
+    "data/geojson.day/witcher-04-day-00146.geojson.gz": {
+      "sha256": "3feaf4fd018415b412e75f03da1d83816c7e6d8d08a0e6323387edc4d9f9cc27",
+      "size": 265915
+    },
+    "data/geojson.day/witcher-04-day-00147.geojson.gz": {
+      "sha256": "6a535afd1c3ddb8c7a6195788e74d8828226622bdbe8bfb1dc5ff16f27e83355",
+      "size": 271719
+    },
+    "data/geojson.day/witcher-04-day-00148.geojson.gz": {
+      "sha256": "c3ac486bfd89503c9b88dfc274174e27ac6c352aafd65bf68d2f96ede98a6f29",
+      "size": 261676
+    },
+    "data/geojson.day/witcher-04-day-00149.geojson.gz": {
+      "sha256": "c46afc1bd5f4d6f05ad8fc998349e5d86a517b3c11c832ad9fb5086f74a1434c",
+      "size": 264489
+    },
+    "data/geojson.day/witcher-04-day-00150.geojson.gz": {
+      "sha256": "ce2560aaada03f5f1123c5d7bad725d41976eb3dde19fb1c87e087e63820089e",
+      "size": 250181
+    },
+    "data/geojson.day/witcher-04-day-00151.geojson.gz": {
+      "sha256": "8f09b74eb49dc00b3d71786449e92741064aceafafe167413a7a7329a8914435",
+      "size": 236367
+    },
+    "data/geojson.day/witcher-04-day-00152.geojson.gz": {
+      "sha256": "89c712af3b05f9c2e1104cffb6dc5dcdc7f304eaab7ef9bbc21eb356f2011ce5",
+      "size": 247910
+    },
+    "data/geojson.day/witcher-04-day-00153.geojson.gz": {
+      "sha256": "9daef0906ae511ba3595906eb0392aa6cbd2f0bcaf8d165a639f5713ad05b1ed",
+      "size": 255178
+    },
+    "data/geojson.day/witcher-04-day-00154.geojson.gz": {
+      "sha256": "a0ecec831b47e0bc49ce81a79489366edb76e64f5cb3b8b7e4ec1ddac0eca914",
+      "size": 257011
+    },
+    "data/geojson.day/witcher-04-day-00155.geojson.gz": {
+      "sha256": "abc677bd3aa169e94483492b4c85a64c6300d577ae5671aaed96378fefd342a0",
+      "size": 256104
+    },
+    "data/geojson.day/witcher-04-day-00156.geojson.gz": {
+      "sha256": "488787340c72ffd0d98ffc390b2dd1a8171dac5d30e0bc6c0d5ae65b04abb624",
+      "size": 297484
+    },
+    "data/geojson.day/witcher-04-day-00157.geojson.gz": {
+      "sha256": "4c251b9e970aa8f1c77175d89419db50576e3ccfc94f75358e72d14a21c6d3f2",
+      "size": 257493
+    },
+    "data/geojson.day/witcher-04-day-00158.geojson.gz": {
+      "sha256": "7b2086bf274286bcc29c84d7cf9bf19b3650b1fd234bd84e5d7a72f75363ff22",
+      "size": 253112
+    },
+    "data/geojson.day/witcher-04-day-00159.geojson.gz": {
+      "sha256": "8238e2b39686252e0b16593a571cb20b28a2e300f3b10e001033dab8bf4b78c1",
+      "size": 262000
+    },
+    "data/geojson.day/witcher-04-day-00160.geojson.gz": {
+      "sha256": "6e5de7e994b4bf8d20acb817ae9e562ee9acaac9314d1f12c12ebc27516c6d1e",
+      "size": 256413
+    },
+    "data/geojson.day/witcher-04-day-00161.geojson.gz": {
+      "sha256": "b964a788e18e1d0c2ffa90af1b7e9bbe8156787e31f4526e31bfea76c50f2294",
+      "size": 258362
+    },
+    "data/geojson.day/witcher-04-day-00162.geojson.gz": {
+      "sha256": "2d1a6b922193aa1456421f5829b0d6d44c01498349d861448fed228d1eee9783",
+      "size": 254426
+    },
+    "data/geojson.day/witcher-04-day-00163.geojson.gz": {
+      "sha256": "a818548bdbe282bc5c370d12f83603bf335416b96a378bf3480354f3530bda7b",
+      "size": 262302
+    },
+    "data/geojson.day/witcher-04-day-00164.geojson.gz": {
+      "sha256": "ba6d939413920900ea611cf685c3304a291e8998d949798029aff5bc91f5556f",
+      "size": 248449
+    },
+    "data/geojson.day/witcher-04-day-00165.geojson.gz": {
+      "sha256": "fd702e96846836b1df992dc33dccd51d6f402629ca4deccd54c16d96bacb68e4",
+      "size": 242322
+    },
+    "data/geojson.day/witcher-04-day-00166.geojson.gz": {
+      "sha256": "121e4c98ebf7e1fefe785e6a7659c62d6ad5e763f690116a472bd49dbd5426bf",
+      "size": 258830
+    },
+    "data/geojson.day/witcher-04-day-00167.geojson.gz": {
+      "sha256": "179cb88f6628560873c1db854dc58e511a5620220b03dbc6fe3c7081b185a061",
+      "size": 268472
+    },
+    "data/geojson.day/witcher-04-day-00168.geojson.gz": {
+      "sha256": "63e21d4d65172e80d24f3d7728e7bdfbef484b97a7a27a8e62a0964cfe1210a5",
+      "size": 270736
+    },
+    "data/geojson.day/witcher-04-day-00169.geojson.gz": {
+      "sha256": "112e5ab4a854e8b5b49cbbef93b3a4f93240ebb6ca4a61ca4dcaae96e4140f4a",
+      "size": 279543
+    },
+    "data/geojson.day/witcher-04-day-00170.geojson.gz": {
+      "sha256": "17fffe38b76f335f8ecc3bbcf3f22a84017c0a9fdb2e5be1f11b208c314d62b1",
+      "size": 271237
+    },
+    "data/geojson.day/witcher-04-day-00171.geojson.gz": {
+      "sha256": "b682108fdbbe5dcb5be888c58c9679d82e92305a29bddbd108ee7bcf4034d8ec",
+      "size": 263621
+    },
+    "data/geojson.day/witcher-04-day-00172.geojson.gz": {
+      "sha256": "54f71ec8efd396cbf07689228bf574a65f6c689d03c26072bc9f19a987f67557",
+      "size": 261947
+    },
+    "data/geojson.day/witcher-04-day-00173.geojson.gz": {
+      "sha256": "fe6efbc469fe8aca145ad316554df85f8f2c5b01a909eb89168cd8f104ad7db1",
+      "size": 266570
+    },
+    "data/geojson.day/witcher-04-day-00174.geojson.gz": {
+      "sha256": "add584cfb7c8bdddd5dc3db1a7281980939a45c65c9c86554aaaf4ee1914e5bf",
+      "size": 258835
+    },
+    "data/geojson.day/witcher-04-day-00175.geojson.gz": {
+      "sha256": "8b8aabbe2eb985a561becb4900c7a10058a854510f8e07c47ed66dc3b5779f55",
+      "size": 258878
+    },
+    "data/geojson.day/witcher-04-day-00176.geojson.gz": {
+      "sha256": "b55fe4f2f4ef93fb3904e7f0c1b0a4c35ea00bfdd340fb9839e66b88a199d80d",
+      "size": 266325
+    },
+    "data/geojson.day/witcher-04-day-00177.geojson.gz": {
+      "sha256": "0ad91908f65da406377aa3372b7ca2eb2744b7c5d5b99eb2efbf4257218299e8",
+      "size": 255124
+    },
+    "data/geojson.day/witcher-04-day-00178.geojson.gz": {
+      "sha256": "f6a050ab94b4b55630205786b893792ae324d601b2891320423f04d195df39eb",
+      "size": 240655
+    },
+    "data/geojson.day/witcher-04-day-00179.geojson.gz": {
+      "sha256": "26a5e1e5f6cb5eb77d03caf3f0e652c6ee96167804acd3648912b0fe0537e1d2",
+      "size": 235455
+    },
+    "data/geojson.day/witcher-04-day-00180.geojson.gz": {
+      "sha256": "8a6a18f86bb225a06fc5fce821d92e0a54904b05ac3b09d04c6a61ffb2c7186a",
+      "size": 249471
+    },
+    "data/geojson.day/witcher-04-day-00181.geojson.gz": {
+      "sha256": "1ac3952f9d74906430b1e9fd765d20a402217d7a67641535d38b14fd7c28f699",
+      "size": 244719
+    },
+    "data/geojson.day/witcher-04-day-00182.geojson.gz": {
+      "sha256": "c9d88b0cc4ea4f410ba220e8b47243abb1663b148f75ca4827ed4b3a7014cacd",
+      "size": 248358
+    },
+    "data/json/witcher-04-swarm-day-00001-2025-10-30.json": {
+      "sha256": "5a8c3c452ad80733de77503a4a682696b7ef2b201d84dc2d489b369691c0512b",
+      "size": 436
+    },
+    "data/json/witcher-04-swarm-day-00002-2025-10-31.json": {
+      "sha256": "ac5f6c7b1d8d0635b32ee0d6b398005e754bb0cd3ec4cee8b0b5d8b599390d83",
+      "size": 437
+    },
+    "data/json/witcher-04-swarm-day-00003-2025-11-01.json": {
+      "sha256": "6d89ddd9b3057bdd5f43900565b11e297d01fb8ecd1c3a3856d579a7e79b9dab",
+      "size": 437
+    },
+    "data/json/witcher-04-swarm-day-00004-2025-11-02.json": {
+      "sha256": "d00dd6365ad1da3c552762ccbb0a427b06136abd2b76182dd047bd8dce63b97b",
+      "size": 437
+    },
+    "data/json/witcher-04-swarm-day-00005-2025-11-03.json": {
+      "sha256": "465569664a6284b3ae147dcd0a3a72689629a159969846f7aad99f08e961ae39",
+      "size": 436
+    },
+    "data/json/witcher-04-swarm-day-00006-2025-11-04.json": {
+      "sha256": "2bd97912f8e5bb98d66cd6a49cc022e94d4bea9a10b7cdd3a40987128caca563",
+      "size": 437
+    },
+    "data/json/witcher-04-swarm-day-00007-2025-11-05.json": {
+      "sha256": "dd1c9f82b0cbafbf04a74d15695a011f1f58a82f90e6b050866f3a27da73c4d9",
+      "size": 437
+    },
+    "data/json/witcher-04-swarm-day-00008-2025-11-06.json": {
+      "sha256": "eb9a3587a3570a875c28568465bb2a30cec9d1684e0287dfa9e117a273d039a1",
+      "size": 437
+    },
+    "data/json/witcher-04-swarm-day-00009-2025-11-07.json": {
+      "sha256": "eec641de3cb340c1ec76b242e7e6b16720e720c426ebbb44ce2d7bc267b45c9a",
+      "size": 436
+    },
+    "data/json/witcher-04-swarm-day-00010-2025-11-08.json": {
+      "sha256": "f0ced1699f91ece1846b52d9333d460f24a917831f21078e34581ab007febb14",
+      "size": 437
+    },
+    "data/json/witcher-04-swarm-day-00011-2025-11-09.json": {
+      "sha256": "a21a6d408b2eddf874ef46d15896d8dccbab6ea074ce238e1d81b90509559db9",
+      "size": 437
+    },
+    "data/json/witcher-04-swarm-day-00012-2025-11-10.json": {
+      "sha256": "262f77094457aea80b3cf5b60b7701bf1d09755fc35fdf8ca896d465ec91c3e2",
+      "size": 438
+    },
+    "data/json/witcher-04-swarm-day-00013-2025-11-11.json": {
+      "sha256": "c5d3bcadffdb55247e9788b79bf208f6ec1f9ac85c8ae9fe16058ebd3d1ce235",
+      "size": 437
+    },
+    "data/json/witcher-04-swarm-day-00014-2025-11-12.json": {
+      "sha256": "b3b86cb991f6ea9a9204de9500c198254ffd99967fa20582145d79570e15bd20",
+      "size": 437
+    },
+    "data/json/witcher-04-swarm-day-00015-2025-11-13.json": {
+      "sha256": "ad23c739202fb0657e61cdb8b1aad4d896e81b1edb49e76244dfeb40b46c38e6",
+      "size": 437
+    },
+    "data/json/witcher-04-swarm-day-00016-2025-11-14.json": {
+      "sha256": "5b8426a0bf6b99d7bb0a9bc9e44ac4b816d36ca5ef08a0f2f2ec21b806acff36",
+      "size": 437
+    },
+    "data/json/witcher-04-swarm-day-00017-2025-11-15.json": {
+      "sha256": "2c50cea849a361d6afce79edac7378b2eb96fb143271434a0f1e41c73f56b5aa",
+      "size": 437
+    },
+    "data/json/witcher-04-swarm-day-00018-2025-11-16.json": {
+      "sha256": "59aec4a6317f98f4f5fa08bdfa97fdade025e88d2cac68899e6c6acbd7baa432",
+      "size": 437
+    },
+    "data/json/witcher-04-swarm-day-00019-2025-11-17.json": {
+      "sha256": "c66a87a2415d2a55533078c765a474700da4e5ea39e29aa71523fecaadaac1ab",
+      "size": 437
+    },
+    "data/json/witcher-04-swarm-day-00020-2025-11-18.json": {
+      "sha256": "85bd58eb7105d105f47a4e1227a4150b7d36a9f2539e94c1f6b50057403b6a31",
+      "size": 437
+    },
+    "data/json/witcher-04-swarm-day-00021-2025-11-19.json": {
+      "sha256": "41a2625f9392ee4fda3ed764e998d3b6f0ec48cd6b383de12d13785731dc7319",
+      "size": 436
+    },
+    "data/json/witcher-04-swarm-day-00022-2025-11-20.json": {
+      "sha256": "999e93ed48fe0e1b320457619ec8ba351abe74e3666d0aabf6b10a70f090a715",
+      "size": 437
+    },
+    "data/json/witcher-04-swarm-day-00023-2025-11-21.json": {
+      "sha256": "db53243a0119890728f77a36f3e8862e163baf031a11713a2ba438514ef2de05",
+      "size": 437
+    },
+    "data/json/witcher-04-swarm-day-00024-2025-11-22.json": {
+      "sha256": "09778daa66fc3fc5e4d75786554555a37e106ae85f49924aa32fc4fdb840ec4d",
+      "size": 437
+    },
+    "data/json/witcher-04-swarm-day-00025-2025-11-23.json": {
+      "sha256": "d337225bfc052a749a003239a14fe088bdd18a81df239ac85d2ff64ab4d5d5a1",
+      "size": 437
+    },
+    "data/json/witcher-04-swarm-day-00026-2025-11-24.json": {
+      "sha256": "02f979a1ac4ebde7195754179b531d624cdc9f08f212cff8e6eacbbbfe754710",
+      "size": 437
+    },
+    "data/json/witcher-04-swarm-day-00027-2025-11-25.json": {
+      "sha256": "209652f6e65e96617fc7ece709f3661dbcece1fa1eb4de5bc2f9485fd651fd37",
+      "size": 437
+    },
+    "data/json/witcher-04-swarm-day-00028-2025-11-26.json": {
+      "sha256": "dc91780b9ad96857cfd0b7e684a09f17d7d79311a7adcd44663d042d8a4d583f",
+      "size": 437
+    },
+    "data/json/witcher-04-swarm-day-00029-2025-11-27.json": {
+      "sha256": "8bf910963b7917f04514a4706b0cbc2ba7453a06e099176afa2e03160d3a4ca2",
+      "size": 437
+    },
+    "data/json/witcher-04-swarm-day-00030-2025-11-28.json": {
+      "sha256": "68bcbbe1bf3bc0c53791f4db17372d22e1f60f8fe458ab2c79d315adebe78c15",
+      "size": 437
+    },
+    "data/json/witcher-04-swarm-day-00031-2025-11-29.json": {
+      "sha256": "3aade571798f2b1dab6f0db756e047107da918fce18c9f15074e40382950466e",
+      "size": 437
+    },
+    "data/json/witcher-04-swarm-day-00032-2025-11-30.json": {
+      "sha256": "662f2d10404978dd3a92d02438858b84da829fde31395c62697d0c68dd4cf3ed",
+      "size": 437
+    },
+    "data/json/witcher-04-swarm-day-00033-2025-12-01.json": {
+      "sha256": "686d87d48ade6fc9722cda0bdb719c9e392d58071f0657c0ff6eab208aca2ed3",
+      "size": 437
+    },
+    "data/json/witcher-04-swarm-day-00034-2025-12-02.json": {
+      "sha256": "4123bee97760daf95a6fa8b721db6062b891018e5f4a1e274381dca4ee798ca6",
+      "size": 437
+    },
+    "data/json/witcher-04-swarm-day-00035-2025-12-03.json": {
+      "sha256": "bfb8c98eacc424d62e63209d8b3d6cd0287a0c7a1e483e8f940a20dc00d6bd64",
+      "size": 437
+    },
+    "data/json/witcher-04-swarm-day-00036-2025-12-04.json": {
+      "sha256": "c6f5aced92a9e50b0e143bb617e2e6d888b86c4dfd4827923f5de0dd710b47b1",
+      "size": 437
+    },
+    "data/json/witcher-04-swarm-day-00037-2025-12-05.json": {
+      "sha256": "cc80b0acaeeb81d7973c8e2e8200ebe87e3ed85f02014834b6c5c1ef008c3f24",
+      "size": 437
+    },
+    "data/json/witcher-04-swarm-day-00038-2025-12-06.json": {
+      "sha256": "f45e5a33fc7de67421f5ea596b3a243dc789735e37998a1f9730b2cef58f2fbd",
+      "size": 437
+    },
+    "data/json/witcher-04-swarm-day-00039-2025-12-07.json": {
+      "sha256": "00e34c43ce3f4e6e85d567e049807994563d516b57f345cc2934067e7d0141e7",
+      "size": 437
+    },
+    "data/json/witcher-04-swarm-day-00042-2025-12-10.json": {
+      "sha256": "f7ad1cb7e76af9fe0db0f0c5d5b426095fbcdb1b850a115eea299a0ed0c6c8ea",
+      "size": 437
+    },
+    "data/json/witcher-04-swarm-day-00043-2025-12-11.json": {
+      "sha256": "7dead31c171934590a623ebb5447916fb6cb54bdcead56406b977dc59ab6aa5f",
+      "size": 437
+    },
+    "data/json/witcher-04-swarm-day-00044-2025-12-12.json": {
+      "sha256": "ec857391acd682d2a38e1d103eb71765c1b294fdf9675c9d2a6a2a4152d32d0a",
+      "size": 437
+    },
+    "data/json/witcher-04-swarm-day-00045-2025-12-13.json": {
+      "sha256": "e82f9a83918a8ae8288a57ffd1cbb0c511317055993b4655f0df4c4026253d97",
+      "size": 437
+    },
+    "data/json/witcher-04-swarm-day-00046-2025-12-14.json": {
+      "sha256": "c84829e5fe88ffd42aab3ceea08121f4b8890c8b6d89e19a9a365cebe400341b",
+      "size": 437
+    },
+    "data/json/witcher-04-swarm-day-00047-2025-12-15.json": {
+      "sha256": "534e33efaaa733e7734a3b66b7ef7e24e5eeabe9736ca19dcac3a3b7115ff30b",
+      "size": 437
+    },
+    "data/json/witcher-04-swarm-day-00048-2025-12-16.json": {
+      "sha256": "46d7d4a13aee5024d9826a8675df5ae4dad6ae519e1bd20b1673e9eb39bd69be",
+      "size": 437
+    },
+    "data/json/witcher-04-swarm-day-00049-2025-12-17.json": {
+      "sha256": "7b8b359cddbecbab03aeca6474e8a7f3b9b546e50d05dd1470b7d92ac2befd68",
+      "size": 437
+    },
+    "data/json/witcher-04-swarm-day-00050-2025-12-18.json": {
+      "sha256": "c35be7db7cb0045574e0c73747a5a6695c1af1333e32f07ff9537a594765af93",
+      "size": 437
+    },
+    "data/json/witcher-04-swarm-day-00051-2025-12-19.json": {
+      "sha256": "f9c56f0c4f1ba48c5328d22537c719e38afaa439ccb8e83e0294d083d4078386",
+      "size": 437
+    },
+    "data/json/witcher-04-swarm-day-00052-2025-12-20.json": {
+      "sha256": "6655995ae5f8489fd4faf7ebb843cb6f55d6b34044a8ba43e6890139d7963894",
+      "size": 437
+    },
+    "data/json/witcher-04-swarm-day-00053-2025-12-21.json": {
+      "sha256": "b77292f79e2eed0463b90e5afb9e091c31c491585b05296e9748bf62d2d15f15",
+      "size": 437
+    },
+    "data/json/witcher-04-swarm-day-00054-2025-12-22.json": {
+      "sha256": "cfb489acccb3842cb50f8d71e51d3374c6dca56c1bdf217dab3f61b725fa0e3b",
+      "size": 437
+    },
+    "data/json/witcher-04-swarm-day-00055-2025-12-23.json": {
+      "sha256": "6397d1a1260ae0d846053a3cfa9ff02efb091cbea9336764c93ec0b73f975d8a",
+      "size": 437
+    },
+    "data/json/witcher-04-swarm-day-00056-2025-12-24.json": {
+      "sha256": "02f876b0a985e5b321412a685fe63f0cbe60f7b0cdeb7736aa8f69bf8a1b4f7b",
+      "size": 437
+    },
+    "data/json/witcher-04-swarm-day-00057-2025-12-25.json": {
+      "sha256": "dcfc9ab6ff8c422d988bb626d10eea63f82e5bb8a36d8b766a3ad7b6faa508e3",
+      "size": 437
+    },
+    "data/json/witcher-04-swarm-day-00058-2025-12-26.json": {
+      "sha256": "8d356c0d90f2b092be90fa84c49624d5befcb8e16bc535a3830c8374effd1120",
+      "size": 437
+    },
+    "data/json/witcher-04-swarm-day-00059-2025-12-27.json": {
+      "sha256": "8a3dd71d51d490f9fb6f44a3dffb89dc19025d7910e7468a8d0590608c1c3f14",
+      "size": 437
+    },
+    "data/json/witcher-04-swarm-day-00060-2025-12-28.json": {
+      "sha256": "b9061fa62f5a5362a628776a43e7ecba905d3e128be440ded52a7d5cf264dd8d",
+      "size": 437
+    },
+    "data/json/witcher-04-swarm-day-00061-2025-12-29.json": {
+      "sha256": "ae7b1157ded01f66de639fadc11e4ca00bdb25fc766830bb51d3622025f4f8b2",
+      "size": 437
+    },
+    "data/json/witcher-04-swarm-day-00062-2025-12-30.json": {
+      "sha256": "bc769450d385e894f14daa3ba48c7464016c5cea64d42a8deedad8f08a6c3116",
+      "size": 437
+    },
+    "data/json/witcher-04-swarm-day-00063-2025-12-31.json": {
+      "sha256": "7709bcc821da5ad6d726747b86ae6c67cbc4104a44a538eba27d9e0997ed0dc3",
+      "size": 437
+    },
+    "data/json/witcher-04-swarm-day-00064-2026-01-01.json": {
+      "sha256": "2b77d9b9ba4e505e51fabbab328601221c675792d0e54cd741aec95919fcc303",
+      "size": 437
+    },
+    "data/json/witcher-04-swarm-day-00065-2026-01-02.json": {
+      "sha256": "fa980f1b34e33d8c59eff348cb87d0ff44fd188c0e605ceaed330bee45bb00a0",
+      "size": 437
+    },
+    "data/json/witcher-04-swarm-day-00066-2026-01-03.json": {
+      "sha256": "c3604f6c16fc405b2598ef110b71c80842d21ec70ca68af4fe7ec0ed0a636301",
+      "size": 437
+    },
+    "data/json/witcher-04-swarm-day-00067-2026-01-04.json": {
+      "sha256": "4e12a4ef6fbe2e23b89ea42b877874486572bcfab9fa4dda6220298022de16b8",
+      "size": 437
+    },
+    "data/json/witcher-04-swarm-day-00068-2026-01-05.json": {
+      "sha256": "4d1a940c8a0605d2ec3d20bd0d1027ec217e100546bbde037936f4fc9c087181",
+      "size": 437
+    },
+    "data/json/witcher-04-swarm-day-00069-2026-01-06.json": {
+      "sha256": "1d0297678aabaae7207949ad0d338b427eff84cf418a4dec9ce2688805c71a93",
+      "size": 437
+    },
+    "data/json/witcher-04-swarm-day-00070-2026-01-07.json": {
+      "sha256": "26c4d103207ef612c9e3891278eb01c507d6dd9f95f8efc641a82ec25961752a",
+      "size": 437
+    },
+    "data/json/witcher-04-swarm-day-00071-2026-01-08.json": {
+      "sha256": "7e06623c5ef008ed9147723f2ab53c786a035e05ea8a5576383d9737abc8ebf1",
+      "size": 437
+    },
+    "data/json/witcher-04-swarm-day-00072-2026-01-09.json": {
+      "sha256": "48232da019c0dadc66d359e5535d56ed660eba74da1ad02bffcbf6a8cb010f8a",
+      "size": 437
+    },
+    "data/json/witcher-04-swarm-day-00073-2026-01-10.json": {
+      "sha256": "6926d503af180f788593978f71e9b57911dbc3c9507676f9d3ef92b25b7982df",
+      "size": 437
+    },
+    "data/json/witcher-04-swarm-day-00074-2026-01-11.json": {
+      "sha256": "3a1dfa04852b212dcf427348c65f6a7de6035d59986631aaf9c2c79e9fdebe63",
+      "size": 437
+    },
+    "data/json/witcher-04-swarm-day-00075-2026-01-12.json": {
+      "sha256": "c0e8c95fd5bc69ccea82a46dc2e97a39f2585d71f07eeba60279a5f8f76cfdf6",
+      "size": 437
+    },
+    "data/json/witcher-04-swarm-day-00076-2026-01-13.json": {
+      "sha256": "09813c8cd2021f854a082d22bc6ead1ed022515e507bbeb7b5d0aa3ab89a6858",
+      "size": 437
+    },
+    "data/json/witcher-04-swarm-day-00077-2026-01-14.json": {
+      "sha256": "47f75f3447dbdf5f1e23a4443895bed6329e1269b5f7313b29e81cefe0fadb81",
+      "size": 437
+    },
+    "data/json/witcher-04-swarm-day-00078-2026-01-15.json": {
+      "sha256": "83fe680c9bf23e657b0b5cc14f58d0600fbf1f591b7527539ba718a5df2f7eca",
+      "size": 437
+    },
+    "data/json/witcher-04-swarm-day-00079-2026-01-16.json": {
+      "sha256": "353ab10043a8351c334a0ac45f9d82fa5873f7e7fdff05a31c0ac08cd18e9158",
+      "size": 437
+    },
+    "data/json/witcher-04-swarm-day-00080-2026-01-17.json": {
+      "sha256": "313338f785325816dec40524180e20c7a7a499198d61311ca0f0d2fa30de86ed",
+      "size": 437
+    },
+    "data/json/witcher-04-swarm-day-00081-2026-01-18.json": {
+      "sha256": "80f3a35b3a3c5f9ae08ea15b0b300d512c745acb6c77b4e87a6f4c2b38b825e7",
+      "size": 437
+    },
+    "data/json/witcher-04-swarm-day-00082-2026-01-19.json": {
+      "sha256": "7aad45a4eecea5ec791207abc33fa40e10cd59e8c3ace9b03da75a8101e813cd",
+      "size": 437
+    },
+    "data/json/witcher-04-swarm-day-00083-2026-01-20.json": {
+      "sha256": "98efcf15aa593695a7c74f93e2988db422d38293c1e1017d6791d574ba816107",
+      "size": 437
+    },
+    "data/json/witcher-04-swarm-day-00084-2026-01-21.json": {
+      "sha256": "d86ecfbd0a1fd410f2a63944b636d1a596700dfe13843f8811d52595cfd4cc30",
+      "size": 437
+    },
+    "data/json/witcher-04-swarm-day-00085-2026-01-22.json": {
+      "sha256": "bb80118691ad02ee7eb1814a09bda5644049f441b3be5c1cca328cc2e55d9bd6",
+      "size": 437
+    },
+    "data/json/witcher-04-swarm-day-00086-2026-01-23.json": {
+      "sha256": "81e316281c6f4ef3eabbb491a16fe574604e010d079820b7d3d7c740586a78cc",
+      "size": 437
+    },
+    "data/json/witcher-04-swarm-day-00087-2026-01-24.json": {
+      "sha256": "8b6545cfe83ee54eadc8f35a46214f780b39c1946d44878b212d9acc8d0f8c43",
+      "size": 437
+    },
+    "data/json/witcher-04-swarm-day-00088-2026-01-25.json": {
+      "sha256": "ee02f0af38641249dfd6bbea6e1ccda3645efc548d39bd2b19e147fa0e390a10",
+      "size": 437
+    },
+    "data/json/witcher-04-swarm-day-00089-2026-01-26.json": {
+      "sha256": "c589a3d860b7b986177022688a315cc398697ed36cd1d04add4b314ea9fd873d",
+      "size": 437
+    },
+    "data/json/witcher-04-swarm-day-00090-2026-01-27.json": {
+      "sha256": "821c107a8f3e5fd51df913d7abc3c79f4df0c0ce8d8ee7d88adf7f52e74e542a",
+      "size": 437
+    },
+    "data/json/witcher-04-swarm-day-00091-2026-01-28.json": {
+      "sha256": "8f41fa65f1d112ac3f102d558b422fcf363fcdb649872e6a77f9e4731be75f45",
+      "size": 437
+    },
+    "data/json/witcher-04-swarm-day-00092-2026-01-29.json": {
+      "sha256": "2a58bacf8a28f0b054f7f6465340bfabe76ab3b3b5f9a26f6ffb6bc3720867af",
+      "size": 437
+    },
+    "data/json/witcher-04-swarm-day-00093-2026-01-30.json": {
+      "sha256": "0eae08a87f0a8599caf0fbe8830f4919a29b2f390cb5e8c0d7ca9d06b56fdd12",
+      "size": 437
+    },
+    "data/json/witcher-04-swarm-day-00094-2026-01-31.json": {
+      "sha256": "659421a36927c34bf0a35508f953917f4070ba5d0bd536786712735c632b95b9",
+      "size": 437
+    },
+    "data/json/witcher-04-swarm-day-00095-2026-02-01.json": {
+      "sha256": "f4409207c43592720858c03eab5589ac7df81b4cfee48d9a371a77fd4a98078f",
+      "size": 437
+    },
+    "data/json/witcher-04-swarm-day-00096-2026-02-02.json": {
+      "sha256": "45a3812f0a90a897cc111cc26b45fd232a961c96c8d12dcd25eeb6cedd95b002",
+      "size": 437
+    },
+    "data/json/witcher-04-swarm-day-00097-2026-02-03.json": {
+      "sha256": "333d8b0dacf3d301ea734c53b42d816c1dedd4e269ea87528decbe625d54b2be",
+      "size": 437
+    },
+    "data/json/witcher-04-swarm-day-00098-2026-02-04.json": {
+      "sha256": "5ad466b5b761b5e43b1a1196ca909234bfc5535e1bea3dbeddde2226ce163159",
+      "size": 437
+    },
+    "data/json/witcher-04-swarm-day-00099-2026-02-05.json": {
+      "sha256": "5c7287e83f946483b9db23847e97a04f55a8eb29395a78b83cfa8baf3627a8f7",
+      "size": 437
+    },
+    "data/json/witcher-04-swarm-day-00100-2026-02-06.json": {
+      "sha256": "faa25f38d7047b81d0197530baed07b414a4b8553890007fba40cfcf54fd4ed3",
+      "size": 438
+    },
+    "data/json/witcher-04-swarm-day-00101-2026-02-07.json": {
+      "sha256": "0e46cfc09d1cfa3f7784d719d5c6197da3c166e4ce4ec145da81710331f080b1",
+      "size": 438
+    },
+    "data/json/witcher-04-swarm-day-00102-2026-02-08.json": {
+      "sha256": "c9717b0cd1f3f4c95481078c47ca87b2f14714c03f8f2540fd57ef3d648ff98a",
+      "size": 438
+    },
+    "data/json/witcher-04-swarm-day-00103-2026-02-09.json": {
+      "sha256": "9c9f41f76b0897aff68536bc7837ce83e33a17c2c1e58010fa6fb4ec652b190d",
+      "size": 438
+    },
+    "data/json/witcher-04-swarm-day-00104-2026-02-10.json": {
+      "sha256": "3dd4f376249c0c13360ffa24fb41ab0479601798b6bbf9e85edfa98f470995ab",
+      "size": 438
+    },
+    "data/json/witcher-04-swarm-day-00105-2026-02-11.json": {
+      "sha256": "f56ecde5d7536485d892905625c4240d0657f41f12ae16db737b67c090295bb0",
+      "size": 438
+    },
+    "data/json/witcher-04-swarm-day-00106-2026-02-12.json": {
+      "sha256": "15eab789b8e384d19412b153363dd741f0a8a2088ba5a4c5cd1f4ef5415780c3",
+      "size": 438
+    },
+    "data/json/witcher-04-swarm-day-00107-2026-02-13.json": {
+      "sha256": "6c3731171f98aa5f88011343953b7f0b08e02373b5c89f1d727250f5ad6bff6f",
+      "size": 438
+    },
+    "data/json/witcher-04-swarm-day-00108-2026-02-14.json": {
+      "sha256": "9a2f8580f71eac58c22635630f9a2ef05e2cc6cbfc83d7272f958f2ffe882255",
+      "size": 438
+    },
+    "data/json/witcher-04-swarm-day-00109-2026-02-15.json": {
+      "sha256": "259e2a9bbd0e6248e99cb2273f9d8e9507a23361d63594eeff741f16b40bae4e",
+      "size": 438
+    },
+    "data/json/witcher-04-swarm-day-00110-2026-02-16.json": {
+      "sha256": "c35e538e6e99c8b0415c5c2c13dfb394c0a1a0384daf1274a465e4b2efd89cd3",
+      "size": 438
+    },
+    "data/json/witcher-04-swarm-day-00111-2026-02-17.json": {
+      "sha256": "f7abfe2d218ba391794e6f446bca5b170cc4c4f8fd7b0f25cad54186db17bde7",
+      "size": 438
+    },
+    "data/json/witcher-04-swarm-day-00112-2026-02-18.json": {
+      "sha256": "fd2e9731c86883446502689418a85ce7a409e8fe674c6fa3d0e2d7aaad6f2d3e",
+      "size": 438
+    },
+    "data/json/witcher-04-swarm-day-00113-2026-02-19.json": {
+      "sha256": "0a48108bb2875a78cf5baa6f403309a8f0367c81db2e9549349cbaaf98b16387",
+      "size": 438
+    },
+    "data/json/witcher-04-swarm-day-00114-2026-02-20.json": {
+      "sha256": "6ce6127dd0352a8b283eb82b367118b057a16b737aad2428bc9ad07c8f446fa3",
+      "size": 438
+    },
+    "data/json/witcher-04-swarm-day-00115-2026-02-21.json": {
+      "sha256": "c9c5e0ffcd99e297cf8d516cf8360f4196f0ca5835d689b4233beff1c8271cc5",
+      "size": 438
+    },
+    "data/json/witcher-04-swarm-day-00116-2026-02-22.json": {
+      "sha256": "ac85696d16a622b5e6d6a3a891f941472dc21a1c040a4eae735afadb313c9c9f",
+      "size": 438
+    },
+    "data/json/witcher-04-swarm-day-00117-2026-02-23.json": {
+      "sha256": "d9724f9e573a281fb4c1c7b477203c02f08b84cb9e7f7b16660fbe312eb90fd5",
+      "size": 438
+    },
+    "data/json/witcher-04-swarm-day-00118-2026-02-24.json": {
+      "sha256": "780625076677920699f9b8f4957fe51c7c17ce626e1dfca9f8c8f45360fd87a4",
+      "size": 438
+    },
+    "data/json/witcher-04-swarm-day-00119-2026-02-25.json": {
+      "sha256": "8575e24e3cb4b6f8014cbdbbf7d0687724a3bec14c6fc1d642bde6ff26df90e5",
+      "size": 438
+    },
+    "data/json/witcher-04-swarm-day-00120-2026-02-26.json": {
+      "sha256": "c65e4eab290eb67714dc391dca04f64a7f2d6f97c1539d4eb8319d1f3b4f1564",
+      "size": 438
+    },
+    "data/json/witcher-04-swarm-day-00121-2026-02-27.json": {
+      "sha256": "3f5eb3a6259faf0b74d8b6cac16ae3235b281d1276fe648739818453dc0f6543",
+      "size": 438
+    },
+    "data/json/witcher-04-swarm-day-00122-2026-02-28.json": {
+      "sha256": "bb5022424d3606cd07ed28c109e89ea6868ba250095358d02603a3c1ca3dd0ce",
+      "size": 438
+    },
+    "data/json/witcher-04-swarm-day-00123-2026-03-01.json": {
+      "sha256": "00bd98f5cb47f065595979b6dc590950b4c65cf863cf07b9afdb2199eeae8a9d",
+      "size": 438
+    },
+    "data/json/witcher-04-swarm-day-00124-2026-03-02.json": {
+      "sha256": "f3c44e03baf2ee7446867d97bfc676e31863ad755ae2bd38c7f556664e177059",
+      "size": 438
+    },
+    "data/json/witcher-04-swarm-day-00125-2026-03-03.json": {
+      "sha256": "2aa473b01356dd514cbc600773f60f4343ef97353e3369a99d9899d7d2cb09f0",
+      "size": 438
+    },
+    "data/json/witcher-04-swarm-day-00126-2026-03-04.json": {
+      "sha256": "4df60867e200c7a6e96ce3b67d1208045187b52f71e0e683e25795b8b646b280",
+      "size": 438
+    },
+    "data/json/witcher-04-swarm-day-00127-2026-03-05.json": {
+      "sha256": "14fb6e9cff0cd9368feb6df6b9a0bc5d6cfc67d4eef2665e3ab201bea703df06",
+      "size": 438
+    },
+    "data/json/witcher-04-swarm-day-00128-2026-03-06.json": {
+      "sha256": "67ffcfcdcae1bbfc972ad74e98fc3847ac55655528ac0d05af51a9a9542f82e0",
+      "size": 438
+    },
+    "data/json/witcher-04-swarm-day-00129-2026-03-07.json": {
+      "sha256": "acacce004ab548f664fddb378e21f9cabd099e3921a3ea5c95daf36b7f5a7f8f",
+      "size": 438
+    },
+    "data/json/witcher-04-swarm-day-00130-2026-03-08.json": {
+      "sha256": "60d8840d87281029da8c3c6794dcbd28944f878d9049980e0fbd12d043a45d10",
+      "size": 438
+    },
+    "data/json/witcher-04-swarm-day-00131-2026-03-09.json": {
+      "sha256": "3c458525e8f5ba9a7eb47c7e8684677f5b796f5ea5740288626b9e6b2f40a83c",
+      "size": 438
+    },
+    "data/json/witcher-04-swarm-day-00132-2026-03-10.json": {
+      "sha256": "8f7359961aa00ad71b2ca05b9069b39127aed56f071bd5da0f469e18f05cd138",
+      "size": 438
+    },
+    "data/json/witcher-04-swarm-day-00133-2026-03-11.json": {
+      "sha256": "7c87c488837207bcb3468aeafe0b38d28c85da74c6f4db98e939d7b713a01789",
+      "size": 438
+    },
+    "data/json/witcher-04-swarm-day-00134-2026-03-12.json": {
+      "sha256": "47a8cd1e01de4f54e9a8130657d9ffacf602737afff25f0b4f5e37ab2c909fee",
+      "size": 438
+    },
+    "data/json/witcher-04-swarm-day-00135-2026-03-13.json": {
+      "sha256": "49973926defbd2830b75f1d687fefcf91ad8de2f81ad1f21e0e25e4327f20f2b",
+      "size": 438
+    },
+    "data/json/witcher-04-swarm-day-00136-2026-03-14.json": {
+      "sha256": "5f0151019b1d66b6bd70120730c1ea5c8a229528a6db581d5d30c3f9ead74d72",
+      "size": 438
+    },
+    "data/json/witcher-04-swarm-day-00137-2026-03-15.json": {
+      "sha256": "24f1865d5c2fab4420fd8a5d32ee9cb8d89a5c6a8f3c383d484fd992da04e54b",
+      "size": 438
+    },
+    "data/json/witcher-04-swarm-day-00138-2026-03-16.json": {
+      "sha256": "0551b200c8efca184760c26d9e864a55afc6fa79c2e6de30b8f2e78c122571a9",
+      "size": 438
+    },
+    "data/json/witcher-04-swarm-day-00139-2026-03-17.json": {
+      "sha256": "81fbcee37657c40158932842aa39102e36a824032775f238ee60d82876ab4a97",
+      "size": 438
+    },
+    "data/json/witcher-04-swarm-day-00140-2026-03-18.json": {
+      "sha256": "08ce3e7c797281d8396dd75ee5396af1069b07e294d1ff78390d6ffb58463318",
+      "size": 438
+    },
+    "data/json/witcher-04-swarm-day-00141-2026-03-19.json": {
+      "sha256": "e09f94b0165da30d49475f648edf81898353c1fa4f1838004464ae4272e35bc1",
+      "size": 438
+    },
+    "data/json/witcher-04-swarm-day-00142-2026-03-20.json": {
+      "sha256": "fdf73bd32b37565d2d3bffaef0ca37fcb9f03c64d4c9b23006dd751a568b5969",
+      "size": 438
+    },
+    "data/json/witcher-04-swarm-day-00143-2026-03-21.json": {
+      "sha256": "493743b9868d99382f5d21cdda7c17b72a367350c49f0a8d27112b94a594669f",
+      "size": 438
+    },
+    "data/json/witcher-04-swarm-day-00144-2026-03-22.json": {
+      "sha256": "af33df70684d2997b5ef8a3e9b1f1f1d47553f6393922d550d44d410572d9905",
+      "size": 438
+    },
+    "data/json/witcher-04-swarm-day-00145-2026-03-23.json": {
+      "sha256": "d4bb348079c6192bfd32ed6c90e3ce6c880239a08ac54d8f7d76c6d4bebaa8c5",
+      "size": 438
+    },
+    "data/json/witcher-04-swarm-day-00146-2026-03-24.json": {
+      "sha256": "e24cdbeb6be51deaae02a34a26c4e11c1b23daa9da1a248b65c2c762d0f64e2c",
+      "size": 438
+    },
+    "data/json/witcher-04-swarm-day-00147-2026-03-25.json": {
+      "sha256": "eb12c41284ac93a29ef212d7316228cd06f2a064a42848a177990d353116d507",
+      "size": 438
+    },
+    "data/json/witcher-04-swarm-day-00148-2026-03-26.json": {
+      "sha256": "808fd413daf860fb2cc428be07c63eb4dc6e4762ecfac9b08d8c7e95243578a4",
+      "size": 438
+    },
+    "data/json/witcher-04-swarm-day-00149-2026-03-27.json": {
+      "sha256": "ad0c7a874bd20c36f1287a248722263d5360fa2e48ce629d1c7eef1aabd603b7",
+      "size": 438
+    },
+    "data/json/witcher-04-swarm-day-00150-2026-03-28.json": {
+      "sha256": "209e36c8746f87b8fb63703779cadf2f78ab2945bdeedd38b1ff51d5ce875977",
+      "size": 438
+    },
+    "data/json/witcher-04-swarm-day-00151-2026-03-29.json": {
+      "sha256": "918510ae9f9e9431ba5ddb376202ae2e62f3d82fe44347ddf79ddbd530cd821d",
+      "size": 438
+    },
+    "data/json/witcher-04-swarm-day-00152-2026-03-30.json": {
+      "sha256": "9a7fc6934a9d43e9cbd15c9c1ec0bdc79f02f7f8f200635f863a0bc7218b7680",
+      "size": 438
+    },
+    "data/json/witcher-04-swarm-day-00153-2026-03-31.json": {
+      "sha256": "d35fc2ac59e2aa50a85607ff0a9c2740992a5247222a91c7222a4444c401dfd9",
+      "size": 438
+    },
+    "data/json/witcher-04-swarm-day-00154-2026-04-01.json": {
+      "sha256": "692cdb42c95d994619311959736be4c1cce40ec7aa9011b26e06410c83ef15ab",
+      "size": 438
+    },
+    "data/json/witcher-04-swarm-day-00155-2026-04-02.json": {
+      "sha256": "e96ef0bff4a71563e6a69def0cd548e2be8ac1d76a2311a00bf969bbe1f4565c",
+      "size": 438
+    },
+    "data/json/witcher-04-swarm-day-00156-2026-04-03.json": {
+      "sha256": "0091fde821fc134017dbeac6be8fc56c55601b0af012b889bddb9ca5654ce367",
+      "size": 438
+    },
+    "data/json/witcher-04-swarm-day-00157-2026-04-04.json": {
+      "sha256": "8cff5d260139bba36a72a143c281224b16e8fd323f21b2153eb8a2674a347a13",
+      "size": 438
+    },
+    "data/json/witcher-04-swarm-day-00158-2026-04-05.json": {
+      "sha256": "0c23702ee6b65e47482740caeeed810490c001bd94f8456bb8fee744e3551510",
+      "size": 438
+    },
+    "data/json/witcher-04-swarm-day-00159-2026-04-06.json": {
+      "sha256": "7c25d505bbdeb83499cc5d57764078aa363b2973ea8affb1cae2a629f675057d",
+      "size": 438
+    },
+    "data/json/witcher-04-swarm-day-00160-2026-04-07.json": {
+      "sha256": "85c8de3a405dbde687fd60efaa333d916e92defae1a3bef7bdeefdd6244b929c",
+      "size": 438
+    },
+    "data/json/witcher-04-swarm-day-00161-2026-04-08.json": {
+      "sha256": "05e6ba6ce8975a50b067e22850b8527c7d51d42b82cfe5dc66ff1910efda4c7e",
+      "size": 438
+    },
+    "data/json/witcher-04-swarm-day-00162-2026-04-09.json": {
+      "sha256": "9ce19a848862a99cc938183e7c7ae830842e9e61e60fb5310f5062cb5b8e8918",
+      "size": 438
+    },
+    "data/json/witcher-04-swarm-day-00163-2026-04-10.json": {
+      "sha256": "bf6aea920f66e18171dd881f2e8ce5438922c38517158c5ec01e70c3aafe7501",
+      "size": 438
+    },
+    "data/json/witcher-04-swarm-day-00164-2026-04-11.json": {
+      "sha256": "1d52968203b286b03c48b37df420739439ef9e04bb741e438d850fdf8d9117df",
+      "size": 438
+    },
+    "data/json/witcher-04-swarm-day-00165-2026-04-12.json": {
+      "sha256": "3da096ed6360eb0ea0a3a81d599cf3c144c0dd7a75c6ebe9d5fb0de80e45abba",
+      "size": 438
+    },
+    "data/json/witcher-04-swarm-day-00166-2026-04-13.json": {
+      "sha256": "bd1a58ee4995a61406dc79287085ccaefe35797c4c88abe27cfbd111976511d6",
+      "size": 438
+    },
+    "data/json/witcher-04-swarm-day-00167-2026-04-14.json": {
+      "sha256": "706f47b64f42cdf8dc9f29ce41edb31a50f424fab3058f36efe6e86659e22d3a",
+      "size": 438
+    },
+    "data/json/witcher-04-swarm-day-00168-2026-04-15.json": {
+      "sha256": "f70d45c7bf7ba5e00a68344206e36ba7d40713685483ce7f0ecf51ead495652b",
+      "size": 438
+    },
+    "data/json/witcher-04-swarm-day-00169-2026-04-16.json": {
+      "sha256": "8ae9af790681d38d19970105340577ad5030750f884fa8f6d01af83537c49b3c",
+      "size": 438
+    },
+    "data/json/witcher-04-swarm-day-00170-2026-04-17.json": {
+      "sha256": "c1279f03d854f24ef95f2ba93f9eeceb4bbe595d5b31de8b51f7238d2ff0c97b",
+      "size": 438
+    },
+    "data/json/witcher-04-swarm-day-00171-2026-04-18.json": {
+      "sha256": "46fdfc2163b72f985e25fc020e0becb96e2e995ccea56ebc215670ae40f39b91",
+      "size": 438
+    },
+    "data/json/witcher-04-swarm-day-00172-2026-04-19.json": {
+      "sha256": "a23284fb9880a286281ae3c98e44e1fac8744620d44b7ffd2f84221cb2c83e5b",
+      "size": 438
+    },
+    "data/json/witcher-04-swarm-day-00173-2026-04-20.json": {
+      "sha256": "a75cb32ab62c2810a13c6326ec335d2ed1c6c35dd2a0895f5498638885dec10c",
+      "size": 438
+    },
+    "data/json/witcher-04-swarm-day-00174-2026-04-21.json": {
+      "sha256": "74388c52699ddab520896870f169b52b54a948c4f72539efedcf6d7de05ef132",
+      "size": 438
+    },
+    "data/json/witcher-04-swarm-day-00175-2026-04-22.json": {
+      "sha256": "9c54fbe9bec117c1ef69b22da7c5c45f2cc44d222a8b0a44e379078936aba83c",
+      "size": 438
+    },
+    "data/json/witcher-04-swarm-day-00176-2026-04-23.json": {
+      "sha256": "6aee5b67ea03668326cc6776610c2d31b4e61f72a8082856db8e9dcfd3d38421",
+      "size": 438
+    },
+    "data/json/witcher-04-swarm-day-00177-2026-04-24.json": {
+      "sha256": "067a2e3b8b6853b7d338fc9110c7dd3229c108e34934fe05a4ace48bdaf54fe7",
+      "size": 438
+    },
+    "data/json/witcher-04-swarm-day-00178-2026-04-25.json": {
+      "sha256": "1f932bac22894696b54c8527c5c72eb129d7a0c334084fd63b88046bcf367f46",
+      "size": 438
+    },
+    "data/json/witcher-04-swarm-day-00179-2026-04-26.json": {
+      "sha256": "dca5e858a59c9d61e8508c1f7741a4cf97822aa9cda5bf7d054d25876baae5dd",
+      "size": 438
+    },
+    "data/json/witcher-04-swarm-day-00180-2026-04-27.json": {
+      "sha256": "3500326a0436d4d2c55de6c2c23034e68d6af822ad83201476166a708c058e7a",
+      "size": 438
+    },
+    "data/json/witcher-04-swarm-day-00181-2026-04-28.json": {
+      "sha256": "c95ab694fc067139948e847fdbee5856e8a6b6e8c9d5841c54fc080d0abf6da3",
+      "size": 438
+    },
+    "data/json/witcher-04-swarm-day-00182-2026-04-29.json": {
+      "sha256": "f36184b06f0487c07883ee9ca3261e2eba9ebe4b9db6a5af7a33ce6024387659",
+      "size": 438
+    }
+  },
+  "schema": "alpha60-year-day-product-bundle/1",
+  "source_revisions": {
+    "aggregate_binary": {
+      "sha256": "7408569641f7247fbd00969cffddaf1bb0cf2768c7fc1529f4cc6191ccfeae05",
+      "size": 38582648
+    },
+    "alpha60": "34f34e5c6eaafebbe65d9dbe1ade7609e9e61b2b",
+    "alpha60_data": "8faeae67a5d274d1fc00bffe9fc9318329163b20",
+    "day_product_contract": {
+      "sha256": "0aa0bee3ac14b512c786d3496ab5218a46aff11786ffa6aa9ea85e762fbd6370",
+      "size": 9897
+    },
+    "generate_cache_aggregates": {
+      "sha256": "2e03ba2df36d70d6293d803880c67ae0f2c3afde1ea5837075e31855a258516b",
+      "size": 22934
+    },
+    "metadata": "fbeb53a0b523f937fae2f23d14689d8c5c84dd5a",
+    "package_script": {
+      "sha256": "21d85741346f2bb967f618a36825484d87b3b94cea93dac22781c103abae8a0e",
+      "size": 15384
+    },
+    "year_day_contract": {
+      "sha256": "f1c07d6f2fdc19475a6f25ddaee5923957447a6f49a8009d8b4c9984a63bd883",
+      "size": 9356
+    }
+  },
+  "status": "pass"
+}
