@@ -1,0 +1,253 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt32132630",
+    "imdb_id": "tt32132630",
+    "revision": "fbeb53a0b523f937fae2f23d14689d8c5c84dd5a",
+    "wikidata_id": "Q126688522",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Down_Cemetery_Road"
+  },
+  "coverage_sha256": "57e6338f5af1b0c6668a1adb1ecd2d719e96a6d08b3b4d90f0e028609e337f78",
+  "generated_at": "2026-08-30T12:37:13.196181+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "aao-checksum-manifest": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/SHA256SUMS",
+      "sha256": "4a4818facd85b709f0321b0a6de31b4a3eff6f108f3b9354c75632926e6baa48",
+      "size": 266728
+    },
+    "aao-release": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/release.json",
+      "sha256": "3ce0984da2d12b0e3697e76c02608bd9d1a955ee3d00e0a7054bdd297b8f18c8",
+      "size": 1342
+    },
+    "aao-verification": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-aao-verification.json",
+      "sha256": "e01294ebce8e54b65e16ab83017fa5585efe6f7a0a0f1a5e0f734e08d8e223fd",
+      "size": 854
+    },
+    "archive-map": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-cache-archive-map.json",
+      "sha256": "8d4d506f23cd80f46baf010bd17509c916083e75eb8b43b052641138c3f308f1",
+      "size": 125170
+    },
+    "btiha-metadata-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/down-cemetery-road-101-cumulative-btiha-media-objects.json",
+      "sha256": "fe1d709bda6fa35fb379367dbd3bdb5c19c4b1e6f86059bd60912bb09bbdbb53",
+      "size": 397022
+    },
+    "canonical-metadata": {
+      "path": "/tmp/alpha60-swarm-metadata-2025/metadata/down-cemetery-road-101.json",
+      "sha256": "4b22df9375c8a7e261215f8a7aa263e8493d03422338675ca7c389bbe4c5f748",
+      "size": 9578
+    },
+    "coverage-report": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-coverage-evidence/down-cemetery-road-101.md",
+      "sha256": "34395c91d217f58b78933d06c1b95eed8b772c51eac8437b168702100bc1f2e1",
+      "size": 748
+    },
+    "cumulative-aggregate-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.cumulative/down-cemetery-road-101-cumulative-aggregate.geojson.gz",
+      "sha256": "10208c795c6f98d2c1578cd0046abb2c8c77590be2488c1add2864bd0001e5ad",
+      "size": 1032875
+    },
+    "cumulative-btiha-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.cumulative/down-cemetery-road-101-cumulative-btiha.geojson.gz",
+      "sha256": "7ad8d8d050fcaf32df2dc6b7a4e12fb9ffbff6ab33dc66f284eab04ea951ae55",
+      "size": 17609896
+    },
+    "cumulative-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/down-cemetery-road-101-cumulative.json",
+      "sha256": "0c4db9507653a67ccf39b11631e20ba0cddce469671d77c4470ce78d03cb2a6a",
+      "size": 15706
+    },
+    "day-bundle-receipt": {
+      "path": "/tmp/year-2025-day-bundles/down-cemetery-road-101/receipt.json",
+      "sha256": "2e75024aa7c31066fdd4723cf76827df80d676c349f259275dd0a9058912c5d0",
+      "size": 39998
+    },
+    "ip-swarm-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/down-cemetery-road-101-cumulative-ip-swarm.json",
+      "sha256": "4780bba56ff497d9160131346efd403f67129893f766af223fc54ad7ef7f10a8",
+      "size": 41587
+    },
+    "published-day-bundle-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-day-product-receipts/down-cemetery-road-101.json",
+      "sha256": "2e75024aa7c31066fdd4723cf76827df80d676c349f259275dd0a9058912c5d0",
+      "size": 39998
+    },
+    "week-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/down-cemetery-road-101-week.json",
+      "sha256": "48f78b906d907b9bced279a706eb2db14a4926c4cd9b51b7cc8a4e1c6042b94b",
+      "size": 1864854
+    }
+  },
+  "media_object": "down-cemetery-road-101",
+  "published_files": {
+    "data/csv/bytes/down-cemetery-road-101-cumulative-detail.2025-btiha-itemized-by-bytes.csv": "15b8160b4aa9ee6959a7e50cca922a560f3bdb5a298a49d4cf50a62f440d1aa7",
+    "docs/itemized/down-cemetery-road-101-sample-cache-audit.md": "64c0a365bf6a5c09d0a2cc6ffc62b8eda5709667599152a13459f0e6e097873c",
+    "docs/itemized/figures/down-cemetery-road-101-carto-4k.webp": "a37af77f02a9a05327f931006949760eb0c4ba4617fd8709620ad123ebe1701d",
+    "docs/itemized/figures/down-cemetery-road-101-carto.png": "6098f5a2773f82c8bdd6df3448e680ab6cc29b51c369dc800c06a81df4fbaccd",
+    "docs/itemized/figures/down-cemetery-road-101-cumulative-detail-btiha-itemized-by-bytes.svg": "59be5316a52fea244109842f2c8b559f8a6e16986b9b17364bb0e6552e72e3d9",
+    "docs/itemized/figures/down-cemetery-road-101-data-ge-1080p-4k.webp": "befc3f9bdb018a8ba03ec525e1d55bf121880d678570014fa2647661387d0b64",
+    "docs/itemized/figures/down-cemetery-road-101-data-ge-1080p.webp": "353e3893990d680dacba19af1c48a4ef8802a4930edcada17d67b474c716405a",
+    "docs/itemized/figures/down-cemetery-road-101-data-lt-1080p-4k.webp": "c9695168ffc12e54b5650323419e96c433c5aa227ae4a28bab9b4fa9c0220b37",
+    "docs/itemized/figures/down-cemetery-road-101-data-lt-1080p.webp": "3ee14214253cc295213362a0fb09fa251fae174c50737b2d69464c56570a0566",
+    "docs/itemized/figures/down-cemetery-road-101-downloads-by-day-day.svg": "d567b8c787334f1721f505821ebf980beb8fbf7d6ff5541789314d836c626363",
+    "docs/itemized/figures/down-cemetery-road-101-downloads-by-week-down-cemetery-road-101-week.svg": "3d82df030c5d10b1eacf537491b04f3ff8c1b5d30067b1a9add4e355c334dce5",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-year-2025-render",
+      "revision": "c3fc4c8a7866bee5f6d5f26160c56b2cffb05cb1",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "b5732bc916a52afce45790bf7005569f9cdebbb759447c374ec08d1f5222ed12",
+      "size": 36994160
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.cumulative/down-cemetery-road-101-cumulative-btiha.geojson.gz",
+        "sha256": "7ad8d8d050fcaf32df2dc6b7a4e12fb9ffbff6ab33dc66f284eab04ea951ae55",
+        "size": 17609896
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/json/down-cemetery-road-101-cumulative-btiha-media-objects.json",
+        "sha256": "fe1d709bda6fa35fb379367dbd3bdb5c19c4b1e6f86059bd60912bb09bbdbb53",
+        "size": 397022
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/izzi",
+      "revision": "b988ee7fd690a74a696c27c9aadf40c204a4c780",
+      "untracked": false
+    },
+    "media_object": "down-cemetery-road-101",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60-results-2025/bin/a60-meta-collection.exe",
+      "sha256": "e71f9def936a6868d5282a5ff7dece07ade360eefa07abebde75434a927220f7",
+      "size": 8743680
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          67.0,
+          40.0,
+          38.0,
+          37.0,
+          35.0,
+          32.0,
+          28.0,
+          27.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Seoul",
+          "Moscow",
+          "Istanbul",
+          "Saint Petersburg",
+          "Nanjing",
+          "London",
+          "Shanghai",
+          "Amsterdam",
+          "Hangzhou",
+          "Lelystad"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          68.0,
+          43.0,
+          39.0,
+          34.0,
+          32.0,
+          32.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Seoul",
+          "Moscow",
+          "Istanbul",
+          "Saint Petersburg",
+          "Nanjing",
+          "Shanghai",
+          "London",
+          "Hangzhou",
+          "Amsterdam",
+          "Incheon"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 21,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 24,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 15,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "c3fc4c8a7866bee5f6d5f26160c56b2cffb05cb1",
+    "cartofreako": "fc58111b5bfa7667b12f6ade522ae5e566b464d1",
+    "izzi": "b988ee7fd690a74a696c27c9aadf40c204a4c780",
+    "metadata": "fbeb53a0b523f937fae2f23d14689d8c5c84dd5a",
+    "results_aao_adoption": "9cd9d91a6fbb560ac2a96beadf4c83b94daf6a88"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2025"
+}

@@ -1,0 +1,893 @@
+{
+  "archive": {
+    "path": "/home/bkoz/src/alpha60-xperiments/year-2025-archives/down-cemetery-road-101.cache/cache.20260210.tar.xz",
+    "sha256": "5538bfe96314aa33cb1e9110e4212e4616dc6ac0caea2ce35e855caeef29e53d",
+    "size": 823231432
+  },
+  "authorization": {
+    "archive_mutated": false,
+    "excluded_member_classes": [
+      "hour",
+      "week",
+      "cumulative"
+    ],
+    "raw_samples_opened": false,
+    "scope": "read only streaming of per-torrent day records"
+  },
+  "collection_key": "down-cemetery-road-101",
+  "day_product_contract": {
+    "collection_key": "down-cemetery-road-101",
+    "day_products": 105,
+    "first_date": "2025-10-29",
+    "first_index": 1,
+    "geojson_data_version": "20260701",
+    "ip_geolocation_version": "6:1777968300",
+    "json_data_version": "2026-08-05",
+    "last_date": "2026-02-10",
+    "last_index": 105,
+    "schema": "alpha60-day-product-contract/1",
+    "sparse": false,
+    "status": "pass"
+  },
+  "publications": {
+    "data/geojson.day/down-cemetery-road-101-day-00001.geojson.gz": {
+      "sha256": "8f69c51864e13bb29d2c833528b8b2f07556a0d5d3ba56a274d4a1223529934c",
+      "size": 5014
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00002.geojson.gz": {
+      "sha256": "d6a677187569e929a088c384b9add97f72c7f87a62774d670ecc77f498dfd11b",
+      "size": 15258
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00003.geojson.gz": {
+      "sha256": "28fd0ea5b3ac8a5a3afb7158495b5bc1597531ce55181f33cfc227eb2c69e1f0",
+      "size": 34587
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00004.geojson.gz": {
+      "sha256": "6008f243ccfc15a28e1b62d44788daa9e57ec950934078a9b2c9cf251f1d4ae5",
+      "size": 55827
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00005.geojson.gz": {
+      "sha256": "596458968a30abdedbd5f654ce623d499b16fe62bcbf19aa3adf06c76d5feb71",
+      "size": 121970
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00006.geojson.gz": {
+      "sha256": "19cace8c6b7ad5178b07919005a55e9686dcf8d27c10d7e02347d10b3c2e9f5a",
+      "size": 124251
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00007.geojson.gz": {
+      "sha256": "095d19aea25d7c5cbb9c4c0a927d74dc82f5798b1a21b0e0b956dfffb0789d7f",
+      "size": 134919
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00008.geojson.gz": {
+      "sha256": "e02b4e2bdd6ba0c59e9c18c4d61d113a61a7da16a6cfbc39d57eda09d65d961b",
+      "size": 132648
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00009.geojson.gz": {
+      "sha256": "878e10ccdecdf238ebf709d0356d792e6941558cebf5e7ebd35b81cd2d7b0803",
+      "size": 143122
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00010.geojson.gz": {
+      "sha256": "a81c93fcf95521847be319475cc92965c3ac40c8c4b6d9e797cbcc048e176580",
+      "size": 141523
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00011.geojson.gz": {
+      "sha256": "70aa3e9d59058e3485faad6d86abbe88a86c40382cc1a374ee0a811fbfe73312",
+      "size": 133202
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00012.geojson.gz": {
+      "sha256": "5d98a1969e7b05be274df5dec38fc76579e824d9efa9ce4dc440572fdef96689",
+      "size": 134505
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00013.geojson.gz": {
+      "sha256": "06199450070ebfd0e6ed621dcf7abcce0971cc84e2d39caf31f619caf1f5f575",
+      "size": 156435
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00014.geojson.gz": {
+      "sha256": "a194d389a416aa303495acb99095d17a3eff13e421bd731b8602bba20b9b23a8",
+      "size": 145418
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00015.geojson.gz": {
+      "sha256": "661a4f07f43219cab0ded2f719bf3cdc2a9cbdc5ea75527907e6f3a5b21138a4",
+      "size": 170124
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00016.geojson.gz": {
+      "sha256": "14d61f29d327cf3c984ee665f21be5555ac57f3acff19a9add135df37a5d4a6d",
+      "size": 163735
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00017.geojson.gz": {
+      "sha256": "99485ba5ac886d6646ad4b53ea446ed4e9624ff3c70b8c6878b834bbb6e2215d",
+      "size": 166388
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00018.geojson.gz": {
+      "sha256": "74d67da13b9a9b26f3ac433f2fcc52610362efad40f902a995e10d483916be28",
+      "size": 171986
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00019.geojson.gz": {
+      "sha256": "009fe686247f246aa08308eeae0647324faee38cc4684f139b83d86e950caad8",
+      "size": 165611
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00020.geojson.gz": {
+      "sha256": "c2e012d4052688e9780b1f4206a45bb0dcfd533781e3265be9ca85b43e989214",
+      "size": 193333
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00021.geojson.gz": {
+      "sha256": "3c872e55c3774d073ee4d2a23b9348d6a68e9e700e70d8624bc71a3386b87d5d",
+      "size": 176565
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00022.geojson.gz": {
+      "sha256": "ddf16e0812069dbe36be75655b6b5f47a73fc4fccdee3ba44ccdae621aa9c5c6",
+      "size": 193166
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00023.geojson.gz": {
+      "sha256": "a65749f1d8cdd55f07d6bd58e72c83e1fb8a09a25a9ce0cefbb02ecd5b949d37",
+      "size": 196307
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00024.geojson.gz": {
+      "sha256": "32b06ceb5b7c9ac2c4153a62dcd20bfd2620f79457055fe958cf0bf21b6455a9",
+      "size": 235934
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00025.geojson.gz": {
+      "sha256": "53ba3d421f878963652f3de2d0c7de964ea3167fa775ba70616bfb195acb0911",
+      "size": 192066
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00026.geojson.gz": {
+      "sha256": "fdfe6af858128fb51fce53f1b8f6ca171d8d8fdf84720fc650254abfb737c823",
+      "size": 182499
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00027.geojson.gz": {
+      "sha256": "5a706d82ad876e4ff39da8fa4ff112f914628b35d883df7d5fe745bdffe085ec",
+      "size": 193487
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00028.geojson.gz": {
+      "sha256": "b81e268a5e4087f88744686c756b9595d5c5a413c5f7d576fbc85109c1abde50",
+      "size": 186248
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00029.geojson.gz": {
+      "sha256": "ee33e8e6c199f894470c775bdc10ca8b788d874ad06ec136cdf4f3c812f4d7c3",
+      "size": 195608
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00030.geojson.gz": {
+      "sha256": "5893d2a2df1e4a02d4b183efc28225fabd828727f749c4c42a9df5b9f9f6d9e7",
+      "size": 200093
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00031.geojson.gz": {
+      "sha256": "310bd3fd4506c5aff5e5048556c1eb4ba8e1248bba0f4f163d1f0469f075acb0",
+      "size": 193265
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00032.geojson.gz": {
+      "sha256": "905b6428a1599817752b652a6a52531765f2ababc8637fe2ed1d294049765ca2",
+      "size": 199333
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00033.geojson.gz": {
+      "sha256": "c5f71f55239b17cde7b283f7f8d4f2af0626b074a5dfd78e3a3425ecafc3a8da",
+      "size": 202696
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00034.geojson.gz": {
+      "sha256": "8269890b1ddd343af8ca192feb6936cf32ad1ecf998f589fe5bc0b455ea10951",
+      "size": 215478
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00035.geojson.gz": {
+      "sha256": "e2d6e9adca9efb2a27486768b283b0059f8c8e6f40c7de00475dd2ba5affc777",
+      "size": 214828
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00036.geojson.gz": {
+      "sha256": "b1d4fe7aee89ff6b900c87b3df10e00c2a30a5e23612516be48f78466c375370",
+      "size": 211528
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00037.geojson.gz": {
+      "sha256": "deb1dd4b6748042b74599bcf8987bdcf3b12d6681b9bd543d0b7ade95142d7c9",
+      "size": 202468
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00038.geojson.gz": {
+      "sha256": "05a5f6c4ded576532a01c3e231e489f9e34cb3b6c94878e308b64add2964b999",
+      "size": 202311
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00039.geojson.gz": {
+      "sha256": "3fbfac96274f2e47ca1096a63e8a77e5bd53487873732a3fb747cbb8f4c477fd",
+      "size": 193759
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00040.geojson.gz": {
+      "sha256": "db7f3f5b9dfa79809fafe3b533fdc93c0a6146338bd434e19a7b7058d3b67406",
+      "size": 185250
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00041.geojson.gz": {
+      "sha256": "7ec467253cb4f1577feb037841a3a8aee13e016af241ab6a5a3b641db91276bf",
+      "size": 205557
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00042.geojson.gz": {
+      "sha256": "2f61998ba2b18a18c39f81a523dd55971e9fb98ff1cdfbf8f088f143a8096283",
+      "size": 196898
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00043.geojson.gz": {
+      "sha256": "8fb370a5cb904aded585e7d7ab0346f3a64323ea55acc44c505a4e7ad9ef0d6d",
+      "size": 200742
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00044.geojson.gz": {
+      "sha256": "c7ac2b637808a1901c707f3ca8e68399c041b0c8719176cf3aedb8f5f819518c",
+      "size": 199149
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00045.geojson.gz": {
+      "sha256": "82a720fcc6e4d23784115b3499670a03cf36f422d5c23aa9963d5fb825f72a47",
+      "size": 190087
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00046.geojson.gz": {
+      "sha256": "ed380b7190a51233ea9dacd4d5af7957e59104ad83b4db65098851af436e5f93",
+      "size": 186676
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00047.geojson.gz": {
+      "sha256": "17d7352b9a2969496ba0b89a12e3380832e7832eac7ea407c6589b134c2e31ff",
+      "size": 172564
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00048.geojson.gz": {
+      "sha256": "6a59b51e10ed83fdbeced3d0ea38ebd7cf169217e17e9edb0e0536228c5712ad",
+      "size": 210988
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00049.geojson.gz": {
+      "sha256": "0918d87df1f1a0ef2019b144173b535cb497d4397b94ba6226654454fc73f1c9",
+      "size": 208710
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00050.geojson.gz": {
+      "sha256": "2f556f2cc2a630ccc21d380983d7bc6b143e08d81e3e8da4d422654d3d5d0b1f",
+      "size": 196073
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00051.geojson.gz": {
+      "sha256": "779f24f3a622fd5567d9d7477cea55ddf76c3bec82424407d3dee0985cbc93a1",
+      "size": 201163
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00052.geojson.gz": {
+      "sha256": "74a273a70cc54a7893e0a959f8349f2338230e65ea422ea28c4991adc6836b72",
+      "size": 186685
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00053.geojson.gz": {
+      "sha256": "65bba4c5683310a192134a536421c9c59aaf6de87d636bea539451b09e17344f",
+      "size": 173442
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00054.geojson.gz": {
+      "sha256": "97aae124b9fa8abe8802bbd80145d22780f455b0e63bd82a9f25a7116bd6b862",
+      "size": 178766
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00055.geojson.gz": {
+      "sha256": "0f506c4d1566d5001a8d728c5cc20c93ea47980f772bb9bb87878bdc0c2df73b",
+      "size": 141371
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00056.geojson.gz": {
+      "sha256": "e552bc1bd661f53308fc51988e497a2a8a6c9e05ab694af2625e01f97ce19a85",
+      "size": 103930
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00057.geojson.gz": {
+      "sha256": "eb2402bc2ba396ab1b1f98656204b1e19fe94c9d4a72d5341f452af1ce7eb293",
+      "size": 185955
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00058.geojson.gz": {
+      "sha256": "8a27015e0d8e2dbd344911f1f6c0f0427ba84da6fca2d14a5fb294e0c2cf1ada",
+      "size": 183472
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00059.geojson.gz": {
+      "sha256": "aa66536335b9cd6af7cec05f1f82b55fa00a1dbe9f0883f34a5d6ceb3a5c5a72",
+      "size": 180433
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00060.geojson.gz": {
+      "sha256": "d9fb30e16d45bcda9c148ce90470e0ac3ee2b0beae31114db0d7e9b74b19bc3b",
+      "size": 178979
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00061.geojson.gz": {
+      "sha256": "f0355299d5fa8f8730b2d87af705dec778eac8e68ad5288f769627468b66a9e2",
+      "size": 159846
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00062.geojson.gz": {
+      "sha256": "0d3d028e7cfd946c74a5228f5a2906bb1f0e1451501af20216130a8a2de28eb0",
+      "size": 183144
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00063.geojson.gz": {
+      "sha256": "f57702ab823b2a41f5111f94cd98c3140b232870528653e77394657a136b29a5",
+      "size": 187247
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00064.geojson.gz": {
+      "sha256": "e730d39a650e7891710a75f903ebeae1fec43749f18c301fe46767bf725e9cbc",
+      "size": 193127
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00065.geojson.gz": {
+      "sha256": "b51f31fa5df52520c9e00ba42e91e6de8f5a71c711d3148eee94a56903f72060",
+      "size": 203381
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00066.geojson.gz": {
+      "sha256": "01d2adb86f3bf7cd15c0fea876938a13fa6b6ce607133254197423d0794bafbf",
+      "size": 204057
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00067.geojson.gz": {
+      "sha256": "e9240b89b6a75a7036a670c53603b2b41cfa698e84f920f0ffe1fe4d557bf935",
+      "size": 180428
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00068.geojson.gz": {
+      "sha256": "08a85eb392e7ed6cf0cfffbfa031bb1759fa7d7487515a7b118dd777b75c3bac",
+      "size": 187741
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00069.geojson.gz": {
+      "sha256": "1fc65125b9c3148dfb398ae60f7b22dbce3e5dfa0d9fed0e156d4d9836de0eab",
+      "size": 202854
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00070.geojson.gz": {
+      "sha256": "52fffa2afc024bfd735e6ba0e6c258e2fef6a0197ad6b395c6011381f42b0209",
+      "size": 177804
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00071.geojson.gz": {
+      "sha256": "affab01ecef9c158c720a8703aba4bc6308d27d1e1a582486497eabb720366bf",
+      "size": 196393
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00072.geojson.gz": {
+      "sha256": "74336ab543e78c5b8d0f4a1ade61e1236a2fcfe08b46e818837dae543d80af3f",
+      "size": 216241
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00073.geojson.gz": {
+      "sha256": "0d96303b5e6876491436fe5de8b8cf8f2aac6e3047bba19c713c3ef4d987dd72",
+      "size": 206739
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00074.geojson.gz": {
+      "sha256": "cc97242d14adbc0e6ac46e6060028dbc1de9035dcdd3db9647d7f41c4d47a3d4",
+      "size": 185922
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00075.geojson.gz": {
+      "sha256": "03c90c73abc638d9cbfeb77c55b4df023838e94082a2edf6434343f54f858120",
+      "size": 194263
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00076.geojson.gz": {
+      "sha256": "6c3ecc0bf09a6be45c62d1fafaff9fab3d0111836073c77dc2fda2a0e06c0adb",
+      "size": 185077
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00077.geojson.gz": {
+      "sha256": "725ba9aca32faecd45e2f6dae999fbecc78d9478840c2fe08be99242df6a1384",
+      "size": 202113
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00078.geojson.gz": {
+      "sha256": "28c77def4fb13f20b0d3f9ca3e92a577f2645feeefa9dab139c637e4eb45daf1",
+      "size": 202437
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00079.geojson.gz": {
+      "sha256": "b7aa952c1da030842052325f585a47e7e9a84ac1cce181ccb1805e9ae7f6eff0",
+      "size": 203339
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00080.geojson.gz": {
+      "sha256": "2999f26b7a864f043a555fb526a7aa95181930854fb71ddd4d22ac6e8930da22",
+      "size": 201220
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00081.geojson.gz": {
+      "sha256": "6c981b8bd485daf3216adbede72047da38d61a818ccc116c6eaa02ee0a0a174c",
+      "size": 208612
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00082.geojson.gz": {
+      "sha256": "8167f14917ef19d8b5b7060ba7353958e595ddad827481f298a724f5091e6084",
+      "size": 190214
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00083.geojson.gz": {
+      "sha256": "31120d221e32d1d582b609b94b724fb7526dd87cc8aba216878e62e5e2722ad8",
+      "size": 197211
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00084.geojson.gz": {
+      "sha256": "a03b37c58d9ef8010152b5d42e98f60d54df5534a631bc39b05a33708df35b05",
+      "size": 181468
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00085.geojson.gz": {
+      "sha256": "c6b81213031ff1a6ef6632d82c62a88ade68f779d56dd235ce6c2566edf62a85",
+      "size": 194360
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00086.geojson.gz": {
+      "sha256": "c6dc5036cea6fc0021af7d1c5db19b3b7e9627b46fd5844938ce938307744cb4",
+      "size": 195736
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00087.geojson.gz": {
+      "sha256": "b0ca54c500cea617bd65fc51e28e020e787dd7a30e19eb00686a53e80cfdd185",
+      "size": 192457
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00088.geojson.gz": {
+      "sha256": "c157effec4372631f68c6489512b0e49e59e02930c86e91d05efc8bcc67ee579",
+      "size": 171443
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00089.geojson.gz": {
+      "sha256": "c035bf9e2c2dcd2ab3bfedd2675e035d781380784a40e5788fe0610900412a1e",
+      "size": 172871
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00090.geojson.gz": {
+      "sha256": "63d6f622d1990ce6eaa73d2da1265e3e75e2f12b6254372690e145936301ed56",
+      "size": 190383
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00091.geojson.gz": {
+      "sha256": "b3def13e222cf3eec7467ca5eac702955cc2f0d12222feb28275aa72b54c5a3d",
+      "size": 182027
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00092.geojson.gz": {
+      "sha256": "b74cde186fa1384ab7b149268fa5fd2226f80b900f76e439bab7023d2d06dac9",
+      "size": 163956
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00093.geojson.gz": {
+      "sha256": "e5b08f7722f0bc3b3927c1a0675a1d8746d5774b4daa64d3cdb677ff109b3ff6",
+      "size": 176509
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00094.geojson.gz": {
+      "sha256": "c7639ddd44a62f1daabbb6947545cb12de6d7b0d6315952829dd7bf22ef08a57",
+      "size": 194198
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00095.geojson.gz": {
+      "sha256": "83dc267cd2e097bd200e5bee68f2890b7eba1f7d383c92cba3ec87078ef70de7",
+      "size": 177100
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00096.geojson.gz": {
+      "sha256": "02351cec7b092be20aaa137fa85d7414df7063a1b128166ae21ed3c678fa8e72",
+      "size": 167782
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00097.geojson.gz": {
+      "sha256": "34d78c842dffb9591ad86244b9d21ac601f99e4193b5bce4cbd6d7fe45791c7f",
+      "size": 191401
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00098.geojson.gz": {
+      "sha256": "25f4fecdb27329e688090c0802c73cd245b712953d66d22953aab339a6140480",
+      "size": 195539
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00099.geojson.gz": {
+      "sha256": "d03410e35670d024e5c6a4f13aae242bed160b3da9f4d21a208830f64da1c4b9",
+      "size": 198801
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00100.geojson.gz": {
+      "sha256": "46beb085ebc291d8d4b49898eb06c17e8094f93f8aa484eac209f56caf3dc2ee",
+      "size": 195351
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00101.geojson.gz": {
+      "sha256": "50191dc919ad955dd8a4566c5ebe978bf79ed0dfb415373af53cc39a90fd07c0",
+      "size": 234394
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00102.geojson.gz": {
+      "sha256": "083437f5bb492fdfa7014e4c9332debf56c9cc10702f2b8e27a92285ead67a47",
+      "size": 196623
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00103.geojson.gz": {
+      "sha256": "1a1fd79becaa5dd7f045e5e199d8efaba26c36d5079223d83bdc302980c69186",
+      "size": 173386
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00104.geojson.gz": {
+      "sha256": "7590f352bf3e6a202d4e2ff5c955c5be4707aa63f3dd9a0ed8b2266f623406bc",
+      "size": 207301
+    },
+    "data/geojson.day/down-cemetery-road-101-day-00105.geojson.gz": {
+      "sha256": "9e817c7a511bf972c350605ad974f406cf798e6c4a6bbf84f46e2fe7433ec0dc",
+      "size": 199892
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00001-2025-10-29.json": {
+      "sha256": "72567f940a4e02624f94a7038ae5c01b0d4383434df8dd2f8cf72d63c247f3b2",
+      "size": 455
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00002-2025-10-30.json": {
+      "sha256": "743b51a5224fb4b6f36e70a0eba9c4ba4b50ee8d18462f513f55131225bcca78",
+      "size": 455
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00003-2025-10-31.json": {
+      "sha256": "9d8498089d47d2a1fabf020d3b363a53967d06ea118df9d184fdf4cf3a1ccb91",
+      "size": 456
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00004-2025-11-01.json": {
+      "sha256": "9c661fd19d06315d5e7351181e6c9d4c0d0dd97f1d14538ecfef237dfbd8243d",
+      "size": 456
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00005-2025-11-02.json": {
+      "sha256": "a897f9f85b661e2a34d765e88ed22e52ae12d87eca33099ffa445943faa4902a",
+      "size": 457
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00006-2025-11-03.json": {
+      "sha256": "d1b5533c2cdcc511246ed67373463d4dc542e4bbc07980bad66803552511164f",
+      "size": 458
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00007-2025-11-04.json": {
+      "sha256": "13e5b28da5be988bd7de688a95ba8d4cde414e4ccb2e1c8d50566f30c82e559b",
+      "size": 458
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00008-2025-11-05.json": {
+      "sha256": "24baf253e38cdcf6af22a83e3d006719dde7da864ab06d78badbe2a3cc7a5ce5",
+      "size": 459
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00009-2025-11-06.json": {
+      "sha256": "eb53bc1031255fbcd4b7f2c9bedf7ec81474e4e664991f473019c69917413e06",
+      "size": 459
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00010-2025-11-07.json": {
+      "sha256": "c7a93aea83f9bd10ceffc5ab1667c6022a643de3033a5f42ca8ebd8ea9e3ba43",
+      "size": 460
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00011-2025-11-08.json": {
+      "sha256": "0c479a538df2caf723b60e0eacbcf4aa1fb2aeac36149acdcacaebfc6720d1e2",
+      "size": 460
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00012-2025-11-09.json": {
+      "sha256": "c4d642a40512583a1871ddd736c0b480317bb34afa5b5f90bf010e67e9165f7c",
+      "size": 460
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00013-2025-11-10.json": {
+      "sha256": "61044eaec7d960d8045a1e526ff832ab4c3a526328b2431a944c98740cd82b15",
+      "size": 460
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00014-2025-11-11.json": {
+      "sha256": "aeac0882c719c665691bb4f3693583e918196cb8c7bf090eccb0016f320b0a06",
+      "size": 460
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00015-2025-11-12.json": {
+      "sha256": "cf1042ff3286beab92554556d7697af44b83bfc9abc4d1c08c9bb998be7d408f",
+      "size": 460
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00016-2025-11-13.json": {
+      "sha256": "f5f0b23474cc233e305a7fc86e24948e0ea4a739efbf029f6bf4f547ef93a22b",
+      "size": 460
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00017-2025-11-14.json": {
+      "sha256": "36515a652a9ab76dad17a846d9946a7ba6a0a8a84b1495799fb013b62f7f960a",
+      "size": 460
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00018-2025-11-15.json": {
+      "sha256": "ee3cf2e9a19cfc78843400c99915b947091dffe1d319163804b50f27e046ffd4",
+      "size": 460
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00019-2025-11-16.json": {
+      "sha256": "ff073fdd8f86736c67c1171b062545d62a82811202f215eaf393609e8ba04241",
+      "size": 460
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00020-2025-11-17.json": {
+      "sha256": "6020c48d15651bb756978c99e615989e5510ba30b588487110282a3d3d7a89ba",
+      "size": 460
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00021-2025-11-18.json": {
+      "sha256": "9a0a698e166c2393165abcd21c99a9f5c7b65dd0989434e756f0b9be59045615",
+      "size": 460
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00022-2025-11-19.json": {
+      "sha256": "eee3f4e7718a3ed87883de46e59cb8a0b6dfd338fd78d122591bc1a4f66072de",
+      "size": 460
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00023-2025-11-20.json": {
+      "sha256": "6a2297f76b94052e17689bbde9d97901ef6e79e5fb9ee316a2d2508ecb890130",
+      "size": 460
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00024-2025-11-21.json": {
+      "sha256": "919b9c8904019db9501a8f85ac9fc92d526fd82487b6025ffb66c15c5e281aab",
+      "size": 460
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00025-2025-11-22.json": {
+      "sha256": "523a178b1a000b9c4cad64f9a57b4c4990c0bd3f99726ab0a90b7ccc9ccf3634",
+      "size": 460
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00026-2025-11-23.json": {
+      "sha256": "099a9fce246c4677a0ee2ed0f352d6a5009d273b5b4c222c2e8b12359479aaaf",
+      "size": 460
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00027-2025-11-24.json": {
+      "sha256": "cb93161c14ed88981b0609f873bd9bfc3de85a8ce546d8571002500c717ab946",
+      "size": 460
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00028-2025-11-25.json": {
+      "sha256": "22bd3c426557557cd2aad97933a1553a50dba8fea6cd8ec6079f93d56f138fd5",
+      "size": 460
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00029-2025-11-26.json": {
+      "sha256": "653991b3f7fbffdef395675b9fd275509499c60df987b2b89041e55c1de7fcfb",
+      "size": 460
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00030-2025-11-27.json": {
+      "sha256": "1f293751cf33d43c739f29ac50ce4c0b8b58a5ae5853bc2c54f7383b30b79ab7",
+      "size": 460
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00031-2025-11-28.json": {
+      "sha256": "0b9d53f35d0e4329f86b2a07d652367055a893ee67139f27d6f5718e56e71313",
+      "size": 460
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00032-2025-11-29.json": {
+      "sha256": "2b508865150112fb886aeffcab2b9dbf4fde9c8f137f281ebb1bdf27b0f511e1",
+      "size": 460
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00033-2025-11-30.json": {
+      "sha256": "a1ca8f1de0aff3abb2436f931ac2767766e85290b226095eb7ebb61b8ba01688",
+      "size": 460
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00034-2025-12-01.json": {
+      "sha256": "8c23bfdebd73d08d4aa81b77e3c1d0780eddbd60d86f8b83d5eff1f9c599e820",
+      "size": 460
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00035-2025-12-02.json": {
+      "sha256": "64a793244be91b8b993cb238e81fcce10c46dfe518f7a38bec74e2177d71cf3c",
+      "size": 460
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00036-2025-12-03.json": {
+      "sha256": "adb298b38eabc07e6a1f7617ccba55aa7c94096476a2c9538e25f976a5e8afd9",
+      "size": 460
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00037-2025-12-04.json": {
+      "sha256": "9a95b5b7818eb1a27ba317c3d88b318eb661739872665c6b214b5cb871ef058f",
+      "size": 460
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00038-2025-12-05.json": {
+      "sha256": "207a008a0f327da0d879631d1813ab37b4c6b24b743a4d7277ae0e6ed533a7aa",
+      "size": 460
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00039-2025-12-06.json": {
+      "sha256": "af9dbcec7a39cc9ead7db67230a843542a5972c47fdadca92b73e3e778c416b6",
+      "size": 460
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00040-2025-12-07.json": {
+      "sha256": "4a0cfe49e8609a0607d76cd7eafb26dec4d6929448115a34c156b6a1b866368e",
+      "size": 460
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00041-2025-12-08.json": {
+      "sha256": "1327e84e982d277a0d60c1838e3545c3d82ac9485f68df416fb16f72d209535a",
+      "size": 460
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00042-2025-12-09.json": {
+      "sha256": "77b2e97835327646a6908a1dd7fb7ddb63ff221e209e512307a340067a4bf4a8",
+      "size": 460
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00043-2025-12-10.json": {
+      "sha256": "913dd4eac7995e52f3f91d8a33b483e0191189b77d7e8cc423f8c96b7792be27",
+      "size": 460
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00044-2025-12-11.json": {
+      "sha256": "44e2f63f25141c7e531b80d8032d6cbd5749b98dbab873ac9b62838dfe1f2e65",
+      "size": 460
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00045-2025-12-12.json": {
+      "sha256": "d767eb3bfd01cf4d1619fac82c4c2b70d03a9b1725737ab3bd2635b78c1008c2",
+      "size": 460
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00046-2025-12-13.json": {
+      "sha256": "ed64afd4c62066a8341dfc55f7bfa4e135c685a0c549f9831f24174ff0c8373c",
+      "size": 460
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00047-2025-12-14.json": {
+      "sha256": "7d7f6e7c6f9b99e06cff92d5e2e72104ebb04ef3451d464be401464a73a38f68",
+      "size": 460
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00048-2025-12-15.json": {
+      "sha256": "774c6fa91f7af39aaf607c0164d7b14f4714b603e5a59df3385463e840530cb5",
+      "size": 460
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00049-2025-12-16.json": {
+      "sha256": "aeffecf44fb58d083cbae4cdd69f69d9f764611f2a3e3ddcf56c2090f9cb656c",
+      "size": 460
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00050-2025-12-17.json": {
+      "sha256": "7af955127ceee6e19adb109ffcf6bdc8aa5930cc3252bb512a8fb44f9e03b57a",
+      "size": 460
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00051-2025-12-18.json": {
+      "sha256": "d7ceaaa7ae3be266213bad5a9a5e38ea1f3648b087063f1345071a38965fabc7",
+      "size": 460
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00052-2025-12-19.json": {
+      "sha256": "5d8d7fb071b3aeb7dd282e735424482f35916dc8d99dff7aadd0d2dbc21923ed",
+      "size": 459
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00053-2025-12-20.json": {
+      "sha256": "0a3a17d8e8262964323a48b056edd2611fdf40808806685d7cef73ff88711783",
+      "size": 459
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00054-2025-12-21.json": {
+      "sha256": "a37ef55a93d40759afcc4410c1ab7f68bfa5b298d9962d649ecd68972e5df62d",
+      "size": 459
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00055-2025-12-22.json": {
+      "sha256": "1677295345eef1eda1de230649cf883636cad7e20aca15a65c518e2f88442d00",
+      "size": 459
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00056-2025-12-23.json": {
+      "sha256": "4acbcd6d4a007a203603f0c621d69b31f1501e347f02c9178f4c8060cefa121a",
+      "size": 459
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00057-2025-12-24.json": {
+      "sha256": "46c8ea6a6e631d1bf3508a31c7259c45f4cd6bbd526487d8fde896ad6bfa0e43",
+      "size": 459
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00058-2025-12-25.json": {
+      "sha256": "1292f5ee2bbb84d467124d77df104c62108d66a5ef512461fef12f4b9b908584",
+      "size": 459
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00059-2025-12-26.json": {
+      "sha256": "690d6f1ba25b584fb44f491f546f01cb59c4c1e84a9648526199814d8ef971d6",
+      "size": 459
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00060-2025-12-27.json": {
+      "sha256": "106be244e16da6a010616efe7b4d97bfda7e216f53c753603b935162df0854ab",
+      "size": 459
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00061-2025-12-28.json": {
+      "sha256": "1d437282f637bd9766d3e965ec30029df8cf7ffd540bf7f07bc9c7bc6da385b8",
+      "size": 459
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00062-2025-12-29.json": {
+      "sha256": "92fb964869271de1ebd1b35b6f5db5b107b3f7a22fe490e3a6cd3202ccfeb8cd",
+      "size": 459
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00063-2025-12-30.json": {
+      "sha256": "d7c77a211640dbdcc9eea5e45cd9ff0201792eeaca3943b39d9a7cfb01d39a2b",
+      "size": 459
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00064-2025-12-31.json": {
+      "sha256": "85092b72a844867315b279a5e712b21b3bc6687c2dfda318e731eeb59f5ccb06",
+      "size": 459
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00065-2026-01-01.json": {
+      "sha256": "5b4daab416a6fbb136a5108a580615b658ec900cec62c0fb2e486958f264fe51",
+      "size": 459
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00066-2026-01-02.json": {
+      "sha256": "983541dd126485cc538a3ebf7b658029655b151143a05e9e96cea798d68f7b87",
+      "size": 459
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00067-2026-01-03.json": {
+      "sha256": "41d0c4c602d970a454abc3d0a3258b34011730f842ccd47048cda83e7e77c145",
+      "size": 459
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00068-2026-01-04.json": {
+      "sha256": "ab37de653882f86d941c52e0d795a3398067ff5a319e3626a5e813bea29918be",
+      "size": 459
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00069-2026-01-05.json": {
+      "sha256": "a7aec2283238c80266f903c6f56ea58fdc4893f8d3ae888d19d37d3764c791fb",
+      "size": 459
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00070-2026-01-06.json": {
+      "sha256": "ae23a6d06ed6620c1d840e026849959980eeaf54637866d59191d81b1d2c0e63",
+      "size": 459
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00071-2026-01-07.json": {
+      "sha256": "67050094e46417b159537a669eb86f94a88bcac20d7ca50a808a98fc2f6e217b",
+      "size": 459
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00072-2026-01-08.json": {
+      "sha256": "ee95119a8f9e0c1d6aef3aae13034645f573f8e5c69ab5f23472ec6d00430092",
+      "size": 459
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00073-2026-01-09.json": {
+      "sha256": "5c4cb0537f68f44c5f8187f6499fc91df055eff55a8c6c3fc2ec5ed1aa197be0",
+      "size": 459
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00074-2026-01-10.json": {
+      "sha256": "a2df5e9d33ccf578d7d77b4528e4b504a550876941628344ca48ce350c3f99c4",
+      "size": 459
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00075-2026-01-11.json": {
+      "sha256": "69138d57bac1af945337adaf1b78e6b2b4d3f74cc78915ef9afe205e5ff6ea1a",
+      "size": 459
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00076-2026-01-12.json": {
+      "sha256": "3e17a0c4d6758a6e03cc643874a868800c9b3c1560499b5086aa1ca4f9b43210",
+      "size": 459
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00077-2026-01-13.json": {
+      "sha256": "81abbd0b313689095801bc5dd0ef5b62695afdb159cba5829375aa671fb1a672",
+      "size": 459
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00078-2026-01-14.json": {
+      "sha256": "ac94a13dab9a3b49ea71cc4eeac6da5ca196f838c22c020ebfac2439664871ba",
+      "size": 459
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00079-2026-01-15.json": {
+      "sha256": "9dd1c391ba9807acd15d21270cad5885dced7e94a2fa3bdac81ada5ae46147a1",
+      "size": 459
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00080-2026-01-16.json": {
+      "sha256": "651c3d3e0276ec5c65648b2e831031a65fe72f014882967b8bcbc370167a17b0",
+      "size": 459
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00081-2026-01-17.json": {
+      "sha256": "cf6bfc24a736436d6a0821dd3a7e5f195112ba5d6966b3cdec9cddd098563f8e",
+      "size": 459
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00082-2026-01-18.json": {
+      "sha256": "1105a3dd574cddad26af90c09fbec2b3e942dc9cc3bc023a6bfc62056da1870d",
+      "size": 459
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00083-2026-01-19.json": {
+      "sha256": "bf586d56e70fcda8fe3d72addd0ed392c938f591a1598f79057224ce46b24705",
+      "size": 459
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00084-2026-01-20.json": {
+      "sha256": "1780dac6af8944a73c9d86427c81b6493a4a1aaede2d38bde05cc963c1deb849",
+      "size": 459
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00085-2026-01-21.json": {
+      "sha256": "f170164a42f0a81a4a07488856ec2ee37a1317c77cdd946f46684d574b994da3",
+      "size": 459
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00086-2026-01-22.json": {
+      "sha256": "222704315449081ebb28c6e518057658ff2e2066d2df53714401c59d2ffb4c87",
+      "size": 459
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00087-2026-01-23.json": {
+      "sha256": "1055ab5b1485ddd7a2c20cdc69e4ba72d4c239b80263ef5c05c55bcde75785f0",
+      "size": 459
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00088-2026-01-24.json": {
+      "sha256": "30a564518c6c2b14c6591125f8a7ab9ab3edb1fa49d86c137132792f0db21b69",
+      "size": 459
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00089-2026-01-25.json": {
+      "sha256": "d570907557a2aa1a3fae0e6d98857d24cbf9bae3d3d2204e2e4efbd720b4a5fc",
+      "size": 459
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00090-2026-01-26.json": {
+      "sha256": "85be14c4f867c362da7b2a537f042d3293b946f9226cde312fa382b9fb5f0dba",
+      "size": 459
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00091-2026-01-27.json": {
+      "sha256": "1b154a68530bf8f48d98181b78493d0b1c5a9d2328421c0b0cf015df932bbda4",
+      "size": 459
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00092-2026-01-28.json": {
+      "sha256": "2319ea4ba42e9c7b9f547432b1a9c39b8abfdcd8e4a2f3cd413ba3e41287918a",
+      "size": 459
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00093-2026-01-29.json": {
+      "sha256": "010301028ef827ac6750c282b5465662846bbca5469f37ef85027f40ed8093fd",
+      "size": 459
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00094-2026-01-30.json": {
+      "sha256": "00c4b98a67639d4484830f24efd26e494e190dcc51e8faf116228df282820541",
+      "size": 459
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00095-2026-01-31.json": {
+      "sha256": "21cfa49b9698a24a179cb3a52988deb5b802519fc51118214382f3967af70c8e",
+      "size": 459
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00096-2026-02-01.json": {
+      "sha256": "20a30aeea71cc431dc9fa5ecc5bf18a436208c4dc0f5dddf15a5846d5d0a2676",
+      "size": 459
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00097-2026-02-02.json": {
+      "sha256": "dcc1d1b3e337e2ed63200f5ee17ddc7f3ac84b41d5f71492b44df700ff8564ce",
+      "size": 459
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00098-2026-02-03.json": {
+      "sha256": "97d456eb9f7ce355061ffa519773d793968f3b0b3f2ffe15edf21a88ed1fb767",
+      "size": 459
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00099-2026-02-04.json": {
+      "sha256": "0eba64a6507d34a5e28452907d8e547e585257812f6d128fdc56ad2fa0e751cf",
+      "size": 459
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00100-2026-02-05.json": {
+      "sha256": "685555a003f2cb497984a5b95de02721301712484838e06aad16ed09caf2dcfe",
+      "size": 460
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00101-2026-02-06.json": {
+      "sha256": "4fa585230f1626848c0d05d75cc877c0e573df3ac6d1b48177760fbe77f219ec",
+      "size": 460
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00102-2026-02-07.json": {
+      "sha256": "f0a6097c050c8a96d97a27cf04fbefecb4d0762dcb843bb9a5df74815c3d46b9",
+      "size": 460
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00103-2026-02-08.json": {
+      "sha256": "e68abd6f1854795e285b2bb018c386c1259afbbd8401f0332313b28586b98068",
+      "size": 460
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00104-2026-02-09.json": {
+      "sha256": "86e5dc644615c8cd80a95ef29861939778fb504c9d0b550fa457a499ec5319f1",
+      "size": 460
+    },
+    "data/json/down-cemetery-road-101-swarm-day-00105-2026-02-10.json": {
+      "sha256": "001aeace8045bc4b2fd3a36763a9620f040cc1f0c0bd966e658d44bc817ccc6e",
+      "size": 460
+    }
+  },
+  "schema": "alpha60-year-day-product-bundle/1",
+  "source_revisions": {
+    "aggregate_binary": {
+      "sha256": "80bdf6691c0ef6ed5fcc7fa3a6462748104e1935ce5b2a4df3861e11bb13195a",
+      "size": 38582648
+    },
+    "alpha60": "ee81b50bb9790eb0c52125cba38ea8787a1a140f",
+    "alpha60_data": "8faeae67a5d274d1fc00bffe9fc9318329163b20",
+    "day_product_contract": {
+      "sha256": "72cef2b39ed0d6c6f6120f86d21517dd8d4f76982935c36e8d290638c4a3a10b",
+      "size": 9267
+    },
+    "metadata": "fbeb53a0b523f937fae2f23d14689d8c5c84dd5a",
+    "package_script": {
+      "sha256": "79bb170e38712e3653cf3cd8b781ddddf293af5eb6a916b4cb881a67cab8cf97",
+      "size": 11299
+    }
+  },
+  "status": "pass"
+}
