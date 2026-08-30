@@ -1,0 +1,253 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt16027074",
+    "imdb_id": "tt16027074",
+    "revision": "fbeb53a0b523f937fae2f23d14689d8c5c84dd5a",
+    "wikidata_id": "Q113005299",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Your_Friendly_Neighborhood_Spider-Man"
+  },
+  "coverage_sha256": "42df642d748ca336ea28af470fe8b3e3bbaf4369d21ea0ae2a256c2657588250",
+  "generated_at": "2026-08-30T17:39:14.201445+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "aao-checksum-manifest": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/SHA256SUMS",
+      "sha256": "4a4818facd85b709f0321b0a6de31b4a3eff6f108f3b9354c75632926e6baa48",
+      "size": 266728
+    },
+    "aao-release": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/release.json",
+      "sha256": "3ce0984da2d12b0e3697e76c02608bd9d1a955ee3d00e0a7054bdd297b8f18c8",
+      "size": 1342
+    },
+    "aao-verification": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-aao-verification.json",
+      "sha256": "e01294ebce8e54b65e16ab83017fa5585efe6f7a0a0f1a5e0f734e08d8e223fd",
+      "size": 854
+    },
+    "archive-map": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-cache-archive-map.json",
+      "sha256": "8d4d506f23cd80f46baf010bd17509c916083e75eb8b43b052641138c3f308f1",
+      "size": 125170
+    },
+    "btiha-metadata-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/your-friendly-neighborhood-spider-man-01-cumulative-btiha-media-objects.json",
+      "sha256": "c8db0d57e372b7520657b5a3099d7553b9b1eface2778362215378ce331077b4",
+      "size": 1022102
+    },
+    "canonical-metadata": {
+      "path": "/tmp/alpha60-swarm-metadata-2025/metadata/your-friendly-neighborhood-spider-man-01.json",
+      "sha256": "356a8f33faea88d4fe84d3403e04c9cf709d341d48740451edf2fad4a1a3aae9",
+      "size": 9393
+    },
+    "coverage-report": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-coverage-evidence/your-friendly-neighborhood-spider-man-01.md",
+      "sha256": "0fdd58ba2d9c8286bdf44ed32fb0f3ed9f410931fa1328e0ea58682dbb3b6b9f",
+      "size": 766
+    },
+    "cumulative-aggregate-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.cumulative/your-friendly-neighborhood-spider-man-01-cumulative-aggregate.geojson.gz",
+      "sha256": "ab7a55c5038dadbcd3d92f24e9dd313f4867e84b0387cd57588655be29d48ba5",
+      "size": 1309176
+    },
+    "cumulative-btiha-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.cumulative/your-friendly-neighborhood-spider-man-01-cumulative-btiha.geojson.gz",
+      "sha256": "8a8e3a5a21a7a39231d4dda16ccf2760e9d72ae709e0b798f97739042d548f44",
+      "size": 56042228
+    },
+    "cumulative-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/your-friendly-neighborhood-spider-man-01-cumulative.json",
+      "sha256": "7094a7d5cf51d26b820a54fac0ac5369f9522e873361ffff2e559436ae51b783",
+      "size": 15753
+    },
+    "day-bundle-receipt": {
+      "path": "/tmp/year-2025-day-bundles/your-friendly-neighborhood-spider-man-01/receipt.json",
+      "sha256": "4a8b034d0eda253cfcee1f626ce09f72051682bddff12d09718f69c15686bed6",
+      "size": 77598
+    },
+    "ip-swarm-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/your-friendly-neighborhood-spider-man-01-cumulative-ip-swarm.json",
+      "sha256": "06103aae5a132a56cf33900cae8fe94da2205bd055db78841b0f1e2bdc5a88b4",
+      "size": 42810
+    },
+    "published-day-bundle-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-day-product-receipts/your-friendly-neighborhood-spider-man-01.json",
+      "sha256": "4a8b034d0eda253cfcee1f626ce09f72051682bddff12d09718f69c15686bed6",
+      "size": 77598
+    },
+    "week-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/your-friendly-neighborhood-spider-man-01-week.json",
+      "sha256": "ec28ee731b19c5b8472bc7e112947a7db33186f408bf5f17fe622728b155490f",
+      "size": 7666175
+    }
+  },
+  "media_object": "your-friendly-neighborhood-spider-man-01",
+  "published_files": {
+    "data/csv/bytes/your-friendly-neighborhood-spider-man-01-cumulative-detail.2025-btiha-itemized-by-bytes.csv": "5671d45096a9080c3f94dd6350b7cd67f98a94c12d3dfcc1c1151c37bf01816d",
+    "docs/itemized/figures/your-friendly-neighborhood-spider-man-01-carto-4k.webp": "3685d34f0ddfe48e98052833bc3fce806573784f95cd57b11ab746883c2d1b44",
+    "docs/itemized/figures/your-friendly-neighborhood-spider-man-01-carto.png": "eb03ef6ac367b94a7d03e08f89dfbca6918d7e3bf879a0f5418e3b2d0e4fd301",
+    "docs/itemized/figures/your-friendly-neighborhood-spider-man-01-cumulative-detail-btiha-itemized-by-bytes.svg": "37969ae3637b5220cce4ddad6031fa5a120f9711dc6958dfc4db4434b154b95e",
+    "docs/itemized/figures/your-friendly-neighborhood-spider-man-01-data-ge-1080p-4k.webp": "df296dde14d2e810bfec69805dd8ef560f0211cb608a874d2843661b7ba4ffeb",
+    "docs/itemized/figures/your-friendly-neighborhood-spider-man-01-data-ge-1080p.webp": "385cba6602e25f5da3ef2e229346dfb202fcb0128bf9945066ca936c93f98632",
+    "docs/itemized/figures/your-friendly-neighborhood-spider-man-01-data-lt-1080p-4k.webp": "0ad1cfdfa05e700c45707e2835219a0b6d5b0ad3bebb3f3b4e205e2e4dc60810",
+    "docs/itemized/figures/your-friendly-neighborhood-spider-man-01-data-lt-1080p.webp": "2f465d5f06f042e5019e053c25b40c92700f85efe1151e867df1b6e7ecc61e57",
+    "docs/itemized/figures/your-friendly-neighborhood-spider-man-01-downloads-by-day-day.svg": "bb997f1a3ff9e8ba96ad48d0be5dd2e31014dc1e13e4f1870832f8e94383d444",
+    "docs/itemized/figures/your-friendly-neighborhood-spider-man-01-downloads-by-week-your-friendly-neighborhood-spider-man-01-week.svg": "8af0ee897c5a0d43fa66932ac300e9a05615013e2dfca1dff56fc152d9bd37c8",
+    "docs/itemized/your-friendly-neighborhood-spider-man-01-sample-cache-audit.md": "cd16a6e3b66bf82ccb75c5436a4d019e1ba7bc28601d7ed6db1f990e13ec42c7",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-year-2025-render",
+      "revision": "c520555c40beece2e38f62878e2d4cc1b312c505",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "c192c54f882171dafc74c038ec769f1e68bf8020d12a342d2334086b5b5ee5ea",
+      "size": 36998168
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.cumulative/your-friendly-neighborhood-spider-man-01-cumulative-btiha.geojson.gz",
+        "sha256": "8a8e3a5a21a7a39231d4dda16ccf2760e9d72ae709e0b798f97739042d548f44",
+        "size": 56042228
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/json/your-friendly-neighborhood-spider-man-01-cumulative-btiha-media-objects.json",
+        "sha256": "c8db0d57e372b7520657b5a3099d7553b9b1eface2778362215378ce331077b4",
+        "size": 1022102
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/izzi",
+      "revision": "b988ee7fd690a74a696c27c9aadf40c204a4c780",
+      "untracked": false
+    },
+    "media_object": "your-friendly-neighborhood-spider-man-01",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60-results-2025/bin/a60-meta-collection.exe",
+      "sha256": "e71f9def936a6868d5282a5ff7dece07ade360eefa07abebde75434a927220f7",
+      "size": 8743680
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          88.0,
+          61.0,
+          54.0,
+          32.0,
+          27.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "Seoul",
+          "Istanbul",
+          "Saint Petersburg",
+          "London",
+          "Shanghai",
+          "Amsterdam",
+          "Budapest",
+          "Nanjing",
+          "Lelystad"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          89.0,
+          62.0,
+          54.0,
+          30.0,
+          27.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "Seoul",
+          "Istanbul",
+          "Saint Petersburg",
+          "London",
+          "Shanghai",
+          "Budapest",
+          "Nanjing",
+          "Amsterdam",
+          "Lelystad"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 21,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 25,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 6,
+        "x_tick_marks": 6,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 26,
+        "y_tick_labels": 20
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "c520555c40beece2e38f62878e2d4cc1b312c505",
+    "cartofreako": "fc58111b5bfa7667b12f6ade522ae5e566b464d1",
+    "izzi": "b988ee7fd690a74a696c27c9aadf40c204a4c780",
+    "metadata": "fbeb53a0b523f937fae2f23d14689d8c5c84dd5a",
+    "results_aao_adoption": "9cd9d91a6fbb560ac2a96beadf4c83b94daf6a88"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2025"
+}
