@@ -1,0 +1,253 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt32641461",
+    "imdb_id": "tt32641461",
+    "revision": "fbeb53a0b523f937fae2f23d14689d8c5c84dd5a",
+    "wikidata_id": "Q133539880",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mid-Century_Modern_(TV_series)"
+  },
+  "coverage_sha256": "19279e5c7815b6c43477bdcf9fcd0e48acd8191ee121e21ac276ef80e3592fc0",
+  "generated_at": "2026-08-30T15:09:42.245971+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "aao-checksum-manifest": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/SHA256SUMS",
+      "sha256": "4a4818facd85b709f0321b0a6de31b4a3eff6f108f3b9354c75632926e6baa48",
+      "size": 266728
+    },
+    "aao-release": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/release.json",
+      "sha256": "3ce0984da2d12b0e3697e76c02608bd9d1a955ee3d00e0a7054bdd297b8f18c8",
+      "size": 1342
+    },
+    "aao-verification": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-aao-verification.json",
+      "sha256": "e01294ebce8e54b65e16ab83017fa5585efe6f7a0a0f1a5e0f734e08d8e223fd",
+      "size": 854
+    },
+    "archive-map": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-cache-archive-map.json",
+      "sha256": "8d4d506f23cd80f46baf010bd17509c916083e75eb8b43b052641138c3f308f1",
+      "size": 125170
+    },
+    "btiha-metadata-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/mid-century-modern-01-cumulative-btiha-media-objects.json",
+      "sha256": "9f24c0eaae1428d680ca4bb71eda6c405a075ae80c0001494910d44c7e6d4b31",
+      "size": 398877
+    },
+    "canonical-metadata": {
+      "path": "/tmp/alpha60-swarm-metadata-2025/metadata/mid-century-modern-01.json",
+      "sha256": "2c0d0fa2c6407f1cb78f41c670816c366d12303cb55044274c551da5d464b6f5",
+      "size": 8677
+    },
+    "coverage-report": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-coverage-evidence/mid-century-modern-01.md",
+      "sha256": "f342cb0e045612cf2fcf75a8171814c69a6c58026b7a90b6bed229fe16060926",
+      "size": 747
+    },
+    "cumulative-aggregate-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.cumulative/mid-century-modern-01-cumulative-aggregate.geojson.gz",
+      "sha256": "2416ad777138822d5811040626973b8fb3103959e661ecb7056fb98ea24b39da",
+      "size": 899522
+    },
+    "cumulative-btiha-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.cumulative/mid-century-modern-01-cumulative-btiha.geojson.gz",
+      "sha256": "230ea70b62b0be3b23450f07c4c79898aeddfb76b0293e6c0d3aecbf492a0414",
+      "size": 12332654
+    },
+    "cumulative-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/mid-century-modern-01-cumulative.json",
+      "sha256": "beaa9e910fc6f0094016f39ef76da1876ad81c67eacf7edf466f23b6b2744316",
+      "size": 15706
+    },
+    "day-bundle-receipt": {
+      "path": "/tmp/year-2025-day-bundles/mid-century-modern-01/receipt.json",
+      "sha256": "26d6174ca5baa2240ebbfe853c3cc18560278984ce88e382f7169170e3fc22c3",
+      "size": 41807
+    },
+    "ip-swarm-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/mid-century-modern-01-cumulative-ip-swarm.json",
+      "sha256": "6efcb88216a103e0f06490d846fa8d183dc07a4dc6d65e0836f68ff603c665d4",
+      "size": 40998
+    },
+    "published-day-bundle-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-day-product-receipts/mid-century-modern-01.json",
+      "sha256": "26d6174ca5baa2240ebbfe853c3cc18560278984ce88e382f7169170e3fc22c3",
+      "size": 41807
+    },
+    "week-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/mid-century-modern-01-week.json",
+      "sha256": "39a92eea2983a1539322e026f8e60743f06d8019e8f49026b230ef39653ecb17",
+      "size": 1819319
+    }
+  },
+  "media_object": "mid-century-modern-01",
+  "published_files": {
+    "data/csv/bytes/mid-century-modern-01-cumulative-detail.2025-btiha-itemized-by-bytes.csv": "61340549086a93060c2d901affb74667d96d6f232f77ff6862177545be6077d9",
+    "docs/itemized/figures/mid-century-modern-01-carto-4k.webp": "0cfff989143fb8243c7509ccde0af923cb75a09606d6ec877ce8d4e13e5ae18c",
+    "docs/itemized/figures/mid-century-modern-01-carto.png": "623587b05008902edc0da77192786b714be46f4afd5b813722fef161345e2159",
+    "docs/itemized/figures/mid-century-modern-01-cumulative-detail-btiha-itemized-by-bytes.svg": "06c3abe9c48e6b1fb1b8794ca3026358f3a940448042473c0bf0aa7e25047ef9",
+    "docs/itemized/figures/mid-century-modern-01-data-ge-1080p-4k.webp": "b44ff12fba046e6551bd2399aaa0e1aef46c14edf779b643c7ad45d5e633dd53",
+    "docs/itemized/figures/mid-century-modern-01-data-ge-1080p.webp": "2861013b3861c5cd433e2008dcb920fde8b33fd3de69e75a1220284a8ac9ed0c",
+    "docs/itemized/figures/mid-century-modern-01-data-lt-1080p-4k.webp": "8e512351548e919d46d8db3e7f69c76d7d208b429f79037be4a4649aa3e735d9",
+    "docs/itemized/figures/mid-century-modern-01-data-lt-1080p.webp": "47f975d2d31b2d7ad84ac0a343628400a477b9de62ff8a7bbcbd6ced83d76cd9",
+    "docs/itemized/figures/mid-century-modern-01-downloads-by-day-day.svg": "2cc6c703792250d5b2d4e029b9bd478cbb6368781c57e0dd0a27dbc3b205c228",
+    "docs/itemized/figures/mid-century-modern-01-downloads-by-week-mid-century-modern-01-week.svg": "fa3584862a35d79df95ac0a8e0716a94a7adbe10174e007c6fb6331a8918f4f9",
+    "docs/itemized/mid-century-modern-01-sample-cache-audit.md": "5fd9b8124743de29393d067aaf8256dacf0ebf2005a3c221d2a0e61d078e3bb3",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-year-2025-render",
+      "revision": "c520555c40beece2e38f62878e2d4cc1b312c505",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "c192c54f882171dafc74c038ec769f1e68bf8020d12a342d2334086b5b5ee5ea",
+      "size": 36998168
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.cumulative/mid-century-modern-01-cumulative-btiha.geojson.gz",
+        "sha256": "230ea70b62b0be3b23450f07c4c79898aeddfb76b0293e6c0d3aecbf492a0414",
+        "size": 12332654
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/json/mid-century-modern-01-cumulative-btiha-media-objects.json",
+        "sha256": "9f24c0eaae1428d680ca4bb71eda6c405a075ae80c0001494910d44c7e6d4b31",
+        "size": 398877
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/izzi",
+      "revision": "b988ee7fd690a74a696c27c9aadf40c204a4c780",
+      "untracked": false
+    },
+    "media_object": "mid-century-modern-01",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60-results-2025/bin/a60-meta-collection.exe",
+      "sha256": "e71f9def936a6868d5282a5ff7dece07ade360eefa07abebde75434a927220f7",
+      "size": 8743680
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          85.0,
+          51.0,
+          51.0,
+          45.0,
+          34.0,
+          32.0,
+          30.0,
+          28.0,
+          28.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Seoul",
+          "Moscow",
+          "Saint Petersburg",
+          "Istanbul",
+          "Ashburn",
+          "London",
+          "Lelystad",
+          "Amsterdam",
+          "Nanjing",
+          "Shanghai"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          89.0,
+          54.0,
+          53.0,
+          37.0,
+          31.0,
+          30.0,
+          29.0,
+          29.0,
+          28.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Seoul",
+          "Moscow",
+          "Istanbul",
+          "Saint Petersburg",
+          "Ashburn",
+          "London",
+          "Lelystad",
+          "Shanghai",
+          "Amsterdam",
+          "Nanjing"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 21,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 17,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 4,
+        "x_tick_marks": 4,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 15,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "c520555c40beece2e38f62878e2d4cc1b312c505",
+    "cartofreako": "fc58111b5bfa7667b12f6ade522ae5e566b464d1",
+    "izzi": "b988ee7fd690a74a696c27c9aadf40c204a4c780",
+    "metadata": "fbeb53a0b523f937fae2f23d14689d8c5c84dd5a",
+    "results_aao_adoption": "9cd9d91a6fbb560ac2a96beadf4c83b94daf6a88"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2025"
+}

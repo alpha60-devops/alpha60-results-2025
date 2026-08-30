@@ -1,0 +1,1032 @@
+{
+  "archive": {
+    "path": "/home/bkoz/src/alpha60-xperiments/year-2025-archives/mid-century-modern-01.cache/cache.20250711.tar.xz",
+    "sha256": "8e21bd71eafdd7d5754adb6891322daedb1cf2989e50719304d178f763ca31c0",
+    "size": 428045772
+  },
+  "authorization": {
+    "archive_mutated": false,
+    "excluded_member_classes": [
+      "hour",
+      "week",
+      "cumulative"
+    ],
+    "raw_samples_opened": false,
+    "scope": "read only streaming of per-torrent day records"
+  },
+  "collection_key": "mid-century-modern-01",
+  "day_cache_stream_contract": {
+    "authorization": {
+      "archive_mutated": false,
+      "excluded_member_classes": [
+        "hour",
+        "week",
+        "cumulative"
+      ],
+      "raw_samples_opened": false,
+      "scope": "read only streaming of per-torrent day records"
+    },
+    "available_day_products": 105,
+    "cache_members": 21072,
+    "collection_key": "mid-century-modern-01",
+    "first_date": "2025-03-29",
+    "first_index": 1,
+    "indices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "last_date": "2025-07-11",
+    "last_index": 105,
+    "missing_indices": [],
+    "sample_span_days": 105,
+    "schema": "alpha60-day-cache-stream-contract/1",
+    "sparse": false,
+    "status": "pass"
+  },
+  "day_product_contract": {
+    "collection_key": "mid-century-modern-01",
+    "day_products": 105,
+    "first_date": "2025-03-29",
+    "first_index": 1,
+    "geojson_data_version": "20260701",
+    "ip_geolocation_version": "6:1777968300",
+    "json_data_version": "2026-08-05",
+    "last_date": "2025-07-11",
+    "last_index": 105,
+    "schema": "alpha60-day-product-contract/1",
+    "sparse": false,
+    "status": "pass"
+  },
+  "publications": {
+    "data/geojson.day/mid-century-modern-01-day-00001.geojson.gz": {
+      "sha256": "245e1b107cc56a1d83a89929d63fe203b537a7ccedc8163df1f5e39ae35f847a",
+      "size": 96722
+    },
+    "data/geojson.day/mid-century-modern-01-day-00002.geojson.gz": {
+      "sha256": "ec231ff9641f2663dc95cb579742f3470fa428b67dc85ecdd953f104abf36ca2",
+      "size": 111709
+    },
+    "data/geojson.day/mid-century-modern-01-day-00003.geojson.gz": {
+      "sha256": "3b915ac56fbe302d94f940520296734b1e8eb3a4b1e4b31fbf95bcdc8508696a",
+      "size": 127331
+    },
+    "data/geojson.day/mid-century-modern-01-day-00004.geojson.gz": {
+      "sha256": "bc4bd4f58726716712e62b0898ff5f3fb935594124a381ea4af35a6f86366711",
+      "size": 144418
+    },
+    "data/geojson.day/mid-century-modern-01-day-00005.geojson.gz": {
+      "sha256": "54007a7a8e8691db5214e21ed0ee609ad2d7d9711ba1ada93ed38cc472dc9ad7",
+      "size": 141986
+    },
+    "data/geojson.day/mid-century-modern-01-day-00006.geojson.gz": {
+      "sha256": "1477813dc77b27de230679641198071ca3b6c4f7184de23102501e8eabdc219a",
+      "size": 138551
+    },
+    "data/geojson.day/mid-century-modern-01-day-00007.geojson.gz": {
+      "sha256": "cee720152b77798fc292dae6a0d5f4b3b1b74f7616f4172f9b7827d5a520f2c4",
+      "size": 117357
+    },
+    "data/geojson.day/mid-century-modern-01-day-00008.geojson.gz": {
+      "sha256": "62a00636fd979c30f1c80c3fa2b26848feeef481a57ac1e7dce4c030f8d322d4",
+      "size": 110648
+    },
+    "data/geojson.day/mid-century-modern-01-day-00009.geojson.gz": {
+      "sha256": "66f0d9a8dfd48f22772351da46cb77e12ad43822a3c5f2926e0a83987fca4705",
+      "size": 116580
+    },
+    "data/geojson.day/mid-century-modern-01-day-00010.geojson.gz": {
+      "sha256": "b67233ee5f46eec201279fde828d4edf12050167382f3172b4e291a386e7d366",
+      "size": 143362
+    },
+    "data/geojson.day/mid-century-modern-01-day-00011.geojson.gz": {
+      "sha256": "2a1a5b17efb5b76f6fd05905e45576d395f2953131bb61cc96bb63488c57e2e2",
+      "size": 124702
+    },
+    "data/geojson.day/mid-century-modern-01-day-00012.geojson.gz": {
+      "sha256": "be0c15ac2fa2a15e941a7fe5bb18f593eece524ab78174ded5c703bb996250ba",
+      "size": 139933
+    },
+    "data/geojson.day/mid-century-modern-01-day-00013.geojson.gz": {
+      "sha256": "52bc70aba96e52014ebbfcbe4b0a494a288277409e7971374eb148a763b42486",
+      "size": 134760
+    },
+    "data/geojson.day/mid-century-modern-01-day-00014.geojson.gz": {
+      "sha256": "495c469b1e17f698b3ef779bd3d7ae5e126cac6abbfba4187e4e2609c163f1fa",
+      "size": 135592
+    },
+    "data/geojson.day/mid-century-modern-01-day-00015.geojson.gz": {
+      "sha256": "11003006777c7467dee0dbd95ec9551b584650172079d9d9022e39b3a28809b4",
+      "size": 126860
+    },
+    "data/geojson.day/mid-century-modern-01-day-00016.geojson.gz": {
+      "sha256": "db17b598e1620b3b4d40e61f3a700791bcf5e5123690d7dfc0085d5214e1af4b",
+      "size": 126135
+    },
+    "data/geojson.day/mid-century-modern-01-day-00017.geojson.gz": {
+      "sha256": "4ea4105c28934253a4d4ead7100977e532965c15c50ec563ff95c432f12e73e9",
+      "size": 140076
+    },
+    "data/geojson.day/mid-century-modern-01-day-00018.geojson.gz": {
+      "sha256": "e931c936e5e95cc9dd3732eeb56e68c57634e914148bc3b01ef99003f044c7b6",
+      "size": 140140
+    },
+    "data/geojson.day/mid-century-modern-01-day-00019.geojson.gz": {
+      "sha256": "85d8033c542d8ca19b04894fb203edd51e1188f4dd385c647c09496c2dc8265f",
+      "size": 123597
+    },
+    "data/geojson.day/mid-century-modern-01-day-00020.geojson.gz": {
+      "sha256": "e67b82ae014b8dac9442edafe1b40f98e6c948989caf3eb7dd3f09f17f6b98f8",
+      "size": 117872
+    },
+    "data/geojson.day/mid-century-modern-01-day-00021.geojson.gz": {
+      "sha256": "dbf30c027d4ee0a627fd224dea653a1460cc3c7f552718508e7bf8f488541f74",
+      "size": 105337
+    },
+    "data/geojson.day/mid-century-modern-01-day-00022.geojson.gz": {
+      "sha256": "e19037493066deb87aa97e690a93d3ab2a6936f37f200fa867b0500caaa5a063",
+      "size": 108083
+    },
+    "data/geojson.day/mid-century-modern-01-day-00023.geojson.gz": {
+      "sha256": "c8448e8cabcc1fad4c777a859cb88f799dae44f24b826d2d20af4c0c369213fd",
+      "size": 109028
+    },
+    "data/geojson.day/mid-century-modern-01-day-00024.geojson.gz": {
+      "sha256": "89500d7b7181259ba855bff17f5afe8f666be29c684d64329ac233a09e5c4580",
+      "size": 137596
+    },
+    "data/geojson.day/mid-century-modern-01-day-00025.geojson.gz": {
+      "sha256": "ef6a6c763d36cbd24af6399d0071e6f41e78b633251a389341f6f36a011d4732",
+      "size": 140210
+    },
+    "data/geojson.day/mid-century-modern-01-day-00026.geojson.gz": {
+      "sha256": "7d367594ee9530dd720475d31206c8549dec281fca5fb6fffe60ba7774797775",
+      "size": 148095
+    },
+    "data/geojson.day/mid-century-modern-01-day-00027.geojson.gz": {
+      "sha256": "2dd2cf1f90e0719a7f5e6aad46c5ac6d1c5670a0c5247bf72c613eadfe22b338",
+      "size": 136759
+    },
+    "data/geojson.day/mid-century-modern-01-day-00028.geojson.gz": {
+      "sha256": "cdd03aa37b7ac84f938750842da6f426908ec8de0f7cefe85117e0687b11f0e6",
+      "size": 140591
+    },
+    "data/geojson.day/mid-century-modern-01-day-00029.geojson.gz": {
+      "sha256": "88f2cb38af26ee4fb4acd8313b3c87a535eccc403d08e07cc55a3404675290f0",
+      "size": 127048
+    },
+    "data/geojson.day/mid-century-modern-01-day-00030.geojson.gz": {
+      "sha256": "79a4840a4ad60367bfb8d2e065670e66fedb476d17a3de29b37cd6ae660c25af",
+      "size": 122924
+    },
+    "data/geojson.day/mid-century-modern-01-day-00031.geojson.gz": {
+      "sha256": "14a5b32c2b6712beeada906651b2f192e210938e6abe36ed203b49177bc0c9c9",
+      "size": 135304
+    },
+    "data/geojson.day/mid-century-modern-01-day-00032.geojson.gz": {
+      "sha256": "ce163b6ff47cb6eac193c409bfb4a2432dc4b4f4351f24648a7e807c5c336e0a",
+      "size": 142227
+    },
+    "data/geojson.day/mid-century-modern-01-day-00033.geojson.gz": {
+      "sha256": "7659dbd9afa67be3709d7f10bd573fdaaaf1e0c98ccbc77e54989b808e0b03c9",
+      "size": 132669
+    },
+    "data/geojson.day/mid-century-modern-01-day-00034.geojson.gz": {
+      "sha256": "a2e877be6de506ca60f725ce7f5ab92a1c85ab8fa03ce6f7d159bbb02d04ffbd",
+      "size": 121107
+    },
+    "data/geojson.day/mid-century-modern-01-day-00035.geojson.gz": {
+      "sha256": "d032aa6beb910ec313e3b730f432754772fdd2dc2985889314e8d87cdd4a63d2",
+      "size": 132440
+    },
+    "data/geojson.day/mid-century-modern-01-day-00036.geojson.gz": {
+      "sha256": "2a81e5084c96af110db17c036a94a129be0f9aea9a42cc376892087549578ffe",
+      "size": 126078
+    },
+    "data/geojson.day/mid-century-modern-01-day-00037.geojson.gz": {
+      "sha256": "db2a66129d04f9b9f8c4582aab1d6a494f4aad9b8a64ade7dc8a79eaae7d9f63",
+      "size": 125346
+    },
+    "data/geojson.day/mid-century-modern-01-day-00038.geojson.gz": {
+      "sha256": "404e4e7f3f13b666f0493c6dffd7d5f237ae3b270c309755844ad23ec0f072f8",
+      "size": 144283
+    },
+    "data/geojson.day/mid-century-modern-01-day-00039.geojson.gz": {
+      "sha256": "3652c489eb23499ef7c2980c610a9e48866a6476066a8185a9c8896363d84825",
+      "size": 141524
+    },
+    "data/geojson.day/mid-century-modern-01-day-00040.geojson.gz": {
+      "sha256": "1cbd015016acf6ee714165caa4daa7e77f7652ae72971d6989eaa3ff2f5071d8",
+      "size": 141652
+    },
+    "data/geojson.day/mid-century-modern-01-day-00041.geojson.gz": {
+      "sha256": "4d047466257059f01b7a137a67a2b447f59b3776c4b9739ae8751b32ea326824",
+      "size": 118951
+    },
+    "data/geojson.day/mid-century-modern-01-day-00042.geojson.gz": {
+      "sha256": "df3155e2e222ee2752372f3927b1492dabc07d74bb5509f9c681116baad913b7",
+      "size": 115046
+    },
+    "data/geojson.day/mid-century-modern-01-day-00043.geojson.gz": {
+      "sha256": "b80a7edc668d927eb15d59e2d4950fb6530ce8f03a765c65a2f8c78a27147a49",
+      "size": 107012
+    },
+    "data/geojson.day/mid-century-modern-01-day-00044.geojson.gz": {
+      "sha256": "59213d52d981c1173058586ed63027100ced8bfe9d5315d84c9c0eb32fb0f1b2",
+      "size": 116087
+    },
+    "data/geojson.day/mid-century-modern-01-day-00045.geojson.gz": {
+      "sha256": "b8a79f39d078bb4fddb5b452bb36f5a8ac7a141bc47c19041144deb9ce6f92f1",
+      "size": 130565
+    },
+    "data/geojson.day/mid-century-modern-01-day-00046.geojson.gz": {
+      "sha256": "0c1e5a5f874bd8c797be583f6e5c43f8058be95ef122f3d5700e1db7b591b42c",
+      "size": 134810
+    },
+    "data/geojson.day/mid-century-modern-01-day-00047.geojson.gz": {
+      "sha256": "5d63e282e1891569ca2baf16671a776304deec053c5011cc4e2b16fdcfaf13d5",
+      "size": 140818
+    },
+    "data/geojson.day/mid-century-modern-01-day-00048.geojson.gz": {
+      "sha256": "556fb8e886ebc79782bb6feda788fde3e59a896fe19f3dd0ebe828436324e0cf",
+      "size": 146412
+    },
+    "data/geojson.day/mid-century-modern-01-day-00049.geojson.gz": {
+      "sha256": "2330486460da8c5662f52738ab525ce29d1ae8cf110185a8eb65d207c945d13c",
+      "size": 134031
+    },
+    "data/geojson.day/mid-century-modern-01-day-00050.geojson.gz": {
+      "sha256": "9e02929a977ec86659d145d799ba6b0706ad72845a9bda29a969a1947baa4d10",
+      "size": 123677
+    },
+    "data/geojson.day/mid-century-modern-01-day-00051.geojson.gz": {
+      "sha256": "d5e03ca22d624c1ede170bf2cc9dde97fbb82d48204544e6308b8aad028ed28a",
+      "size": 121168
+    },
+    "data/geojson.day/mid-century-modern-01-day-00052.geojson.gz": {
+      "sha256": "eadc3b47626cdb856e78eef7dae2c7bdbae38e87759afc03e5617731dabeeb4d",
+      "size": 140609
+    },
+    "data/geojson.day/mid-century-modern-01-day-00053.geojson.gz": {
+      "sha256": "9c5ced7f4ff057932975faa9f4c5330159d3a9f9e1f084803aa7d46111841b1e",
+      "size": 120047
+    },
+    "data/geojson.day/mid-century-modern-01-day-00054.geojson.gz": {
+      "sha256": "650f121b5fdb7b1b162902e365d9a0a46ac691cd8e19df6f95fbfaea58d23f78",
+      "size": 121522
+    },
+    "data/geojson.day/mid-century-modern-01-day-00055.geojson.gz": {
+      "sha256": "37aff1d95bace8905f5014efcad901eef781ba3405bd78251bc885d93b735b62",
+      "size": 127527
+    },
+    "data/geojson.day/mid-century-modern-01-day-00056.geojson.gz": {
+      "sha256": "3c4e28cc9d8618b2d2e4873b28868191a911563b5f70ab610bd0a142cfbdcea2",
+      "size": 120564
+    },
+    "data/geojson.day/mid-century-modern-01-day-00057.geojson.gz": {
+      "sha256": "8b4b60a965f99a7685398b1308fb3735104e16053ad0272505111e0e23505ae1",
+      "size": 115460
+    },
+    "data/geojson.day/mid-century-modern-01-day-00058.geojson.gz": {
+      "sha256": "3450d84933199647a56458e4132ba35f3f6123aa6b3587a3002d63bca030146a",
+      "size": 110323
+    },
+    "data/geojson.day/mid-century-modern-01-day-00059.geojson.gz": {
+      "sha256": "1cba041bb8b98d679e77ca24d0baacbb174147935a8c8eb6f7828c0b0b0b2e2c",
+      "size": 117526
+    },
+    "data/geojson.day/mid-century-modern-01-day-00060.geojson.gz": {
+      "sha256": "9020c74e2120fe04e97217fa07c5483b3b6bf4294473168d588654bd2adf0dae",
+      "size": 118000
+    },
+    "data/geojson.day/mid-century-modern-01-day-00061.geojson.gz": {
+      "sha256": "22a815c9ee76902f5001a4bbed51470bd437afd4f904f54777c2fed8eb2b3346",
+      "size": 108995
+    },
+    "data/geojson.day/mid-century-modern-01-day-00062.geojson.gz": {
+      "sha256": "5fe56390b0b278a83aa4929127104290d225f9d162777790a60db9ecf9c45339",
+      "size": 105836
+    },
+    "data/geojson.day/mid-century-modern-01-day-00063.geojson.gz": {
+      "sha256": "441e8cf99b7f6787cee9fb03af78f25aa542475c0d39a3814c755c3e2806d2f4",
+      "size": 107128
+    },
+    "data/geojson.day/mid-century-modern-01-day-00064.geojson.gz": {
+      "sha256": "cd4e982506f9c3bbbf3a00979246ae2a9a96e27912886a56660efa4ab7414400",
+      "size": 111052
+    },
+    "data/geojson.day/mid-century-modern-01-day-00065.geojson.gz": {
+      "sha256": "6376d2c90edd3fafa8fa2470b3e09d7a1f0d93ffc23b4c6a6d66b8b5af684e3e",
+      "size": 112845
+    },
+    "data/geojson.day/mid-century-modern-01-day-00066.geojson.gz": {
+      "sha256": "44b10712c4cc516a536dd7685aa722b45c07f3cf0b4c543eef8c99f3728b78e5",
+      "size": 131086
+    },
+    "data/geojson.day/mid-century-modern-01-day-00067.geojson.gz": {
+      "sha256": "6b37e1d0d59b5454120c47c2accf19baacf4d2dbe4c193d173b020e5fcda5b3b",
+      "size": 131557
+    },
+    "data/geojson.day/mid-century-modern-01-day-00068.geojson.gz": {
+      "sha256": "1957fbeff88875e4a66fc6c194b4762a5e9a8266adb7332ce27d0c8205b44211",
+      "size": 128958
+    },
+    "data/geojson.day/mid-century-modern-01-day-00069.geojson.gz": {
+      "sha256": "76c15972e5dc5782a1ff791fffccda9cbc22c062565faef15aa760d831339934",
+      "size": 128297
+    },
+    "data/geojson.day/mid-century-modern-01-day-00070.geojson.gz": {
+      "sha256": "d625d458d1454b9e7553091f5a45ad2394a2bbdde99924fc5e7068f2a5e27356",
+      "size": 131318
+    },
+    "data/geojson.day/mid-century-modern-01-day-00071.geojson.gz": {
+      "sha256": "a7966bfe1616bbdcd3f9ab4ee0c3ffa581970d99fff519fb09096b2fbcaaa155",
+      "size": 127694
+    },
+    "data/geojson.day/mid-century-modern-01-day-00072.geojson.gz": {
+      "sha256": "074a4ddfcf19569583bba17336ad7542980afa677fa6836ce34501b49d018143",
+      "size": 130085
+    },
+    "data/geojson.day/mid-century-modern-01-day-00073.geojson.gz": {
+      "sha256": "942f379e8303d1d0dde0a2cec1523550c4143a5cda05fb89d7a7cc53f1109b58",
+      "size": 142215
+    },
+    "data/geojson.day/mid-century-modern-01-day-00074.geojson.gz": {
+      "sha256": "8fce624ef82a32febf736d012ca221623d2080060bd8d02f6d407c4a64723c2e",
+      "size": 135872
+    },
+    "data/geojson.day/mid-century-modern-01-day-00075.geojson.gz": {
+      "sha256": "ddeee1bcbd018178af4b832d3246a07465dd709a1f6ca0d8999ff6a051c9f9c3",
+      "size": 136032
+    },
+    "data/geojson.day/mid-century-modern-01-day-00076.geojson.gz": {
+      "sha256": "6dc59984657af6496e5a9faba2b2f7635e1065cd8d6090ea89ebcda2cfb8f572",
+      "size": 123201
+    },
+    "data/geojson.day/mid-century-modern-01-day-00077.geojson.gz": {
+      "sha256": "aa8ec9fd7a21520a04c90f8b932be5aea4e9926ecee16c1b3d99a326a3fe5116",
+      "size": 110666
+    },
+    "data/geojson.day/mid-century-modern-01-day-00078.geojson.gz": {
+      "sha256": "f4bd361c560090b1378bb7ac9c3efa104935df7248c0fabd44af426d6a69ef33",
+      "size": 116248
+    },
+    "data/geojson.day/mid-century-modern-01-day-00079.geojson.gz": {
+      "sha256": "d3289acd12dbb4b081248bdfe19c65aa1e6a7bafe8eb5e02908f0b5f170e75a0",
+      "size": 117864
+    },
+    "data/geojson.day/mid-century-modern-01-day-00080.geojson.gz": {
+      "sha256": "8fc6577a85ad6c012da04488c9e664e7b0dcbbbf57aba581daefcbbc62984382",
+      "size": 129564
+    },
+    "data/geojson.day/mid-century-modern-01-day-00081.geojson.gz": {
+      "sha256": "18690f193b694c378dcbb9b31f57ff8d5a161b74458273978b1074f6155768d0",
+      "size": 132440
+    },
+    "data/geojson.day/mid-century-modern-01-day-00082.geojson.gz": {
+      "sha256": "493a362e32de771fe58071b06b3c6d97df65354b56e03245476b6b06b7e9cb31",
+      "size": 113940
+    },
+    "data/geojson.day/mid-century-modern-01-day-00083.geojson.gz": {
+      "sha256": "a313e63c5f31aa0668360527d2907112e526afc7586433eb5831820cfa5e44ac",
+      "size": 114676
+    },
+    "data/geojson.day/mid-century-modern-01-day-00084.geojson.gz": {
+      "sha256": "7c17316de023c1fb115d1bb210a5eebe21323e3cf67aca1935a5e7f74b119c15",
+      "size": 112343
+    },
+    "data/geojson.day/mid-century-modern-01-day-00085.geojson.gz": {
+      "sha256": "d4c3d5c13cb54af22e2a312d236890b05cc45e78127a5284449835436ab47418",
+      "size": 113203
+    },
+    "data/geojson.day/mid-century-modern-01-day-00086.geojson.gz": {
+      "sha256": "be3aa0528e8d1c1636a457090041a890c9c2df7cbc9328eb0ca64dd13708ff0a",
+      "size": 120111
+    },
+    "data/geojson.day/mid-century-modern-01-day-00087.geojson.gz": {
+      "sha256": "6c3adebee15b957e736a334c6a1bba34095966fba4f378f9286b7aeeebd501e0",
+      "size": 127121
+    },
+    "data/geojson.day/mid-century-modern-01-day-00088.geojson.gz": {
+      "sha256": "d71e039a43e257e0e4b0d0689e1021b0de27f029056d8fa334fed2bbd1a22b38",
+      "size": 131228
+    },
+    "data/geojson.day/mid-century-modern-01-day-00089.geojson.gz": {
+      "sha256": "c18467bc9a2110deee7581e99ef1e5410eb75fb40c05d31279ecb7e3ca625297",
+      "size": 126641
+    },
+    "data/geojson.day/mid-century-modern-01-day-00090.geojson.gz": {
+      "sha256": "2c338db2e7831578490b4eab1d1a6fc6a93499ddd648d30b85f6bd8ad8a57a4a",
+      "size": 121240
+    },
+    "data/geojson.day/mid-century-modern-01-day-00091.geojson.gz": {
+      "sha256": "d788b08110ae04e9fce945381c0732bf66b22f64777ebe110d768cc7aa1c9d2e",
+      "size": 135025
+    },
+    "data/geojson.day/mid-century-modern-01-day-00092.geojson.gz": {
+      "sha256": "597ef836d5aa755724196526159d880143f4d1376b5770b24fe7e0d0cc626b01",
+      "size": 121700
+    },
+    "data/geojson.day/mid-century-modern-01-day-00093.geojson.gz": {
+      "sha256": "eaeb448e405b47468452e51946b23a20fade6107ded9833c894c5974a8380ba1",
+      "size": 113641
+    },
+    "data/geojson.day/mid-century-modern-01-day-00094.geojson.gz": {
+      "sha256": "83cd4fd16d1d3a41864f28d32256fa6f229172cb3bbd5852efeb2e08aa5a8c2f",
+      "size": 131747
+    },
+    "data/geojson.day/mid-century-modern-01-day-00095.geojson.gz": {
+      "sha256": "9cfb4403f745d6c011255ccb2962c363edbba55e5f3f4a1540a1e2fe9e6e4c01",
+      "size": 133910
+    },
+    "data/geojson.day/mid-century-modern-01-day-00096.geojson.gz": {
+      "sha256": "55d7e6816f527cdedd9f14ba62fe5c6e0262fc803ae43abbfd37d2815e6da589",
+      "size": 113687
+    },
+    "data/geojson.day/mid-century-modern-01-day-00097.geojson.gz": {
+      "sha256": "b58e7785e12a52bcca0baf9072698d2ae9ad433ce7a085b872d810a6903a5ff9",
+      "size": 126983
+    },
+    "data/geojson.day/mid-century-modern-01-day-00098.geojson.gz": {
+      "sha256": "d783b561b64667bc505d6e583bb6d4f4c4c6d00c20accd1e3473b98d19a016bf",
+      "size": 147053
+    },
+    "data/geojson.day/mid-century-modern-01-day-00099.geojson.gz": {
+      "sha256": "7e8fd0b1579f680bcc6313516fe8b81526b1a3587681c07c48176b9699bf90df",
+      "size": 129759
+    },
+    "data/geojson.day/mid-century-modern-01-day-00100.geojson.gz": {
+      "sha256": "d123c595fb16911ee56a48dedd193732e0c1013b99219bef2ca10cf1d2df81b0",
+      "size": 121922
+    },
+    "data/geojson.day/mid-century-modern-01-day-00101.geojson.gz": {
+      "sha256": "af708778eab661b9c1ff4d2d43f0c4bdf156fb17f864b40bd4fda33b85f19a63",
+      "size": 130996
+    },
+    "data/geojson.day/mid-century-modern-01-day-00102.geojson.gz": {
+      "sha256": "f4ebb8a0c062463d0fe5f2fe7aa90f206ab8ae3956c1bd2e9741a76a28bb80e9",
+      "size": 131353
+    },
+    "data/geojson.day/mid-century-modern-01-day-00103.geojson.gz": {
+      "sha256": "35b5566c9c3e386f6cda9918cb0a772a72b5151af130aba9153b7aecf8f332ba",
+      "size": 131451
+    },
+    "data/geojson.day/mid-century-modern-01-day-00104.geojson.gz": {
+      "sha256": "d17f63e1fc55d0f4e2566bd8ea0479682d21f6d3310cf6a6a8c55aa16c34336c",
+      "size": 133146
+    },
+    "data/geojson.day/mid-century-modern-01-day-00105.geojson.gz": {
+      "sha256": "add5f4ef3cc68d8142e767a2e8b8b1eb3666db31a620f2395eda4e425d802a33",
+      "size": 136602
+    },
+    "data/json/mid-century-modern-01-swarm-day-00001-2025-03-29.json": {
+      "sha256": "ed68e08074f735ba0341b60323a1c6a7517fd52388c02946ac6a71637dbe7175",
+      "size": 456
+    },
+    "data/json/mid-century-modern-01-swarm-day-00002-2025-03-30.json": {
+      "sha256": "7f1d9d8fe672ec897fb6c9716ace6690216553aff8f50679c2cbfdc6474f09f0",
+      "size": 456
+    },
+    "data/json/mid-century-modern-01-swarm-day-00003-2025-03-31.json": {
+      "sha256": "b211a46bc5d96ff196402a854590fdc6a095debdfed6768359571d86ad32406a",
+      "size": 455
+    },
+    "data/json/mid-century-modern-01-swarm-day-00004-2025-04-01.json": {
+      "sha256": "49fad63d41340d24d2119674e69cd2940a8f4bab60a5b1c6ecf2139ebc0b4e68",
+      "size": 455
+    },
+    "data/json/mid-century-modern-01-swarm-day-00005-2025-04-02.json": {
+      "sha256": "d182cdbee596a64a1467e5fb10c539d6f36ebe23948d31bd2b42877c3f43406d",
+      "size": 455
+    },
+    "data/json/mid-century-modern-01-swarm-day-00006-2025-04-03.json": {
+      "sha256": "99fd37aec401f1392d705e5ec4b186d1421b16ce2a91166369dab82cca51bd61",
+      "size": 455
+    },
+    "data/json/mid-century-modern-01-swarm-day-00007-2025-04-04.json": {
+      "sha256": "4644547f1f905d71c71ac5ba4b171c6e3239a4ff1cbb18d08a682bc33d45d07d",
+      "size": 455
+    },
+    "data/json/mid-century-modern-01-swarm-day-00008-2025-04-05.json": {
+      "sha256": "792207bf899bb3a75b2e8fbcfa9314212fffe346d60e636e343de5880031c645",
+      "size": 455
+    },
+    "data/json/mid-century-modern-01-swarm-day-00009-2025-04-06.json": {
+      "sha256": "fa9f259e3928e3c16c1b93b07ed5a68ef7c0bd96a9c9de6bd1973b4bf9cf26f0",
+      "size": 455
+    },
+    "data/json/mid-century-modern-01-swarm-day-00010-2025-04-07.json": {
+      "sha256": "883d4403dd40c8d3148b373ec7ddf0ebdb1dd82bb029197ddc11f5a94342f5bb",
+      "size": 456
+    },
+    "data/json/mid-century-modern-01-swarm-day-00011-2025-04-08.json": {
+      "sha256": "d85cc0afc771dc34a4e38310204d5c3e84db256bd420cd23a767f6709805cbc5",
+      "size": 456
+    },
+    "data/json/mid-century-modern-01-swarm-day-00012-2025-04-09.json": {
+      "sha256": "b6919c878fb7895d25b25affe946f8a27e618545632e774dc37512b7f503f522",
+      "size": 456
+    },
+    "data/json/mid-century-modern-01-swarm-day-00013-2025-04-10.json": {
+      "sha256": "52f177ce21a239713269e00321645a116505d099f53142afcae3ba1556a9c822",
+      "size": 456
+    },
+    "data/json/mid-century-modern-01-swarm-day-00014-2025-04-11.json": {
+      "sha256": "516553b272a6852aeddaa5dff265aeaed17852a8d357089be4aecc928ac2b16d",
+      "size": 456
+    },
+    "data/json/mid-century-modern-01-swarm-day-00015-2025-04-12.json": {
+      "sha256": "463ae4494a5fbac74cca891791d4b02217430a5dd36a8702e8d9bdfe39883abf",
+      "size": 456
+    },
+    "data/json/mid-century-modern-01-swarm-day-00016-2025-04-13.json": {
+      "sha256": "6e5916783f952c6ca9bc9a3fb232b25bdd366a9ac23b8d8d083d766d0d0c0ded",
+      "size": 456
+    },
+    "data/json/mid-century-modern-01-swarm-day-00017-2025-04-14.json": {
+      "sha256": "5c67ec9afdf2de74a92e7c630632b183cc6d73533c2e24f0dc16e2b0b084d0a4",
+      "size": 456
+    },
+    "data/json/mid-century-modern-01-swarm-day-00018-2025-04-15.json": {
+      "sha256": "2a8637da3cc53049a6369b2e7e7d7682f1ea35ca093f71366127f494cb5ba250",
+      "size": 456
+    },
+    "data/json/mid-century-modern-01-swarm-day-00019-2025-04-16.json": {
+      "sha256": "691e9221bf155a45152a77bf24a401f7294f997431841e9acb940b23daa5d0d2",
+      "size": 457
+    },
+    "data/json/mid-century-modern-01-swarm-day-00020-2025-04-17.json": {
+      "sha256": "487709148c1ac1651c4be59491764489bbfad4b8f22c7496b2ccde5d9e28d4f6",
+      "size": 456
+    },
+    "data/json/mid-century-modern-01-swarm-day-00021-2025-04-18.json": {
+      "sha256": "83369ceafb0def9e651e0a0e428752c6ac03a38009b77c20c28137509a4f3980",
+      "size": 456
+    },
+    "data/json/mid-century-modern-01-swarm-day-00022-2025-04-19.json": {
+      "sha256": "21816727238c449654eefe87c20c137664f7986cb7b5177f719e88ca13dde106",
+      "size": 456
+    },
+    "data/json/mid-century-modern-01-swarm-day-00023-2025-04-20.json": {
+      "sha256": "3b9fc7a575ad71cfd3ed5bc20dc5e5f99765aafff3cf5d4f25438b6799c517ba",
+      "size": 456
+    },
+    "data/json/mid-century-modern-01-swarm-day-00024-2025-04-21.json": {
+      "sha256": "f73c60f9e924ef9128d735a09827f346e2d4eb05fac1fde7e9949094e6f5bc37",
+      "size": 456
+    },
+    "data/json/mid-century-modern-01-swarm-day-00025-2025-04-22.json": {
+      "sha256": "da0bc6e71d731d955dd7aae83699fdd8c2e2d0822c3a3f71343acaa48bde1001",
+      "size": 457
+    },
+    "data/json/mid-century-modern-01-swarm-day-00026-2025-04-23.json": {
+      "sha256": "dbe140f9e6190f5b383b046ce0d96c4b3fa9309ef8a113435f401e4fb2119ead",
+      "size": 456
+    },
+    "data/json/mid-century-modern-01-swarm-day-00027-2025-04-24.json": {
+      "sha256": "0e3bd6e7d55aa4e5a63e7615568967bf3f0d3f0e2530f45dadcc500c520dee1d",
+      "size": 456
+    },
+    "data/json/mid-century-modern-01-swarm-day-00028-2025-04-25.json": {
+      "sha256": "70d47da2422bdfd7bd43df3c012b67d7a293b08cac1cf4034dae7773e922e0bc",
+      "size": 456
+    },
+    "data/json/mid-century-modern-01-swarm-day-00029-2025-04-26.json": {
+      "sha256": "6f53f4cac13d7c68fcb9e74c90dac196c89bdb5afa273421d66fc06aad3a308a",
+      "size": 456
+    },
+    "data/json/mid-century-modern-01-swarm-day-00030-2025-04-27.json": {
+      "sha256": "47957ed810c5361ffab5f60473196fb481ae4651cc7590e50e7e7f9a593f20a1",
+      "size": 456
+    },
+    "data/json/mid-century-modern-01-swarm-day-00031-2025-04-28.json": {
+      "sha256": "8559e915d74df36a307e96d7b153eed9e876b46efaa697eb3a3820197aed2597",
+      "size": 456
+    },
+    "data/json/mid-century-modern-01-swarm-day-00032-2025-04-29.json": {
+      "sha256": "d480b6c9d4180487fd7e8e17412d1cf3a67f17b88c6538317e48a3ef39a7a013",
+      "size": 456
+    },
+    "data/json/mid-century-modern-01-swarm-day-00033-2025-04-30.json": {
+      "sha256": "b992de123d7ada5c2f774ea7ed52436fd97dc902cefca2a8322d3cfbc9f0348f",
+      "size": 456
+    },
+    "data/json/mid-century-modern-01-swarm-day-00034-2025-05-01.json": {
+      "sha256": "ed7392e6e46a9e16365043510d74fd0acf06375dcd8b054605e5fff4d50309b5",
+      "size": 456
+    },
+    "data/json/mid-century-modern-01-swarm-day-00035-2025-05-02.json": {
+      "sha256": "8ac3621fa5775e62a3ecbdbc09a59dfed9217b9d3391cb491082c024ade2d1ce",
+      "size": 456
+    },
+    "data/json/mid-century-modern-01-swarm-day-00036-2025-05-03.json": {
+      "sha256": "fea216cbd201e5a7319aca3970ff00e10a098e6acd1e9086c3596efc49276bab",
+      "size": 456
+    },
+    "data/json/mid-century-modern-01-swarm-day-00037-2025-05-04.json": {
+      "sha256": "a02593cfa2fd792eef5d37b9d5f58068e106d8b5ea62ac76bff806819e5786d7",
+      "size": 456
+    },
+    "data/json/mid-century-modern-01-swarm-day-00038-2025-05-05.json": {
+      "sha256": "d454a7cf840ebbb511a2dc1e36734ab715111b2477cd2de2bec629eeacb87779",
+      "size": 456
+    },
+    "data/json/mid-century-modern-01-swarm-day-00039-2025-05-06.json": {
+      "sha256": "07124171d374c89d0e309062bcc5cd651a02d5184725c3cd38ad737ad4ab222c",
+      "size": 456
+    },
+    "data/json/mid-century-modern-01-swarm-day-00040-2025-05-07.json": {
+      "sha256": "ed5313e5f01e1128a7075da44f121702f70ef90cdd526854b0cd58ac76948425",
+      "size": 456
+    },
+    "data/json/mid-century-modern-01-swarm-day-00041-2025-05-08.json": {
+      "sha256": "90f8d4511efd3427e8945b8702a8ea2a54cb14df62a1be3fc828639d677f902c",
+      "size": 456
+    },
+    "data/json/mid-century-modern-01-swarm-day-00042-2025-05-09.json": {
+      "sha256": "07096a0f8c1b5ff61373d9ec5dd5c8fa3ccfc34163af7bcfe10b9913468f1692",
+      "size": 456
+    },
+    "data/json/mid-century-modern-01-swarm-day-00043-2025-05-10.json": {
+      "sha256": "fab4b6649e3d9134d494f74bac269a9318c6ca25b733b167c575f75e8eb530bb",
+      "size": 456
+    },
+    "data/json/mid-century-modern-01-swarm-day-00044-2025-05-11.json": {
+      "sha256": "4cf22d895b66f88f0de984ec417cc9b11f77eaa799ecf3497684a324afcdf5f3",
+      "size": 456
+    },
+    "data/json/mid-century-modern-01-swarm-day-00045-2025-05-12.json": {
+      "sha256": "25312ad8d736d75d9d2c1f1d09402276a0c008f5826c77d6c5b522d91ff369c8",
+      "size": 456
+    },
+    "data/json/mid-century-modern-01-swarm-day-00046-2025-05-13.json": {
+      "sha256": "fa690a54bc0f9b04c55419faf09e75ac3d5812fe78fd70c6ff4770123e31926e",
+      "size": 456
+    },
+    "data/json/mid-century-modern-01-swarm-day-00047-2025-05-14.json": {
+      "sha256": "ee4c74cb1758bb21cff46032fed411d700510281aede21e4b256059fc8ed13fd",
+      "size": 456
+    },
+    "data/json/mid-century-modern-01-swarm-day-00048-2025-05-15.json": {
+      "sha256": "d86f9b62f9b76c419c696f960d390bfd30fd0167e5d877e38738f69674a926bb",
+      "size": 456
+    },
+    "data/json/mid-century-modern-01-swarm-day-00049-2025-05-16.json": {
+      "sha256": "e1fb1ed873370c7c0f7c8cf42ad0a9140955abc9f3ea3221eefa1017c4beca4f",
+      "size": 456
+    },
+    "data/json/mid-century-modern-01-swarm-day-00050-2025-05-17.json": {
+      "sha256": "c2c52034a9716634e845e648053ebb148a0b843b7e9b4f492bb5e198f8a02e89",
+      "size": 456
+    },
+    "data/json/mid-century-modern-01-swarm-day-00051-2025-05-18.json": {
+      "sha256": "364ed7b5290e453aa9dd0fc4dd1721db354eccc9cc1e48c634cbc93dd361a434",
+      "size": 456
+    },
+    "data/json/mid-century-modern-01-swarm-day-00052-2025-05-19.json": {
+      "sha256": "02c15a723526310bed41f83363a09a6399c227b1778124425ca191188d42af41",
+      "size": 456
+    },
+    "data/json/mid-century-modern-01-swarm-day-00053-2025-05-20.json": {
+      "sha256": "76c607ec51f6a361715da83752ce8170f55277407978bc97ff95a39a79336bd0",
+      "size": 456
+    },
+    "data/json/mid-century-modern-01-swarm-day-00054-2025-05-21.json": {
+      "sha256": "991da17d81bcd465cf5613912e215c9506a52a9359bcc7c0e0141f45d7bb96da",
+      "size": 456
+    },
+    "data/json/mid-century-modern-01-swarm-day-00055-2025-05-22.json": {
+      "sha256": "3d88815655fdeec608f9be167375e793f194b05c24ef35a4c0eec23aeabdb239",
+      "size": 456
+    },
+    "data/json/mid-century-modern-01-swarm-day-00056-2025-05-23.json": {
+      "sha256": "e435fb8034f55a260be96085bacaae00515698eb447e1ffcb99c6aadbd6ea69a",
+      "size": 456
+    },
+    "data/json/mid-century-modern-01-swarm-day-00057-2025-05-24.json": {
+      "sha256": "f94295a4dcfb95fdc6de4d84c05c80bd265d6fe5232f8265e9ca2f1f7bb44276",
+      "size": 456
+    },
+    "data/json/mid-century-modern-01-swarm-day-00058-2025-05-25.json": {
+      "sha256": "9c98898173991d795348fccf739a8d1e907e7cd32bbbf7f2fe4ed74a893a579c",
+      "size": 456
+    },
+    "data/json/mid-century-modern-01-swarm-day-00059-2025-05-26.json": {
+      "sha256": "f4f344ee155313a4135369e8377ea5a576f9649eb45b8e195529c7784419a2ff",
+      "size": 456
+    },
+    "data/json/mid-century-modern-01-swarm-day-00060-2025-05-27.json": {
+      "sha256": "b683e53bd013ece5b5d2347838176d1a91a99e5ea88af2af1b119c63de8aa2d7",
+      "size": 456
+    },
+    "data/json/mid-century-modern-01-swarm-day-00061-2025-05-28.json": {
+      "sha256": "189dfd1af5dcd41383bffda5ee62ac70ec63db5820658f9005b06bc7154bddf8",
+      "size": 456
+    },
+    "data/json/mid-century-modern-01-swarm-day-00062-2025-05-29.json": {
+      "sha256": "fc0499160f1434ff21b305366310f9b0e13fe075e938b5a66c723194dee3bdd5",
+      "size": 456
+    },
+    "data/json/mid-century-modern-01-swarm-day-00063-2025-05-30.json": {
+      "sha256": "ab8f1d5eec25de1bdf1f59fd49271a34180362b2580bff67f2aeed66a1e96492",
+      "size": 456
+    },
+    "data/json/mid-century-modern-01-swarm-day-00064-2025-05-31.json": {
+      "sha256": "d41c36d02a6729e1fe13f5e1a916f3b0a96ff22d0738c62d5feceaa2d173b54e",
+      "size": 456
+    },
+    "data/json/mid-century-modern-01-swarm-day-00065-2025-06-01.json": {
+      "sha256": "2f01636492d1e79d4ec8dffc47f1e93af79556658fe47c82524b35800b6f3b53",
+      "size": 456
+    },
+    "data/json/mid-century-modern-01-swarm-day-00066-2025-06-02.json": {
+      "sha256": "5e9b33a63390372b6545757dcbbaf176bcd2421dfe13828d5c9ba373926e0e19",
+      "size": 456
+    },
+    "data/json/mid-century-modern-01-swarm-day-00067-2025-06-03.json": {
+      "sha256": "3e752001f2c781a950f5975eaac08d2da30b1d5ccc5db76f76798ee03886b08c",
+      "size": 456
+    },
+    "data/json/mid-century-modern-01-swarm-day-00068-2025-06-04.json": {
+      "sha256": "69764ef665d46fdf53caf2ed5a928bd68c3b6b1f28a39b261ac072940eb997d6",
+      "size": 456
+    },
+    "data/json/mid-century-modern-01-swarm-day-00069-2025-06-05.json": {
+      "sha256": "4384bd1338212bde6fb1365af86d5fc1a2c1a261f518458da9a96501caa21e89",
+      "size": 456
+    },
+    "data/json/mid-century-modern-01-swarm-day-00070-2025-06-06.json": {
+      "sha256": "ad887e278a9bd7ae883e1a61557312226ea9435280c161c05f4d863a6bbe222e",
+      "size": 456
+    },
+    "data/json/mid-century-modern-01-swarm-day-00071-2025-06-07.json": {
+      "sha256": "6de5fff7f7b02c57cc9e4074cc991ccd19890553f35798448e6e6e8d9cba0117",
+      "size": 456
+    },
+    "data/json/mid-century-modern-01-swarm-day-00072-2025-06-08.json": {
+      "sha256": "07f6ac522d6675f95887aabe3a399a54ce40039911f4a2ec8fe3cc8db386c8fb",
+      "size": 456
+    },
+    "data/json/mid-century-modern-01-swarm-day-00073-2025-06-09.json": {
+      "sha256": "d401305897e544c4a9c149fce383a36d3ad62b3ad08174c16e11d2591145ac1c",
+      "size": 456
+    },
+    "data/json/mid-century-modern-01-swarm-day-00074-2025-06-10.json": {
+      "sha256": "2115760598c71adbe3a9b98a5230346e5744a1bc107579a1b71b6f29eb391b5a",
+      "size": 456
+    },
+    "data/json/mid-century-modern-01-swarm-day-00075-2025-06-11.json": {
+      "sha256": "3d204d91de8f14504589d5c695aaf5fc58a9563c81a495b39560635cc91078a0",
+      "size": 456
+    },
+    "data/json/mid-century-modern-01-swarm-day-00076-2025-06-12.json": {
+      "sha256": "34408f13095958156fe4542ce67e8c3d6541f0677f823ef43fc877f91726eb12",
+      "size": 456
+    },
+    "data/json/mid-century-modern-01-swarm-day-00077-2025-06-13.json": {
+      "sha256": "c9190e020bd98238cfbf4f417142c0514fbc55d2e2eef66d6750ea774f1b2510",
+      "size": 456
+    },
+    "data/json/mid-century-modern-01-swarm-day-00078-2025-06-14.json": {
+      "sha256": "27ffbeb78db3200d11f2e7d6b57e22c977296efcf084495b9f3f5086d71af385",
+      "size": 456
+    },
+    "data/json/mid-century-modern-01-swarm-day-00079-2025-06-15.json": {
+      "sha256": "7f667acfba774d5d1f9304fb68378808a145c8e0d99d8ce0f5f652d60c7926ef",
+      "size": 456
+    },
+    "data/json/mid-century-modern-01-swarm-day-00080-2025-06-16.json": {
+      "sha256": "8a5c797264ef8992d9c1b66c80faf484583c0b7075e56aba1b5a2bd9ce0a7d5a",
+      "size": 456
+    },
+    "data/json/mid-century-modern-01-swarm-day-00081-2025-06-17.json": {
+      "sha256": "e28dd8494d5551eae0cedb543c32c0a52b48d430359f2014ccb032bfb71f2711",
+      "size": 456
+    },
+    "data/json/mid-century-modern-01-swarm-day-00082-2025-06-18.json": {
+      "sha256": "081e4dee87d357b45815b5c9358b5e9628c9b6ad1786d809b8a778b6aad1d808",
+      "size": 456
+    },
+    "data/json/mid-century-modern-01-swarm-day-00083-2025-06-19.json": {
+      "sha256": "7d8a9720c7120b9048f9ad031106e0b894ea2b044d94b068952060e6782fa414",
+      "size": 456
+    },
+    "data/json/mid-century-modern-01-swarm-day-00084-2025-06-20.json": {
+      "sha256": "f4c3be487796e0e8bc99404090fe0a2b3c6afa8afcf18f39c8a8ed98b3afe7e4",
+      "size": 456
+    },
+    "data/json/mid-century-modern-01-swarm-day-00085-2025-06-21.json": {
+      "sha256": "fac63a7cf6314fd606d1453215acb8fd900580cdcc2fe8a802ee15743eab8f14",
+      "size": 456
+    },
+    "data/json/mid-century-modern-01-swarm-day-00086-2025-06-22.json": {
+      "sha256": "4152ceebe88e027dcea3a0d79e37a1ad85f9afbe2e18e157befb7ef066a2397b",
+      "size": 456
+    },
+    "data/json/mid-century-modern-01-swarm-day-00087-2025-06-23.json": {
+      "sha256": "9b4ae5af3bb753bb7c65ea24fd455d0ee8408fbf28641b4856cc62bf0ab0a9e8",
+      "size": 456
+    },
+    "data/json/mid-century-modern-01-swarm-day-00088-2025-06-24.json": {
+      "sha256": "a744159f411a4c65a2a77727cb6efebc8c536faf19d41db13b71d49c30fed18b",
+      "size": 456
+    },
+    "data/json/mid-century-modern-01-swarm-day-00089-2025-06-25.json": {
+      "sha256": "8a670b1d460da1cf61bc0bbd4f16da81e746e0a963b252081ec8485008dbf08a",
+      "size": 456
+    },
+    "data/json/mid-century-modern-01-swarm-day-00090-2025-06-26.json": {
+      "sha256": "87d3119779819bae231e811024e8873500a24f28c2df3b17910bb2b215bef19e",
+      "size": 456
+    },
+    "data/json/mid-century-modern-01-swarm-day-00091-2025-06-27.json": {
+      "sha256": "cdac1e731e804d25624a54e7d5537e06666d2bcc950334297a088b3d17de18b9",
+      "size": 456
+    },
+    "data/json/mid-century-modern-01-swarm-day-00092-2025-06-28.json": {
+      "sha256": "bb8955ab5752a1c89689ec1a7448eb392550bba443781d58b56fc056ebd2e4c4",
+      "size": 456
+    },
+    "data/json/mid-century-modern-01-swarm-day-00093-2025-06-29.json": {
+      "sha256": "afaf3087818cd0f8cf733d8a82b59c537684e7d59874c20e2e32219b056f31f6",
+      "size": 456
+    },
+    "data/json/mid-century-modern-01-swarm-day-00094-2025-06-30.json": {
+      "sha256": "86f12cadf6a300f91cab2da7a07ee1526e076d9c55ee4ded49b2d488a5d0e3fe",
+      "size": 456
+    },
+    "data/json/mid-century-modern-01-swarm-day-00095-2025-07-01.json": {
+      "sha256": "c715c48ba8c2f44987850846655272a38dab33994ea1a26a5d7d4eda4abf4c31",
+      "size": 456
+    },
+    "data/json/mid-century-modern-01-swarm-day-00096-2025-07-02.json": {
+      "sha256": "d7461174156623dc54484cd89c6346b829203ed34e44bf6847f55b47a3103cd9",
+      "size": 456
+    },
+    "data/json/mid-century-modern-01-swarm-day-00097-2025-07-03.json": {
+      "sha256": "f28a3215ea92e441077378547f53cebd8c52c8fb170d9279e76a5ffd337d64ec",
+      "size": 456
+    },
+    "data/json/mid-century-modern-01-swarm-day-00098-2025-07-04.json": {
+      "sha256": "32b76a93f81c54b193348b62fed96b97d7c24695a47551e2c392061b05be5175",
+      "size": 456
+    },
+    "data/json/mid-century-modern-01-swarm-day-00099-2025-07-05.json": {
+      "sha256": "472e687376347cefcbdfbe2b49ec2f9b9514f1968109ea5d373a695f15b8ece2",
+      "size": 456
+    },
+    "data/json/mid-century-modern-01-swarm-day-00100-2025-07-06.json": {
+      "sha256": "bc51ca4e121fad2cb7aadfd92ff69e3ec6665f4eac05eb064209e89f86cb12ad",
+      "size": 457
+    },
+    "data/json/mid-century-modern-01-swarm-day-00101-2025-07-07.json": {
+      "sha256": "ffd0d37ef7ccda06381ac32a9b951eebddb6c264cd134872637be3bc1d1bbdb5",
+      "size": 457
+    },
+    "data/json/mid-century-modern-01-swarm-day-00102-2025-07-08.json": {
+      "sha256": "956110df52864d11c81f5b2dc2bee00c721b03707845d1acef57436512fdb567",
+      "size": 457
+    },
+    "data/json/mid-century-modern-01-swarm-day-00103-2025-07-09.json": {
+      "sha256": "28794ea2a83b9ae97637b71ceb27efb52839d18f152331a09dbde9b6341035df",
+      "size": 457
+    },
+    "data/json/mid-century-modern-01-swarm-day-00104-2025-07-10.json": {
+      "sha256": "398d7ffeb190a1b34ae310a3db77ff2e2577ec72b24bc497a5d2342023f445dd",
+      "size": 456
+    },
+    "data/json/mid-century-modern-01-swarm-day-00105-2025-07-11.json": {
+      "sha256": "01f35fa50cb98d26d22897eae551e91c89fe7585c35714e6dba3184f6dc3f9fb",
+      "size": 457
+    }
+  },
+  "schema": "alpha60-year-day-product-bundle/1",
+  "source_revisions": {
+    "aggregate_binary": {
+      "sha256": "7408569641f7247fbd00969cffddaf1bb0cf2768c7fc1529f4cc6191ccfeae05",
+      "size": 38582648
+    },
+    "alpha60": "eba8537ed9a6e7a09ae3de163b01460f5ad1ad7e",
+    "alpha60_data": "8faeae67a5d274d1fc00bffe9fc9318329163b20",
+    "day_product_contract": {
+      "sha256": "0aa0bee3ac14b512c786d3496ab5218a46aff11786ffa6aa9ea85e762fbd6370",
+      "size": 9897
+    },
+    "generate_cache_aggregates": {
+      "sha256": "504078e192d9c8182df74e41b98cec08123c5a8b7d0eb7f812d09c1fe5d07010",
+      "size": 17151
+    },
+    "metadata": "fbeb53a0b523f937fae2f23d14689d8c5c84dd5a",
+    "package_script": {
+      "sha256": "516d6ecdccd24b1b66cf80c185219fa47d52af22f672b836773896df621b1666",
+      "size": 14724
+    },
+    "year_day_contract": {
+      "sha256": "f1c07d6f2fdc19475a6f25ddaee5923957447a6f49a8009d8b4c9984a63bd883",
+      "size": 9356
+    }
+  },
+  "status": "pass"
+}
