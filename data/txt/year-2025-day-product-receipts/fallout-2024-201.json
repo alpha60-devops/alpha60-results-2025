@@ -1,0 +1,1725 @@
+{
+  "archive": {
+    "path": "/home/bkoz/src/alpha60-xperiments/year-2025-archives/fallout-2024-201.cache/cache.20260616.tar.xz",
+    "sha256": "16cf5bd7dde1256861100463e172185e72ba1cfcb9fcd8e451354f78181b0d58",
+    "size": 4840132548
+  },
+  "authorization": {
+    "archive_mutated": false,
+    "excluded_member_classes": [
+      "hour",
+      "week",
+      "cumulative"
+    ],
+    "raw_samples_opened": false,
+    "scope": "read only streaming of per-torrent day records"
+  },
+  "collection_key": "fallout-2024-201",
+  "day_cache_stream_contract": {
+    "authorization": {
+      "archive_mutated": false,
+      "excluded_member_classes": [
+        "hour",
+        "week",
+        "cumulative"
+      ],
+      "raw_samples_opened": false,
+      "scope": "read only streaming of per-torrent day records"
+    },
+    "available_day_products": 182,
+    "cache_members": 74210,
+    "collection_key": "fallout-2024-201",
+    "first_date": "2025-12-17",
+    "first_index": 1,
+    "indices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144,
+      145,
+      146,
+      147,
+      148,
+      149,
+      150,
+      151,
+      152,
+      153,
+      154,
+      155,
+      156,
+      157,
+      158,
+      159,
+      160,
+      161,
+      162,
+      163,
+      164,
+      165,
+      166,
+      167,
+      168,
+      169,
+      170,
+      171,
+      172,
+      173,
+      174,
+      175,
+      176,
+      177,
+      178,
+      179,
+      180,
+      181,
+      182
+    ],
+    "last_date": "2026-06-16",
+    "last_index": 182,
+    "missing_indices": [],
+    "sample_span_days": 182,
+    "schema": "alpha60-day-cache-stream-contract/1",
+    "sparse": false,
+    "status": "pass"
+  },
+  "day_product_contract": {
+    "collection_key": "fallout-2024-201",
+    "day_products": 182,
+    "first_date": "2025-12-17",
+    "first_index": 1,
+    "geojson_data_version": "20260701",
+    "ip_geolocation_version": "6:1777968300",
+    "json_data_version": "2026-08-05",
+    "last_date": "2026-06-16",
+    "last_index": 182,
+    "schema": "alpha60-day-product-contract/1",
+    "sparse": false,
+    "status": "pass"
+  },
+  "publications": {
+    "data/geojson.day/fallout-2024-201-day-00001.geojson.gz": {
+      "sha256": "55799667b2231748b6da769296ce72baddb6d5b02a2c552c1c41b7dd8592dac9",
+      "size": 158294
+    },
+    "data/geojson.day/fallout-2024-201-day-00002.geojson.gz": {
+      "sha256": "42d6f9d51ab8a8649e26614f63bf8ad4ec9472668a8a105a8f12b2b47befe32d",
+      "size": 185377
+    },
+    "data/geojson.day/fallout-2024-201-day-00003.geojson.gz": {
+      "sha256": "87c251560beb7a18059ed240bd19ba2ab326a0f512ded341d0e36af6f7e06fdd",
+      "size": 202747
+    },
+    "data/geojson.day/fallout-2024-201-day-00004.geojson.gz": {
+      "sha256": "313847c63dbae228c6831be406fcd22323e9e54dac9a90e4232de29b1f539c32",
+      "size": 204721
+    },
+    "data/geojson.day/fallout-2024-201-day-00005.geojson.gz": {
+      "sha256": "5d35491820cc18d519c37123bdc12d7643b54efcd43e9ec80acaca8b2bc984e9",
+      "size": 201018
+    },
+    "data/geojson.day/fallout-2024-201-day-00006.geojson.gz": {
+      "sha256": "46205abc03e4d809857facf88594ebf775b7cbac363d09c6909f0348c10d8f94",
+      "size": 193669
+    },
+    "data/geojson.day/fallout-2024-201-day-00007.geojson.gz": {
+      "sha256": "00e35a8eea17edb2653c7459836ab8f94cbef89d87784a9fced739344609b7d3",
+      "size": 174608
+    },
+    "data/geojson.day/fallout-2024-201-day-00008.geojson.gz": {
+      "sha256": "cfe16607cc17eacdd7e6e67519fc0e9fd46f3960a8fbb93852b42bebc59ec959",
+      "size": 251826
+    },
+    "data/geojson.day/fallout-2024-201-day-00009.geojson.gz": {
+      "sha256": "abd1e92399733b8932f6809595f71335c9ac728128aac4299a6464ca67ad2abe",
+      "size": 277825
+    },
+    "data/geojson.day/fallout-2024-201-day-00010.geojson.gz": {
+      "sha256": "677864600e912a288a630a23af05ba24d5005191b5beb9cba80c4332b1eabf02",
+      "size": 285649
+    },
+    "data/geojson.day/fallout-2024-201-day-00011.geojson.gz": {
+      "sha256": "e2d5280a7220529a984ba2131124fb5b070e69b85b448c2703457ab45333e950",
+      "size": 355194
+    },
+    "data/geojson.day/fallout-2024-201-day-00012.geojson.gz": {
+      "sha256": "8748a65522e71455c6d505b2b5ff846c383d7ef5ac4d8e7d381c0d5a8477f8ce",
+      "size": 331309
+    },
+    "data/geojson.day/fallout-2024-201-day-00013.geojson.gz": {
+      "sha256": "fb172331f571ba9863cfa2e6693283d442452dff8a0f255e89af7a6f1d5d655f",
+      "size": 348034
+    },
+    "data/geojson.day/fallout-2024-201-day-00014.geojson.gz": {
+      "sha256": "ff6fb3c915cf85c3c50f06dbbf37dbc0bc33aa97ff48551010e177e278556832",
+      "size": 346878
+    },
+    "data/geojson.day/fallout-2024-201-day-00015.geojson.gz": {
+      "sha256": "3d4e18aa616c0f413c335a5dc71c1466936b4bc90f3edca1d12d905ab5488274",
+      "size": 352449
+    },
+    "data/geojson.day/fallout-2024-201-day-00016.geojson.gz": {
+      "sha256": "6eb3df1ba5d68cddea83bb0b8bfc1ec64cfb80a7eb5dcf7d725a6d706768e7e4",
+      "size": 424545
+    },
+    "data/geojson.day/fallout-2024-201-day-00017.geojson.gz": {
+      "sha256": "82c7e2f39ba0e4fbed59a95458493444bc4b736e346619b9a30d15b439fda86a",
+      "size": 435362
+    },
+    "data/geojson.day/fallout-2024-201-day-00018.geojson.gz": {
+      "sha256": "fe5946f0a33336b8eb7a74115579d12fa62aa3c30bb7c37367b2affcecc1ae7d",
+      "size": 417664
+    },
+    "data/geojson.day/fallout-2024-201-day-00019.geojson.gz": {
+      "sha256": "5f4717b40922057684ae8897c15c4c4fdd9d33e6bd52b5fa80b0325c4195891a",
+      "size": 411861
+    },
+    "data/geojson.day/fallout-2024-201-day-00020.geojson.gz": {
+      "sha256": "a0abd6cf072cd21a6e504b4bf61dc44ef760c1012c835c260d1657daac05e9ff",
+      "size": 417590
+    },
+    "data/geojson.day/fallout-2024-201-day-00021.geojson.gz": {
+      "sha256": "55f9d5eddecc32ac128cff1b161400dc9c263a87f730954c12bc5f912aba9f4e",
+      "size": 397710
+    },
+    "data/geojson.day/fallout-2024-201-day-00022.geojson.gz": {
+      "sha256": "778f4287684491232c2e54f28e6f841e2d630bfa0175bad7db874d5d45b2ab40",
+      "size": 426584
+    },
+    "data/geojson.day/fallout-2024-201-day-00023.geojson.gz": {
+      "sha256": "2fb2a183cc3aaa75d2115cba596ceb1713ad917619324647d417f7b84353f016",
+      "size": 436409
+    },
+    "data/geojson.day/fallout-2024-201-day-00024.geojson.gz": {
+      "sha256": "3289b2a67a49e243beed6cdf4087830b04492c2091b2b1c7f3dde2c163fe7660",
+      "size": 415133
+    },
+    "data/geojson.day/fallout-2024-201-day-00025.geojson.gz": {
+      "sha256": "609c3333ad9673b37403159c0cc8a234e77054f349be5d17038a9ef4d6fca58f",
+      "size": 406793
+    },
+    "data/geojson.day/fallout-2024-201-day-00026.geojson.gz": {
+      "sha256": "c0903faeaa0ed25ee942c5784f0b4e714007171e04d0db41bfef4ce09f383efc",
+      "size": 398390
+    },
+    "data/geojson.day/fallout-2024-201-day-00027.geojson.gz": {
+      "sha256": "307011859112c8df90913231d97db0ee0c4ed451d698e97f571be2fccb15c256",
+      "size": 389617
+    },
+    "data/geojson.day/fallout-2024-201-day-00028.geojson.gz": {
+      "sha256": "edc127713941a60f1e0b10725ebbab13cddd7659bc4b4f3954f1712b76884bf6",
+      "size": 386704
+    },
+    "data/geojson.day/fallout-2024-201-day-00029.geojson.gz": {
+      "sha256": "447c82a9088a66e8c63b1ac326b667bf779b5393ebd025ad1b6e772657493cd7",
+      "size": 396184
+    },
+    "data/geojson.day/fallout-2024-201-day-00030.geojson.gz": {
+      "sha256": "5b4250f30ababc479093040674c606007ff3973d36ae71c6bf84e3e03c0b1b2c",
+      "size": 395690
+    },
+    "data/geojson.day/fallout-2024-201-day-00031.geojson.gz": {
+      "sha256": "b637af269ebefc3d00079d3127bf0f0f2fd2cdb1701b5307c200e769c1ef5bb8",
+      "size": 389907
+    },
+    "data/geojson.day/fallout-2024-201-day-00032.geojson.gz": {
+      "sha256": "6960346fd05e0386d402e8f7005a0ab8623f3f1c7af388840cde9639431957ae",
+      "size": 382583
+    },
+    "data/geojson.day/fallout-2024-201-day-00033.geojson.gz": {
+      "sha256": "59b044b53a2cff666a426cd4a6c85bc1efbb02137836341923261be6e6c31a81",
+      "size": 385693
+    },
+    "data/geojson.day/fallout-2024-201-day-00034.geojson.gz": {
+      "sha256": "fefde74d6b990c1b8ef8ae27661cc57029e4c4ebaed301eda2e4e5f768249681",
+      "size": 388780
+    },
+    "data/geojson.day/fallout-2024-201-day-00035.geojson.gz": {
+      "sha256": "a5274cb268138a1cc05c7b93461238a9ee8d80517a946b5c1e1859c308bf03e6",
+      "size": 385250
+    },
+    "data/geojson.day/fallout-2024-201-day-00036.geojson.gz": {
+      "sha256": "dca013821889a00d6b5d48c2487bbbbd0aed1faccaeb698075da7cf2ef0e53b0",
+      "size": 382098
+    },
+    "data/geojson.day/fallout-2024-201-day-00037.geojson.gz": {
+      "sha256": "7a1fd1b99c54b45d6ac38467c14089f8eedf6d42bb34205fe1124b27ecffcd74",
+      "size": 395896
+    },
+    "data/geojson.day/fallout-2024-201-day-00038.geojson.gz": {
+      "sha256": "a56e2cd83588bc5f28a39536b0388348eec049b1fcb4c35905cc8ebf9c7d947d",
+      "size": 388352
+    },
+    "data/geojson.day/fallout-2024-201-day-00039.geojson.gz": {
+      "sha256": "41eac831742d1dbe5de661a2c65bb14976552f9466c4d5a9dc90d17531e11f32",
+      "size": 366790
+    },
+    "data/geojson.day/fallout-2024-201-day-00040.geojson.gz": {
+      "sha256": "8cffcf8003d6cd32dcc4d4d0d4fccad973746edd564a0aaa728837224b1f8d71",
+      "size": 373913
+    },
+    "data/geojson.day/fallout-2024-201-day-00041.geojson.gz": {
+      "sha256": "a6c89c3c1a9465fd88b74a2ec6c19e3c634ed6db4cbd6be49de93001031946d5",
+      "size": 379445
+    },
+    "data/geojson.day/fallout-2024-201-day-00042.geojson.gz": {
+      "sha256": "0fd45b48336387260839b8f0370e91e8abaf77c3b049f00a499368a5a2dc87b8",
+      "size": 376384
+    },
+    "data/geojson.day/fallout-2024-201-day-00043.geojson.gz": {
+      "sha256": "3b598501859052c0afb90e7131494c21b3265983e17de3af598e830557770361",
+      "size": 368856
+    },
+    "data/geojson.day/fallout-2024-201-day-00044.geojson.gz": {
+      "sha256": "341b0421ba5208000d18489f3617dbd6c24da73eb2bfb8f5786318ebc74901f8",
+      "size": 367882
+    },
+    "data/geojson.day/fallout-2024-201-day-00045.geojson.gz": {
+      "sha256": "cdb5381f836a685213384f563c23ba13e369bdb69ed03397abb78e0d04626c9e",
+      "size": 383095
+    },
+    "data/geojson.day/fallout-2024-201-day-00046.geojson.gz": {
+      "sha256": "068304360d2757189d57c3339fb900c97db9611ce5985d001268e7aa8991b18f",
+      "size": 364419
+    },
+    "data/geojson.day/fallout-2024-201-day-00047.geojson.gz": {
+      "sha256": "1aed53b7ee5c7911e410323a5c40c37c222e52507718924cb684c94e1f45e1bb",
+      "size": 365519
+    },
+    "data/geojson.day/fallout-2024-201-day-00048.geojson.gz": {
+      "sha256": "db6e6c871b4878f6e70822af98e7b6bd1a278359452e77b4e252266fa2779439",
+      "size": 382607
+    },
+    "data/geojson.day/fallout-2024-201-day-00049.geojson.gz": {
+      "sha256": "7917c81b798983c234ef63e6d1221822ffb8458e9abf3bb531ac4501fe87f2ce",
+      "size": 375592
+    },
+    "data/geojson.day/fallout-2024-201-day-00050.geojson.gz": {
+      "sha256": "b04f8c449c574ac1b37039d0cc13bcce317de11be21c935f58069be53d620bb4",
+      "size": 393896
+    },
+    "data/geojson.day/fallout-2024-201-day-00051.geojson.gz": {
+      "sha256": "8d4512d7f6e49837b681c910baff786b1242f595b6a1eeef1f98560ecf017d4b",
+      "size": 382528
+    },
+    "data/geojson.day/fallout-2024-201-day-00052.geojson.gz": {
+      "sha256": "d5554b7da7d4904ebe88a184dcc85bab044fcfb596d930a27a321c46f5ef0cd7",
+      "size": 421398
+    },
+    "data/geojson.day/fallout-2024-201-day-00053.geojson.gz": {
+      "sha256": "b3fb9a784844477d392fbae7ea1c923b4c0e39bb5a47b7928fb10649e6904d80",
+      "size": 374496
+    },
+    "data/geojson.day/fallout-2024-201-day-00054.geojson.gz": {
+      "sha256": "6f67b2c19b003c63b4ea280a9d3a458cacd7602fa397cb026d400eb0a8b57900",
+      "size": 361901
+    },
+    "data/geojson.day/fallout-2024-201-day-00055.geojson.gz": {
+      "sha256": "6bf358ebe2d8a1af96ecfe2f56b01859ad53d24ab2753b1fcfe62160782c6ab8",
+      "size": 376478
+    },
+    "data/geojson.day/fallout-2024-201-day-00056.geojson.gz": {
+      "sha256": "760937de4675fef95fd4229285f5861b0bfbbb3a33154038b6dd42e6219bec2f",
+      "size": 376832
+    },
+    "data/geojson.day/fallout-2024-201-day-00057.geojson.gz": {
+      "sha256": "e13a4be9b0327fad39521a52d09d35d125dbc6326e4ec8c3fb64f8dd497a8b7f",
+      "size": 369995
+    },
+    "data/geojson.day/fallout-2024-201-day-00058.geojson.gz": {
+      "sha256": "85dd1a47d46d7b2376e7c84d0f2f281c1965dce643a0b3ac9563b4f5a84ab24c",
+      "size": 360542
+    },
+    "data/geojson.day/fallout-2024-201-day-00059.geojson.gz": {
+      "sha256": "b465841011ef0fb805efae8c33b6d02c230ddb6a37e8e01de3ad61d83ac6ba8b",
+      "size": 372283
+    },
+    "data/geojson.day/fallout-2024-201-day-00060.geojson.gz": {
+      "sha256": "be7487fd07c938fd19c608bf169867a1dbf60550067d00e866bbc866bc9e4c4e",
+      "size": 370686
+    },
+    "data/geojson.day/fallout-2024-201-day-00061.geojson.gz": {
+      "sha256": "3e9f906c684b8326a8d5554fabc2a28616e1dd0f63c98f217a7ec7aaca28a685",
+      "size": 373535
+    },
+    "data/geojson.day/fallout-2024-201-day-00062.geojson.gz": {
+      "sha256": "ada695d560d29b86546fbc6c89a7089c8a8a4f4a17290a0f9e3718cc5ed791ac",
+      "size": 375016
+    },
+    "data/geojson.day/fallout-2024-201-day-00063.geojson.gz": {
+      "sha256": "c31de13575a9e33638428ee94f0875f06dda0db4854f90ca4519576239d9deea",
+      "size": 352943
+    },
+    "data/geojson.day/fallout-2024-201-day-00064.geojson.gz": {
+      "sha256": "cc2990acd3d765c64875df3e557e6fdbb323002b7722ef4cf00b694a4706a680",
+      "size": 348407
+    },
+    "data/geojson.day/fallout-2024-201-day-00065.geojson.gz": {
+      "sha256": "2675fe025cb899fa0edbcdb73c6e6384c3fdcb0e32ef0fde910541254627eb24",
+      "size": 365243
+    },
+    "data/geojson.day/fallout-2024-201-day-00066.geojson.gz": {
+      "sha256": "1d699dcf6ec20430b57848e1904cbeb31d882d3e73258be779e753306206e048",
+      "size": 363626
+    },
+    "data/geojson.day/fallout-2024-201-day-00067.geojson.gz": {
+      "sha256": "a89154e5ab999df61ca9968e30065bf4061763cf7851da87b0599f3aeff3daf8",
+      "size": 360811
+    },
+    "data/geojson.day/fallout-2024-201-day-00068.geojson.gz": {
+      "sha256": "0b955ae7f45e51b12409184e539c0376e9f35e3ecaed2cd9f901c6a47134c538",
+      "size": 355544
+    },
+    "data/geojson.day/fallout-2024-201-day-00069.geojson.gz": {
+      "sha256": "624f45c4fa7c659b45759db0d7774df3c35ce8cdcfcad1b19b4b3fac87debb7c",
+      "size": 362531
+    },
+    "data/geojson.day/fallout-2024-201-day-00070.geojson.gz": {
+      "sha256": "0aefd2bd2b454ddf67ca23a5a66851cec907d3ce08bc42a7df4a161a8070ac09",
+      "size": 365955
+    },
+    "data/geojson.day/fallout-2024-201-day-00071.geojson.gz": {
+      "sha256": "a7fd7253f6d751cea2f095bfc47224431ef48dbcad0977bf6c808baa45b4a619",
+      "size": 357449
+    },
+    "data/geojson.day/fallout-2024-201-day-00072.geojson.gz": {
+      "sha256": "e671c2677dbbdde82f493fb04c73207c4e18b3751b6e279092831dde00284e5d",
+      "size": 350451
+    },
+    "data/geojson.day/fallout-2024-201-day-00073.geojson.gz": {
+      "sha256": "6c496278c72d4bf6b47519765997648255ef38bf640ec8688c3f9670ce3d8673",
+      "size": 338197
+    },
+    "data/geojson.day/fallout-2024-201-day-00074.geojson.gz": {
+      "sha256": "dbb87c92f7be107ac7c516008c1987266c5113c64b0fd6adfd52e9050f76e9aa",
+      "size": 333932
+    },
+    "data/geojson.day/fallout-2024-201-day-00075.geojson.gz": {
+      "sha256": "60f1d9b193ec956f63572ae86254e85871dc0481dc605d5f2bcfdbcc46eb277c",
+      "size": 325570
+    },
+    "data/geojson.day/fallout-2024-201-day-00076.geojson.gz": {
+      "sha256": "d047b6d69ede9f88e8e1f7d9fcd33336151175ba968037d40033d407446d0b5a",
+      "size": 331984
+    },
+    "data/geojson.day/fallout-2024-201-day-00077.geojson.gz": {
+      "sha256": "6c4dd5d9c6c26e5b69e041a5eb50a5b03e7b63735ca13613bc9a047a3e8a92f4",
+      "size": 341108
+    },
+    "data/geojson.day/fallout-2024-201-day-00078.geojson.gz": {
+      "sha256": "de75506ac0ebabd2f80c13f2846805157c44502d082db5326dbbf16f15da5339",
+      "size": 347439
+    },
+    "data/geojson.day/fallout-2024-201-day-00079.geojson.gz": {
+      "sha256": "abd4ba253c034e49401209738678c7ea532ea99cc4fdc5bc905c6a32b051e16b",
+      "size": 345301
+    },
+    "data/geojson.day/fallout-2024-201-day-00080.geojson.gz": {
+      "sha256": "7517267fbe76c8d362f9deee4e7e5ceaed162e336af5312d7c86f69eb90c16c7",
+      "size": 323751
+    },
+    "data/geojson.day/fallout-2024-201-day-00081.geojson.gz": {
+      "sha256": "1fa803c80ff883a21c3e3fb311f21c21bb282ed71156d8ea3034e1f84b26a4c8",
+      "size": 301468
+    },
+    "data/geojson.day/fallout-2024-201-day-00082.geojson.gz": {
+      "sha256": "d4e36e877744b5f1c48ba2149324b00c1fbe9225c071fe1f74976ad829490991",
+      "size": 291503
+    },
+    "data/geojson.day/fallout-2024-201-day-00083.geojson.gz": {
+      "sha256": "cee6686459405a41e2ac582e7220bcae21c0dc24b3044d53cd3f7201276d8b7b",
+      "size": 330555
+    },
+    "data/geojson.day/fallout-2024-201-day-00084.geojson.gz": {
+      "sha256": "9bea179af747a756355ebec32bf334ddd1c35c170695b86564c1c67f29212f06",
+      "size": 325914
+    },
+    "data/geojson.day/fallout-2024-201-day-00085.geojson.gz": {
+      "sha256": "a443b01381c5a67f692c5f1b3de7a19d736cefebcc1007de1cb69367df8f3244",
+      "size": 335141
+    },
+    "data/geojson.day/fallout-2024-201-day-00086.geojson.gz": {
+      "sha256": "d60efd1610b2ec12ca843da7a9cfac25f48bfee11a8fe0673d8054cf12982c90",
+      "size": 332513
+    },
+    "data/geojson.day/fallout-2024-201-day-00087.geojson.gz": {
+      "sha256": "542ad233e5bda8a5b55a8b7f82f61ab088cc539d99bc215044febbdcb9309a3f",
+      "size": 318473
+    },
+    "data/geojson.day/fallout-2024-201-day-00088.geojson.gz": {
+      "sha256": "0da5ec7685086b8023b1587e84cd4c5ee1a3e32a0fac09833158f7afebb8a290",
+      "size": 302943
+    },
+    "data/geojson.day/fallout-2024-201-day-00089.geojson.gz": {
+      "sha256": "8f293632de9182e1548049d4cb011d24b18db6cce67dcb2d12888bcec5c3695f",
+      "size": 319992
+    },
+    "data/geojson.day/fallout-2024-201-day-00090.geojson.gz": {
+      "sha256": "500ae1687bb00fa229747e6804ae0d3af34fbfc12e1f88e3e2d78031f1caa62c",
+      "size": 319480
+    },
+    "data/geojson.day/fallout-2024-201-day-00091.geojson.gz": {
+      "sha256": "211845af65421c9dfc9e74467480fae1c4f02a09bebca9a8cc2e120d3d863bc1",
+      "size": 313664
+    },
+    "data/geojson.day/fallout-2024-201-day-00092.geojson.gz": {
+      "sha256": "baf9c0379a14f8476e47485d2d196de30437b6bda5eba617accec4e0991e334a",
+      "size": 317357
+    },
+    "data/geojson.day/fallout-2024-201-day-00093.geojson.gz": {
+      "sha256": "45d595b49b73c5e2c3285f58344edcf0e575d8c67ab234d5176dde5d539fd4f2",
+      "size": 317181
+    },
+    "data/geojson.day/fallout-2024-201-day-00094.geojson.gz": {
+      "sha256": "41fc6e5afa2c766842423f8a8e7ad059e7a224117ed5ab0768dd7ca78618d3b7",
+      "size": 330134
+    },
+    "data/geojson.day/fallout-2024-201-day-00095.geojson.gz": {
+      "sha256": "00218fd8968b8f0c4b7ae381f8401582b7ed3e2cb66547a45749c42abb262c84",
+      "size": 307437
+    },
+    "data/geojson.day/fallout-2024-201-day-00096.geojson.gz": {
+      "sha256": "90b7885bf1662d33a55aeb5311b8e245071a1de73189caf6716504caafc25949",
+      "size": 304530
+    },
+    "data/geojson.day/fallout-2024-201-day-00097.geojson.gz": {
+      "sha256": "1a1310bc2f4150d136f5065969e9b6dcbc30e384fd296a0a705bcc6f36da837b",
+      "size": 326538
+    },
+    "data/geojson.day/fallout-2024-201-day-00098.geojson.gz": {
+      "sha256": "ea1139399b92845dbfc5cda8780919261a57546549e21ed1ce9baa37b82277d7",
+      "size": 327773
+    },
+    "data/geojson.day/fallout-2024-201-day-00099.geojson.gz": {
+      "sha256": "6088f87559a7dd43f7a9fb6ecd0f1232c7a312606360fd774b81699c3ce16705",
+      "size": 339981
+    },
+    "data/geojson.day/fallout-2024-201-day-00100.geojson.gz": {
+      "sha256": "eb0d4f2da825a507340e2a32dc63e340349111423dfc69328df753963760ec44",
+      "size": 334997
+    },
+    "data/geojson.day/fallout-2024-201-day-00101.geojson.gz": {
+      "sha256": "6786d252c136841ff2c50efc008f3eafb448ac6446bbad7149c2ba14d277be4d",
+      "size": 328783
+    },
+    "data/geojson.day/fallout-2024-201-day-00102.geojson.gz": {
+      "sha256": "c7032337c2816c56d76f5054605d99e76be19318ef71a062d56357dca4d1939c",
+      "size": 310105
+    },
+    "data/geojson.day/fallout-2024-201-day-00103.geojson.gz": {
+      "sha256": "678195a1b9f299d05483f8cb1de0264be06f5bdca3cd5ecdef03f5d8a503f8cd",
+      "size": 297282
+    },
+    "data/geojson.day/fallout-2024-201-day-00104.geojson.gz": {
+      "sha256": "b5c0be8be9f355e57231df98376afb00e19dfec76496b41742801756d46ee136",
+      "size": 311935
+    },
+    "data/geojson.day/fallout-2024-201-day-00105.geojson.gz": {
+      "sha256": "397aa98bf11fdd8ee6f3a69b159e968c16240a642d3940decb75c69cfec31277",
+      "size": 316104
+    },
+    "data/geojson.day/fallout-2024-201-day-00106.geojson.gz": {
+      "sha256": "fe240801d6b1f7edec3f6cbbe809c0a5a6621dc5cfc9ddf24f7b7524de353e7e",
+      "size": 321479
+    },
+    "data/geojson.day/fallout-2024-201-day-00107.geojson.gz": {
+      "sha256": "d31d876da84dbe93cb7d109d989f50b8d722fd34ee688d70b5e005b024d593b5",
+      "size": 323803
+    },
+    "data/geojson.day/fallout-2024-201-day-00108.geojson.gz": {
+      "sha256": "e303b2ea63f5ecfd9c42b7cfffe1f0809534c7858e20f9994c8e4ece0b09f050",
+      "size": 366426
+    },
+    "data/geojson.day/fallout-2024-201-day-00109.geojson.gz": {
+      "sha256": "e076cab1222bfe76ec461ff04eb77fd4d6820b1b2299021e25ac60d59ebcbdd2",
+      "size": 313384
+    },
+    "data/geojson.day/fallout-2024-201-day-00110.geojson.gz": {
+      "sha256": "e2b74014d6bc13ce1070ecd5608088f9d7b330ac114f5e6ae8ff0f02e8728f60",
+      "size": 313813
+    },
+    "data/geojson.day/fallout-2024-201-day-00111.geojson.gz": {
+      "sha256": "58564dffb21c55e8fd15ad7ef22cc746af08d3faef58348fbaf34f41283f155d",
+      "size": 322589
+    },
+    "data/geojson.day/fallout-2024-201-day-00112.geojson.gz": {
+      "sha256": "2dcaf6428876743fdf68c665731ee11a5c57dd20e05ecba8ab080d0e5d019e27",
+      "size": 317759
+    },
+    "data/geojson.day/fallout-2024-201-day-00113.geojson.gz": {
+      "sha256": "39a3cdc0d0a0eb625eb9e8747c3487a0b762b8e620255756afae106666359c22",
+      "size": 164822
+    },
+    "data/geojson.day/fallout-2024-201-day-00114.geojson.gz": {
+      "sha256": "59e2d8c974c9f816122537d348e803ceafa9dc2d4dd7ee0b57e2a4dc4d1c7d9f",
+      "size": 329066
+    },
+    "data/geojson.day/fallout-2024-201-day-00115.geojson.gz": {
+      "sha256": "81062692c2939d263938542c2ae0c205ee14541930f0bb986477669b8acc05cb",
+      "size": 332717
+    },
+    "data/geojson.day/fallout-2024-201-day-00116.geojson.gz": {
+      "sha256": "afdc1f20dae22b770c8ef51e3c08f3acc30212a8a6f817bf469e4ba9e2ac4df3",
+      "size": 321493
+    },
+    "data/geojson.day/fallout-2024-201-day-00117.geojson.gz": {
+      "sha256": "27093b7466ba131ba28d0fcad07dd879ecb7f35aae1941a90b0cf20e6fcf1220",
+      "size": 307135
+    },
+    "data/geojson.day/fallout-2024-201-day-00118.geojson.gz": {
+      "sha256": "4d60db0370f4af3f4f2ed850f7554bbae9f60dea1ea80399d1a67ed54c2396d7",
+      "size": 326631
+    },
+    "data/geojson.day/fallout-2024-201-day-00119.geojson.gz": {
+      "sha256": "7699020345a9b0d7a4c4661ea25608e53e5008e0304f033da9500dbc7795bd6d",
+      "size": 331824
+    },
+    "data/geojson.day/fallout-2024-201-day-00120.geojson.gz": {
+      "sha256": "57da905d0a84ee11620409e0125835f14d986ea477589b6635ed2f65de93808e",
+      "size": 331661
+    },
+    "data/geojson.day/fallout-2024-201-day-00121.geojson.gz": {
+      "sha256": "ddb03936fa23121e4c3b737fbfc28428703c90a374f92040d0b59049eb6693b4",
+      "size": 328515
+    },
+    "data/geojson.day/fallout-2024-201-day-00122.geojson.gz": {
+      "sha256": "cbdfeb8bdf6cd17224e3cd3024b7706955aea8bf7a86f757c7fe2c8224fbe5a0",
+      "size": 331658
+    },
+    "data/geojson.day/fallout-2024-201-day-00123.geojson.gz": {
+      "sha256": "d6803c5b7788b82565bd041263340c125119bd7c5e065254762a85c5c8142310",
+      "size": 329727
+    },
+    "data/geojson.day/fallout-2024-201-day-00124.geojson.gz": {
+      "sha256": "454933a31abb20fd915327a58c7fbbd06e337c9066b239612210da3f5c86e28f",
+      "size": 318112
+    },
+    "data/geojson.day/fallout-2024-201-day-00125.geojson.gz": {
+      "sha256": "709f470eac97ce208222d2489d11e2a8f674ddd07a859c9abc65c18e4a259bf8",
+      "size": 326999
+    },
+    "data/geojson.day/fallout-2024-201-day-00126.geojson.gz": {
+      "sha256": "1cbe5aa17e53f1fc938e85aacd9dafc9250776f42032d254e2a941ffa061cde9",
+      "size": 318243
+    },
+    "data/geojson.day/fallout-2024-201-day-00127.geojson.gz": {
+      "sha256": "1ecfdfdf6da25fceaf294fd8c1e6e158374a780df819ffa9d6ace4741c50ff3d",
+      "size": 325068
+    },
+    "data/geojson.day/fallout-2024-201-day-00128.geojson.gz": {
+      "sha256": "950e949b840a23e446086ed13f8237f272b935f8982bb8afe5111f3d48900041",
+      "size": 326255
+    },
+    "data/geojson.day/fallout-2024-201-day-00129.geojson.gz": {
+      "sha256": "8b2a57d9709b7653c93ac058ce7c80147c061fd3f2a620e9fdf36d326fd9cc48",
+      "size": 321907
+    },
+    "data/geojson.day/fallout-2024-201-day-00130.geojson.gz": {
+      "sha256": "c220f1c4a349757769855a6d78707e59b8a98c93d13db9cb5b125d469955ea28",
+      "size": 316373
+    },
+    "data/geojson.day/fallout-2024-201-day-00131.geojson.gz": {
+      "sha256": "5033137d7a3eb3c83ab8e64538aba13dc9336d626de0e3a4482cfbf4767a2226",
+      "size": 311734
+    },
+    "data/geojson.day/fallout-2024-201-day-00132.geojson.gz": {
+      "sha256": "ab91eff1e6a2c740b6b21aed8ac549efe960e6e9af16af7845269bfabd1ef649",
+      "size": 311473
+    },
+    "data/geojson.day/fallout-2024-201-day-00133.geojson.gz": {
+      "sha256": "2733a9899e5c4334f914ba0d10b631777094da80bd9d81cf8ab648d13e047ccf",
+      "size": 308894
+    },
+    "data/geojson.day/fallout-2024-201-day-00134.geojson.gz": {
+      "sha256": "c1fabdad58f492b06ac315b77a709c936345fdd8a80dddada381a3bfd10c4d1f",
+      "size": 310259
+    },
+    "data/geojson.day/fallout-2024-201-day-00135.geojson.gz": {
+      "sha256": "f3d0d8163a41837a7635f23134e4e0c67155e0fcf436d18c1068b1782a28a822",
+      "size": 316593
+    },
+    "data/geojson.day/fallout-2024-201-day-00136.geojson.gz": {
+      "sha256": "e5e21a23e45ae841d3b84922a6699b3bc1416bb270820fd582e32e33c1e8e72e",
+      "size": 314779
+    },
+    "data/geojson.day/fallout-2024-201-day-00137.geojson.gz": {
+      "sha256": "ff8f4e98f3b72f4aaafff2bac6ce88853b2c15c0cb66adaeea122c1c157f6006",
+      "size": 317037
+    },
+    "data/geojson.day/fallout-2024-201-day-00138.geojson.gz": {
+      "sha256": "ffb88574de6b9a0de15d8526a5445f57b7a0900e96c878f81ba9a02b26f7526b",
+      "size": 311252
+    },
+    "data/geojson.day/fallout-2024-201-day-00139.geojson.gz": {
+      "sha256": "27f4265b2334e79ed1506f3744d7dca0932c17c53fd51d479c7ca7986d751ac0",
+      "size": 315297
+    },
+    "data/geojson.day/fallout-2024-201-day-00140.geojson.gz": {
+      "sha256": "6055a7694191e40b1a051377f248381a92b9f55786b86af25bcc60a8bb440649",
+      "size": 309590
+    },
+    "data/geojson.day/fallout-2024-201-day-00141.geojson.gz": {
+      "sha256": "068f4197f66f0d7e128ecbdfe6777fdac32960279cf69dfe236b2e2dc4e36f09",
+      "size": 313266
+    },
+    "data/geojson.day/fallout-2024-201-day-00142.geojson.gz": {
+      "sha256": "f1ee9dc5cac085c69070e43d7b74a9254a9d8848cd9de491f94cfb1c147d8b1d",
+      "size": 311766
+    },
+    "data/geojson.day/fallout-2024-201-day-00143.geojson.gz": {
+      "sha256": "c21684cabd0a405dbf62cbce6d9d95ce4f5eb47629e79934fa409f73a6f33f1d",
+      "size": 324302
+    },
+    "data/geojson.day/fallout-2024-201-day-00144.geojson.gz": {
+      "sha256": "5ff8f4018573994b59c45595b26ddb736761bf001fc6e51a0eef2f502bea2758",
+      "size": 320764
+    },
+    "data/geojson.day/fallout-2024-201-day-00145.geojson.gz": {
+      "sha256": "48a691aaec9ee7bdfc11cf163d5f7f92a8e03fa3df711402392cce10660d42a4",
+      "size": 323271
+    },
+    "data/geojson.day/fallout-2024-201-day-00146.geojson.gz": {
+      "sha256": "356f610932c0d88f1ef55dfcf37d01c5c454a96065ce517c346d2b987af0ad7f",
+      "size": 319964
+    },
+    "data/geojson.day/fallout-2024-201-day-00147.geojson.gz": {
+      "sha256": "077cf08dfd49199962edecf9226c6bb86cb0bbe908c524b7af6fa96248157483",
+      "size": 308544
+    },
+    "data/geojson.day/fallout-2024-201-day-00148.geojson.gz": {
+      "sha256": "e0c5ec5be97cfef623918ad846f83bd7ed3941fc81b8bcd108e2805c2517eaba",
+      "size": 311218
+    },
+    "data/geojson.day/fallout-2024-201-day-00149.geojson.gz": {
+      "sha256": "09d912bde24c4d445bfbc3c2286ae25269a87710b1987782b88a9cc371011579",
+      "size": 314971
+    },
+    "data/geojson.day/fallout-2024-201-day-00150.geojson.gz": {
+      "sha256": "bdfb656fe48a8e269bd88a8879551818344782f1b4fdfdc6b0d92c31441d8deb",
+      "size": 338912
+    },
+    "data/geojson.day/fallout-2024-201-day-00151.geojson.gz": {
+      "sha256": "83c77cda5fd7fbcfab499b7185130959c73e600aa23fd033f3faddbeb8d51146",
+      "size": 324520
+    },
+    "data/geojson.day/fallout-2024-201-day-00152.geojson.gz": {
+      "sha256": "928cb6b80668e341c34529308cce2651c067649d4b412b27b511831041eb3c08",
+      "size": 324564
+    },
+    "data/geojson.day/fallout-2024-201-day-00153.geojson.gz": {
+      "sha256": "31f9637f858f5674be9c483de5f0371391c06e47158472efc04859621b894e9c",
+      "size": 320617
+    },
+    "data/geojson.day/fallout-2024-201-day-00154.geojson.gz": {
+      "sha256": "59d33658666541195b0e74ca326994074940f70d44cd9b34aaa9582d2ba2a00a",
+      "size": 319113
+    },
+    "data/geojson.day/fallout-2024-201-day-00155.geojson.gz": {
+      "sha256": "a790ef890be293947757d59388e0601af8ecf7bfa1e35281e0f8d710c63cb5fd",
+      "size": 309077
+    },
+    "data/geojson.day/fallout-2024-201-day-00156.geojson.gz": {
+      "sha256": "b1582125f1c695954bfb964fbe9145318ceac4e865949901be78e15ff449f48f",
+      "size": 310813
+    },
+    "data/geojson.day/fallout-2024-201-day-00157.geojson.gz": {
+      "sha256": "581119bc55a7b0ea059911570acce616bd8c2f7045f1b4733d39b3b90f359bc4",
+      "size": 313336
+    },
+    "data/geojson.day/fallout-2024-201-day-00158.geojson.gz": {
+      "sha256": "433871df1b3fb09d0bdfbd3474b931dfac6e9391c9dba6c61edc4ff5d73e41a3",
+      "size": 313900
+    },
+    "data/geojson.day/fallout-2024-201-day-00159.geojson.gz": {
+      "sha256": "0484f3b25afefdd149d3a69cce6434d8accba3d3b3f27aa46de028a338deddf6",
+      "size": 312801
+    },
+    "data/geojson.day/fallout-2024-201-day-00160.geojson.gz": {
+      "sha256": "88dee370ba30ccad89d5a0b39c71cd8a7c5ad5ee98e0b920f5cb913a3a380bd9",
+      "size": 310751
+    },
+    "data/geojson.day/fallout-2024-201-day-00161.geojson.gz": {
+      "sha256": "3236ac50a9ad280423315e2379c9a7b5718e9ad0c33c6d44744521f6fc9173f3",
+      "size": 313120
+    },
+    "data/geojson.day/fallout-2024-201-day-00162.geojson.gz": {
+      "sha256": "b99bbbac85cdaa09e74be5ef862ee4253dbaed737725130a66bb5e0b587e121b",
+      "size": 304183
+    },
+    "data/geojson.day/fallout-2024-201-day-00163.geojson.gz": {
+      "sha256": "daf9573fefa062795e91de703976e62a18bf9e0f91d389c92d169ffdaf5a84f4",
+      "size": 307715
+    },
+    "data/geojson.day/fallout-2024-201-day-00164.geojson.gz": {
+      "sha256": "73b7213840efa317bbc8244ab9a1f2d5631e81d4a065aef78659167474b8d6da",
+      "size": 315750
+    },
+    "data/geojson.day/fallout-2024-201-day-00165.geojson.gz": {
+      "sha256": "c358f3412a7cf0462c848ecb2436f96c86c6bacdc1f74381cc7128bcaa3d8f2f",
+      "size": 319249
+    },
+    "data/geojson.day/fallout-2024-201-day-00166.geojson.gz": {
+      "sha256": "726daabae48b9bf85044e957d8157f0a3e3d7b6c39540bd461669c60fc435fa3",
+      "size": 321916
+    },
+    "data/geojson.day/fallout-2024-201-day-00167.geojson.gz": {
+      "sha256": "976d2bd4e82fa18089f9fdf6e19ec3aef18279a1fcaaf8d10c0b2845a8b10790",
+      "size": 316444
+    },
+    "data/geojson.day/fallout-2024-201-day-00168.geojson.gz": {
+      "sha256": "1e86f866c27e460fab9b025789f808e363fe8b4139485ca8eb5176c9aa0367ba",
+      "size": 316986
+    },
+    "data/geojson.day/fallout-2024-201-day-00169.geojson.gz": {
+      "sha256": "63764dfec65d7f0ccde1d3780b7c09b8a3b74fdc7fc6a4d62c4c43c5221106a1",
+      "size": 304140
+    },
+    "data/geojson.day/fallout-2024-201-day-00170.geojson.gz": {
+      "sha256": "d60286910cb202d5556a93b5755dd7ea64d824445544658e4b1aebdd3e7502ae",
+      "size": 302969
+    },
+    "data/geojson.day/fallout-2024-201-day-00171.geojson.gz": {
+      "sha256": "d6741186b01c56a4dc5fa8f41ee20565778e69834c2e30ca81d9d2f64d2463c0",
+      "size": 304636
+    },
+    "data/geojson.day/fallout-2024-201-day-00172.geojson.gz": {
+      "sha256": "d1504cf5e88aa776185ff74b4714021c190daafca1c8446c5488b209dd9374e8",
+      "size": 292810
+    },
+    "data/geojson.day/fallout-2024-201-day-00173.geojson.gz": {
+      "sha256": "d770fd4b2020360fba4b2e5dab450a834d03ccb546d72975cdd7aa70bf8df3a1",
+      "size": 306745
+    },
+    "data/geojson.day/fallout-2024-201-day-00174.geojson.gz": {
+      "sha256": "dda3f8019d6f1791332a061071c1d8ce20403b5afcfdb5683e9841c8121e2ca6",
+      "size": 295566
+    },
+    "data/geojson.day/fallout-2024-201-day-00175.geojson.gz": {
+      "sha256": "ef7b05fb7b02156f7a938f967e314f0c27a1443b570afb0e38417a2024dfead1",
+      "size": 292521
+    },
+    "data/geojson.day/fallout-2024-201-day-00176.geojson.gz": {
+      "sha256": "25cabc98bedc489d62342f9b402d9c95ea1dae8da935a0a3c39d082aec9246b2",
+      "size": 282522
+    },
+    "data/geojson.day/fallout-2024-201-day-00177.geojson.gz": {
+      "sha256": "ee0b8cad6d9a457cfd9e25ac6a2642f9492cb957b77118ce83693e1c3642acc1",
+      "size": 276654
+    },
+    "data/geojson.day/fallout-2024-201-day-00178.geojson.gz": {
+      "sha256": "f6211aa7d21b7ee725fe35ac70f9d995fe4f2cf980efacfb59d62b327427be12",
+      "size": 315277
+    },
+    "data/geojson.day/fallout-2024-201-day-00179.geojson.gz": {
+      "sha256": "71581eb39b28703f9ede9296717bbeff444d7acab2989895ef186c61aeee8e47",
+      "size": 275623
+    },
+    "data/geojson.day/fallout-2024-201-day-00180.geojson.gz": {
+      "sha256": "e8c8925c126ff2dde1324174a974ae67092b19f8f016dca1627b8bd2a49ddc80",
+      "size": 294180
+    },
+    "data/geojson.day/fallout-2024-201-day-00181.geojson.gz": {
+      "sha256": "40c8380895a34cda04ea0114a823ecd9a379333be676ae38446b31f60545f24f",
+      "size": 314133
+    },
+    "data/geojson.day/fallout-2024-201-day-00182.geojson.gz": {
+      "sha256": "a77de4df9d188f9f2ae3f71de511ad8aff409bdeeb88c59163360214909afd4f",
+      "size": 320563
+    },
+    "data/json/fallout-2024-201-swarm-day-00001-2025-12-17.json": {
+      "sha256": "59fe89602a260c4b730c53e3aa9ccaac69a5a3d71a154f916aad756fa14aa021",
+      "size": 451
+    },
+    "data/json/fallout-2024-201-swarm-day-00002-2025-12-18.json": {
+      "sha256": "0b02877a80a72fbef5de9a8ccf2af707e0789565db9acbb077b85d9798faf54c",
+      "size": 451
+    },
+    "data/json/fallout-2024-201-swarm-day-00003-2025-12-19.json": {
+      "sha256": "b6d760fd6d66418540b1e9d88d479f62959b56f301172e9cc51e8dda0ee92c0b",
+      "size": 451
+    },
+    "data/json/fallout-2024-201-swarm-day-00004-2025-12-20.json": {
+      "sha256": "844c9521a8901312bf80dcd9aad6174ecaec4b08015f541072d32bdb2b83abec",
+      "size": 451
+    },
+    "data/json/fallout-2024-201-swarm-day-00005-2025-12-21.json": {
+      "sha256": "444efe0751bd58d1e2e07153847be85877028e796d8fc34358cf594c204bec9b",
+      "size": 451
+    },
+    "data/json/fallout-2024-201-swarm-day-00006-2025-12-22.json": {
+      "sha256": "dbf3e64c931eaecf17a0d92b265972b65bec4a28dbee4dc5f98f997a7ec88d80",
+      "size": 451
+    },
+    "data/json/fallout-2024-201-swarm-day-00007-2025-12-23.json": {
+      "sha256": "cbd32595062efd80fe7751ba8f45598a964e8ce4568bbba7f333dfdf2f828556",
+      "size": 451
+    },
+    "data/json/fallout-2024-201-swarm-day-00008-2025-12-24.json": {
+      "sha256": "0a6f214cb94e31bac02aaedfefc0505adaa7b2bc3cfc81a0e1012466977d132a",
+      "size": 452
+    },
+    "data/json/fallout-2024-201-swarm-day-00009-2025-12-25.json": {
+      "sha256": "736b797b74abe97d79072213d995601ae43897843ea0afb81750328929be6822",
+      "size": 452
+    },
+    "data/json/fallout-2024-201-swarm-day-00010-2025-12-26.json": {
+      "sha256": "06783b7770d62b11382947dad54a4b56fda662889a436fdd227ccb597eac0dc4",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00011-2025-12-27.json": {
+      "sha256": "c0df6136ae1320f2d32d14db7006031c4ef49abefa95880c37073444db2c06af",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00012-2025-12-28.json": {
+      "sha256": "ad4ad0c7301e5071e9c22b93f52e61ac87fef4810ddac7f1885784977cf6a62c",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00013-2025-12-29.json": {
+      "sha256": "9503d970bb0c8909239643efb3d5b677fe19f1097b073f8bd0dcce362ca4ad27",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00014-2025-12-30.json": {
+      "sha256": "266127ab9958d4a32498f380c1d3ad82ef44c5188340095ffe09f8279babb05d",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00015-2025-12-31.json": {
+      "sha256": "9fca14875fda13fceed7690dd2366b829be01ddc76f6f424e29ff317e8783bf0",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00016-2026-01-01.json": {
+      "sha256": "1eedee5c2a05b5ec151b232e4e9ed36f5e3a95d8dfe730024cf5939f2d33a71b",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00017-2026-01-02.json": {
+      "sha256": "5b06985ef4605bbf4f6f714e8909ca47411b03ad6cf4c9e18ea6b43d365bdaf6",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00018-2026-01-03.json": {
+      "sha256": "d1c12912470ab3a1594626f91fab563a0ea314b043c835017746d4bae0867b14",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00019-2026-01-04.json": {
+      "sha256": "8a9dabdeb328c8e9fdf1cf75010bb1b0522d1e614f455376a5031ebaf278900c",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00020-2026-01-05.json": {
+      "sha256": "302bf3b7537a2af89c49382d53f0e9bf155ac34bf78f1222921f586cce4aa604",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00021-2026-01-06.json": {
+      "sha256": "b4524fd5513f7b534bc4bf8c1cc228e0e426207b1dec6b07f30538cb36cda1b4",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00022-2026-01-07.json": {
+      "sha256": "3d8d3d810a900f4b8673d47db648743c63b7bf896b4e2e79cd3a7ce39d302069",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00023-2026-01-08.json": {
+      "sha256": "b78ad81db29b54d7842e0545cc34ea2d200bade0c83d6518d517527c9bc1aad9",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00024-2026-01-09.json": {
+      "sha256": "c884a91e5f70214a9afb47206a44f383e75b5635a3c8b2a2dcebb0ee1383d976",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00025-2026-01-10.json": {
+      "sha256": "2a66bc3d0df0d7f3dad071d667ec49d26382a93c91ff679b9efe801ea0a4aaa7",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00026-2026-01-11.json": {
+      "sha256": "d7391f8e317d59aa5c190f40f5a7408b67a6c36cc23a7c3b8668c367634d5d18",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00027-2026-01-12.json": {
+      "sha256": "9bb18c2edabd33903fb258e100d73aa9caff183fb1f37a67e1d2c6515ef9fb38",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00028-2026-01-13.json": {
+      "sha256": "1514cb0e14fcd743011c0685bcae6f6838ce873af1b27dcf6a30dee9026161a4",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00029-2026-01-14.json": {
+      "sha256": "eb8bc8f2f9aab201c22f56a83abf8a8f5898bc95a8fba26533a4586fd81212be",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00030-2026-01-15.json": {
+      "sha256": "d51ad7301ce24dbcf86ad9726122e19c02ed39f2d715f7d0c51c25bc50b01a20",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00031-2026-01-16.json": {
+      "sha256": "2d2d13310a4bd7c71032008213050648f8caec88b0f9136945e5be4a9a2ffada",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00032-2026-01-17.json": {
+      "sha256": "66695f6f411849bfb8b53ce826f54222384c49e6f922336b3b29e07cf388b003",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00033-2026-01-18.json": {
+      "sha256": "34392db887481c51682e2628b978707f2d4fd8df6c7b5676129461f1304164f3",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00034-2026-01-19.json": {
+      "sha256": "c9c598b0d17f0db16ae91083908a3f47ebe515cca543c5dac3a298f2dc05d984",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00035-2026-01-20.json": {
+      "sha256": "b685db15ce727935e8d19fab75e9c2575e1996999eafb0eb701a7e6560927764",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00036-2026-01-21.json": {
+      "sha256": "db5d38787b7d9de65eee3e2bcfd7b453fe775140af59e380773c037e75af8ede",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00037-2026-01-22.json": {
+      "sha256": "c61daddd1bd325def491d5ce16dae109639c7e534c937fd7ae46857c9e43518d",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00038-2026-01-23.json": {
+      "sha256": "d24024a6156f1e156fbd1e82506598368b3e1930980a95b725e0c84a9687587c",
+      "size": 453
+    },
+    "data/json/fallout-2024-201-swarm-day-00039-2026-01-24.json": {
+      "sha256": "736a81a2cc4237b50387a88569bedd5eb719c58976dca889206c16f7d5e86841",
+      "size": 453
+    },
+    "data/json/fallout-2024-201-swarm-day-00040-2026-01-25.json": {
+      "sha256": "88773579e646f7616d05fb1b6c68ad7467f3ec428c98b9d249dce7722d689b21",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00041-2026-01-26.json": {
+      "sha256": "d559186e09021ad62a194fabf09c9cad5e08dc389dae626393059b7d4106c52d",
+      "size": 453
+    },
+    "data/json/fallout-2024-201-swarm-day-00042-2026-01-27.json": {
+      "sha256": "fc191fd6feaf1bbb0622253b857bfa3863cc8cb6fa341ad466b6f4c4b0ddea9c",
+      "size": 453
+    },
+    "data/json/fallout-2024-201-swarm-day-00043-2026-01-28.json": {
+      "sha256": "283b6c44e3602e4fa7ba14e492292183937e7bd8f821212b2ed7a00c4da5d5ad",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00044-2026-01-29.json": {
+      "sha256": "4cd1f77b8551982448c0be59d4686ab05c0f67d66466f3bb7679a77ce936bc96",
+      "size": 453
+    },
+    "data/json/fallout-2024-201-swarm-day-00045-2026-01-30.json": {
+      "sha256": "04d0f1aa386ec3c80e21de47d9b68fd55f0b061c11b184332840c7ebd2186778",
+      "size": 453
+    },
+    "data/json/fallout-2024-201-swarm-day-00046-2026-01-31.json": {
+      "sha256": "495d3522cdb18851625023650b9066222a0de6473dcfa983377fddebf2f8909b",
+      "size": 453
+    },
+    "data/json/fallout-2024-201-swarm-day-00047-2026-02-01.json": {
+      "sha256": "b9bf76786ecc3c4d40aa31b2993256930646d0b62f60a1ea48d81cea91de660d",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00048-2026-02-02.json": {
+      "sha256": "e28cf730d589f69f5f8c2e363bcb06365dbd5ce8019ab6a73624a6818b54b272",
+      "size": 453
+    },
+    "data/json/fallout-2024-201-swarm-day-00049-2026-02-03.json": {
+      "sha256": "b481d996369ce2d11431e8cd73a43f2d6192e97cb9589528ad3d59a8d3fcc8f1",
+      "size": 453
+    },
+    "data/json/fallout-2024-201-swarm-day-00050-2026-02-04.json": {
+      "sha256": "7e35ed636b00b06a0ef63fb34d289db8a8d57a1cced90fae97ba4d8eccb7d082",
+      "size": 453
+    },
+    "data/json/fallout-2024-201-swarm-day-00051-2026-02-05.json": {
+      "sha256": "86eeeda4b536b87b8d90c64f79118190e47c48ff881561fdc97af58cc7bcfccd",
+      "size": 453
+    },
+    "data/json/fallout-2024-201-swarm-day-00052-2026-02-06.json": {
+      "sha256": "cf7401af7ff4758a096e403dd9f35bd7be71d328c9f6106416a1350cb6355f54",
+      "size": 453
+    },
+    "data/json/fallout-2024-201-swarm-day-00053-2026-02-07.json": {
+      "sha256": "5c3c4c4a339ec5b8bdff450d6781f3d1c4d4d3a45a46fa8e074672fb69c83ce3",
+      "size": 453
+    },
+    "data/json/fallout-2024-201-swarm-day-00054-2026-02-08.json": {
+      "sha256": "a611bd02000eedbc82e2ffc55efb19c812c05740254acb931df2eea4872e8e22",
+      "size": 453
+    },
+    "data/json/fallout-2024-201-swarm-day-00055-2026-02-09.json": {
+      "sha256": "86d296b8588e9a6c67de3e5e815daeea2ba709eb28b5ddcfdc9adaa942154aa4",
+      "size": 453
+    },
+    "data/json/fallout-2024-201-swarm-day-00056-2026-02-10.json": {
+      "sha256": "f290381c53c529d634b51563fccfcf25bc10b04b0a2819cc4084e2ebe9849426",
+      "size": 453
+    },
+    "data/json/fallout-2024-201-swarm-day-00057-2026-02-11.json": {
+      "sha256": "df3234ebff91f10d3a85f86c9975169071bb43626dc3aa2b70d1bac7bb6ff4b2",
+      "size": 453
+    },
+    "data/json/fallout-2024-201-swarm-day-00058-2026-02-12.json": {
+      "sha256": "a134305df410e9584db9f06bcf6fd77e6507187fdef0552efe141575b837e21e",
+      "size": 453
+    },
+    "data/json/fallout-2024-201-swarm-day-00059-2026-02-13.json": {
+      "sha256": "0fa1d80727f7f422a90f755780a3b2189548ce94fba3987f9a8279e3443c98a9",
+      "size": 453
+    },
+    "data/json/fallout-2024-201-swarm-day-00060-2026-02-14.json": {
+      "sha256": "ad5311f6e3e9f61fefce9d57be5290c57e9b141c27560c67c95727835159afb2",
+      "size": 453
+    },
+    "data/json/fallout-2024-201-swarm-day-00061-2026-02-15.json": {
+      "sha256": "f7264785be635f276be2ac519d451b812b128b76d7986830f1a463cf54aac9f3",
+      "size": 453
+    },
+    "data/json/fallout-2024-201-swarm-day-00062-2026-02-16.json": {
+      "sha256": "129aa1b176d5cd8236f13fdadd652c193876c64ff1b79d19f1afed7b4571a73c",
+      "size": 453
+    },
+    "data/json/fallout-2024-201-swarm-day-00063-2026-02-17.json": {
+      "sha256": "8ca858a01868bd357def3ecf74e515ba3c0aed1a83f51fb8ecba565a7843a6cc",
+      "size": 453
+    },
+    "data/json/fallout-2024-201-swarm-day-00064-2026-02-18.json": {
+      "sha256": "d9d5fa7f4083b47a4362f52fd6d89d2ac3628754696b3a9f440c3b17ecbbc570",
+      "size": 453
+    },
+    "data/json/fallout-2024-201-swarm-day-00065-2026-02-19.json": {
+      "sha256": "054b70acc4da3122a175c0199f0cf61d73dd220c80c3bd82e8c2b8d4a64c0100",
+      "size": 453
+    },
+    "data/json/fallout-2024-201-swarm-day-00066-2026-02-20.json": {
+      "sha256": "a372e706ccbdb9fe359c4c890b1c143afcc91da80fc2818ade220c1c8eb59709",
+      "size": 453
+    },
+    "data/json/fallout-2024-201-swarm-day-00067-2026-02-21.json": {
+      "sha256": "9c104b9ccee6feb0a80b89f5d922e960ce9612d352939a9b21cb62f12050d442",
+      "size": 453
+    },
+    "data/json/fallout-2024-201-swarm-day-00068-2026-02-22.json": {
+      "sha256": "cd893e5978345189c0ee1fe99995c4d7574d12e930a6d5aaa7fdec2257e5206c",
+      "size": 453
+    },
+    "data/json/fallout-2024-201-swarm-day-00069-2026-02-23.json": {
+      "sha256": "ff248b07e20f0c54b3bcc5955bdab121f37a645c5120d6701607fe855e74da19",
+      "size": 453
+    },
+    "data/json/fallout-2024-201-swarm-day-00070-2026-02-24.json": {
+      "sha256": "b69fac8e0971480e68d4523c851925b9c8fb199a3870510b50f37a52ba37a4ca",
+      "size": 453
+    },
+    "data/json/fallout-2024-201-swarm-day-00071-2026-02-25.json": {
+      "sha256": "5df83ca7a72bbff522c9838ba26e95e6f8a1fe2f94963de7bf1a7af075c24b46",
+      "size": 453
+    },
+    "data/json/fallout-2024-201-swarm-day-00072-2026-02-26.json": {
+      "sha256": "53c04b35c328029e8c523faefe9fcdcd0f6f69ac1fec39fc0508bb8efb5b020b",
+      "size": 453
+    },
+    "data/json/fallout-2024-201-swarm-day-00073-2026-02-27.json": {
+      "sha256": "92cf45012d364766c757cd60880910166df64b88cdf00b54893f38ed54de7468",
+      "size": 453
+    },
+    "data/json/fallout-2024-201-swarm-day-00074-2026-02-28.json": {
+      "sha256": "165933b5b096ccae3b6f5b8c9a8cc2632a520f16ff24f2cf52049cf4f1dc4b18",
+      "size": 453
+    },
+    "data/json/fallout-2024-201-swarm-day-00075-2026-03-01.json": {
+      "sha256": "3a0633016cfcd12a60724ae0555ad5d0d26fd78c4a223b884b5f212e3573d81b",
+      "size": 453
+    },
+    "data/json/fallout-2024-201-swarm-day-00076-2026-03-02.json": {
+      "sha256": "467063cd31a396ea7d97b303c35f7df361492470c28976fa618149339c562be6",
+      "size": 453
+    },
+    "data/json/fallout-2024-201-swarm-day-00077-2026-03-03.json": {
+      "sha256": "4489275c1874d6e5cea87a84bad74d707501f290b0305188395a0af020972509",
+      "size": 453
+    },
+    "data/json/fallout-2024-201-swarm-day-00078-2026-03-04.json": {
+      "sha256": "cbd361ea9a8b61307e95410bc53606fb518164e1a3031d85c128fdf2e33d0a7b",
+      "size": 453
+    },
+    "data/json/fallout-2024-201-swarm-day-00079-2026-03-05.json": {
+      "sha256": "8bc56271334964286c334b9a36c0d1ff9fde56eaae4000408b542b5890c7687a",
+      "size": 453
+    },
+    "data/json/fallout-2024-201-swarm-day-00080-2026-03-06.json": {
+      "sha256": "8fb59938c777f095fa41239624e25fefec8d4ca9ed597d3462454786a9243166",
+      "size": 453
+    },
+    "data/json/fallout-2024-201-swarm-day-00081-2026-03-07.json": {
+      "sha256": "546a4d6b2a7ba9424baf85403fabebaf4b04d5ddeafe70ed66d64764ffac96f0",
+      "size": 453
+    },
+    "data/json/fallout-2024-201-swarm-day-00082-2026-03-08.json": {
+      "sha256": "eb85c797da8d61353f5a83638e6956b823d450c2a257f06d1f4c296a0eedb85c",
+      "size": 453
+    },
+    "data/json/fallout-2024-201-swarm-day-00083-2026-03-09.json": {
+      "sha256": "d96273a41ae746911a1a18f83abe3505d8aac72e81954d7a6147ede0fd41b97f",
+      "size": 453
+    },
+    "data/json/fallout-2024-201-swarm-day-00084-2026-03-10.json": {
+      "sha256": "909b35a13e117d543a924ae5bae6d4f4f4c6d8577b95bf9c14dfeb7484cebcd2",
+      "size": 453
+    },
+    "data/json/fallout-2024-201-swarm-day-00085-2026-03-11.json": {
+      "sha256": "4dd746e014b762907994425c6c9e3710626d6168cd7eef606443f5ccfd9f39c1",
+      "size": 453
+    },
+    "data/json/fallout-2024-201-swarm-day-00086-2026-03-12.json": {
+      "sha256": "989db99978d5c96d665a410ba9b8e51ff45bdccfa2026a4a948e95e0592c938d",
+      "size": 453
+    },
+    "data/json/fallout-2024-201-swarm-day-00087-2026-03-13.json": {
+      "sha256": "645599485e9a55cdcfa9c192e32fddcb8661e55b09a74ef1959b4581b18a3f45",
+      "size": 453
+    },
+    "data/json/fallout-2024-201-swarm-day-00088-2026-03-14.json": {
+      "sha256": "c1f21b07a6dd74803e0392abbecd77282e0e35f1024c92e76018b57bb6c6aa48",
+      "size": 453
+    },
+    "data/json/fallout-2024-201-swarm-day-00089-2026-03-15.json": {
+      "sha256": "3f9b4f6a2f41ab84f322dbc636b5432d234a2ce07c17590d6221043389555108",
+      "size": 453
+    },
+    "data/json/fallout-2024-201-swarm-day-00090-2026-03-16.json": {
+      "sha256": "30ee86c6bb43a2e2e028d8977c1f51d412f128f1d961888102baac2d9cf774b3",
+      "size": 453
+    },
+    "data/json/fallout-2024-201-swarm-day-00091-2026-03-17.json": {
+      "sha256": "6177bdbfdb2d7ca99c5544af7c0df5cecbba26eee87179277ded8edc3e29c45e",
+      "size": 453
+    },
+    "data/json/fallout-2024-201-swarm-day-00092-2026-03-18.json": {
+      "sha256": "9003941b8dba172cdae95a95cdb82bcd4bf9d8a7b07d98bb6fa3fd1575438f5c",
+      "size": 453
+    },
+    "data/json/fallout-2024-201-swarm-day-00093-2026-03-19.json": {
+      "sha256": "935bc37da2301cec5a15accd9d1688a332fcc2c50124d930831ddd267d7eac66",
+      "size": 453
+    },
+    "data/json/fallout-2024-201-swarm-day-00094-2026-03-20.json": {
+      "sha256": "62d17aff476415e9799349b4d1e0dfcd08dd1443454310c8ab58c9b2f19ec0ab",
+      "size": 453
+    },
+    "data/json/fallout-2024-201-swarm-day-00095-2026-03-21.json": {
+      "sha256": "8bee0a1c89cbff790680487bb19c121bea88c1329913df34efd6777226443058",
+      "size": 453
+    },
+    "data/json/fallout-2024-201-swarm-day-00096-2026-03-22.json": {
+      "sha256": "cd0f67a1b1880bb321258e1028e80df9ff9c087907c0a246d1e430e5aa1325e7",
+      "size": 453
+    },
+    "data/json/fallout-2024-201-swarm-day-00097-2026-03-23.json": {
+      "sha256": "b9bd61bf44976471ac9eb5c4cedbe9e84e7e2b63ccd977eafc67eb29a9889e85",
+      "size": 453
+    },
+    "data/json/fallout-2024-201-swarm-day-00098-2026-03-24.json": {
+      "sha256": "1a30ac461cd65b320fb3d8c5f92811e6a39d3414676b9bfe833e25fd06de62ba",
+      "size": 453
+    },
+    "data/json/fallout-2024-201-swarm-day-00099-2026-03-25.json": {
+      "sha256": "66c54f06d2003bdfd8f8e8ba9dc8bf7ed3f2281e8924e2cf8142d2c04188fb4f",
+      "size": 453
+    },
+    "data/json/fallout-2024-201-swarm-day-00100-2026-03-26.json": {
+      "sha256": "3d2f54d7b3246b753dc2dabc77ee7118faf3c98b485c503cbd4d4a0470f6cc03",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00101-2026-03-27.json": {
+      "sha256": "a9cd5455af7633cd99e5798540305eb2442841bce0b556e56d3005c73cd8858c",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00102-2026-03-28.json": {
+      "sha256": "ecdd5c52cc488da2496e19640531758286eb057b177cd0f506335a642c172ee5",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00103-2026-03-29.json": {
+      "sha256": "1e65ac5117b36b8a21475a3ed75d9beeac9169dba8852d047f3bfc83271f9472",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00104-2026-03-30.json": {
+      "sha256": "e1834398f64ac3d76441d67ea981c52d2a9f808c0e35b5994a21575dcbb0150e",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00105-2026-03-31.json": {
+      "sha256": "4d61db53086ee613305dc8030c7ef2abdf9112e8e1fa98c31c19947290130fd5",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00106-2026-04-01.json": {
+      "sha256": "05b3a14f62f060fb5585a4c8320a604d478fd6a843b75fe8c12a7eb8af82d652",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00107-2026-04-02.json": {
+      "sha256": "50032be0c4b2adc41b2f5e687d9d399793136d9ebcae43579b735f07968a86f9",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00108-2026-04-03.json": {
+      "sha256": "86f4984f888b402410d78a4bc2cb6b04fe757e3522cb5bad1df5bfcfab7b6de3",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00109-2026-04-04.json": {
+      "sha256": "6031172d42eaba94560a42937d218635b95d278e2e1e4c754d8edb8c7518067a",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00110-2026-04-05.json": {
+      "sha256": "964f78fe4f3f3077bbcc77e48fcf1276c575c171a4894b9cf53ee9e76961e51e",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00111-2026-04-06.json": {
+      "sha256": "716bae1109e1b8a9500369b8b14ded04617b3299f1eef751207685bbcf33f3af",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00112-2026-04-07.json": {
+      "sha256": "9e9dcac8d2c7985b9bcf7c119b4de5aeea89a854be8b58dbfed4ebe0067ffcce",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00113-2026-04-08.json": {
+      "sha256": "e29112768b9067972bcbc69f1a473b9c13edb41f09286e9e9fcafb60893498a0",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00114-2026-04-09.json": {
+      "sha256": "ba73bea3a5d7c64b47b37600362b89e5a3aaabbfa9f249a13e9d8f02552d919b",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00115-2026-04-10.json": {
+      "sha256": "791ba89f372a75dfffc91324c4964a8ad87facbd3928c638bbe3a1dc13273f6b",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00116-2026-04-11.json": {
+      "sha256": "8e0c1186d2e65885a91629a78605326148ae4fa82261df6b5bc80b30b470a148",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00117-2026-04-12.json": {
+      "sha256": "47d535ad5f0ea58f419e5983e8e06ac7ee37d23582dbd376b71c1a502a0beb8d",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00118-2026-04-13.json": {
+      "sha256": "6ee660b678eecc7150d938dbffa9acf668bef7ac94b955d54d99a25ed35c1564",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00119-2026-04-14.json": {
+      "sha256": "6c9a7b16a4004213fd9196f060d59c697ed836f4fba4fa0e9c4573728864c4a9",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00120-2026-04-15.json": {
+      "sha256": "04defe4ca386b8f47ac4fc11f2c6823bc4b79747b08469aa7c2c83087bb33159",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00121-2026-04-16.json": {
+      "sha256": "08de9d4b38fe960672b9cdb156d3676a2cc4196e23df13cbfab6325b468e4372",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00122-2026-04-17.json": {
+      "sha256": "c8aec0baf305791f2009b024acd6df2af4f405204db5dab1e9c3b7815bc84e56",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00123-2026-04-18.json": {
+      "sha256": "a2a5e450df138b1902f2154629be9cc57cb106b47c7f8a28b29e67f7d1283120",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00124-2026-04-19.json": {
+      "sha256": "698d7ff2a32d76e61ef104a5cb9a1072f68756437acce1a70a6e2736a653a3d9",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00125-2026-04-20.json": {
+      "sha256": "596aebc4e1df0624985163da8572f867863a2200e0c79bd144a1c11625eed6d0",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00126-2026-04-21.json": {
+      "sha256": "32cf96422dfcffa3242f6d41966fde3fb6737f441f44b2db912abd956e398057",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00127-2026-04-22.json": {
+      "sha256": "4842af80c1d0479b688b7cb1cf28a59d546e346c4697f36008b26900d4fdf3ae",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00128-2026-04-23.json": {
+      "sha256": "eef628a96aeefe8ad6645649b82e56616154751113b904175b2eee78512d8e5d",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00129-2026-04-24.json": {
+      "sha256": "c7829f5e4308c052af5d13a9ff1e4e4404598d0f80c1c20d0bc01f1c75f684cd",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00130-2026-04-25.json": {
+      "sha256": "01d0284597f3333d45eb8aca3227271e23593cee87cdebc0c7363e2e4ea2a38d",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00131-2026-04-26.json": {
+      "sha256": "07082708b55c4c74478bd94e6d60fc3284e52e5266c1b7138d61dfebc9b9319e",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00132-2026-04-27.json": {
+      "sha256": "26b2b047a0d149a2f6d2ce875a30e665bbdaa37cbd56d404f444f897833e6597",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00133-2026-04-28.json": {
+      "sha256": "4d4e2d734658ab7213ecf489ae174458b57cde20d0be7366ffa16666256ec781",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00134-2026-04-29.json": {
+      "sha256": "7cfe48f84001321ea88a3704bd2073d07c7e5191a579f7c774bbcb0b779867d6",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00135-2026-04-30.json": {
+      "sha256": "06c0f8416d19df17c8cfb3a99cdf5ba41e717540f403b8b9aba991d1909fc50a",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00136-2026-05-01.json": {
+      "sha256": "22e50e7bcaafbe081fe7b9e0544c7afa2bbf309ecb457f8b4879796f9c5715d9",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00137-2026-05-02.json": {
+      "sha256": "676e6e7307185e5adeddf50942e9a624c42deda974ace853e03dbb59d491e93b",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00138-2026-05-03.json": {
+      "sha256": "e59eeb9263bc153f24dc2baae05152e4e093309baeca46d1c87f4de747d33df0",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00139-2026-05-04.json": {
+      "sha256": "3a8a9267be9a533ceb556b7ec6cd4a11caa25c239759cdd90fc4858b95b768ec",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00140-2026-05-05.json": {
+      "sha256": "6ec77c28ef821fc5cce09e498cac32639d8e81672e2f4b1a396b192283684c9b",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00141-2026-05-06.json": {
+      "sha256": "ea4f0cd8fc15d3024d74c40068f3c911acc1b412bc98b1449dd4321a519f4c0a",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00142-2026-05-07.json": {
+      "sha256": "0e85b10db4ea91bbb940699cb0c69e6ecf9a9fa77f8f1b230147112fa1a85214",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00143-2026-05-08.json": {
+      "sha256": "62b6bcdf1756109f7b83b6948ba6d7987aea280a1de2157719bd4c8608f8e745",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00144-2026-05-09.json": {
+      "sha256": "5c138f3f99ddcb78504c4633a1dc9010fbddd37d43151807a83690d4b47bd82d",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00145-2026-05-10.json": {
+      "sha256": "5873759c112419a57242d7bc4695323c5789ae2ec5dcec2c5d87d92c0b8fbe2c",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00146-2026-05-11.json": {
+      "sha256": "9f710ba6a206fa38c93e0b732f3eeb40a9e321b29f7b5016617a132234faae5d",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00147-2026-05-12.json": {
+      "sha256": "4211c72aaec365492449e7d51518e109a2dfbe3ad33f9fb8f0142506257c81b6",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00148-2026-05-13.json": {
+      "sha256": "ae157af7dbec7795f76806e2a929260da3fadb39e30d10e961c7cb26434107be",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00149-2026-05-14.json": {
+      "sha256": "e2b72902e0308865a26a38efcb95b9e605294de29cffbb2c7fa2c1cc72333a5b",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00150-2026-05-15.json": {
+      "sha256": "b5b953daa9f7845d0d790afc3801c7d84a171f94c43d49562091e490d8b61985",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00151-2026-05-16.json": {
+      "sha256": "b4ce6cba53e1b80dfb7fe60f0c77cc36c1b34540368dde68411b965674626fcc",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00152-2026-05-17.json": {
+      "sha256": "0fee0b20c9c6801c0ffa21c46fe7ffca70d2af5519376cb354f9e72d6b75c680",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00153-2026-05-18.json": {
+      "sha256": "f51219ddb677b3813df0c071abb226d92796901364d7ebf48606f8a045a1dbcb",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00154-2026-05-19.json": {
+      "sha256": "f4fd8addf33ce3345e37ef419b50e562cbc1b20611c04df45234b86e0521b37b",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00155-2026-05-20.json": {
+      "sha256": "de625866eb07e83e414cae69c2017888795e226d812d29544eaef839399a6366",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00156-2026-05-21.json": {
+      "sha256": "4915fc58a30b2bfd0f38f7a0f11478bce5b181c285c4b0ad7a8239797826d258",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00157-2026-05-22.json": {
+      "sha256": "550a8b3d373420c0dbba610273025bffe34be4cc02227080111c37284e5eb105",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00158-2026-05-23.json": {
+      "sha256": "4048b301286444e985679d7c6225ccf1a628f2a7cc44a05617a8e79c8d963296",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00159-2026-05-24.json": {
+      "sha256": "e13076025a3272787f0b7ddaac9a1cf85f0fa8592d9fb643f9e32b3cc7492363",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00160-2026-05-25.json": {
+      "sha256": "7f9ea0546f00da5bde1761b87932a8fb9669258c7273f35cc96002586b035b4f",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00161-2026-05-26.json": {
+      "sha256": "f133ab48050e2b124b5e35bf03bff08c4c5f1965552ec9bf732fc2694ba37c76",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00162-2026-05-27.json": {
+      "sha256": "2c3c667c46688e0bcc139906f8636918448f3c5b5aa59aa51eb0e08eff961db7",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00163-2026-05-28.json": {
+      "sha256": "cd68ae6694247574aab0ba3622e08b16001d34134f9c179586bb47b0a3041ff2",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00164-2026-05-29.json": {
+      "sha256": "5988f074372a51dca180d18a8d7f078280c15fe20e65a1db02dd714aed623715",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00165-2026-05-30.json": {
+      "sha256": "6ffab2a771431bf304da94844570f83d26f7a5e7bda19f88d75641f76da9a5a3",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00166-2026-05-31.json": {
+      "sha256": "53f9b4759430b7759e011788448267b113e735ee0414fcb24d40c5080b3b8470",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00167-2026-06-01.json": {
+      "sha256": "595463fdd6c1b3ced4af01dc3f7496935b033894ef0054f7f46e1839b5cc0191",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00168-2026-06-02.json": {
+      "sha256": "4a37ac322aa68ac981e947538a2f282a01591c92ad9f22e5569502b596558521",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00169-2026-06-03.json": {
+      "sha256": "45718b70ae4ee37b7c714d986e506ba25c0c10f0d9ca77b4a2437a21e9ad6978",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00170-2026-06-04.json": {
+      "sha256": "7c8166a9abbe929a8617f80cf43c7fc01bebf1b1b8446c464ea54356d8667aa5",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00171-2026-06-05.json": {
+      "sha256": "1d24842ce50cad1342af7e00a17076c5aef8fe28b8464d91b96a4c4459bb6516",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00172-2026-06-06.json": {
+      "sha256": "1e75a18aa0a99f3bf382c02dcca96a2ad3bcd637255e015ea648e877f1e4300a",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00173-2026-06-07.json": {
+      "sha256": "e11c09013a26b9903d9146c40d52906e48d05327429b1c6d102563ac45895a48",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00174-2026-06-08.json": {
+      "sha256": "edd69d018adf164a97023f9ae93f28f3c90e652b2742a5005c42e82ec4c0b01f",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00175-2026-06-09.json": {
+      "sha256": "41f230a597d9f97da5ec95ec55daba83d4d690ad4c0be825e17fe5dbaa54ec2e",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00176-2026-06-10.json": {
+      "sha256": "ecdd751005a4d5668c090e3b4a928d72b0cfd15528698eb7c6ecad16b2e81e92",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00177-2026-06-11.json": {
+      "sha256": "85ee7482b7c0ff351931baa5e35792de8ac062663852260b569b91bbcbba2fc0",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00178-2026-06-12.json": {
+      "sha256": "02daba868e41bdeed079c5dfed19218885807667e7cd595ebe17b8b90b4e7821",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00179-2026-06-13.json": {
+      "sha256": "2ef59c7157d9a05ce3696bc2c7075c4408865400db077bffbb55a51fcd6a5806",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00180-2026-06-14.json": {
+      "sha256": "0770f18185b4660651909818df72e3e4ac547a893e86fba0e3913e2b69b87d3f",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00181-2026-06-15.json": {
+      "sha256": "fc44b4ceac06591aaa1f533461b7d6e6b373d3b5530b3f821fd53a5c970892fa",
+      "size": 454
+    },
+    "data/json/fallout-2024-201-swarm-day-00182-2026-06-16.json": {
+      "sha256": "5f43a32d0abbb2742192449338aec01e040eeb589e2178dc1b08667973f5a066",
+      "size": 454
+    }
+  },
+  "schema": "alpha60-year-day-product-bundle/1",
+  "source_revisions": {
+    "aggregate_binary": {
+      "sha256": "80bdf6691c0ef6ed5fcc7fa3a6462748104e1935ce5b2a4df3861e11bb13195a",
+      "size": 38582648
+    },
+    "alpha60": "c3fc4c8a7866bee5f6d5f26160c56b2cffb05cb1",
+    "alpha60_data": "8faeae67a5d274d1fc00bffe9fc9318329163b20",
+    "day_product_contract": {
+      "sha256": "0aa0bee3ac14b512c786d3496ab5218a46aff11786ffa6aa9ea85e762fbd6370",
+      "size": 9897
+    },
+    "generate_cache_aggregates": {
+      "sha256": "504078e192d9c8182df74e41b98cec08123c5a8b7d0eb7f812d09c1fe5d07010",
+      "size": 17151
+    },
+    "metadata": "fbeb53a0b523f937fae2f23d14689d8c5c84dd5a",
+    "package_script": {
+      "sha256": "516d6ecdccd24b1b66cf80c185219fa47d52af22f672b836773896df621b1666",
+      "size": 14724
+    },
+    "year_day_contract": {
+      "sha256": "f1c07d6f2fdc19475a6f25ddaee5923957447a6f49a8009d8b4c9984a63bd883",
+      "size": 9356
+    }
+  },
+  "status": "pass"
+}
