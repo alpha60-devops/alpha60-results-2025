@@ -1,0 +1,253 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt1262426",
+    "imdb_id": "tt1262426",
+    "revision": "fbeb53a0b523f937fae2f23d14689d8c5c84dd5a",
+    "wikidata_id": "Q24797403",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Wicked_(2024_film)"
+  },
+  "coverage_sha256": "50a359faf98b0c2a221512f741c40da3735acdd7abaa5354c5ce8a1ad1353497",
+  "generated_at": "2026-08-30T17:26:09.155766+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "aao-checksum-manifest": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/SHA256SUMS",
+      "sha256": "4a4818facd85b709f0321b0a6de31b4a3eff6f108f3b9354c75632926e6baa48",
+      "size": 266728
+    },
+    "aao-release": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/release.json",
+      "sha256": "3ce0984da2d12b0e3697e76c02608bd9d1a955ee3d00e0a7054bdd297b8f18c8",
+      "size": 1342
+    },
+    "aao-verification": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-aao-verification.json",
+      "sha256": "e01294ebce8e54b65e16ab83017fa5585efe6f7a0a0f1a5e0f734e08d8e223fd",
+      "size": 854
+    },
+    "archive-map": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-cache-archive-map.json",
+      "sha256": "8d4d506f23cd80f46baf010bd17509c916083e75eb8b43b052641138c3f308f1",
+      "size": 125170
+    },
+    "btiha-metadata-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/wicked-2024-cumulative-btiha-media-objects.json",
+      "sha256": "c503847f5b3ac7669e7e584c7826421d3a9ff8418737722ddab29db4082b0548",
+      "size": 1341481
+    },
+    "canonical-metadata": {
+      "path": "/tmp/alpha60-swarm-metadata-2025/metadata/wicked-2024.json",
+      "sha256": "247e1ed3163fd18ca15a0bfe3e2fb09219b46eda43e14f63d882ca8e016e74e3",
+      "size": 9403
+    },
+    "coverage-report": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-coverage-evidence/wicked-2024.md",
+      "sha256": "afe94a4e4cb0e19ade7617c3f107e77fdece364903a9524ee4e1e079bec82b60",
+      "size": 737
+    },
+    "cumulative-aggregate-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.cumulative/wicked-2024-cumulative-aggregate.geojson.gz",
+      "sha256": "f42a2c6b9d672c00aa4e9e8687a5aab5df54e2da4ae445135c324c41d59529b4",
+      "size": 1412825
+    },
+    "cumulative-btiha-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.cumulative/wicked-2024-cumulative-btiha.geojson.gz",
+      "sha256": "5430faa745978ea9926ecfffefe3609febf089ae514c57534a75f558692452df",
+      "size": 49392808
+    },
+    "cumulative-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/wicked-2024-cumulative.json",
+      "sha256": "d992ad4a43c3ec49994cf1521c801831a50c9d6f205fc99524adcdf0076ba98c",
+      "size": 15764
+    },
+    "day-bundle-receipt": {
+      "path": "/tmp/year-2025-day-bundles/wicked-2024/receipt.json",
+      "sha256": "dfc09da10ebefa4756442d3438a281c75592cb611b80b6cd1a398ee9ff93dbce",
+      "size": 65900
+    },
+    "ip-swarm-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/wicked-2024-cumulative-ip-swarm.json",
+      "sha256": "4130f6cd16d6db1efb756d67fd68043f7f875f499e6913e63d79b590a7b62c18",
+      "size": 43266
+    },
+    "published-day-bundle-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-day-product-receipts/wicked-2024.json",
+      "sha256": "dfc09da10ebefa4756442d3438a281c75592cb611b80b6cd1a398ee9ff93dbce",
+      "size": 65900
+    },
+    "week-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/wicked-2024-week.json",
+      "sha256": "3a422140100fa7146a4f085181badfc232a1281d886f0e36b577fc37c3669b1b",
+      "size": 4157175
+    }
+  },
+  "media_object": "wicked-2024",
+  "published_files": {
+    "data/csv/bytes/wicked-2024-cumulative-detail.2025-btiha-itemized-by-bytes.csv": "1b3a25d86e9fec1213d363ed9005fdc049b4f3fc5b47d633cd38d73ca43de394",
+    "docs/itemized/figures/wicked-2024-carto-4k.webp": "8c91f3ccc0255196b3f7b9b9d2745c18b1d9eb2cc32621f9e08c887581d6626b",
+    "docs/itemized/figures/wicked-2024-carto.png": "f2951a1fb84253bf5f31dc0d4d6c70c0298a4985600b58e4ef29ef9857df31ef",
+    "docs/itemized/figures/wicked-2024-cumulative-detail-btiha-itemized-by-bytes.svg": "75d9195d470da5a81513521c95ebf44293e4c8794d2079857ac96d2039507d8d",
+    "docs/itemized/figures/wicked-2024-data-ge-1080p-4k.webp": "c9f7e2866c589cd885799d869b3db98515f8eb100df4e9303db65917dd1c52f4",
+    "docs/itemized/figures/wicked-2024-data-ge-1080p.webp": "893fa4c4e079de5fe31d3745ae02fe6b3ac3e3317cb1f2a99bfd42d8b152c9f0",
+    "docs/itemized/figures/wicked-2024-data-lt-1080p-4k.webp": "e2711a15cf57a946cae4617d656d4e7233d2bb7588186b7f3c81b817434f6cf5",
+    "docs/itemized/figures/wicked-2024-data-lt-1080p.webp": "8f992e2752b30deb7635701feacece7f605e4109765ef91eaca900773b63acb8",
+    "docs/itemized/figures/wicked-2024-downloads-by-day-day.svg": "5277f9912a052685da00f5c9d1ff3e652c52224bfb4eb98e97ed1791437f7e7d",
+    "docs/itemized/figures/wicked-2024-downloads-by-week-wicked-2024-week.svg": "e8fcfcd39e098e34985ae3c11f99a89a93695aa7b9f25e1d6f9788dc37d06076",
+    "docs/itemized/wicked-2024-sample-cache-audit.md": "3094404527353ae0b9ab646e1102020a27ec0d3067f8498ca9c5120a70f833f0",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-year-2025-render",
+      "revision": "c520555c40beece2e38f62878e2d4cc1b312c505",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "c192c54f882171dafc74c038ec769f1e68bf8020d12a342d2334086b5b5ee5ea",
+      "size": 36998168
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.cumulative/wicked-2024-cumulative-btiha.geojson.gz",
+        "sha256": "5430faa745978ea9926ecfffefe3609febf089ae514c57534a75f558692452df",
+        "size": 49392808
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/json/wicked-2024-cumulative-btiha-media-objects.json",
+        "sha256": "c503847f5b3ac7669e7e584c7826421d3a9ff8418737722ddab29db4082b0548",
+        "size": 1341481
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/izzi",
+      "revision": "b988ee7fd690a74a696c27c9aadf40c204a4c780",
+      "untracked": false
+    },
+    "media_object": "wicked-2024",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60-results-2025/bin/a60-meta-collection.exe",
+      "sha256": "e71f9def936a6868d5282a5ff7dece07ade360eefa07abebde75434a927220f7",
+      "size": 8743680
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          80.0,
+          67.0,
+          53.0,
+          43.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "Seoul",
+          "Istanbul",
+          "Saint Petersburg",
+          "London",
+          "Amsterdam",
+          "Budapest",
+          "Ankara",
+          "Shanghai",
+          "Nanjing"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          80.0,
+          65.0,
+          52.0,
+          32.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "Seoul",
+          "Istanbul",
+          "Saint Petersburg",
+          "London",
+          "Budapest",
+          "Ankara",
+          "Shanghai",
+          "Amsterdam",
+          "Nanjing"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 23,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 44,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 26,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "c520555c40beece2e38f62878e2d4cc1b312c505",
+    "cartofreako": "fc58111b5bfa7667b12f6ade522ae5e566b464d1",
+    "izzi": "b988ee7fd690a74a696c27c9aadf40c204a4c780",
+    "metadata": "fbeb53a0b523f937fae2f23d14689d8c5c84dd5a",
+    "results_aao_adoption": "9cd9d91a6fbb560ac2a96beadf4c83b94daf6a88"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2025"
+}
