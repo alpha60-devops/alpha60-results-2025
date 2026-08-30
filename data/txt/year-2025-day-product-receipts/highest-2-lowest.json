@@ -1,0 +1,1725 @@
+{
+  "archive": {
+    "path": "/home/bkoz/src/alpha60-xperiments/year-2025-archives/highest-2-lowest.cache/cache.20260305.tar.xz",
+    "sha256": "ae09b9c7cdd531dff59ce233a7d4b36853aca1cb8e7c766027f6ca591a8735af",
+    "size": 1062791876
+  },
+  "authorization": {
+    "archive_mutated": false,
+    "excluded_member_classes": [
+      "hour",
+      "week",
+      "cumulative"
+    ],
+    "raw_samples_opened": false,
+    "scope": "read only streaming of per-torrent day records"
+  },
+  "collection_key": "highest-2-lowest",
+  "day_cache_stream_contract": {
+    "authorization": {
+      "archive_mutated": false,
+      "excluded_member_classes": [
+        "hour",
+        "week",
+        "cumulative"
+      ],
+      "raw_samples_opened": false,
+      "scope": "read only streaming of per-torrent day records"
+    },
+    "available_day_products": 182,
+    "cache_members": 19369,
+    "collection_key": "highest-2-lowest",
+    "first_date": "2025-09-05",
+    "first_index": 1,
+    "indices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144,
+      145,
+      146,
+      147,
+      148,
+      149,
+      150,
+      151,
+      152,
+      153,
+      154,
+      155,
+      156,
+      157,
+      158,
+      159,
+      160,
+      161,
+      162,
+      163,
+      164,
+      165,
+      166,
+      167,
+      168,
+      169,
+      170,
+      171,
+      172,
+      173,
+      174,
+      175,
+      176,
+      177,
+      178,
+      179,
+      180,
+      181,
+      182
+    ],
+    "last_date": "2026-03-05",
+    "last_index": 182,
+    "missing_indices": [],
+    "sample_span_days": 182,
+    "schema": "alpha60-day-cache-stream-contract/1",
+    "sparse": false,
+    "status": "pass"
+  },
+  "day_product_contract": {
+    "collection_key": "highest-2-lowest",
+    "day_products": 182,
+    "first_date": "2025-09-05",
+    "first_index": 1,
+    "geojson_data_version": "20260701",
+    "ip_geolocation_version": "6:1777968300",
+    "json_data_version": "2026-08-05",
+    "last_date": "2026-03-05",
+    "last_index": 182,
+    "schema": "alpha60-day-product-contract/1",
+    "sparse": false,
+    "status": "pass"
+  },
+  "publications": {
+    "data/geojson.day/highest-2-lowest-day-00001.geojson.gz": {
+      "sha256": "43e004e49dec4eee35e88c9ca2cd516b113a621b0c6ba4c00f696c35d61f7d0a",
+      "size": 5960
+    },
+    "data/geojson.day/highest-2-lowest-day-00002.geojson.gz": {
+      "sha256": "39672690f4ce8955345f43a81a8865488261adca527bf3a68d8259e04b9bf07b",
+      "size": 8873
+    },
+    "data/geojson.day/highest-2-lowest-day-00003.geojson.gz": {
+      "sha256": "d939b9f74aabb442f3b2cde6ce85da374550ba7c7ebbfc0035c04105c97347ba",
+      "size": 73751
+    },
+    "data/geojson.day/highest-2-lowest-day-00004.geojson.gz": {
+      "sha256": "12b364deaeee4035a21c0b8c010302bfb11425ef7dadbb56972e6dc88b0e4398",
+      "size": 199697
+    },
+    "data/geojson.day/highest-2-lowest-day-00005.geojson.gz": {
+      "sha256": "3a7d170820a8674a5ad47d06b032a0d114e3cc39b2f330e4ef743b3f165e62a2",
+      "size": 200828
+    },
+    "data/geojson.day/highest-2-lowest-day-00006.geojson.gz": {
+      "sha256": "0fb38be57e23dcb4cfd1677a74b85b4f24910e9011d715d40ce386e08a1b856a",
+      "size": 190687
+    },
+    "data/geojson.day/highest-2-lowest-day-00007.geojson.gz": {
+      "sha256": "742466ed54befce22df5c796010e3cab6556503e7a0113c5507cb2f040f47c79",
+      "size": 171961
+    },
+    "data/geojson.day/highest-2-lowest-day-00008.geojson.gz": {
+      "sha256": "3783f7912f6e2d637c8132d71262a1aad4b6f3a7db69d48cd01759bb27959173",
+      "size": 179078
+    },
+    "data/geojson.day/highest-2-lowest-day-00009.geojson.gz": {
+      "sha256": "30c6423ddc970b3af048b90d0bff62caf6d85dadd7a92311225d9724f853ef52",
+      "size": 165523
+    },
+    "data/geojson.day/highest-2-lowest-day-00010.geojson.gz": {
+      "sha256": "753647379935c3446eb2c3589f5c7a4163f0fd6764ceb62398018ab1a9b694ef",
+      "size": 160759
+    },
+    "data/geojson.day/highest-2-lowest-day-00011.geojson.gz": {
+      "sha256": "278cd3081ca4d4801afe8f7d3a069ad13c323d805b8ef46b5995c6ddb2ffd01c",
+      "size": 163889
+    },
+    "data/geojson.day/highest-2-lowest-day-00012.geojson.gz": {
+      "sha256": "61232020c76cbde68ae55bacbc0cb4742fe3de2882e0442845f80509a02f8c26",
+      "size": 156225
+    },
+    "data/geojson.day/highest-2-lowest-day-00013.geojson.gz": {
+      "sha256": "649116ff130697fa0b4a377eccb1b37552e141bb158d24e98cdd28b33b22679a",
+      "size": 153284
+    },
+    "data/geojson.day/highest-2-lowest-day-00014.geojson.gz": {
+      "sha256": "5b306e48b963c10dfcf997284734380a42619b8b39c5bf76e0f32a9ae5985ee8",
+      "size": 153814
+    },
+    "data/geojson.day/highest-2-lowest-day-00015.geojson.gz": {
+      "sha256": "de9b49d7d36f928fd3410ebef4689c268fa89c77155abb1d83daa0f70fb85137",
+      "size": 142919
+    },
+    "data/geojson.day/highest-2-lowest-day-00016.geojson.gz": {
+      "sha256": "56ef6c230dcb3f3a40fe5c382a798b8de989db7ffaca68d4a327718a06f9b7fe",
+      "size": 145850
+    },
+    "data/geojson.day/highest-2-lowest-day-00017.geojson.gz": {
+      "sha256": "d0c4c7a48bdf2614ad81b364928f5be800c8c55ebf2b5eb3eb248e586f942597",
+      "size": 159779
+    },
+    "data/geojson.day/highest-2-lowest-day-00018.geojson.gz": {
+      "sha256": "c7bcc991a069faa565f40896f1d95993100322742928de22ce7ab9b9d656571f",
+      "size": 169227
+    },
+    "data/geojson.day/highest-2-lowest-day-00019.geojson.gz": {
+      "sha256": "cfc15a64567699a5eecdd9b8ba1c1407f223749294a4a60c2ed3d155c94bbbef",
+      "size": 165961
+    },
+    "data/geojson.day/highest-2-lowest-day-00020.geojson.gz": {
+      "sha256": "9f03e6782321c85b42ea275fcc63739df95b243e23ca95b0d0d602648e32de7c",
+      "size": 158569
+    },
+    "data/geojson.day/highest-2-lowest-day-00021.geojson.gz": {
+      "sha256": "943ba3878af14cf09d661fc38adb97f190fd9828235d0b1bd75c70a186fe295d",
+      "size": 155549
+    },
+    "data/geojson.day/highest-2-lowest-day-00022.geojson.gz": {
+      "sha256": "318e05931366e26de35ada8d2c1a6291aa3123eab50965dbaa0f181d631fdcca",
+      "size": 168123
+    },
+    "data/geojson.day/highest-2-lowest-day-00023.geojson.gz": {
+      "sha256": "66478661f2a0445a4cac2d07e3497d3f56842f44a97f9c0065b7957368a0e0bb",
+      "size": 156108
+    },
+    "data/geojson.day/highest-2-lowest-day-00024.geojson.gz": {
+      "sha256": "f4a0c1f2486b920bed759abf675f19e62735fdc08e882252b2f9286c8924d73a",
+      "size": 135478
+    },
+    "data/geojson.day/highest-2-lowest-day-00025.geojson.gz": {
+      "sha256": "43ec83c86ea745e80e2c01d646349eb3ac88da1973fbda0b4c858274a64b74b6",
+      "size": 173739
+    },
+    "data/geojson.day/highest-2-lowest-day-00026.geojson.gz": {
+      "sha256": "4731fb7fb9aa2d3c5f61c6afa3f3701a52201558463058161844c01ba03f2174",
+      "size": 161654
+    },
+    "data/geojson.day/highest-2-lowest-day-00027.geojson.gz": {
+      "sha256": "59b69cf4cdcf9e4b58870e9e9f375f8de1ade419c51dfc3f390831ac8d23a57b",
+      "size": 157276
+    },
+    "data/geojson.day/highest-2-lowest-day-00028.geojson.gz": {
+      "sha256": "73e76bac8f260bc95365810b91fc64d5752c02edfa38c9c3fb419711772eb5d8",
+      "size": 149942
+    },
+    "data/geojson.day/highest-2-lowest-day-00029.geojson.gz": {
+      "sha256": "fa42181be694493a8eff69bc0ded86d1ce73e4390743388202db43091b9f465c",
+      "size": 150434
+    },
+    "data/geojson.day/highest-2-lowest-day-00030.geojson.gz": {
+      "sha256": "ef39d3ca60ee9bfa9b3ab5452aaeb3acd0f1917c3f3e3a5cc466e72889683e6a",
+      "size": 142614
+    },
+    "data/geojson.day/highest-2-lowest-day-00031.geojson.gz": {
+      "sha256": "2684a9b36081cef4b780d20271b195f5263b775d851ba2529d4b863ef3f3e040",
+      "size": 146338
+    },
+    "data/geojson.day/highest-2-lowest-day-00032.geojson.gz": {
+      "sha256": "38ccd664f702aac41e71dc43f0936539336529bd604c44a7380e8b1cb378529b",
+      "size": 157646
+    },
+    "data/geojson.day/highest-2-lowest-day-00033.geojson.gz": {
+      "sha256": "f866b38bdac21ad0e1890d7f6e01bf072ffa1b60d4f97d1026f010ce8863b03a",
+      "size": 153788
+    },
+    "data/geojson.day/highest-2-lowest-day-00034.geojson.gz": {
+      "sha256": "8d2be43bb36995f6822128add780d84813b01c7eaf03ddf1a661c8f79024dc02",
+      "size": 162398
+    },
+    "data/geojson.day/highest-2-lowest-day-00035.geojson.gz": {
+      "sha256": "3f0c152ef7cf8aa422d7bd9bcdc4497866c7d44b84f52e847adfdad95a155aae",
+      "size": 161722
+    },
+    "data/geojson.day/highest-2-lowest-day-00036.geojson.gz": {
+      "sha256": "5e37b65490e0f9cfed3ad41948ef9d68142a8b9597cca91f356cf003e404f6fc",
+      "size": 160764
+    },
+    "data/geojson.day/highest-2-lowest-day-00037.geojson.gz": {
+      "sha256": "3775775404f697a9cd3b6687c6cfdda4f18ea14dbc8c64aa56d581d8553730c7",
+      "size": 161656
+    },
+    "data/geojson.day/highest-2-lowest-day-00038.geojson.gz": {
+      "sha256": "26ffcc52c4e8f757fd095a476e595afecc7ba291dbe71b6c7a9a260bb44dff5d",
+      "size": 162903
+    },
+    "data/geojson.day/highest-2-lowest-day-00039.geojson.gz": {
+      "sha256": "8f9e9fdf35819822f8ddbc06a61803d9c7877610316c82571e26bd4fa49842fb",
+      "size": 169006
+    },
+    "data/geojson.day/highest-2-lowest-day-00040.geojson.gz": {
+      "sha256": "81e699cc9d97207b961958dd12c949f41c0ec0c57e0ad8b816aa317fb3510aac",
+      "size": 170615
+    },
+    "data/geojson.day/highest-2-lowest-day-00041.geojson.gz": {
+      "sha256": "8989e8cd458014f019b727dfaa34001dc178039db3f8b57a4e3cfff7187525ec",
+      "size": 169656
+    },
+    "data/geojson.day/highest-2-lowest-day-00042.geojson.gz": {
+      "sha256": "aa6c2a01e200c1885650d9b06d10bde6b982e457375b0e3f15d0771cda028da5",
+      "size": 170709
+    },
+    "data/geojson.day/highest-2-lowest-day-00043.geojson.gz": {
+      "sha256": "6f0998086ce747fddbfad1830d0ed044f92c97b71ecb363f06602c3643a39e5c",
+      "size": 161885
+    },
+    "data/geojson.day/highest-2-lowest-day-00044.geojson.gz": {
+      "sha256": "1aea8792fd7ade8e6f226ff0bea2de64707c0770cd34a77f945d20c109111d12",
+      "size": 167010
+    },
+    "data/geojson.day/highest-2-lowest-day-00045.geojson.gz": {
+      "sha256": "06f87747fc0eeac636d1eda54ba026c8514fa092091d1a030d9ace45cb82af28",
+      "size": 175778
+    },
+    "data/geojson.day/highest-2-lowest-day-00046.geojson.gz": {
+      "sha256": "8614d7e950d243bd3dd07e2d55537a129da2ab0457d562333a6cfd4569517fe4",
+      "size": 168583
+    },
+    "data/geojson.day/highest-2-lowest-day-00047.geojson.gz": {
+      "sha256": "4ccbc9ecb4908e4fc2de3fccfb7d00e225b5dcea236f66979224417ba3baf9b9",
+      "size": 162585
+    },
+    "data/geojson.day/highest-2-lowest-day-00048.geojson.gz": {
+      "sha256": "d31fc92eecda5973572bceb4b15cb85fbaec12be80a7f1b8f9faf65d25589247",
+      "size": 164751
+    },
+    "data/geojson.day/highest-2-lowest-day-00049.geojson.gz": {
+      "sha256": "7517418077decc3143aa3e71b041b1c9ae207b0aaca47d431c434cf325324169",
+      "size": 159249
+    },
+    "data/geojson.day/highest-2-lowest-day-00050.geojson.gz": {
+      "sha256": "5522adaefc2138a344ade595389f75480601d41d3815a630f71aafebca1efa6a",
+      "size": 171226
+    },
+    "data/geojson.day/highest-2-lowest-day-00051.geojson.gz": {
+      "sha256": "f12963a61cf5a1a07eb1274e6e8a3e2ad5b1490bb991491d1bb5a3128055db59",
+      "size": 153706
+    },
+    "data/geojson.day/highest-2-lowest-day-00052.geojson.gz": {
+      "sha256": "1f1aa7fca494d39d783b2bc2e3952ebb5562fb4f1cc7cf72147fefdb9ff804cc",
+      "size": 144857
+    },
+    "data/geojson.day/highest-2-lowest-day-00053.geojson.gz": {
+      "sha256": "42ece0a36a2d0427201b0187fb36851ff4044f18d3fc0f0e4daf504de5d3bf07",
+      "size": 148268
+    },
+    "data/geojson.day/highest-2-lowest-day-00054.geojson.gz": {
+      "sha256": "75b40defa9d0026f6ce78e3e22d98a364c36c8e30619dabc0a845fed1259da52",
+      "size": 154226
+    },
+    "data/geojson.day/highest-2-lowest-day-00055.geojson.gz": {
+      "sha256": "f09c3b8aa899103b1784a99a215b0f72cb15712eef43a41c230ba809099a85ef",
+      "size": 155363
+    },
+    "data/geojson.day/highest-2-lowest-day-00056.geojson.gz": {
+      "sha256": "76d3cc579a7b2ae0e4b3eda187b8d539dc251aee9e64c798eef836c82f2ed247",
+      "size": 150795
+    },
+    "data/geojson.day/highest-2-lowest-day-00057.geojson.gz": {
+      "sha256": "de6aa847181fd4858cc61b6e29e02d184613937811711e3e16b12d7af2b55ec1",
+      "size": 147744
+    },
+    "data/geojson.day/highest-2-lowest-day-00058.geojson.gz": {
+      "sha256": "4c1e89bdeac42fd70e2879f997c3fb9a20021d2b413d84f28e73bce4e8398fb2",
+      "size": 152645
+    },
+    "data/geojson.day/highest-2-lowest-day-00059.geojson.gz": {
+      "sha256": "d403e3918712a4773c9daafd49bed0f8b2cae70b2a9c6e8c4a547d2ef12bfa76",
+      "size": 153780
+    },
+    "data/geojson.day/highest-2-lowest-day-00060.geojson.gz": {
+      "sha256": "e5d04af9725127ad55175d4c005acebd090568f423df9f63f9c86a81cfd6cbd5",
+      "size": 156436
+    },
+    "data/geojson.day/highest-2-lowest-day-00061.geojson.gz": {
+      "sha256": "52b7618d78a3e460fa8da7cf4a7111bf57fac5280902d4318aebd8e1c6ea3d64",
+      "size": 162624
+    },
+    "data/geojson.day/highest-2-lowest-day-00062.geojson.gz": {
+      "sha256": "5ea39087a9a4f0889dd785f36251344aac39682d1dab89a6f40880c56c9f7bcb",
+      "size": 160337
+    },
+    "data/geojson.day/highest-2-lowest-day-00063.geojson.gz": {
+      "sha256": "eb16c3a64be5defdf73a44bf183e7c72b3ad7ae38d25f1c4f00010762df1a2f6",
+      "size": 157693
+    },
+    "data/geojson.day/highest-2-lowest-day-00064.geojson.gz": {
+      "sha256": "7b046e62d5217c9f21fe84d29bd1445c964523062fd97108f3a8801878a86c82",
+      "size": 163128
+    },
+    "data/geojson.day/highest-2-lowest-day-00065.geojson.gz": {
+      "sha256": "9ab243e8d2051df66a2bc23ff57b45fc57c349dae62e3901eb290af3d292c356",
+      "size": 155387
+    },
+    "data/geojson.day/highest-2-lowest-day-00066.geojson.gz": {
+      "sha256": "338317749c6d602600fe8537f19dfeb9034a04c72f8a2eed4eeff9de859f264e",
+      "size": 159402
+    },
+    "data/geojson.day/highest-2-lowest-day-00067.geojson.gz": {
+      "sha256": "c28b8afce398c125ee0db4bf8e0010cdf202617bdbf85f5b58233671e0df6ff0",
+      "size": 154283
+    },
+    "data/geojson.day/highest-2-lowest-day-00068.geojson.gz": {
+      "sha256": "1fac800467c06d9f8da79169a0e0f2f09c8b1a2fcfbf2210a5eb6bfc57bcbb48",
+      "size": 163459
+    },
+    "data/geojson.day/highest-2-lowest-day-00069.geojson.gz": {
+      "sha256": "49b1583b4c66a927167110a013861b2011db5589993b5c3271521b31f6b17d07",
+      "size": 165425
+    },
+    "data/geojson.day/highest-2-lowest-day-00070.geojson.gz": {
+      "sha256": "8de79b45eb7a3efe42fd248d21ca30cfd8b38e7067c63b19a468ece0651d33cb",
+      "size": 153501
+    },
+    "data/geojson.day/highest-2-lowest-day-00071.geojson.gz": {
+      "sha256": "b3ccfb9b36fa89bcf59bc37d2f19cb6d67d6d0c2cb19e3b617dca05351d32572",
+      "size": 168510
+    },
+    "data/geojson.day/highest-2-lowest-day-00072.geojson.gz": {
+      "sha256": "b8c07ebc02fc7034112c0ef91e874e2a3ae6151b14709b3984c8babbea838ef7",
+      "size": 164016
+    },
+    "data/geojson.day/highest-2-lowest-day-00073.geojson.gz": {
+      "sha256": "20b1755c0847a9962b7084939ce2cc1761673de761dafa8127f6920edfd0a599",
+      "size": 143102
+    },
+    "data/geojson.day/highest-2-lowest-day-00074.geojson.gz": {
+      "sha256": "5330bdcd867d54ed6b5940bfd73598620064eb40145694ca04ca10354cb3d63b",
+      "size": 170932
+    },
+    "data/geojson.day/highest-2-lowest-day-00075.geojson.gz": {
+      "sha256": "d2063f39566b68b01f616a04b49947dd4a816e0c27a3acfe3b9ed1a0063d1af1",
+      "size": 159563
+    },
+    "data/geojson.day/highest-2-lowest-day-00076.geojson.gz": {
+      "sha256": "370ff07e7df88864deb614925c0fa1f7f50700f7b0acd062f46e599a9ca7a03c",
+      "size": 152995
+    },
+    "data/geojson.day/highest-2-lowest-day-00077.geojson.gz": {
+      "sha256": "573af3b2e7a25d55d0613ce208ce5d19ee2d032e2e3e800e91c918c906283097",
+      "size": 157380
+    },
+    "data/geojson.day/highest-2-lowest-day-00078.geojson.gz": {
+      "sha256": "4d606ffdd48b595afc6487f3804a5b595255bb5a3c65672f4148c685eec8e1e4",
+      "size": 181274
+    },
+    "data/geojson.day/highest-2-lowest-day-00079.geojson.gz": {
+      "sha256": "3468b4472ec0d3f52b165dabfa9c0b08955569c3e05732f17a4e502af78b7fc4",
+      "size": 151140
+    },
+    "data/geojson.day/highest-2-lowest-day-00080.geojson.gz": {
+      "sha256": "77409dd58e62cc1f0350d32fc31d4c99ed988e158bc379bf98550089d8a149d8",
+      "size": 142965
+    },
+    "data/geojson.day/highest-2-lowest-day-00081.geojson.gz": {
+      "sha256": "ab9027bb71f189018de11fe1b62e5eaff803957a011714eff62ff8b5c4fc309a",
+      "size": 167790
+    },
+    "data/geojson.day/highest-2-lowest-day-00082.geojson.gz": {
+      "sha256": "5e35a3b302e21583b0863acb4a2b6b986da0252bcb0835b02b9e1f4cd349a453",
+      "size": 158782
+    },
+    "data/geojson.day/highest-2-lowest-day-00083.geojson.gz": {
+      "sha256": "fcd2843cb9088bab3b07fa3c64c54a2abbf9a15db61adb67a3562e161340662d",
+      "size": 147955
+    },
+    "data/geojson.day/highest-2-lowest-day-00084.geojson.gz": {
+      "sha256": "934f14e3af32418288089b863905fd935f8cf2f7be61f31543725b9c7b3ba771",
+      "size": 153885
+    },
+    "data/geojson.day/highest-2-lowest-day-00085.geojson.gz": {
+      "sha256": "12936cc7f0c59369e9bde8f69f8ea290e112d6612660b3067c5d2bb004298fea",
+      "size": 140532
+    },
+    "data/geojson.day/highest-2-lowest-day-00086.geojson.gz": {
+      "sha256": "84b70d89c9dce62e9b7c3d64b9b829f5b61b8958ed514f1f5a1c7ad0fdc0c7c4",
+      "size": 150423
+    },
+    "data/geojson.day/highest-2-lowest-day-00087.geojson.gz": {
+      "sha256": "6b9f8804a9d3830a4b5a6ece938b5890e1d9dfa047f323f10bbe6391b81b264a",
+      "size": 157914
+    },
+    "data/geojson.day/highest-2-lowest-day-00088.geojson.gz": {
+      "sha256": "63541915286eec92f3aaad41c1821c1f10f39d767b394d0ffe3b7aa5697cb85d",
+      "size": 166635
+    },
+    "data/geojson.day/highest-2-lowest-day-00089.geojson.gz": {
+      "sha256": "22a433ffe1f1275756bc63c2bc3c6796751c2d672b92467901baac7db3095175",
+      "size": 156950
+    },
+    "data/geojson.day/highest-2-lowest-day-00090.geojson.gz": {
+      "sha256": "39c9c5f687a80f8163dc492bd2b325a6eaf464d40a4626510b80a416103d7fe6",
+      "size": 157261
+    },
+    "data/geojson.day/highest-2-lowest-day-00091.geojson.gz": {
+      "sha256": "9453319ef789917ef4fa1ae6986c9941fb074a4cebbe8a0dc266d947d2223839",
+      "size": 165894
+    },
+    "data/geojson.day/highest-2-lowest-day-00092.geojson.gz": {
+      "sha256": "a7a76123f711713fd7dfcc1b33f249fd2797bbb4cf43d403289c44c5810adda6",
+      "size": 150791
+    },
+    "data/geojson.day/highest-2-lowest-day-00093.geojson.gz": {
+      "sha256": "0ce2e051757fba477aca3450b28fe260d4842727ae9715cebaf921c79a904cc0",
+      "size": 139585
+    },
+    "data/geojson.day/highest-2-lowest-day-00094.geojson.gz": {
+      "sha256": "c66854307f8bfb42f2d30fbfc81e68ff4829f582b505d58ff8761d708ed80f00",
+      "size": 135118
+    },
+    "data/geojson.day/highest-2-lowest-day-00095.geojson.gz": {
+      "sha256": "9c82471e8b9edd2e4d6c85073e2ff45a43edd63fed4a004ce59fb7cc3579aab1",
+      "size": 151058
+    },
+    "data/geojson.day/highest-2-lowest-day-00096.geojson.gz": {
+      "sha256": "f4f7071754fc766f2e4c7da38fe043a75a0635e510f8507fd539d59e1992da84",
+      "size": 138660
+    },
+    "data/geojson.day/highest-2-lowest-day-00097.geojson.gz": {
+      "sha256": "5576caeebd8d326019007fb907fc592e1c6385536ad70af70facf62456b0a919",
+      "size": 141873
+    },
+    "data/geojson.day/highest-2-lowest-day-00098.geojson.gz": {
+      "sha256": "28735176958435890df21d39cd4ef12347fe0d5d55bfd99a24bd51b4e97608b4",
+      "size": 142134
+    },
+    "data/geojson.day/highest-2-lowest-day-00099.geojson.gz": {
+      "sha256": "ed9e85b890a17a1153055dc73b0c0e643b30f5c01c08dfbd034d60e1ff47d57e",
+      "size": 138825
+    },
+    "data/geojson.day/highest-2-lowest-day-00100.geojson.gz": {
+      "sha256": "6ea93b32d0a9de51ffc13f63755906e9f40a75fdd901e25210c6a18e0b80a5f0",
+      "size": 129210
+    },
+    "data/geojson.day/highest-2-lowest-day-00101.geojson.gz": {
+      "sha256": "c0851dd886fa85b9931a25f4c2340a62a012fc3a87315888cac627be1c70df42",
+      "size": 120755
+    },
+    "data/geojson.day/highest-2-lowest-day-00102.geojson.gz": {
+      "sha256": "45ec327e17d0c97de6d5919fe0cc4c73244543371dc9a41af3fbd6e70260b07c",
+      "size": 150247
+    },
+    "data/geojson.day/highest-2-lowest-day-00103.geojson.gz": {
+      "sha256": "6890e9070150d43bd5289cba437d748a299c3b50077c085a9e7f489ea06ad903",
+      "size": 144991
+    },
+    "data/geojson.day/highest-2-lowest-day-00104.geojson.gz": {
+      "sha256": "d3c72d4047a3605bf972bc29d77f333330f39038edb035ec90c78fb322a5e178",
+      "size": 141362
+    },
+    "data/geojson.day/highest-2-lowest-day-00105.geojson.gz": {
+      "sha256": "14b8da8cb31d57b7e8b11e6cbe54ef041a6c43569626c103b82c8eb41d69457e",
+      "size": 147309
+    },
+    "data/geojson.day/highest-2-lowest-day-00106.geojson.gz": {
+      "sha256": "c2fc494d407cc8f7c2b13e5be24ae70e7617a40031a8853fa065d6d5dcfb92c3",
+      "size": 141928
+    },
+    "data/geojson.day/highest-2-lowest-day-00107.geojson.gz": {
+      "sha256": "c66cbbb5a8e62b0c9ecf8e698fed796a3978d340151d8a94c694a9762dc9464a",
+      "size": 134965
+    },
+    "data/geojson.day/highest-2-lowest-day-00108.geojson.gz": {
+      "sha256": "ef5f1052985d548ff9ffa4abca398e13552e3463b1f2db05e7596b485946c467",
+      "size": 135945
+    },
+    "data/geojson.day/highest-2-lowest-day-00109.geojson.gz": {
+      "sha256": "1d94ccf1cb7f8515c97e2466db66456470c70237335577a268e708b4f8149500",
+      "size": 114376
+    },
+    "data/geojson.day/highest-2-lowest-day-00110.geojson.gz": {
+      "sha256": "16582527e8fc7443271a07227083f719c8ade6e0119d338fb7069f8b02786ef0",
+      "size": 78513
+    },
+    "data/geojson.day/highest-2-lowest-day-00111.geojson.gz": {
+      "sha256": "9cfe9c9be6fd5d180217e9aa7a5ffed3133b23b631dee6a819b7fc074db6928a",
+      "size": 139032
+    },
+    "data/geojson.day/highest-2-lowest-day-00112.geojson.gz": {
+      "sha256": "3a7198e9a3a0dcadbc02192cfe74d81c3303bfb1c4244aa7994c88166f9a8b5b",
+      "size": 130811
+    },
+    "data/geojson.day/highest-2-lowest-day-00113.geojson.gz": {
+      "sha256": "3f81c1f3c58d96f487d87496af0a00f8c9c590092d17d9d3e515d0847b9f0824",
+      "size": 128846
+    },
+    "data/geojson.day/highest-2-lowest-day-00114.geojson.gz": {
+      "sha256": "4505931d6e73d2610c7d941784719548b4e9bd6e99523b980fdd1027185fb6a8",
+      "size": 128799
+    },
+    "data/geojson.day/highest-2-lowest-day-00115.geojson.gz": {
+      "sha256": "d2887257fea9651a823c80d5245db890e2cdb58848eb5c2418eee4298665a924",
+      "size": 125988
+    },
+    "data/geojson.day/highest-2-lowest-day-00116.geojson.gz": {
+      "sha256": "6caad68a5af22f09834a664da5f403cf3b30627f5cccae62f4a23d4f2177da89",
+      "size": 137608
+    },
+    "data/geojson.day/highest-2-lowest-day-00117.geojson.gz": {
+      "sha256": "0f3d2386217f3c6b356d518e6387d8cae91f369e8ed5d02ddccc982b42fd8e24",
+      "size": 128800
+    },
+    "data/geojson.day/highest-2-lowest-day-00118.geojson.gz": {
+      "sha256": "eabf3f345e1b2e4511ac5e9f82da9cd12edfcbac4e1389b90ab401dbf830451a",
+      "size": 137030
+    },
+    "data/geojson.day/highest-2-lowest-day-00119.geojson.gz": {
+      "sha256": "6a312716c37fb891cf06d43d6a4bc5fca0caa60100e0980a08367585b986d562",
+      "size": 141452
+    },
+    "data/geojson.day/highest-2-lowest-day-00120.geojson.gz": {
+      "sha256": "a5c74bee822117d6d96cb83b545b9a236ce582ddd5821325fa17ee0566b39954",
+      "size": 155695
+    },
+    "data/geojson.day/highest-2-lowest-day-00121.geojson.gz": {
+      "sha256": "7691c53582b52432cda3ffb3f95548313caffee0323885295bc0fcad69c91825",
+      "size": 136736
+    },
+    "data/geojson.day/highest-2-lowest-day-00122.geojson.gz": {
+      "sha256": "0214a9d3e4661be375f10790dcb8fea8492c15f4d1f6e98936327fdfc1243b5c",
+      "size": 134117
+    },
+    "data/geojson.day/highest-2-lowest-day-00123.geojson.gz": {
+      "sha256": "29f90ac841ba68ac391c689b6c81c9e7ea2087f7972b63ee319e88d8d90f8740",
+      "size": 139793
+    },
+    "data/geojson.day/highest-2-lowest-day-00124.geojson.gz": {
+      "sha256": "250a7caa225ca7f41fd9079f78bd6004d19fa474a90ad1463516cbddc2cadd65",
+      "size": 133547
+    },
+    "data/geojson.day/highest-2-lowest-day-00125.geojson.gz": {
+      "sha256": "bbf8a04cf17f0a9c6a0b65989c5a536c752df6b0272cc3f8ffbf9b522f3ecf4a",
+      "size": 162000
+    },
+    "data/geojson.day/highest-2-lowest-day-00126.geojson.gz": {
+      "sha256": "0de4d5c0a7915b20801d7be7a9f5bff41f31d475942c8ca467f5aad9761e8ed1",
+      "size": 169568
+    },
+    "data/geojson.day/highest-2-lowest-day-00127.geojson.gz": {
+      "sha256": "c536b01476fbe6d19f616f893dbb513e922ce27f877459676ec9a9ac6c7ba0ff",
+      "size": 148301
+    },
+    "data/geojson.day/highest-2-lowest-day-00128.geojson.gz": {
+      "sha256": "57d4610b4f4edda3a2b7bfa718d5e2e8a7f0120101f061c795c22394722781ae",
+      "size": 134458
+    },
+    "data/geojson.day/highest-2-lowest-day-00129.geojson.gz": {
+      "sha256": "f82edf210e68ce6a4e896aa99c56737c76f2624d9df6d3ea7ef57e7573424820",
+      "size": 152076
+    },
+    "data/geojson.day/highest-2-lowest-day-00130.geojson.gz": {
+      "sha256": "43393f475e0c93faa49695140372577a61296d2c1a9f38c384121f2ff4615f4c",
+      "size": 138373
+    },
+    "data/geojson.day/highest-2-lowest-day-00131.geojson.gz": {
+      "sha256": "fb43af68ca557948da41e50bfcfd6747b15c7c004ed6ba09befbd45fe2d3c9d2",
+      "size": 142128
+    },
+    "data/geojson.day/highest-2-lowest-day-00132.geojson.gz": {
+      "sha256": "0c4bde31f14e39594116af71e019c3a2a11ecc045284fb8f69ccf12e1652c23d",
+      "size": 147913
+    },
+    "data/geojson.day/highest-2-lowest-day-00133.geojson.gz": {
+      "sha256": "5a0316b96ae5f9612d0ca57127a10d7c53c65e57c279b32f4e9597051fc3cd78",
+      "size": 149188
+    },
+    "data/geojson.day/highest-2-lowest-day-00134.geojson.gz": {
+      "sha256": "98d06016b33e128a3df51dfad1471a9c13e002b6b34832a39058b625c1fa94c1",
+      "size": 153203
+    },
+    "data/geojson.day/highest-2-lowest-day-00135.geojson.gz": {
+      "sha256": "7bc7724c6d8a7872da6bffaac6fe5c36a632bdc4bddddbebaa873b540be03a0c",
+      "size": 152400
+    },
+    "data/geojson.day/highest-2-lowest-day-00136.geojson.gz": {
+      "sha256": "67d8995b863e360cec88eca4da82bd8da95349da24e0c20330aed8d5b1170d70",
+      "size": 140303
+    },
+    "data/geojson.day/highest-2-lowest-day-00137.geojson.gz": {
+      "sha256": "f722a0dae88e1fe5bb438dd13ca89f0882581d308445f9026802b8eace30d327",
+      "size": 143898
+    },
+    "data/geojson.day/highest-2-lowest-day-00138.geojson.gz": {
+      "sha256": "b3a11519022d4eee78571410d7bba1d5b580dabe1cf4afdeb83ac9179811bc7a",
+      "size": 147517
+    },
+    "data/geojson.day/highest-2-lowest-day-00139.geojson.gz": {
+      "sha256": "747fe1f094ac289de22a86b8fd14100c8cad47b747b9ab65435517dbe9898327",
+      "size": 137298
+    },
+    "data/geojson.day/highest-2-lowest-day-00140.geojson.gz": {
+      "sha256": "6e2ffb705839c7af36730776f44067b714e9a12be395939531302feec1bad176",
+      "size": 150821
+    },
+    "data/geojson.day/highest-2-lowest-day-00141.geojson.gz": {
+      "sha256": "8eba92472ebaa6dd9927cc8143be9e0e18de5ff27998a73f4fbf1740c9d46c06",
+      "size": 157378
+    },
+    "data/geojson.day/highest-2-lowest-day-00142.geojson.gz": {
+      "sha256": "77bbe560206142839857186415845b5566a6f44ce424d9545c14f514607bc7d2",
+      "size": 139753
+    },
+    "data/geojson.day/highest-2-lowest-day-00143.geojson.gz": {
+      "sha256": "5966ba1b468197ae9b8e009df9092e72a476b0ef9d21059ad5e2ea04a696f2b7",
+      "size": 152303
+    },
+    "data/geojson.day/highest-2-lowest-day-00144.geojson.gz": {
+      "sha256": "7b627ad8a3207b0df20b279d34ed24c8b98defe3452f15dc33f53fe80c933683",
+      "size": 163425
+    },
+    "data/geojson.day/highest-2-lowest-day-00145.geojson.gz": {
+      "sha256": "4c91f0e9890899e2d7f5398f398441ccb851137b13fdbdf6721efdf7a57182b3",
+      "size": 159846
+    },
+    "data/geojson.day/highest-2-lowest-day-00146.geojson.gz": {
+      "sha256": "badb4af5c5fbdbe1d75c1bfd4e0f78d922b72023410617086a4c36ecf0f57508",
+      "size": 138697
+    },
+    "data/geojson.day/highest-2-lowest-day-00147.geojson.gz": {
+      "sha256": "f2707a4e4d4bc0ba51692b5f0fbf703df64a0d8d247a15f7ed404300eb60ad83",
+      "size": 136050
+    },
+    "data/geojson.day/highest-2-lowest-day-00148.geojson.gz": {
+      "sha256": "c4b014b45e88ba990a9339001256c5bf8a8fb2cd267236432fa2b62526896733",
+      "size": 158189
+    },
+    "data/geojson.day/highest-2-lowest-day-00149.geojson.gz": {
+      "sha256": "67594356d9ba3565fe835951f9e7ef80e5a49301b8a349bef6e5b611c8ede7df",
+      "size": 131891
+    },
+    "data/geojson.day/highest-2-lowest-day-00150.geojson.gz": {
+      "sha256": "013fe4902268b15d211669a3d2e78ed21260f660a9e12bdb745487bdfbd72b9e",
+      "size": 138351
+    },
+    "data/geojson.day/highest-2-lowest-day-00151.geojson.gz": {
+      "sha256": "6c37d241832e9112969874726bc034b004531b2c85e529cb9361a50317a47b96",
+      "size": 152933
+    },
+    "data/geojson.day/highest-2-lowest-day-00152.geojson.gz": {
+      "sha256": "cda3306911a249ec52228d1c8777a45b632c582a75aaf88dd8788fe74788917d",
+      "size": 146945
+    },
+    "data/geojson.day/highest-2-lowest-day-00153.geojson.gz": {
+      "sha256": "8f41bf32bf68817f1302d7d3a1372d5057568ad4ffdffda6308e7906add4e00e",
+      "size": 156127
+    },
+    "data/geojson.day/highest-2-lowest-day-00154.geojson.gz": {
+      "sha256": "80d8c4e5a88f6158a757a63cd48c0c583302c4563354b6bcf63bc5cd32a8a224",
+      "size": 153475
+    },
+    "data/geojson.day/highest-2-lowest-day-00155.geojson.gz": {
+      "sha256": "f0645cc7deff3e6417daf208fc5774595dc896549d9d99d7818d9917dc799eb6",
+      "size": 168122
+    },
+    "data/geojson.day/highest-2-lowest-day-00156.geojson.gz": {
+      "sha256": "e87ab3b305b4372b378f83add013b5838aa95d0917c57641d73fb56407aefaf4",
+      "size": 147386
+    },
+    "data/geojson.day/highest-2-lowest-day-00157.geojson.gz": {
+      "sha256": "d4d1338da927a412c7172f283adc2e9a0c170b10cbc3822f8cea8a7b78b70631",
+      "size": 141167
+    },
+    "data/geojson.day/highest-2-lowest-day-00158.geojson.gz": {
+      "sha256": "35a16b71fa533cfb54603cdbf09c29f2dcf5335e5c46008aef3ec812c85ab303",
+      "size": 156926
+    },
+    "data/geojson.day/highest-2-lowest-day-00159.geojson.gz": {
+      "sha256": "b0ed74569b90614bececee51dcba3e709da1546422548a05eb3ed23e74ab7246",
+      "size": 151395
+    },
+    "data/geojson.day/highest-2-lowest-day-00160.geojson.gz": {
+      "sha256": "ec44015e2a4f1b91e43de10bf4a92d8003799e1e01ca191b77e035707dcfdd6b",
+      "size": 151282
+    },
+    "data/geojson.day/highest-2-lowest-day-00161.geojson.gz": {
+      "sha256": "a3fe981e7d22b29e5306c953861298f7fc30aef8eb4d3c5bc89a6a42cb800bf3",
+      "size": 151580
+    },
+    "data/geojson.day/highest-2-lowest-day-00162.geojson.gz": {
+      "sha256": "cd274d99dd56de03e69b2ab789c3f33463120d02c7bc2b7a2f620c708a306a3c",
+      "size": 157538
+    },
+    "data/geojson.day/highest-2-lowest-day-00163.geojson.gz": {
+      "sha256": "055a0a10b7d4a77d5aac4eb3ee7d87cfcd4f5d96e88232dd3b9fa4a48c28c5f1",
+      "size": 139794
+    },
+    "data/geojson.day/highest-2-lowest-day-00164.geojson.gz": {
+      "sha256": "4fbcf0d7198c0be7e9e5ffb6c8e85522bd3a6f80d0550a3fff53ba552f88e4f9",
+      "size": 145763
+    },
+    "data/geojson.day/highest-2-lowest-day-00165.geojson.gz": {
+      "sha256": "2f6bb0600a4cab59980ea1cb74d9d2fcefdc883942599bb1fc09bb3c3860674b",
+      "size": 140396
+    },
+    "data/geojson.day/highest-2-lowest-day-00166.geojson.gz": {
+      "sha256": "79ed1c1b6b05b6e0bf4a42cf101e6c2d0ceb182dd38e074102f8e298544b258f",
+      "size": 134800
+    },
+    "data/geojson.day/highest-2-lowest-day-00167.geojson.gz": {
+      "sha256": "af86d8b39eba19f051491cc507275a13494661872edf99715e1072ea1167280e",
+      "size": 131383
+    },
+    "data/geojson.day/highest-2-lowest-day-00168.geojson.gz": {
+      "sha256": "622cfdd58bc1be1007acb83b1ab39a3ed676cc843f6da4797d39780fb994bd42",
+      "size": 152678
+    },
+    "data/geojson.day/highest-2-lowest-day-00169.geojson.gz": {
+      "sha256": "cff41e04f326af5934841c3bc0d2ef8fa0e0e2798e97a54bf1dc651d7bb6d30a",
+      "size": 165416
+    },
+    "data/geojson.day/highest-2-lowest-day-00170.geojson.gz": {
+      "sha256": "72dbc3b0e8ae412c2cea54379fa650b61869e1d884584f583cb29562f392c67b",
+      "size": 149752
+    },
+    "data/geojson.day/highest-2-lowest-day-00171.geojson.gz": {
+      "sha256": "8834ba8a9480dacb4b31323e74b567f7f1345a48a9a88ec0252571f6de29b33a",
+      "size": 152139
+    },
+    "data/geojson.day/highest-2-lowest-day-00172.geojson.gz": {
+      "sha256": "db823b4f585bff509cf5248f679c0b67410d11d8686825e072b0277ea307d4d7",
+      "size": 151230
+    },
+    "data/geojson.day/highest-2-lowest-day-00173.geojson.gz": {
+      "sha256": "36df29c4ca1f052b1dd278cc532b63b67322465dad50b7a21757b81da9b8818d",
+      "size": 171866
+    },
+    "data/geojson.day/highest-2-lowest-day-00174.geojson.gz": {
+      "sha256": "d7c1c88277e21905eeb332c4c3ae5cc441aedca555476192b4f17626d0695cc9",
+      "size": 159521
+    },
+    "data/geojson.day/highest-2-lowest-day-00175.geojson.gz": {
+      "sha256": "e47cb57a8013801e9393c88e093db42eca511a3f2e384b9737504ed53d5ea880",
+      "size": 140777
+    },
+    "data/geojson.day/highest-2-lowest-day-00176.geojson.gz": {
+      "sha256": "4bbd1796eef282ed0607e7e9fd59b9e2dbd5ea69e9a21bb2fed4a3e980dfac92",
+      "size": 136790
+    },
+    "data/geojson.day/highest-2-lowest-day-00177.geojson.gz": {
+      "sha256": "5795074f2bc0b1eafec4de2ee68982609abe82c57ea8a07aa8e968dc41e697e6",
+      "size": 134294
+    },
+    "data/geojson.day/highest-2-lowest-day-00178.geojson.gz": {
+      "sha256": "9e9d8b7ff91a3ffb155eab7c029153cd2e416b9a70a8f020753d9b939d313c5a",
+      "size": 143999
+    },
+    "data/geojson.day/highest-2-lowest-day-00179.geojson.gz": {
+      "sha256": "96abd2f2b81e7d8f417ca6cb603bad49ca8edd9ab2b5530843baf34fdfdb1787",
+      "size": 145137
+    },
+    "data/geojson.day/highest-2-lowest-day-00180.geojson.gz": {
+      "sha256": "07243a017dcf57180c3d84c17392b7c847a2248c1cf6ce8855229454584fe479",
+      "size": 150494
+    },
+    "data/geojson.day/highest-2-lowest-day-00181.geojson.gz": {
+      "sha256": "e362a4118e28eb0b7a257c49aa6f91b0ec0c277d352ed1055e76e468bdd49507",
+      "size": 150059
+    },
+    "data/geojson.day/highest-2-lowest-day-00182.geojson.gz": {
+      "sha256": "67126ed4763e8504372743fa35a2a2b07c57c443689f73aded6c7282ccf2f486",
+      "size": 147030
+    },
+    "data/json/highest-2-lowest-swarm-day-00001-2025-09-05.json": {
+      "sha256": "98009992f00547aa7e242aa102330e90b9d8e8b405d9a135ed22953e0bd16a79",
+      "size": 443
+    },
+    "data/json/highest-2-lowest-swarm-day-00002-2025-09-06.json": {
+      "sha256": "f1356a5c11dcadabf82dfa5441f038af55908e0c7f35aba6d2ba758b444b713b",
+      "size": 444
+    },
+    "data/json/highest-2-lowest-swarm-day-00003-2025-09-07.json": {
+      "sha256": "bff859283f0059afa565fb7edba4340f3f4b5f6d558579ab287a57b45dd85b5d",
+      "size": 446
+    },
+    "data/json/highest-2-lowest-swarm-day-00004-2025-09-08.json": {
+      "sha256": "d399ae03d0386ae7a5f74dfb3f7411d35e23b103a4ca85c224b66eaa3829a377",
+      "size": 447
+    },
+    "data/json/highest-2-lowest-swarm-day-00005-2025-09-09.json": {
+      "sha256": "bdb3187adaa467eab6762c7eb71532e1456d394f963ab4f78e42730c6e83a996",
+      "size": 447
+    },
+    "data/json/highest-2-lowest-swarm-day-00006-2025-09-10.json": {
+      "sha256": "a0859ccf763a563f86623ec1f50565f9079ee8822dfb00cd64645fd77d317607",
+      "size": 447
+    },
+    "data/json/highest-2-lowest-swarm-day-00007-2025-09-11.json": {
+      "sha256": "496f668d3cb500e88d760785783e08e25e9087a2fa858eaa30965d09ca02e017",
+      "size": 447
+    },
+    "data/json/highest-2-lowest-swarm-day-00008-2025-09-12.json": {
+      "sha256": "5b19cffd3695820b9de4ba7100bb70593a4c90049d48fc3f9337c8c8528a2506",
+      "size": 447
+    },
+    "data/json/highest-2-lowest-swarm-day-00009-2025-09-13.json": {
+      "sha256": "59f0fd2ce4385b3a69c80dd7709fa2875a61f0cc1c740497cdfbb10c4b25902d",
+      "size": 447
+    },
+    "data/json/highest-2-lowest-swarm-day-00010-2025-09-14.json": {
+      "sha256": "f124c431fcc55c9e6c77bce97219e974a948206214936c1d44088af128b698d9",
+      "size": 448
+    },
+    "data/json/highest-2-lowest-swarm-day-00011-2025-09-15.json": {
+      "sha256": "2bea034f64d3a46605a3fb6ac612827143465b315629e8c9e93ef97a05612e5d",
+      "size": 448
+    },
+    "data/json/highest-2-lowest-swarm-day-00012-2025-09-16.json": {
+      "sha256": "c76f6cd7fd77cfe8d85f4f6bcbde035112c6deee778f3bdce3ab295d020706ce",
+      "size": 448
+    },
+    "data/json/highest-2-lowest-swarm-day-00013-2025-09-17.json": {
+      "sha256": "fdc7ef2c86f88aba11a8a602cbc5582f755e8bed833b2063ff46ed6b75e4e548",
+      "size": 448
+    },
+    "data/json/highest-2-lowest-swarm-day-00014-2025-09-18.json": {
+      "sha256": "ea76e3201557c80865e8ca4df3e5d755c8991fbeb3cde1fd5063354407a07fd5",
+      "size": 448
+    },
+    "data/json/highest-2-lowest-swarm-day-00015-2025-09-19.json": {
+      "sha256": "b3e990d555989b9d70a9d1dba95113031e690c8a27bee6f897dbdb461dc5849e",
+      "size": 448
+    },
+    "data/json/highest-2-lowest-swarm-day-00016-2025-09-20.json": {
+      "sha256": "05a9a74ccf34896170cd23c71dbcfa1a123b36af681659e467663d840bbe05a2",
+      "size": 448
+    },
+    "data/json/highest-2-lowest-swarm-day-00017-2025-09-21.json": {
+      "sha256": "0632dd87d54316159cac449687afc8781d785df5efc9d98515eea2f902d7117e",
+      "size": 448
+    },
+    "data/json/highest-2-lowest-swarm-day-00018-2025-09-22.json": {
+      "sha256": "8dbf2c4a61a5e6eabc6a7b7c1f0cf5acf8458f64e8871e2ed998ce9e7739e740",
+      "size": 448
+    },
+    "data/json/highest-2-lowest-swarm-day-00019-2025-09-23.json": {
+      "sha256": "130127f97be37bc2687864cefeb7a1926baa21df18cfc4f66556618fa831917a",
+      "size": 448
+    },
+    "data/json/highest-2-lowest-swarm-day-00020-2025-09-24.json": {
+      "sha256": "4f2ee1a4194ef57b1b31ef739dfd286dcf9860bf6c46a93936e457a6d2974586",
+      "size": 448
+    },
+    "data/json/highest-2-lowest-swarm-day-00021-2025-09-25.json": {
+      "sha256": "bcc63fa3e8baf1fee62a346e762df04b674e570ad595085903c19590846d128a",
+      "size": 448
+    },
+    "data/json/highest-2-lowest-swarm-day-00022-2025-09-26.json": {
+      "sha256": "b2e01b4c7e289ac8616dd22b48b2c7f43bda266dc552ed4bf77008edac7a181a",
+      "size": 448
+    },
+    "data/json/highest-2-lowest-swarm-day-00023-2025-09-27.json": {
+      "sha256": "ddd7b27913eafba5f55002802421ea34188adcf9978be192ef869d381b9be1cd",
+      "size": 448
+    },
+    "data/json/highest-2-lowest-swarm-day-00024-2025-09-28.json": {
+      "sha256": "d106522a3bd58a726c9506cc3e13677469b95afd141041f3bee93226b89d026e",
+      "size": 448
+    },
+    "data/json/highest-2-lowest-swarm-day-00025-2025-09-29.json": {
+      "sha256": "7731449987dd0be7ac28e67ce7b4048e7b47598fae99ca66722334fcde314f23",
+      "size": 448
+    },
+    "data/json/highest-2-lowest-swarm-day-00026-2025-09-30.json": {
+      "sha256": "7c22c992796e8f614ca4dffe102d6ebe903e225db9097b868410e27513c442c5",
+      "size": 448
+    },
+    "data/json/highest-2-lowest-swarm-day-00027-2025-10-01.json": {
+      "sha256": "805efd9f2126b7cfdda2f8aa90934929b0515bc38d0ec1163a580de2967a53c4",
+      "size": 448
+    },
+    "data/json/highest-2-lowest-swarm-day-00028-2025-10-02.json": {
+      "sha256": "49675a68991deeb9736831397f3b0340d49bf042976d6f452fc818f7ee60658a",
+      "size": 448
+    },
+    "data/json/highest-2-lowest-swarm-day-00029-2025-10-03.json": {
+      "sha256": "f25f9509d7471c0500b26582cc53840663581a0cc3d3d3c2dbceb66fe3aa583b",
+      "size": 448
+    },
+    "data/json/highest-2-lowest-swarm-day-00030-2025-10-04.json": {
+      "sha256": "67f9a44b8bb780f4deab63c2d2e244edc65171084663cebc24c06bd643a589bc",
+      "size": 448
+    },
+    "data/json/highest-2-lowest-swarm-day-00031-2025-10-05.json": {
+      "sha256": "7f658ed29c7f3648cffa0c680f7bf32e8df0e59506ca9421318638aab29205c4",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00032-2025-10-06.json": {
+      "sha256": "54a5f915035bf515a7b19c3d81c95ad88df744651fd4183ad387b5a04256bf8f",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00033-2025-10-07.json": {
+      "sha256": "b133c1017b22643051311b6c24c6242c232b760cc7da107d0272c3d40175cda6",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00034-2025-10-08.json": {
+      "sha256": "8967e8459dd1adccb1cda38d781ceba4c767f7410d1fda0f46b7cd0b3b5f87fb",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00035-2025-10-09.json": {
+      "sha256": "5f9e455b5487a1f14f30f32115628e9a2cc102bf94252d2ec01becd6b0d0dd09",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00036-2025-10-10.json": {
+      "sha256": "797e372e634363329b9b9ace718a32f293d10a578754b879cc7d551077dbb2a6",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00037-2025-10-11.json": {
+      "sha256": "5610bcb87af46fafe44585c48808800a11a422c44ae0a61d9b50f72e400acc0b",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00038-2025-10-12.json": {
+      "sha256": "b240757b1ca162b81b02f03354f42768a9d2e986cfb495e37eee360620b757ca",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00039-2025-10-13.json": {
+      "sha256": "a7ff72dd5831c61da62ef78401af32d47d7a1519025101c971fa51234d0bcb8f",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00040-2025-10-14.json": {
+      "sha256": "1d6a0ca17ef02616e16e878e447d6c50abaf285f7b1b584975ce792c2ab01bd1",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00041-2025-10-15.json": {
+      "sha256": "ccd5a6761f1aaf636046ffa59ecf12c906d077993d8a699917d2b782a8989ca2",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00042-2025-10-16.json": {
+      "sha256": "0517ef8c457088daff688ae3b35adb61ff97e8aafeef1d7f73a60fb8e233b21a",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00043-2025-10-17.json": {
+      "sha256": "3ce754ea779985bbfa23ce08808e9f13716949a40c0461fe255979c976a82270",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00044-2025-10-18.json": {
+      "sha256": "c242a923297dc3726da261ea05e0a15b0eb60e0f084b42e07da2c5e25c2216b2",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00045-2025-10-19.json": {
+      "sha256": "2f2e3dc0d7abad55d736c209955c2acd4ef9d674b9c5c357760502d149fc78c1",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00046-2025-10-20.json": {
+      "sha256": "f6d84651555a9b8ddfe179ab65fa1baf0e83bdc24d0dac82cdeafc142d4944f5",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00047-2025-10-21.json": {
+      "sha256": "31472ceaf429897c0448f514e1f0ca319d21ca4300f11e53cd02e89b88fd2820",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00048-2025-10-22.json": {
+      "sha256": "a1b9bcb1f5007c632500b3122334d3fe599194725e8a1ef155537ecae121dd7b",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00049-2025-10-23.json": {
+      "sha256": "f20187557499dd09d914f9cfe399e2c47f4ec90e8923cc6aeaceb57b1a248165",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00050-2025-10-24.json": {
+      "sha256": "7c7144c1f9dd4d4f7a6e1d3c80fec54be04ecf84c058bc8a6023064332d78e52",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00051-2025-10-25.json": {
+      "sha256": "b5b1fa740c33005df3de705c4beda8e3c34dd14b5c16e7515492860e4db021d3",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00052-2025-10-26.json": {
+      "sha256": "f507df3f720d123088344a31da62c0cb26ee5b5bbf9d07e267073468f5288a27",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00053-2025-10-27.json": {
+      "sha256": "b1fd275d3098bf530e91437782e9b642ffc03f043d2510e99f8660d4f4c74415",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00054-2025-10-28.json": {
+      "sha256": "659f0fcae0759ee5bc7926b4988bd6310bccf8fff0dd97dd659ae6c06d3fb4fa",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00055-2025-10-29.json": {
+      "sha256": "56af882cfb0b15b7e6134b078c7240982efc0059b09a9baeeff763dc91a819a2",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00056-2025-10-30.json": {
+      "sha256": "8de6bcae1ac4e8c1d99ea7b0ea9011fc248d602594a15a233d425bc7579a2650",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00057-2025-10-31.json": {
+      "sha256": "1a23c305138dff3e5c57e5ab5d16a46f276c0c734b9843782c65ec7df774c342",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00058-2025-11-01.json": {
+      "sha256": "933916c6195151bd83b3513f42c39586e172884d94f1813f74fac4570d00e8e8",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00059-2025-11-02.json": {
+      "sha256": "d209a1138bff42d4cb3861b0c2b6cd8649d516562b2392aa11e69bce18ffaf90",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00060-2025-11-03.json": {
+      "sha256": "21bd320703eff474052e71ac2116f7a723da9f24fc360dd67fe3b87cbd3a0fa7",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00061-2025-11-04.json": {
+      "sha256": "63193c7d0bca8045ff1b81cc8613263a556c98b3bfc956aa2b88dc03f50498b0",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00062-2025-11-05.json": {
+      "sha256": "693a9c4b19fe59211908cb9a6c763a04de8690538e547fe8c15bac72da28c8b3",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00063-2025-11-06.json": {
+      "sha256": "45ff080ead5632aedd3ff88a014d24759a6d042dfb6b561f8fc08e899430544a",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00064-2025-11-07.json": {
+      "sha256": "a1ab6fb523d5e536772b07ba90b95d2d26c897c59161c9c7e3738d6b35848608",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00065-2025-11-08.json": {
+      "sha256": "44d0e12245daaf137997331ca6dd4d48a2538fb29e44da650227bf5c95c83088",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00066-2025-11-09.json": {
+      "sha256": "e21dca5c7df9edc511b3c2886b71d7b8c7e6883410f073834462bb59c97e21c2",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00067-2025-11-10.json": {
+      "sha256": "d396b9f4ff8843ae10bcc4f078d86a38337f7e3fb29fa56b1d91a892eac8d350",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00068-2025-11-11.json": {
+      "sha256": "f438fc14c366325d1d58772e9584801e7b8bc1124e1315f2137d9008cf9bd2c0",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00069-2025-11-12.json": {
+      "sha256": "a169072e012289156207437db4fce8c80a245917e05860d72c85be13588ff24f",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00070-2025-11-13.json": {
+      "sha256": "76a25e9b6209f278174d13bc669622a2828e42330fbd5f1ab61708addd68e398",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00071-2025-11-14.json": {
+      "sha256": "c5d1d08b406e73e1fd9cdb6478b9916e9e04e155d58000a50b0c5f118b8945c4",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00072-2025-11-15.json": {
+      "sha256": "c0e72e0d8edc1dc64f7a59ea402e8e04a33f45eeea49e027a808c7ea4e71024d",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00073-2025-11-16.json": {
+      "sha256": "74d49f5bc59eb0d35038a2645345bd8df91b97fe50f6441ef624fb31ec65fbdf",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00074-2025-11-17.json": {
+      "sha256": "2f272a5c576abfc7fd6ff95f9dd3be22e487d73419876a067c35902cf837669f",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00075-2025-11-18.json": {
+      "sha256": "0ea415b02b4e931c3821fbb955cdeaa83230a2a25a6635b0b663a7fbbe30e063",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00076-2025-11-19.json": {
+      "sha256": "aa4d6e874c34e541eb04db81cf03bf436c125cea25459b7288fb45a673bedaec",
+      "size": 448
+    },
+    "data/json/highest-2-lowest-swarm-day-00077-2025-11-20.json": {
+      "sha256": "cc156b527febe07d9bb3d24c87d8a26915651ac8a72a2c10029e1befe8ce80fa",
+      "size": 448
+    },
+    "data/json/highest-2-lowest-swarm-day-00078-2025-11-21.json": {
+      "sha256": "28dccfe8604b519b0275beffc2cc9fb3725810a1ab1cb9765ac9f27bf99702a8",
+      "size": 448
+    },
+    "data/json/highest-2-lowest-swarm-day-00079-2025-11-22.json": {
+      "sha256": "c5ab0a9effb64a120c9d61caaed9b43f23abdaa4f8133efe1549c9be26ab9c7e",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00080-2025-11-23.json": {
+      "sha256": "d938e1c74f3a4a1510b7efb4986da06efd89da7a9ad9bd1e61fb45710c00c4b7",
+      "size": 448
+    },
+    "data/json/highest-2-lowest-swarm-day-00081-2025-11-24.json": {
+      "sha256": "d24bbfdb1b523baa86079523bf0651b6e4cb7fca28a7278c59ad9590b519bb8e",
+      "size": 448
+    },
+    "data/json/highest-2-lowest-swarm-day-00082-2025-11-25.json": {
+      "sha256": "ee9af4336d0dccc5477c642a7a6e1917ec3ed43005b1c176f88ad0463032b5bc",
+      "size": 448
+    },
+    "data/json/highest-2-lowest-swarm-day-00083-2025-11-26.json": {
+      "sha256": "8feae84b86287dac6a61148c70bca0e08b4d3e5f28e537835799db49ec67fe44",
+      "size": 448
+    },
+    "data/json/highest-2-lowest-swarm-day-00084-2025-11-27.json": {
+      "sha256": "d1a1d6eb8a97b000730eb81f8ab143504fcc1b5d875eba34de273b2de40b6e0e",
+      "size": 448
+    },
+    "data/json/highest-2-lowest-swarm-day-00085-2025-11-28.json": {
+      "sha256": "e530e947fdd245f98c5fd56d14bdfadf6f4d88224345e48334c0ddc5a58c0ffc",
+      "size": 448
+    },
+    "data/json/highest-2-lowest-swarm-day-00086-2025-11-29.json": {
+      "sha256": "eaec33b13919cbfeeecb526d23066f45e502c6a37a00380d6d3bfff200d19bd4",
+      "size": 448
+    },
+    "data/json/highest-2-lowest-swarm-day-00087-2025-11-30.json": {
+      "sha256": "7b8803041c126f3b041aac4ab3e2ca7bc217d25694044d125e2172f7192b3c4a",
+      "size": 448
+    },
+    "data/json/highest-2-lowest-swarm-day-00088-2025-12-01.json": {
+      "sha256": "6a2540127dffb1c9f44e59fc63d2d3f294fa1c96aad17807ae2eb2ea48bbcbd2",
+      "size": 448
+    },
+    "data/json/highest-2-lowest-swarm-day-00089-2025-12-02.json": {
+      "sha256": "f9878c353ca1e1eafc4d714277432ae25d3c45b4719bf3bc4241a08bc91d0975",
+      "size": 448
+    },
+    "data/json/highest-2-lowest-swarm-day-00090-2025-12-03.json": {
+      "sha256": "6d003725c906207be600c58b7a73ef39060fdc463513ffd6361622e4fc742038",
+      "size": 448
+    },
+    "data/json/highest-2-lowest-swarm-day-00091-2025-12-04.json": {
+      "sha256": "28975482024dc8572cbef5af04a569ba4df4d79d7b2023c073e105ab48b476d4",
+      "size": 448
+    },
+    "data/json/highest-2-lowest-swarm-day-00092-2025-12-05.json": {
+      "sha256": "d08a9ca459afc5940a708fa6d7761f2a1ecb881345310fc25d7198f05997c539",
+      "size": 448
+    },
+    "data/json/highest-2-lowest-swarm-day-00093-2025-12-06.json": {
+      "sha256": "f7c30d57d647ad39edeec5041feaa8dfd97dbeacf3a6b0a5b6a4f51a6bb1dad4",
+      "size": 448
+    },
+    "data/json/highest-2-lowest-swarm-day-00094-2025-12-07.json": {
+      "sha256": "be3d0314735176690b8abe0c5d232dd42bbbc5f6f84a369b0462405a82c2e85b",
+      "size": 448
+    },
+    "data/json/highest-2-lowest-swarm-day-00095-2025-12-08.json": {
+      "sha256": "f3a43d82b4f2b8d621dc0cb1329e36a30100120953e0e839842da2cdf187d20b",
+      "size": 448
+    },
+    "data/json/highest-2-lowest-swarm-day-00096-2025-12-09.json": {
+      "sha256": "4531d5d87403755d3c5cda6d5fd05ee68bcfcffcebcf22094eb2dd6a86c99f4a",
+      "size": 448
+    },
+    "data/json/highest-2-lowest-swarm-day-00097-2025-12-10.json": {
+      "sha256": "9f3a239e8c9dda11d138e7d7a7914b4b216038f4b699d9237ca586398b24543d",
+      "size": 448
+    },
+    "data/json/highest-2-lowest-swarm-day-00098-2025-12-11.json": {
+      "sha256": "af3b743e2035a73b66a37131b991e97ae1d88e64c3b75edab6e802b60aaf8048",
+      "size": 448
+    },
+    "data/json/highest-2-lowest-swarm-day-00099-2025-12-12.json": {
+      "sha256": "e7f7be2bd09c0ff4c03a5beb10a381fd328edc9306c5e6d24426aee408f9e012",
+      "size": 448
+    },
+    "data/json/highest-2-lowest-swarm-day-00100-2025-12-13.json": {
+      "sha256": "57d77ec61498a09100337f93fc2a741c617af2213328dc5a7798e2d636430698",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00101-2025-12-14.json": {
+      "sha256": "d8932e3ae4bc7d0d66e5cfe5cc77c8f43568e1330b18eec1a4994af8ac43bb2b",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00102-2025-12-15.json": {
+      "sha256": "620bba89e83839822c724917ef6a4ea7c0a7f35568ee102727d2f295d00fb873",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00103-2025-12-16.json": {
+      "sha256": "af8c3570841798ec43eece3c47b962d3de31f990dc953c28d1b5230d9d95e7e8",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00104-2025-12-17.json": {
+      "sha256": "b4da2e7c5872de2b36dc82b7d1a3adcbc169eca814d8a0e7f6723e96f8c5dd48",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00105-2025-12-18.json": {
+      "sha256": "2a7c52fcdb800275991236a0aaf66d93d2640c22edcae6fe9277dd0664e1ffb6",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00106-2025-12-19.json": {
+      "sha256": "007e8c2fd58ed52abbf23a615a734d487cec89ce5b22517dfe4a5380cdad745a",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00107-2025-12-20.json": {
+      "sha256": "82552c060021c18b5fad4519ee0195c9903b05fed53bc386955c640513e153a7",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00108-2025-12-21.json": {
+      "sha256": "89cff9f0d04f90fb13b0c2255c79f5125e05bbe26215bcdb205033c76f0c6a0d",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00109-2025-12-22.json": {
+      "sha256": "a2d149a8a7354c1a1700513c31cf919a4c0ebc91dea2776eff9ce640606ed206",
+      "size": 448
+    },
+    "data/json/highest-2-lowest-swarm-day-00110-2025-12-23.json": {
+      "sha256": "2b3e57bf54479fe8c214e725b0943aa61b23ee597d692a60f413a5b9f17a7e68",
+      "size": 448
+    },
+    "data/json/highest-2-lowest-swarm-day-00111-2025-12-24.json": {
+      "sha256": "8a2df79d2855d4de58538e96116aae6fb4f68ba9046baf9409ea0661897c0610",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00112-2025-12-25.json": {
+      "sha256": "0dffa34cf6beff1f66f83a08f171d6f08e20bcc3278a20b7f7eeeefb6049c94b",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00113-2025-12-26.json": {
+      "sha256": "5ff0eef6ecf271758f506c623876d4a79e99d58d1b5457e8431aff265b773ade",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00114-2025-12-27.json": {
+      "sha256": "2174f796d000479476bab100c8f5dbc87a5a7e3746cc227e9cff62636dbd2d8f",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00115-2025-12-28.json": {
+      "sha256": "e8c2fb241c0162d61a5d4c9bdc97bb56f8573373c67847e417fc9d92175f66de",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00116-2025-12-29.json": {
+      "sha256": "fdf8ae8300f2b4fb7cb99995bb92232ba459a7b37fc1ccf242b1be85faa715fc",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00117-2025-12-30.json": {
+      "sha256": "8c5808dccea9e3d7fbed0c1db96efe950bbd76ef086d61ef3f652c9129d1204d",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00118-2025-12-31.json": {
+      "sha256": "689a30c7b17bfa0c21b9f19df376736daa6e6b2db2f887cdef3f9ed456b76186",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00119-2026-01-01.json": {
+      "sha256": "60700e0bcc5272b2937287d5acb83155b44fa6345242d8f16471b656a87d2c1b",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00120-2026-01-02.json": {
+      "sha256": "f7aa923d4430c209e3de43148f30b0099252afb045ac18d6750a255d9d640398",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00121-2026-01-03.json": {
+      "sha256": "93f474a82e1f6e6a190917d3850da41dbd2587486b2ba2666dd5d391570a902c",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00122-2026-01-04.json": {
+      "sha256": "8ea72aeabe574ad4e03690ea587b65d68e6eb6d192660a4ac838a60bdc38ab4b",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00123-2026-01-05.json": {
+      "sha256": "9e349f08bacf569b47d0fffd995abe2ea28f1eb7c99f49df51b1eaae47be166b",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00124-2026-01-06.json": {
+      "sha256": "c54e04f043152d31c27e37920d8b0519c76f155ca60fb006c7982fce49ac3c35",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00125-2026-01-07.json": {
+      "sha256": "bb48ae376b05e4c784f030f2b4f041470be41878b7bc3fe9a63ae6172e51d834",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00126-2026-01-08.json": {
+      "sha256": "67ed2c5c756c7c21d922d9c7337ba47bcd628ad90bae29e157c9fee9d9bb49de",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00127-2026-01-09.json": {
+      "sha256": "3f1f9d22579b4cd90deaf80f9962bc1930155e796d3a506a9de4a1c5a1f0a048",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00128-2026-01-10.json": {
+      "sha256": "4035fbf41a12a8c4a59f9a24c97a44a06391c2113ce34ee7969143f9b6c0f84f",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00129-2026-01-11.json": {
+      "sha256": "d35ecb720a10e0c8ffaec0547d095bb54294bb2b0f145b95e7b7d68c06964a38",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00130-2026-01-12.json": {
+      "sha256": "1600c5c470149c57ee7f5a6480e69f0125ceb9f814792324243af9a70c8d0568",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00131-2026-01-13.json": {
+      "sha256": "a3c3539044d4290c71878ac795ca23b2f4e7dd0ee1d669be0ff2c26ec2d890d0",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00132-2026-01-14.json": {
+      "sha256": "3901b2a275693f10c77cd49d4ab2386003fe9c90f34d6068e1690d32a6011a3b",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00133-2026-01-15.json": {
+      "sha256": "9df379049a69f338eec4c38a62a00177d1631411f2dcebc5cd6ef2f49a348b30",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00134-2026-01-16.json": {
+      "sha256": "515a821c012c148f35c2d1c1f43372b2cc3161c5062f1fc3b6c1a795cce1eb43",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00135-2026-01-17.json": {
+      "sha256": "129d2a92a1e077baf1080586b4f221b67324d6381d9f4a78cd5f09f0c30bbd4c",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00136-2026-01-18.json": {
+      "sha256": "951bc3f5d1bd6b467f144b9bf131c2b334eb430d80327ace01d7ae5b65eb2719",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00137-2026-01-19.json": {
+      "sha256": "dd2982618af004c0e7a42065fa49ae2e7df48aad07bd7a4d433f5b6ee1895e5e",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00138-2026-01-20.json": {
+      "sha256": "02dc9fba10a7cde4ed316d28f500abeb5a64491681ce6f58cb31a0d633ab0c13",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00139-2026-01-21.json": {
+      "sha256": "de88aacd52d3039f748c1133bdf2194f454de6ff99ed971e25b2b53d1bc61495",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00140-2026-01-22.json": {
+      "sha256": "6a9af9ef0f435ca41a638553d2455a11bdee62936bd105caf98d5d1606646e82",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00141-2026-01-23.json": {
+      "sha256": "bce49e50b700e7e6be1ab202859cef4057c4ddc82da7e3e82e2dae796bf7c3ab",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00142-2026-01-24.json": {
+      "sha256": "4f7f3cfb2decf0ef9e81197ac5459e6782c0e03144fb6314b30347a440ce60b2",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00143-2026-01-25.json": {
+      "sha256": "5d5bf9fd209ad3b5130b5a8fd90555ad17ccd35468b1b19fbc063d8952e1cbd2",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00144-2026-01-26.json": {
+      "sha256": "3e0fe94e112a5932c9b7406643c45d71108b9c5fd81e39509d9c1f7fc084342e",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00145-2026-01-27.json": {
+      "sha256": "9a5322dbe1473a5a6a70b8d7bf196301911245b3e6b22e36f71fc5ab20395629",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00146-2026-01-28.json": {
+      "sha256": "bb51d490d63ba2a9d72aef5406c81fe9ce70b9d95d7ba0d37fc9dc57abc4e53d",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00147-2026-01-29.json": {
+      "sha256": "2dbef29f54667395b48a929d89a6dc756b8c8fb6b62cc084703f61d38f23255b",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00148-2026-01-30.json": {
+      "sha256": "40f4bdb563376bedd8563312ea9fe5d052f5ed42b94228beac15e6e15478e421",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00149-2026-01-31.json": {
+      "sha256": "24ae488c7cbf5c4155a17558778ca748a899f67625823af941df7cbca16833dc",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00150-2026-02-01.json": {
+      "sha256": "39cc343b88b4545531f37088fbf2e6b2dce7a16c1cf43e5596023cdf54aceafe",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00151-2026-02-02.json": {
+      "sha256": "c6a041c9c2f44a804b82403dd98dce8757187cbadd5f28e36f94a9fd004199d9",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00152-2026-02-03.json": {
+      "sha256": "2da1acd29097707330a0fea0f04ae4ddd56e2019324803e110321c00cfe40322",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00153-2026-02-04.json": {
+      "sha256": "a74d6334a761e503a6d27fb7d596a9dc93ca84d52363ab711794aa25ccd45849",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00154-2026-02-05.json": {
+      "sha256": "80f46b9eb4c6013943752fad757c1afaa7802b57e3c9627a2ecd39cf9e013c23",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00155-2026-02-06.json": {
+      "sha256": "3143ea2b4909c4b2e4efc565e09915b3c3d994bfc4bb0c7830aa9895376302ce",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00156-2026-02-07.json": {
+      "sha256": "e62b2957f39cfb9792002a28567c3435de26dd2985bdcbf2148539894883fe3e",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00157-2026-02-08.json": {
+      "sha256": "73ebf100072adc581db1bacd50793dc235aa45b8ea19cc52c391746f1f16d7eb",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00158-2026-02-09.json": {
+      "sha256": "c3ad1b34d2c20b7f3ce8b87198b06f56341f09f72433050c39ba5a881ccbcff2",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00159-2026-02-10.json": {
+      "sha256": "997c7546ceacdf64758087362ddb9015c85709b8d6f44c46301945e7eb60a401",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00160-2026-02-11.json": {
+      "sha256": "cb72530a8bcddf1f06753e9062108a3467b87e530bb015e20dcdc1fe580a26a2",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00161-2026-02-12.json": {
+      "sha256": "1c17d54439d6f385db8a0f5141e874a7cf6abab82719a4ce618ccfa244f091fb",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00162-2026-02-13.json": {
+      "sha256": "1a5fca76735f8fa42b1aa54ac0d9ccf35ef082fc2e64523be400c184c88f812f",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00163-2026-02-14.json": {
+      "sha256": "7c6eb83c84a57bfbe26e51e8d77f6d7e3ba0d1a24608ddae59dfc56984d10911",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00164-2026-02-15.json": {
+      "sha256": "fadcce6ca6b635fcfa75f9b0551d7a36a153247a62c908a529a239f31e79e9c7",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00165-2026-02-16.json": {
+      "sha256": "770db3c54777d329ae31d5d8f385f415425ec011adaa8bea94e071dea86f043a",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00166-2026-02-17.json": {
+      "sha256": "d58797f9379943d41795e0ee22e682f5915eeb60da791b6e3ce8c8095eb37f18",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00167-2026-02-18.json": {
+      "sha256": "50bcf22df60865ed0b573e21bcb3d19a72e610f57a14ac34190326d8385d2ede",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00168-2026-02-19.json": {
+      "sha256": "73be10b806ec390f4f2826e963e42c903d6c34bc76834bda155edc0923470f33",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00169-2026-02-20.json": {
+      "sha256": "618c9d0a05a5b0ce1724e026399388185174243eb07e29df29f100bfe647e64e",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00170-2026-02-21.json": {
+      "sha256": "e0447969ac851d6e984f1aeaec3df990c31da6a1baa31605d1d802d700788722",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00171-2026-02-22.json": {
+      "sha256": "2a39a3a9eb9a2bbe92e97233dbf5fd41f09ae66361c796ecc3109a1466d3ffdb",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00172-2026-02-23.json": {
+      "sha256": "4fbb2b8101f0c84331544f588ffdbf9dc7f4b1902d2f0a04c620c7cf39934753",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00173-2026-02-24.json": {
+      "sha256": "c90f2d135145d75943a0716cdbf761545498e5b9b6e4bc1c739e953352bb6585",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00174-2026-02-25.json": {
+      "sha256": "e211358fc9491158b56dfc1f5fe6b0fc9807d1989b0f2d5290806996c146fda0",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00175-2026-02-26.json": {
+      "sha256": "0bd26cab88edfcc3c8fc2d41cb1d85c36cb2c5fa998cdc5a2c08cd67fe84e792",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00176-2026-02-27.json": {
+      "sha256": "871199cfce3234bb9fc917d6bea4a8dda3cd262d5b1582d7a9db4ae3c035af65",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00177-2026-02-28.json": {
+      "sha256": "ad124ea9303f84c602946cd174033c8c49c594e5202c403690e6f361e4cb78e1",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00178-2026-03-01.json": {
+      "sha256": "0b050c2f214000339ec29a3592711152beaa01854e58c0ca8134d6a64b72a3a8",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00179-2026-03-02.json": {
+      "sha256": "8652284355fce039b0f3e92bfce6a1afc66f3f7672de5644a7f0187cf0523f5c",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00180-2026-03-03.json": {
+      "sha256": "fec56e46cdf671abcc8e0ba6e1fae74a2bff2aacf26b9407b8ffe59524ca1239",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00181-2026-03-04.json": {
+      "sha256": "6e8b3adef5857bc33eaecd4274875b7f5bc056d8cf674d4f15d1c0bf73d2c847",
+      "size": 449
+    },
+    "data/json/highest-2-lowest-swarm-day-00182-2026-03-05.json": {
+      "sha256": "ff3ee04ab4eff386108fda7474a58bcf283b7d8677ba07588e265605f7138f46",
+      "size": 449
+    }
+  },
+  "schema": "alpha60-year-day-product-bundle/1",
+  "source_revisions": {
+    "aggregate_binary": {
+      "sha256": "80bdf6691c0ef6ed5fcc7fa3a6462748104e1935ce5b2a4df3861e11bb13195a",
+      "size": 38582648
+    },
+    "alpha60": "c3fc4c8a7866bee5f6d5f26160c56b2cffb05cb1",
+    "alpha60_data": "8faeae67a5d274d1fc00bffe9fc9318329163b20",
+    "day_product_contract": {
+      "sha256": "0aa0bee3ac14b512c786d3496ab5218a46aff11786ffa6aa9ea85e762fbd6370",
+      "size": 9897
+    },
+    "generate_cache_aggregates": {
+      "sha256": "504078e192d9c8182df74e41b98cec08123c5a8b7d0eb7f812d09c1fe5d07010",
+      "size": 17151
+    },
+    "metadata": "fbeb53a0b523f937fae2f23d14689d8c5c84dd5a",
+    "package_script": {
+      "sha256": "516d6ecdccd24b1b66cf80c185219fa47d52af22f672b836773896df621b1666",
+      "size": 14724
+    },
+    "year_day_contract": {
+      "sha256": "f1c07d6f2fdc19475a6f25ddaee5923957447a6f49a8009d8b4c9984a63bd883",
+      "size": 9356
+    }
+  },
+  "status": "pass"
+}

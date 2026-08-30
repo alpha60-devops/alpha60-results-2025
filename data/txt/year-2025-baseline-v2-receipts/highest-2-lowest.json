@@ -1,0 +1,253 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt31194612",
+    "imdb_id": "tt31194612",
+    "revision": "fbeb53a0b523f937fae2f23d14689d8c5c84dd5a",
+    "wikidata_id": "Q124512337",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Highest_2_Lowest"
+  },
+  "coverage_sha256": "f45b8dfa2ee4e08bdd09055eb690e43dfd372f20941638978b4e48b95d70c303",
+  "generated_at": "2026-08-30T14:23:05.106594+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "aao-checksum-manifest": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/SHA256SUMS",
+      "sha256": "4a4818facd85b709f0321b0a6de31b4a3eff6f108f3b9354c75632926e6baa48",
+      "size": 266728
+    },
+    "aao-release": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/release.json",
+      "sha256": "3ce0984da2d12b0e3697e76c02608bd9d1a955ee3d00e0a7054bdd297b8f18c8",
+      "size": 1342
+    },
+    "aao-verification": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-aao-verification.json",
+      "sha256": "e01294ebce8e54b65e16ab83017fa5585efe6f7a0a0f1a5e0f734e08d8e223fd",
+      "size": 854
+    },
+    "archive-map": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-cache-archive-map.json",
+      "sha256": "8d4d506f23cd80f46baf010bd17509c916083e75eb8b43b052641138c3f308f1",
+      "size": 125170
+    },
+    "btiha-metadata-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/highest-2-lowest-cumulative-btiha-media-objects.json",
+      "sha256": "fd9c66e2934f1e8383509216c8a4a868a58a337c9524be900be298c4091a394b",
+      "size": 282902
+    },
+    "canonical-metadata": {
+      "path": "/tmp/alpha60-swarm-metadata-2025/metadata/highest-2-lowest.json",
+      "sha256": "fae66122c861bad1f4b2e21112bd034a3876132ca34f7f1140a7186c05492e6a",
+      "size": 8451
+    },
+    "coverage-report": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-coverage-evidence/highest-2-lowest.md",
+      "sha256": "5152977ed389a7fad76c466fcbf7e28879cb31aae42738b259dbcbb9dfc0d861",
+      "size": 742
+    },
+    "cumulative-aggregate-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.cumulative/highest-2-lowest-cumulative-aggregate.geojson.gz",
+      "sha256": "b5c14a82f4780e0998d6d0fef7bffa5751ee6a444243d76f3213b0c53f597be5",
+      "size": 1113267
+    },
+    "cumulative-btiha-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.cumulative/highest-2-lowest-cumulative-btiha.geojson.gz",
+      "sha256": "97d72b50146155a315a81a36ba8a1f9c36c0b182cf2cf6857a0113cb6677269f",
+      "size": 15707647
+    },
+    "cumulative-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/highest-2-lowest-cumulative.json",
+      "sha256": "1f05b8c89f9b5bd5933708138cb78b7b4548407d1216572ef7e06b793d979511",
+      "size": 15746
+    },
+    "day-bundle-receipt": {
+      "path": "/tmp/year-2025-day-bundles/highest-2-lowest/receipt.json",
+      "sha256": "21027343124ba4ee2b6b0f9b9ca23182229751eca95d96272ec7db7734964718",
+      "size": 68761
+    },
+    "ip-swarm-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/highest-2-lowest-cumulative-ip-swarm.json",
+      "sha256": "07adda6327d4fbe58cc39fc40e8c6e465c9b71dcae21ec4e0ef9ea1a22ec2d4a",
+      "size": 42330
+    },
+    "published-day-bundle-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-day-product-receipts/highest-2-lowest.json",
+      "sha256": "21027343124ba4ee2b6b0f9b9ca23182229751eca95d96272ec7db7734964718",
+      "size": 68761
+    },
+    "week-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/highest-2-lowest-week.json",
+      "sha256": "6d7f872b943a8f6529fabc1506df3499aa7234eeb2d9de6d210cec539362c2fd",
+      "size": 1604359
+    }
+  },
+  "media_object": "highest-2-lowest",
+  "published_files": {
+    "data/csv/bytes/highest-2-lowest-cumulative-detail.2025-btiha-itemized-by-bytes.csv": "74c8e3a3b176e1772067213bb4232ecf589c5f544027d5442d5e6b1d7dcab9d9",
+    "docs/itemized/figures/highest-2-lowest-carto-4k.webp": "70a34f190fec4d82bde5e399509f54ba64837adf8f3ce30f055eec0a36fbedc9",
+    "docs/itemized/figures/highest-2-lowest-carto.png": "2dbe0e06253fc329873ad3b6a4051ea886c296204727a78b43eb260c36c53899",
+    "docs/itemized/figures/highest-2-lowest-cumulative-detail-btiha-itemized-by-bytes.svg": "cb1185fd171e969b3f4639cf610d4b3ba0e0149c6efda3494732cebc63639d4e",
+    "docs/itemized/figures/highest-2-lowest-data-ge-1080p-4k.webp": "af31e464c58d5165ff5ba6139da30d27bc4652fb42c05d3583c996157902a791",
+    "docs/itemized/figures/highest-2-lowest-data-ge-1080p.webp": "907cd539d9e9f59451c46aead2e0f88e514520e89d643da1920159cf3152014b",
+    "docs/itemized/figures/highest-2-lowest-data-lt-1080p-4k.webp": "f8f2b55e7386230b88db23fcf064ba2c2d20240e5af77847409cdf430feeca5d",
+    "docs/itemized/figures/highest-2-lowest-data-lt-1080p.webp": "4b0fb20368d8f18339496c90c74fd1a288cc94ac2dac35f283eeb89b21608445",
+    "docs/itemized/figures/highest-2-lowest-downloads-by-day-day.svg": "d4a58266fa2564e6e0be86fc1817ef499e8f4465a67db8bd8c5e379aac0d223d",
+    "docs/itemized/figures/highest-2-lowest-downloads-by-week-highest-2-lowest-week.svg": "29d353f8ca1c173d30c4d90eebd706d6e20dc0b64bd97d3921ddad6c592b9748",
+    "docs/itemized/highest-2-lowest-sample-cache-audit.md": "516db64a85a1e13677fff1301e0c93fa4474b00ab4c37f8238d655e664a8d406",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-year-2025-render",
+      "revision": "c520555c40beece2e38f62878e2d4cc1b312c505",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "c192c54f882171dafc74c038ec769f1e68bf8020d12a342d2334086b5b5ee5ea",
+      "size": 36998168
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.cumulative/highest-2-lowest-cumulative-btiha.geojson.gz",
+        "sha256": "97d72b50146155a315a81a36ba8a1f9c36c0b182cf2cf6857a0113cb6677269f",
+        "size": 15707647
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/json/highest-2-lowest-cumulative-btiha-media-objects.json",
+        "sha256": "fd9c66e2934f1e8383509216c8a4a868a58a337c9524be900be298c4091a394b",
+        "size": 282902
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/izzi",
+      "revision": "b988ee7fd690a74a696c27c9aadf40c204a4c780",
+      "untracked": false
+    },
+    "media_object": "highest-2-lowest",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60-results-2025/bin/a60-meta-collection.exe",
+      "sha256": "e71f9def936a6868d5282a5ff7dece07ade360eefa07abebde75434a927220f7",
+      "size": 8743680
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          61.0,
+          46.0,
+          35.0,
+          32.0,
+          31.0,
+          29.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Seoul",
+          "Moscow",
+          "Istanbul",
+          "Saint Petersburg",
+          "London",
+          "Nanjing",
+          "Shanghai",
+          "Ashburn",
+          "Amsterdam",
+          "Hangzhou"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          67.0,
+          44.0,
+          38.0,
+          31.0,
+          29.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Seoul",
+          "Moscow",
+          "Istanbul",
+          "Saint Petersburg",
+          "Nanjing",
+          "Shanghai",
+          "London",
+          "Hangzhou",
+          "Incheon",
+          "Budapest"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 21,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 30,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 26,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "c520555c40beece2e38f62878e2d4cc1b312c505",
+    "cartofreako": "fc58111b5bfa7667b12f6ade522ae5e566b464d1",
+    "izzi": "b988ee7fd690a74a696c27c9aadf40c204a4c780",
+    "metadata": "fbeb53a0b523f937fae2f23d14689d8c5c84dd5a",
+    "results_aao_adoption": "9cd9d91a6fbb560ac2a96beadf4c83b94daf6a88"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2025"
+}
