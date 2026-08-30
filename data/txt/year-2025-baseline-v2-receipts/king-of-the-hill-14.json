@@ -1,0 +1,253 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt0118375",
+    "imdb_id": "tt0118375",
+    "revision": "fbeb53a0b523f937fae2f23d14689d8c5c84dd5a",
+    "wikidata_id": "Q1135966",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/King_of_the_Hill"
+  },
+  "coverage_sha256": "923eceba9a1339dfed55c93554c225a62de813ccd7e85862c6f00a243af99ac3",
+  "generated_at": "2026-08-30T14:37:29.053407+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "aao-checksum-manifest": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/SHA256SUMS",
+      "sha256": "4a4818facd85b709f0321b0a6de31b4a3eff6f108f3b9354c75632926e6baa48",
+      "size": 266728
+    },
+    "aao-release": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/release.json",
+      "sha256": "3ce0984da2d12b0e3697e76c02608bd9d1a955ee3d00e0a7054bdd297b8f18c8",
+      "size": 1342
+    },
+    "aao-verification": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-aao-verification.json",
+      "sha256": "e01294ebce8e54b65e16ab83017fa5585efe6f7a0a0f1a5e0f734e08d8e223fd",
+      "size": 854
+    },
+    "archive-map": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-cache-archive-map.json",
+      "sha256": "8d4d506f23cd80f46baf010bd17509c916083e75eb8b43b052641138c3f308f1",
+      "size": 125170
+    },
+    "btiha-metadata-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/king-of-the-hill-14-cumulative-btiha-media-objects.json",
+      "sha256": "56e1209b7181f2829926e9c71052ae7136ff535d0d1594aeb33412538c633d5b",
+      "size": 564175
+    },
+    "canonical-metadata": {
+      "path": "/tmp/alpha60-swarm-metadata-2025/metadata/king-of-the-hill-14.json",
+      "sha256": "9c59f9ac78e1334c9d385f4b62e3f78b1391976be5e860eb19fcdd1405d9a2d9",
+      "size": 13102
+    },
+    "coverage-report": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-coverage-evidence/king-of-the-hill-14.md",
+      "sha256": "1e60105281488f686454de3627bc2a7c9202662422d8e6fa1e3fdd76db5a17e7",
+      "size": 745
+    },
+    "cumulative-aggregate-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.cumulative/king-of-the-hill-14-cumulative-aggregate.geojson.gz",
+      "sha256": "a30ef5b4e7be326443b374c184487f5bc1efd29c0e93743c351b5ea69b4c35cf",
+      "size": 1019507
+    },
+    "cumulative-btiha-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.cumulative/king-of-the-hill-14-cumulative-btiha.geojson.gz",
+      "sha256": "d5c1527d39452f46fa46983b40c84c71d6f0f228f0473f79c1e183b1b8a0a67d",
+      "size": 18688880
+    },
+    "cumulative-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/king-of-the-hill-14-cumulative.json",
+      "sha256": "1812825536f8fac1c2970ac5c1e64da6e220291abfbc673b3fdea6f974681ba7",
+      "size": 15707
+    },
+    "day-bundle-receipt": {
+      "path": "/tmp/year-2025-day-bundles/king-of-the-hill-14/receipt.json",
+      "sha256": "007e2a412c8d9b43d98e594c24c4ca112e5514f7fc5eaa27c2bf8ebda47d7f8f",
+      "size": 41379
+    },
+    "ip-swarm-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/king-of-the-hill-14-cumulative-ip-swarm.json",
+      "sha256": "c4c589a4aeefd3e9ca532da4e77c49be9f7fb9d597dbfcf263309cee91031eb6",
+      "size": 41598
+    },
+    "published-day-bundle-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-day-product-receipts/king-of-the-hill-14.json",
+      "sha256": "007e2a412c8d9b43d98e594c24c4ca112e5514f7fc5eaa27c2bf8ebda47d7f8f",
+      "size": 41379
+    },
+    "week-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/king-of-the-hill-14-week.json",
+      "sha256": "e58fc76c67f2e1057cf4477d35c0c2cda7b67ab00842c27c737b538a4470e761",
+      "size": 1934082
+    }
+  },
+  "media_object": "king-of-the-hill-14",
+  "published_files": {
+    "data/csv/bytes/king-of-the-hill-14-cumulative-detail.2025-btiha-itemized-by-bytes.csv": "9f98c68148037e89e593e444e4187fb821825a1204411daef3d9fbaa90e132fb",
+    "docs/itemized/figures/king-of-the-hill-14-carto-4k.webp": "39cdbae729518a9dcac2aeb5081ec0fbda87b032a1084390a8fc0a63cfed61c2",
+    "docs/itemized/figures/king-of-the-hill-14-carto.png": "cddaa9f08975c82e2152ec2cce377c178209e61e454ab33c6c9545389245685f",
+    "docs/itemized/figures/king-of-the-hill-14-cumulative-detail-btiha-itemized-by-bytes.svg": "5a028088604a179eaf36a572ee38c00010fbf8d5398dd4e9dbee051f89e59419",
+    "docs/itemized/figures/king-of-the-hill-14-data-ge-1080p-4k.webp": "7974f68a1b01724514813cfb587653d20fbe2a8b6c325d9f70a9ecb4f0c61d8f",
+    "docs/itemized/figures/king-of-the-hill-14-data-ge-1080p.webp": "1e0bcd2a3ca20db7c7ca206cef7638d0d6c44534c85bce24491d3da7233722a3",
+    "docs/itemized/figures/king-of-the-hill-14-data-lt-1080p-4k.webp": "b1f0772d2d6726c8ea7716b50ed5643a400c3d411d7959a32beacaaf2f82ebf7",
+    "docs/itemized/figures/king-of-the-hill-14-data-lt-1080p.webp": "d8f79917dda96d31a863da56adaeb28b6cfd5f486abff68137aee5ced5684cdc",
+    "docs/itemized/figures/king-of-the-hill-14-downloads-by-day-day.svg": "d2e205eae97619f003521c229d95317847c09a0555c214d38cab23cd0ec59e07",
+    "docs/itemized/figures/king-of-the-hill-14-downloads-by-week-king-of-the-hill-14-week.svg": "fd5a5b5c89f08feb42c289d09d6659deadf114d51a1c92039d473e0b41c25b4d",
+    "docs/itemized/king-of-the-hill-14-sample-cache-audit.md": "25a87aae50f27860322ccd6a80503f2180950ec1a4b28d075a372e84e10bdd13",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-year-2025-render",
+      "revision": "c520555c40beece2e38f62878e2d4cc1b312c505",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "c192c54f882171dafc74c038ec769f1e68bf8020d12a342d2334086b5b5ee5ea",
+      "size": 36998168
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.cumulative/king-of-the-hill-14-cumulative-btiha.geojson.gz",
+        "sha256": "d5c1527d39452f46fa46983b40c84c71d6f0f228f0473f79c1e183b1b8a0a67d",
+        "size": 18688880
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/json/king-of-the-hill-14-cumulative-btiha-media-objects.json",
+        "sha256": "56e1209b7181f2829926e9c71052ae7136ff535d0d1594aeb33412538c633d5b",
+        "size": 564175
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/izzi",
+      "revision": "b988ee7fd690a74a696c27c9aadf40c204a4c780",
+      "untracked": false
+    },
+    "media_object": "king-of-the-hill-14",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60-results-2025/bin/a60-meta-collection.exe",
+      "sha256": "e71f9def936a6868d5282a5ff7dece07ade360eefa07abebde75434a927220f7",
+      "size": 8743680
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          62.0,
+          43.0,
+          37.0,
+          37.0,
+          35.0,
+          35.0,
+          29.0,
+          29.0,
+          27.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Seoul",
+          "Moscow",
+          "Istanbul",
+          "Saint Petersburg",
+          "London",
+          "Amsterdam",
+          "Ashburn",
+          "Nanjing",
+          "Shanghai",
+          "Lelystad"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          63.0,
+          44.0,
+          37.0,
+          29.0,
+          29.0,
+          29.0,
+          27.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Seoul",
+          "Moscow",
+          "Istanbul",
+          "Saint Petersburg",
+          "London",
+          "Nanjing",
+          "Shanghai",
+          "Ashburn",
+          "Amsterdam",
+          "Lelystad"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 21,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 6,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 4,
+        "x_tick_marks": 4,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 15,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "c520555c40beece2e38f62878e2d4cc1b312c505",
+    "cartofreako": "fc58111b5bfa7667b12f6ade522ae5e566b464d1",
+    "izzi": "b988ee7fd690a74a696c27c9aadf40c204a4c780",
+    "metadata": "fbeb53a0b523f937fae2f23d14689d8c5c84dd5a",
+    "results_aao_adoption": "9cd9d91a6fbb560ac2a96beadf4c83b94daf6a88"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2025"
+}
