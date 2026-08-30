@@ -1,0 +1,253 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt31688586",
+    "imdb_id": "tt31688586",
+    "revision": "fbeb53a0b523f937fae2f23d14689d8c5c84dd5a",
+    "wikidata_id": "Q125867250",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Nouvelle_Vague_(2025_film)"
+  },
+  "coverage_sha256": "d7102a779b6a4fc16c4d8f09e6bc3b8d93ad7d38ef3cb21e0b7a75093de91139",
+  "generated_at": "2026-08-30T15:28:44.249306+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "aao-checksum-manifest": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/SHA256SUMS",
+      "sha256": "4a4818facd85b709f0321b0a6de31b4a3eff6f108f3b9354c75632926e6baa48",
+      "size": 266728
+    },
+    "aao-release": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/release.json",
+      "sha256": "3ce0984da2d12b0e3697e76c02608bd9d1a955ee3d00e0a7054bdd297b8f18c8",
+      "size": 1342
+    },
+    "aao-verification": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-aao-verification.json",
+      "sha256": "e01294ebce8e54b65e16ab83017fa5585efe6f7a0a0f1a5e0f734e08d8e223fd",
+      "size": 854
+    },
+    "archive-map": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-cache-archive-map.json",
+      "sha256": "8d4d506f23cd80f46baf010bd17509c916083e75eb8b43b052641138c3f308f1",
+      "size": 125170
+    },
+    "btiha-metadata-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/nouvelle-vague-cumulative-btiha-media-objects.json",
+      "sha256": "40b669f0386a33c88eda18dce0c67fa08b74f3d03b27de35f7450ddf5e3511a5",
+      "size": 45226
+    },
+    "canonical-metadata": {
+      "path": "/tmp/alpha60-swarm-metadata-2025/metadata/nouvelle-vague.json",
+      "sha256": "ae4556430dfcba07282b699706fd278fff83c399967b2a6059439246df4b6bff",
+      "size": 6643
+    },
+    "coverage-report": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-coverage-evidence/nouvelle-vague.md",
+      "sha256": "3b66ea621fdb88f0c0c9fb56ffb25d115ad10dd87ea17c77fbc473805e9d4025",
+      "size": 739
+    },
+    "cumulative-aggregate-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.cumulative/nouvelle-vague-cumulative-aggregate.geojson.gz",
+      "sha256": "be7627f9de24443ce40069b2e1985b1bcd0c297da5ece45a8bd3a3f926ed75bc",
+      "size": 527659
+    },
+    "cumulative-btiha-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.cumulative/nouvelle-vague-cumulative-btiha.geojson.gz",
+      "sha256": "a481c840a2e274fa4769de85a6a5907f541d2beb314ee532b755100baddfe3ae",
+      "size": 1870437
+    },
+    "cumulative-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/nouvelle-vague-cumulative.json",
+      "sha256": "3107fba9af9f87daede243635342976ea3a15f9144033380ce90f08cd0939d61",
+      "size": 15565
+    },
+    "day-bundle-receipt": {
+      "path": "/tmp/year-2025-day-bundles/nouvelle-vague/receipt.json",
+      "sha256": "b07f5950cc24ab623fd3ec1889c4d89e45635c83bb44942e8917c8403ed459e4",
+      "size": 30239
+    },
+    "ip-swarm-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/nouvelle-vague-cumulative-ip-swarm.json",
+      "sha256": "3ddc2b1e34567c3c62658d134cf0e90a592747012f72c48b64d3d3264567e10d",
+      "size": 38404
+    },
+    "published-day-bundle-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-day-product-receipts/nouvelle-vague.json",
+      "sha256": "b07f5950cc24ab623fd3ec1889c4d89e45635c83bb44942e8917c8403ed459e4",
+      "size": 30239
+    },
+    "week-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/nouvelle-vague-week.json",
+      "sha256": "2fa434033f9d9e5d85ed8992296b7e1138643dbe7a55c8ce00e4634d1bffd873",
+      "size": 165575
+    }
+  },
+  "media_object": "nouvelle-vague",
+  "published_files": {
+    "data/csv/bytes/nouvelle-vague-cumulative-detail.2025-btiha-itemized-by-bytes.csv": "94d053a2d33cc5beea4a58c85011b0ef73e0a8e0208176871ddab41a8c669538",
+    "docs/itemized/figures/nouvelle-vague-carto-4k.webp": "f14691a7f1b7b8492b3825e5782d18c68a8723ed0651bfe2f0fc503abfedd7a3",
+    "docs/itemized/figures/nouvelle-vague-carto.png": "892ee23f1b74936678069d5869973d18db320f250615a186fb009bbd7067f94f",
+    "docs/itemized/figures/nouvelle-vague-cumulative-detail-btiha-itemized-by-bytes.svg": "cf1593f8ba348e9be2bb0fd9367376d8a0099897319af0a7d77c18c7c43b1fc3",
+    "docs/itemized/figures/nouvelle-vague-data-ge-1080p-4k.webp": "32ea919447830ad2b1269cc11aafa3b6b158f1cac7f8834fb522d2ebb01546bf",
+    "docs/itemized/figures/nouvelle-vague-data-ge-1080p.webp": "75cc5f24d33c817fbe83027b54a34b9a14773da769a6376fc81a300b98a27130",
+    "docs/itemized/figures/nouvelle-vague-data-lt-1080p-4k.webp": "47c7de67e2d564930e705f7cf22b6186a60c22dcee85adf44f342cb9c8ab28dc",
+    "docs/itemized/figures/nouvelle-vague-data-lt-1080p.webp": "532de886db140d0b96ef69df6c89d258cba03796db8315ac0ae039f8a25fcf93",
+    "docs/itemized/figures/nouvelle-vague-downloads-by-day-day.svg": "74d4cea8b4901c94467612d1177026148298262e331eb5cf77c0deece043f5ff",
+    "docs/itemized/figures/nouvelle-vague-downloads-by-week-nouvelle-vague-week.svg": "69b72537791a2936e85a20d222d84cc66ddf9a1994deae54b9058d510e4e3652",
+    "docs/itemized/nouvelle-vague-sample-cache-audit.md": "4c9b432af77f10382d0eb27d9a25a2e044a1fdc3e622713044b61d9dcf6ad9b7",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-year-2025-render",
+      "revision": "c520555c40beece2e38f62878e2d4cc1b312c505",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "c192c54f882171dafc74c038ec769f1e68bf8020d12a342d2334086b5b5ee5ea",
+      "size": 36998168
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.cumulative/nouvelle-vague-cumulative-btiha.geojson.gz",
+        "sha256": "a481c840a2e274fa4769de85a6a5907f541d2beb314ee532b755100baddfe3ae",
+        "size": 1870437
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/json/nouvelle-vague-cumulative-btiha-media-objects.json",
+        "sha256": "40b669f0386a33c88eda18dce0c67fa08b74f3d03b27de35f7450ddf5e3511a5",
+        "size": 45226
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/izzi",
+      "revision": "b988ee7fd690a74a696c27c9aadf40c204a4c780",
+      "untracked": false
+    },
+    "media_object": "nouvelle-vague",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60-results-2025/bin/a60-meta-collection.exe",
+      "sha256": "e71f9def936a6868d5282a5ff7dece07ade360eefa07abebde75434a927220f7",
+      "size": 8743680
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          63.0,
+          40.0,
+          36.0,
+          36.0,
+          30.0,
+          28.0,
+          27.0,
+          27.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Seoul",
+          "Moscow",
+          "Nanjing",
+          "Saint Petersburg",
+          "Istanbul",
+          "Shanghai",
+          "London",
+          "Amsterdam",
+          "Hangzhou",
+          "Ashburn"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          86.0,
+          51.0,
+          50.0,
+          50.0,
+          44.0,
+          41.0,
+          38.0,
+          34.0,
+          31.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Seoul",
+          "Moscow",
+          "Nanjing",
+          "Istanbul",
+          "Saint Petersburg",
+          "Lelystad",
+          "Shanghai",
+          "Amsterdam",
+          "Hangzhou",
+          "London"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 26,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 14,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 6,
+        "x_tick_marks": 6,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 12,
+        "y_tick_labels": 20
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "c520555c40beece2e38f62878e2d4cc1b312c505",
+    "cartofreako": "fc58111b5bfa7667b12f6ade522ae5e566b464d1",
+    "izzi": "b988ee7fd690a74a696c27c9aadf40c204a4c780",
+    "metadata": "fbeb53a0b523f937fae2f23d14689d8c5c84dd5a",
+    "results_aao_adoption": "9cd9d91a6fbb560ac2a96beadf4c83b94daf6a88"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2025"
+}
