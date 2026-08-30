@@ -1,0 +1,253 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt21638826",
+    "imdb_id": "tt21638826",
+    "revision": "fbeb53a0b523f937fae2f23d14689d8c5c84dd5a",
+    "wikidata_id": "Q116783932",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dope_Thief"
+  },
+  "coverage_sha256": "9985773a102d6f69570e06f25a740d0236d740293037a311d253c0811def30a9",
+  "generated_at": "2026-08-30T13:57:32.897167+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "aao-checksum-manifest": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/SHA256SUMS",
+      "sha256": "4a4818facd85b709f0321b0a6de31b4a3eff6f108f3b9354c75632926e6baa48",
+      "size": 266728
+    },
+    "aao-release": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/release.json",
+      "sha256": "3ce0984da2d12b0e3697e76c02608bd9d1a955ee3d00e0a7054bdd297b8f18c8",
+      "size": 1342
+    },
+    "aao-verification": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-aao-verification.json",
+      "sha256": "e01294ebce8e54b65e16ab83017fa5585efe6f7a0a0f1a5e0f734e08d8e223fd",
+      "size": 854
+    },
+    "archive-map": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-cache-archive-map.json",
+      "sha256": "8d4d506f23cd80f46baf010bd17509c916083e75eb8b43b052641138c3f308f1",
+      "size": 125170
+    },
+    "btiha-metadata-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/dope-thief-101-cumulative-btiha-media-objects.json",
+      "sha256": "dccab7ade755a7342f24de8ac68442d7c7193d6aae4a869f2436bd731a051274",
+      "size": 380539
+    },
+    "canonical-metadata": {
+      "path": "/tmp/alpha60-swarm-metadata-2025/metadata/dope-thief-101.json",
+      "sha256": "bb2b6bb7ce36ae2afeeded7076b8c5372474ae82237f9e5d4aa1c1796abbe186",
+      "size": 9770
+    },
+    "coverage-report": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-coverage-evidence/dope-thief-101.md",
+      "sha256": "dcde11ecc9cb5e99ce365b8df17375c890f1617a183700dc2bce087409b5ce3f",
+      "size": 740
+    },
+    "cumulative-aggregate-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.cumulative/dope-thief-101-cumulative-aggregate.geojson.gz",
+      "sha256": "ed3f7a4d442247de9f92a80329b59450959a2edeb285ec5b1c1f13604267a7c1",
+      "size": 1070035
+    },
+    "cumulative-btiha-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.cumulative/dope-thief-101-cumulative-btiha.geojson.gz",
+      "sha256": "fb0e72ea089df6c7215bb2af1e47d5bde1cb060d7d053d134dfc8bfeaa60d62b",
+      "size": 22853005
+    },
+    "cumulative-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/dope-thief-101-cumulative.json",
+      "sha256": "209dfe8bf76c60ee39b298003315a9ae677338258b190e24dfee9db990c6fc79",
+      "size": 15716
+    },
+    "day-bundle-receipt": {
+      "path": "/tmp/year-2025-day-bundles/dope-thief-101/receipt.json",
+      "sha256": "3804ef4133c96a86c18029e34910685d4924e21cb051bda6cf542e3c797b2f93",
+      "size": 40309
+    },
+    "ip-swarm-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/dope-thief-101-cumulative-ip-swarm.json",
+      "sha256": "4db361ad12eb60ae467635332921e18c1c3664f6c91e042e656f289f6f87a05f",
+      "size": 42280
+    },
+    "published-day-bundle-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-day-product-receipts/dope-thief-101.json",
+      "sha256": "3804ef4133c96a86c18029e34910685d4924e21cb051bda6cf542e3c797b2f93",
+      "size": 40309
+    },
+    "week-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/dope-thief-101-week.json",
+      "sha256": "9bba3fdfa7eafb1f1fc471b30e591c355f55f92e3744b49d5ccbb295d59c5447",
+      "size": 1918584
+    }
+  },
+  "media_object": "dope-thief-101",
+  "published_files": {
+    "data/csv/bytes/dope-thief-101-cumulative-detail.2025-btiha-itemized-by-bytes.csv": "cbac93780021910cc12de3b8b418ccc0fbdb1794dd34fb45262a6bed048f2e00",
+    "docs/itemized/dope-thief-101-sample-cache-audit.md": "ddef2fc5a071b6363b24e95d2ee3131617900bfc2f908986293b9d07cfd175cd",
+    "docs/itemized/figures/dope-thief-101-carto-4k.webp": "3a58577d362518353acbcb0de8f2515c23e04fc77391154e3cdacd9075f023f7",
+    "docs/itemized/figures/dope-thief-101-carto.png": "617ede41f30f3e84888af66508194c1cc55f942d5d37ec636dafa9c9aae0bfbf",
+    "docs/itemized/figures/dope-thief-101-cumulative-detail-btiha-itemized-by-bytes.svg": "6d89ab5501bdbe13e28bd164fd33d628f4ab087e4b6cc74f5587621be229afdb",
+    "docs/itemized/figures/dope-thief-101-data-ge-1080p-4k.webp": "8b5ffe5a297d38a8a38773756265b4647dc07daa4936f2bf7843dd0ae8097b7c",
+    "docs/itemized/figures/dope-thief-101-data-ge-1080p.webp": "8a9396a5b4550959311c08ee727fa9d31390ee3a2a04f774d2f2b664f7ac41a5",
+    "docs/itemized/figures/dope-thief-101-data-lt-1080p-4k.webp": "fc7c445fbc69879abe281b68cbd78d02c3b8ef5fe5b747daad96fb7ea811437c",
+    "docs/itemized/figures/dope-thief-101-data-lt-1080p.webp": "ec209b8996b652cf3635fa775a1bfb1b6476ad7e29a19f7c782a24f7986d1277",
+    "docs/itemized/figures/dope-thief-101-downloads-by-day-day.svg": "d79e33d363c06e63f4bd54b289912e5e1a8c5d951a096724cba02dcaa7083d9b",
+    "docs/itemized/figures/dope-thief-101-downloads-by-week-dope-thief-101-week.svg": "db99ec937a2d5e42afbb5977577c709653a0a0a5aa56c47c464b7afbc774061c",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-year-2025-render",
+      "revision": "c520555c40beece2e38f62878e2d4cc1b312c505",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "c192c54f882171dafc74c038ec769f1e68bf8020d12a342d2334086b5b5ee5ea",
+      "size": 36998168
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.cumulative/dope-thief-101-cumulative-btiha.geojson.gz",
+        "sha256": "fb0e72ea089df6c7215bb2af1e47d5bde1cb060d7d053d134dfc8bfeaa60d62b",
+        "size": 22853005
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/json/dope-thief-101-cumulative-btiha-media-objects.json",
+        "sha256": "dccab7ade755a7342f24de8ac68442d7c7193d6aae4a869f2436bd731a051274",
+        "size": 380539
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/izzi",
+      "revision": "b988ee7fd690a74a696c27c9aadf40c204a4c780",
+      "untracked": false
+    },
+    "media_object": "dope-thief-101",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60-results-2025/bin/a60-meta-collection.exe",
+      "sha256": "e71f9def936a6868d5282a5ff7dece07ade360eefa07abebde75434a927220f7",
+      "size": 8743680
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          88.0,
+          53.0,
+          51.0,
+          34.0,
+          31.0,
+          29.0,
+          28.0,
+          28.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Seoul",
+          "Moscow",
+          "Saint Petersburg",
+          "Istanbul",
+          "London",
+          "Lelystad",
+          "Amsterdam",
+          "Shanghai",
+          "Nanjing",
+          "Budapest"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          89.0,
+          54.0,
+          51.0,
+          33.0,
+          29.0,
+          28.0,
+          28.0,
+          27.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "Seoul",
+          "Saint Petersburg",
+          "Istanbul",
+          "London",
+          "Lelystad",
+          "Shanghai",
+          "Amsterdam",
+          "Nanjing",
+          "Budapest"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 21,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 34,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 6,
+        "x_tick_marks": 6,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 15,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "c520555c40beece2e38f62878e2d4cc1b312c505",
+    "cartofreako": "fc58111b5bfa7667b12f6ade522ae5e566b464d1",
+    "izzi": "b988ee7fd690a74a696c27c9aadf40c204a4c780",
+    "metadata": "fbeb53a0b523f937fae2f23d14689d8c5c84dd5a",
+    "results_aao_adoption": "9cd9d91a6fbb560ac2a96beadf4c83b94daf6a88"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2025"
+}

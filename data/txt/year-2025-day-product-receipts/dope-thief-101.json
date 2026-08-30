@@ -1,0 +1,1032 @@
+{
+  "archive": {
+    "path": "/home/bkoz/src/alpha60-xperiments/year-2025-archives/dope-thief-101.cache/cache.20250626.tar.xz",
+    "sha256": "b76ba7e16d9dd7913b1d3f8dc25327b168d4e2d2422e4051767e362c6fa6a4f0",
+    "size": 880125416
+  },
+  "authorization": {
+    "archive_mutated": false,
+    "excluded_member_classes": [
+      "hour",
+      "week",
+      "cumulative"
+    ],
+    "raw_samples_opened": false,
+    "scope": "read only streaming of per-torrent day records"
+  },
+  "collection_key": "dope-thief-101",
+  "day_cache_stream_contract": {
+    "authorization": {
+      "archive_mutated": false,
+      "excluded_member_classes": [
+        "hour",
+        "week",
+        "cumulative"
+      ],
+      "raw_samples_opened": false,
+      "scope": "read only streaming of per-torrent day records"
+    },
+    "available_day_products": 105,
+    "cache_members": 24032,
+    "collection_key": "dope-thief-101",
+    "first_date": "2025-03-14",
+    "first_index": 1,
+    "indices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "last_date": "2025-06-26",
+    "last_index": 105,
+    "missing_indices": [],
+    "sample_span_days": 105,
+    "schema": "alpha60-day-cache-stream-contract/1",
+    "sparse": false,
+    "status": "pass"
+  },
+  "day_product_contract": {
+    "collection_key": "dope-thief-101",
+    "day_products": 105,
+    "first_date": "2025-03-14",
+    "first_index": 1,
+    "geojson_data_version": "20260701",
+    "ip_geolocation_version": "6:1777968300",
+    "json_data_version": "2026-08-05",
+    "last_date": "2025-06-26",
+    "last_index": 105,
+    "schema": "alpha60-day-product-contract/1",
+    "sparse": false,
+    "status": "pass"
+  },
+  "publications": {
+    "data/geojson.day/dope-thief-101-day-00001.geojson.gz": {
+      "sha256": "166372898362164fdf4179e75d8f73ec595de6303a4cf1d5fd55a4590bb76e45",
+      "size": 52727
+    },
+    "data/geojson.day/dope-thief-101-day-00002.geojson.gz": {
+      "sha256": "b14c3b957851739d569d86a3757ce977c1dd01e4f7ed648c95a06fba62177cda",
+      "size": 122169
+    },
+    "data/geojson.day/dope-thief-101-day-00003.geojson.gz": {
+      "sha256": "d72b5eed22cbd362c14f77a4d39a960fc77851d38b8d629988db088e24523965",
+      "size": 142467
+    },
+    "data/geojson.day/dope-thief-101-day-00004.geojson.gz": {
+      "sha256": "f43e57a19fe555e41214302f2f534d8538561f54be1eddd7d9ebf72c913bef07",
+      "size": 185942
+    },
+    "data/geojson.day/dope-thief-101-day-00005.geojson.gz": {
+      "sha256": "faf6b36dcfd249fad5e85b130086fc0065a304778a13f9d876a7097036cc2af1",
+      "size": 187663
+    },
+    "data/geojson.day/dope-thief-101-day-00006.geojson.gz": {
+      "sha256": "82edcbcbeb14fd07a8971a8ff4530e0f33ff9aa9dfc98d7e6ccae67f6f5ed75e",
+      "size": 180933
+    },
+    "data/geojson.day/dope-thief-101-day-00007.geojson.gz": {
+      "sha256": "c8fa0942e496553e8a28ad6ae306aec4763a93372bc5755b65b9fb58d246012e",
+      "size": 189777
+    },
+    "data/geojson.day/dope-thief-101-day-00008.geojson.gz": {
+      "sha256": "c1f8041f63a04d7752bd04da17b810aaaeba3a046df00928c1608e8168470787",
+      "size": 191915
+    },
+    "data/geojson.day/dope-thief-101-day-00009.geojson.gz": {
+      "sha256": "b8b18cd604fe819a6336bbc28aa7db0ed9eafe30bf91a9e4c82f073a2cadaeeb",
+      "size": 178715
+    },
+    "data/geojson.day/dope-thief-101-day-00010.geojson.gz": {
+      "sha256": "bfda20fd29b7b003761399d0ea7e5eef57235912935aaa9327d68fe815bcc396",
+      "size": 179717
+    },
+    "data/geojson.day/dope-thief-101-day-00011.geojson.gz": {
+      "sha256": "ef1078cc78a1dc80d7070dad39858bc4a10056ccd02fcc69d13e2a3f93eddc18",
+      "size": 233081
+    },
+    "data/geojson.day/dope-thief-101-day-00012.geojson.gz": {
+      "sha256": "ba5152374a9b7ecf29925385ee8db78a1f7cc9c4bf8d590946947edb9af36e45",
+      "size": 220418
+    },
+    "data/geojson.day/dope-thief-101-day-00013.geojson.gz": {
+      "sha256": "5cd297992845fb25cd9d75b9d1592664f8ad825fc0162a9cc77745b12bb8fcde",
+      "size": 184269
+    },
+    "data/geojson.day/dope-thief-101-day-00014.geojson.gz": {
+      "sha256": "a2624a34a85ae1b35cccaf687c6e3249ed130cc6ac6776f5d0de971810509295",
+      "size": 195524
+    },
+    "data/geojson.day/dope-thief-101-day-00015.geojson.gz": {
+      "sha256": "31d71d784d9e5fdd38157fb3870dc3357991ead820536e9ecf18fdb0778b2a47",
+      "size": 196496
+    },
+    "data/geojson.day/dope-thief-101-day-00016.geojson.gz": {
+      "sha256": "2b36dc24c6d5fb82c821aee4258572b03f8693e9d153067bd319512cc7430dd9",
+      "size": 200334
+    },
+    "data/geojson.day/dope-thief-101-day-00017.geojson.gz": {
+      "sha256": "31e7d68006eb12951919b0a01096135054bc2be1ea96abfbd06507e8b44410be",
+      "size": 190615
+    },
+    "data/geojson.day/dope-thief-101-day-00018.geojson.gz": {
+      "sha256": "813670ca3f7f594fe8265c46716d465e553f837c8d470ead0d38e4c9636ac4b5",
+      "size": 217794
+    },
+    "data/geojson.day/dope-thief-101-day-00019.geojson.gz": {
+      "sha256": "a3d7698abf43a2d490d7d85462822a1935ab51c755b90bf8a82725ad2b5cde8f",
+      "size": 229634
+    },
+    "data/geojson.day/dope-thief-101-day-00020.geojson.gz": {
+      "sha256": "96be0484ff423434ea26efef3de9843cd51671d5bb5ef18343e69098d9dbe4ea",
+      "size": 227388
+    },
+    "data/geojson.day/dope-thief-101-day-00021.geojson.gz": {
+      "sha256": "6eef8aaf3c28c1d032c482c0a4447004e866dd6eed4a1cf60b0a24e1974c83c9",
+      "size": 221167
+    },
+    "data/geojson.day/dope-thief-101-day-00022.geojson.gz": {
+      "sha256": "65cb0fd9a8d0f03291d7ceec015179e281a748118219b4ebd7ef07278bfdae94",
+      "size": 211658
+    },
+    "data/geojson.day/dope-thief-101-day-00023.geojson.gz": {
+      "sha256": "4f27a33e423c4afeee02a90b684d0cbb6cb72cbb18b70f5a8b716f8ebf9d77b2",
+      "size": 194147
+    },
+    "data/geojson.day/dope-thief-101-day-00024.geojson.gz": {
+      "sha256": "ddb1db609bc0021d7cdd22db79983dce3392f07c33e9e495033186b83be228cc",
+      "size": 197499
+    },
+    "data/geojson.day/dope-thief-101-day-00025.geojson.gz": {
+      "sha256": "3b8acdaa831d3a682899d736146692928f9c68d0afc575d7bcdb3d8136b36d57",
+      "size": 219963
+    },
+    "data/geojson.day/dope-thief-101-day-00026.geojson.gz": {
+      "sha256": "7cea9eaf70723ef103dcfb0834b55339fc44741f07d26c4ad937bdde83944166",
+      "size": 219082
+    },
+    "data/geojson.day/dope-thief-101-day-00027.geojson.gz": {
+      "sha256": "9fa54dbdb7f3d19611f8b5b1da27ac7068d71dddcb93fc3f53f96f9076b22be7",
+      "size": 226061
+    },
+    "data/geojson.day/dope-thief-101-day-00028.geojson.gz": {
+      "sha256": "da52f1914d1ae857ebef3848c27c481900030b7e29916ac981a9158d0e7244b1",
+      "size": 213103
+    },
+    "data/geojson.day/dope-thief-101-day-00029.geojson.gz": {
+      "sha256": "3779da10eb0cf90878d3b572af3869fc8ff1f1e260429c1663673a7e9677bad1",
+      "size": 212793
+    },
+    "data/geojson.day/dope-thief-101-day-00030.geojson.gz": {
+      "sha256": "d611c8a8470e3622a7b5acf0ccbacc1e2a060102f1aa81050e75619d37ed062a",
+      "size": 199022
+    },
+    "data/geojson.day/dope-thief-101-day-00031.geojson.gz": {
+      "sha256": "8b4e0e290ff582b35128209ef7de6ad6c8169e1881927ef92c45127e2c264537",
+      "size": 203400
+    },
+    "data/geojson.day/dope-thief-101-day-00032.geojson.gz": {
+      "sha256": "62db5def5b922fcac817883585c4bfbb376ad624806a21ffdd13dde89fa9ac08",
+      "size": 216759
+    },
+    "data/geojson.day/dope-thief-101-day-00033.geojson.gz": {
+      "sha256": "a9a351aea517fcb88b9d3cc1e60d3358d19ea70a0946577dbfb1a5c4249154cb",
+      "size": 213476
+    },
+    "data/geojson.day/dope-thief-101-day-00034.geojson.gz": {
+      "sha256": "b3fddaa96e80e315fbf7589b6aff56c594bdc1d1ee2743de6472c032597b8e80",
+      "size": 199820
+    },
+    "data/geojson.day/dope-thief-101-day-00035.geojson.gz": {
+      "sha256": "dd3f4ff06d7894b9cbb08491319c196ce96f2c6b347760fde354749148d3df3c",
+      "size": 169061
+    },
+    "data/geojson.day/dope-thief-101-day-00036.geojson.gz": {
+      "sha256": "9cbfd855e030523b72041965c17a8961100932045a2e0684ff4d78c50e267e5b",
+      "size": 181717
+    },
+    "data/geojson.day/dope-thief-101-day-00037.geojson.gz": {
+      "sha256": "893379913e505e29bc81c7d74bec1f19ccbdac24aca709fd22024d9926984b42",
+      "size": 185094
+    },
+    "data/geojson.day/dope-thief-101-day-00038.geojson.gz": {
+      "sha256": "88c639de482de7215900a44b8eade981eb99053c9305bc31f3146a9c3d91f285",
+      "size": 192100
+    },
+    "data/geojson.day/dope-thief-101-day-00039.geojson.gz": {
+      "sha256": "8b11aed3a6b752040871ac755f8f6dc36f54df975bc938055ef550c474414065",
+      "size": 220700
+    },
+    "data/geojson.day/dope-thief-101-day-00040.geojson.gz": {
+      "sha256": "62cbafa90da01a6e89857ba9475086dddef0f8ea2ca49f670d2d98d0ab46fcff",
+      "size": 205466
+    },
+    "data/geojson.day/dope-thief-101-day-00041.geojson.gz": {
+      "sha256": "4784dfd58e103e680bed134912152319d0ce1d492199a39fe817e33b772814eb",
+      "size": 210534
+    },
+    "data/geojson.day/dope-thief-101-day-00042.geojson.gz": {
+      "sha256": "08e3bb9801a14d876cc7500d14cd89a866762bc162783802b4e3176e3b3e0bd4",
+      "size": 211606
+    },
+    "data/geojson.day/dope-thief-101-day-00043.geojson.gz": {
+      "sha256": "844a2ef877f03d3641d773e4c244fb3011835415b4185082f9e8d747be6d5995",
+      "size": 205702
+    },
+    "data/geojson.day/dope-thief-101-day-00044.geojson.gz": {
+      "sha256": "f216f7c5282a569288ef813c250618d2f303686cf6a79cddffc81e867375c765",
+      "size": 193726
+    },
+    "data/geojson.day/dope-thief-101-day-00045.geojson.gz": {
+      "sha256": "f14a0ba54e6ac9ddadf1c0edb1cf6fbeda0fb5f09865d210e7020143f65f4f05",
+      "size": 185831
+    },
+    "data/geojson.day/dope-thief-101-day-00046.geojson.gz": {
+      "sha256": "0a5a898c8feaea5986a711431041ed32c62a2abac35f413884383904a7dd8233",
+      "size": 216327
+    },
+    "data/geojson.day/dope-thief-101-day-00047.geojson.gz": {
+      "sha256": "97c9c60620d1bccfdcd0bddec4b71f538d3f0589a136db28ab83d5c4e1023bb5",
+      "size": 228227
+    },
+    "data/geojson.day/dope-thief-101-day-00048.geojson.gz": {
+      "sha256": "c7c2d643aefebc0c40e066d49835423f96fb5e9a1b3d0cab5b00dcaa57f92bfd",
+      "size": 204351
+    },
+    "data/geojson.day/dope-thief-101-day-00049.geojson.gz": {
+      "sha256": "8b9e93850a6e4f641eaf753917f9497b96d0f1c6b1b87a008d459ba07441b54e",
+      "size": 196099
+    },
+    "data/geojson.day/dope-thief-101-day-00050.geojson.gz": {
+      "sha256": "d7bdcfd70af1e0f4a9dc63b29a0dadfdac8ac2a0a235f0cbe7a27d57268aba13",
+      "size": 202688
+    },
+    "data/geojson.day/dope-thief-101-day-00051.geojson.gz": {
+      "sha256": "cc33ff5a298e65224a545f586813e6b885793ddb3fb7a627b6e6770de6414929",
+      "size": 189320
+    },
+    "data/geojson.day/dope-thief-101-day-00052.geojson.gz": {
+      "sha256": "2b55c3ad71f4e18c728d2ec0ab1e812862f2a57bae8e43e2fc559f50285dacfb",
+      "size": 194111
+    },
+    "data/geojson.day/dope-thief-101-day-00053.geojson.gz": {
+      "sha256": "0d0ee417826ff7d6fe12d5a483b04fa7445693c7a02677fbffa819f8f40d36fe",
+      "size": 211051
+    },
+    "data/geojson.day/dope-thief-101-day-00054.geojson.gz": {
+      "sha256": "cbadfec388e441485c6f06dcfb590a541a315235acc37ec585a759109caf3492",
+      "size": 204824
+    },
+    "data/geojson.day/dope-thief-101-day-00055.geojson.gz": {
+      "sha256": "7f62a573dc79559e734208a63769d985ad5301462d3ec815b8909e24155aa61a",
+      "size": 208848
+    },
+    "data/geojson.day/dope-thief-101-day-00056.geojson.gz": {
+      "sha256": "229bfc22389107e687047a86547658c2a0dd59500fad0c59f69cac285daf3ceb",
+      "size": 184552
+    },
+    "data/geojson.day/dope-thief-101-day-00057.geojson.gz": {
+      "sha256": "d1593f963086746f5565402c2615fa77a7f69698eddd1a803116acaed2e54b53",
+      "size": 185735
+    },
+    "data/geojson.day/dope-thief-101-day-00058.geojson.gz": {
+      "sha256": "e7d0631f6c480934c0a766f97fd920f4cd6f5864a1e969cfd722ee9ba72b7f57",
+      "size": 169044
+    },
+    "data/geojson.day/dope-thief-101-day-00059.geojson.gz": {
+      "sha256": "45d2c30386fe89358f45ecec1d1cde499e54f1f2f39466f9bf544d94d9a3ba48",
+      "size": 190196
+    },
+    "data/geojson.day/dope-thief-101-day-00060.geojson.gz": {
+      "sha256": "b796262543ab0805fe6f58fbd7ce300c23335e28e9b8f35b63961b5844c8eea0",
+      "size": 208327
+    },
+    "data/geojson.day/dope-thief-101-day-00061.geojson.gz": {
+      "sha256": "e10e790da521ccd7672a7c47e4e3f5ec26bfc2fe4b361189a93abd90a69d622a",
+      "size": 205812
+    },
+    "data/geojson.day/dope-thief-101-day-00062.geojson.gz": {
+      "sha256": "553d57152e76a9de01c4c2ef5d72f5ca6a768a68e7589e0f95ebe142d7be14c5",
+      "size": 213174
+    },
+    "data/geojson.day/dope-thief-101-day-00063.geojson.gz": {
+      "sha256": "33057473f9cdef73ed285e0765ae977fd2aa2572cfcb7ddf4ccaa921f18a75da",
+      "size": 218843
+    },
+    "data/geojson.day/dope-thief-101-day-00064.geojson.gz": {
+      "sha256": "0e88d3b068d5251aa1844e1f650aaa4f78b47e0925ed9b7a8dfcf61f3e8c0269",
+      "size": 204968
+    },
+    "data/geojson.day/dope-thief-101-day-00065.geojson.gz": {
+      "sha256": "14b1ba212739ba6415c2fc69f4f0868c26db945b9b16e074d14fe3f0cb199053",
+      "size": 190651
+    },
+    "data/geojson.day/dope-thief-101-day-00066.geojson.gz": {
+      "sha256": "4b4b78107a9776191af0bfcbcd76151a88e77106cb2a7f0b3df96a462f2d2dc7",
+      "size": 190037
+    },
+    "data/geojson.day/dope-thief-101-day-00067.geojson.gz": {
+      "sha256": "a796a3ad4af8a602b59de1aea80619ccd1f275ac4e454d9333970613617104a0",
+      "size": 216298
+    },
+    "data/geojson.day/dope-thief-101-day-00068.geojson.gz": {
+      "sha256": "4a22c9e055bc112dd259364d160f52ca7aedaa523c67251b7ad478ae162fbafc",
+      "size": 207815
+    },
+    "data/geojson.day/dope-thief-101-day-00069.geojson.gz": {
+      "sha256": "9d7b646c38e05234802f192c8d381b4276cdcc2e4f50a907b2f7da706374d52e",
+      "size": 181222
+    },
+    "data/geojson.day/dope-thief-101-day-00070.geojson.gz": {
+      "sha256": "d8d862859bf74392938c229e14a50689b3ae5565e037cdc18ac1ee3b36706ef6",
+      "size": 189499
+    },
+    "data/geojson.day/dope-thief-101-day-00071.geojson.gz": {
+      "sha256": "b5b4ae25fa5c5ce90f93de7e2484bff322d924eba4c61996056aa9d11c3a3396",
+      "size": 188592
+    },
+    "data/geojson.day/dope-thief-101-day-00072.geojson.gz": {
+      "sha256": "8179ba0450ad9c691e3e9a35f7cd4ef6230de58dce68ae5ccbb61e47600587cf",
+      "size": 172672
+    },
+    "data/geojson.day/dope-thief-101-day-00073.geojson.gz": {
+      "sha256": "74725e952638d4185c0ee61f9d286421befaed616020be8c34019199c35e2c6b",
+      "size": 180624
+    },
+    "data/geojson.day/dope-thief-101-day-00074.geojson.gz": {
+      "sha256": "1304fc4d720f47e8d440597683e4ab6a92f25a8d7afdd884e7095781243c1b64",
+      "size": 185141
+    },
+    "data/geojson.day/dope-thief-101-day-00075.geojson.gz": {
+      "sha256": "4e200a5209fc7da2a64a427e4a656ee16631f2784a49697ae2ee3c86a34ee9cf",
+      "size": 178418
+    },
+    "data/geojson.day/dope-thief-101-day-00076.geojson.gz": {
+      "sha256": "486048459f8311f11b6ec8ce73fbda64d141eb7f39cff49ebc0acaa0b2598ddc",
+      "size": 166837
+    },
+    "data/geojson.day/dope-thief-101-day-00077.geojson.gz": {
+      "sha256": "3c9d87f7deefa4170afd34f0be1a0ca28fd9533a0d270483c4cb3f784c0fec40",
+      "size": 165305
+    },
+    "data/geojson.day/dope-thief-101-day-00078.geojson.gz": {
+      "sha256": "9d5018495a32118ce750012d02392037df36d031c399a2c6ee1f16a2bb4ad568",
+      "size": 168989
+    },
+    "data/geojson.day/dope-thief-101-day-00079.geojson.gz": {
+      "sha256": "3967ed0ada1436fd335e5f27257098a700a6af4c893d93735e47710bd1d85138",
+      "size": 165571
+    },
+    "data/geojson.day/dope-thief-101-day-00080.geojson.gz": {
+      "sha256": "be8544427f882982c5d61345926834db6a9ee887fa5f48aa94895715c54d4456",
+      "size": 174108
+    },
+    "data/geojson.day/dope-thief-101-day-00081.geojson.gz": {
+      "sha256": "bf959e312b8dc3a1efecbc405b7f674f91bcdc28f5dce16d80b08c82e1dbf26b",
+      "size": 196113
+    },
+    "data/geojson.day/dope-thief-101-day-00082.geojson.gz": {
+      "sha256": "916447e47f1a373d61a4ade3b178c8514f028c216fb926d466adb3fca5bbc47d",
+      "size": 197545
+    },
+    "data/geojson.day/dope-thief-101-day-00083.geojson.gz": {
+      "sha256": "82fa1b31e52c1fa8217ca96deb0455617f2f47917cd7a95612eb3217ce334787",
+      "size": 189792
+    },
+    "data/geojson.day/dope-thief-101-day-00084.geojson.gz": {
+      "sha256": "f7d59ed2f742f4e768317de92eb932bdaa4e9fb8ec0e50cab6226a1f9e0c00d1",
+      "size": 216410
+    },
+    "data/geojson.day/dope-thief-101-day-00085.geojson.gz": {
+      "sha256": "501a57270c5e23499ad26a38f599fc905f186641fb06ffb51f79e42e470db29f",
+      "size": 200992
+    },
+    "data/geojson.day/dope-thief-101-day-00086.geojson.gz": {
+      "sha256": "79089413801f0144bbfa34bf70263025ac994c8370fe008f597905de6ce8f8d7",
+      "size": 192357
+    },
+    "data/geojson.day/dope-thief-101-day-00087.geojson.gz": {
+      "sha256": "f86625d65f14c1ae70807c56624abb8c44831aec5bbf743bd10628e7c3ddbf97",
+      "size": 179484
+    },
+    "data/geojson.day/dope-thief-101-day-00088.geojson.gz": {
+      "sha256": "d303d1a770dcb874def53ed52fbb0e20b405337cca9d3cd43a5eab06d46f059e",
+      "size": 201426
+    },
+    "data/geojson.day/dope-thief-101-day-00089.geojson.gz": {
+      "sha256": "3945fb3131275bfcc19d8eaab1d2ed2c7d0a90ce6d4632228406dfe6fa634431",
+      "size": 198956
+    },
+    "data/geojson.day/dope-thief-101-day-00090.geojson.gz": {
+      "sha256": "656d408f1b9b2e9a0274f0a678b57699bfc1381aeda612981c8f7c37c8e3ffbe",
+      "size": 207012
+    },
+    "data/geojson.day/dope-thief-101-day-00091.geojson.gz": {
+      "sha256": "6dd7cd00108840a8fcf4f530930fb2caa2a9293eb5a97ad4c6c55df3a09223f1",
+      "size": 194044
+    },
+    "data/geojson.day/dope-thief-101-day-00092.geojson.gz": {
+      "sha256": "6625d52413db775104c1a628d4e90039b1425ab62698050049aae0544abcd0fd",
+      "size": 172208
+    },
+    "data/geojson.day/dope-thief-101-day-00093.geojson.gz": {
+      "sha256": "c14f6bbbe201bd4a7db6dd7c93831619ca2701a6f8719f614b7636bfd95b25a2",
+      "size": 172473
+    },
+    "data/geojson.day/dope-thief-101-day-00094.geojson.gz": {
+      "sha256": "16ace75061291417ec535b7b312b69e4c223aa5bd33ac3ebb181145206a74cd1",
+      "size": 175445
+    },
+    "data/geojson.day/dope-thief-101-day-00095.geojson.gz": {
+      "sha256": "003ada2fc716911d79e937d26a8d72189bc0fd2dc28b57ac3f515866315e1958",
+      "size": 202507
+    },
+    "data/geojson.day/dope-thief-101-day-00096.geojson.gz": {
+      "sha256": "50caf4fe27b267376f42cc94bd4f79f4e29e2ad75467894be2a2ecf4c304eebd",
+      "size": 216731
+    },
+    "data/geojson.day/dope-thief-101-day-00097.geojson.gz": {
+      "sha256": "35ff6d3fd32cbd1d0cc16e7908166b100636c2d0974c11574d8dc8a076c708d3",
+      "size": 186313
+    },
+    "data/geojson.day/dope-thief-101-day-00098.geojson.gz": {
+      "sha256": "32a2195650999a991584876ea5b495a456ce26ef35533fab731fc6416d24496f",
+      "size": 198449
+    },
+    "data/geojson.day/dope-thief-101-day-00099.geojson.gz": {
+      "sha256": "e5edfa28736b190e27dfe33778308aacf15d51d239b1856fabd641e4aad1ed72",
+      "size": 206672
+    },
+    "data/geojson.day/dope-thief-101-day-00100.geojson.gz": {
+      "sha256": "048a67cb54c59be5a3cc948940d0fd781bbd7951b7889e55b8e5942c48b997d9",
+      "size": 185032
+    },
+    "data/geojson.day/dope-thief-101-day-00101.geojson.gz": {
+      "sha256": "76050598b4f2bde50b6845da15aba909791cb42ed7c3ceb219b56714a27c1f22",
+      "size": 187941
+    },
+    "data/geojson.day/dope-thief-101-day-00102.geojson.gz": {
+      "sha256": "c095f59c423d54784f3dea4726b99b3658c0d734a56a9da7b816f45c6671e026",
+      "size": 215019
+    },
+    "data/geojson.day/dope-thief-101-day-00103.geojson.gz": {
+      "sha256": "4906c4b2773e0d40ddfd17e6fecd58f7286a1bdc5d9b3998c2dede2f227124f1",
+      "size": 200215
+    },
+    "data/geojson.day/dope-thief-101-day-00104.geojson.gz": {
+      "sha256": "3aa006d1ebcd82bf7fd259254558bc3008ffa5fd3a595f7bf5741568338506f7",
+      "size": 207365
+    },
+    "data/geojson.day/dope-thief-101-day-00105.geojson.gz": {
+      "sha256": "c34aa890968442561a83cb287ea7e9cef2f47819e310e266dc209453b510fb51",
+      "size": 195848
+    },
+    "data/json/dope-thief-101-swarm-day-00001-2025-03-14.json": {
+      "sha256": "1f4f7b7576dce2419fd4e4e93b9d6414f40afb60ade3982d4bcd16ca40fffbcd",
+      "size": 440
+    },
+    "data/json/dope-thief-101-swarm-day-00002-2025-03-15.json": {
+      "sha256": "8ad01e92757143186c3c516c76b59ef614f2cdf13655d1b07b9341ff644d034e",
+      "size": 442
+    },
+    "data/json/dope-thief-101-swarm-day-00003-2025-03-16.json": {
+      "sha256": "d01aa6613b08d1a69fdad70665e5ecc1c426b1dc2e441bff9d799040aa475cd5",
+      "size": 443
+    },
+    "data/json/dope-thief-101-swarm-day-00004-2025-03-17.json": {
+      "sha256": "e55960571978b5e8817714b4ea65ef1aeddefc8ab319e6954a44a92263308d32",
+      "size": 443
+    },
+    "data/json/dope-thief-101-swarm-day-00005-2025-03-18.json": {
+      "sha256": "8bc82a92aa86ca46ec9de5e7effb8ac6935cd682bd023ad5bd81e1f5e954f051",
+      "size": 443
+    },
+    "data/json/dope-thief-101-swarm-day-00006-2025-03-19.json": {
+      "sha256": "d3711583e27f44d2c4ba36f33a963fe4a0eef0d01d7b1e6f8e3218430eaf81cb",
+      "size": 443
+    },
+    "data/json/dope-thief-101-swarm-day-00007-2025-03-20.json": {
+      "sha256": "c63a3a6e93329523e9bb30030f977c48c1664a8a8ff41e85457be32243a23dcf",
+      "size": 443
+    },
+    "data/json/dope-thief-101-swarm-day-00008-2025-03-21.json": {
+      "sha256": "c8d61a67852f35c35305a00d7d603802e6911d8b8a5eb3d6ad1856e191554bc6",
+      "size": 443
+    },
+    "data/json/dope-thief-101-swarm-day-00009-2025-03-22.json": {
+      "sha256": "9655a2592a3c5a7eb8e2f788da88069d987e55bd023d91bf3f19a0e6f4054a2f",
+      "size": 443
+    },
+    "data/json/dope-thief-101-swarm-day-00010-2025-03-23.json": {
+      "sha256": "7aeeed3e5f7af874dec84323f9bea4f0c9cc7f74cb687410e2b9199563600c3d",
+      "size": 444
+    },
+    "data/json/dope-thief-101-swarm-day-00011-2025-03-24.json": {
+      "sha256": "e117915449584bbf4cb9fd5c0f535cf416cde3fdf7aa6e1db02733b86480946c",
+      "size": 444
+    },
+    "data/json/dope-thief-101-swarm-day-00012-2025-03-25.json": {
+      "sha256": "4e1fedabdfd3168a70a88bd86979613bb21ff0b852808642364adac20f4f9a0c",
+      "size": 444
+    },
+    "data/json/dope-thief-101-swarm-day-00013-2025-03-26.json": {
+      "sha256": "02c73d9b662db7e3b2c4ceb723c58b58ad8672c36e5a06ce97ae3b77b9088a42",
+      "size": 444
+    },
+    "data/json/dope-thief-101-swarm-day-00014-2025-03-27.json": {
+      "sha256": "e7c160d65c5285346d40ec407ee17e29d1a9b0048e50c0c13ca27b273d0d9159",
+      "size": 444
+    },
+    "data/json/dope-thief-101-swarm-day-00015-2025-03-28.json": {
+      "sha256": "69ac82979790d9862af6b847b44c731bc91eb396642e901d90f204cc38fc7714",
+      "size": 444
+    },
+    "data/json/dope-thief-101-swarm-day-00016-2025-03-29.json": {
+      "sha256": "c2a3da4fc30d4ded38e986557c8185658862cc870c1db94aa2a62666827d3c4f",
+      "size": 444
+    },
+    "data/json/dope-thief-101-swarm-day-00017-2025-03-30.json": {
+      "sha256": "4163d7de70491b2fb19e3ecca32e529f43def2bd951873b55787d9184e1c9c02",
+      "size": 444
+    },
+    "data/json/dope-thief-101-swarm-day-00018-2025-03-31.json": {
+      "sha256": "1e5dcedb349500c5fee323276c012c8cffeabf3d469e3b6a818fc73eef718c9d",
+      "size": 444
+    },
+    "data/json/dope-thief-101-swarm-day-00019-2025-04-01.json": {
+      "sha256": "15305fbbab1253f9a2209eb3c168026164f4e16e77e5ffaa177161851750814d",
+      "size": 444
+    },
+    "data/json/dope-thief-101-swarm-day-00020-2025-04-02.json": {
+      "sha256": "5b483f1e987b72ed85b70e23aeec32466142c31061a49ef48a50b0e6ac872b3e",
+      "size": 444
+    },
+    "data/json/dope-thief-101-swarm-day-00021-2025-04-03.json": {
+      "sha256": "c19f4930535c2cd5aa1262f4a173aa90f9f517e554e4a797d04736fa1cafb7ae",
+      "size": 444
+    },
+    "data/json/dope-thief-101-swarm-day-00022-2025-04-04.json": {
+      "sha256": "0a59ec433fe7c4f76926dc65c4722d10fdcaad85903482043cae41b613cf8454",
+      "size": 444
+    },
+    "data/json/dope-thief-101-swarm-day-00023-2025-04-05.json": {
+      "sha256": "8bc7fc820e97afe574d003786fbbf50dfb40e1a17938dc4eba89cbf0451dcf5f",
+      "size": 444
+    },
+    "data/json/dope-thief-101-swarm-day-00024-2025-04-06.json": {
+      "sha256": "6e381cb39c3571932b0b995831778235ac5421e03159fa3fd1121f2b0e5acc36",
+      "size": 444
+    },
+    "data/json/dope-thief-101-swarm-day-00025-2025-04-07.json": {
+      "sha256": "f798e2d6cda703ee82b3a30f9e8edb9a0fd5b9d3437d236cf1b4cf0d30963305",
+      "size": 444
+    },
+    "data/json/dope-thief-101-swarm-day-00026-2025-04-08.json": {
+      "sha256": "83db9bb0f26c2352f0aa8645f1d523c71d4e5ca325ee1cea5825e6535396c8f0",
+      "size": 444
+    },
+    "data/json/dope-thief-101-swarm-day-00027-2025-04-09.json": {
+      "sha256": "4bee330fdf81f27c1f27ce3d36f6b086e7e32fc8d9def189b53089b3abcda800",
+      "size": 444
+    },
+    "data/json/dope-thief-101-swarm-day-00028-2025-04-10.json": {
+      "sha256": "f835711a95310157b1d93e0e86b011f1bdabd1e5d9de4cda92e209b8bf772645",
+      "size": 444
+    },
+    "data/json/dope-thief-101-swarm-day-00029-2025-04-11.json": {
+      "sha256": "b538fdd65b6d5c5bdb1c279a59b9b7edee1619f3cb80445e1bd51d800eae6c51",
+      "size": 444
+    },
+    "data/json/dope-thief-101-swarm-day-00030-2025-04-12.json": {
+      "sha256": "4f9817e415a09247bebfee7184a410c05a738075a4920fa75052163ced53901d",
+      "size": 444
+    },
+    "data/json/dope-thief-101-swarm-day-00031-2025-04-13.json": {
+      "sha256": "37c9e3da967f4234e5fcba50e47bd8af9beebdfab9614b28f43bedfe88b2734f",
+      "size": 444
+    },
+    "data/json/dope-thief-101-swarm-day-00032-2025-04-14.json": {
+      "sha256": "3fc955989dacbb4a6960d07c003d331d35e4eac2c686e4c548cef1f8e86ac1b6",
+      "size": 444
+    },
+    "data/json/dope-thief-101-swarm-day-00033-2025-04-15.json": {
+      "sha256": "aafedc79d8d71527dfb9b758f122b2bc19124e6022a2963b1aede4d2af46ed88",
+      "size": 444
+    },
+    "data/json/dope-thief-101-swarm-day-00034-2025-04-16.json": {
+      "sha256": "6da909a4bcc5e5a83dc41f2ef44018a8268a076aae4d13f45ec7fbf4f859b037",
+      "size": 444
+    },
+    "data/json/dope-thief-101-swarm-day-00035-2025-04-17.json": {
+      "sha256": "2c8e48eb87a38cf085179cab05bee3afc01d2de1c210b0ef0c23eb62b8defa03",
+      "size": 444
+    },
+    "data/json/dope-thief-101-swarm-day-00036-2025-04-18.json": {
+      "sha256": "6e7d62707292ace16b40a4e3e5256e09651d526fd3f35793f633fc9428faf08b",
+      "size": 444
+    },
+    "data/json/dope-thief-101-swarm-day-00037-2025-04-19.json": {
+      "sha256": "0ff1ed247692500842328f2e9d9d99ec6bc22703e0b3f4787d01ade336f1c986",
+      "size": 444
+    },
+    "data/json/dope-thief-101-swarm-day-00038-2025-04-20.json": {
+      "sha256": "ed133a9203e90787e91ff04106b6d7c7013dc2a37846d69d187707d6d0e00569",
+      "size": 444
+    },
+    "data/json/dope-thief-101-swarm-day-00039-2025-04-21.json": {
+      "sha256": "3233977fb7d8638375ac82a7bee1aaab243bedc1acd1e7556ccf2614c3fd0b1e",
+      "size": 444
+    },
+    "data/json/dope-thief-101-swarm-day-00040-2025-04-22.json": {
+      "sha256": "efc07609954f9d6995061aff17f1d690b4c0ff35ce2f1d673a1fcdc6d7ae2ae0",
+      "size": 444
+    },
+    "data/json/dope-thief-101-swarm-day-00041-2025-04-23.json": {
+      "sha256": "8c5c9facc5147e1b6447bf29a08b7f50820a7c4289dee0bc634dd8b38b511c29",
+      "size": 444
+    },
+    "data/json/dope-thief-101-swarm-day-00042-2025-04-24.json": {
+      "sha256": "f0e346d75d483fb6f6dea42e4a07c9b7bf5c831b3a8366d21f4098b5aee4107f",
+      "size": 444
+    },
+    "data/json/dope-thief-101-swarm-day-00043-2025-04-25.json": {
+      "sha256": "d4e812a9f9abfb4dbfac7642e092a79eb901872cd7bfbe4f93e0592f2d1d7937",
+      "size": 444
+    },
+    "data/json/dope-thief-101-swarm-day-00044-2025-04-26.json": {
+      "sha256": "50980de0433d223d10a17219b59b90944d31a50737a2d6b50d39b49a8ca0975a",
+      "size": 444
+    },
+    "data/json/dope-thief-101-swarm-day-00045-2025-04-27.json": {
+      "sha256": "345c74ec69202ebf22d18518f27ae040d6ea11af5015de48fa1f2681aafc5b1e",
+      "size": 444
+    },
+    "data/json/dope-thief-101-swarm-day-00046-2025-04-28.json": {
+      "sha256": "5240ab9c7284180f0728f10551064beb4c7fbbcef2d06caddace0bd49ebb7f2a",
+      "size": 444
+    },
+    "data/json/dope-thief-101-swarm-day-00047-2025-04-29.json": {
+      "sha256": "9b8f28796daf4c42b0179b88107ce53baed4422f2762b77799a1f6952e3af539",
+      "size": 444
+    },
+    "data/json/dope-thief-101-swarm-day-00048-2025-04-30.json": {
+      "sha256": "0ebf054f4cb3fad0af063cb956c07bb5f67e308d6425545c53c11ae51bb96675",
+      "size": 444
+    },
+    "data/json/dope-thief-101-swarm-day-00049-2025-05-01.json": {
+      "sha256": "6c0cbc149f22e6a5df6dd7932cda631c4a786c9492b26b934c7102f9f23c8691",
+      "size": 444
+    },
+    "data/json/dope-thief-101-swarm-day-00050-2025-05-02.json": {
+      "sha256": "09e6c8181646c84daf38c0dd7c9a1e2af3d3691f8057029993264baf15035e4b",
+      "size": 444
+    },
+    "data/json/dope-thief-101-swarm-day-00051-2025-05-03.json": {
+      "sha256": "35ead0a83368429c756496c561cbd0e6b0a35f3e75f28d6f7ccfcd03741347c5",
+      "size": 444
+    },
+    "data/json/dope-thief-101-swarm-day-00052-2025-05-04.json": {
+      "sha256": "92cfdb6c295266703afcaee89adc7d3075bae3f6bba00e06b5463a301b400f27",
+      "size": 444
+    },
+    "data/json/dope-thief-101-swarm-day-00053-2025-05-05.json": {
+      "sha256": "feef9ecd4daa7cb5dbf73d65ef340e1cc2a646238f278c0a73892a27a6e609c7",
+      "size": 444
+    },
+    "data/json/dope-thief-101-swarm-day-00054-2025-05-06.json": {
+      "sha256": "62245d0b02cd3b44c4769892769b086f01d423d0c7685e1555f1231139084820",
+      "size": 444
+    },
+    "data/json/dope-thief-101-swarm-day-00055-2025-05-07.json": {
+      "sha256": "4ebef844137b0d0000282f725ac4376280370ac91b3d7455d539a268be9cc19c",
+      "size": 444
+    },
+    "data/json/dope-thief-101-swarm-day-00056-2025-05-08.json": {
+      "sha256": "e1da1f1e20cf3e92a9528f82bff47e3824c6765481876a6d991ed0d09b42a36b",
+      "size": 444
+    },
+    "data/json/dope-thief-101-swarm-day-00057-2025-05-09.json": {
+      "sha256": "a8bea8d0e4a0aba7f8ff2bfcb46103dd68fc551c4b640f2227a53ea54ef6b5c0",
+      "size": 444
+    },
+    "data/json/dope-thief-101-swarm-day-00058-2025-05-10.json": {
+      "sha256": "0793a2dd1b860811a7068982a3d2c8405e984ee46cfec518dc36a02b98dd7b6c",
+      "size": 444
+    },
+    "data/json/dope-thief-101-swarm-day-00059-2025-05-11.json": {
+      "sha256": "344b973f41bf4233267c8ca47bff70b3489f9bff958c66783606437729280223",
+      "size": 444
+    },
+    "data/json/dope-thief-101-swarm-day-00060-2025-05-12.json": {
+      "sha256": "4204ed4dd9279d2036ba9a333126e1b95056400c01f9c3b85e9c5e3e015dc610",
+      "size": 444
+    },
+    "data/json/dope-thief-101-swarm-day-00061-2025-05-13.json": {
+      "sha256": "5c72d80573d9a97683a5e50a16af047e40067f0de9f40fec0cd2fd48be1266e5",
+      "size": 444
+    },
+    "data/json/dope-thief-101-swarm-day-00062-2025-05-14.json": {
+      "sha256": "567cbf2c510f6436d53aa7a5ab7e173173d8e3610e172a918261ca46856721d3",
+      "size": 444
+    },
+    "data/json/dope-thief-101-swarm-day-00063-2025-05-15.json": {
+      "sha256": "43887bc942faf64dc85ca3394ff575dcc6794c9c659dd67b2cb80fca6a6dbd0e",
+      "size": 444
+    },
+    "data/json/dope-thief-101-swarm-day-00064-2025-05-16.json": {
+      "sha256": "6246d0248e6179755843a536aa601e00fa168f6b92c38bd870d2e525464e18aa",
+      "size": 444
+    },
+    "data/json/dope-thief-101-swarm-day-00065-2025-05-17.json": {
+      "sha256": "3157d4b81c36d05324a152ec6906daa6866cc932ca3c2b2f2b76a5bc0ece5cae",
+      "size": 444
+    },
+    "data/json/dope-thief-101-swarm-day-00066-2025-05-18.json": {
+      "sha256": "c71f3c8fb856382e5652c38f036948b54a7ec646428ac1d880c00e14a394aded",
+      "size": 443
+    },
+    "data/json/dope-thief-101-swarm-day-00067-2025-05-19.json": {
+      "sha256": "db38c311bf6c0f9ded4e98ee0155605522a1f918b04b652fefa1c1522515518f",
+      "size": 444
+    },
+    "data/json/dope-thief-101-swarm-day-00068-2025-05-20.json": {
+      "sha256": "8d95f452786e5ac69196586cb1e5d52ce2893bad1db1c165c952b61243ea23b4",
+      "size": 444
+    },
+    "data/json/dope-thief-101-swarm-day-00069-2025-05-21.json": {
+      "sha256": "090df53e38d9c9d9cb9531678ab27c9d52d3fb56c0e710b312d5263149697a91",
+      "size": 443
+    },
+    "data/json/dope-thief-101-swarm-day-00070-2025-05-22.json": {
+      "sha256": "ddf7eccd4002d81767f446dbbea7995093ef0e7f0a0bfde10a19c22a7f701a86",
+      "size": 444
+    },
+    "data/json/dope-thief-101-swarm-day-00071-2025-05-23.json": {
+      "sha256": "5d342b04b94f901068e6360c07d2f97dd61214e09c029a362070ae2a35cb1b81",
+      "size": 444
+    },
+    "data/json/dope-thief-101-swarm-day-00072-2025-05-24.json": {
+      "sha256": "64269f100efe514e97a7584860a735692af1547339e4c245d69c392ef6035dec",
+      "size": 444
+    },
+    "data/json/dope-thief-101-swarm-day-00073-2025-05-25.json": {
+      "sha256": "e17d9b6aaa0ec3ef3fe3077b30adc0942e5b4c0195d917e1e9b2829581560bf8",
+      "size": 444
+    },
+    "data/json/dope-thief-101-swarm-day-00074-2025-05-26.json": {
+      "sha256": "b2c37b34d150f22e3a2146a20ed5fdba480a75ebf02f99664141f7607f7faef2",
+      "size": 444
+    },
+    "data/json/dope-thief-101-swarm-day-00075-2025-05-27.json": {
+      "sha256": "224f37b0bd2490c69206640c04928be3eee1f801b4f19ed12ec7a53bf200536f",
+      "size": 444
+    },
+    "data/json/dope-thief-101-swarm-day-00076-2025-05-28.json": {
+      "sha256": "b41f506f4e22270a76acc61215003577b6d993df8d8db0e3021a5ccdb7d90b20",
+      "size": 444
+    },
+    "data/json/dope-thief-101-swarm-day-00077-2025-05-29.json": {
+      "sha256": "4ff24faa6463215dee62293f69f0a41aec81cbe5d2bb9132760a269a13e6d6a8",
+      "size": 444
+    },
+    "data/json/dope-thief-101-swarm-day-00078-2025-05-30.json": {
+      "sha256": "b2d978d0045f47e3c9f0352cf060b70f89993d3e77527b864aa73ff0f5b55509",
+      "size": 444
+    },
+    "data/json/dope-thief-101-swarm-day-00079-2025-05-31.json": {
+      "sha256": "89a91f2d7fea4e91a9205bea03b5bd36ca6fce4a829a0115ff584eaaad7c17f0",
+      "size": 444
+    },
+    "data/json/dope-thief-101-swarm-day-00080-2025-06-01.json": {
+      "sha256": "625c6af25e551ae65d8c7c7771e18bb836685c4fc7630b8ca180abebffc32965",
+      "size": 444
+    },
+    "data/json/dope-thief-101-swarm-day-00081-2025-06-02.json": {
+      "sha256": "b255a076824ca5298e9261dfed66ae1535082ac6216cee822e234b8fe3a64ebc",
+      "size": 443
+    },
+    "data/json/dope-thief-101-swarm-day-00082-2025-06-03.json": {
+      "sha256": "3a96de570bd010884906d0ab986076cdbe7e7758177fc221d0653473878de63d",
+      "size": 443
+    },
+    "data/json/dope-thief-101-swarm-day-00083-2025-06-04.json": {
+      "sha256": "62f37de6977e21511bda1792fff2a3d72c47cc33af8a636e60dcdf129f252d81",
+      "size": 444
+    },
+    "data/json/dope-thief-101-swarm-day-00084-2025-06-05.json": {
+      "sha256": "f23fb4d4ea712f42da2c066873bea35f333118a8f1634375fd5479312da5a002",
+      "size": 443
+    },
+    "data/json/dope-thief-101-swarm-day-00085-2025-06-06.json": {
+      "sha256": "c55d061bbc7840763b3a528b0600b289a5d7251020b3c2b77cea1b4801442b63",
+      "size": 443
+    },
+    "data/json/dope-thief-101-swarm-day-00086-2025-06-07.json": {
+      "sha256": "4f64c198da622f915ced47d493c73740c506be8bcf70b3f66869fe7e1b22bef5",
+      "size": 443
+    },
+    "data/json/dope-thief-101-swarm-day-00087-2025-06-08.json": {
+      "sha256": "e9b5324029a0f2f524ad39288dd6c126f1b02d6ff3795d2b2f788e77f1aeefbd",
+      "size": 443
+    },
+    "data/json/dope-thief-101-swarm-day-00088-2025-06-09.json": {
+      "sha256": "848969ccfda8b1c0fccac6ba9db5061c23f8bf0ad4e4fc89b5157fe5a176294c",
+      "size": 443
+    },
+    "data/json/dope-thief-101-swarm-day-00089-2025-06-10.json": {
+      "sha256": "c20e67e5b9e049f7ce69fe583e706b3b13241e9a329cacf8af063cd413cb4782",
+      "size": 443
+    },
+    "data/json/dope-thief-101-swarm-day-00090-2025-06-11.json": {
+      "sha256": "492f8ceea3ceb64514b6e3d4709a19c23d9e1611dacd56ca7236c36ea1adddfd",
+      "size": 443
+    },
+    "data/json/dope-thief-101-swarm-day-00091-2025-06-12.json": {
+      "sha256": "9fbe91236f2e6adcf2ccf5c02b8b7dea391a03352fd30547145978be2cd10d27",
+      "size": 443
+    },
+    "data/json/dope-thief-101-swarm-day-00092-2025-06-13.json": {
+      "sha256": "382de284f6c2582591ddcca70ff1ce851adf1b34f32d8d260ede458b25628753",
+      "size": 443
+    },
+    "data/json/dope-thief-101-swarm-day-00093-2025-06-14.json": {
+      "sha256": "ece067e76dea7dbf9f9af48d1e58c34d5701a7bea1ba69d0888efd13dcdc6d56",
+      "size": 443
+    },
+    "data/json/dope-thief-101-swarm-day-00094-2025-06-15.json": {
+      "sha256": "ec843941c11aadf971ee8311b30ebd94460f389fc7903e314985da3a05a0760f",
+      "size": 443
+    },
+    "data/json/dope-thief-101-swarm-day-00095-2025-06-16.json": {
+      "sha256": "06f2e81964fa231cfd91c1ded1c1eda4206e67395a11e5e094428a9d5477d9c5",
+      "size": 443
+    },
+    "data/json/dope-thief-101-swarm-day-00096-2025-06-17.json": {
+      "sha256": "3484c61eedc29d69f1b1bd4c2112de97866caffb5a29d005c825868700284756",
+      "size": 444
+    },
+    "data/json/dope-thief-101-swarm-day-00097-2025-06-18.json": {
+      "sha256": "81fe05dd3f51783826b65085b142359de4e4a45f362e059d592ed0aceddd97d1",
+      "size": 443
+    },
+    "data/json/dope-thief-101-swarm-day-00098-2025-06-19.json": {
+      "sha256": "844b9129cde9d68dddbcba26a20045eede5b6f4361e64dd2d659709578b81bc1",
+      "size": 443
+    },
+    "data/json/dope-thief-101-swarm-day-00099-2025-06-20.json": {
+      "sha256": "f695204c8c2ecf7fad1c93a3da3abad70738e9f8bbff18ebfaa2e9d0abbe5c79",
+      "size": 443
+    },
+    "data/json/dope-thief-101-swarm-day-00100-2025-06-21.json": {
+      "sha256": "c7e5956f3cb5b338449aff83d4768df282610b56586c17fef5fcad9e53a35640",
+      "size": 444
+    },
+    "data/json/dope-thief-101-swarm-day-00101-2025-06-22.json": {
+      "sha256": "4fbe0b80cdcd8fe222d2ee8baf10e5ee3685230e6602f70d22fad1834f8d6b02",
+      "size": 444
+    },
+    "data/json/dope-thief-101-swarm-day-00102-2025-06-23.json": {
+      "sha256": "88a0f1ffc4412095e8cd219164f55165e8b756f511e2f4a40b00156859449d4b",
+      "size": 444
+    },
+    "data/json/dope-thief-101-swarm-day-00103-2025-06-24.json": {
+      "sha256": "0427bcfc5dd8ceb2d6d95bd84a76bd26ae8bb6a8bcd1fb4b07dfdffd5e0b43ae",
+      "size": 444
+    },
+    "data/json/dope-thief-101-swarm-day-00104-2025-06-25.json": {
+      "sha256": "89e2a42f97bfdae4b597090cd4699c077326788f02682481559b6af1adf1bcbe",
+      "size": 444
+    },
+    "data/json/dope-thief-101-swarm-day-00105-2025-06-26.json": {
+      "sha256": "28986bc654326519ca41459d4d9bb4985e26d235f795b00e6643b763290bb1ee",
+      "size": 444
+    }
+  },
+  "schema": "alpha60-year-day-product-bundle/1",
+  "source_revisions": {
+    "aggregate_binary": {
+      "sha256": "80bdf6691c0ef6ed5fcc7fa3a6462748104e1935ce5b2a4df3861e11bb13195a",
+      "size": 38582648
+    },
+    "alpha60": "c3fc4c8a7866bee5f6d5f26160c56b2cffb05cb1",
+    "alpha60_data": "8faeae67a5d274d1fc00bffe9fc9318329163b20",
+    "day_product_contract": {
+      "sha256": "0aa0bee3ac14b512c786d3496ab5218a46aff11786ffa6aa9ea85e762fbd6370",
+      "size": 9897
+    },
+    "generate_cache_aggregates": {
+      "sha256": "504078e192d9c8182df74e41b98cec08123c5a8b7d0eb7f812d09c1fe5d07010",
+      "size": 17151
+    },
+    "metadata": "fbeb53a0b523f937fae2f23d14689d8c5c84dd5a",
+    "package_script": {
+      "sha256": "516d6ecdccd24b1b66cf80c185219fa47d52af22f672b836773896df621b1666",
+      "size": 14724
+    },
+    "year_day_contract": {
+      "sha256": "f1c07d6f2fdc19475a6f25ddaee5923957447a6f49a8009d8b4c9984a63bd883",
+      "size": 9356
+    }
+  },
+  "status": "pass"
+}
