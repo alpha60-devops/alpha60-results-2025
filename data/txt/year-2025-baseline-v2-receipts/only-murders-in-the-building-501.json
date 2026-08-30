@@ -1,0 +1,253 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt11691774",
+    "imdb_id": "tt11691774",
+    "revision": "fbeb53a0b523f937fae2f23d14689d8c5c84dd5a",
+    "wikidata_id": "Q104007235",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Only_Murders_in_the_Building"
+  },
+  "coverage_sha256": "91069f939c07d852bcd14a032dbe9badcc9927000eb2ec35eaa5a48e4b1b4270",
+  "generated_at": "2026-08-30T15:35:26.983104+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "aao-checksum-manifest": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/SHA256SUMS",
+      "sha256": "4a4818facd85b709f0321b0a6de31b4a3eff6f108f3b9354c75632926e6baa48",
+      "size": 266728
+    },
+    "aao-release": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/release.json",
+      "sha256": "3ce0984da2d12b0e3697e76c02608bd9d1a955ee3d00e0a7054bdd297b8f18c8",
+      "size": 1342
+    },
+    "aao-verification": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-aao-verification.json",
+      "sha256": "e01294ebce8e54b65e16ab83017fa5585efe6f7a0a0f1a5e0f734e08d8e223fd",
+      "size": 854
+    },
+    "archive-map": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-cache-archive-map.json",
+      "sha256": "8d4d506f23cd80f46baf010bd17509c916083e75eb8b43b052641138c3f308f1",
+      "size": 125170
+    },
+    "btiha-metadata-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/only-murders-in-the-building-501-cumulative-btiha-media-objects.json",
+      "sha256": "1af0c795ffe28c5705af0cfc8617b8ba7e5ef5b477637b4b6dca04b9e96282e5",
+      "size": 453354
+    },
+    "canonical-metadata": {
+      "path": "/tmp/alpha60-swarm-metadata-2025/metadata/only-murders-in-the-building-501.json",
+      "sha256": "f04d905c80acf35aa0b6214ce4f855e1519f957419bee3cc418e8134a57d6c0b",
+      "size": 9518
+    },
+    "coverage-report": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-coverage-evidence/only-murders-in-the-building-501.md",
+      "sha256": "80efff57ff2ae4655d911c5b8a43c6d78350e90733ec03da72c4c56f241412e6",
+      "size": 758
+    },
+    "cumulative-aggregate-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.cumulative/only-murders-in-the-building-501-cumulative-aggregate.geojson.gz",
+      "sha256": "f66cf074ac06143e17b50532640f19d62daf37d5fe14d1085cad8d0da410a7bf",
+      "size": 1196595
+    },
+    "cumulative-btiha-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.cumulative/only-murders-in-the-building-501-cumulative-btiha.geojson.gz",
+      "sha256": "c665438ad25682dc0cd8d45befd39e42e0377263be5aa810908124d2f13293ea",
+      "size": 29845915
+    },
+    "cumulative-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/only-murders-in-the-building-501-cumulative.json",
+      "sha256": "d5b12fa1904061049e614ba9a83cc0861729a00e3bff89622a9ed6d2801ef064",
+      "size": 15728
+    },
+    "day-bundle-receipt": {
+      "path": "/tmp/year-2025-day-bundles/only-murders-in-the-building-501/receipt.json",
+      "sha256": "a575be8e697e67a39801109d71f034a5c1b40932157588360eebe1ef982f5118",
+      "size": 74654
+    },
+    "ip-swarm-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/only-murders-in-the-building-501-cumulative-ip-swarm.json",
+      "sha256": "a0d7dc73b49645c50a0a324b4f0126b48b7b892be2b2affaa6d118dc0307717b",
+      "size": 42226
+    },
+    "published-day-bundle-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-day-product-receipts/only-murders-in-the-building-501.json",
+      "sha256": "a575be8e697e67a39801109d71f034a5c1b40932157588360eebe1ef982f5118",
+      "size": 74654
+    },
+    "week-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/only-murders-in-the-building-501-week.json",
+      "sha256": "87fe39981536217172cf8c7fa1af41e106bfa550215abb3a2e2caf2aae46ce66",
+      "size": 3949675
+    }
+  },
+  "media_object": "only-murders-in-the-building-501",
+  "published_files": {
+    "data/csv/bytes/only-murders-in-the-building-501-cumulative-detail.2025-btiha-itemized-by-bytes.csv": "8cb82109986a5c88abdf2f4708a3678f8bdd88cc4b3363855fe691354ba5fa4e",
+    "docs/itemized/figures/only-murders-in-the-building-501-carto-4k.webp": "0eba0450d631f3b344f31a6aacc4dbb121b1c68a3d2c58a46bc4741bcb2aed58",
+    "docs/itemized/figures/only-murders-in-the-building-501-carto.png": "90efb9c576c0c710d9b625306ad3b5ebda392756571c47a642bf0a832942287f",
+    "docs/itemized/figures/only-murders-in-the-building-501-cumulative-detail-btiha-itemized-by-bytes.svg": "193539206a95bd3215d2957b75ede7de7b0cf8d0e19b6721569bdf1a0a4273a9",
+    "docs/itemized/figures/only-murders-in-the-building-501-data-ge-1080p-4k.webp": "3189caa2d2cf3fb1022350a6c18d76cad74e8894e9f007720956050516fbcc9f",
+    "docs/itemized/figures/only-murders-in-the-building-501-data-ge-1080p.webp": "72e5fe6392afff010ed13a9ad44f915bbaf9635d4e29e7ea245fcbe7e82c13f1",
+    "docs/itemized/figures/only-murders-in-the-building-501-data-lt-1080p-4k.webp": "80e359cbe2f5aca1e07338a3017fe5c253140f1dd8762e14261ebbca8c75cdca",
+    "docs/itemized/figures/only-murders-in-the-building-501-data-lt-1080p.webp": "56118b51a5acb02abcd2c8047c29abe45b9a70f3399776130dac38d28df3ce52",
+    "docs/itemized/figures/only-murders-in-the-building-501-downloads-by-day-day.svg": "1491d9a0563d0fe9c68fd54874b56f94770372ae406a8e1975d1354a45069ac1",
+    "docs/itemized/figures/only-murders-in-the-building-501-downloads-by-week-only-murders-in-the-building-501-week.svg": "eee2e0e23f4593fb244a6061e603331e5057ef42496addc56fc0b3a9a0914c0d",
+    "docs/itemized/only-murders-in-the-building-501-sample-cache-audit.md": "92485d00ca37d3d017cb05460bdc737df4b814b2b9adf8216de3c4cd871acdbf",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-year-2025-render",
+      "revision": "c520555c40beece2e38f62878e2d4cc1b312c505",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "c192c54f882171dafc74c038ec769f1e68bf8020d12a342d2334086b5b5ee5ea",
+      "size": 36998168
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.cumulative/only-murders-in-the-building-501-cumulative-btiha.geojson.gz",
+        "sha256": "c665438ad25682dc0cd8d45befd39e42e0377263be5aa810908124d2f13293ea",
+        "size": 29845915
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/json/only-murders-in-the-building-501-cumulative-btiha-media-objects.json",
+        "sha256": "1af0c795ffe28c5705af0cfc8617b8ba7e5ef5b477637b4b6dca04b9e96282e5",
+        "size": 453354
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/izzi",
+      "revision": "b988ee7fd690a74a696c27c9aadf40c204a4c780",
+      "untracked": false
+    },
+    "media_object": "only-murders-in-the-building-501",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60-results-2025/bin/a60-meta-collection.exe",
+      "sha256": "e71f9def936a6868d5282a5ff7dece07ade360eefa07abebde75434a927220f7",
+      "size": 8743680
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          62.0,
+          44.0,
+          36.0,
+          34.0,
+          31.0,
+          29.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Seoul",
+          "Moscow",
+          "Istanbul",
+          "Saint Petersburg",
+          "Nanjing",
+          "London",
+          "Shanghai",
+          "Hangzhou",
+          "Amsterdam",
+          "Ashburn"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          62.0,
+          44.0,
+          36.0,
+          31.0,
+          29.0,
+          28.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Seoul",
+          "Moscow",
+          "Istanbul",
+          "Saint Petersburg",
+          "Nanjing",
+          "Shanghai",
+          "London",
+          "Ashburn",
+          "Hangzhou",
+          "Amsterdam"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 21,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 26,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 6,
+        "x_tick_marks": 6,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 26,
+        "y_tick_labels": 20
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "c520555c40beece2e38f62878e2d4cc1b312c505",
+    "cartofreako": "fc58111b5bfa7667b12f6ade522ae5e566b464d1",
+    "izzi": "b988ee7fd690a74a696c27c9aadf40c204a4c780",
+    "metadata": "fbeb53a0b523f937fae2f23d14689d8c5c84dd5a",
+    "results_aao_adoption": "9cd9d91a6fbb560ac2a96beadf4c83b94daf6a88"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2025"
+}
