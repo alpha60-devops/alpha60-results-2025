@@ -1,0 +1,1712 @@
+{
+  "archive": {
+    "path": "/home/bkoz/src/alpha60-xperiments/year-2025-archives/weapons-2025.cache/cache.20260312.tar.xz",
+    "sha256": "b4221784e3677fbed987b6e8a185f19dc8f5382af25010b8d91a6d03e9c6bde4",
+    "size": 3624399672
+  },
+  "authorization": {
+    "archive_mutated": false,
+    "excluded_member_classes": [
+      "hour",
+      "week",
+      "cumulative"
+    ],
+    "raw_samples_opened": false,
+    "scope": "read only streaming of per-torrent day records"
+  },
+  "collection_key": "weapons-2025",
+  "day_cache_stream_contract": {
+    "authorization": {
+      "archive_mutated": false,
+      "excluded_member_classes": [
+        "hour",
+        "week",
+        "cumulative"
+      ],
+      "raw_samples_opened": false,
+      "scope": "read only streaming of per-torrent day records"
+    },
+    "available_day_products": 180,
+    "cache_members": 45816,
+    "collection_key": "weapons-2025",
+    "first_date": "2025-09-10",
+    "first_index": 1,
+    "indices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144,
+      145,
+      146,
+      147,
+      148,
+      149,
+      150,
+      151,
+      152,
+      153,
+      154,
+      155,
+      156,
+      157,
+      158,
+      159,
+      160,
+      161,
+      162,
+      163,
+      164,
+      165,
+      166,
+      167,
+      168,
+      169,
+      170,
+      171,
+      172,
+      173,
+      174,
+      175,
+      176,
+      177,
+      178,
+      179,
+      180,
+      181,
+      182,
+      183,
+      184
+    ],
+    "last_date": "2026-03-12",
+    "last_index": 184,
+    "missing_indices": [
+      83,
+      84,
+      85,
+      86
+    ],
+    "sample_span_days": 184,
+    "schema": "alpha60-day-cache-stream-contract/1",
+    "sparse": true,
+    "status": "pass"
+  },
+  "day_product_contract": {
+    "collection_key": "weapons-2025",
+    "day_products": 180,
+    "first_date": "2025-09-10",
+    "first_index": 1,
+    "geojson_data_version": "20260701",
+    "ip_geolocation_version": "6:1777968300",
+    "json_data_version": "2026-08-05",
+    "last_date": "2026-03-12",
+    "last_index": 184,
+    "schema": "alpha60-day-product-contract/1",
+    "sparse": true,
+    "status": "pass"
+  },
+  "publications": {
+    "data/geojson.day/weapons-2025-day-00001.geojson.gz": {
+      "sha256": "1e80d183d19a6b77a8d5354e68c45241f3181d929ce7a9d640b089e2510f3bde",
+      "size": 24888
+    },
+    "data/geojson.day/weapons-2025-day-00002.geojson.gz": {
+      "sha256": "ff950cac20ee0848ed3f4a5b6f22497be4f53e8dc739bb3d33552bde1b9820fd",
+      "size": 90807
+    },
+    "data/geojson.day/weapons-2025-day-00003.geojson.gz": {
+      "sha256": "cd0284d349f2038736ec16be8fbbf94939b3827040924d7215e7cfd07d48659e",
+      "size": 225636
+    },
+    "data/geojson.day/weapons-2025-day-00004.geojson.gz": {
+      "sha256": "0ab1ffd2785629f069c35d576b7693bbfa58ea2c8d92b6d8c7471a5ef0834373",
+      "size": 243039
+    },
+    "data/geojson.day/weapons-2025-day-00005.geojson.gz": {
+      "sha256": "ca18451c92b123cdc243588b5d9c442671a5ccd0f6c106d2c32242320aa60639",
+      "size": 267486
+    },
+    "data/geojson.day/weapons-2025-day-00006.geojson.gz": {
+      "sha256": "11fb216f5056346df3e582262eb0cf4222a6946efa3c12da3ccd2518c39a3554",
+      "size": 277200
+    },
+    "data/geojson.day/weapons-2025-day-00007.geojson.gz": {
+      "sha256": "88ab48498497fca4412f85f7b3fb726187727a4ad50603598c37fafea1f17297",
+      "size": 269728
+    },
+    "data/geojson.day/weapons-2025-day-00008.geojson.gz": {
+      "sha256": "8e4713274dafb1acd719328b7034645ad319f0264d930a547b44fac7223a5e20",
+      "size": 269770
+    },
+    "data/geojson.day/weapons-2025-day-00009.geojson.gz": {
+      "sha256": "667892c757eba91a74aec89ca12025c5904e89d225449c86bd7b35da61ea159a",
+      "size": 267426
+    },
+    "data/geojson.day/weapons-2025-day-00010.geojson.gz": {
+      "sha256": "713c0a4112267323fdeeeb6b95a2553b2099249ea2a47c2361012faa2b70616b",
+      "size": 267132
+    },
+    "data/geojson.day/weapons-2025-day-00011.geojson.gz": {
+      "sha256": "e156be459436821a6d71114d84b393adf75c5a548feabe2672926b24125c0992",
+      "size": 284594
+    },
+    "data/geojson.day/weapons-2025-day-00012.geojson.gz": {
+      "sha256": "49a9581910555a58adf1c9b5d966d9ce7dc60a9ebd69a8b0e20946a467cad697",
+      "size": 298296
+    },
+    "data/geojson.day/weapons-2025-day-00013.geojson.gz": {
+      "sha256": "2f1bd2f960fc7b22f71994c893b35bb4a1b6ca634798ab921c1dff481066b6ba",
+      "size": 289862
+    },
+    "data/geojson.day/weapons-2025-day-00014.geojson.gz": {
+      "sha256": "d4faf5db85f6b229e34c72446a46ed6107ee68f516c51bdbc71285fa4d9fd01f",
+      "size": 292256
+    },
+    "data/geojson.day/weapons-2025-day-00015.geojson.gz": {
+      "sha256": "2afab22586562e88cd103d0702f3ea0720b7e604c121fae8e197ef7ff51c889f",
+      "size": 289900
+    },
+    "data/geojson.day/weapons-2025-day-00016.geojson.gz": {
+      "sha256": "1112ece6a4a583e2e238880198bcb55f31ab67e5a991ba7a8e2670c89947d6dd",
+      "size": 279602
+    },
+    "data/geojson.day/weapons-2025-day-00017.geojson.gz": {
+      "sha256": "6927963aafe03c31fef0e5fe3c6e046a3483453b38b9b577776d58dfe3ba8f20",
+      "size": 297997
+    },
+    "data/geojson.day/weapons-2025-day-00018.geojson.gz": {
+      "sha256": "7686628fb333c36157c36c89bee5d472d013b5ba50ca42b73af4144db759ba57",
+      "size": 284017
+    },
+    "data/geojson.day/weapons-2025-day-00019.geojson.gz": {
+      "sha256": "ecf3cbb10827cd5b6626e9da49515714e8d63e05be2d3b0b2c4c1b9990f5b434",
+      "size": 269057
+    },
+    "data/geojson.day/weapons-2025-day-00020.geojson.gz": {
+      "sha256": "4c2ac238274db79dd7f884c2738b00fc63a8920699584da63181bee7812813e7",
+      "size": 292484
+    },
+    "data/geojson.day/weapons-2025-day-00021.geojson.gz": {
+      "sha256": "3b255f5b25eda95a34e429a5a6e4995ab26829b0bc85fb07c6dba1f98587da53",
+      "size": 279102
+    },
+    "data/geojson.day/weapons-2025-day-00022.geojson.gz": {
+      "sha256": "7a43b932e4b4ef685890a378d765b3b4c626c9fc27d915104cbba2f27f236d1f",
+      "size": 264470
+    },
+    "data/geojson.day/weapons-2025-day-00023.geojson.gz": {
+      "sha256": "9be1be61f5ea4559035dab9abc39a9312d9e34c633b6fe4bceda6935757cc454",
+      "size": 267510
+    },
+    "data/geojson.day/weapons-2025-day-00024.geojson.gz": {
+      "sha256": "c58d6da1f4f39f3f58b49aa685d90ed221552dc4a6d7448037d404d60ab697eb",
+      "size": 268898
+    },
+    "data/geojson.day/weapons-2025-day-00025.geojson.gz": {
+      "sha256": "bd43626c8099a4106c9d5d4096a9d2ad7d49425daa92a58fb90c796e79e6dccd",
+      "size": 262191
+    },
+    "data/geojson.day/weapons-2025-day-00026.geojson.gz": {
+      "sha256": "57c178e99b1aa8c6d31de14631dd29e215a8706afa7e2a12038a128b75d0bf99",
+      "size": 271280
+    },
+    "data/geojson.day/weapons-2025-day-00027.geojson.gz": {
+      "sha256": "38915740fb0c877c1dfcbd91e196754752790eea2590a90b2aa7802168b9bad3",
+      "size": 277296
+    },
+    "data/geojson.day/weapons-2025-day-00028.geojson.gz": {
+      "sha256": "2db86f787a787b7a54628ab83f44bf231fbe5ad4a8d1bbbaa598554cd9b05b1f",
+      "size": 263867
+    },
+    "data/geojson.day/weapons-2025-day-00029.geojson.gz": {
+      "sha256": "b23d0f819dce9553e391ecc6dee357e868c961a720564cb73d37d7b074568798",
+      "size": 273730
+    },
+    "data/geojson.day/weapons-2025-day-00030.geojson.gz": {
+      "sha256": "63a586f6d7f75d2d2a1ca703877f14f662053bb1a1693e74912d3d4699b2b39f",
+      "size": 295600
+    },
+    "data/geojson.day/weapons-2025-day-00031.geojson.gz": {
+      "sha256": "bf703889a4d223540d49a75dd84eb69847809e2d1676f4aa8e31b956708b254d",
+      "size": 280600
+    },
+    "data/geojson.day/weapons-2025-day-00032.geojson.gz": {
+      "sha256": "952e2f78c84af53738c3ed9d6756715d2cce6281678ee4af250c83d482207be1",
+      "size": 279547
+    },
+    "data/geojson.day/weapons-2025-day-00033.geojson.gz": {
+      "sha256": "d4066f8774960f6ad62979a26f83704c386629e2303a614ee5de50c184cd3a65",
+      "size": 284512
+    },
+    "data/geojson.day/weapons-2025-day-00034.geojson.gz": {
+      "sha256": "63b28898c6797741b7f71d755adff73d24b6d0728940f62707ae4b2cd8fbf8f6",
+      "size": 283521
+    },
+    "data/geojson.day/weapons-2025-day-00035.geojson.gz": {
+      "sha256": "5502e3e7ee9b2103f8033733b4c55132146b0cb38597a5fc6e4143762f4b1e12",
+      "size": 268472
+    },
+    "data/geojson.day/weapons-2025-day-00036.geojson.gz": {
+      "sha256": "f565430a05ad8761df2f774a80f16cfb79de172d9f30bf7973eca9fe5da897cf",
+      "size": 270704
+    },
+    "data/geojson.day/weapons-2025-day-00037.geojson.gz": {
+      "sha256": "357160bc85cff6d724b4b844d44bae76cb1c87cdd8b64c232c955353f0705ea4",
+      "size": 266818
+    },
+    "data/geojson.day/weapons-2025-day-00038.geojson.gz": {
+      "sha256": "257ebf4c06cca723cd8791bdc089ce0fe59724833e8e8d29549a08b11f3acb19",
+      "size": 278664
+    },
+    "data/geojson.day/weapons-2025-day-00039.geojson.gz": {
+      "sha256": "b9d7ad3607265a0a61598811737253f621d3d385580a14efeb846184da7b3da1",
+      "size": 294130
+    },
+    "data/geojson.day/weapons-2025-day-00040.geojson.gz": {
+      "sha256": "b759d2d182110de4b0b32bf29a03d8e5dff09d1b6c42b6980b39ab250c26fa67",
+      "size": 296250
+    },
+    "data/geojson.day/weapons-2025-day-00041.geojson.gz": {
+      "sha256": "bb4b6612bb31f9b6dd2a4d9d909195066892197a301cecc4fd248965ce6b5f2b",
+      "size": 302181
+    },
+    "data/geojson.day/weapons-2025-day-00042.geojson.gz": {
+      "sha256": "5adee4d8732c3e32dfb4174309728d23610499923c31da1d614cc194bde68e7d",
+      "size": 287839
+    },
+    "data/geojson.day/weapons-2025-day-00043.geojson.gz": {
+      "sha256": "cdc1b1391a56259e8e3aac92b80cb235028854ae911d61bfe284685fe16e514b",
+      "size": 280242
+    },
+    "data/geojson.day/weapons-2025-day-00044.geojson.gz": {
+      "sha256": "7eac047d4bcec93baccb53f7f666044f7eab1f00ffd7749212ced62aea4c8c57",
+      "size": 288939
+    },
+    "data/geojson.day/weapons-2025-day-00045.geojson.gz": {
+      "sha256": "ab63c075998e9eae706c702ae60bdfd599dc87934eac26f7ed6f364465109c8f",
+      "size": 303095
+    },
+    "data/geojson.day/weapons-2025-day-00046.geojson.gz": {
+      "sha256": "77977703a22ea5f8c8a6284af78c6f19a9a396a039c38b3c62520665c78dfa2a",
+      "size": 285255
+    },
+    "data/geojson.day/weapons-2025-day-00047.geojson.gz": {
+      "sha256": "873a09e76905b6291ea5f69f7d26b4d46d6b44694fc9e606b194c5634e01799f",
+      "size": 280907
+    },
+    "data/geojson.day/weapons-2025-day-00048.geojson.gz": {
+      "sha256": "88e1e28ede1b2e340060afdaf3efffee6d2383415bdfaace3b9aa56c4b7bf694",
+      "size": 290332
+    },
+    "data/geojson.day/weapons-2025-day-00049.geojson.gz": {
+      "sha256": "53e27c0b5e15fe8d91a957e2925dfb6d5f843d9d3ad4150997964961b043b32c",
+      "size": 276391
+    },
+    "data/geojson.day/weapons-2025-day-00050.geojson.gz": {
+      "sha256": "806b948f1bc502613988ceb5e4b70c0ba816dbb5cee00a17e60a8d7ad01b7eba",
+      "size": 276629
+    },
+    "data/geojson.day/weapons-2025-day-00051.geojson.gz": {
+      "sha256": "5741b5a9c876de3d8e33ca8e7591a3d3358fca120d0a9ffc9243a54c5310fc5f",
+      "size": 283963
+    },
+    "data/geojson.day/weapons-2025-day-00052.geojson.gz": {
+      "sha256": "e4a38114f2fce29f6319aa84ad1ad79596da386365667485616d9545111fc7c0",
+      "size": 289627
+    },
+    "data/geojson.day/weapons-2025-day-00053.geojson.gz": {
+      "sha256": "e5d9e32d40adeda2e2bbb6cbc148f8185d164b4f21e277acd58db189a1c06baf",
+      "size": 288643
+    },
+    "data/geojson.day/weapons-2025-day-00054.geojson.gz": {
+      "sha256": "0aa6131d8b4a659b1fc880302f45050c1da0b4ba82f5fc35599f735831087d84",
+      "size": 289738
+    },
+    "data/geojson.day/weapons-2025-day-00055.geojson.gz": {
+      "sha256": "4d33015f5824ba226e319a1d2389a5928ed27573cc7e1a0bd2eb1ac5ae185532",
+      "size": 288380
+    },
+    "data/geojson.day/weapons-2025-day-00056.geojson.gz": {
+      "sha256": "d0db0b4595a9af54e1346c70023aae533ddca2978f909bb23a808defeb274dd0",
+      "size": 282139
+    },
+    "data/geojson.day/weapons-2025-day-00057.geojson.gz": {
+      "sha256": "9043b1034274fdc9b932b58b4cec541a08d5c37570ba679463fc91311c3d181b",
+      "size": 286011
+    },
+    "data/geojson.day/weapons-2025-day-00058.geojson.gz": {
+      "sha256": "4c6642e004ecf80ee6b0298fab9503da99dbb50322728f7014518c2252620a11",
+      "size": 288558
+    },
+    "data/geojson.day/weapons-2025-day-00059.geojson.gz": {
+      "sha256": "8636ac299dd0f126765b57b1b79bbdf1942fa5463fad8d1f44705a82c2535058",
+      "size": 290393
+    },
+    "data/geojson.day/weapons-2025-day-00060.geojson.gz": {
+      "sha256": "55148624e5535d4d535bd1d9f72ae790a0bf46f475d8ee772909927ed0bcbde1",
+      "size": 286813
+    },
+    "data/geojson.day/weapons-2025-day-00061.geojson.gz": {
+      "sha256": "57c28888f3c2d1e6c4ba814fd4a9d3448f404dc224209ad9a60556df24563f59",
+      "size": 283643
+    },
+    "data/geojson.day/weapons-2025-day-00062.geojson.gz": {
+      "sha256": "ec6fa6c5c9d7b36abb900a8b34e23575f00638d2ea85c970773ad3773cdcff49",
+      "size": 280571
+    },
+    "data/geojson.day/weapons-2025-day-00063.geojson.gz": {
+      "sha256": "261578fa320a7f6b7c97970bbeeacf22cb697e9cfcc7985e556929b53e0ee1c2",
+      "size": 281664
+    },
+    "data/geojson.day/weapons-2025-day-00064.geojson.gz": {
+      "sha256": "4de1ef062993ee8c0e88b2bc5b56d232d98aa12de56900fe3234ce71030a70a0",
+      "size": 278123
+    },
+    "data/geojson.day/weapons-2025-day-00065.geojson.gz": {
+      "sha256": "10545716a347cb8e63d8102fcf7dc6d5ca6bb7147625a83d45fc6477e595ce89",
+      "size": 267276
+    },
+    "data/geojson.day/weapons-2025-day-00066.geojson.gz": {
+      "sha256": "6ba79ca703f18fac77c414246757267bb28043ad01d11308af00244e6d9392a5",
+      "size": 272299
+    },
+    "data/geojson.day/weapons-2025-day-00067.geojson.gz": {
+      "sha256": "6846eed2ea8119f9e27328d09b66b9a042d1fbc06b757076043b44100ed4f66e",
+      "size": 266374
+    },
+    "data/geojson.day/weapons-2025-day-00068.geojson.gz": {
+      "sha256": "7d9409f95588af4a3cbc54037436a31b1b31acbc3eccf022e2f6110b5c942fdd",
+      "size": 258088
+    },
+    "data/geojson.day/weapons-2025-day-00069.geojson.gz": {
+      "sha256": "b22f223d4858a5e65b27deced4a0cb7ce0d1dcd726f351b4ded3d5bb4f392d0b",
+      "size": 279842
+    },
+    "data/geojson.day/weapons-2025-day-00070.geojson.gz": {
+      "sha256": "2b807e3303a7779d1a571d9d1acbee5811c068c53bf94178151e496aac625060",
+      "size": 267285
+    },
+    "data/geojson.day/weapons-2025-day-00071.geojson.gz": {
+      "sha256": "cd540fc239e24d88fbe8a7057925b52ce3aa81df92363d1543fb3c7550e1e43f",
+      "size": 278745
+    },
+    "data/geojson.day/weapons-2025-day-00072.geojson.gz": {
+      "sha256": "62dc8304c028ab59fccbdaa1131cdc4d69c9671bc1e0686ce22523ff89135bb3",
+      "size": 270160
+    },
+    "data/geojson.day/weapons-2025-day-00073.geojson.gz": {
+      "sha256": "e32872d43ca4c845d40d8d578256745da972fff4b9af0ff46c55f16ae09808f7",
+      "size": 318824
+    },
+    "data/geojson.day/weapons-2025-day-00074.geojson.gz": {
+      "sha256": "722d6b99b635eb02db144091763fdd6818a6b9b56ab11d26ee7830c59b2994d1",
+      "size": 267897
+    },
+    "data/geojson.day/weapons-2025-day-00075.geojson.gz": {
+      "sha256": "a88c9101a45d5e23e2fbec5025629c156f8114158fa83eb1ce094709b5eb7757",
+      "size": 266299
+    },
+    "data/geojson.day/weapons-2025-day-00076.geojson.gz": {
+      "sha256": "4713fa20e788861f097b48f87e98d2fcfb124648db4266b4cbf4866d9bd46b68",
+      "size": 290860
+    },
+    "data/geojson.day/weapons-2025-day-00077.geojson.gz": {
+      "sha256": "229435ce34a069958d26a8271e211e5c2ad888fe27bcab5a52f52ced46d6afdf",
+      "size": 283624
+    },
+    "data/geojson.day/weapons-2025-day-00078.geojson.gz": {
+      "sha256": "2a0ac82ee791e0dc33496df5d6a65b8ab31ececfc8db9e35f72a91b7fd644e24",
+      "size": 285339
+    },
+    "data/geojson.day/weapons-2025-day-00079.geojson.gz": {
+      "sha256": "12486cc8527b8b24a15650db9cec6443fb598fed29a0cee0a1aa362498211687",
+      "size": 287808
+    },
+    "data/geojson.day/weapons-2025-day-00080.geojson.gz": {
+      "sha256": "6331e9b4b6e0c0006f663a1bdcc08aa1d51c7900514c4108438b5a67c17ed112",
+      "size": 274606
+    },
+    "data/geojson.day/weapons-2025-day-00081.geojson.gz": {
+      "sha256": "f63da65581a3b159728200272bb78b2593b578ed900b3d12b2251fb2f42e64c7",
+      "size": 281742
+    },
+    "data/geojson.day/weapons-2025-day-00082.geojson.gz": {
+      "sha256": "9fff2e01e3413ecca71864a8589574741eac2731c23d1c3e4daaf9a724c1607f",
+      "size": 287948
+    },
+    "data/geojson.day/weapons-2025-day-00087.geojson.gz": {
+      "sha256": "e318135d7509e7feeafd520ee3ffb88a51d1499d12b7ed7ca4057bb96bbd5f31",
+      "size": 275114
+    },
+    "data/geojson.day/weapons-2025-day-00088.geojson.gz": {
+      "sha256": "1ededc171c5bbd5a18572ef543e1f7b0769b1687500670563538544ca70f3014",
+      "size": 261498
+    },
+    "data/geojson.day/weapons-2025-day-00089.geojson.gz": {
+      "sha256": "70f978c86b7bf5b4c9dbb90a06e108c3ce7148744553832c00adbf1e6245384f",
+      "size": 253681
+    },
+    "data/geojson.day/weapons-2025-day-00090.geojson.gz": {
+      "sha256": "34022b4fd6905b92fd43cc18c13877eb85055ede3707e7f7688e5332ab0e0eae",
+      "size": 288708
+    },
+    "data/geojson.day/weapons-2025-day-00091.geojson.gz": {
+      "sha256": "aeb3f74c35ec948fc2b8afc88448e01686365d04814b1ee6ebc00d60807b2cea",
+      "size": 278991
+    },
+    "data/geojson.day/weapons-2025-day-00092.geojson.gz": {
+      "sha256": "549272cd5b6f5395d94d45c13656b70ee604f60253aa7b477bbd1f30aeee6963",
+      "size": 276048
+    },
+    "data/geojson.day/weapons-2025-day-00093.geojson.gz": {
+      "sha256": "3764a303e057385398a98188d280185d832c41ce0719f450c9c220f65cc624a2",
+      "size": 268745
+    },
+    "data/geojson.day/weapons-2025-day-00094.geojson.gz": {
+      "sha256": "eb46f5c38fbc6cb878ffaa6e335536cb238b37641f42f6848a3fc3b205eee95d",
+      "size": 265741
+    },
+    "data/geojson.day/weapons-2025-day-00095.geojson.gz": {
+      "sha256": "34f7678181f3207227ae4f41bf879b82fd77fc62aa99519a1db06c411bc9e9f1",
+      "size": 254467
+    },
+    "data/geojson.day/weapons-2025-day-00096.geojson.gz": {
+      "sha256": "986fbe3f9ee969377a55117cb418ce9a69a608f4f7d274a284c45f9d12bcdae6",
+      "size": 243033
+    },
+    "data/geojson.day/weapons-2025-day-00097.geojson.gz": {
+      "sha256": "18a74782c48c449bd344d0f14baf4760dd2ee0d1fd46193712ea9c8759296b7e",
+      "size": 284832
+    },
+    "data/geojson.day/weapons-2025-day-00098.geojson.gz": {
+      "sha256": "2cfac9b72d271da351befdbf9d8467cda5112e0dc833d2113154b2fd88065d8b",
+      "size": 283636
+    },
+    "data/geojson.day/weapons-2025-day-00099.geojson.gz": {
+      "sha256": "a7ad7436f4c7208e9f888571220bc992af6f9b2d82a390710047763754745bdb",
+      "size": 281722
+    },
+    "data/geojson.day/weapons-2025-day-00100.geojson.gz": {
+      "sha256": "3261e421adaf8adbba2ebe1969d490758a95ebd03f7922cd9f93089ebb753f8c",
+      "size": 281648
+    },
+    "data/geojson.day/weapons-2025-day-00101.geojson.gz": {
+      "sha256": "3c1821f4463c2558ebb7f6c0fb5dd4166f653b5b50abb7b20a04a04c7ad876de",
+      "size": 278902
+    },
+    "data/geojson.day/weapons-2025-day-00102.geojson.gz": {
+      "sha256": "46a2f6268e229456af6fc1f0aa58b922414c06cc8451345fca2b859628d2fe19",
+      "size": 272047
+    },
+    "data/geojson.day/weapons-2025-day-00103.geojson.gz": {
+      "sha256": "569fcdee270c012874e75883b1f0cba5fd3a460ff09dd0ecafe9c5b5f3eeb4c7",
+      "size": 268967
+    },
+    "data/geojson.day/weapons-2025-day-00104.geojson.gz": {
+      "sha256": "4f8d51d430c7768750c37f4f7fa836589dd20130b5995e3884910109ee74982f",
+      "size": 228489
+    },
+    "data/geojson.day/weapons-2025-day-00105.geojson.gz": {
+      "sha256": "73a934203970734889dbe8b08149743733a2340fc0e02812273ef77b45c6880f",
+      "size": 175135
+    },
+    "data/geojson.day/weapons-2025-day-00106.geojson.gz": {
+      "sha256": "d0f18b27ed762d2b0fdb18a4ba7d2bdf4f18254466e056d696a902f6438ab1b1",
+      "size": 282465
+    },
+    "data/geojson.day/weapons-2025-day-00107.geojson.gz": {
+      "sha256": "43b68640fbc77dbe4ee39e7080240354432281879b4ac17e772bdc50a2b8832f",
+      "size": 256042
+    },
+    "data/geojson.day/weapons-2025-day-00108.geojson.gz": {
+      "sha256": "bfd6d330f6e4d9aa1faced741223f2f2aa42cde7aa90028666d8bb7da4f64d17",
+      "size": 253780
+    },
+    "data/geojson.day/weapons-2025-day-00109.geojson.gz": {
+      "sha256": "4c81b7125cd5c7c769678da1c9bce7f9cf8d4a74e46b79662b8bbf385fe3755e",
+      "size": 248559
+    },
+    "data/geojson.day/weapons-2025-day-00110.geojson.gz": {
+      "sha256": "24a7fb9dca4b43c583d6d24e27a31c9549f47eceb76032bef71301d654b46a70",
+      "size": 238918
+    },
+    "data/geojson.day/weapons-2025-day-00111.geojson.gz": {
+      "sha256": "2f26ba1aa40bfc3d01ecb6a8cd09e8c829eb47c950eef58e408a1d9ef4be62e2",
+      "size": 275543
+    },
+    "data/geojson.day/weapons-2025-day-00112.geojson.gz": {
+      "sha256": "45707b469ad2d6d1ee1ec11f79e0060c644ab45d1635993afd8e9a17793c6a8c",
+      "size": 253281
+    },
+    "data/geojson.day/weapons-2025-day-00113.geojson.gz": {
+      "sha256": "34d549a4a567269a8da9d5ec8ace812a4b15b037eda7524c58e7aa17f2de5b85",
+      "size": 273260
+    },
+    "data/geojson.day/weapons-2025-day-00114.geojson.gz": {
+      "sha256": "2711a65eb9b9d509a11d8b4bd2cd5ce7c2c20658cd23af4d6f906813daa59982",
+      "size": 270044
+    },
+    "data/geojson.day/weapons-2025-day-00115.geojson.gz": {
+      "sha256": "7f0454abbbc9d6507112939687d2d9352cd225fd6eebdf31bdfce2ec1afc4602",
+      "size": 275663
+    },
+    "data/geojson.day/weapons-2025-day-00116.geojson.gz": {
+      "sha256": "8cd2dc8792f3971ce7a661a52bf03e8837a4e06dd4f4774bb63cc4c2c3252e37",
+      "size": 259777
+    },
+    "data/geojson.day/weapons-2025-day-00117.geojson.gz": {
+      "sha256": "58d416a2936c528952a9e94eed603a251fb34e164503d5a842ec532ea6d00840",
+      "size": 257295
+    },
+    "data/geojson.day/weapons-2025-day-00118.geojson.gz": {
+      "sha256": "1df5ab9baf8c7c5e98901a8c0c985d2ab72e3332de99a536cbc3287fa24f5fd2",
+      "size": 279221
+    },
+    "data/geojson.day/weapons-2025-day-00119.geojson.gz": {
+      "sha256": "1727eb6eec45cd848e728585aad97ed03ecfbaf67c37a44a6070616f50f33a12",
+      "size": 254901
+    },
+    "data/geojson.day/weapons-2025-day-00120.geojson.gz": {
+      "sha256": "fc3cb63f55e072ba735c36c1983170c61ca3afc29ee6338afea8b05c0db9fbda",
+      "size": 277129
+    },
+    "data/geojson.day/weapons-2025-day-00121.geojson.gz": {
+      "sha256": "4517a46db67710bd715c8597ca4c77a9ad6fd8e244f1efb39a7ee9cfd6967deb",
+      "size": 297794
+    },
+    "data/geojson.day/weapons-2025-day-00122.geojson.gz": {
+      "sha256": "d7a5b78def61d94b50f00a9bdd131a6329d6e0f57ec5c6bbd672cf44676b98a5",
+      "size": 279130
+    },
+    "data/geojson.day/weapons-2025-day-00123.geojson.gz": {
+      "sha256": "ac19d24f44e8456f75f64144243cdf8cf1346d6dc8573f107278489902121a15",
+      "size": 268203
+    },
+    "data/geojson.day/weapons-2025-day-00124.geojson.gz": {
+      "sha256": "3c61f29f454a89b22dcc20f4954e6fdd659511f67754f193053109f07f8c5f84",
+      "size": 268680
+    },
+    "data/geojson.day/weapons-2025-day-00125.geojson.gz": {
+      "sha256": "9b46ee14028fa767e5839490ee12b6338f881deea97961a9873030605fab8683",
+      "size": 257581
+    },
+    "data/geojson.day/weapons-2025-day-00126.geojson.gz": {
+      "sha256": "a92b7e76c066deb43f26c83a6e0441f4f8b21c3e25e267a2737ff52f75c21b94",
+      "size": 262304
+    },
+    "data/geojson.day/weapons-2025-day-00127.geojson.gz": {
+      "sha256": "5e87294313b00a16f52af1763c8d75905f198ca4a97b2fd13802bc6ba2d0bfd4",
+      "size": 274481
+    },
+    "data/geojson.day/weapons-2025-day-00128.geojson.gz": {
+      "sha256": "49b8120b8c24282de5055eff5b4db2414cf0f23c18a9abae240ca572b7123633",
+      "size": 272130
+    },
+    "data/geojson.day/weapons-2025-day-00129.geojson.gz": {
+      "sha256": "ee52c6c1f25af55a9aa134c41d15826c455425cf2f17b37b48316ab0eee67c15",
+      "size": 266345
+    },
+    "data/geojson.day/weapons-2025-day-00130.geojson.gz": {
+      "sha256": "6ec239b0b0ae9029e0ee588214d31be991d1b48010fdbe9b8c714c7296ff5e1c",
+      "size": 269210
+    },
+    "data/geojson.day/weapons-2025-day-00131.geojson.gz": {
+      "sha256": "6cdaaac446d8039409fa1b729bbb33210c79f33b3d8a08bb14a0570bffcaf1fb",
+      "size": 263915
+    },
+    "data/geojson.day/weapons-2025-day-00132.geojson.gz": {
+      "sha256": "c9e70fd2ca7a8d95cdf27f218618e48d2f96cdac76e4395f3ab36f2fb0040114",
+      "size": 268500
+    },
+    "data/geojson.day/weapons-2025-day-00133.geojson.gz": {
+      "sha256": "fac657973e1f06ce10a11e84ae70148ccd54190a8441b6dc2e5b703f84a7c139",
+      "size": 265639
+    },
+    "data/geojson.day/weapons-2025-day-00134.geojson.gz": {
+      "sha256": "fa8cfd3b8e35f8da5111c9875b90d287eacad195c03be44416191f542caf0c89",
+      "size": 264859
+    },
+    "data/geojson.day/weapons-2025-day-00135.geojson.gz": {
+      "sha256": "8466c4d3bbc823e864df31906c0980d1800ffaf2e606b47bb585bc8fc6b47c5f",
+      "size": 271435
+    },
+    "data/geojson.day/weapons-2025-day-00136.geojson.gz": {
+      "sha256": "784650672cd4cd49e90732bed0aa4cea15e64c5f3d1b5dcaa9a12496636f1249",
+      "size": 271323
+    },
+    "data/geojson.day/weapons-2025-day-00137.geojson.gz": {
+      "sha256": "c69877228cc625a86b1d69e328620342fd040e2cc43eae73ef8e85a39a661397",
+      "size": 250325
+    },
+    "data/geojson.day/weapons-2025-day-00138.geojson.gz": {
+      "sha256": "7e8ac000210dc61f74d8b4d87aecb41f28dacabe3a6404d5d443dd39928d6a06",
+      "size": 265245
+    },
+    "data/geojson.day/weapons-2025-day-00139.geojson.gz": {
+      "sha256": "aa79efa89d04ecef48d44e9c7f79ccbd8e334c03cf810d1c512d94fd5108c193",
+      "size": 282290
+    },
+    "data/geojson.day/weapons-2025-day-00140.geojson.gz": {
+      "sha256": "05709e3f123667a96fe0029c4e0d1f884d491eb05d37dc783ed36c6476a85d85",
+      "size": 267119
+    },
+    "data/geojson.day/weapons-2025-day-00141.geojson.gz": {
+      "sha256": "4544092a5e60e6b9ea1cd21d4d7477d48dc3c70fb0f090c5ccbf13d1a9e28e43",
+      "size": 252176
+    },
+    "data/geojson.day/weapons-2025-day-00142.geojson.gz": {
+      "sha256": "284c974b008ed1adb42213e8d450ec10c4b349be7856c76d708709eba73dc687",
+      "size": 252984
+    },
+    "data/geojson.day/weapons-2025-day-00143.geojson.gz": {
+      "sha256": "875e780ddcd168023c76882f8a1431037176719f651eac4924c89c37129a7bd1",
+      "size": 273526
+    },
+    "data/geojson.day/weapons-2025-day-00144.geojson.gz": {
+      "sha256": "96efbe04acddb2c00065f3e02fcd9de86d0f1763c742cdea3dcf4270aa925f34",
+      "size": 250990
+    },
+    "data/geojson.day/weapons-2025-day-00145.geojson.gz": {
+      "sha256": "c10e6160ee3392f1b90d5faae20741f78b4a4cdbe605821cf2a4df5fc50e19f0",
+      "size": 254727
+    },
+    "data/geojson.day/weapons-2025-day-00146.geojson.gz": {
+      "sha256": "e868bfbdb3fb8e22af6ad6bb888c3e92dec7c8883174c6224ef269f0a855ab4f",
+      "size": 272418
+    },
+    "data/geojson.day/weapons-2025-day-00147.geojson.gz": {
+      "sha256": "281dace03cd70bbf799bcbb53c8e2568c7084a63fe927676f94571cb7248ba84",
+      "size": 276147
+    },
+    "data/geojson.day/weapons-2025-day-00148.geojson.gz": {
+      "sha256": "3a9c98e6bf79b89c80f1b47e13006e578ab8ca33cae4999ee0a89b92b00c6c82",
+      "size": 273020
+    },
+    "data/geojson.day/weapons-2025-day-00149.geojson.gz": {
+      "sha256": "f5b2860da71bfbfaf74c079a7296a23e61436eb8a2298384223c64f6c2af808d",
+      "size": 272553
+    },
+    "data/geojson.day/weapons-2025-day-00150.geojson.gz": {
+      "sha256": "9299b622fc4f0362a1097cbc2249fc40b6472e1e72ad18f87b34de6d9fef2815",
+      "size": 316330
+    },
+    "data/geojson.day/weapons-2025-day-00151.geojson.gz": {
+      "sha256": "5ed2460920edf559f995d9f385381acd8a740f8bb6476a5730a4082b8cbb0c1a",
+      "size": 270004
+    },
+    "data/geojson.day/weapons-2025-day-00152.geojson.gz": {
+      "sha256": "e508cbd637f87c6f9b7bedb17709b70146e11b64faf9c5b94b587cac64251fba",
+      "size": 257605
+    },
+    "data/geojson.day/weapons-2025-day-00153.geojson.gz": {
+      "sha256": "fcbe4daef3b19531637e16a72eb3e028453cf6ca814cbc8a9a5ece4088c7f1e0",
+      "size": 278088
+    },
+    "data/geojson.day/weapons-2025-day-00154.geojson.gz": {
+      "sha256": "ca0daa2a880bb4bb55ecfcbb9888a77c1bd951b180e2db6413012f968300f450",
+      "size": 283754
+    },
+    "data/geojson.day/weapons-2025-day-00155.geojson.gz": {
+      "sha256": "786ae9fc264c33cadb0e927a36d85481236605c2a9219dc1f3f035461fd3fd41",
+      "size": 282346
+    },
+    "data/geojson.day/weapons-2025-day-00156.geojson.gz": {
+      "sha256": "ccbd6cfca2405e97f5c19a12858b5cfff0eec9ff2b16893c2de4e1f5636a2206",
+      "size": 282046
+    },
+    "data/geojson.day/weapons-2025-day-00157.geojson.gz": {
+      "sha256": "ad6a18175ffaba79e423e955e8c6b0012698976f1b79695c7de75ec195123367",
+      "size": 275606
+    },
+    "data/geojson.day/weapons-2025-day-00158.geojson.gz": {
+      "sha256": "81e28edb0f33025e7d921ceb50b097a5c1e9cb8fbbc87c35a8c6f5d0adc2942f",
+      "size": 273928
+    },
+    "data/geojson.day/weapons-2025-day-00159.geojson.gz": {
+      "sha256": "c846d7cb5ee6630df28958a78dc9ea56e5df1dab2a07c71dc0a7a2f578c0ab5c",
+      "size": 280375
+    },
+    "data/geojson.day/weapons-2025-day-00160.geojson.gz": {
+      "sha256": "cd7496f75d21cab5fd85ea539b0cc145aad5b265519234dca20a3186508803d4",
+      "size": 286223
+    },
+    "data/geojson.day/weapons-2025-day-00161.geojson.gz": {
+      "sha256": "94ed430ad8aa7af670a9af8b9267393dc6a86d0eb0f2ca0335ca00f79388574f",
+      "size": 260275
+    },
+    "data/geojson.day/weapons-2025-day-00162.geojson.gz": {
+      "sha256": "35f1c877aca41f37d467c339d21e19ddc16a9d51dc71c208949102b3f0ca2051",
+      "size": 261665
+    },
+    "data/geojson.day/weapons-2025-day-00163.geojson.gz": {
+      "sha256": "70b4078b6ba103148767d0b988dc53e7bede5402c33a5c179d6ba19c7f4f1499",
+      "size": 283163
+    },
+    "data/geojson.day/weapons-2025-day-00164.geojson.gz": {
+      "sha256": "bfcd9911994f0816ffe43454365908e0fd484e0e5c534013f9b121edb4bc586d",
+      "size": 279330
+    },
+    "data/geojson.day/weapons-2025-day-00165.geojson.gz": {
+      "sha256": "4c72a2660bb9b10b8fb176e72926b31e06ef77d7ac9277ee7ef6685e36ae50f1",
+      "size": 280078
+    },
+    "data/geojson.day/weapons-2025-day-00166.geojson.gz": {
+      "sha256": "08b1c1a99017cf15ba6fc5f06949a66f69dedc0fbb834c96affcc5524f0b9128",
+      "size": 276518
+    },
+    "data/geojson.day/weapons-2025-day-00167.geojson.gz": {
+      "sha256": "5ec22b829a8241014b9073d5125d36179ff816a0b2165aa9f695364758f2fad7",
+      "size": 278753
+    },
+    "data/geojson.day/weapons-2025-day-00168.geojson.gz": {
+      "sha256": "54e03b57b682d42da9a316f7eb8885f30923b89cb3ec71045af4fd786994544f",
+      "size": 293886
+    },
+    "data/geojson.day/weapons-2025-day-00169.geojson.gz": {
+      "sha256": "37e2725d7e0a68e8f4e4fc132b8dbe64fe6ce934eef89bc289269baae400a4b2",
+      "size": 277069
+    },
+    "data/geojson.day/weapons-2025-day-00170.geojson.gz": {
+      "sha256": "e3018bc0414f30d816f761916a0e22321a490871cc10e3468ca8ec686027790c",
+      "size": 268260
+    },
+    "data/geojson.day/weapons-2025-day-00171.geojson.gz": {
+      "sha256": "a881be79465bb69bc896a78e2ee48e4fd55e298141fc7ffd9c44132e24bd735f",
+      "size": 256768
+    },
+    "data/geojson.day/weapons-2025-day-00172.geojson.gz": {
+      "sha256": "6488d2cc5be129178e4cc1ea5d6d5f4f66b34f5c2c2aa4f4a02317e4854eb288",
+      "size": 252644
+    },
+    "data/geojson.day/weapons-2025-day-00173.geojson.gz": {
+      "sha256": "2e2251f516b6886898094beee3f788be18d4cbdd46f0dcf9366a99827690a571",
+      "size": 250454
+    },
+    "data/geojson.day/weapons-2025-day-00174.geojson.gz": {
+      "sha256": "ccc002e563bf556804ef3a077d1aec53ec96918cc3804a1e1a34572361a221bc",
+      "size": 258177
+    },
+    "data/geojson.day/weapons-2025-day-00175.geojson.gz": {
+      "sha256": "451bc80a983dbe96751f1be154231227fb6e0b464a9f848d44a1cbfbffc03563",
+      "size": 265343
+    },
+    "data/geojson.day/weapons-2025-day-00176.geojson.gz": {
+      "sha256": "f5f7607d7a64109093770a850fd9717ffa2442b662216031403327ffee568b13",
+      "size": 272923
+    },
+    "data/geojson.day/weapons-2025-day-00177.geojson.gz": {
+      "sha256": "708b0df820167307d23ae5d597e5bfa0469c8d691dbf32556fd8805177d5d3d3",
+      "size": 264495
+    },
+    "data/geojson.day/weapons-2025-day-00178.geojson.gz": {
+      "sha256": "75a60fce09f967268ccef2e0091d40e30a5df9b9becd44804af702e1de8b8adf",
+      "size": 253825
+    },
+    "data/geojson.day/weapons-2025-day-00179.geojson.gz": {
+      "sha256": "5709c41300e750cd593326d71e19532456f55f3c696e66701fa11607e8226982",
+      "size": 232294
+    },
+    "data/geojson.day/weapons-2025-day-00180.geojson.gz": {
+      "sha256": "a1355e5f3f587fdeae7463b502514480e7e8761f543489a3645e494e44285217",
+      "size": 221492
+    },
+    "data/geojson.day/weapons-2025-day-00181.geojson.gz": {
+      "sha256": "dbc06c89d9fd8af98296d1cbafe90559c447619a880489df13fc9c91346f2b43",
+      "size": 271979
+    },
+    "data/geojson.day/weapons-2025-day-00182.geojson.gz": {
+      "sha256": "876a48bc6fc9874c78cbb94471486c814b77e43478a9bbb455286706e8d40afb",
+      "size": 254299
+    },
+    "data/geojson.day/weapons-2025-day-00183.geojson.gz": {
+      "sha256": "848de5f92af3d846d916c00d833343bb13232d88cfa95ae23beb9e8236af5ae3",
+      "size": 268228
+    },
+    "data/geojson.day/weapons-2025-day-00184.geojson.gz": {
+      "sha256": "e80a3da63b26961e47180da05528770090224836e97e431b7fc766793b066d01",
+      "size": 256661
+    },
+    "data/json/weapons-2025-swarm-day-00001-2025-09-10.json": {
+      "sha256": "6751c4edbffcd21c259162db5066129080dfb5981e7472234018dfe2d58e7c55",
+      "size": 436
+    },
+    "data/json/weapons-2025-swarm-day-00002-2025-09-11.json": {
+      "sha256": "b704395f1fde3a9088de4371bcd09e1584128491a4ca81f264a5a94e4c0c3156",
+      "size": 437
+    },
+    "data/json/weapons-2025-swarm-day-00003-2025-09-12.json": {
+      "sha256": "d247b33873ff4d18a7115a9f950985c9d3a29ce70f4f2602bda1162b3306bad5",
+      "size": 439
+    },
+    "data/json/weapons-2025-swarm-day-00004-2025-09-13.json": {
+      "sha256": "13c4140e928085b01c77da98f3cb19fb22794011b0b7f9fc65b44f00d2de2bfe",
+      "size": 439
+    },
+    "data/json/weapons-2025-swarm-day-00005-2025-09-14.json": {
+      "sha256": "0d932d682134414625d95ac9f7aafe74b51b7db909b6c343722883c85044a460",
+      "size": 439
+    },
+    "data/json/weapons-2025-swarm-day-00006-2025-09-15.json": {
+      "sha256": "311f6e178de12da5ad53171f613fa511f07d83a7b7dbeaea52144ea0b83c9b52",
+      "size": 440
+    },
+    "data/json/weapons-2025-swarm-day-00007-2025-09-16.json": {
+      "sha256": "86381ebf8b8e45938b5f4df33ef280116e9c7d29367bd7650460ba6cd3c69f7a",
+      "size": 440
+    },
+    "data/json/weapons-2025-swarm-day-00008-2025-09-17.json": {
+      "sha256": "b3714af58a6fb8c25a4778f90562f32347ec6bc0322dbfe222fb66aa219f4e8c",
+      "size": 440
+    },
+    "data/json/weapons-2025-swarm-day-00009-2025-09-18.json": {
+      "sha256": "9dff0a460dcf51d4e39b1d99190abac26e8bcf9ccdb8aa33d88e32c0f88be884",
+      "size": 440
+    },
+    "data/json/weapons-2025-swarm-day-00010-2025-09-19.json": {
+      "sha256": "04703160f82cb8f17f98c612bfa001ddf33c628cc86c5ab7017c43b76568d677",
+      "size": 441
+    },
+    "data/json/weapons-2025-swarm-day-00011-2025-09-20.json": {
+      "sha256": "e19e957920afcc1b7ef57d411dfb176d21af27ce8ce1a0013e741e78745484a4",
+      "size": 441
+    },
+    "data/json/weapons-2025-swarm-day-00012-2025-09-21.json": {
+      "sha256": "7c033bd4733e93d714f126048647cdd12116bdbeaf14b1ab2e90560d10a83285",
+      "size": 441
+    },
+    "data/json/weapons-2025-swarm-day-00013-2025-09-22.json": {
+      "sha256": "48cff13b601c086fd88594545f3d109f71f55285aef804207438725e71ab2486",
+      "size": 441
+    },
+    "data/json/weapons-2025-swarm-day-00014-2025-09-23.json": {
+      "sha256": "3c2fcfd220eb04406a49e0c4b27643c8247ae128cfc364cc5ca9d4485dc62b5a",
+      "size": 441
+    },
+    "data/json/weapons-2025-swarm-day-00015-2025-09-24.json": {
+      "sha256": "5e441de894972217d2e9e6d82b4831c34cfe1788a74dff1d21eb960cb52c1b0d",
+      "size": 440
+    },
+    "data/json/weapons-2025-swarm-day-00016-2025-09-25.json": {
+      "sha256": "ac403e3355126ae267e5ef3a0eb8338d8ab5c9db8c4b3f856843a0d81e39ef3b",
+      "size": 440
+    },
+    "data/json/weapons-2025-swarm-day-00017-2025-09-26.json": {
+      "sha256": "7055bba4f5cecfa5d79492b434e1a56a404e8117f1542784b223d3a436a6fca7",
+      "size": 440
+    },
+    "data/json/weapons-2025-swarm-day-00018-2025-09-27.json": {
+      "sha256": "dcdf3bce3055e914b51b152f5e142e355d524d32744260d3eaa846cfc4cd36b3",
+      "size": 440
+    },
+    "data/json/weapons-2025-swarm-day-00019-2025-09-28.json": {
+      "sha256": "0252910f406083b6ebc4168fd1be535ca6e6168b06c23de0391c6a8ac27f0120",
+      "size": 441
+    },
+    "data/json/weapons-2025-swarm-day-00020-2025-09-29.json": {
+      "sha256": "ca23f91908415ddc6686580a3692b3cfa3291e81b43354530732a6e6b017e334",
+      "size": 440
+    },
+    "data/json/weapons-2025-swarm-day-00021-2025-09-30.json": {
+      "sha256": "6cb7668fb6cdaba041de2571128731e25fbdc3c8f94189b2f49a7eef200f95ae",
+      "size": 440
+    },
+    "data/json/weapons-2025-swarm-day-00022-2025-10-01.json": {
+      "sha256": "e0dc0f68c193f7359a4e185fb10215a82e685230c13963c0e6d92206f39ee178",
+      "size": 440
+    },
+    "data/json/weapons-2025-swarm-day-00023-2025-10-02.json": {
+      "sha256": "29ce1a134265024ef115dcd5efcf3c8c4cb24be23cd6f4adbbd7dae8675e91a5",
+      "size": 440
+    },
+    "data/json/weapons-2025-swarm-day-00024-2025-10-03.json": {
+      "sha256": "4f3e42c394d43e35e0ce77dc8399f92cfcc6000bd05c17e47c9ffb58a5f4be33",
+      "size": 440
+    },
+    "data/json/weapons-2025-swarm-day-00025-2025-10-04.json": {
+      "sha256": "bfbeab307604153adc22b5bab114b9bd30b1c606f6661fba39faeb3e9aa82ed1",
+      "size": 440
+    },
+    "data/json/weapons-2025-swarm-day-00026-2025-10-05.json": {
+      "sha256": "f97159048de8291090a08c53df451237101cc0f4eaf9dcffa5e1834c33f25bf8",
+      "size": 440
+    },
+    "data/json/weapons-2025-swarm-day-00027-2025-10-06.json": {
+      "sha256": "6c1137d73fec5358ba6ca64ec0ba8ed62527209dd53d572413c40ab98bfccc95",
+      "size": 440
+    },
+    "data/json/weapons-2025-swarm-day-00028-2025-10-07.json": {
+      "sha256": "4227c74c7643270dae35bbe20a19b9af668b0bb33063f9fa66e4554edd8c5a07",
+      "size": 440
+    },
+    "data/json/weapons-2025-swarm-day-00029-2025-10-08.json": {
+      "sha256": "7296bf01d9a10111c93e513389e21b3e78351dab6776bd04906d8a249587d1b6",
+      "size": 440
+    },
+    "data/json/weapons-2025-swarm-day-00030-2025-10-09.json": {
+      "sha256": "70a0b0d632c241090b3e50538f8e1c56cd9425d959f55b258cb1b00127d30579",
+      "size": 440
+    },
+    "data/json/weapons-2025-swarm-day-00031-2025-10-10.json": {
+      "sha256": "17cfd68305185fab7ed97fc843783af05214c0ea14447752d0d9014634fbb0a6",
+      "size": 440
+    },
+    "data/json/weapons-2025-swarm-day-00032-2025-10-11.json": {
+      "sha256": "00729790fc6c49df4416cbd6ae9b9dd6d589162a672ae6070cd6b86fe57544af",
+      "size": 440
+    },
+    "data/json/weapons-2025-swarm-day-00033-2025-10-12.json": {
+      "sha256": "ddd4f58197bfc529aa6dfd883f50bef1073c2d93ec4965793f661dc1bb168437",
+      "size": 440
+    },
+    "data/json/weapons-2025-swarm-day-00034-2025-10-13.json": {
+      "sha256": "fbaab002342e75b84529a32d3cf6fc7b96d7cfa937f2e5178366bdbd3799dd88",
+      "size": 440
+    },
+    "data/json/weapons-2025-swarm-day-00035-2025-10-14.json": {
+      "sha256": "07e1b1266cceb25307336a8cb08629616d9060cbf9f0ae998367b710ce3fa6ea",
+      "size": 440
+    },
+    "data/json/weapons-2025-swarm-day-00036-2025-10-15.json": {
+      "sha256": "3d26d4753ebc61e7f8bfb07c20c36b47d57d2e46888df6184ed94e7b0629e3f2",
+      "size": 440
+    },
+    "data/json/weapons-2025-swarm-day-00037-2025-10-16.json": {
+      "sha256": "0952a421010ca85e3f685e6eea597374a58e17d50a9357f2ff7718b4d7e37b01",
+      "size": 440
+    },
+    "data/json/weapons-2025-swarm-day-00038-2025-10-17.json": {
+      "sha256": "bf83f2062ae54d143873d6ed4b8c36bbd6a36048b3b6af41d020624d86920d4b",
+      "size": 440
+    },
+    "data/json/weapons-2025-swarm-day-00039-2025-10-18.json": {
+      "sha256": "deee8dc664ba8417a36e5bc7ae2d7daf3acf4909cfc6de8823cdbd346d60f527",
+      "size": 440
+    },
+    "data/json/weapons-2025-swarm-day-00040-2025-10-19.json": {
+      "sha256": "46ff9d875b31f2eac78b4a592fdb9e93bf9ee653a8d82b084cbc1a5cf4a0eb99",
+      "size": 440
+    },
+    "data/json/weapons-2025-swarm-day-00041-2025-10-20.json": {
+      "sha256": "d033567901bef40e0fe8bbf03e6a57011d779ce76e56f65c47a86e9f683b2cd6",
+      "size": 440
+    },
+    "data/json/weapons-2025-swarm-day-00042-2025-10-21.json": {
+      "sha256": "ac91057950b47c5a2537ad6d4062f66e8d033c0c6bbea2ff3299090060b47ba8",
+      "size": 440
+    },
+    "data/json/weapons-2025-swarm-day-00043-2025-10-22.json": {
+      "sha256": "3dcfb54d8636c64c25df0155283b403a350306cfc0ee21f51b4312a9e22ed520",
+      "size": 440
+    },
+    "data/json/weapons-2025-swarm-day-00044-2025-10-23.json": {
+      "sha256": "5f4314996e9e7e4f631afaeab72528980c68504515466016a54be775959edaf8",
+      "size": 440
+    },
+    "data/json/weapons-2025-swarm-day-00045-2025-10-24.json": {
+      "sha256": "5427034e661250d20063fa42cc356c7866cffb100bd07402db12ea4ea0b672fe",
+      "size": 440
+    },
+    "data/json/weapons-2025-swarm-day-00046-2025-10-25.json": {
+      "sha256": "cb736acc9a25017016b664e35ec840e911556a47e294b6e1eb0eeab4e3962de3",
+      "size": 440
+    },
+    "data/json/weapons-2025-swarm-day-00047-2025-10-26.json": {
+      "sha256": "d05325de2e5456c91b5e496e0fce09c5182667b5ccaa57c48a77531bb9d31b4a",
+      "size": 440
+    },
+    "data/json/weapons-2025-swarm-day-00048-2025-10-27.json": {
+      "sha256": "e6e5ff575c1cfc954841a1d45737d03fe9e6a9e435c7ca9cdb35397b51354f83",
+      "size": 440
+    },
+    "data/json/weapons-2025-swarm-day-00049-2025-10-28.json": {
+      "sha256": "57c54ada6fc70b17e5ef5a9e89c3b5880f858e446235581697a886c776f12f2b",
+      "size": 440
+    },
+    "data/json/weapons-2025-swarm-day-00050-2025-10-29.json": {
+      "sha256": "b3891e3e2a8fd54f83c3475904c49bb4644d7a79fcb70a086534051ca0b5c4d4",
+      "size": 440
+    },
+    "data/json/weapons-2025-swarm-day-00051-2025-10-30.json": {
+      "sha256": "e2edc7ff202225e508da79a30f6762157c2161f873b45a37944ef50a06ed9494",
+      "size": 440
+    },
+    "data/json/weapons-2025-swarm-day-00052-2025-10-31.json": {
+      "sha256": "35b4eea2e31d566ec810dbecc12ba7e18263cf101d7dc6fb65dd2d40fb38b617",
+      "size": 440
+    },
+    "data/json/weapons-2025-swarm-day-00053-2025-11-01.json": {
+      "sha256": "570c6075eb344ac4445e1252fb9a0b767886950ef9946d5fddc9a1f2cbaa65c8",
+      "size": 440
+    },
+    "data/json/weapons-2025-swarm-day-00054-2025-11-02.json": {
+      "sha256": "97f91afb51017ce4a7dcbe936ae6ccccb05ee0ecfed4fcba26f337accac083aa",
+      "size": 440
+    },
+    "data/json/weapons-2025-swarm-day-00055-2025-11-03.json": {
+      "sha256": "e7deeb7ff1698dc37bfcfdd5704d7118edea2c858b1e5711c6e085f6ecd586e6",
+      "size": 440
+    },
+    "data/json/weapons-2025-swarm-day-00056-2025-11-04.json": {
+      "sha256": "480425118c30488444ec7e80bdbecb870f1ccac745cc35808e893439e403c49b",
+      "size": 440
+    },
+    "data/json/weapons-2025-swarm-day-00057-2025-11-05.json": {
+      "sha256": "27e76817db45afdca174dbb310987375d9f2e07dd5b394853371fde19eaff546",
+      "size": 440
+    },
+    "data/json/weapons-2025-swarm-day-00058-2025-11-06.json": {
+      "sha256": "a197cdc51ee43ea3da5288644489cd67bc2a40f3da6e599254912cd3acc102b9",
+      "size": 440
+    },
+    "data/json/weapons-2025-swarm-day-00059-2025-11-07.json": {
+      "sha256": "cbf33c53977de950e23ad2125a6cc0f4955bf015d15f16a2b676804dac6969b0",
+      "size": 440
+    },
+    "data/json/weapons-2025-swarm-day-00060-2025-11-08.json": {
+      "sha256": "b37d8a42ee0179f356617eb55616160b3b116e630883c91e81a7a8ccf39a7178",
+      "size": 440
+    },
+    "data/json/weapons-2025-swarm-day-00061-2025-11-09.json": {
+      "sha256": "f89053aed0d5aed3e70ce0af0e947a8c7e9468d0eacbb1d6bfeb9fae5231b135",
+      "size": 440
+    },
+    "data/json/weapons-2025-swarm-day-00062-2025-11-10.json": {
+      "sha256": "8f92d290c2d532d1696288fcce1453792b27d22349a42bfb4aa6fe4fbee87279",
+      "size": 440
+    },
+    "data/json/weapons-2025-swarm-day-00063-2025-11-11.json": {
+      "sha256": "62afb32e5b4df2de5e64d960dc46ba9d720d90ef0a15351068846ed3d55071c0",
+      "size": 440
+    },
+    "data/json/weapons-2025-swarm-day-00064-2025-11-12.json": {
+      "sha256": "5d9718888ca2a2235f32cc7015d6a1bf6f05574fd426cb5c78c51a55d1a868ef",
+      "size": 440
+    },
+    "data/json/weapons-2025-swarm-day-00065-2025-11-13.json": {
+      "sha256": "66d7475ec86eb60da9f7728d96d29a85852ec7dc660d83a7313f847931027788",
+      "size": 440
+    },
+    "data/json/weapons-2025-swarm-day-00066-2025-11-14.json": {
+      "sha256": "e72e1ddaadf529fd9f3261900687d4a01ee4010e2ceebd63d7291050ad437eed",
+      "size": 440
+    },
+    "data/json/weapons-2025-swarm-day-00067-2025-11-15.json": {
+      "sha256": "08ca4e7877091c5ab5beb622ba3f1185e1af6d274816636f9467984d3feac989",
+      "size": 440
+    },
+    "data/json/weapons-2025-swarm-day-00068-2025-11-16.json": {
+      "sha256": "daa5aeacb7183f7fdd3adbd2caa464d6bdfca9d06100b00393fdbeee5acb26f8",
+      "size": 440
+    },
+    "data/json/weapons-2025-swarm-day-00069-2025-11-17.json": {
+      "sha256": "4c3fb17e8fe9d1aa361c7ad0b0ec55ee4283256f4ab27d590b27500c02e4f4da",
+      "size": 440
+    },
+    "data/json/weapons-2025-swarm-day-00070-2025-11-18.json": {
+      "sha256": "f2140e404c015f8e409f053fb0ec708938e9b2c7c6ae85a8f01bb22ae042b773",
+      "size": 440
+    },
+    "data/json/weapons-2025-swarm-day-00071-2025-11-19.json": {
+      "sha256": "60f21b93d64d58867b6541ce565347f9a8843fddb501da944a09f7bfa9bc5bbf",
+      "size": 440
+    },
+    "data/json/weapons-2025-swarm-day-00072-2025-11-20.json": {
+      "sha256": "c45c6adb21a9de19cb29424153bc356d95585f4ecdaa449da9083091a0ae9ead",
+      "size": 440
+    },
+    "data/json/weapons-2025-swarm-day-00073-2025-11-21.json": {
+      "sha256": "59debd3e46b3f28c7b72b93b81536ebc1acd93002ed413d043cdfe1abd62c484",
+      "size": 440
+    },
+    "data/json/weapons-2025-swarm-day-00074-2025-11-22.json": {
+      "sha256": "666c0280a095cd7fb18da5051454e2d30fb0410390bb231c8f78f0f0574585ef",
+      "size": 440
+    },
+    "data/json/weapons-2025-swarm-day-00075-2025-11-23.json": {
+      "sha256": "5a30d6476a26584c9b23f95d0a17b2b34c90cd557e28bba279d6aec14afdbae0",
+      "size": 440
+    },
+    "data/json/weapons-2025-swarm-day-00076-2025-11-24.json": {
+      "sha256": "26984f9804af907e96eea1e03efab04e5fb1cd814d9ad65c6432f2dd55ec3d69",
+      "size": 440
+    },
+    "data/json/weapons-2025-swarm-day-00077-2025-11-25.json": {
+      "sha256": "f35a2e89180c3043e6332cde4f875fa471490d680ecb8b48291c6b586c610a9a",
+      "size": 440
+    },
+    "data/json/weapons-2025-swarm-day-00078-2025-11-26.json": {
+      "sha256": "b4df16823dab222c2e2e5a0cba8da428be8a9ed448310e78dcf25d21a682d83c",
+      "size": 440
+    },
+    "data/json/weapons-2025-swarm-day-00079-2025-11-27.json": {
+      "sha256": "c08435d3e5f57c8135be2bf251aa23a601300bceb54d02ba23f2588a3f7b0931",
+      "size": 440
+    },
+    "data/json/weapons-2025-swarm-day-00080-2025-11-28.json": {
+      "sha256": "5eaef2cdad46b95f6a2e3ac989c8f339b9c7f0eba8d98ba681ccd5dc7c2b77cb",
+      "size": 440
+    },
+    "data/json/weapons-2025-swarm-day-00081-2025-11-29.json": {
+      "sha256": "dbbfc008a9e5fd884b2e1c76fa7bc7d914d6fd3c569c2d587fefc34164fedfe8",
+      "size": 440
+    },
+    "data/json/weapons-2025-swarm-day-00082-2025-11-30.json": {
+      "sha256": "1e00d4bcb705343f323df32e1f91610bf03660dca5dcff81bcc490aeea564a48",
+      "size": 440
+    },
+    "data/json/weapons-2025-swarm-day-00087-2025-12-05.json": {
+      "sha256": "5708b92e01daca65524c482c0010c81a8f0c8eb36f1cd99896aaafbdfc132f1a",
+      "size": 440
+    },
+    "data/json/weapons-2025-swarm-day-00088-2025-12-06.json": {
+      "sha256": "459bdb9af721604c5d31e3a2a070934469d7984303d2659dd6d4f0e7c84d4ad4",
+      "size": 440
+    },
+    "data/json/weapons-2025-swarm-day-00089-2025-12-07.json": {
+      "sha256": "5ccde921c3860cbf49373bbb7a54581e7af51a126815fc12970899e261ebc5fc",
+      "size": 440
+    },
+    "data/json/weapons-2025-swarm-day-00090-2025-12-08.json": {
+      "sha256": "fb202b5d00fc98eb60df3e316b9b296fd7e0d86a6f9e1d4610c96428db392574",
+      "size": 440
+    },
+    "data/json/weapons-2025-swarm-day-00091-2025-12-09.json": {
+      "sha256": "4c276a39312747e8dcdaa2dfdd3761d3ff200147d8596a9795f4f85a38e77df3",
+      "size": 440
+    },
+    "data/json/weapons-2025-swarm-day-00092-2025-12-10.json": {
+      "sha256": "f26335065681c39bf4a6cae0682583a7611115d588ba55e28cb1fc96b7a69706",
+      "size": 440
+    },
+    "data/json/weapons-2025-swarm-day-00093-2025-12-11.json": {
+      "sha256": "e25265124b10be6caa5c1e34cd687b5295783b7657e83a7fd0a60ac93be39eff",
+      "size": 440
+    },
+    "data/json/weapons-2025-swarm-day-00094-2025-12-12.json": {
+      "sha256": "df0ffd11413087c600ea73bf2adca3d3b85269dd656b028031ac07bdc58f9542",
+      "size": 440
+    },
+    "data/json/weapons-2025-swarm-day-00095-2025-12-13.json": {
+      "sha256": "8e928cb495a696b44390aa1702028d0683b57f37df79557ee93c54ed0d2255c8",
+      "size": 440
+    },
+    "data/json/weapons-2025-swarm-day-00096-2025-12-14.json": {
+      "sha256": "dd1018bf2fa1cf0a5161108ef36c61d93fb7d7d7fb27bdb869a79f5007ab07c2",
+      "size": 440
+    },
+    "data/json/weapons-2025-swarm-day-00097-2025-12-15.json": {
+      "sha256": "f019719d5d781d2a2f2004dced8961e2547525a5444255ceaff45fca74ed9d85",
+      "size": 440
+    },
+    "data/json/weapons-2025-swarm-day-00098-2025-12-16.json": {
+      "sha256": "80ff29ac9d6f2f445d1509775a452cd3e565cc1513e4cd038f60fa20360b1436",
+      "size": 440
+    },
+    "data/json/weapons-2025-swarm-day-00099-2025-12-17.json": {
+      "sha256": "f2cd5f8295ffad18d7dd8b0da38dfcd67cd1ccf6ff9a23131a077d468316d3a1",
+      "size": 440
+    },
+    "data/json/weapons-2025-swarm-day-00100-2025-12-18.json": {
+      "sha256": "1dc1edce5b382a1d70579b923c7d170bcb80de4c5341e17ca657061d4fa2c03d",
+      "size": 441
+    },
+    "data/json/weapons-2025-swarm-day-00101-2025-12-19.json": {
+      "sha256": "4e523c7c942b2f2ef4ddca03d2e6c0b210d25dc4e3e641f1a337763b03bc979f",
+      "size": 441
+    },
+    "data/json/weapons-2025-swarm-day-00102-2025-12-20.json": {
+      "sha256": "b0e820fefe1faf2e8bfd9d20ff4a882cb7ef7af8c55d5fa26a7494584e27c52a",
+      "size": 441
+    },
+    "data/json/weapons-2025-swarm-day-00103-2025-12-21.json": {
+      "sha256": "f8fce97f7685c2d7500d6176bf5dfeb78428a348f9612fd7da598b51a7b5b712",
+      "size": 441
+    },
+    "data/json/weapons-2025-swarm-day-00104-2025-12-22.json": {
+      "sha256": "89606e9a188e03e1b0c3d6269765db9850b36ad287bf978a088a9ab9066cd216",
+      "size": 441
+    },
+    "data/json/weapons-2025-swarm-day-00105-2025-12-23.json": {
+      "sha256": "9824ab0c8fd70373a25feac1dae677cbfdd871e6affeff276abc245619d6f751",
+      "size": 441
+    },
+    "data/json/weapons-2025-swarm-day-00106-2025-12-24.json": {
+      "sha256": "31dcc25f3175fb660f960dfbcce764ce8acee8ff43e01756bdb0c6ee67cb2093",
+      "size": 441
+    },
+    "data/json/weapons-2025-swarm-day-00107-2025-12-25.json": {
+      "sha256": "f4679bc09d4a7c6952cb6ffd39923575d2dd6a8d293c78de0a12384fb78910a0",
+      "size": 441
+    },
+    "data/json/weapons-2025-swarm-day-00108-2025-12-26.json": {
+      "sha256": "ffaf339a236d68954567df530eb103e648345805e522ce721ca3fb35c2275922",
+      "size": 441
+    },
+    "data/json/weapons-2025-swarm-day-00109-2025-12-27.json": {
+      "sha256": "b79748917d9ad2dae8e05860d5d69a57580eb9d17b737d4fcc591a67fa60ba7c",
+      "size": 441
+    },
+    "data/json/weapons-2025-swarm-day-00110-2025-12-28.json": {
+      "sha256": "5e5399b37c5c6934f4570dcb5e1d177aac620506d166fd52f6eb89feb23e48b2",
+      "size": 441
+    },
+    "data/json/weapons-2025-swarm-day-00111-2025-12-29.json": {
+      "sha256": "b523676618e9d30f99db5341cbad11561dd17d6a1e1331e8e9ed31268ba00532",
+      "size": 441
+    },
+    "data/json/weapons-2025-swarm-day-00112-2025-12-30.json": {
+      "sha256": "f838a929f21300eeab9e727c35b7fc1b612b9489f66974b6557f645cb4eedc5b",
+      "size": 441
+    },
+    "data/json/weapons-2025-swarm-day-00113-2025-12-31.json": {
+      "sha256": "c10bd4fe4e4bbd70cb476befd3f375b40709c8a7e8918c9c72deceab1f7e6cba",
+      "size": 441
+    },
+    "data/json/weapons-2025-swarm-day-00114-2026-01-01.json": {
+      "sha256": "97b39752ceb60320a69aa1e91694165bad826f57d76747cd26ef74c0ee73c5b7",
+      "size": 441
+    },
+    "data/json/weapons-2025-swarm-day-00115-2026-01-02.json": {
+      "sha256": "4749cb33014626104adbf41dba511dcea1f0201a03dbab4d45194be927037d61",
+      "size": 441
+    },
+    "data/json/weapons-2025-swarm-day-00116-2026-01-03.json": {
+      "sha256": "bc212c85d4d85e1bf060a8b62cae26003a47c82e9af205a57db17a8f3abe9732",
+      "size": 441
+    },
+    "data/json/weapons-2025-swarm-day-00117-2026-01-04.json": {
+      "sha256": "330dd5828450ad65fc54d87d0d06539a7b98ea7d77e26232987b26ee24469935",
+      "size": 441
+    },
+    "data/json/weapons-2025-swarm-day-00118-2026-01-05.json": {
+      "sha256": "b904ffd44576d52a8cba5f57e8410d2454653a31f35bd287cfebe27e92a28345",
+      "size": 441
+    },
+    "data/json/weapons-2025-swarm-day-00119-2026-01-06.json": {
+      "sha256": "99ab06aa6980ec04d2840c601307a6d2479758201a24ad1a7f4b97ada22e7ca4",
+      "size": 441
+    },
+    "data/json/weapons-2025-swarm-day-00120-2026-01-07.json": {
+      "sha256": "a0bf06253c358cd15c9ae0fd86307330f3dacff8e266ee2b301cdec19003a665",
+      "size": 441
+    },
+    "data/json/weapons-2025-swarm-day-00121-2026-01-08.json": {
+      "sha256": "9ddbf7c5c4acd8ee5bbefe8d763df82b89f3ab984f8da1fc50078d892e734a41",
+      "size": 441
+    },
+    "data/json/weapons-2025-swarm-day-00122-2026-01-09.json": {
+      "sha256": "e4669b69e24233f324271518f611b0002d2755f1d7287806f35b665621e5cbdd",
+      "size": 441
+    },
+    "data/json/weapons-2025-swarm-day-00123-2026-01-10.json": {
+      "sha256": "997c9397f8e4855989bf308777d58cb599dded44344bc66c77eb23198c0e0401",
+      "size": 441
+    },
+    "data/json/weapons-2025-swarm-day-00124-2026-01-11.json": {
+      "sha256": "9b7f168500c732a97e8094540adfa60b5bd6502e05caab8fdde06e4971ecb47a",
+      "size": 441
+    },
+    "data/json/weapons-2025-swarm-day-00125-2026-01-12.json": {
+      "sha256": "db82c1aa7e7e497a2ffc1b44c4d11e6f2784a0d6a6ac3c29e1c04ecb3a7b6d68",
+      "size": 441
+    },
+    "data/json/weapons-2025-swarm-day-00126-2026-01-13.json": {
+      "sha256": "14bffbd21096d2385f1a32ee361deb147ec2cb29007019b18857c61b64b43fab",
+      "size": 441
+    },
+    "data/json/weapons-2025-swarm-day-00127-2026-01-14.json": {
+      "sha256": "4f78c881d85ad35b3478287423ee7464834353b8c85ff5302ea6ae6bbf8669d1",
+      "size": 441
+    },
+    "data/json/weapons-2025-swarm-day-00128-2026-01-15.json": {
+      "sha256": "f64ec2d350d145579bc8d1cd4f3079e215b955ebb10b5ee4ef8f74643ddaed25",
+      "size": 441
+    },
+    "data/json/weapons-2025-swarm-day-00129-2026-01-16.json": {
+      "sha256": "114bea1df4d9721eedbd58dcd87841f099947b741edcfa10f379fa43cb709577",
+      "size": 441
+    },
+    "data/json/weapons-2025-swarm-day-00130-2026-01-17.json": {
+      "sha256": "34164aed56e6bb554781791c7c3060bca426f4e5ec1d65a207acb87c0c5ce3be",
+      "size": 441
+    },
+    "data/json/weapons-2025-swarm-day-00131-2026-01-18.json": {
+      "sha256": "b88b8debf656d71b3e1bf965b50b8f61fc96ce242e0d76d136e8de6ba83249ad",
+      "size": 441
+    },
+    "data/json/weapons-2025-swarm-day-00132-2026-01-19.json": {
+      "sha256": "8063183bc82dc38cc3f609ec880522c9a62e7c6c5231297468b2ca304f894e2a",
+      "size": 441
+    },
+    "data/json/weapons-2025-swarm-day-00133-2026-01-20.json": {
+      "sha256": "dca332c0ef1f8e9bc3c12893de8e71d47ce02697a2d4091642f8cd81cf1afb28",
+      "size": 441
+    },
+    "data/json/weapons-2025-swarm-day-00134-2026-01-21.json": {
+      "sha256": "07bac7b54a2bf5d612aad879c11d42dc508ff235ef6f38abd5acf09ea8902883",
+      "size": 441
+    },
+    "data/json/weapons-2025-swarm-day-00135-2026-01-22.json": {
+      "sha256": "fffc1c767973c4e682e5128c406045d4ee9949973962e91cd11f2e65f7b4d437",
+      "size": 441
+    },
+    "data/json/weapons-2025-swarm-day-00136-2026-01-23.json": {
+      "sha256": "8e01dab55cd46167f9b1f25764b894618deee68f6f87e8aac8af2a800234f8bd",
+      "size": 441
+    },
+    "data/json/weapons-2025-swarm-day-00137-2026-01-24.json": {
+      "sha256": "e5bad5304f865002924a426059d2c158187fc66123c5c9c4594cc22105e3dcfa",
+      "size": 441
+    },
+    "data/json/weapons-2025-swarm-day-00138-2026-01-25.json": {
+      "sha256": "f5e7fe8890463a5605c4038bda15bad2ea272d157b0be260fb69076392546c47",
+      "size": 441
+    },
+    "data/json/weapons-2025-swarm-day-00139-2026-01-26.json": {
+      "sha256": "b384f6ea0b56f7f1b0f249ca56f972d2d5a302b39f3fd1361fc94cee9c3021bc",
+      "size": 441
+    },
+    "data/json/weapons-2025-swarm-day-00140-2026-01-27.json": {
+      "sha256": "18941baef8c078183bd1d2f52552292a739e193c138380c04b7db361e3011643",
+      "size": 441
+    },
+    "data/json/weapons-2025-swarm-day-00141-2026-01-28.json": {
+      "sha256": "6df849ecb8744ceecaa9489c4d37e671f8ac4bb7af8593e47c04a40e4d49e75e",
+      "size": 441
+    },
+    "data/json/weapons-2025-swarm-day-00142-2026-01-29.json": {
+      "sha256": "ceed2666ab2d316b12ce593eedb06a9e85c3e679536fe255e49e62c6a919fe2c",
+      "size": 441
+    },
+    "data/json/weapons-2025-swarm-day-00143-2026-01-30.json": {
+      "sha256": "94f7c737117d6463f02de9e52a0d37d29bbde350da86fa6e12c6ed68931cbf8e",
+      "size": 441
+    },
+    "data/json/weapons-2025-swarm-day-00144-2026-01-31.json": {
+      "sha256": "3c81be7e51317a4c45cc72a4d49dd4a305bc75d7843f0dfc387cd7f610330a1b",
+      "size": 441
+    },
+    "data/json/weapons-2025-swarm-day-00145-2026-02-01.json": {
+      "sha256": "80bfa6ed590de3eb55c40610afcb5ed3a7d36ffeafcac4593b7c1304241f6081",
+      "size": 441
+    },
+    "data/json/weapons-2025-swarm-day-00146-2026-02-02.json": {
+      "sha256": "7e414acc0dc197ee1d8b98c6d2006f5d60a00ee42195d8ed0261670f70b0c024",
+      "size": 441
+    },
+    "data/json/weapons-2025-swarm-day-00147-2026-02-03.json": {
+      "sha256": "33119f85fa4e477707c288d584d8e8176fa310425b99d2d5c3edad5d9fa1a96e",
+      "size": 441
+    },
+    "data/json/weapons-2025-swarm-day-00148-2026-02-04.json": {
+      "sha256": "72d4397005901cb8a50d607ca63bd06c2773372fd173678951316eb83034ad80",
+      "size": 441
+    },
+    "data/json/weapons-2025-swarm-day-00149-2026-02-05.json": {
+      "sha256": "8b837b18da7ce8bb6bbcc7bae3c9c8cf89a8b113ebe12d689eccbd3d40d7560e",
+      "size": 441
+    },
+    "data/json/weapons-2025-swarm-day-00150-2026-02-06.json": {
+      "sha256": "66ce3eaa28c0c000b584cac2637e007d4315c679425cb236a034f89cd3396183",
+      "size": 441
+    },
+    "data/json/weapons-2025-swarm-day-00151-2026-02-07.json": {
+      "sha256": "0126d751bf01b41a36f7c6fd3a2abc215c784d924ce10fd44998c37bc3db1c9f",
+      "size": 441
+    },
+    "data/json/weapons-2025-swarm-day-00152-2026-02-08.json": {
+      "sha256": "d9fed05d4045d7488cdeeef43336d1d8ac9f128c054dd4aee36d6baaa0167763",
+      "size": 441
+    },
+    "data/json/weapons-2025-swarm-day-00153-2026-02-09.json": {
+      "sha256": "8cb7d6ff1a1225c69b4ac6960213bb63ef456b2c84cf2daac35d44a6bf9d748f",
+      "size": 441
+    },
+    "data/json/weapons-2025-swarm-day-00154-2026-02-10.json": {
+      "sha256": "3c95a64f50c8672a59a3d701ca6a53dcd0aa47b7fbeda73961f18ed4dd9be689",
+      "size": 441
+    },
+    "data/json/weapons-2025-swarm-day-00155-2026-02-11.json": {
+      "sha256": "456a09934822bf20afc4be27da11f920b41b9b90bc785597e0d7742cab655e40",
+      "size": 441
+    },
+    "data/json/weapons-2025-swarm-day-00156-2026-02-12.json": {
+      "sha256": "c98142237dabddfd13ec3069eb42600473a64aa4c065e7fae3609a8f65778fa9",
+      "size": 441
+    },
+    "data/json/weapons-2025-swarm-day-00157-2026-02-13.json": {
+      "sha256": "f94883abd69fcae1f2b5cbb3e12aa0b3091bbf18cae80d69ac02312b8df4de0c",
+      "size": 441
+    },
+    "data/json/weapons-2025-swarm-day-00158-2026-02-14.json": {
+      "sha256": "e7a0b85e26044b8c4b1485eccf527a435a1e6416e70a346e411cfb149cb30563",
+      "size": 441
+    },
+    "data/json/weapons-2025-swarm-day-00159-2026-02-15.json": {
+      "sha256": "3a45b8c0436ac64ee960b36ba6de3f567293c274edfdd5817d0fe2acdce344b5",
+      "size": 441
+    },
+    "data/json/weapons-2025-swarm-day-00160-2026-02-16.json": {
+      "sha256": "84d1618aa1f725f6a078381e00d1ce1071400a6dc0b0059003f2fd1470fe172e",
+      "size": 441
+    },
+    "data/json/weapons-2025-swarm-day-00161-2026-02-17.json": {
+      "sha256": "371442af4cda74326d03b779f99bef3c0e03f9d2d3eea14e603ff081999a9fd3",
+      "size": 441
+    },
+    "data/json/weapons-2025-swarm-day-00162-2026-02-18.json": {
+      "sha256": "51aabe246d3793e184ab31673e7b39f96daafa92d290ca3e9afb80777902423a",
+      "size": 441
+    },
+    "data/json/weapons-2025-swarm-day-00163-2026-02-19.json": {
+      "sha256": "b4e637684f454c08bd8bc9620b667f6afa2f4a0c0af32d57d90929a11d52435e",
+      "size": 441
+    },
+    "data/json/weapons-2025-swarm-day-00164-2026-02-20.json": {
+      "sha256": "23b807d7e65b7c99687f8bb8cd741b309bbc9a0c25cf1a575aed6f09c77adef6",
+      "size": 441
+    },
+    "data/json/weapons-2025-swarm-day-00165-2026-02-21.json": {
+      "sha256": "e46760f7171641ba4878d20f5d81c60e1960d66ff7ae2fe3aa686d860acac75e",
+      "size": 441
+    },
+    "data/json/weapons-2025-swarm-day-00166-2026-02-22.json": {
+      "sha256": "56fe7b7158294c6c76c6aaf98abfd8960ad7f37367ce0ad7d210c9f3d1d1e16f",
+      "size": 441
+    },
+    "data/json/weapons-2025-swarm-day-00167-2026-02-23.json": {
+      "sha256": "c019a3c0ed64369f4a84a3ed4d41cc9e4f444f79940a8d8d1371acef99c0792c",
+      "size": 441
+    },
+    "data/json/weapons-2025-swarm-day-00168-2026-02-24.json": {
+      "sha256": "21f5072abd461b8d3ffffdd76fd7a3411b647e5d440d4ad95cd4627aa614f473",
+      "size": 441
+    },
+    "data/json/weapons-2025-swarm-day-00169-2026-02-25.json": {
+      "sha256": "d663d72380c6eb8bf636ab73c0f2e027cb76be318ad7cefd67c97a049925c78a",
+      "size": 441
+    },
+    "data/json/weapons-2025-swarm-day-00170-2026-02-26.json": {
+      "sha256": "a2d9ef4651ebc8b8d68a7336119646948bf037cf43fb0d61b8adfb2393e41788",
+      "size": 441
+    },
+    "data/json/weapons-2025-swarm-day-00171-2026-02-27.json": {
+      "sha256": "cbe10b34241b3837cb788eb61dc68310282278388b220ea4afc8db18b562f6db",
+      "size": 441
+    },
+    "data/json/weapons-2025-swarm-day-00172-2026-02-28.json": {
+      "sha256": "fbf97e39e0c231353b098a6e6d0bd65dfb63798dc0e3b76227c38db8b3d93f2d",
+      "size": 441
+    },
+    "data/json/weapons-2025-swarm-day-00173-2026-03-01.json": {
+      "sha256": "a51cbfa35d2381ee04c85b8d124a68acd6d7cc0204a78c88b011031514e1ad18",
+      "size": 441
+    },
+    "data/json/weapons-2025-swarm-day-00174-2026-03-02.json": {
+      "sha256": "d729a823bf6279427d6b0f2dcd654698dfdbe9e319a50c2129c725492d1d54ef",
+      "size": 441
+    },
+    "data/json/weapons-2025-swarm-day-00175-2026-03-03.json": {
+      "sha256": "aaa8e2e830de7364ac67e39e5055db0b7a39d09b9d88105047e2d28111de1a48",
+      "size": 441
+    },
+    "data/json/weapons-2025-swarm-day-00176-2026-03-04.json": {
+      "sha256": "bcced15342587888229aec6db2345d9e15ae22bfa2d459a65dabd197b6154c18",
+      "size": 441
+    },
+    "data/json/weapons-2025-swarm-day-00177-2026-03-05.json": {
+      "sha256": "f86571fd76410471bb74d1e265ba92ca4110a96223c799740046ae951bbca0cb",
+      "size": 441
+    },
+    "data/json/weapons-2025-swarm-day-00178-2026-03-06.json": {
+      "sha256": "8c0927ee08626dbeacbda82edc98180f832eeb847844be76907fd2d718e3c386",
+      "size": 441
+    },
+    "data/json/weapons-2025-swarm-day-00179-2026-03-07.json": {
+      "sha256": "917aceadaf3377ff2c4aaf6d5f0d049b434af6f035c28384f26418734145dccb",
+      "size": 441
+    },
+    "data/json/weapons-2025-swarm-day-00180-2026-03-08.json": {
+      "sha256": "0dc23fd78f385146b7cc382cce3e60be4961d51cf487528c55caa0bb4a66733c",
+      "size": 441
+    },
+    "data/json/weapons-2025-swarm-day-00181-2026-03-09.json": {
+      "sha256": "0e13960cca294ca50c0860b9b2d1dc33a8c4ec1d1c9b953f1a3f96a5f6b4f1cf",
+      "size": 441
+    },
+    "data/json/weapons-2025-swarm-day-00182-2026-03-10.json": {
+      "sha256": "28d1734312b53e4cd9c36b3ff639a02840fcd25f7c165b1a320f1dac45b4c62f",
+      "size": 441
+    },
+    "data/json/weapons-2025-swarm-day-00183-2026-03-11.json": {
+      "sha256": "e3297ddbbc2a50e61f3bf1bab9045db2759f5e2ebaf84ce98bf660d531826158",
+      "size": 441
+    },
+    "data/json/weapons-2025-swarm-day-00184-2026-03-12.json": {
+      "sha256": "8edc2c46c49c927c03fa43cabbfaa29729789925b76292567c66bf1904981e10",
+      "size": 441
+    }
+  },
+  "schema": "alpha60-year-day-product-bundle/1",
+  "source_revisions": {
+    "aggregate_binary": {
+      "sha256": "7408569641f7247fbd00969cffddaf1bb0cf2768c7fc1529f4cc6191ccfeae05",
+      "size": 38582648
+    },
+    "alpha60": "34f34e5c6eaafebbe65d9dbe1ade7609e9e61b2b",
+    "alpha60_data": "8faeae67a5d274d1fc00bffe9fc9318329163b20",
+    "day_product_contract": {
+      "sha256": "0aa0bee3ac14b512c786d3496ab5218a46aff11786ffa6aa9ea85e762fbd6370",
+      "size": 9897
+    },
+    "generate_cache_aggregates": {
+      "sha256": "2e03ba2df36d70d6293d803880c67ae0f2c3afde1ea5837075e31855a258516b",
+      "size": 22934
+    },
+    "metadata": "fbeb53a0b523f937fae2f23d14689d8c5c84dd5a",
+    "package_script": {
+      "sha256": "21d85741346f2bb967f618a36825484d87b3b94cea93dac22781c103abae8a0e",
+      "size": 15384
+    },
+    "year_day_contract": {
+      "sha256": "f1c07d6f2fdc19475a6f25ddaee5923957447a6f49a8009d8b4c9984a63bd883",
+      "size": 9356
+    }
+  },
+  "status": "pass"
+}
