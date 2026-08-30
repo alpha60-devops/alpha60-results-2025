@@ -3,7 +3,7 @@
     "collection_id": "1",
     "collection_key": "zero-day-01",
     "collection_notes": "",
-    "data_version": "2026-08-05",
+    "data_version": "2026-06-18",
     "data_btiha_sort": 1,
     "ip_geolocation_version": "6:1777968300",
     "collection_btiha_duplicates": [
@@ -9991,7 +9991,7 @@
     ],
     "collection_cumulative_by_btiha": [
         {
-            "id": 308,
+            "id": 1232,
             "name": "multi-btih-11-3-x-[rutor.is]Zero.Day.S01.1080p.NF.WEB-DL.H.264-EniaHD",
             "btih": "bde5957a73958acaea59002fa9416bdbf3d43477",
             "resolution": "1080",
@@ -10005,7 +10005,7 @@
             "uuploaders": 173022
         },
         {
-            "id": 297,
+            "id": 1221,
             "name": "multi-btih-0-2-x-Zero Day (2025) (S01) (1080p)",
             "btih": "c436a017cd193298747bf101f169a7b724ea4845",
             "resolution": "1080",
@@ -10019,7 +10019,7 @@
             "uuploaders": 109152
         },
         {
-            "id": 298,
+            "id": 1222,
             "name": "multi-btih-1-2-x-Zero Day (2025) (S01) (720p)",
             "btih": "1030a5c6c16dd1e4bdb8e41ad9190d6338d6ee31",
             "resolution": "720",
@@ -10033,7 +10033,7 @@
             "uuploaders": 68082
         },
         {
-            "id": 307,
+            "id": 1231,
             "name": "multi-btih-10-2-x-[rutor.is]Zero.Day.2025.S01.NF.DUB.WEB-DLRip-AVC.seleZen",
             "btih": "5c39b24c6cd2812cd79d0bbd77c1d2c34ba1cf7c",
             "resolution": "720",
@@ -10047,7 +10047,21 @@
             "uuploaders": 61860
         },
         {
-            "id": 301,
+            "id": 126,
+            "name": "Zero.Day.2025.S01.NF.DUB.WEB-DLRip-AVC.seleZen",
+            "btih": "99b9024da3c6cac694a0ad254ad806a1db14408f",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 2.117168458,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 308413,
+            "uuploaders": 62249
+        },
+        {
+            "id": 1225,
             "name": "multi-btih-4-3-x-Zero.Day.S01.2160p.NF.WEB-DL.H.265-Rutracker",
             "btih": "182de64d76f6fd61cd7c163911c19fc4440829c2",
             "resolution": "2160",
@@ -10061,7 +10075,7 @@
             "uuploaders": 11463
         },
         {
-            "id": 306,
+            "id": 1230,
             "name": "multi-btih-9-2-x-[TR24][OF][FM] Jeff Russo - Zero Day (Soundtrack from the Netflix Series) - 2025 (Soundtracks) [rutracker-6649857]",
             "btih": "8c3908edb63d71e4dbba50a9befb31ebdb189cc2",
             "resolution": "sd",
@@ -10075,7 +10089,7 @@
             "uuploaders": 73594
         },
         {
-            "id": 310,
+            "id": 1234,
             "name": "multi-btih-13-2-x-[rutor.is]Zero.Day.S01.400p.ViruseProject",
             "btih": "7a3cd190b428216cca33e6681159c98e00b526fb",
             "resolution": "sd",
@@ -10173,7 +10187,7 @@
             "uuploaders": 14098
         },
         {
-            "id": 302,
+            "id": 1226,
             "name": "multi-btih-5-2-x-Zero.Day.S01.WEB-DLRip.LF",
             "btih": "47d749828fa5802d63f712467ee5b5c076b6df0f",
             "resolution": "sd",
@@ -10187,7 +10201,7 @@
             "uuploaders": 5756
         },
         {
-            "id": 303,
+            "id": 1227,
             "name": "multi-btih-6-2-x-Zero.Day.S01.WEB-DLRip.Movie.Dubbing",
             "btih": "642435829fc15bdcd00fd6c91fa74838374e6d0b",
             "resolution": "sd",
@@ -10201,7 +10215,7 @@
             "uuploaders": 2417
         },
         {
-            "id": 309,
+            "id": 1233,
             "name": "multi-btih-12-2-x-[rutor.is]Zero.Day.S01.1080p.ViruseProject",
             "btih": "ac940c6ba87bb4873b1b5dc324896c4a1531ca6e",
             "resolution": "1080",
@@ -10339,20 +10353,6 @@
             "i2p": false,
             "udownloaders": 130843,
             "uuploaders": 9254
-        },
-        {
-            "id": 126,
-            "name": "Zero.Day.2025.S01.NF.DUB.WEB-DLRip-AVC.seleZen",
-            "btih": "99b9024da3c6cac694a0ad254ad806a1db14408f",
-            "resolution": "sd",
-            "encoding": "none",
-            "gigabytes": 2.117168458,
-            "creation": "1970-01-01T00:00:00.000000000Z",
-            "ssl": false,
-            "private": false,
-            "i2p": false,
-            "udownloaders": 129410,
-            "uuploaders": 10207
         },
         {
             "id": 33,
@@ -12315,7 +12315,7 @@
             "uuploaders": 702
         },
         {
-            "id": 299,
+            "id": 1223,
             "name": "multi-btih-2-2-x-Zero Day 2025 S01 COMPLETE 1080p NF WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]",
             "btih": "e46b2b27d4bc139b044386f9bee1dc55a8df15c9",
             "resolution": "1080",
@@ -12693,7 +12693,7 @@
             "uuploaders": 498
         },
         {
-            "id": 300,
+            "id": 1224,
             "name": "multi-btih-3-2-x-Zero.Day.2025.S01E03.720p.HEVC.x265-MeGusta [IPT](1)",
             "btih": "e42dc3103f5ee5e4499a89bd203b66fea2fb9484",
             "resolution": "720",
@@ -13323,7 +13323,7 @@
             "uuploaders": 111
         },
         {
-            "id": 304,
+            "id": 1228,
             "name": "multi-btih-7-2-x-Zero.Day.S01E01.Episode.1.720p.HEVC.x265-MeGusta [IPT](1)",
             "btih": "fd39d4b464609dc5b2ed84634247ee558e5b8e72",
             "resolution": "720",
@@ -13435,7 +13435,7 @@
             "uuploaders": 127
         },
         {
-            "id": 305,
+            "id": 1229,
             "name": "multi-btih-8-2-x-Zero.Day.S01E01.Episode.1.XviD-AFG [IPT](1)",
             "btih": "3cec461fedb1ac15aa2374805506bd7f3e4d141d",
             "resolution": "sd",
