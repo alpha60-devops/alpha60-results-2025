@@ -1,0 +1,253 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt28454008",
+    "imdb_id": "tt28454008",
+    "revision": "fbeb53a0b523f937fae2f23d14689d8c5c84dd5a",
+    "wikidata_id": "Q121095142",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lazarus_(Japanese_TV_series)"
+  },
+  "coverage_sha256": "baec7f7c01c16dab6c2a807d6dc4c1047169b0089abe772079fa7027850f041a",
+  "generated_at": "2026-08-30T14:49:07.901800+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "aao-checksum-manifest": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/SHA256SUMS",
+      "sha256": "4a4818facd85b709f0321b0a6de31b4a3eff6f108f3b9354c75632926e6baa48",
+      "size": 266728
+    },
+    "aao-release": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/release.json",
+      "sha256": "3ce0984da2d12b0e3697e76c02608bd9d1a955ee3d00e0a7054bdd297b8f18c8",
+      "size": 1342
+    },
+    "aao-verification": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-aao-verification.json",
+      "sha256": "e01294ebce8e54b65e16ab83017fa5585efe6f7a0a0f1a5e0f734e08d8e223fd",
+      "size": 854
+    },
+    "archive-map": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-cache-archive-map.json",
+      "sha256": "8d4d506f23cd80f46baf010bd17509c916083e75eb8b43b052641138c3f308f1",
+      "size": 125170
+    },
+    "btiha-metadata-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/lazarus-108-cumulative-btiha-media-objects.json",
+      "sha256": "ec4e863f223fdfefcf293a179c41efb3b00f1612a303244a5b29e1eaaa67204d",
+      "size": 136472
+    },
+    "canonical-metadata": {
+      "path": "/tmp/alpha60-swarm-metadata-2025/metadata/lazarus-108.json",
+      "sha256": "0219aa20be0c7eb7077a19942f2e625881d45e3277ceb3061115bcf204771f28",
+      "size": 9851
+    },
+    "coverage-report": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-coverage-evidence/lazarus-108.md",
+      "sha256": "895a7f05394fce4e50d675f6734bf8180cf1a53f84a62b5284bc621ce48810f6",
+      "size": 736
+    },
+    "cumulative-aggregate-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.cumulative/lazarus-108-cumulative-aggregate.geojson.gz",
+      "sha256": "88845054c9d3581df08181ad5b18f3361a5f227ee633faaedad3d808af2b6407",
+      "size": 733097
+    },
+    "cumulative-btiha-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.cumulative/lazarus-108-cumulative-btiha.geojson.gz",
+      "sha256": "f491cef301083bc4501f182e77de9d1788245994b41e51cbdbb1f4af0c599763",
+      "size": 5689726
+    },
+    "cumulative-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/lazarus-108-cumulative.json",
+      "sha256": "29ea8b521877a49eaba456a94588eb1b1afb3ffb119e8c626c5d81952c36f29e",
+      "size": 15690
+    },
+    "day-bundle-receipt": {
+      "path": "/tmp/year-2025-day-bundles/lazarus-108/receipt.json",
+      "sha256": "0f4c7254aff656b781c36eb98348d8663cd180934a5b3d21f75f34916ed06935",
+      "size": 27273
+    },
+    "ip-swarm-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/lazarus-108-cumulative-ip-swarm.json",
+      "sha256": "aff75f9800d66fe8a58803dfe04557adfe07977cd47ab2b1742e710f1d4a3d50",
+      "size": 40039
+    },
+    "published-day-bundle-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-day-product-receipts/lazarus-108.json",
+      "sha256": "0f4c7254aff656b781c36eb98348d8663cd180934a5b3d21f75f34916ed06935",
+      "size": 27273
+    },
+    "week-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/lazarus-108-week.json",
+      "sha256": "0dad4fb4179c3e602f7955ca8a6e80e97ec0f8ac22074e635c6b78c95a9a9973",
+      "size": 566691
+    }
+  },
+  "media_object": "lazarus-108",
+  "published_files": {
+    "data/csv/bytes/lazarus-108-cumulative-detail.2025-btiha-itemized-by-bytes.csv": "bca725a89ed5d15b2b475df63ee260d24baac63b0afa4b7ffaeeada29c992bd5",
+    "docs/itemized/figures/lazarus-108-carto-4k.webp": "d7819a02f950282d428f8e812f2e0bbb8a682e3760839cae463b9bac5f9df13d",
+    "docs/itemized/figures/lazarus-108-carto.png": "8c0954f09d64781ae1084338c5d3a98624cec9de1409edbce16961c63e8eec59",
+    "docs/itemized/figures/lazarus-108-cumulative-detail-btiha-itemized-by-bytes.svg": "962c769fca7cad9b4acf57ea0218ae5741a242a5ffd8db74e62a8206d3e841f3",
+    "docs/itemized/figures/lazarus-108-data-ge-1080p-4k.webp": "f114c13c9cfce6891f5a257d8e6083d89fa697e6e994a1a86bc4906329555e08",
+    "docs/itemized/figures/lazarus-108-data-ge-1080p.webp": "cf98b588cd0f3e399bd207581b6aa7b816459c485731dfbf9661eb1605a7a847",
+    "docs/itemized/figures/lazarus-108-data-lt-1080p-4k.webp": "ee5f0f24cc373618bd22c5f05fe23cdc3a00e39cf990cec0007d383fe940bfc3",
+    "docs/itemized/figures/lazarus-108-data-lt-1080p.webp": "436fb5075a571b78f20cd881e8bc88764a48df6ace2f840fc6012d9c3c3bb9c0",
+    "docs/itemized/figures/lazarus-108-downloads-by-day-day.svg": "96781279d81ef2b45af4e1c76ef08a11f470673a7752fb318dc2b0e30e42180e",
+    "docs/itemized/figures/lazarus-108-downloads-by-week-lazarus-108-week.svg": "72f70bfa08c953f2de31d85ffcc9f4b30416c3e948f02d8a52c743d13515cac5",
+    "docs/itemized/lazarus-108-sample-cache-audit.md": "528e78963ae8ba61a63289c7a3532ba6a912001f17c5b123fd2501f4e0fd998f",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-year-2025-render",
+      "revision": "c520555c40beece2e38f62878e2d4cc1b312c505",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "c192c54f882171dafc74c038ec769f1e68bf8020d12a342d2334086b5b5ee5ea",
+      "size": 36998168
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.cumulative/lazarus-108-cumulative-btiha.geojson.gz",
+        "sha256": "f491cef301083bc4501f182e77de9d1788245994b41e51cbdbb1f4af0c599763",
+        "size": 5689726
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/json/lazarus-108-cumulative-btiha-media-objects.json",
+        "sha256": "ec4e863f223fdfefcf293a179c41efb3b00f1612a303244a5b29e1eaaa67204d",
+        "size": 136472
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/izzi",
+      "revision": "b988ee7fd690a74a696c27c9aadf40c204a4c780",
+      "untracked": false
+    },
+    "media_object": "lazarus-108",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60-results-2025/bin/a60-meta-collection.exe",
+      "sha256": "e71f9def936a6868d5282a5ff7dece07ade360eefa07abebde75434a927220f7",
+      "size": 8743680
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          75.0,
+          46.0,
+          34.0,
+          33.0,
+          33.0,
+          32.0,
+          31.0,
+          28.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Seoul",
+          "Moscow",
+          "Saint Petersburg",
+          "Shanghai",
+          "Istanbul",
+          "Lelystad",
+          "Nanjing",
+          "Amsterdam",
+          "London",
+          "Ashburn"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          79.0,
+          48.0,
+          35.0,
+          34.0,
+          32.0,
+          31.0,
+          28.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Seoul",
+          "Moscow",
+          "Saint Petersburg",
+          "Istanbul",
+          "Lelystad",
+          "Nanjing",
+          "Shanghai",
+          "Amsterdam",
+          "London",
+          "Incheon"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 24,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 18,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 10,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "c520555c40beece2e38f62878e2d4cc1b312c505",
+    "cartofreako": "fc58111b5bfa7667b12f6ade522ae5e566b464d1",
+    "izzi": "b988ee7fd690a74a696c27c9aadf40c204a4c780",
+    "metadata": "fbeb53a0b523f937fae2f23d14689d8c5c84dd5a",
+    "results_aao_adoption": "9cd9d91a6fbb560ac2a96beadf4c83b94daf6a88"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2025"
+}

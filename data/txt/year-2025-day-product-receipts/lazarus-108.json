@@ -1,0 +1,717 @@
+{
+  "archive": {
+    "path": "/home/bkoz/src/alpha60-xperiments/year-2025-archives/lazarus-108.cache/cache.20250802.tar.xz",
+    "sha256": "c3d29a51030b5d9bb3c4378107ac566dc89ed0805a247987cd0c21c3b454c239",
+    "size": 222025184
+  },
+  "authorization": {
+    "archive_mutated": false,
+    "excluded_member_classes": [
+      "hour",
+      "week",
+      "cumulative"
+    ],
+    "raw_samples_opened": false,
+    "scope": "read only streaming of per-torrent day records"
+  },
+  "collection_key": "lazarus-108",
+  "day_cache_stream_contract": {
+    "authorization": {
+      "archive_mutated": false,
+      "excluded_member_classes": [
+        "hour",
+        "week",
+        "cumulative"
+      ],
+      "raw_samples_opened": false,
+      "scope": "read only streaming of per-torrent day records"
+    },
+    "available_day_products": 70,
+    "cache_members": 6705,
+    "collection_key": "lazarus-108",
+    "first_date": "2025-05-25",
+    "first_index": 1,
+    "indices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70
+    ],
+    "last_date": "2025-08-02",
+    "last_index": 70,
+    "missing_indices": [],
+    "sample_span_days": 70,
+    "schema": "alpha60-day-cache-stream-contract/1",
+    "sparse": false,
+    "status": "pass"
+  },
+  "day_product_contract": {
+    "collection_key": "lazarus-108",
+    "day_products": 70,
+    "first_date": "2025-05-25",
+    "first_index": 1,
+    "geojson_data_version": "20260701",
+    "ip_geolocation_version": "6:1777968300",
+    "json_data_version": "2026-08-05",
+    "last_date": "2025-08-02",
+    "last_index": 70,
+    "schema": "alpha60-day-product-contract/1",
+    "sparse": false,
+    "status": "pass"
+  },
+  "publications": {
+    "data/geojson.day/lazarus-108-day-00001.geojson.gz": {
+      "sha256": "5c7b5cea7e7c3b3d75e7e703c6fcd75f2250330abbfacbadfb27b944ec2a08b8",
+      "size": 2647
+    },
+    "data/geojson.day/lazarus-108-day-00002.geojson.gz": {
+      "sha256": "462d114ac3a335294e74c49f49239125011d938ea474be75800609c7ce341e3e",
+      "size": 51647
+    },
+    "data/geojson.day/lazarus-108-day-00003.geojson.gz": {
+      "sha256": "a0cb9b4ab800b473cb28d10d124ac50e0a6598c656c2c628ab5cbed42aafb15e",
+      "size": 52388
+    },
+    "data/geojson.day/lazarus-108-day-00004.geojson.gz": {
+      "sha256": "7128df3db3da767d3b515183b53923960e1818cb019992269b123234d80b6147",
+      "size": 53866
+    },
+    "data/geojson.day/lazarus-108-day-00005.geojson.gz": {
+      "sha256": "9e2bcd94a7fc8be25007e99f52376129d274ecf74d15a982fc79cc2535e8027f",
+      "size": 50018
+    },
+    "data/geojson.day/lazarus-108-day-00006.geojson.gz": {
+      "sha256": "c66305385e47287f18544314afd66b9d6631c359a3df68baf1081fc0b6ed3a6e",
+      "size": 56169
+    },
+    "data/geojson.day/lazarus-108-day-00007.geojson.gz": {
+      "sha256": "3eb523a4232b5a4a3ef5f2f1e6779357827381d25e82ceaeb188c0c50fdb178e",
+      "size": 68504
+    },
+    "data/geojson.day/lazarus-108-day-00008.geojson.gz": {
+      "sha256": "3f8e61f4979e7a2e60b5328e30ed86f6d8df30dee49598fc55d0b9dcdbe6db24",
+      "size": 72831
+    },
+    "data/geojson.day/lazarus-108-day-00009.geojson.gz": {
+      "sha256": "cfe55ca5cbe8c6d7f48aaecd0aafcde75725d66cf50edc55d9c8b09b5b028305",
+      "size": 103966
+    },
+    "data/geojson.day/lazarus-108-day-00010.geojson.gz": {
+      "sha256": "1737b1001ea77a71c2715e6ccac8dfffb9dbffe90a27163ca4135514cf92aff4",
+      "size": 96419
+    },
+    "data/geojson.day/lazarus-108-day-00011.geojson.gz": {
+      "sha256": "4612dca9570391918cf9492d202b8881ce729725429443a4d6c61b36813d35be",
+      "size": 119517
+    },
+    "data/geojson.day/lazarus-108-day-00012.geojson.gz": {
+      "sha256": "06c9b0a65251d5b9704e68c8ce577a45b406bb8f8b17e2681089a2a1c804b73f",
+      "size": 129492
+    },
+    "data/geojson.day/lazarus-108-day-00013.geojson.gz": {
+      "sha256": "f740ebdd128c7e6f4a58a980ddc920af9266ce882324c025097a6ed5a70db32d",
+      "size": 117761
+    },
+    "data/geojson.day/lazarus-108-day-00014.geojson.gz": {
+      "sha256": "68337be2230ec33f99165ecb258228c4b9e537f9477f118ee8470d609294e226",
+      "size": 113467
+    },
+    "data/geojson.day/lazarus-108-day-00015.geojson.gz": {
+      "sha256": "fa0bbf41ed0b170c1ca22b25e264aeb9cf1e2fd75efe24a040304f361aec1229",
+      "size": 118371
+    },
+    "data/geojson.day/lazarus-108-day-00016.geojson.gz": {
+      "sha256": "a95a291afcfd9c1cd44037ad912438ffe008d4202cfa73ff66ecaca6e1506110",
+      "size": 122578
+    },
+    "data/geojson.day/lazarus-108-day-00017.geojson.gz": {
+      "sha256": "47d4a795e186c35db0fa60ffa3756446e9825b75dcf91fdab945f2337fd8bfc8",
+      "size": 111212
+    },
+    "data/geojson.day/lazarus-108-day-00018.geojson.gz": {
+      "sha256": "72179e60cf63f341592a8dd357cf6d6c669d68caeece61ada424a139394536eb",
+      "size": 114578
+    },
+    "data/geojson.day/lazarus-108-day-00019.geojson.gz": {
+      "sha256": "28a6ad04347fb3b579f7c12d4132f0f936c85c42221b9bb93f8ce5239346ca9e",
+      "size": 109485
+    },
+    "data/geojson.day/lazarus-108-day-00020.geojson.gz": {
+      "sha256": "d8e86138564ce7fdbae3afa03c33b48fb073048f38dcb5a03b07d71ce0eae2af",
+      "size": 93585
+    },
+    "data/geojson.day/lazarus-108-day-00021.geojson.gz": {
+      "sha256": "52049b56a01f7957e0d07fc6bbbdcac25968824545b027b996bfdee525aad992",
+      "size": 94861
+    },
+    "data/geojson.day/lazarus-108-day-00022.geojson.gz": {
+      "sha256": "555dec921083bef96645914d9aa77639c93604010f34481c75db9e258a548cfc",
+      "size": 98452
+    },
+    "data/geojson.day/lazarus-108-day-00023.geojson.gz": {
+      "sha256": "a4419cc64ea8c344579e35f4c6127b9206dabcb3d9eed983734030b1bfb0ef14",
+      "size": 111681
+    },
+    "data/geojson.day/lazarus-108-day-00024.geojson.gz": {
+      "sha256": "026e467a818be552545ca1923271da7a353f29efaff65991271c50cf55dcdca6",
+      "size": 114465
+    },
+    "data/geojson.day/lazarus-108-day-00025.geojson.gz": {
+      "sha256": "861f939ea0a475f85d9451a97a4e6667db2bbef68f93744987f948626d782431",
+      "size": 102937
+    },
+    "data/geojson.day/lazarus-108-day-00026.geojson.gz": {
+      "sha256": "4222ae2cc58f162d05547156be398688d56bad768381da8eecadd45c45bdb524",
+      "size": 103527
+    },
+    "data/geojson.day/lazarus-108-day-00027.geojson.gz": {
+      "sha256": "1697f7a4fcbc88efa269252c66ea88c0f2f0a923fe280ab03f97f691a65bde94",
+      "size": 105984
+    },
+    "data/geojson.day/lazarus-108-day-00028.geojson.gz": {
+      "sha256": "dfa906a0d995d56f4c4cf24da05123fe13612b565ff04358d0c72e2cef2687ce",
+      "size": 103443
+    },
+    "data/geojson.day/lazarus-108-day-00029.geojson.gz": {
+      "sha256": "12c90107717e6fbe9c6934cc841c843b6f42ca251025e5393c78e87df436e1bc",
+      "size": 104399
+    },
+    "data/geojson.day/lazarus-108-day-00030.geojson.gz": {
+      "sha256": "8eb2403ea8b8d3640f80002aea55bac76b7b112923f849b6e6f413852e53de5a",
+      "size": 119139
+    },
+    "data/geojson.day/lazarus-108-day-00031.geojson.gz": {
+      "sha256": "af428e080e340c0db7399c2f35746d989a3143ce957e7125a529eb70e51a56ea",
+      "size": 115913
+    },
+    "data/geojson.day/lazarus-108-day-00032.geojson.gz": {
+      "sha256": "077f6353ffacffd9c4d3187dd97bbe19f26e46f83dde8f109059615233770bb0",
+      "size": 111638
+    },
+    "data/geojson.day/lazarus-108-day-00033.geojson.gz": {
+      "sha256": "d07233a51c88a91a3c48c216872cbe021a395cfde5e3912b0ac7bd9f5fe4badb",
+      "size": 108093
+    },
+    "data/geojson.day/lazarus-108-day-00034.geojson.gz": {
+      "sha256": "e76525bb96c0ce7c76b619af291227e55d4c5c2d0626a5bee29770f59171c003",
+      "size": 110248
+    },
+    "data/geojson.day/lazarus-108-day-00035.geojson.gz": {
+      "sha256": "a971a699b271d95566fcf6a3ef33c445415e9cdc389c338efe97059c10a71a86",
+      "size": 100527
+    },
+    "data/geojson.day/lazarus-108-day-00036.geojson.gz": {
+      "sha256": "94b12e809f01982eda5246da9796bbb899e2a670fff72e6ec2bd6ab3f1b5d1be",
+      "size": 95256
+    },
+    "data/geojson.day/lazarus-108-day-00037.geojson.gz": {
+      "sha256": "ab20025a4331474c23d2d3a7c7835ab8a5938f5072c335b2a9d8c3f1799f3d50",
+      "size": 118305
+    },
+    "data/geojson.day/lazarus-108-day-00038.geojson.gz": {
+      "sha256": "694a43aa02ee7a5abf3eeb99928a15fcfd884ad7da99db52ac7edd68859603bc",
+      "size": 106032
+    },
+    "data/geojson.day/lazarus-108-day-00039.geojson.gz": {
+      "sha256": "f97b44f09f030efb039daf6d7cd9cc7cd388d38d7b88947eb582b8a2bad202a7",
+      "size": 92720
+    },
+    "data/geojson.day/lazarus-108-day-00040.geojson.gz": {
+      "sha256": "9fae6be48eb8d69d1f9e5ab68dae65f9a5e7f58d4a1294c914949d8e5661c482",
+      "size": 113663
+    },
+    "data/geojson.day/lazarus-108-day-00041.geojson.gz": {
+      "sha256": "b7d26f84ae54243e6d0447bd5f9201777d1f1b104413421bcf1d10e37948e18b",
+      "size": 117052
+    },
+    "data/geojson.day/lazarus-108-day-00042.geojson.gz": {
+      "sha256": "873f67a0d1392820b1ffc81b4778a7cb30db1e4ee941746ad34f66ba494f2fb1",
+      "size": 99673
+    },
+    "data/geojson.day/lazarus-108-day-00043.geojson.gz": {
+      "sha256": "044de8bf60d7634335280fbf524bb206e8dfb5b592cd85390f5c229e27e8cf16",
+      "size": 102682
+    },
+    "data/geojson.day/lazarus-108-day-00044.geojson.gz": {
+      "sha256": "2b1cb769d47dd5e53372a1a10530229bbed747adf52d176d40c24ac18667cdef",
+      "size": 108906
+    },
+    "data/geojson.day/lazarus-108-day-00045.geojson.gz": {
+      "sha256": "333ed2a2537ae6825e8d9f20c23e2a97465c3ea289fa8dbc248e925a018034df",
+      "size": 105786
+    },
+    "data/geojson.day/lazarus-108-day-00046.geojson.gz": {
+      "sha256": "221361d6f0d7d37cd1de827701b9b148781828af8af7ddb6d58302d010d936c3",
+      "size": 106680
+    },
+    "data/geojson.day/lazarus-108-day-00047.geojson.gz": {
+      "sha256": "cdacef7b7b43c4e5a9a17688458dfdd4e592f7a752852cbc5b9dffb5a5a2d518",
+      "size": 114597
+    },
+    "data/geojson.day/lazarus-108-day-00048.geojson.gz": {
+      "sha256": "703f4005de3aa6a77062c7e99df23d8d71a1e40e460e10b181d97c5211ff7168",
+      "size": 113362
+    },
+    "data/geojson.day/lazarus-108-day-00049.geojson.gz": {
+      "sha256": "5128b3851179c4343c7751646f9b94b3c5da21cab95724cf049ab0c3603d59f5",
+      "size": 109354
+    },
+    "data/geojson.day/lazarus-108-day-00050.geojson.gz": {
+      "sha256": "6dd6a3df9364b54e718844a47f4e1b5807b2937ffb1c14b44614638c88051ccb",
+      "size": 99314
+    },
+    "data/geojson.day/lazarus-108-day-00051.geojson.gz": {
+      "sha256": "448e50218bb7f9a5b6b0ee445a67c8797e742af0808720d2a1c1a0b483423bf1",
+      "size": 104988
+    },
+    "data/geojson.day/lazarus-108-day-00052.geojson.gz": {
+      "sha256": "f207e858c5dc16e096d932c05995169a265225c4fe3b1eb991bedfbaa74b654a",
+      "size": 82350
+    },
+    "data/geojson.day/lazarus-108-day-00053.geojson.gz": {
+      "sha256": "8bfabaf65661982795b74d7aa79adca914c20c177fdb16660ceb0baa6a01aa63",
+      "size": 87078
+    },
+    "data/geojson.day/lazarus-108-day-00054.geojson.gz": {
+      "sha256": "cbd9438e1c775fddf480a1f871284f6bd9350e5f99a77de947eb07920813230b",
+      "size": 91037
+    },
+    "data/geojson.day/lazarus-108-day-00055.geojson.gz": {
+      "sha256": "6124d973cce5e36ee96157ba615129b66951ca1caaa9639912c2fa9ad287c4b0",
+      "size": 106264
+    },
+    "data/geojson.day/lazarus-108-day-00056.geojson.gz": {
+      "sha256": "483647d7927cdec32f317adf3855fc4c6548bc5ca9a592b2c8e770483d5577f0",
+      "size": 83435
+    },
+    "data/geojson.day/lazarus-108-day-00057.geojson.gz": {
+      "sha256": "69de877d84f14ad7d5561572cec2a726f86a3c6e1918540afb5951260ace1a56",
+      "size": 84291
+    },
+    "data/geojson.day/lazarus-108-day-00058.geojson.gz": {
+      "sha256": "8599f72f66d303d1e1ae21a3c7d3413e4110ad35aa32a36093b8e48265044b34",
+      "size": 124680
+    },
+    "data/geojson.day/lazarus-108-day-00059.geojson.gz": {
+      "sha256": "adf7ef4da1f35cd9820a245cbfbff39b30c5e1c2f10f15eb0eaf7b0229cabeee",
+      "size": 103272
+    },
+    "data/geojson.day/lazarus-108-day-00060.geojson.gz": {
+      "sha256": "91f8500a07f3ff952433f0e3c69094b961cb356250f6a547890bfaaf6ebdf1c8",
+      "size": 91388
+    },
+    "data/geojson.day/lazarus-108-day-00061.geojson.gz": {
+      "sha256": "b4060480e8472b43077c29b88b295362dc8a22c77d59d8029fc3459c4ddc3b25",
+      "size": 89989
+    },
+    "data/geojson.day/lazarus-108-day-00062.geojson.gz": {
+      "sha256": "d3e9ed8bcdc32ceb0292514e262f8b98fed252e67218a262d149e2626bc0f1cd",
+      "size": 84550
+    },
+    "data/geojson.day/lazarus-108-day-00063.geojson.gz": {
+      "sha256": "0c73c1fce895439428ea0c5e0f1c1b620cefc03baf6e1b26c746bce0a4fbe9c6",
+      "size": 78571
+    },
+    "data/geojson.day/lazarus-108-day-00064.geojson.gz": {
+      "sha256": "eba6730040dbd3073831429b333904cecbe79d685c27dcfe7aef6ab0cab8297e",
+      "size": 93905
+    },
+    "data/geojson.day/lazarus-108-day-00065.geojson.gz": {
+      "sha256": "de8dbbabb2fdef7c58ced16cb7ef9784d1f2c186d4e72b5d50a20339ac957830",
+      "size": 114992
+    },
+    "data/geojson.day/lazarus-108-day-00066.geojson.gz": {
+      "sha256": "00cec092f212209a23e8a32a7def08137c714b472197343f0faa986fbf6d6ae9",
+      "size": 119896
+    },
+    "data/geojson.day/lazarus-108-day-00067.geojson.gz": {
+      "sha256": "369964aba410da452f5d77a35ca54e428f4ab25d4fad203ab87cfde7d3df6585",
+      "size": 121879
+    },
+    "data/geojson.day/lazarus-108-day-00068.geojson.gz": {
+      "sha256": "84dcdbb14d6468ad3f059a566cd06a7d8c2de0ac3ffd16e65e79ddf388ef7ef1",
+      "size": 119211
+    },
+    "data/geojson.day/lazarus-108-day-00069.geojson.gz": {
+      "sha256": "f6df4e484310ae14e5af2ae6412ab4226099b2685eb1914ceea258e02a1277d1",
+      "size": 149463
+    },
+    "data/geojson.day/lazarus-108-day-00070.geojson.gz": {
+      "sha256": "8b7172650d5135f3a348ed39e7d5255cea102997ef6287135fbaf3c39740e73a",
+      "size": 91359
+    },
+    "data/json/lazarus-108-swarm-day-00001-2025-05-25.json": {
+      "sha256": "a328052215471bc37860f8896d8286edf0715d41a7b3653f5e7018624388c77d",
+      "size": 436
+    },
+    "data/json/lazarus-108-swarm-day-00002-2025-05-26.json": {
+      "sha256": "7a23e18fd67d3d1033428f6f73452ba1242422d8986c751489357ef04058a706",
+      "size": 439
+    },
+    "data/json/lazarus-108-swarm-day-00003-2025-05-27.json": {
+      "sha256": "55de693bfd5c1fdf2f9b1c5ee9d753edc6258c317f035933a78296feb62686ad",
+      "size": 439
+    },
+    "data/json/lazarus-108-swarm-day-00004-2025-05-28.json": {
+      "sha256": "5a7be36974fda1709bd7a9e98d5fc53d94e3fdcce04e529b185338d6fee0e127",
+      "size": 439
+    },
+    "data/json/lazarus-108-swarm-day-00005-2025-05-29.json": {
+      "sha256": "a8b2ddc403add64b0925cd82fa2e352fd44ea9814d10d8e4b9270b2744b70249",
+      "size": 439
+    },
+    "data/json/lazarus-108-swarm-day-00006-2025-05-30.json": {
+      "sha256": "baad0fbd9ef0b1bfad098948ddeae77560d75cd6388e1e5ee41114a70a30bf3d",
+      "size": 439
+    },
+    "data/json/lazarus-108-swarm-day-00007-2025-05-31.json": {
+      "sha256": "2adde44ba5effdcf75117f6e083ad949c5c8777e99e6e5293655d5de345b865d",
+      "size": 439
+    },
+    "data/json/lazarus-108-swarm-day-00008-2025-06-01.json": {
+      "sha256": "4ef8cd907a189f6bb9243f4da524f77ca1edf53547bdaf896f9ee5afc59ec9f5",
+      "size": 439
+    },
+    "data/json/lazarus-108-swarm-day-00009-2025-06-02.json": {
+      "sha256": "64796c68936ece6aa0592f9d3f8b720b1089e1325a3ec4af177e17a385fe2457",
+      "size": 440
+    },
+    "data/json/lazarus-108-swarm-day-00010-2025-06-03.json": {
+      "sha256": "37cd3e7442e7cda1fee472f01e3d1d278406ca244c01606499b54f68edbcebe4",
+      "size": 442
+    },
+    "data/json/lazarus-108-swarm-day-00011-2025-06-04.json": {
+      "sha256": "9d8702795a583a481c5141c07717bcbb49957446daa25ab93a201fed34f26824",
+      "size": 442
+    },
+    "data/json/lazarus-108-swarm-day-00012-2025-06-05.json": {
+      "sha256": "86047061e21f7c68142e14f237ec81116db4289ee8f28aebb3f4a34a731752b8",
+      "size": 442
+    },
+    "data/json/lazarus-108-swarm-day-00013-2025-06-06.json": {
+      "sha256": "52ae40ffba86cbb081f189e320b48bc347c49dd2e48ef53af8bb57edbb217693",
+      "size": 442
+    },
+    "data/json/lazarus-108-swarm-day-00014-2025-06-07.json": {
+      "sha256": "7f684087f21444ccfa88d19aa8b53dd6e7c39b17bbacab55eb8357bcf538723e",
+      "size": 442
+    },
+    "data/json/lazarus-108-swarm-day-00015-2025-06-08.json": {
+      "sha256": "1a2a2a5d070f199fd76cf9739c4a89f2727f8885407fe39920bb31affcd12113",
+      "size": 442
+    },
+    "data/json/lazarus-108-swarm-day-00016-2025-06-09.json": {
+      "sha256": "c0f9d2b6f5d9606e81918f3e3faab53478bb7a1beefe19b2e7f4b98e5607f2f2",
+      "size": 442
+    },
+    "data/json/lazarus-108-swarm-day-00017-2025-06-10.json": {
+      "sha256": "ef1dbd314bf9002b43e15b153a4bd7eeee5bdd2b3b93519d7f83154c19950031",
+      "size": 442
+    },
+    "data/json/lazarus-108-swarm-day-00018-2025-06-11.json": {
+      "sha256": "ff8ca9d156b2e21183ec26de312820c272abaaf0755127dfca90cf1456b6554c",
+      "size": 442
+    },
+    "data/json/lazarus-108-swarm-day-00019-2025-06-12.json": {
+      "sha256": "17e3ecad3e21148dafd4664196d1b2156bdc390e4a9790d2c07b7a5c7ce7a52c",
+      "size": 441
+    },
+    "data/json/lazarus-108-swarm-day-00020-2025-06-13.json": {
+      "sha256": "a16d6048e18efed44117d4610db4a4797086bbcf1536e15ad822007710e995f3",
+      "size": 441
+    },
+    "data/json/lazarus-108-swarm-day-00021-2025-06-14.json": {
+      "sha256": "eab8f56b8d1f17924470826f8ef29c702c48ab15c502cc9e89c3e1e22a7909df",
+      "size": 442
+    },
+    "data/json/lazarus-108-swarm-day-00022-2025-06-15.json": {
+      "sha256": "11e5851000c7966f347307918ededc0a388e0f0f279fa64b81f6c07fcb4609a5",
+      "size": 441
+    },
+    "data/json/lazarus-108-swarm-day-00023-2025-06-16.json": {
+      "sha256": "33f6575ecf8c982969d195cb74ea654a7518d71061c8b794009c9c477d2b190f",
+      "size": 441
+    },
+    "data/json/lazarus-108-swarm-day-00024-2025-06-17.json": {
+      "sha256": "84381c4b98b65d3e6b536360c082187b126a48368b17c6b68a95004cab6e4804",
+      "size": 441
+    },
+    "data/json/lazarus-108-swarm-day-00025-2025-06-18.json": {
+      "sha256": "f2743de10ae209289c9267a7074799d6115651e475f7100eaf358ff1136a80f7",
+      "size": 441
+    },
+    "data/json/lazarus-108-swarm-day-00026-2025-06-19.json": {
+      "sha256": "377b0e2949e7c1cb9df89533a91411e76e534f091c8af54c6e8d041a9fbabde3",
+      "size": 441
+    },
+    "data/json/lazarus-108-swarm-day-00027-2025-06-20.json": {
+      "sha256": "0d813df1d149f1c808bb2a3dc2d82eaaadf3df34f24e461396267cd587f27303",
+      "size": 441
+    },
+    "data/json/lazarus-108-swarm-day-00028-2025-06-21.json": {
+      "sha256": "e1b1b052b77624cc27c455df2d49733efc4a01e664f193b2e204e2aa07af827d",
+      "size": 441
+    },
+    "data/json/lazarus-108-swarm-day-00029-2025-06-22.json": {
+      "sha256": "4ff063ee0e60e05ff9596d7e575b7bb57a48b8726fcf0d231cd6e84252908f00",
+      "size": 441
+    },
+    "data/json/lazarus-108-swarm-day-00030-2025-06-23.json": {
+      "sha256": "84ac1003dc93534bc2efa4f9d7904f4dcda92205895d1e2b93e826e0435a3174",
+      "size": 441
+    },
+    "data/json/lazarus-108-swarm-day-00031-2025-06-24.json": {
+      "sha256": "29a136cedf0f8b12bfe6a3e55531b8bb519eda3b80de60dd795eb4a78a8d2acd",
+      "size": 441
+    },
+    "data/json/lazarus-108-swarm-day-00032-2025-06-25.json": {
+      "sha256": "b4a79438ca5ae8d7164084ca8176eb6c906314a17a3dd814992bd777b3fc7d01",
+      "size": 441
+    },
+    "data/json/lazarus-108-swarm-day-00033-2025-06-26.json": {
+      "sha256": "0e4d4a9f158cc291d228f3398c80a09ea96caa7f19803adaec7d3a3f1751a377",
+      "size": 441
+    },
+    "data/json/lazarus-108-swarm-day-00034-2025-06-27.json": {
+      "sha256": "01b8f7bfd1bb6528a01c7f2620253e9822219ef592293cff490c09b2357890be",
+      "size": 441
+    },
+    "data/json/lazarus-108-swarm-day-00035-2025-06-28.json": {
+      "sha256": "9a4a30938d71fac79aafe2d706a15bba151b3f21f48d50e633f8b98c713cc60b",
+      "size": 441
+    },
+    "data/json/lazarus-108-swarm-day-00036-2025-06-29.json": {
+      "sha256": "abe66c1335c8d0a744210ff5f6149d21dc748af261f781303c25188faf2cf35a",
+      "size": 441
+    },
+    "data/json/lazarus-108-swarm-day-00037-2025-06-30.json": {
+      "sha256": "a95b92a638e53a5c3089d8cfa0a60a56d7c763d1437e38fe25c346ce0732ef70",
+      "size": 441
+    },
+    "data/json/lazarus-108-swarm-day-00038-2025-07-01.json": {
+      "sha256": "de7eee7cba49c9906001278c2795155bcef63589359e76ee282fe64334a4615d",
+      "size": 441
+    },
+    "data/json/lazarus-108-swarm-day-00039-2025-07-02.json": {
+      "sha256": "4938c2f9dd7e3f6adee25e05487c943b31083b8e8dc37b4a8c4827d867d1db49",
+      "size": 441
+    },
+    "data/json/lazarus-108-swarm-day-00040-2025-07-03.json": {
+      "sha256": "d69aa7ad8d5a130095ec4b1643d50e91d07f8d56f3dd6536a56f2f73fb6a410c",
+      "size": 441
+    },
+    "data/json/lazarus-108-swarm-day-00041-2025-07-04.json": {
+      "sha256": "6cdcb04a17d16d997971c197a102b17a4b624abeccc0508442d7c05b98165004",
+      "size": 441
+    },
+    "data/json/lazarus-108-swarm-day-00042-2025-07-05.json": {
+      "sha256": "fb045e4830e2661be32b86b6e0e53d4fd8f44d71cd8c1cc391c9cbb4fcb7d636",
+      "size": 441
+    },
+    "data/json/lazarus-108-swarm-day-00043-2025-07-06.json": {
+      "sha256": "9b597ccb31cfc69ca09b77006186720973795ad16a33854476fbd5afb05d22d5",
+      "size": 441
+    },
+    "data/json/lazarus-108-swarm-day-00044-2025-07-07.json": {
+      "sha256": "9780277d3b096428f8b5315586dba67231df9e75a6d6300209e81ce885edea6f",
+      "size": 441
+    },
+    "data/json/lazarus-108-swarm-day-00045-2025-07-08.json": {
+      "sha256": "2bda3557068d60eba93a3aafcaa754e774c03259e5ea54812f5d261f04727790",
+      "size": 441
+    },
+    "data/json/lazarus-108-swarm-day-00046-2025-07-09.json": {
+      "sha256": "6c5bba81ec52cebf152224a058698ab3ff88ea03ba01174becbbe3dd81b343a7",
+      "size": 441
+    },
+    "data/json/lazarus-108-swarm-day-00047-2025-07-10.json": {
+      "sha256": "e0a03b8d4244cd158fa50a8c8e7879c29c1d7f4936af4ef68fcdc1ffec94ba1c",
+      "size": 441
+    },
+    "data/json/lazarus-108-swarm-day-00048-2025-07-11.json": {
+      "sha256": "1ee4246185f02b5f6dae61d6ccfc13302de50e5dce4e0c93dae415bafe496ff1",
+      "size": 441
+    },
+    "data/json/lazarus-108-swarm-day-00049-2025-07-12.json": {
+      "sha256": "4343133b74d543dad8b0d12b1140e3dcbf93e9ac03b88de245ba83336beb0f71",
+      "size": 441
+    },
+    "data/json/lazarus-108-swarm-day-00050-2025-07-13.json": {
+      "sha256": "ea9ff01dd0b936ed3dad2b1c1b8ae54e3e37272ef006970bdf6c5adfaf796b11",
+      "size": 441
+    },
+    "data/json/lazarus-108-swarm-day-00051-2025-07-14.json": {
+      "sha256": "0f871fae64c3f838aa0a3f36ce55e3e66175bfd1903af8265bda5fc0ae4cdfa6",
+      "size": 441
+    },
+    "data/json/lazarus-108-swarm-day-00052-2025-07-15.json": {
+      "sha256": "9cbf58b1cf215e48182ee8e40ad6ab901fe5d55610188a64fc7029f5e089f930",
+      "size": 441
+    },
+    "data/json/lazarus-108-swarm-day-00053-2025-07-16.json": {
+      "sha256": "bfbf985fba5e59a0139e65456cacd3a924e9c85f168da499f25cf0ef88a7a7a4",
+      "size": 441
+    },
+    "data/json/lazarus-108-swarm-day-00054-2025-07-17.json": {
+      "sha256": "a9288b90f4566677d07744b7ab1082a071471d622f583df39417a0d00a18399f",
+      "size": 441
+    },
+    "data/json/lazarus-108-swarm-day-00055-2025-07-18.json": {
+      "sha256": "f31a3b017b13daa1aa279dd62ad469a3ec4b898f2886bceb47f18abb932e34d6",
+      "size": 441
+    },
+    "data/json/lazarus-108-swarm-day-00056-2025-07-19.json": {
+      "sha256": "f924281a861006924fe4bd6adc59bb72199d972d2c0caa8c606ab5b2c74756df",
+      "size": 441
+    },
+    "data/json/lazarus-108-swarm-day-00057-2025-07-20.json": {
+      "sha256": "6f5958e4bfc4d00096e2c40c966a3b61081d3077dbd38d95231664dd59297ea8",
+      "size": 441
+    },
+    "data/json/lazarus-108-swarm-day-00058-2025-07-21.json": {
+      "sha256": "4b9a5d04d9ca706cdf94d4de630ce474560344f68ed79933755597343cc1524b",
+      "size": 441
+    },
+    "data/json/lazarus-108-swarm-day-00059-2025-07-22.json": {
+      "sha256": "2d8dbc3dbac5b5c821c8555a7a57eb7f16d4d99dcac973613e27d51aee6ea8e4",
+      "size": 441
+    },
+    "data/json/lazarus-108-swarm-day-00060-2025-07-23.json": {
+      "sha256": "660950642cccb32440e156fa16f34640d112251caa886f58697551785782c0f0",
+      "size": 441
+    },
+    "data/json/lazarus-108-swarm-day-00061-2025-07-24.json": {
+      "sha256": "ebe47c50e01fe5a9afe566c38a871cd2b1f2f97ae7e3823b39f2fc1e39a29fbf",
+      "size": 441
+    },
+    "data/json/lazarus-108-swarm-day-00062-2025-07-25.json": {
+      "sha256": "bd2450a3b236476757e4bb860fc4502f787c45063ce88fcb46a6ccbd1b0ba926",
+      "size": 441
+    },
+    "data/json/lazarus-108-swarm-day-00063-2025-07-26.json": {
+      "sha256": "48d94799d9862aeeaaf961d0b5ec0166193cbacfe87bf9594d11eed7f3a3092b",
+      "size": 441
+    },
+    "data/json/lazarus-108-swarm-day-00064-2025-07-27.json": {
+      "sha256": "aa190d6673768d91b62850b07efb2c1fe67d720bbea38825b4bd069bfaf06891",
+      "size": 441
+    },
+    "data/json/lazarus-108-swarm-day-00065-2025-07-28.json": {
+      "sha256": "af96d5d44876e555fc3c952eb5017812d516d315bb9b907b8e63289cc6346cf2",
+      "size": 441
+    },
+    "data/json/lazarus-108-swarm-day-00066-2025-07-29.json": {
+      "sha256": "52c8b7d5ee92466d0d5b92abd70ea65a04a4daea99e707087fc1043b844c4c91",
+      "size": 441
+    },
+    "data/json/lazarus-108-swarm-day-00067-2025-07-30.json": {
+      "sha256": "27f753a79e20bd0da5ca4bfc7265965222b66a819944501bd0f0cac48df2eb6a",
+      "size": 441
+    },
+    "data/json/lazarus-108-swarm-day-00068-2025-07-31.json": {
+      "sha256": "9e6ece686c61ea8cf8c5b0c08023813bc2b95715224d4ae197e489a216a441dc",
+      "size": 442
+    },
+    "data/json/lazarus-108-swarm-day-00069-2025-08-01.json": {
+      "sha256": "107dba4d7bfacf5fd234d50c7dee18569aae4473bb25203d3ee2a7c1aaafdaaf",
+      "size": 441
+    },
+    "data/json/lazarus-108-swarm-day-00070-2025-08-02.json": {
+      "sha256": "f58d19b3bc9c822790a4790bc0a0b32241b4adcdeeaea6a0afbd11514018d56d",
+      "size": 441
+    }
+  },
+  "schema": "alpha60-year-day-product-bundle/1",
+  "source_revisions": {
+    "aggregate_binary": {
+      "sha256": "7408569641f7247fbd00969cffddaf1bb0cf2768c7fc1529f4cc6191ccfeae05",
+      "size": 38582648
+    },
+    "alpha60": "eba8537ed9a6e7a09ae3de163b01460f5ad1ad7e",
+    "alpha60_data": "8faeae67a5d274d1fc00bffe9fc9318329163b20",
+    "day_product_contract": {
+      "sha256": "0aa0bee3ac14b512c786d3496ab5218a46aff11786ffa6aa9ea85e762fbd6370",
+      "size": 9897
+    },
+    "generate_cache_aggregates": {
+      "sha256": "504078e192d9c8182df74e41b98cec08123c5a8b7d0eb7f812d09c1fe5d07010",
+      "size": 17151
+    },
+    "metadata": "fbeb53a0b523f937fae2f23d14689d8c5c84dd5a",
+    "package_script": {
+      "sha256": "516d6ecdccd24b1b66cf80c185219fa47d52af22f672b836773896df621b1666",
+      "size": 14724
+    },
+    "year_day_contract": {
+      "sha256": "f1c07d6f2fdc19475a6f25ddaee5923957447a6f49a8009d8b4c9984a63bd883",
+      "size": 9356
+    }
+  },
+  "status": "pass"
+}
