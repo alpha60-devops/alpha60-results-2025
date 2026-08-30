@@ -1,0 +1,30 @@
+{
+  "manifest_sha256": "4a4818facd85b709f0321b0a6de31b4a3eff6f108f3b9354c75632926e6baa48",
+  "payload": {
+    "bytes": 12524153251,
+    "expected": 2264,
+    "failed": 0,
+    "passed": 2264
+  },
+  "release": {
+    "complete": true,
+    "inventory": 83,
+    "readme": {
+      "sha256": "4f1a3264d9f70a3a0a0031dd817a042f2d708dd50543f27c136c6e88af9293b4",
+      "size": 1502
+    },
+    "release_json": {
+      "sha256": "3ce0984da2d12b0e3697e76c02608bd9d1a955ee3d00e0a7054bdd297b8f18c8",
+      "size": 1342
+    }
+  },
+  "schema": "alpha60-aao-adoption-verification/1",
+  "source": "/home/bkoz/src/alpha60-results-2025.aao/data",
+  "status": "pass",
+  "verification": {
+    "command": "sha256sum -c SHA256SUMS",
+    "mode": "read-only source verification followed by exact-byte adoption",
+    "verified_at": "2026-08-29T23:50:56-07:00"
+  },
+  "year": 2025
+}

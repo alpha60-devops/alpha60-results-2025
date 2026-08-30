@@ -2,11 +2,11 @@
   "assignment_policy": "largest-archive-first-minimum-assigned-bytes",
   "cache_root": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold",
   "counts": {
-    "approved_filename_date_mismatches": 4,
+    "approved_filename_date_mismatches": 0,
     "eligible_archives": 104,
     "records": 83,
-    "sample_end_matches": 79,
-    "selected_archive_bytes": 180529208068,
+    "sample_end_matches": 83,
+    "selected_archive_bytes": 183011163908,
     "selected_archive_hashes": 83,
     "unique_records": 83
   },
@@ -15,17 +15,17 @@
     "sha256": "cc67f2588417d1b700330839555655210449fe64223981f4f9c681528c927821"
   },
   "overrides": {
-    "count": 4,
+    "count": 0,
     "path": "/home/bkoz/src/alpha60/config/year-2025-cache-archive-date-overrides.json",
-    "sha256": "9c4aa59e8d7700f3136162736173c770a28fa0e9b07c4e3cace0ec387b028b4f"
+    "sha256": "626576e949033159af705279c96f9042a0d11ce3c53e8489e45e59a511299b64"
   },
   "owners": {
     "eureka": {
-      "archive_bytes": 90315585616,
+      "archive_bytes": 91556280288,
       "records": 41
     },
     "ord": {
-      "archive_bytes": 90213622452,
+      "archive_bytes": 91454883620,
       "records": 42
     }
   },
@@ -46,7 +46,7 @@
         "required_sample_start": "2025-08-13",
         "status": "pending-read-only-stream"
       },
-      "owner": "eureka",
+      "owner": "ord",
       "release": {
         "collection_id": "101, 102, 103",
         "collection_name": "Alien: Earth",
@@ -126,7 +126,7 @@
         "required_sample_start": "2025-01-10",
         "status": "pending-read-only-stream"
       },
-      "owner": "eureka",
+      "owner": "ord",
       "release": {
         "collection_id": "S01",
         "collection_name": "American Primeval",
@@ -258,7 +258,7 @@
         "required_sample_start": "2025-05-14",
         "status": "pending-read-only-stream"
       },
-      "owner": "ord",
+      "owner": "eureka",
       "release": {
         "collection_id": "210, 211, 212",
         "collection_name": "Andor",
@@ -338,7 +338,7 @@
         "required_sample_start": "2025-06-26",
         "status": "pending-read-only-stream"
       },
-      "owner": "eureka",
+      "owner": "ord",
       "release": {
         "collection_id": "S04",
         "collection_name": "The Bear",
@@ -378,7 +378,7 @@
         "required_sample_start": "2025-11-26",
         "status": "pending-read-only-stream"
       },
-      "owner": "ord",
+      "owner": "eureka",
       "release": {
         "collection_id": "",
         "collection_name": "The Beatles: Anthology",
@@ -418,7 +418,7 @@
         "required_sample_start": "2025-04-02",
         "status": "pending-read-only-stream"
       },
-      "owner": "ord",
+      "owner": "eureka",
       "release": {
         "collection_id": "2025",
         "collection_name": "Black Bag",
@@ -498,7 +498,7 @@
         "required_sample_start": "2025-09-05",
         "status": "pending-read-only-stream"
       },
-      "owner": "eureka",
+      "owner": "ord",
       "release": {
         "collection_id": "107, 108, 109",
         "collection_name": "Chief of War",
@@ -618,7 +618,7 @@
         "required_sample_start": "2025-02-18",
         "status": "pending-read-only-stream"
       },
-      "owner": "eureka",
+      "owner": "ord",
       "release": {
         "collection_id": "",
         "collection_name": "Companion",
@@ -698,7 +698,7 @@
         "required_sample_start": "2025-03-09",
         "status": "pending-read-only-stream"
       },
-      "owner": "eureka",
+      "owner": "ord",
       "release": {
         "collection_id": "301, 302, 303",
         "collection_name": "Dark Winds",
@@ -1022,7 +1022,7 @@
         "required_sample_start": "2025-12-17",
         "status": "pending-read-only-stream"
       },
-      "owner": "ord",
+      "owner": "eureka",
       "release": {
         "collection_id": "201, 202, 203",
         "collection_name": "Fallout",
@@ -1118,7 +1118,7 @@
         "required_sample_start": "2025-09-17",
         "status": "pending-read-only-stream"
       },
-      "owner": "ord",
+      "owner": "eureka",
       "release": {
         "collection_id": "201, 202, 203",
         "collection_name": "Gen V",
@@ -1198,7 +1198,7 @@
         "required_sample_start": "2025-04-11",
         "status": "pending-read-only-stream"
       },
-      "owner": "eureka",
+      "owner": "ord",
       "release": {
         "collection_id": "401, 402, 403",
         "collection_name": "Hacks",
@@ -1238,7 +1238,7 @@
         "required_sample_start": "2025-05-16",
         "status": "pending-read-only-stream"
       },
-      "owner": "ord",
+      "owner": "eureka",
       "release": {
         "collection_id": "408, 409, 410",
         "collection_name": "Hacks",
@@ -1318,7 +1318,7 @@
         "required_sample_start": "2025-08-22",
         "status": "pending-read-only-stream"
       },
-      "owner": "ord",
+      "owner": "eureka",
       "release": {
         "collection_id": "301, 302, 303",
         "collection_name": "Invasion",
@@ -1464,11 +1464,11 @@
     },
     {
       "archive": {
-        "filename": "cache.20250831.tar.xz",
-        "filename_date": "20250831",
-        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/last-of-us-201.cache/cache.20250831.tar.xz",
-        "sha256": "22e460287a1969082b73752dffb53ab7cf566af30e3eed4b3480e0da3d5e2abf",
-        "size": 2972423804
+        "filename": "cache.20251026.tar.xz",
+        "filename_date": "20251026",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/last-of-us-201.cache/cache.20251026.tar.xz",
+        "sha256": "0dec4b42af191d4fca77a0c46c185326d55c59506474cef05e066f17fc10e0ff",
+        "size": 5454379644
       },
       "collection_key": "last-of-us-201",
       "day_cache_validation": {
@@ -1491,12 +1491,12 @@
         "source": "/home/bkoz/src/alpha60-results-2025/data/json/last-of-us-201-week.json"
       },
       "selection": {
-        "approved_override": "The authoritative archive filename postdates the released 2025-10-26 sample end.",
-        "date_matches_sample_end": false,
+        "approved_override": null,
+        "date_matches_sample_end": true,
         "eligible_candidates": [
           {
-            "filename": "cache.20250831.tar.xz",
-            "size": 2972423804
+            "filename": "cache.20251026.tar.xz",
+            "size": 5454379644
           }
         ],
         "expected_filename_date": "20251026"
@@ -1558,7 +1558,7 @@
         "required_sample_start": "2025-04-07",
         "status": "pending-read-only-stream"
       },
-      "owner": "ord",
+      "owner": "eureka",
       "release": {
         "collection_id": "101, 102, 103",
         "collection_name": "Lazarus",
@@ -1673,33 +1673,33 @@
       "collection_key": "long-story-short-01",
       "day_cache_validation": {
         "required_collection_key": "long-story-short-01",
-        "required_sample_days": 168,
-        "required_sample_end": "2026-02-05",
+        "required_sample_days": 182,
+        "required_sample_end": "2026-02-19",
         "required_sample_start": "2025-08-22",
         "status": "pending-read-only-stream"
       },
-      "owner": "ord",
+      "owner": "eureka",
       "release": {
         "collection_id": "1",
         "collection_name": "The Long Story Short",
-        "data_version": "2026-06-18",
+        "data_version": "2026-08-05",
         "ip_geolocation_version": "6:1777968300",
-        "sample_days": 168,
-        "sample_end": "2026-02-05",
+        "sample_days": 182,
+        "sample_end": "2026-02-19",
         "sample_start": "2025-08-22",
-        "sha256": "0aa02c47a7f5ff12ad53a5b2d01dc974b86778ad9417a08130215e5de3bcc22d",
+        "sha256": "019d2eb3f3a121c543382093620174ed86c752eef1182efbbe52222fa4a8873b",
         "source": "/home/bkoz/src/alpha60-results-2025/data/json/long-story-short-01-week.json"
       },
       "selection": {
-        "approved_override": "The authoritative archive filename postdates the released 2026-02-05 sample end.",
-        "date_matches_sample_end": false,
+        "approved_override": null,
+        "date_matches_sample_end": true,
         "eligible_candidates": [
           {
             "filename": "cache.20260219.tar.xz",
             "size": 602655404
           }
         ],
-        "expected_filename_date": "20260205"
+        "expected_filename_date": "20260219"
       }
     },
     {
@@ -1718,7 +1718,7 @@
         "required_sample_start": "2025-05-15",
         "status": "pending-read-only-stream"
       },
-      "owner": "ord",
+      "owner": "eureka",
       "release": {
         "collection_id": "4",
         "collection_name": "Love, Death & Robots",
@@ -1762,7 +1762,7 @@
         "required_sample_start": "2025-09-25",
         "status": "pending-read-only-stream"
       },
-      "owner": "eureka",
+      "owner": "ord",
       "release": {
         "collection_id": "101, 102, 103",
         "collection_name": "The Lowdown",
@@ -1842,7 +1842,7 @@
         "required_sample_start": "2025-03-29",
         "status": "pending-read-only-stream"
       },
-      "owner": "eureka",
+      "owner": "ord",
       "release": {
         "collection_id": "1",
         "collection_name": "Mid Century Modern",
@@ -2042,7 +2042,7 @@
         "required_sample_start": "2025-11-14",
         "status": "pending-read-only-stream"
       },
-      "owner": "ord",
+      "owner": "eureka",
       "release": {
         "collection_id": "",
         "collection_name": "One Battle After Another",
@@ -2082,7 +2082,7 @@
         "required_sample_start": "2025-09-09",
         "status": "pending-read-only-stream"
       },
-      "owner": "eureka",
+      "owner": "ord",
       "release": {
         "collection_id": "501, 502, 503",
         "collection_name": "Only Murders In the Building",
@@ -2122,7 +2122,7 @@
         "required_sample_start": "2025-10-14",
         "status": "pending-read-only-stream"
       },
-      "owner": "eureka",
+      "owner": "ord",
       "release": {
         "collection_id": "508, 509, 510",
         "collection_name": "Only Murders In the Building",
@@ -2148,9 +2148,9 @@
     },
     {
       "archive": {
-        "filename": "cache.20251127.tar.xz",
-        "filename_date": "20251127",
-        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/peacemaker-201.cache/cache.20251127.tar.xz",
+        "filename": "cache.20251204.tar.xz",
+        "filename_date": "20251204",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/peacemaker-201.cache/cache.20251204.tar.xz",
         "sha256": "34ab35ca0a54114259f2927820c43df4b0ef921c558a90c9e259fc38f639b117",
         "size": 1774717208
       },
@@ -2162,7 +2162,7 @@
         "required_sample_start": "2025-08-22",
         "status": "pending-read-only-stream"
       },
-      "owner": "ord",
+      "owner": "eureka",
       "release": {
         "collection_id": "201, 202, 203",
         "collection_name": "Peacemaker",
@@ -2175,11 +2175,11 @@
         "source": "/home/bkoz/src/alpha60-results-2025/data/json/peacemaker-201-week.json"
       },
       "selection": {
-        "approved_override": "The authoritative archive filename predates the released 2025-12-04 sample end.",
-        "date_matches_sample_end": false,
+        "approved_override": null,
+        "date_matches_sample_end": true,
         "eligible_candidates": [
           {
-            "filename": "cache.20251127.tar.xz",
+            "filename": "cache.20251204.tar.xz",
             "size": 1774717208
           }
         ],
@@ -2188,9 +2188,9 @@
     },
     {
       "archive": {
-        "filename": "cache.20250402.tar.xz",
-        "filename_date": "20250402",
-        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/pluribus-107.cache/cache.20250402.tar.xz",
+        "filename": "cache.20260402.tar.xz",
+        "filename_date": "20260402",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/pluribus-107.cache/cache.20260402.tar.xz",
         "sha256": "bac00666933421ed4f56420457a3e83ad1c2a3bf9d706cc0d92ee57de2ab7423",
         "size": 2455610540
       },
@@ -2215,11 +2215,11 @@
         "source": "/home/bkoz/src/alpha60-results-2025/data/json/pluribus-107-week.json"
       },
       "selection": {
-        "approved_override": "The authoritative archive carries a transposed year for the released 2026-04-02 sample end.",
-        "date_matches_sample_end": false,
+        "approved_override": null,
+        "date_matches_sample_end": true,
         "eligible_candidates": [
           {
-            "filename": "cache.20250402.tar.xz",
+            "filename": "cache.20260402.tar.xz",
             "size": 2455610540
           }
         ],
@@ -2578,7 +2578,7 @@
         "required_sample_start": "2025-05-30",
         "status": "pending-read-only-stream"
       },
-      "owner": "eureka",
+      "owner": "ord",
       "release": {
         "collection_id": "2025",
         "collection_name": "Sinners",
@@ -2658,7 +2658,7 @@
         "required_sample_start": "2025-07-25",
         "status": "pending-read-only-stream"
       },
-      "owner": "eureka",
+      "owner": "ord",
       "release": {
         "collection_id": "2701, 2702, 2703, 2704, 2705",
         "collection_name": "South Park",
@@ -2698,7 +2698,7 @@
         "required_sample_start": "2025-06-27",
         "status": "pending-read-only-stream"
       },
-      "owner": "ord",
+      "owner": "eureka",
       "release": {
         "collection_id": "301, 302, 303, 304, 305, 306",
         "collection_name": "Squid Game",
@@ -2782,7 +2782,7 @@
         "required_sample_start": "2025-11-27",
         "status": "pending-read-only-stream"
       },
-      "owner": "eureka",
+      "owner": "ord",
       "release": {
         "collection_id": "5.1",
         "collection_name": "Stranger Things",
@@ -2958,7 +2958,7 @@
         "required_sample_start": "2025-08-20",
         "status": "pending-read-only-stream"
       },
-      "owner": "ord",
+      "owner": "eureka",
       "release": {
         "collection_id": "",
         "collection_name": "Superman 2025",
@@ -2998,7 +2998,7 @@
         "required_sample_start": "2025-12-02",
         "status": "pending-read-only-stream"
       },
-      "owner": "eureka",
+      "owner": "ord",
       "release": {
         "collection_id": "",
         "collection_name": "Tron Ares",
@@ -3046,7 +3046,7 @@
         "required_sample_start": "2025-09-10",
         "status": "pending-read-only-stream"
       },
-      "owner": "ord",
+      "owner": "eureka",
       "release": {
         "collection_id": "2025",
         "collection_name": "Weapons",
@@ -3086,7 +3086,7 @@
         "required_sample_start": "2025-08-06",
         "status": "pending-read-only-stream"
       },
-      "owner": "eureka",
+      "owner": "ord",
       "release": {
         "collection_id": "201, 202, 203, 204",
         "collection_name": "Wednesday",
@@ -3126,7 +3126,7 @@
         "required_sample_start": "2025-09-03",
         "status": "pending-read-only-stream"
       },
-      "owner": "ord",
+      "owner": "eureka",
       "release": {
         "collection_id": "205, 206, 207, 208",
         "collection_name": "Wednesday",

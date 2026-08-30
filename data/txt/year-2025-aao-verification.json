@@ -1,30 +1,68 @@
 {
-  "manifest_sha256": "4a4818facd85b709f0321b0a6de31b4a3eff6f108f3b9354c75632926e6baa48",
+  "correction": {
+    "corrected_data_version": "2026-08-05",
+    "corrected_sample_days": 182,
+    "corrected_sample_duration": "2025-08-22-to-2026-02-19",
+    "corrected_week_count": 26,
+    "day_product_count": 181,
+    "ip_geolocation_version": "6:1777968300",
+    "media_object": "long-story-short-01",
+    "missing_day_indices": [
+      4
+    ],
+    "previous_data_version": "2026-06-18",
+    "previous_sample_days": 168,
+    "previous_sample_duration": "2025-08-22-to-2026-02-05",
+    "previous_week_count": 24,
+    "reason": "The prior AAO publication stopped 14 days before the authoritative cache archive endpoint.",
+    "source_archive": {
+      "filename": "cache.20260219.tar.xz",
+      "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/long-story-short-01.cache/cache.20260219.tar.xz",
+      "sha256": "a6eabc6484aed65a93f6913e1403a02f75fd0991ee6264bc2c7ab594496bce12",
+      "size": 602655404
+    },
+    "source_revisions": {
+      "aggregate_binary_sha256": "7408569641f7247fbd00969cffddaf1bb0cf2768c7fc1529f4cc6191ccfeae05",
+      "alpha60": "eba8537ed9a6e7a09ae3de163b01460f5ad1ad7e",
+      "alpha60_data": "8faeae67a5d274d1fc00bffe9fc9318329163b20",
+      "metadata": "fbeb53a0b523f937fae2f23d14689d8c5c84dd5a"
+    }
+  },
+  "manifest_sha256": "f7cccd77fa83baa7a24036fc961f1c1131634582d18b5ad42de6adbd4b42c313",
   "payload": {
-    "bytes": 12524153251,
-    "expected": 2264,
+    "bytes": 12528806180,
+    "expected": 2266,
     "failed": 0,
-    "passed": 2264
+    "passed": 2266
   },
   "release": {
     "complete": true,
     "inventory": 83,
     "readme": {
-      "sha256": "4f1a3264d9f70a3a0a0031dd817a042f2d708dd50543f27c136c6e88af9293b4",
-      "size": 1502
+      "sha256": "262a6a4b7b83480e484ad1e0c589a2c8d4df7a59065fbd7b2386f6bab811120d",
+      "size": 2090
     },
     "release_json": {
-      "sha256": "3ce0984da2d12b0e3697e76c02608bd9d1a955ee3d00e0a7054bdd297b8f18c8",
-      "size": 1342
-    }
+      "sha256": "466e51603a0ffc645fb7c7b50cf16e62923dc261fe0b3435910911ea7740f986",
+      "size": 2976
+    },
+    "revision": 2
   },
   "schema": "alpha60-aao-adoption-verification/1",
-  "source": "/home/bkoz/src/alpha60-results-2025.aao/data",
+  "source": "/home/bkoz/src/alpha60-results-2025/data",
   "status": "pass",
+  "supersedes": {
+    "generated_at": "2026-08-07T04:29:58Z",
+    "manifest_payload_bytes": 12524153251,
+    "manifest_payload_files": 2264,
+    "manifest_sha256": "4a4818facd85b709f0321b0a6de31b4a3eff6f108f3b9354c75632926e6baa48",
+    "preserved_at": "release-history/2026-08-07",
+    "release_object_count": 2266
+  },
   "verification": {
     "command": "sha256sum -c SHA256SUMS",
-    "mode": "read-only source verification followed by exact-byte adoption",
-    "verified_at": "2026-08-29T23:50:56-07:00"
+    "mode": "canonical-cache successor generation followed by exact-byte local verification",
+    "verified_at": "2026-08-30T16:41:11-07:00"
   },
   "year": 2025
 }

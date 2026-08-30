@@ -1,51 +1,90 @@
 {
-  "schema_version": 1,
-  "dataset": "alpha60-results",
-  "year": 2025,
-  "generated_at": "2026-08-07T04:29:58Z",
   "complete": true,
+  "corrections": [
+    {
+      "corrected_data_version": "2026-08-05",
+      "corrected_sample_days": 182,
+      "corrected_sample_duration": "2025-08-22-to-2026-02-19",
+      "corrected_week_count": 26,
+      "day_product_count": 181,
+      "ip_geolocation_version": "6:1777968300",
+      "media_object": "long-story-short-01",
+      "missing_day_indices": [
+        4
+      ],
+      "previous_data_version": "2026-06-18",
+      "previous_sample_days": 168,
+      "previous_sample_duration": "2025-08-22-to-2026-02-05",
+      "previous_week_count": 24,
+      "reason": "The prior AAO publication stopped 14 days before the authoritative cache archive endpoint.",
+      "source_archive": {
+        "filename": "cache.20260219.tar.xz",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/long-story-short-01.cache/cache.20260219.tar.xz",
+        "sha256": "a6eabc6484aed65a93f6913e1403a02f75fd0991ee6264bc2c7ab594496bce12",
+        "size": 602655404
+      },
+      "source_revisions": {
+        "aggregate_binary_sha256": "7408569641f7247fbd00969cffddaf1bb0cf2768c7fc1529f4cc6191ccfeae05",
+        "alpha60": "eba8537ed9a6e7a09ae3de163b01460f5ad1ad7e",
+        "alpha60_data": "8faeae67a5d274d1fc00bffe9fc9318329163b20",
+        "metadata": "fbeb53a0b523f937fae2f23d14689d8c5c84dd5a"
+      }
+    }
+  ],
+  "dataset": "alpha60-results",
   "destination": {
-    "endpoint": "https://s3-ewh.ist.berkeley.edu",
-    "region": "us-east-1",
-    "bucket": "adekosnik-bucket01",
-    "prefix": "alpha60-results/2025"
+    "branch": "main",
+    "data_prefix": "data",
+    "repository": "git@github.com:alpha60-devops/alpha60-results-2025.git"
   },
-  "inventory": {
-    "title_count": 83,
-    "cumulative_aggregate_geojson_gzip": 83,
-    "cumulative_btiha_geojson_gzip": 83,
-    "weekly_geojson_gzip": 1764,
-    "json": 332,
-    "manifest_payload_files": 2264,
-    "manifest_payload_bytes": 12524153251,
-    "release_object_count": 2266
+  "generated_at": "2026-08-30T16:41:11-07:00",
+  "gzip_delivery": {
+    "content_encoding": null,
+    "content_type": "application/gzip",
+    "rationale": "Preserve gzip bytes for explicit browser DecompressionStream use."
   },
   "integrity": {
     "algorithm": "SHA-256",
     "manifest": "SHA256SUMS",
-    "manifest_sha256": "4a4818facd85b709f0321b0a6de31b4a3eff6f108f3b9354c75632926e6baa48",
     "manifest_excludes": [
       "SHA256SUMS",
       "release.json"
-    ]
+    ],
+    "manifest_sha256": "f7cccd77fa83baa7a24036fc961f1c1131634582d18b5ad42de6adbd4b42c313"
   },
-  "gzip_delivery": {
-    "content_type": "application/gzip",
-    "content_encoding": null,
-    "rationale": "Preserve gzip bytes for explicit browser DecompressionStream use."
+  "inventory": {
+    "cumulative_aggregate_geojson_gzip": 83,
+    "cumulative_btiha_geojson_gzip": 83,
+    "json": 332,
+    "manifest_payload_bytes": 12528806180,
+    "manifest_payload_files": 2266,
+    "release_object_count": 2268,
+    "title_count": 83,
+    "weekly_geojson_gzip": 1766
   },
+  "revision": 2,
+  "schema_version": 2,
   "sparse_weekly_intervals": [
     {
+      "end_date": "2025-06-17",
       "media_object": "andor-201",
-      "week": 8,
       "start_date": "2025-06-11",
-      "end_date": "2025-06-17"
+      "week": 8
     },
     {
+      "end_date": "2025-08-09",
       "media_object": "predator-killer-of-killers",
-      "week": 9,
       "start_date": "2025-08-03",
-      "end_date": "2025-08-09"
+      "week": 9
     }
-  ]
+  ],
+  "supersedes": {
+    "generated_at": "2026-08-07T04:29:58Z",
+    "manifest_payload_bytes": 12524153251,
+    "manifest_payload_files": 2264,
+    "manifest_sha256": "4a4818facd85b709f0321b0a6de31b4a3eff6f108f3b9354c75632926e6baa48",
+    "preserved_at": "release-history/2026-08-07",
+    "release_object_count": 2266
+  },
+  "year": 2025
 }
