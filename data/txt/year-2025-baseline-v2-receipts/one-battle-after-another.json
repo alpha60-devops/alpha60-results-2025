@@ -1,0 +1,253 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt30144839",
+    "imdb_id": "tt30144839",
+    "revision": "fbeb53a0b523f937fae2f23d14689d8c5c84dd5a",
+    "wikidata_id": "Q117085614",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/One_Battle_After_Another"
+  },
+  "coverage_sha256": "c6be7147a5b61174169336279e9da0752e59b6ff565837bd9df9ea235ed5626b",
+  "generated_at": "2026-08-30T15:32:04.964593+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "aao-checksum-manifest": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/SHA256SUMS",
+      "sha256": "4a4818facd85b709f0321b0a6de31b4a3eff6f108f3b9354c75632926e6baa48",
+      "size": 266728
+    },
+    "aao-release": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/release.json",
+      "sha256": "3ce0984da2d12b0e3697e76c02608bd9d1a955ee3d00e0a7054bdd297b8f18c8",
+      "size": 1342
+    },
+    "aao-verification": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-aao-verification.json",
+      "sha256": "e01294ebce8e54b65e16ab83017fa5585efe6f7a0a0f1a5e0f734e08d8e223fd",
+      "size": 854
+    },
+    "archive-map": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-cache-archive-map.json",
+      "sha256": "8d4d506f23cd80f46baf010bd17509c916083e75eb8b43b052641138c3f308f1",
+      "size": 125170
+    },
+    "btiha-metadata-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/one-battle-after-another-cumulative-btiha-media-objects.json",
+      "sha256": "273b9244ab92b1959755cdac57f2e901739408c9c2ee91e1d587a99754256acc",
+      "size": 308074
+    },
+    "canonical-metadata": {
+      "path": "/tmp/alpha60-swarm-metadata-2025/metadata/one-battle-after-another.json",
+      "sha256": "d651d4d9c9c5c5d43a7f2fd858a79bc3b7671b9a6cef08ecea741f6e402fd3f2",
+      "size": 8836
+    },
+    "coverage-report": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-coverage-evidence/one-battle-after-another.md",
+      "sha256": "fbbf9683f803255df2a675ef3002d2e50297762cea59f92819883b6cb71bde54",
+      "size": 750
+    },
+    "cumulative-aggregate-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.cumulative/one-battle-after-another-cumulative-aggregate.geojson.gz",
+      "sha256": "e9006a235dc18e8160c334879ff85c0139794ad5dc2827dd83497460e835e7de",
+      "size": 1358642
+    },
+    "cumulative-btiha-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.cumulative/one-battle-after-another-cumulative-btiha.geojson.gz",
+      "sha256": "5d24b13ee2d2d5496568869ae23ef8cc92985efa2c2fe7a62aa193b89cf5fcaf",
+      "size": 31796174
+    },
+    "cumulative-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/one-battle-after-another-cumulative.json",
+      "sha256": "db881929e24c4866a19bce296b182a5e746f728b6e4ccc7808322b87223fa5ba",
+      "size": 15749
+    },
+    "day-bundle-receipt": {
+      "path": "/tmp/year-2025-day-bundles/one-battle-after-another/receipt.json",
+      "sha256": "6897b2c5a0a4fbfb293ec128b2f6fc03e9062b867013bb1614005c97ddba9a8a",
+      "size": 42451
+    },
+    "ip-swarm-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/one-battle-after-another-cumulative-ip-swarm.json",
+      "sha256": "ed38640d7c105a612c3b6982ec6ef2709f727e6b6763eec45b94f98fa45cbf39",
+      "size": 42775
+    },
+    "published-day-bundle-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-day-product-receipts/one-battle-after-another.json",
+      "sha256": "6897b2c5a0a4fbfb293ec128b2f6fc03e9062b867013bb1614005c97ddba9a8a",
+      "size": 42451
+    },
+    "week-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/one-battle-after-another-week.json",
+      "sha256": "488d0776d1091f9e6362e63bc23115b06b33b698437b53f98846c4d7ce1e4ccc",
+      "size": 1510640
+    }
+  },
+  "media_object": "one-battle-after-another",
+  "published_files": {
+    "data/csv/bytes/one-battle-after-another-cumulative-detail.2025-btiha-itemized-by-bytes.csv": "08dbc1487523d86ad4aaed6928a21a80c60c840aee779253d416323dd039b017",
+    "docs/itemized/figures/one-battle-after-another-carto-4k.webp": "8f9e44b082112217dfac8508369f783d173053f376dc03ddcae9a3f7703717fe",
+    "docs/itemized/figures/one-battle-after-another-carto.png": "ac59a537f0d70b65fd9ef5ea133bf57812294da9d2438ae92531fbc24b9b9e41",
+    "docs/itemized/figures/one-battle-after-another-cumulative-detail-btiha-itemized-by-bytes.svg": "86fe838f62688ed96938363f16bf6ae5c96407702c28c00b5a44b8dfd8a78b72",
+    "docs/itemized/figures/one-battle-after-another-data-ge-1080p-4k.webp": "c33b339daa995bb9a45acf89d1ed878ea0ad25f03744a01f4389918239f0f299",
+    "docs/itemized/figures/one-battle-after-another-data-ge-1080p.webp": "5c98d670512988aa93b335646d4c97408b7c4440784007833851d0518d61a14f",
+    "docs/itemized/figures/one-battle-after-another-data-lt-1080p-4k.webp": "1bc51f481b293e29e037b4473957db92b894e3f73ff0d603d1a63e6d1184eba3",
+    "docs/itemized/figures/one-battle-after-another-data-lt-1080p.webp": "59fe4a65337f9263865011152079808173580b4365fbc273716811f9ed13402d",
+    "docs/itemized/figures/one-battle-after-another-downloads-by-day-day.svg": "703fe1d9434d88ac20c141c7a7dc1823324543a4a5ebb648da0d7d6946b01267",
+    "docs/itemized/figures/one-battle-after-another-downloads-by-week-one-battle-after-another-week.svg": "43a880639d4f35aaadb8dd4c67ece96c68d3f70d6ba40c07d8ccf777c2f597ad",
+    "docs/itemized/one-battle-after-another-sample-cache-audit.md": "dc7c833f59d438aa6d6cf6bb219ae242d11b9257fa23e85b73548d9d762468cb",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-year-2025-render",
+      "revision": "c520555c40beece2e38f62878e2d4cc1b312c505",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "c192c54f882171dafc74c038ec769f1e68bf8020d12a342d2334086b5b5ee5ea",
+      "size": 36998168
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.cumulative/one-battle-after-another-cumulative-btiha.geojson.gz",
+        "sha256": "5d24b13ee2d2d5496568869ae23ef8cc92985efa2c2fe7a62aa193b89cf5fcaf",
+        "size": 31796174
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/json/one-battle-after-another-cumulative-btiha-media-objects.json",
+        "sha256": "273b9244ab92b1959755cdac57f2e901739408c9c2ee91e1d587a99754256acc",
+        "size": 308074
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/izzi",
+      "revision": "b988ee7fd690a74a696c27c9aadf40c204a4c780",
+      "untracked": false
+    },
+    "media_object": "one-battle-after-another",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60-results-2025/bin/a60-meta-collection.exe",
+      "sha256": "e71f9def936a6868d5282a5ff7dece07ade360eefa07abebde75434a927220f7",
+      "size": 8743680
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          88.0,
+          51.0,
+          51.0,
+          48.0,
+          44.0,
+          37.0,
+          33.0,
+          29.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Seoul",
+          "Moscow",
+          "London",
+          "Nanjing",
+          "Saint Petersburg",
+          "Istanbul",
+          "Amsterdam",
+          "Shanghai",
+          "Leipzig",
+          "Hangzhou"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          79.0,
+          49.0,
+          34.0,
+          33.0,
+          27.0,
+          27.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "Seoul",
+          "Saint Petersburg",
+          "Istanbul",
+          "Nanjing",
+          "London",
+          "Shanghai",
+          "Amsterdam",
+          "Hangzhou",
+          "Incheon"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 21,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 32,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 15,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "c520555c40beece2e38f62878e2d4cc1b312c505",
+    "cartofreako": "fc58111b5bfa7667b12f6ade522ae5e566b464d1",
+    "izzi": "b988ee7fd690a74a696c27c9aadf40c204a4c780",
+    "metadata": "fbeb53a0b523f937fae2f23d14689d8c5c84dd5a",
+    "results_aao_adoption": "9cd9d91a6fbb560ac2a96beadf4c83b94daf6a88"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2025"
+}
