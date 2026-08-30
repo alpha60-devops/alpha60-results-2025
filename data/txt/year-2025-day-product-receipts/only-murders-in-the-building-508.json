@@ -1,0 +1,1725 @@
+{
+  "archive": {
+    "path": "/home/bkoz/src/alpha60-xperiments/year-2025-archives/only-murders-in-the-building-508.cache/cache.20260413.tar.xz",
+    "sha256": "eb79a4a7fee06492ea0f62ea78007717faba8dc60a830e800a5364b233049bfd",
+    "size": 1736841532
+  },
+  "authorization": {
+    "archive_mutated": false,
+    "excluded_member_classes": [
+      "hour",
+      "week",
+      "cumulative"
+    ],
+    "raw_samples_opened": false,
+    "scope": "read only streaming of per-torrent day records"
+  },
+  "collection_key": "only-murders-in-the-building-508",
+  "day_cache_stream_contract": {
+    "authorization": {
+      "archive_mutated": false,
+      "excluded_member_classes": [
+        "hour",
+        "week",
+        "cumulative"
+      ],
+      "raw_samples_opened": false,
+      "scope": "read only streaming of per-torrent day records"
+    },
+    "available_day_products": 182,
+    "cache_members": 55789,
+    "collection_key": "only-murders-in-the-building-508",
+    "first_date": "2025-10-14",
+    "first_index": 1,
+    "indices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144,
+      145,
+      146,
+      147,
+      148,
+      149,
+      150,
+      151,
+      152,
+      153,
+      154,
+      155,
+      156,
+      157,
+      158,
+      159,
+      160,
+      161,
+      162,
+      163,
+      164,
+      165,
+      166,
+      167,
+      168,
+      169,
+      170,
+      171,
+      172,
+      173,
+      174,
+      175,
+      176,
+      177,
+      178,
+      179,
+      180,
+      181,
+      182
+    ],
+    "last_date": "2026-04-13",
+    "last_index": 182,
+    "missing_indices": [],
+    "sample_span_days": 182,
+    "schema": "alpha60-day-cache-stream-contract/1",
+    "sparse": false,
+    "status": "pass"
+  },
+  "day_product_contract": {
+    "collection_key": "only-murders-in-the-building-508",
+    "day_products": 182,
+    "first_date": "2025-10-14",
+    "first_index": 1,
+    "geojson_data_version": "20260701",
+    "ip_geolocation_version": "6:1777968300",
+    "json_data_version": "2026-08-05",
+    "last_date": "2026-04-13",
+    "last_index": 182,
+    "schema": "alpha60-day-product-contract/1",
+    "sparse": false,
+    "status": "pass"
+  },
+  "publications": {
+    "data/geojson.day/only-murders-in-the-building-508-day-00001.geojson.gz": {
+      "sha256": "0123e0a0f57ddd1a4747d631ffdac7bb0703882bf13ec97faf57ffa897576cfa",
+      "size": 49183
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00002.geojson.gz": {
+      "sha256": "94ff520c3b4f40da25bb8811472d213c458942b3bced75012c5e92233c923346",
+      "size": 93706
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00003.geojson.gz": {
+      "sha256": "e7f09b389764062921c3d1b4fed334b215d0003d8dd54e2c102e361a32885ca9",
+      "size": 84247
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00004.geojson.gz": {
+      "sha256": "47c3778068fa9c8ab774a5b406571809d16c3fe0622650c6c967a2a61c3b51ef",
+      "size": 92360
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00005.geojson.gz": {
+      "sha256": "17c83bf0d13666dc4c8dbb9ca3c2e90825b59534adf775a3c29a53d74bf66900",
+      "size": 104200
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00006.geojson.gz": {
+      "sha256": "d413b2d49f9c20d262d2622fa9df424a6169c88b218c6632e093cfd1780b8889",
+      "size": 112813
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00007.geojson.gz": {
+      "sha256": "8c64a665d99315b48ebf0ed18975a2f7f26e021d6cfe85921691a3b2bd9603d5",
+      "size": 119187
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00008.geojson.gz": {
+      "sha256": "b3b06e55011716e8054e3156982d6750ae3057880e9872eed22f92a066bca612",
+      "size": 137026
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00009.geojson.gz": {
+      "sha256": "e1d57740f2d9d5c3369a5a583f9fed1e71f0c55046edb243d23263f7de9592de",
+      "size": 158122
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00010.geojson.gz": {
+      "sha256": "b57e60aeb6f7fb10fb261ad489e24402ece3bbc505cc50e6bf9cc88163dc7321",
+      "size": 157909
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00011.geojson.gz": {
+      "sha256": "7df43a435d79f79608b681efb1202b8b3d18b834d68911abb7d00817ab177fcc",
+      "size": 178629
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00012.geojson.gz": {
+      "sha256": "d48a854f4f8173b787433c831e31fa39b1a0894bacd0d2774d6c20e00db14c92",
+      "size": 162263
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00013.geojson.gz": {
+      "sha256": "78699d17a8935fbacad6d7cf274c2baaf995e34f947f41a2faf745d2bbd04927",
+      "size": 149481
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00014.geojson.gz": {
+      "sha256": "cb5a62905104883048251cd17b753ff2ccef0d644540e5c0bfa0fa0989146dcc",
+      "size": 163441
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00015.geojson.gz": {
+      "sha256": "251f7674ad5cdf5700f3ba174a1c213b91fb344e9d2566b98842ba41d71bce99",
+      "size": 197916
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00016.geojson.gz": {
+      "sha256": "7f0ff7aee9c01ffd10ebe0d43e11eb673042ba5b203f9fbc8b168445c81a8b69",
+      "size": 218038
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00017.geojson.gz": {
+      "sha256": "8fa96d447cad97c14b32f0a2efaed5493078b110e4540fe6e74d1fa8effd470f",
+      "size": 211506
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00018.geojson.gz": {
+      "sha256": "fe75562da7faf5c7ac5780a08b551a84d932b73a1008585c08a0539a0d7007b6",
+      "size": 219649
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00019.geojson.gz": {
+      "sha256": "c59c4caefa6c058f78a251c256023380fa85c6118636c7332dead69805e8ef2a",
+      "size": 202059
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00020.geojson.gz": {
+      "sha256": "30c33d88c60a9fd4d4fd41ed525af5205630a6369acf3c6276f113386553c86c",
+      "size": 220166
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00021.geojson.gz": {
+      "sha256": "1ab6795b3aaa5c548b1e5616e3924c4f43da0d162ef4b3ad97b7917147b8dc6e",
+      "size": 211820
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00022.geojson.gz": {
+      "sha256": "1a171ac28994fa3a9f095c707d3672a6d10197a48e98fc30463ddc50ccdbaa49",
+      "size": 205925
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00023.geojson.gz": {
+      "sha256": "8c26386ea5c844511450e58c436877c64c5fed4663663c9cef5181c5bd3d6e8c",
+      "size": 200317
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00024.geojson.gz": {
+      "sha256": "f332a0bb1c45ec73a02714f48108f9fadb3663f3d5cdc604ef227f6217c3a721",
+      "size": 212659
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00025.geojson.gz": {
+      "sha256": "1848b04faa50e2405dd202710ba42945963e3a4b9cdc5c0f9c95a520803534b3",
+      "size": 208659
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00026.geojson.gz": {
+      "sha256": "02352ff72b6143e4f323bdfeef12d71669442784f850f05eadcea58af33bc2f3",
+      "size": 200838
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00027.geojson.gz": {
+      "sha256": "8ba9d9b568a3e21f2416e9195f543109733730bcd8f73e81ea74e8fe71094f10",
+      "size": 197406
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00028.geojson.gz": {
+      "sha256": "32ac5d9ce2d121d45d42e6d4a23d04c81ae180f7858d26eaa7e0dc0ef1a3aaff",
+      "size": 220741
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00029.geojson.gz": {
+      "sha256": "e73598054e1e9955aa89cfc384901cf9bd31ed2d5cf9fc98667f55fd91930b07",
+      "size": 225498
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00030.geojson.gz": {
+      "sha256": "c09b51cc535aa0b9e7f8d5b5bd9e5d75e3300a40d61377b544217022cdea0507",
+      "size": 218001
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00031.geojson.gz": {
+      "sha256": "6b8383b036f4ae59fb1fec254c480e457f058dc8d1a3c242254a685e3c922fab",
+      "size": 212926
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00032.geojson.gz": {
+      "sha256": "114e8f5cf819148bb1cb293d9ae82713e43f9b8bbbbfdfcf5cadab930289bdf7",
+      "size": 224345
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00033.geojson.gz": {
+      "sha256": "e25d455f6251903640f9edbb191bdc8f5f9ff913d378dbd5228010743e88a554",
+      "size": 207040
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00034.geojson.gz": {
+      "sha256": "9316c7d925c80b21b0d6a44a8759978450ce403d5ea9507a7548a87bbfc20efc",
+      "size": 199909
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00035.geojson.gz": {
+      "sha256": "edb50e38c2e1379a05dc772d52559157c63152ef16ed6b6eeb051444c2d7850e",
+      "size": 225320
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00036.geojson.gz": {
+      "sha256": "135bc443f7ac9ed485a30d6f15dbcab8248b428fb9bbf076cd5351e891f5e5d0",
+      "size": 219010
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00037.geojson.gz": {
+      "sha256": "f7628101fc99825daa876157b1cd34520f1248338b056e332ec2cbee689504b7",
+      "size": 217836
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00038.geojson.gz": {
+      "sha256": "2ad0a5b2edd542370b25db7b0fb63a6a93b2226c3113f69d1f799bfe3bc33560",
+      "size": 224480
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00039.geojson.gz": {
+      "sha256": "43a6df745b17558152fe32ee7af0764b36eaf52beef8edde5e12259c76593399",
+      "size": 268650
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00040.geojson.gz": {
+      "sha256": "0b8a0769191c3b1b18876762dd4d49397aab7eecf6bd1498f640e593ecd36ac7",
+      "size": 214340
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00041.geojson.gz": {
+      "sha256": "5952c273c569f2e3ce0ba1edecc0d82433c967422e17f147ebb692485fbbc1b7",
+      "size": 209448
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00042.geojson.gz": {
+      "sha256": "cc542300452d30f6359897503f1fde9dd24230bc5cac8f1c795cdb4c111c2bda",
+      "size": 233622
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00043.geojson.gz": {
+      "sha256": "1485907cae882942a18877fd9b047459c4568f91466576474938e21dc7379e3b",
+      "size": 237081
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00044.geojson.gz": {
+      "sha256": "d2fefddb1381ce1596ff0eb011686e47c8e4d47c4ba8d9eba1e20297baa46c20",
+      "size": 242492
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00045.geojson.gz": {
+      "sha256": "737eb431c509356370677a24646d3d8f581daaa2ae9596b75fb396536b3b638d",
+      "size": 237605
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00046.geojson.gz": {
+      "sha256": "7b05e977344ed3f236415f2a267f9fe946da0c6498d6fb4853b0530b372eaf09",
+      "size": 231035
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00047.geojson.gz": {
+      "sha256": "1bae23cd871edb316cd06194f7d6d18a214a8d1ca982d37294aa39efbb86a0be",
+      "size": 230133
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00048.geojson.gz": {
+      "sha256": "274828c2211a5a77dec0e6fcccb59f9eca3554e57bc398458c8f306c675ec3b7",
+      "size": 243392
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00049.geojson.gz": {
+      "sha256": "c89d2acad6c13639d161e23f7e8b2e5fabf4d2bb0a9a3d765f877a7dd63148c1",
+      "size": 256346
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00050.geojson.gz": {
+      "sha256": "d1f81632556ff5b09fa889c4cd472d2571f10c52a1ed3637d771f78d4e897e69",
+      "size": 244192
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00051.geojson.gz": {
+      "sha256": "da3003bc11b6b217bd33ddc4e5ca13231f61f598f0356efbd8c9078acc1eb986",
+      "size": 250642
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00052.geojson.gz": {
+      "sha256": "de213a54ea795819d124d37460a05ea43eea888dbdb5cda84c4085ada88871d4",
+      "size": 237875
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00053.geojson.gz": {
+      "sha256": "8d2f43132fd969653f769ef8672500325f5aa4ca9d5f5bf23825497646e04f89",
+      "size": 236476
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00054.geojson.gz": {
+      "sha256": "01cfce1f4ff351073e6fbcb20a4b88895098c1609c9b578a0d3473363bc34be1",
+      "size": 218186
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00055.geojson.gz": {
+      "sha256": "bb860fac088ab4c458b7452d31599b74395b7b90616141d54b167f5b99017cf0",
+      "size": 220737
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00056.geojson.gz": {
+      "sha256": "7f2ff4e0faf86ae46c5aa4760a4993b022e70c7672d79c10a96f663b3cb68d1d",
+      "size": 243796
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00057.geojson.gz": {
+      "sha256": "14f946cc8e93a50a968b366923c6bcf85bc1e3057758b2499044bc7ab50823af",
+      "size": 231286
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00058.geojson.gz": {
+      "sha256": "0862dada15c56ecc96b77a193d530495c383367091806e45678e9aadf0735ffa",
+      "size": 243644
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00059.geojson.gz": {
+      "sha256": "1c9cb813d656a98a7e56e5ff345e4ce82c0e652cab91b2162b9c422e97149415",
+      "size": 236634
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00060.geojson.gz": {
+      "sha256": "1ecb24b53d947966aa6631827e874c36f37bf382ac9beadb2749d439bc97e991",
+      "size": 236522
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00061.geojson.gz": {
+      "sha256": "4df224fba9b89f7fdf41b59d3fc8b2d5209b3cfb8cd6a75149ae691399f66c46",
+      "size": 216150
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00062.geojson.gz": {
+      "sha256": "a4bd86ea83dcf948f199360080e242dd9ebba446f4f17e350def59835421af41",
+      "size": 205338
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00063.geojson.gz": {
+      "sha256": "3a695738a61217679dba20cea8b5d2611f0678ca44f63bbfb5c36ba79f2c6441",
+      "size": 249338
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00064.geojson.gz": {
+      "sha256": "a7fb1cbf90a11994093156ef0109ce302bf153bb632bdd91b7a00cec1491e21d",
+      "size": 253656
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00065.geojson.gz": {
+      "sha256": "4e2983265c3be1436dabf2b80c2358b50aa408af04c1248b7d1f3d84f470cdaf",
+      "size": 251412
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00066.geojson.gz": {
+      "sha256": "e4f8552e84ff7aa8c19e9d32a979c3eb3cd676a2bfccf84cc272defe5b11e7ef",
+      "size": 245627
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00067.geojson.gz": {
+      "sha256": "00844f53a1c5d58bce505c24c167423744ffb8e4d5301039f2c2b76df30c1224",
+      "size": 238119
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00068.geojson.gz": {
+      "sha256": "5fe6990f97f463909edd0cc39185d3da1d48b4d5eb9f5ba92a679d50d36ea4f7",
+      "size": 226192
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00069.geojson.gz": {
+      "sha256": "daaca80640a812d798b02f0c384f154bac80694cd1ee313ec31d7af6dca68ba9",
+      "size": 237192
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00070.geojson.gz": {
+      "sha256": "a15d7a26353d1e3c0b663e935392e56b274cf6f9841ae90100c6a54a13a6d1f0",
+      "size": 187883
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00071.geojson.gz": {
+      "sha256": "ad4cc47499efac793f50bb5d534e53cd9eb48d22f276f1a089f40846908ceb76",
+      "size": 127206
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00072.geojson.gz": {
+      "sha256": "7dd78a9fb0ae7315fe154375b2cf675bbba794e2a11b3df83aa9ddd2589c78ff",
+      "size": 238402
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00073.geojson.gz": {
+      "sha256": "f795b80a524c153558e141446017fef4656a57b008758c68f81e4b930b50d98e",
+      "size": 226420
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00074.geojson.gz": {
+      "sha256": "a724cc6780a1b0e389c29d2802c1e825a04dd76682c5ccf2d6c9f6ad816266ff",
+      "size": 232618
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00075.geojson.gz": {
+      "sha256": "09d93e7068dab021f6bb9f6c4bd9a959c8a3af20a4f5e384da5eb0e5abc64359",
+      "size": 220150
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00076.geojson.gz": {
+      "sha256": "1e9203287f2da1addbaa64b07bffee0f3ac977e9bc76ddf97c8fbd06a632e5c6",
+      "size": 214786
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00077.geojson.gz": {
+      "sha256": "d88debf3222d65d14394b5800d4f9bf74b0be594890b7f19942a974b860de96c",
+      "size": 238065
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00078.geojson.gz": {
+      "sha256": "a2ff4383a2a76326ad92bf358c3d652cd476fd2b44ba36bb7bffcad37c29ccf5",
+      "size": 230802
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00079.geojson.gz": {
+      "sha256": "67aeefc47c053a66f6ab5e9b2f45f5a6a794551fd971e622f21b1026d4c64079",
+      "size": 252205
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00080.geojson.gz": {
+      "sha256": "4840a8f59e4d8fa83c72f5beff1d6194c490737b4534f21a4f3c53c5a8547d1a",
+      "size": 249404
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00081.geojson.gz": {
+      "sha256": "6050b25e97a486dfddd58997fb9dda43b7988eb3cad2de86714e8152fb2d47e3",
+      "size": 255877
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00082.geojson.gz": {
+      "sha256": "958467d5f6e7ce6b61f1b15e89a45bab82140ec162485ea4d4f8fb701b86624a",
+      "size": 226967
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00083.geojson.gz": {
+      "sha256": "abd0de53644597217aa4397c584b553de492b1462b45718dc5bab9adbb091761",
+      "size": 230825
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00084.geojson.gz": {
+      "sha256": "7a767d6b279ce0970a181dbe14d01c22337b4c9d36392044ed292bada8db7238",
+      "size": 225949
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00085.geojson.gz": {
+      "sha256": "db5d859bddd2acfbf69af87ba5a0be886e11e3e2ecfac101b483203724b8f6f0",
+      "size": 219106
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00086.geojson.gz": {
+      "sha256": "2e104d4bcad165f219ee7df252366e9a6343439394f8e496c9f20f692a377adf",
+      "size": 241013
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00087.geojson.gz": {
+      "sha256": "109d4211a25d0627e2610327e5c911a9c77d4046227adbe6982f040190264916",
+      "size": 252542
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00088.geojson.gz": {
+      "sha256": "7dc3734d119b1611580aabba84b1042ec59fcec7116ea7ecda67caf32ffecdfb",
+      "size": 240436
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00089.geojson.gz": {
+      "sha256": "0e7cabce7991f468b1204d1c5c487c4332ccc606e22f8dd7d2abe7c5b14ef3c5",
+      "size": 227185
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00090.geojson.gz": {
+      "sha256": "4ff2ce352bcfc38499955039cc07e104c8222a22fd257c8536e4cc7edc0e03c9",
+      "size": 234801
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00091.geojson.gz": {
+      "sha256": "9cd2ac1b368ba8445fbb79ea1a4317f1163ea0926a18d47ae6b3236e6c1512e5",
+      "size": 229206
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00092.geojson.gz": {
+      "sha256": "be6e3d8821b655223708a545dd907825327fd7135b7b640683b81f79d835bfdc",
+      "size": 231805
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00093.geojson.gz": {
+      "sha256": "59cea00222332595c84f0e385f5c4aefc615ac18e406c99a4d7fbb776fd42e62",
+      "size": 240829
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00094.geojson.gz": {
+      "sha256": "61c984dac2eb3b748d70351991103389dd6c2987a2424ddf6ce81ab339a9c5ce",
+      "size": 233438
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00095.geojson.gz": {
+      "sha256": "873187e4e97ceaf920349adec0cf2d58974fa42c3138d098748909c66507ddff",
+      "size": 228497
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00096.geojson.gz": {
+      "sha256": "9cc21db49837d098ab0baa20139f2ecf719b2c4d702df3838f0db7178f71d3d6",
+      "size": 231063
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00097.geojson.gz": {
+      "sha256": "aececb74a33b9fc19fa43ad10f74b90e3b1184aa7c95e49be789522f3b647543",
+      "size": 231491
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00098.geojson.gz": {
+      "sha256": "3e1ed7aad22922826610d9575d555231f8ef264167c11b464b147d8db5b57073",
+      "size": 236063
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00099.geojson.gz": {
+      "sha256": "3dcfc3b01ad3bbd009313a41b81fa2dd3be833d6eabf8686db406916c95458f6",
+      "size": 232460
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00100.geojson.gz": {
+      "sha256": "d814b00b38b9e9cff7cf49c17447edaa1e44bf1c5fba8831fdef3281dbf1ebee",
+      "size": 232327
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00101.geojson.gz": {
+      "sha256": "cb07e748aae02742db12e9eb23fb17bf0a36a3bd69ebe076ab6b967c29054f91",
+      "size": 231774
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00102.geojson.gz": {
+      "sha256": "e1b6b8e5413c031764af01b4915c1879e87dc7c283a0716df2959eb628587ffd",
+      "size": 235950
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00103.geojson.gz": {
+      "sha256": "9591ee792b7477b167f3e292e477db76bc907f1813014f3dac8b590dd56126f8",
+      "size": 209447
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00104.geojson.gz": {
+      "sha256": "e488c7f496bce0ff3af5bf6efecd3c3cefdc6adff838e688f8049d6363e56b76",
+      "size": 222260
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00105.geojson.gz": {
+      "sha256": "1eb008643ebd13b2838b6f6cb9f4dc68fe1f014c4a574d3181cc4453c1c7656d",
+      "size": 229699
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00106.geojson.gz": {
+      "sha256": "c00fb5c7a139dba8d95da6c76bbbd27241966c549c89755ec81a4d375353b10e",
+      "size": 235432
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00107.geojson.gz": {
+      "sha256": "88027ef6d701ad63d63e85bc733458d1b6c62a32d08417d92cc8567a67260740",
+      "size": 211185
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00108.geojson.gz": {
+      "sha256": "a1441fcb7934a55e76e8e8253a9ec290d2d455e5a13967fa6a4af32cc919c667",
+      "size": 216735
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00109.geojson.gz": {
+      "sha256": "bebec6c100fd357c495687948ac38be19063eaeaa0764d8c429f74fa40fd1759",
+      "size": 235888
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00110.geojson.gz": {
+      "sha256": "29dd8ddc31ade9553a51546a4fc424675c381f2546bb34003bdc1952ee2de941",
+      "size": 212051
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00111.geojson.gz": {
+      "sha256": "cad9cafec43f5e59c3602dcad7e9ab2b80c843d1db95b560c8713a232d428ae8",
+      "size": 214801
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00112.geojson.gz": {
+      "sha256": "8f9f5ebb0e87f7628f4b26e70c7d60bbb5e182efbd88fdffea5860502df42d8b",
+      "size": 233964
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00113.geojson.gz": {
+      "sha256": "69828d272645d87e8e679fc37872f0c934b368e4badb5724c0b175a78a2eebff",
+      "size": 235218
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00114.geojson.gz": {
+      "sha256": "bedba1c1f02bb9c64b25d57b573332079daa0d5d8259fe9c954402d30570e624",
+      "size": 237471
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00115.geojson.gz": {
+      "sha256": "dd7a4345343f780e8d31ad1252ce7fd1712b486be6c367684ca28fb168f45443",
+      "size": 227367
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00116.geojson.gz": {
+      "sha256": "c144a835f2afc79b2934c622cde9f45f072f0e65a6ebf23239625c499eeb7f01",
+      "size": 285856
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00117.geojson.gz": {
+      "sha256": "a197c86dc10f706396a2266eebb2313acf6a1d72ca6fd1af27fe3df8aece96c8",
+      "size": 240988
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00118.geojson.gz": {
+      "sha256": "972abf14935034815bdfa57d45904d322cc82ed8ddae23fd8a44daa2cfaf7e90",
+      "size": 222658
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00119.geojson.gz": {
+      "sha256": "70ad22316b2e07e01a77b6677a71c02c86e7916afcdf7f035bf46109af5c2465",
+      "size": 244837
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00120.geojson.gz": {
+      "sha256": "e47210f1f5ebab4de1f74ac383e4ad2b665558e511adb640dc59f583af7f01a8",
+      "size": 246980
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00121.geojson.gz": {
+      "sha256": "16a7a95eee7394c8cac236815f1cfb18e1d8edef08e7a7c1e75c7fd3cd804f55",
+      "size": 242761
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00122.geojson.gz": {
+      "sha256": "01c6aac45c7158fb57288bfa2e762f1804a33cc4925aa2917f408216c2fdea91",
+      "size": 238490
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00123.geojson.gz": {
+      "sha256": "774427bc66ee778b7f313aac6b2579106cdd01fdd208bb847acb57e775e4576a",
+      "size": 256403
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00124.geojson.gz": {
+      "sha256": "af3e64b137a2b6cfc224be5dbb5673d82b36834767215d5f7d0d006a6ff36ceb",
+      "size": 248042
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00125.geojson.gz": {
+      "sha256": "7897515a1ec67c3ae087aabbddad80721d6406dc154a224315aff69e4f79c669",
+      "size": 251212
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00126.geojson.gz": {
+      "sha256": "19e45a1ec634fc5aecf21d624c3032d9da57ffadb153275198b60721d229f6e8",
+      "size": 259368
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00127.geojson.gz": {
+      "sha256": "0ede25b5f1e69fb80ce7e4ebcf9cc485b4495744ee396bfb71b1303ee79d7783",
+      "size": 238754
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00128.geojson.gz": {
+      "sha256": "76dac90d6a725d2f101b9de97cf13ba5444449eea9005f5296ce8d67f28de545",
+      "size": 233431
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00129.geojson.gz": {
+      "sha256": "201995248f96594239d301234ae77536d5004c85454210531abe686fddf50939",
+      "size": 259295
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00130.geojson.gz": {
+      "sha256": "359f38048a54ac1d55408d51f13aa7058128933a26ef82197d138fa7c68744e0",
+      "size": 247157
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00131.geojson.gz": {
+      "sha256": "508543a7b9f458359b9cd74095359c98c153f1f99b344a798082792af4103f8f",
+      "size": 243899
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00132.geojson.gz": {
+      "sha256": "48052bf753c6896d9783f8349b2f877175fcc3cb90fc63f05fb64aaac925ded0",
+      "size": 249856
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00133.geojson.gz": {
+      "sha256": "01166d585aff2212433c2cbf8a8ca9fb0008ef3d1070b819bcc88f8de716f19d",
+      "size": 250224
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00134.geojson.gz": {
+      "sha256": "8cb52b91af38d99e13ab3f17445720274a3a61bfd6aa2c753beda0dcd6eb0067",
+      "size": 262518
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00135.geojson.gz": {
+      "sha256": "6d2abaf574837827a7ce1774a39649490d866139ea74b45943cc45a60697aa12",
+      "size": 247957
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00136.geojson.gz": {
+      "sha256": "e4fe86c7899351b26a6287eec9a22fb72bb0145f96ce55d023c4d436acef484e",
+      "size": 239487
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00137.geojson.gz": {
+      "sha256": "158af1f635a1e3ea9e75c51faf46e3ec8c0f21c076bc5e9e0e40be1584c49cc5",
+      "size": 228780
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00138.geojson.gz": {
+      "sha256": "80b1669e5ff77ea93806de7cd2c2f202077205d061835c7fd8c7d9a1ee46ae8a",
+      "size": 227268
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00139.geojson.gz": {
+      "sha256": "097eb1860964e0eee04ea740ed95136a7de0218eb2b8715f47d53244b4f963dc",
+      "size": 221259
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00140.geojson.gz": {
+      "sha256": "795ac66087b593afd0257754f04f827912eb0f57960e89c8f695002faf3496ab",
+      "size": 228945
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00141.geojson.gz": {
+      "sha256": "a5ef18cbde23b63037b84e5497eb296cad954e6cefffb219840cfd59053a83f6",
+      "size": 244302
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00142.geojson.gz": {
+      "sha256": "bba4371c327499cce861a205fbc18523740b420ab29c0c40a6af0702ae8f582d",
+      "size": 243560
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00143.geojson.gz": {
+      "sha256": "2f670133eeebf5ddeaa384fa986d904e957bb10c9618dde0dee514eba04bd06f",
+      "size": 242555
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00144.geojson.gz": {
+      "sha256": "883ce7e4f32d78b5a2269106df4baadcef70581c30af990e9dd20761de61e191",
+      "size": 223641
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00145.geojson.gz": {
+      "sha256": "0380dc17950809ef34d5e3b6757cdd10b08b4c094d3fe772473a6e0d6a059372",
+      "size": 203639
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00146.geojson.gz": {
+      "sha256": "2ceadeb7618bc4e92d0502de37d42849fbac5276a8eec0f803352217d820ed69",
+      "size": 188089
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00147.geojson.gz": {
+      "sha256": "b540f3d9b2f88c536ea5720b2d8da200c4fc39b85ecdcb17796f391c4b988dfc",
+      "size": 235360
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00148.geojson.gz": {
+      "sha256": "c6e6e00309736565d3f89e405c9a43b89edbf841adae847f9eb4acf5b6c64687",
+      "size": 220715
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00149.geojson.gz": {
+      "sha256": "24895789e254704c07610d3f292c34d7a694142a206297771eb19bdb0db43743",
+      "size": 238437
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00150.geojson.gz": {
+      "sha256": "a0f3d04068866b7b12a2be03c61cceb25e46aa78b90dedcb6f8210a95a638090",
+      "size": 229496
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00151.geojson.gz": {
+      "sha256": "65e03b83194ee559187dd34b57fc232c166797be4117788c72d7961403f8d96a",
+      "size": 208224
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00152.geojson.gz": {
+      "sha256": "f9229ec8167ac96bc34a09acd84100408626ddac51519e1e4523f506a57e2273",
+      "size": 201897
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00153.geojson.gz": {
+      "sha256": "18fbd9ba36049608ef09f4cbeb7003c9037f3a756522adec0d3e050c79852a52",
+      "size": 215858
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00154.geojson.gz": {
+      "sha256": "4781ff82edba4e0928051abc6e3cfeed73d79a235e34ab878849324380576c62",
+      "size": 217040
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00155.geojson.gz": {
+      "sha256": "3d3b82ef5a2bce2a70324b16b972f6f4e4cd6a1b3a5d46c2adbd94814a2f2c8f",
+      "size": 210019
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00156.geojson.gz": {
+      "sha256": "d3df1a97996d0c7ae2aa5bbc1331e49394ec44dc403797ef5f4568e7e0549e1f",
+      "size": 221097
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00157.geojson.gz": {
+      "sha256": "09cbbacc1626bb38bdf94b0ad6ddc1e5e90c87c930c356d450a90d01407d06a1",
+      "size": 222253
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00158.geojson.gz": {
+      "sha256": "370f7fbcaa7bbd487842f41cf25404674ce2cadab29125b4779f93b69a6e1f47",
+      "size": 230023
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00159.geojson.gz": {
+      "sha256": "33874afcc0aeba53cf44f1b4655832a4f878a1ed219b8d0276e337e8f8e5b07d",
+      "size": 211572
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00160.geojson.gz": {
+      "sha256": "7232ddaad2e5ab1a4ae99f8bc691c8424d4c74180cc30b829aba1fca6f294f3a",
+      "size": 210797
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00161.geojson.gz": {
+      "sha256": "87bdad29492dab5652cd4b3030398c0c6655b37c5f0b32d2f1630d343b3eeaba",
+      "size": 214140
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00162.geojson.gz": {
+      "sha256": "3ad329258ce4cde2ce3c9b13c52b7694d913fd721304ef4333e65a5279d58568",
+      "size": 225075
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00163.geojson.gz": {
+      "sha256": "1801ace3cb4e340b617b982891971a5b7a6f02314bd6b49e958857e94a868825",
+      "size": 230182
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00164.geojson.gz": {
+      "sha256": "e484a1e10ccacc88cf6c2894cd6c6615d76f9233276882673148a8fc1f4110d8",
+      "size": 233451
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00165.geojson.gz": {
+      "sha256": "916b0ad3fb0001d870803805d01ee28af9add6452d48e5c4af2ad1365f26df99",
+      "size": 226936
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00166.geojson.gz": {
+      "sha256": "05ba9a2a127cae212ce7fe09023445dcb50264f149452bed60408333cf5b3963",
+      "size": 211544
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00167.geojson.gz": {
+      "sha256": "306b0119308b211d822d7755e612eeb740659d3255e60bb3c72e3bc927681170",
+      "size": 205875
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00168.geojson.gz": {
+      "sha256": "5376ff1dc2da9d6ab01e995897d9d43e6e81a703f4b0c73da352f8d0ea7437d6",
+      "size": 215270
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00169.geojson.gz": {
+      "sha256": "5ed845268a4db7883132ebe1dcbf684518ef3fd585188b85ba725b2c348b6e86",
+      "size": 223887
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00170.geojson.gz": {
+      "sha256": "cf89c5591f4b2294cdf681afdc935beb8d6d7f4ac4cf328d2f0d88845ca881eb",
+      "size": 230981
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00171.geojson.gz": {
+      "sha256": "fb5255eabea9b042d15664ccf04bdacc899b858bffb2d716d1bb94cb5eaab5ac",
+      "size": 227517
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00172.geojson.gz": {
+      "sha256": "f9ccc41621f2ddbbd1ba14d47786f2d4c4e8b7666cf43c159b0a22a839d16e7a",
+      "size": 267685
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00173.geojson.gz": {
+      "sha256": "3df7ad033a2a2adfcf0813e084d4d0e2b3eb4ff8c673c747daf4ff367f7acb82",
+      "size": 220379
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00174.geojson.gz": {
+      "sha256": "2dc8055ff4fcf9a7b6e638c450607387c95382cc05eab1ad05c40ed0aebe48da",
+      "size": 216807
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00175.geojson.gz": {
+      "sha256": "482224b17ed4fddcc2119f35459b8aa4ebdb4fd1aa90d75b99399c702089b6c5",
+      "size": 217511
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00176.geojson.gz": {
+      "sha256": "5fec8d4a76aeb3ddd8c4d20e0d0e9c76bdcbc6e69fac12d48498dd5abcba688c",
+      "size": 220944
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00177.geojson.gz": {
+      "sha256": "8d39cdec33a4f45f63f9dc10b57181f589cafc98c702a1baca24c51e5d69a239",
+      "size": 219664
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00178.geojson.gz": {
+      "sha256": "c15cd85657739eb64775d4711ad7cb0e91368c17c845547019c97c671f2cb7f9",
+      "size": 225628
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00179.geojson.gz": {
+      "sha256": "9e2da45ac4811d57ea4ae061f014d5015b212692bbc05fdee2c2ca1242d4b66e",
+      "size": 227078
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00180.geojson.gz": {
+      "sha256": "107555c414f6181f3c5dac46d78f7741fffd202f973d4a5453301f1b93a90e14",
+      "size": 223833
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00181.geojson.gz": {
+      "sha256": "83d513c92a39d56f50cedb87936c80e35c96ef994baaa05228a4bc49d9142e05",
+      "size": 219643
+    },
+    "data/geojson.day/only-murders-in-the-building-508-day-00182.geojson.gz": {
+      "sha256": "082cbdb25ab01e5720cbc6937111c4314c1c89d96970349553e5795e4979e8b1",
+      "size": 229636
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00001-2025-10-14.json": {
+      "sha256": "48090bae67069ae598b97c049abbfd6a824861db360ffac1b490821320cb6a58",
+      "size": 487
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00002-2025-10-15.json": {
+      "sha256": "7ce9dcae5e6754f763a5afe0120e13ca9dcd22394351165e128359ff7c7daf2d",
+      "size": 487
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00003-2025-10-16.json": {
+      "sha256": "bd8dde45f0120dea096d4762d8ac3589f582ee310f9530138cb931d72b311cac",
+      "size": 487
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00004-2025-10-17.json": {
+      "sha256": "6d1af336bac6a52d8f7cf518a1f0ce2a298376a69ededc6eee1b1034f313a987",
+      "size": 487
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00005-2025-10-18.json": {
+      "sha256": "9dad93e006aaf7f84bf32e4de1c649325b8bea48d6cc4b31467dc58555297150",
+      "size": 487
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00006-2025-10-19.json": {
+      "sha256": "e34d2b98c670efd08fd65815fe883d90d2525a585013505e4dcc72a0aa49386c",
+      "size": 487
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00007-2025-10-20.json": {
+      "sha256": "134299c2b46c1421d9d855eb77fafc481b0cc31836066f284530d113feeb3517",
+      "size": 487
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00008-2025-10-21.json": {
+      "sha256": "3d34489a0ec282e6d3d515e910979b007aad1f4ac68c096a1f4768683c271a09",
+      "size": 489
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00009-2025-10-22.json": {
+      "sha256": "92b688b07d9145be0665438e17b360fcf94f5b360ea295d9ff8bb9813f8925d3",
+      "size": 489
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00010-2025-10-23.json": {
+      "sha256": "fb66fb19cb365adc6941461f09dacaaa32d6b1937c7860af536f2c5388ff7af1",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00011-2025-10-24.json": {
+      "sha256": "99491fcf0c39667e0eff69bcc5391b926b4ddf06530428e60abed0a58ed7c7bb",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00012-2025-10-25.json": {
+      "sha256": "9ea3d85c694eb08c88af9d01d3393f8cd9beefc87dc4c97c44325389c39791ba",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00013-2025-10-26.json": {
+      "sha256": "e38d707e82c145d40367d6917dc14c9d262a9607f51ec9f3c247b74f1c791266",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00014-2025-10-27.json": {
+      "sha256": "4b7cc0d8c2592b6513cdb316a5d60196459f345ab214bd233fed0611313e9201",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00015-2025-10-28.json": {
+      "sha256": "9c5880293ceee2ad28adfdca16f6efa832616cc6e180818350b364aed46b087f",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00016-2025-10-29.json": {
+      "sha256": "d7dcc7fbf437f2fc0297ca842e005b48017646ebc40d917154e6b18e3c778100",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00017-2025-10-30.json": {
+      "sha256": "842b4b1591a3b2a0da6d39bdc2b3a98b82f6dfe4f56efd8b48512564fedbd46c",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00018-2025-10-31.json": {
+      "sha256": "d53dcb14064c23f42f261dffb937faf2eebdfdec5a3fed71dd3c81c3955d304a",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00019-2025-11-01.json": {
+      "sha256": "00d84dc55535880bb5c2f0b29dca6a71408fc7aa923658b74b2102f03153b4ed",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00020-2025-11-02.json": {
+      "sha256": "31c41c66ff8f1111215060c4734279cbde1c265742511ba413c5f3f1c5a5a193",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00021-2025-11-03.json": {
+      "sha256": "65447947f73eccab797a27d8807628007e54415ec0ce035fb7298aad8d2d34af",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00022-2025-11-04.json": {
+      "sha256": "cb5d4071225b451e59eebe67410b7ed2d92421d4573ff6a301c0a4e61485e665",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00023-2025-11-05.json": {
+      "sha256": "c9b18f0873b8c74369cc790d9aed4ccd1ed6ccc2e49446be0e7d8693d45b1ee5",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00024-2025-11-06.json": {
+      "sha256": "1b3af2afa1518e93ddd74791f62c8726318af0d26f4c8b7ac373ada01e27f721",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00025-2025-11-07.json": {
+      "sha256": "99f3009eb3cbdb705638d259929bf0daba2ca4511450da46138ce25551072a6d",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00026-2025-11-08.json": {
+      "sha256": "5c3f9a5636258a4c4ec64530e451cfa6599154d9b5231f92c0ee62b77a3905eb",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00027-2025-11-09.json": {
+      "sha256": "2aa1bac0518628f86f7ded8cb67a21b2f379cbc3837ebc1993e0dbb454762868",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00028-2025-11-10.json": {
+      "sha256": "8879725ddd8cfdd40e94e5a26f741f14588fa6fb421160bffcc8dc502de04cff",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00029-2025-11-11.json": {
+      "sha256": "c2b0a5c1bcd906c454dcdc8b6126e63f3947e51b15fd1694e025f5732c681cb1",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00030-2025-11-12.json": {
+      "sha256": "baed9402890c659bf0de130dbce88e8629e42c35150fabed61f73a23a8da58d4",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00031-2025-11-13.json": {
+      "sha256": "d6298e5a0aba9b09498836c2adc23f17d0851379bbccbec2ee269c68b2c8f70d",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00032-2025-11-14.json": {
+      "sha256": "15a8469eac6a26f9fccd20ac945540c9b12d211753ae6b7689f25d2d68e76a13",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00033-2025-11-15.json": {
+      "sha256": "c7d431a9b0c306ef11d515cb4653f9e262b12ada4bde462996a0368aa19ebd4d",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00034-2025-11-16.json": {
+      "sha256": "33455a9f8807047bb1feedf3b1362ce766deb78b285b64b2e5e16658fd0ffa0e",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00035-2025-11-17.json": {
+      "sha256": "af5e861a2c828e70716a0be2c329b2f39752f7cb840fa946b416ff04d63da868",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00036-2025-11-18.json": {
+      "sha256": "2be230d67c96fe0a48068d0bd08e1e49f68c46ee0091da21feba773dbbe12a9d",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00037-2025-11-19.json": {
+      "sha256": "5becd0ccd3fca3974e0caab4361a4951867a4bcbadf2bb5fe0a7b8b9d9364355",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00038-2025-11-20.json": {
+      "sha256": "a9b82b463272dd09d796c0d332ce46865e56a2d58fee01417a9a4ba130849a2a",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00039-2025-11-21.json": {
+      "sha256": "0deef1900e3b64684b836c7e0be04ae51367160f71d910b6eda4ba6448e71604",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00040-2025-11-22.json": {
+      "sha256": "01eab43b520dffdb28a205fa4a25d2c5984d4c3b70138355a4148de14f6b5ee0",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00041-2025-11-23.json": {
+      "sha256": "927125f6f581d4b83653214c9348028ce88ca48ebd3d882b4ccd03081dde2c02",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00042-2025-11-24.json": {
+      "sha256": "bf01149e02994c0bb7a7df481d8bca551fb2ab38730e1eb8976a675c10e43523",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00043-2025-11-25.json": {
+      "sha256": "cb0134908b2a36f242244318a22d29ee7d5ab76dad4c4d1526c4e444501d9381",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00044-2025-11-26.json": {
+      "sha256": "2f7f1f2addf1ae5c6510517c431d565882501982c3b4a23c67c54cc43405e8ae",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00045-2025-11-27.json": {
+      "sha256": "45dac909b4c5c24b5ef53e478642177381150119da0f6c4469d18480465799e0",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00046-2025-11-28.json": {
+      "sha256": "66b3ba0b8621635c5dcdb01c1ee03e438709663b767f5837bd43d3a2a07334c7",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00047-2025-11-29.json": {
+      "sha256": "bf6a57ae429420658f8d4139f4eff8108dc88daecb2421f99bbfce94b2ad09bf",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00048-2025-11-30.json": {
+      "sha256": "540fa9a8dc884dbbba87cb4b2cc43456de97b0003580799945a9651e7b1bae4d",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00049-2025-12-01.json": {
+      "sha256": "db1a2076cd5ae26412194e4a399023b979e1ecd6637e00347e9a5ee295d2cdf8",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00050-2025-12-02.json": {
+      "sha256": "570f75de543a2244c7d0a777cb501ecefb4c10f408b51835388e410f8f6fa955",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00051-2025-12-03.json": {
+      "sha256": "84ce4d836afe750a5a79b9bf8c510eb4f564969b01fbd201d9d1e3a032fff4fa",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00052-2025-12-04.json": {
+      "sha256": "31e785be9105dd5e2facd30d770bd0468ce1f661dce81175769e98efea1dac51",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00053-2025-12-05.json": {
+      "sha256": "ba8cfafd274b4a3ee3b33d3c878ac90eb14c34e11a95820b08e62ac10a05ede8",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00054-2025-12-06.json": {
+      "sha256": "b3fad2a479bfaaad1a781db4504da5295c05b14abf2f8af57b51e59fac4573d7",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00055-2025-12-07.json": {
+      "sha256": "83f9a818ba185ff1de1681940c713fd53bca1460820fad065985a3a58a4d57e9",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00056-2025-12-08.json": {
+      "sha256": "5a8b55f467a957b2c78fc4f1955eeb9bfadf28e2e2d51969b87b473ab7363b7b",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00057-2025-12-09.json": {
+      "sha256": "174c31bb9de9799a7600f163a057855a57fcd58b0180cdbca81e5f64911e4902",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00058-2025-12-10.json": {
+      "sha256": "11d30e934001c69a2f7b7493dc6598fd583afd27fa20ab00cd927f6185d61388",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00059-2025-12-11.json": {
+      "sha256": "98edfdc41b9fa4bde8afb7053f64b57050809c68e4659d5655269352606edeaa",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00060-2025-12-12.json": {
+      "sha256": "dd5de8fc439fb2d6ee5fe7b601aa55509fb0b91558a1308477ab29a090ebc234",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00061-2025-12-13.json": {
+      "sha256": "cc3ac2526259edce140db6c3ca75ca9430892ef547aede14207f478a6176ea09",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00062-2025-12-14.json": {
+      "sha256": "3b91a0567d09db990eaf27f50b85661e32d507cf6d9fec1a98c96728e3414e36",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00063-2025-12-15.json": {
+      "sha256": "d235c0cf2b4f1df38d7636b36d551d4375909377c6d007e39cad9d1ee7486c4e",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00064-2025-12-16.json": {
+      "sha256": "49323d878c541c5b8ec514d63e926da0a583c549100ed485def21cd15429b918",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00065-2025-12-17.json": {
+      "sha256": "001a76809696dbc6668a03841f5eb7e31b76ac6cb4945969c986047d621c4065",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00066-2025-12-18.json": {
+      "sha256": "c961e382e6206eb534100365d7238f72ebb14f58d3f3a2d325112c4e254be406",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00067-2025-12-19.json": {
+      "sha256": "09f3174155889823501e00ec045c6288a7d63afa1936d6c2a0e5ff224bc086e1",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00068-2025-12-20.json": {
+      "sha256": "cb97c30c08e5ea9b98945b0a5a59643370ddf2028609f3034a0c85ce8b8ead6a",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00069-2025-12-21.json": {
+      "sha256": "6548762c37dac0f915eebd03424f61b87759bff29d9257b5925050575d338137",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00070-2025-12-22.json": {
+      "sha256": "14c409cd7ccdd15a3b32760c9bf39be8dd030b2e886802eb69c8e29e486596d7",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00071-2025-12-23.json": {
+      "sha256": "1843b608e9672ba24b51fb897491c42694f75a42472c550fc940b5d7c5de74df",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00072-2025-12-24.json": {
+      "sha256": "f20938755b744a2aea48d9fbb2650dddf9435c6fb030d61c7986926aeda170de",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00073-2025-12-25.json": {
+      "sha256": "88763d0b35a9ece051ff2c4cfd1e6bbeed783633bf21484b5d578e8219bc4ff3",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00074-2025-12-26.json": {
+      "sha256": "2c1c40dd7a95d4a42da474a5407a5b6fe37cbb93555eefa2da30b4facfeef94e",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00075-2025-12-27.json": {
+      "sha256": "5810dbf60610ec3c2cfdf6510ef6f93a74aeeb25a5a6739f1b4498fb0383f456",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00076-2025-12-28.json": {
+      "sha256": "1f9b404bec39a8777fbfdf40bbbe759530081ef55c389588f19219ad0b722510",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00077-2025-12-29.json": {
+      "sha256": "afb5dace3fb03a95aee8f8f5aff3fb8c703c42911dff712df1a979a6969f0f2d",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00078-2025-12-30.json": {
+      "sha256": "b4a3b6c7910ff6ae0ccf30d2015fa25594c45aac6b7a1b650b60706c560d7389",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00079-2025-12-31.json": {
+      "sha256": "9c3991a12d5ccae10b37a3be00a8359fe2285a1cb88d88a861ad411d5cc099f2",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00080-2026-01-01.json": {
+      "sha256": "71a588d4d314f7b26938bdd293c9e334bd14e5e864ca41e1d94aa8ae785eeb9b",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00081-2026-01-02.json": {
+      "sha256": "76066ebbdb7ae407ef36f2f74ef0db72ceea10f9410f64a4f160376aa6c5fe88",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00082-2026-01-03.json": {
+      "sha256": "091e9bb71cbec08abaa97b889c8d2afb218cce759765e2342a437a0956393d13",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00083-2026-01-04.json": {
+      "sha256": "50324260da04400ce5a75a4ba9a51a89fbb9893d106d212b92838d7281f677ff",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00084-2026-01-05.json": {
+      "sha256": "ac7f592bfbcec8d2541fa0436f3faa22252401c451830c57321e98ac9d24acdd",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00085-2026-01-06.json": {
+      "sha256": "84855d83b45d09f20c50984b641ee53d49a619f28cd71ef9a4fa5aa3e37bd6cd",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00086-2026-01-07.json": {
+      "sha256": "7cc98daadf00ed86fc5fc6e34fc5c314d374056e4c5995a7de047568fd6dad98",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00087-2026-01-08.json": {
+      "sha256": "588037bdb693673d6b575d010c1e4c975128a9b912ee6ad5073266c9439d5d90",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00088-2026-01-09.json": {
+      "sha256": "dad7259f5847fffa7f5b61084ee3d9f4c485abebb825fdb1a79562d13055c0f0",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00089-2026-01-10.json": {
+      "sha256": "7c9f0625f7b59b535767dc400ce993581a88efddebae4991b7512ad105240c57",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00090-2026-01-11.json": {
+      "sha256": "c8a57bc8c0ac1e4d7e4032d097b37020c8ae29e60c67a9d1715e08488088adbd",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00091-2026-01-12.json": {
+      "sha256": "2910d6281a4e038a5b135d9db63ba760b6b07f3ea2d31ff37c9a48291b0cc209",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00092-2026-01-13.json": {
+      "sha256": "7392fac8c089cc1d364ede425ee39bac37a5a795e304feae71c707f25e220a57",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00093-2026-01-14.json": {
+      "sha256": "91b9c417efcffbc505e1ba1b9d8a1a8e8a4632e5621ddebe68aea40fef5c90d8",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00094-2026-01-15.json": {
+      "sha256": "002037bd223f4eeac910d14cda4d10f58a757dc46485540a5165f78b017e2d15",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00095-2026-01-16.json": {
+      "sha256": "1de5f2f05fb2d1bb5f35ae47a222cb54a845bfe4a29a9e4143d95eaab2f86377",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00096-2026-01-17.json": {
+      "sha256": "7c23900f25777b53f6b782e725312eede2cd6be862da7d9dfa7add23ee5858ac",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00097-2026-01-18.json": {
+      "sha256": "7d1e1d05fb0df40e18ff2a86fded97219cca93987dbafba41cb619ea80baf7c9",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00098-2026-01-19.json": {
+      "sha256": "8595aaef0cccf2d95c0ea844c7b5b44194956cabdcfba4dd3570afd74c8ae439",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00099-2026-01-20.json": {
+      "sha256": "83b246e03106833cbafd6904a6515ca56583d8bfb8633aa35925e831d1d96655",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00100-2026-01-21.json": {
+      "sha256": "649249301af65e00c1450d2a26bb56c06d946d0a9d8f5f62fed514d86bdd83eb",
+      "size": 491
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00101-2026-01-22.json": {
+      "sha256": "ee9aef18b1f9422e6fe3505921046d0051a542f4b33c46cde17be92bfc64350b",
+      "size": 491
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00102-2026-01-23.json": {
+      "sha256": "fc516aad0694b9fbc8d662d159aa3b708473edb0f89a24e5f4c55708f1142022",
+      "size": 491
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00103-2026-01-24.json": {
+      "sha256": "7ee4051a5053a8cec5e55e4151d3111954efb8ada6c059c855f3a9c7a0d4581e",
+      "size": 491
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00104-2026-01-25.json": {
+      "sha256": "13251ab0ea233a743618c0e69816393dafe69c0a5285ccec552484c61ca4a387",
+      "size": 491
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00105-2026-01-26.json": {
+      "sha256": "d93a272fb9769e4e7f7eeff3c3d10168f863e1e47badccf79c6e4a3a2a6fd7cf",
+      "size": 491
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00106-2026-01-27.json": {
+      "sha256": "588d935973e7f23bd71d70115963954ddbf2456ee8c61cb4ff5dc51d778686bc",
+      "size": 491
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00107-2026-01-28.json": {
+      "sha256": "86eb83f7f27d46a3db1b20b35a9621adeca8afee6cc7c3bd60c8931f1c53a4df",
+      "size": 491
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00108-2026-01-29.json": {
+      "sha256": "99e79acde3023c6cfe68d1eabc557c12071d56c821feb402b28156236d67e5f1",
+      "size": 491
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00109-2026-01-30.json": {
+      "sha256": "2632cd4517f3e96e8bf1990ca9f6acd3b537ea9cc484be96b9c7f72a34916829",
+      "size": 491
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00110-2026-01-31.json": {
+      "sha256": "e61798755affe74586290cef40c8db7612565ea0cf3504890fbd7691d0e9b5bd",
+      "size": 491
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00111-2026-02-01.json": {
+      "sha256": "6867b83954f4d88f1ef43116cb4e81ff97e0401211123a5a116d21fbcd80b6af",
+      "size": 491
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00112-2026-02-02.json": {
+      "sha256": "502cccdfa35a4b13ce1e4f031fa62f0191466803783d4557abf3aced195280eb",
+      "size": 491
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00113-2026-02-03.json": {
+      "sha256": "646303ab862ff5881cdbc7caf3c385fa621fed38c83bb4cd02500ec567a64551",
+      "size": 491
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00114-2026-02-04.json": {
+      "sha256": "49ad048252f86c690e5b571bbeb474bb629b16fb6c281137f657d537977c7b83",
+      "size": 491
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00115-2026-02-05.json": {
+      "sha256": "443fda5afff7bf2ba546d2a2d0b306be04d6bf7fa5632819fef08ed963dd6719",
+      "size": 491
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00116-2026-02-06.json": {
+      "sha256": "5524e390c58bcf9795b97b944a5dafb457fbf6d7d6db1a0c8cd1cedb158196a2",
+      "size": 491
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00117-2026-02-07.json": {
+      "sha256": "bea302f27d466a400d4175f47640d8ce198d258fc0dbcce28ff3f38b2c686547",
+      "size": 491
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00118-2026-02-08.json": {
+      "sha256": "24e437aedfbdfeed2797fd36c7bb4b5f652cfe326af7583647c7ccf8aa0784ef",
+      "size": 491
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00119-2026-02-09.json": {
+      "sha256": "549c0f977a3d8651534fda1e4f6dca1feab2a749a53fec4bb9abfb0f469d40b7",
+      "size": 491
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00120-2026-02-10.json": {
+      "sha256": "5ef9a58763c824544edee5a1730b3c1ea0800df10b1b5b6d4137dbeb50d6eda8",
+      "size": 491
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00121-2026-02-11.json": {
+      "sha256": "3a893221c2a0fb579f92624247fecf80fe19df12f2fc009f46d0f691e7c43eba",
+      "size": 491
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00122-2026-02-12.json": {
+      "sha256": "15138bc4a0d1b2860ae25dd30770b2bf4e809da351d7f59324bcd8a0fbb22fac",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00123-2026-02-13.json": {
+      "sha256": "32d0b440052dbb88c5e08b325fe9a00dd0b967b2349b614a07f6980c15ca8db2",
+      "size": 491
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00124-2026-02-14.json": {
+      "sha256": "4775369a60f8bf0758316f1c16cc83ebbff88a036c3b83d6335cb706b8a65d30",
+      "size": 491
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00125-2026-02-15.json": {
+      "sha256": "efe0737590f426f634270d8eae988e49d4ab64f242d2fb41c7cd7c79bd82efe4",
+      "size": 491
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00126-2026-02-16.json": {
+      "sha256": "3cfda2638257d3028eae365d21d6e2a135f98c110da4bda33bed9ab86fffc3bc",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00127-2026-02-17.json": {
+      "sha256": "a06e7050de3d02427d34439cdec1498a3570342cfa423bb9cfa7fa8eb1706549",
+      "size": 491
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00128-2026-02-18.json": {
+      "sha256": "8aef53e1196c6d08df2de2a4a1f146c06dd41ba3daad27bca9162cfc3445cffd",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00129-2026-02-19.json": {
+      "sha256": "7d04b6539536f65fe087862f3d7bf30108a1a2360a7a616c5fc3d8b8988fb110",
+      "size": 491
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00130-2026-02-20.json": {
+      "sha256": "c78450d799fc6e91f43dc3986207185ca300f757e1474ad0e56ac17ea5a6b2c4",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00131-2026-02-21.json": {
+      "sha256": "7b5d3eadae6039f796b8103a50a0fb2c031fa789f59ac9976ecef0d98d38c06b",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00132-2026-02-22.json": {
+      "sha256": "7801aa8518d167179b481b4d0af1d7b0d20e66ddcf26b293231e571123814623",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00133-2026-02-23.json": {
+      "sha256": "ba2995d72d5e77f58c80ccc3ca5d0cbc7b543219a00d0f3c21e43bef59d6249f",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00134-2026-02-24.json": {
+      "sha256": "15cb461d9dced8722d01b4202a16c12fa0c5d2bc90cbe9d0b0f34b86bb7c27d8",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00135-2026-02-25.json": {
+      "sha256": "905896b8f411b6717c3fa4c3f0d94bbdfd7c8ca6803eb1a1efbabc7417ccfad6",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00136-2026-02-26.json": {
+      "sha256": "fef171ebb1a1e67769f46b3fe5cb96e0d549fe5d8f264c5d60858f296be70549",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00137-2026-02-27.json": {
+      "sha256": "61ecd162ee51069444f1e52428a93c924cbd7ea4f21c8ba88ecce3a5811ce9f6",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00138-2026-02-28.json": {
+      "sha256": "0f6ff3888d98ff5c45127cd8ea03b76477389af14cc43e90c94f0a79539e0ef8",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00139-2026-03-01.json": {
+      "sha256": "41052bc4a8f78fcdaeb7237bbd60b6a9f818384497ec02b4a4644d7d3110f45c",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00140-2026-03-02.json": {
+      "sha256": "3fb633d08b583d7d9974c250b203bd564ab2e7dcbc13dbcd0929f17012df98e0",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00141-2026-03-03.json": {
+      "sha256": "4d009ef6ec5edea03c248c84e6d2ca436ff5683633f9b5a1d8e592b014b3be84",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00142-2026-03-04.json": {
+      "sha256": "25e11fb1feb41b7fb40867f2f35edf4d08dc6d282acd668fec9e9f1fa730e8d9",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00143-2026-03-05.json": {
+      "sha256": "cc2bd97e28a6fabee389dd10e02a3e31bf53bf0d7787e1adfd0e9d25feb7acd5",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00144-2026-03-06.json": {
+      "sha256": "00e8348e68f0b2ebd4d52a73a690d20ecfcb083dbcfb6aefbaa04366ba051c60",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00145-2026-03-07.json": {
+      "sha256": "1ce609682fc43772addb05a05034b17ca3564c6f21959dea8dd4314323af33c1",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00146-2026-03-08.json": {
+      "sha256": "421754286314782c238469a024c44b7cc8d4bccb65e0a0f739ed1da6ec95cf20",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00147-2026-03-09.json": {
+      "sha256": "093fd183d552403e926dfcdcbe0f7e006174f720c00c1d5978529cb05e89aa58",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00148-2026-03-10.json": {
+      "sha256": "ed1179da1154282437f9d288c0e047ec64263fc61ce1e5de5b6fa5ef2249716f",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00149-2026-03-11.json": {
+      "sha256": "73db9bf60e7818ee89792fd46934e38dc4235995beb615fe10e5689b7b15810b",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00150-2026-03-12.json": {
+      "sha256": "2cbfdb5c9ca614d46623adebabfd40e3886a62e270b864a8fe5a3fe6b44b138d",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00151-2026-03-13.json": {
+      "sha256": "5e87282ff82a2d5511defeafddbd6850cd64347d25418890fdad200ce794b6be",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00152-2026-03-14.json": {
+      "sha256": "b54797afdbe04d31c440ee6394f0d5833a9b976a4869f4724bc747f0c6941e8b",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00153-2026-03-15.json": {
+      "sha256": "542d1e23c4b8049ab0037b4c5840cef3d1145e340a09a1c810b51015f87d090c",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00154-2026-03-16.json": {
+      "sha256": "41833712ec1e70af8a93ada595d086bcef428bed9ce01da6c5e121d8c9f60c20",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00155-2026-03-17.json": {
+      "sha256": "3ff5c949d9ae5110e973ff8122793c897441c1a8fe557381d937a1914ed3ea44",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00156-2026-03-18.json": {
+      "sha256": "6b4640cfbcd432bd6b19e66e24134effcc5afc71da8dd95c1dffe4c4f5091941",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00157-2026-03-19.json": {
+      "sha256": "5236ef1c3fc90e3e36b5d1cad378f902963382e7ae0f70aa82b841e23c40877e",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00158-2026-03-20.json": {
+      "sha256": "f11a4a49740f270abfa8c56618f46cdcc2ba56e95d2bdaaec0709bb6d714e01e",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00159-2026-03-21.json": {
+      "sha256": "a49daa3527a05aad3c981714c7897cd4fb54e802b1d808f985361130733ec5a5",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00160-2026-03-22.json": {
+      "sha256": "6b71e51e9d89aefa098c479255fd290272323d581c88e73f2d1db3f8eb27584c",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00161-2026-03-23.json": {
+      "sha256": "90c66bf660c21713ef276e190ffe4598ce15f59d19d9a6d4da9b05846b7768eb",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00162-2026-03-24.json": {
+      "sha256": "f825c0ae0bfba8f30300fcf3a0a45c2b51996cff1ee7b6d74b89cc17d0b0a892",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00163-2026-03-25.json": {
+      "sha256": "e154a013195a53d112523e9db5e45cdd4ac45e23e8b8376174e822fd798e2d5b",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00164-2026-03-26.json": {
+      "sha256": "ad98852cfc1af2e2c283b943f03b0181e6289cce9a0233f02ebab4a6174d4f48",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00165-2026-03-27.json": {
+      "sha256": "a81c202390eea89aeeea6ceb316824e92b09c40c83f3494bbc025b489ccafe1f",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00166-2026-03-28.json": {
+      "sha256": "244ffb679879ac4c5a013bc00b05fb9f2887686da2b24fd91be18a206f9c28c4",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00167-2026-03-29.json": {
+      "sha256": "661a940cd8064035f60cbe39e55d5ee3168a5a7952528165b834277ef6a5cbb0",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00168-2026-03-30.json": {
+      "sha256": "9062f3e7da524655a0fbd9b14a7c67ad405cc18f2cb50164c933fba95420b154",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00169-2026-03-31.json": {
+      "sha256": "767b45dc9477fe6a12a125599cfedd21c06603628b919d4f9d6aa310271e4d08",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00170-2026-04-01.json": {
+      "sha256": "6e469806171093f99329cf7ad170fd4fb0197c975b9d69b9ffc73d9e5bff7d1d",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00171-2026-04-02.json": {
+      "sha256": "decc9eb6012cd382cba38f7ac93e771eb294bf1ec935955855719080c02a9972",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00172-2026-04-03.json": {
+      "sha256": "2f186d9cc82072639e9e8b06937fd20a0ffb558610747a65929ef872b2f8b6da",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00173-2026-04-04.json": {
+      "sha256": "b6f0f3fe6a4da84e721bd3bfe4170d8eec1b6824791cfe139aac62f792288ae7",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00174-2026-04-05.json": {
+      "sha256": "189ff1e48c1507907855e57514e006941a34def32af9d9204b4815842b8c1003",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00175-2026-04-06.json": {
+      "sha256": "cd6bc406f524fed2c2b2bf1d87a7d04cb17f231ea532129608caf0ccd43dddc4",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00176-2026-04-07.json": {
+      "sha256": "cb364cf9a9a0bdb84df05e3d757f7672d189e8d4f2095cf1eec310bc66f08636",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00177-2026-04-08.json": {
+      "sha256": "5207c079679cc8dfcdcc901dafc8cbae80620a1fce851bd6cedbcb595e72019d",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00178-2026-04-09.json": {
+      "sha256": "4a6c83bc29b3e73422e11deabb18842513f72fb5e80234dd29aaa2339208a2fd",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00179-2026-04-10.json": {
+      "sha256": "8943e4bb409bda539b2200ed7a55de6c2b60c032717d00278b9086ef8a610824",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00180-2026-04-11.json": {
+      "sha256": "48aad7f625f9bdfb4ab635074a504fc70e0e1ecbcc65a9f0814cee5c70589af1",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00181-2026-04-12.json": {
+      "sha256": "87b6ba46a7f69646f2ce519f1e66e4ca28c70d41403c314595a0c6e851114da5",
+      "size": 490
+    },
+    "data/json/only-murders-in-the-building-508-swarm-day-00182-2026-04-13.json": {
+      "sha256": "ec5510c4ca3ddee15e9b34a64ed95086fa30289e68335128ea4dd2b088ec834a",
+      "size": 490
+    }
+  },
+  "schema": "alpha60-year-day-product-bundle/1",
+  "source_revisions": {
+    "aggregate_binary": {
+      "sha256": "7408569641f7247fbd00969cffddaf1bb0cf2768c7fc1529f4cc6191ccfeae05",
+      "size": 38582648
+    },
+    "alpha60": "eba8537ed9a6e7a09ae3de163b01460f5ad1ad7e",
+    "alpha60_data": "8faeae67a5d274d1fc00bffe9fc9318329163b20",
+    "day_product_contract": {
+      "sha256": "0aa0bee3ac14b512c786d3496ab5218a46aff11786ffa6aa9ea85e762fbd6370",
+      "size": 9897
+    },
+    "generate_cache_aggregates": {
+      "sha256": "504078e192d9c8182df74e41b98cec08123c5a8b7d0eb7f812d09c1fe5d07010",
+      "size": 17151
+    },
+    "metadata": "fbeb53a0b523f937fae2f23d14689d8c5c84dd5a",
+    "package_script": {
+      "sha256": "516d6ecdccd24b1b66cf80c185219fa47d52af22f672b836773896df621b1666",
+      "size": 14724
+    },
+    "year_day_contract": {
+      "sha256": "f1c07d6f2fdc19475a6f25ddaee5923957447a6f49a8009d8b4c9984a63bd883",
+      "size": 9356
+    }
+  },
+  "status": "pass"
+}
