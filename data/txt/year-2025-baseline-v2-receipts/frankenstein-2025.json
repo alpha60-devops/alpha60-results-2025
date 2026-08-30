@@ -1,0 +1,253 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt1312221",
+    "imdb_id": "tt1312221",
+    "revision": "fbeb53a0b523f937fae2f23d14689d8c5c84dd5a",
+    "wikidata_id": "Q124393045",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Frankenstein_(2025_film)"
+  },
+  "coverage_sha256": "e4f90c7a686c322ff5a9373fdd9f299294aa5a039f94c720ffd526cf9edfd34d",
+  "generated_at": "2026-08-30T14:05:48.395111+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "aao-checksum-manifest": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/SHA256SUMS",
+      "sha256": "4a4818facd85b709f0321b0a6de31b4a3eff6f108f3b9354c75632926e6baa48",
+      "size": 266728
+    },
+    "aao-release": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/release.json",
+      "sha256": "3ce0984da2d12b0e3697e76c02608bd9d1a955ee3d00e0a7054bdd297b8f18c8",
+      "size": 1342
+    },
+    "aao-verification": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-aao-verification.json",
+      "sha256": "e01294ebce8e54b65e16ab83017fa5585efe6f7a0a0f1a5e0f734e08d8e223fd",
+      "size": 854
+    },
+    "archive-map": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-cache-archive-map.json",
+      "sha256": "8d4d506f23cd80f46baf010bd17509c916083e75eb8b43b052641138c3f308f1",
+      "size": 125170
+    },
+    "btiha-metadata-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/frankenstein-2025-cumulative-btiha-media-objects.json",
+      "sha256": "362550b90dcfab803f21547be2f2bae8dc5d4b31583f1bea4a82738a8f06bba3",
+      "size": 541230
+    },
+    "canonical-metadata": {
+      "path": "/tmp/alpha60-swarm-metadata-2025/metadata/frankenstein-2025.json",
+      "sha256": "91cbfb5fc8e1bf13154380f25c485e83a174fc80dd003277a0a4c2c057249cc3",
+      "size": 7915
+    },
+    "coverage-report": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-coverage-evidence/frankenstein-2025.md",
+      "sha256": "f2335cde86c72ea2ff4990690c8602cf712aa519cf2d8ad9b30d7715495d89c7",
+      "size": 743
+    },
+    "cumulative-aggregate-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.cumulative/frankenstein-2025-cumulative-aggregate.geojson.gz",
+      "sha256": "ca0131af5bfb115fcc2fb9ab1ac8ec65dde16a3d5ce9ed95f7fd5e9870629561",
+      "size": 1433559
+    },
+    "cumulative-btiha-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.cumulative/frankenstein-2025-cumulative-btiha.geojson.gz",
+      "sha256": "f4544180198005620ecb7744ce1c9e8daa0194845ca55744e2d33ea5155b1a82",
+      "size": 50473107
+    },
+    "cumulative-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/frankenstein-2025-cumulative.json",
+      "sha256": "1289ce513d329a7e1c08b2e3fc82733ebd71d9126e6c566903ad976bc78b8127",
+      "size": 15692
+    },
+    "day-bundle-receipt": {
+      "path": "/tmp/year-2025-day-bundles/frankenstein-2025/receipt.json",
+      "sha256": "b399c9f354f07cdeb65ef934ca7353a98ee7800dc06e29235e293eb8c21d3380",
+      "size": 69135
+    },
+    "ip-swarm-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/frankenstein-2025-cumulative-ip-swarm.json",
+      "sha256": "c167c31d83c7ce7fe05be56855966de25ebe1c595a4e53089a31d1ecf4e13651",
+      "size": 43178
+    },
+    "published-day-bundle-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-day-product-receipts/frankenstein-2025.json",
+      "sha256": "b399c9f354f07cdeb65ef934ca7353a98ee7800dc06e29235e293eb8c21d3380",
+      "size": 69135
+    },
+    "week-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/frankenstein-2025-week.json",
+      "sha256": "a34bbb7e73b910ec8e271f39ff816f14008e760c8a44c016955f83fd1dbc0d12",
+      "size": 3753099
+    }
+  },
+  "media_object": "frankenstein-2025",
+  "published_files": {
+    "data/csv/bytes/frankenstein-2025-cumulative-detail.2025-btiha-itemized-by-bytes.csv": "658fbbc10b2dabac94f8f82323cadfbb0b49cc9d65b55a74a7b0e0177d7aec01",
+    "docs/itemized/figures/frankenstein-2025-carto-4k.webp": "9630065401f898a333432e4bc1830e4346f1353a3c0ae083705d2b4ef59b0d1d",
+    "docs/itemized/figures/frankenstein-2025-carto.png": "ad56e4fb404babcc4e0b383639a1f9ec4292eb258c3a602f29e608543acfe294",
+    "docs/itemized/figures/frankenstein-2025-cumulative-detail-btiha-itemized-by-bytes.svg": "2a57555e947ebfbc76943074946dc443f7ad949e2632798c6a1f3a2a6b075212",
+    "docs/itemized/figures/frankenstein-2025-data-ge-1080p-4k.webp": "8b9ed47fc439d7b42d33807c6a9968e84f614d5ef038e5bb7e6f4303b727c3c3",
+    "docs/itemized/figures/frankenstein-2025-data-ge-1080p.webp": "0e1b66c6889aa1fdef6d32d5c13b888b506c426a39b8640b1ae1470b2718268a",
+    "docs/itemized/figures/frankenstein-2025-data-lt-1080p-4k.webp": "f329f6d79bb11241e2ab3cb77f6f8e665cb6e9b42925f74398b9d9ac2d06f55b",
+    "docs/itemized/figures/frankenstein-2025-data-lt-1080p.webp": "1425011d2efc21894b07624990a37a9a03cacc83d34466b832a11d7d264f9fc3",
+    "docs/itemized/figures/frankenstein-2025-downloads-by-day-day.svg": "e573d2d9820ccc474ef3eb62c77bb374ed75aedcadb160ff70a2e674c83b802d",
+    "docs/itemized/figures/frankenstein-2025-downloads-by-week-frankenstein-2025-week.svg": "03f5d6e82162d5e0fb749883ad3fe5aed16c834baee556e0115c563ac3abafe8",
+    "docs/itemized/frankenstein-2025-sample-cache-audit.md": "b49ca66363dfca00d34587327c66c9a2f7f95abc189fcf7277d6b5c185d9b5f9",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-year-2025-render",
+      "revision": "c520555c40beece2e38f62878e2d4cc1b312c505",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "c192c54f882171dafc74c038ec769f1e68bf8020d12a342d2334086b5b5ee5ea",
+      "size": 36998168
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.cumulative/frankenstein-2025-cumulative-btiha.geojson.gz",
+        "sha256": "f4544180198005620ecb7744ce1c9e8daa0194845ca55744e2d33ea5155b1a82",
+        "size": 50473107
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/json/frankenstein-2025-cumulative-btiha-media-objects.json",
+        "sha256": "362550b90dcfab803f21547be2f2bae8dc5d4b31583f1bea4a82738a8f06bba3",
+        "size": 541230
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/izzi",
+      "revision": "b988ee7fd690a74a696c27c9aadf40c204a4c780",
+      "untracked": false
+    },
+    "media_object": "frankenstein-2025",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60-results-2025/bin/a60-meta-collection.exe",
+      "sha256": "e71f9def936a6868d5282a5ff7dece07ade360eefa07abebde75434a927220f7",
+      "size": 8743680
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          63.0,
+          51.0,
+          41.0,
+          37.0,
+          30.0,
+          30.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Seoul",
+          "Moscow",
+          "Nanjing",
+          "Istanbul",
+          "Saint Petersburg",
+          "Shanghai",
+          "London",
+          "Amsterdam",
+          "Hangzhou",
+          "Incheon"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          72.0,
+          43.0,
+          41.0,
+          35.0,
+          30.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Seoul",
+          "Moscow",
+          "Istanbul",
+          "Saint Petersburg",
+          "Nanjing",
+          "Shanghai",
+          "London",
+          "Hangzhou",
+          "Incheon",
+          "Amsterdam"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 21,
+        "y_tick_labels": 20
+      },
+      "histogram": {
+        "bars": 19,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 26,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "c520555c40beece2e38f62878e2d4cc1b312c505",
+    "cartofreako": "fc58111b5bfa7667b12f6ade522ae5e566b464d1",
+    "izzi": "b988ee7fd690a74a696c27c9aadf40c204a4c780",
+    "metadata": "fbeb53a0b523f937fae2f23d14689d8c5c84dd5a",
+    "results_aao_adoption": "9cd9d91a6fbb560ac2a96beadf4c83b94daf6a88"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2025"
+}
