@@ -1,0 +1,253 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt32820897",
+    "imdb_id": "tt32820897",
+    "revision": "fbeb53a0b523f937fae2f23d14689d8c5c84dd5a",
+    "wikidata_id": "Q126948105",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Demon_Slayer:_Kimetsu_no_Yaiba_%E2%80%93_The_Movie:_Infinity_Castle"
+  },
+  "coverage_sha256": "2a4649824346708b90a78e2f7fb7deee351083b4581f18cc6e3c691f282d5001",
+  "generated_at": "2026-08-30T13:54:32.582587+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "aao-checksum-manifest": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/SHA256SUMS",
+      "sha256": "4a4818facd85b709f0321b0a6de31b4a3eff6f108f3b9354c75632926e6baa48",
+      "size": 266728
+    },
+    "aao-release": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/release.json",
+      "sha256": "3ce0984da2d12b0e3697e76c02608bd9d1a955ee3d00e0a7054bdd297b8f18c8",
+      "size": 1342
+    },
+    "aao-verification": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-aao-verification.json",
+      "sha256": "e01294ebce8e54b65e16ab83017fa5585efe6f7a0a0f1a5e0f734e08d8e223fd",
+      "size": 854
+    },
+    "archive-map": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-cache-archive-map.json",
+      "sha256": "8d4d506f23cd80f46baf010bd17509c916083e75eb8b43b052641138c3f308f1",
+      "size": 125170
+    },
+    "btiha-metadata-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/demon-slayer-kimetsu-no-yaiba-the-movie-infinity-castle-cumulative-btiha-media-objects.json",
+      "sha256": "4290619fed15099cc47bdf489b703631c7dd05d6fb798c895d1a68057dac6f00",
+      "size": 70872
+    },
+    "canonical-metadata": {
+      "path": "/tmp/alpha60-swarm-metadata-2025/metadata/demon-slayer-kimetsu-no-yaiba-the-movie-infinity-castle.json",
+      "sha256": "763e1a5f083803dd595f0d1f37e0d19d3647c98762550c1418fe5032962ee415",
+      "size": 8601
+    },
+    "coverage-report": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-coverage-evidence/demon-slayer-kimetsu-no-yaiba-the-movie-infinity-castle.md",
+      "sha256": "befe4cb6b05c2e9fb677a228ae8e41b4577a9e7ed688d76f7c2c398a1768beb3",
+      "size": 781
+    },
+    "cumulative-aggregate-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.cumulative/demon-slayer-kimetsu-no-yaiba-the-movie-infinity-castle-cumulative-aggregate.geojson.gz",
+      "sha256": "e63173c53b1825195cc5a7f494f305e1c0c6007610ea206f009b08a7065e13be",
+      "size": 986218
+    },
+    "cumulative-btiha-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.cumulative/demon-slayer-kimetsu-no-yaiba-the-movie-infinity-castle-cumulative-btiha.geojson.gz",
+      "sha256": "47ed2006101882a86058306b828340a28ca0613c4ec9c7a3bfbc56fe2777d109",
+      "size": 7193703
+    },
+    "cumulative-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/demon-slayer-kimetsu-no-yaiba-the-movie-infinity-castle-cumulative.json",
+      "sha256": "304397f831b89d70f28fbd15c63fd7c68903ae0d30f6675b62940b2916e75f29",
+      "size": 15656
+    },
+    "day-bundle-receipt": {
+      "path": "/tmp/year-2025-day-bundles/demon-slayer-kimetsu-no-yaiba-the-movie-infinity-castle/receipt.json",
+      "sha256": "de8cde6f3a2879e173596c4cb3cf47daba93aa7a827bb874bf6908aeef50fb91",
+      "size": 83112
+    },
+    "ip-swarm-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/demon-slayer-kimetsu-no-yaiba-the-movie-infinity-castle-cumulative-ip-swarm.json",
+      "sha256": "17e7e62b094dcaf35b1c75e5b495d15b27ea486518bf199276b53443697f6c09",
+      "size": 41466
+    },
+    "published-day-bundle-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-day-product-receipts/demon-slayer-kimetsu-no-yaiba-the-movie-infinity-castle.json",
+      "sha256": "de8cde6f3a2879e173596c4cb3cf47daba93aa7a827bb874bf6908aeef50fb91",
+      "size": 83112
+    },
+    "week-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/demon-slayer-kimetsu-no-yaiba-the-movie-infinity-castle-week.json",
+      "sha256": "528403c573a834e469edeefa5738b01031b0f4af0aabdb07491e9540c6f740ca",
+      "size": 566885
+    }
+  },
+  "media_object": "demon-slayer-kimetsu-no-yaiba-the-movie-infinity-castle",
+  "published_files": {
+    "data/csv/bytes/demon-slayer-kimetsu-no-yaiba-the-movie-infinity-castle-cumulative-detail.2025-btiha-itemized-by-bytes.csv": "ab8d27face89a629312a9b2fe7ffa780ea7fab18a24901f240aa170c62ef6679",
+    "docs/itemized/demon-slayer-kimetsu-no-yaiba-the-movie-infinity-castle-sample-cache-audit.md": "af58f0a0185f934daef694c574ea0eb3611527c8d80661334be1f97b22b30130",
+    "docs/itemized/figures/demon-slayer-kimetsu-no-yaiba-the-movie-infinity-castle-carto-4k.webp": "3ea58cde7aab4688ce0d771733116ce2731ff8a1309c0b3246222a0ce855608c",
+    "docs/itemized/figures/demon-slayer-kimetsu-no-yaiba-the-movie-infinity-castle-carto.png": "ca1deaa1539c7f4e372b139679b00053aa5dd875850e31cf7aede80f1414c919",
+    "docs/itemized/figures/demon-slayer-kimetsu-no-yaiba-the-movie-infinity-castle-cumulative-detail-btiha-itemized-by-bytes.svg": "09a8ca0ad521b9aebd8be9119347893b1a76512003b2b1f99bb694c3b2693d62",
+    "docs/itemized/figures/demon-slayer-kimetsu-no-yaiba-the-movie-infinity-castle-data-ge-1080p-4k.webp": "09d3a2b5d0501073f464605a87aa5adcb37cdb5424082dc8c5fb8aab96856782",
+    "docs/itemized/figures/demon-slayer-kimetsu-no-yaiba-the-movie-infinity-castle-data-ge-1080p.webp": "84b3a0d98256fd757f3815aa582b520e25132bbcd470ff77d653f52ccb553011",
+    "docs/itemized/figures/demon-slayer-kimetsu-no-yaiba-the-movie-infinity-castle-data-lt-1080p-4k.webp": "dea60927f87a7520eba823256c35140cf4d09fe37501f2626c1471e74cc38618",
+    "docs/itemized/figures/demon-slayer-kimetsu-no-yaiba-the-movie-infinity-castle-data-lt-1080p.webp": "539989f024f79dd8fc8284b93a7a3f3b08e2bf63e2c028cf69beead5f53ab789",
+    "docs/itemized/figures/demon-slayer-kimetsu-no-yaiba-the-movie-infinity-castle-downloads-by-day-day.svg": "dbbd0d57bb407c54e6ca24fbea780ce9079cdeff7b1746400adbace9b6ccc30c",
+    "docs/itemized/figures/demon-slayer-kimetsu-no-yaiba-the-movie-infinity-castle-downloads-by-week-demon-slayer-kimetsu-no-yaiba-the-movie-infinity-castle-week.svg": "a1da7076fe6078d3f1b9a487d7061a5731e1d5613fd71b3202e7bfc0411da9fd",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-year-2025-render",
+      "revision": "c520555c40beece2e38f62878e2d4cc1b312c505",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "c192c54f882171dafc74c038ec769f1e68bf8020d12a342d2334086b5b5ee5ea",
+      "size": 36998168
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.cumulative/demon-slayer-kimetsu-no-yaiba-the-movie-infinity-castle-cumulative-btiha.geojson.gz",
+        "sha256": "47ed2006101882a86058306b828340a28ca0613c4ec9c7a3bfbc56fe2777d109",
+        "size": 7193703
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/json/demon-slayer-kimetsu-no-yaiba-the-movie-infinity-castle-cumulative-btiha-media-objects.json",
+        "sha256": "4290619fed15099cc47bdf489b703631c7dd05d6fb798c895d1a68057dac6f00",
+        "size": 70872
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/izzi",
+      "revision": "b988ee7fd690a74a696c27c9aadf40c204a4c780",
+      "untracked": false
+    },
+    "media_object": "demon-slayer-kimetsu-no-yaiba-the-movie-infinity-castle",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60-results-2025/bin/a60-meta-collection.exe",
+      "sha256": "e71f9def936a6868d5282a5ff7dece07ade360eefa07abebde75434a927220f7",
+      "size": 8743680
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          62.0,
+          36.0,
+          30.0,
+          28.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Nanjing",
+          "Seoul",
+          "Moscow",
+          "Istanbul",
+          "Shanghai",
+          "London",
+          "Saint Petersburg",
+          "Amsterdam",
+          "Hangzhou",
+          "Incheon"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          50.0,
+          37.0,
+          34.0,
+          30.0,
+          28.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Seoul",
+          "Moscow",
+          "Istanbul",
+          "Nanjing",
+          "Saint Petersburg",
+          "Shanghai",
+          "Amsterdam",
+          "Hangzhou",
+          "Ashburn",
+          "London"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 21,
+        "y_tick_labels": 20
+      },
+      "histogram": {
+        "bars": 22,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 26,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "c520555c40beece2e38f62878e2d4cc1b312c505",
+    "cartofreako": "fc58111b5bfa7667b12f6ade522ae5e566b464d1",
+    "izzi": "b988ee7fd690a74a696c27c9aadf40c204a4c780",
+    "metadata": "fbeb53a0b523f937fae2f23d14689d8c5c84dd5a",
+    "results_aao_adoption": "9cd9d91a6fbb560ac2a96beadf4c83b94daf6a88"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2025"
+}
