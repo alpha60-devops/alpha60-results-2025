@@ -1,0 +1,1725 @@
+{
+  "archive": {
+    "path": "/home/bkoz/src/alpha60-xperiments/year-2025-archives/tron-ares.cache/cache.20260601.tar.xz",
+    "sha256": "6f0c1cace86ad763236c1798aa9405b3cd29232299ce5f19a90e8d1e0b344119",
+    "size": 3153525728
+  },
+  "authorization": {
+    "archive_mutated": false,
+    "excluded_member_classes": [
+      "hour",
+      "week",
+      "cumulative"
+    ],
+    "raw_samples_opened": false,
+    "scope": "read only streaming of per-torrent day records"
+  },
+  "collection_key": "tron-ares",
+  "day_cache_stream_contract": {
+    "authorization": {
+      "archive_mutated": false,
+      "excluded_member_classes": [
+        "hour",
+        "week",
+        "cumulative"
+      ],
+      "raw_samples_opened": false,
+      "scope": "read only streaming of per-torrent day records"
+    },
+    "available_day_products": 182,
+    "cache_members": 51993,
+    "collection_key": "tron-ares",
+    "first_date": "2025-12-02",
+    "first_index": 1,
+    "indices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144,
+      145,
+      146,
+      147,
+      148,
+      149,
+      150,
+      151,
+      152,
+      153,
+      154,
+      155,
+      156,
+      157,
+      158,
+      159,
+      160,
+      161,
+      162,
+      163,
+      164,
+      165,
+      166,
+      167,
+      168,
+      169,
+      170,
+      171,
+      172,
+      173,
+      174,
+      175,
+      176,
+      177,
+      178,
+      179,
+      180,
+      181,
+      182
+    ],
+    "last_date": "2026-06-01",
+    "last_index": 182,
+    "missing_indices": [],
+    "sample_span_days": 182,
+    "schema": "alpha60-day-cache-stream-contract/1",
+    "sparse": false,
+    "status": "pass"
+  },
+  "day_product_contract": {
+    "collection_key": "tron-ares",
+    "day_products": 182,
+    "first_date": "2025-12-02",
+    "first_index": 1,
+    "geojson_data_version": "20260701",
+    "ip_geolocation_version": "6:1777968300",
+    "json_data_version": "2026-08-05",
+    "last_date": "2026-06-01",
+    "last_index": 182,
+    "schema": "alpha60-day-product-contract/1",
+    "sparse": false,
+    "status": "pass"
+  },
+  "publications": {
+    "data/geojson.day/tron-ares-day-00001.geojson.gz": {
+      "sha256": "6ec9ff17c5e26ed121d53652d5b0e3f586900903489587ad400e85e199a15a37",
+      "size": 159897
+    },
+    "data/geojson.day/tron-ares-day-00002.geojson.gz": {
+      "sha256": "ec9b631392e16e782c720cd1c8dfb1a143ec78c93ca8789a9cbba98fadd60e07",
+      "size": 207085
+    },
+    "data/geojson.day/tron-ares-day-00003.geojson.gz": {
+      "sha256": "9daef85bd2fc7a852e41f944722556979ee09cd949f20edc72e886161261cbaf",
+      "size": 228537
+    },
+    "data/geojson.day/tron-ares-day-00004.geojson.gz": {
+      "sha256": "78b73d9b050e08e9e3c85cb7c18bc9ae15bd16e1109b74e599ae2d0f04a4c2a2",
+      "size": 224411
+    },
+    "data/geojson.day/tron-ares-day-00005.geojson.gz": {
+      "sha256": "d2072c41c82c0ec52a7ca0d47bd9d5b19b0e72ca4c4fad37a9e8349584aca6f3",
+      "size": 229863
+    },
+    "data/geojson.day/tron-ares-day-00006.geojson.gz": {
+      "sha256": "a5c17ceb8ef6973cd123e03c6c31da7d2ec13f77e05a6607c6caa7a5830dab1c",
+      "size": 232470
+    },
+    "data/geojson.day/tron-ares-day-00007.geojson.gz": {
+      "sha256": "d43783df9d154cd681456a52b26155dfe99f7a0a7be4cfac1500e00afd74f2d2",
+      "size": 229189
+    },
+    "data/geojson.day/tron-ares-day-00008.geojson.gz": {
+      "sha256": "7b4a998b1528833adb625d2c957a4aa334393ee423a856f3a6867b33d5371235",
+      "size": 235171
+    },
+    "data/geojson.day/tron-ares-day-00009.geojson.gz": {
+      "sha256": "27b3b2e8debbce89e45dcacada56db6504ebd4e3f53a213ae1daa80c55f6cc22",
+      "size": 255849
+    },
+    "data/geojson.day/tron-ares-day-00010.geojson.gz": {
+      "sha256": "5ea86ea9b78f265a483937c39ae5d29437cdf7d8d8ce8e0e66a2dfc4602dd409",
+      "size": 259502
+    },
+    "data/geojson.day/tron-ares-day-00011.geojson.gz": {
+      "sha256": "d51870a71b5ed243027ab6bb6f5ef5a619ed624715acbfcdeca0bf8bfcfe560d",
+      "size": 259265
+    },
+    "data/geojson.day/tron-ares-day-00012.geojson.gz": {
+      "sha256": "fba7e9636d0c4c3e67a62bc095dc043574b50edba54bc9e7e9498a3a784e6ad1",
+      "size": 250950
+    },
+    "data/geojson.day/tron-ares-day-00013.geojson.gz": {
+      "sha256": "d1105b60655104ae6b7be2952660102b9ec46365ac1f3a0f05584cfb4098cb1b",
+      "size": 256055
+    },
+    "data/geojson.day/tron-ares-day-00014.geojson.gz": {
+      "sha256": "3a4e716c5f3b717d1047eabf758ee5f7fc690483b68b63e6b011c06d8db98612",
+      "size": 289509
+    },
+    "data/geojson.day/tron-ares-day-00015.geojson.gz": {
+      "sha256": "eef2386156469f1582089f8a30d3cc1a3ee6774e8f8e5ebdb81ae4401fc67220",
+      "size": 285146
+    },
+    "data/geojson.day/tron-ares-day-00016.geojson.gz": {
+      "sha256": "b02db1213d05908ab6f54d06dba05942b8681f51164b2f8f78859cf3b71600ba",
+      "size": 274592
+    },
+    "data/geojson.day/tron-ares-day-00017.geojson.gz": {
+      "sha256": "410e909b7ee6c130e77d4f460403fe209985b9c97a29a7c26932efb6c267fb27",
+      "size": 283591
+    },
+    "data/geojson.day/tron-ares-day-00018.geojson.gz": {
+      "sha256": "15692e107143e5fc659e348db9c086dea825699f90b4d8c7679def93c93b26c3",
+      "size": 276546
+    },
+    "data/geojson.day/tron-ares-day-00019.geojson.gz": {
+      "sha256": "a71b0878a53a8405aac2f170814f214da1ec413aa8d81009ddd4b40ddc618e09",
+      "size": 287501
+    },
+    "data/geojson.day/tron-ares-day-00020.geojson.gz": {
+      "sha256": "420d2d35fb227762a4c04a38861cdea35a3f889917af7119248db4c5bbaf5d86",
+      "size": 286994
+    },
+    "data/geojson.day/tron-ares-day-00021.geojson.gz": {
+      "sha256": "031a252ad7209bfc0fbb8067841e07c76136eb5851c23776d97963783b9579f7",
+      "size": 249436
+    },
+    "data/geojson.day/tron-ares-day-00022.geojson.gz": {
+      "sha256": "57e75df303cf92cd0a6f3374be9f56c81d6b650cd79c187d151346e072a20ec9",
+      "size": 203842
+    },
+    "data/geojson.day/tron-ares-day-00023.geojson.gz": {
+      "sha256": "d0073fdcad72f713ef81de1c3d714fa4a078d2956bf2ea5e5dfe93420df8ce47",
+      "size": 286264
+    },
+    "data/geojson.day/tron-ares-day-00024.geojson.gz": {
+      "sha256": "226b4f69fed4502c27656a9ce12ebb741ae8065ac484fec4652da7f5bb30ddbf",
+      "size": 277824
+    },
+    "data/geojson.day/tron-ares-day-00025.geojson.gz": {
+      "sha256": "eb4e610b8ed22e6cf8f530cc7b3ad40436ce9c7783ea217794780cc7c3626c80",
+      "size": 273768
+    },
+    "data/geojson.day/tron-ares-day-00026.geojson.gz": {
+      "sha256": "a8f529699a1389abef1439983129370790bcbe15033fe7c7e58eacb72e466841",
+      "size": 276432
+    },
+    "data/geojson.day/tron-ares-day-00027.geojson.gz": {
+      "sha256": "f9dc073e4f64439f3f696af6b6668dd5f1e4d1017b37ed5e92cc2e158d739597",
+      "size": 263800
+    },
+    "data/geojson.day/tron-ares-day-00028.geojson.gz": {
+      "sha256": "40910288e8ed52c7df3c76b21569e87108affde41b26283d78bd745b3394efc8",
+      "size": 288691
+    },
+    "data/geojson.day/tron-ares-day-00029.geojson.gz": {
+      "sha256": "4927c9f70fdcc8d48e6ac0e84f08738c8bdd9825365983b8c8b1b4380971ab74",
+      "size": 287675
+    },
+    "data/geojson.day/tron-ares-day-00030.geojson.gz": {
+      "sha256": "17626ebd3d413dcce60f7021e554178cf0275ca0b37c8384240c21abeba54a22",
+      "size": 297904
+    },
+    "data/geojson.day/tron-ares-day-00031.geojson.gz": {
+      "sha256": "622a81de5aa76c4c0455ccfbca3bd879e93324eab1e766cd37f4a267cfe66e22",
+      "size": 300553
+    },
+    "data/geojson.day/tron-ares-day-00032.geojson.gz": {
+      "sha256": "e7ae8a34fd5b658d98a74576950ac4730b89416e68a4c143d14c0b67b36c7369",
+      "size": 314303
+    },
+    "data/geojson.day/tron-ares-day-00033.geojson.gz": {
+      "sha256": "133d6aba695ea21d61567f922af0ad77978de11653d68c35066d943a95b32cbf",
+      "size": 292120
+    },
+    "data/geojson.day/tron-ares-day-00034.geojson.gz": {
+      "sha256": "cf37d9f4e814933b10cecdd730888dba655b27804b8d69af2967379d3400e323",
+      "size": 287818
+    },
+    "data/geojson.day/tron-ares-day-00035.geojson.gz": {
+      "sha256": "9a41f5d82cdfa6e41e560fe7ec45ec89eec81071e57a70ddc77b03b11378b6b6",
+      "size": 304502
+    },
+    "data/geojson.day/tron-ares-day-00036.geojson.gz": {
+      "sha256": "63bc03d9a607230514cf553d857f2729bd3a7224128b06ac14defafbedabfa6b",
+      "size": 288766
+    },
+    "data/geojson.day/tron-ares-day-00037.geojson.gz": {
+      "sha256": "599a95b79b94e50d30d801723121b1c1a0b27aa3e7b8f6a741c597c5ead03eb5",
+      "size": 309409
+    },
+    "data/geojson.day/tron-ares-day-00038.geojson.gz": {
+      "sha256": "8eb814c69e672e88e5e20def187ed7feb2cae2cfeeff6a9f70b9b17f8e1b8cb8",
+      "size": 320171
+    },
+    "data/geojson.day/tron-ares-day-00039.geojson.gz": {
+      "sha256": "9ee92156bffaf3354f5e21be8a8cb88fdd1922deb4ba814838931f2ff688bb7f",
+      "size": 302377
+    },
+    "data/geojson.day/tron-ares-day-00040.geojson.gz": {
+      "sha256": "253d4aee5373025b93ab2974442373dfff654c31b8d2a178c6f08892b8947a9e",
+      "size": 293366
+    },
+    "data/geojson.day/tron-ares-day-00041.geojson.gz": {
+      "sha256": "1624f1f0916d558ebd16fc5f63c012539f4caf83289f944532d0527f59fb8932",
+      "size": 304468
+    },
+    "data/geojson.day/tron-ares-day-00042.geojson.gz": {
+      "sha256": "8ad6515812a966ecb446698e622624f4b5aaf7bf553b71e2f09e4f7294ccd49e",
+      "size": 287189
+    },
+    "data/geojson.day/tron-ares-day-00043.geojson.gz": {
+      "sha256": "c5532b72cd5a4c4a8ec3daff36edfb214410ee0216a0dafd46d02e2f946adf38",
+      "size": 302775
+    },
+    "data/geojson.day/tron-ares-day-00044.geojson.gz": {
+      "sha256": "9f1f3ee218392cd8c6022d0d1b1ad681e19c6ba7c97b647ee3714a4c23eb39b2",
+      "size": 302867
+    },
+    "data/geojson.day/tron-ares-day-00045.geojson.gz": {
+      "sha256": "a6c4515c6f49a07cd54414c8fa9ad3183229ab114992a8fd535fd2588b4fcdc5",
+      "size": 308634
+    },
+    "data/geojson.day/tron-ares-day-00046.geojson.gz": {
+      "sha256": "4b52795ad61c903a2e955b13bff647bd4d4adfbbd24579c82ad6404a8c69ed02",
+      "size": 308285
+    },
+    "data/geojson.day/tron-ares-day-00047.geojson.gz": {
+      "sha256": "8919db96c099940dcff89e67b1ca298fa0d027319b65809fffe4c6f208ba5b62",
+      "size": 302302
+    },
+    "data/geojson.day/tron-ares-day-00048.geojson.gz": {
+      "sha256": "36f68c848bc763f07c9c904fd961952068d84af6ab87a278bbd059dff7de2bd4",
+      "size": 295561
+    },
+    "data/geojson.day/tron-ares-day-00049.geojson.gz": {
+      "sha256": "ffc36b10f81ef5dd18b1bfc20fdcbe6c25fa2680febbf609d4676110def2dd0d",
+      "size": 301672
+    },
+    "data/geojson.day/tron-ares-day-00050.geojson.gz": {
+      "sha256": "e6322686dbe96a1d9938bdfc051bc851ab332133788fabfb00cf8151b9047949",
+      "size": 305307
+    },
+    "data/geojson.day/tron-ares-day-00051.geojson.gz": {
+      "sha256": "4466ffcff09e84bf97c8bc979c7c67d57bf7df47f9bca70c1038d83ec5805690",
+      "size": 305675
+    },
+    "data/geojson.day/tron-ares-day-00052.geojson.gz": {
+      "sha256": "8ab91ea8e1cd86370941f4733250fe49ec7c1dae235538406b97893719d4f331",
+      "size": 308761
+    },
+    "data/geojson.day/tron-ares-day-00053.geojson.gz": {
+      "sha256": "2efad1d9da3cea2679bfdedb168f78faf1c9358ead52248fee7c116ebd11534e",
+      "size": 308358
+    },
+    "data/geojson.day/tron-ares-day-00054.geojson.gz": {
+      "sha256": "0bb0fdb57fe348b341d1e71091552f2466db16b9de4ca9aae4efc2cf309b370b",
+      "size": 276555
+    },
+    "data/geojson.day/tron-ares-day-00055.geojson.gz": {
+      "sha256": "0db18aba215a95da844b1d16ec2e8fa93fe89053baeb8cb6986cc43c9d5b2bc7",
+      "size": 289980
+    },
+    "data/geojson.day/tron-ares-day-00056.geojson.gz": {
+      "sha256": "6c4b25979e319c48d790fa600f6d6aa4e50f50063b2f28e8323d21c777f3e08a",
+      "size": 301095
+    },
+    "data/geojson.day/tron-ares-day-00057.geojson.gz": {
+      "sha256": "ba1ca1138711d156a0901aaf30a2011e1966732339fed02fdf9ce2649313bc22",
+      "size": 301623
+    },
+    "data/geojson.day/tron-ares-day-00058.geojson.gz": {
+      "sha256": "77d5577cec1f20ca1d48693f1ccae76f0d737252451c5d984d3e8789b2c236e5",
+      "size": 280531
+    },
+    "data/geojson.day/tron-ares-day-00059.geojson.gz": {
+      "sha256": "b3df13e09604374389e90b4464ebae714bf8a10c77e768ff077010fad5a38ead",
+      "size": 276960
+    },
+    "data/geojson.day/tron-ares-day-00060.geojson.gz": {
+      "sha256": "69c4d52367dcc51424709efb1aebe57bd3c4de83418e9c687f1d8a7a017b8a56",
+      "size": 297642
+    },
+    "data/geojson.day/tron-ares-day-00061.geojson.gz": {
+      "sha256": "458a49aaed0b81ed3c923dbaeacf77c60999fcfa0b586a2f3a1c130a8029fc49",
+      "size": 281560
+    },
+    "data/geojson.day/tron-ares-day-00062.geojson.gz": {
+      "sha256": "32dc5dd70ae6f31fb368af3ee6312d74267a5fa164477be6fd9950a6dd58463b",
+      "size": 277262
+    },
+    "data/geojson.day/tron-ares-day-00063.geojson.gz": {
+      "sha256": "8e760f18a8fb5ea2d8f759d34fb8ce07dc2f92a729ac18f6a7c9a8a9bcfe4198",
+      "size": 303177
+    },
+    "data/geojson.day/tron-ares-day-00064.geojson.gz": {
+      "sha256": "7729769470bcb7cfdd05f1a15383debd3215549dd61e6cefe806c73576d629fd",
+      "size": 295009
+    },
+    "data/geojson.day/tron-ares-day-00065.geojson.gz": {
+      "sha256": "2323308fe328f0ba5742084fcaed67563879a74d9576879948a9a87c20fec11a",
+      "size": 301551
+    },
+    "data/geojson.day/tron-ares-day-00066.geojson.gz": {
+      "sha256": "c3c1c29372464393f07a85960c9c904085b4d0cae742efcf88662beead95d519",
+      "size": 301257
+    },
+    "data/geojson.day/tron-ares-day-00067.geojson.gz": {
+      "sha256": "f338ad903ddd73e81bf634234038b03ff0ac203085dde16a8bfe5b76a7f27723",
+      "size": 355632
+    },
+    "data/geojson.day/tron-ares-day-00068.geojson.gz": {
+      "sha256": "e52e55f249436cbeadc00f40d20024e45b3652deb992ab9fc3f3c3a157f12e9d",
+      "size": 295132
+    },
+    "data/geojson.day/tron-ares-day-00069.geojson.gz": {
+      "sha256": "3a43509b4da2667ff4d742b4adc54238680691bda20e874a078f993a327d36d4",
+      "size": 282551
+    },
+    "data/geojson.day/tron-ares-day-00070.geojson.gz": {
+      "sha256": "71f8cebaa61954f4efbc9b3ae6b7cdaf5ba6627354bb8317f65c23f46b07fee0",
+      "size": 299347
+    },
+    "data/geojson.day/tron-ares-day-00071.geojson.gz": {
+      "sha256": "6406769441ff07ee57c8b81b6913fee8017de077cdb6fdcd35494be900c1557c",
+      "size": 303742
+    },
+    "data/geojson.day/tron-ares-day-00072.geojson.gz": {
+      "sha256": "ed0f8c680c48fd871922a8258418ee41d31ffcba739c6df2189749d5f1db17ec",
+      "size": 299247
+    },
+    "data/geojson.day/tron-ares-day-00073.geojson.gz": {
+      "sha256": "08da4a6ab956f669770e2bb67d9b3300d3a17480a2c21abbfe0833d3355e3f46",
+      "size": 303148
+    },
+    "data/geojson.day/tron-ares-day-00074.geojson.gz": {
+      "sha256": "c0b7610264c49dab8915401d9aa82acc0618c29397f2d3d621e4b1be173b46b4",
+      "size": 303270
+    },
+    "data/geojson.day/tron-ares-day-00075.geojson.gz": {
+      "sha256": "0e4edb2f68b3f78a4af4bae4775f9c31ed00d53e7bca1d3b34f78f3e94205887",
+      "size": 305061
+    },
+    "data/geojson.day/tron-ares-day-00076.geojson.gz": {
+      "sha256": "929649e7a734d7d7f4f28cd8ca2b72a361c315ede6a523ecabc287cbf9ea8951",
+      "size": 302668
+    },
+    "data/geojson.day/tron-ares-day-00077.geojson.gz": {
+      "sha256": "2be716f33fdc6d64989113066311230630e77c6c77e20047a6606bb95649673e",
+      "size": 310508
+    },
+    "data/geojson.day/tron-ares-day-00078.geojson.gz": {
+      "sha256": "b8fb8a240a2f71f151c06f1a91d17dbde0752c81a88b0fccec417e7e44aaae3c",
+      "size": 296263
+    },
+    "data/geojson.day/tron-ares-day-00079.geojson.gz": {
+      "sha256": "92c09d89f310c3a2eb34936ece7052737275f84ae440f1599514d4c0f26249e4",
+      "size": 284853
+    },
+    "data/geojson.day/tron-ares-day-00080.geojson.gz": {
+      "sha256": "22eec4b00ad44e7729d89f2b17120eb71ceeb22c23720edb4078f64ce6047364",
+      "size": 305758
+    },
+    "data/geojson.day/tron-ares-day-00081.geojson.gz": {
+      "sha256": "74bd4c2a169101ea668cc0218c981b42932b88893aa67a04d223dac6d2459827",
+      "size": 301832
+    },
+    "data/geojson.day/tron-ares-day-00082.geojson.gz": {
+      "sha256": "2ea6c2932e05e4e8c7aa9f7612c6df303c6400c3823bd933a992ecbe2904f504",
+      "size": 306177
+    },
+    "data/geojson.day/tron-ares-day-00083.geojson.gz": {
+      "sha256": "6818224feb69d7bcb000afd51db130a937e3ab0cbd6694f2cd98cb0d7ae468f4",
+      "size": 302240
+    },
+    "data/geojson.day/tron-ares-day-00084.geojson.gz": {
+      "sha256": "32bfb7028431dd8932b806f61daa6f9e28df46ce6d57076e479babac14f4c9e0",
+      "size": 304349
+    },
+    "data/geojson.day/tron-ares-day-00085.geojson.gz": {
+      "sha256": "0271913156098de1d0d9068597096e0ba6f5a8eeb7c56d873cdfc2cf4ab7e301",
+      "size": 308536
+    },
+    "data/geojson.day/tron-ares-day-00086.geojson.gz": {
+      "sha256": "31fe35bc936cc725842bb0184dca400578cd0e8baf7de0f799a55b5dba025fec",
+      "size": 289184
+    },
+    "data/geojson.day/tron-ares-day-00087.geojson.gz": {
+      "sha256": "6d848383fa66c1cb94445c96defbc4c4dc0bf43474f4488279b4e5b1ced25b9d",
+      "size": 284734
+    },
+    "data/geojson.day/tron-ares-day-00088.geojson.gz": {
+      "sha256": "cfb135abd17635fb8b8b185919ec2028effe5869d6b328b155df081734d37a3a",
+      "size": 272229
+    },
+    "data/geojson.day/tron-ares-day-00089.geojson.gz": {
+      "sha256": "43d04dd0d6f0438788a9264efdea8db8579a50dbcfd3e6c6a6d9094e24be1d90",
+      "size": 284052
+    },
+    "data/geojson.day/tron-ares-day-00090.geojson.gz": {
+      "sha256": "83ee0106002e81029905e836f065e846bd11cd7bf9281a69616dc7bc2891e9c3",
+      "size": 273556
+    },
+    "data/geojson.day/tron-ares-day-00091.geojson.gz": {
+      "sha256": "52bf459238f5f87c43ea3723d00f004bb4c075922d5c3e88ea0c257d1d645555",
+      "size": 282974
+    },
+    "data/geojson.day/tron-ares-day-00092.geojson.gz": {
+      "sha256": "29c8bede6fd28c3099ab6d3c665002e12c129091a538dea471a8b23fffd3d870",
+      "size": 292478
+    },
+    "data/geojson.day/tron-ares-day-00093.geojson.gz": {
+      "sha256": "2c5352fe7b843fe1389b68b73d464c2fc7df3dc358e5a0564110009cbf989dbc",
+      "size": 306763
+    },
+    "data/geojson.day/tron-ares-day-00094.geojson.gz": {
+      "sha256": "b43975e01caf315663295392c3b0e0471d8b5b0e196994a9d9af82981d340f4f",
+      "size": 299688
+    },
+    "data/geojson.day/tron-ares-day-00095.geojson.gz": {
+      "sha256": "31b28b053d97105aedd7b521888ff13fd038d07c51d5440a1596cb964dfe028f",
+      "size": 275135
+    },
+    "data/geojson.day/tron-ares-day-00096.geojson.gz": {
+      "sha256": "c96875626d490d9e85854d36c9dad9cf8191db0280e3cb1d692898321f4bb46b",
+      "size": 266619
+    },
+    "data/geojson.day/tron-ares-day-00097.geojson.gz": {
+      "sha256": "f3633c807e7e0c5f43f7d2a20c531ffef9c63a430cd8c0f3ce9d6a71d61f6334",
+      "size": 247980
+    },
+    "data/geojson.day/tron-ares-day-00098.geojson.gz": {
+      "sha256": "a1ed88aa77a72e7bd05b0b8c58b75c990cf1eb074863cf045d5170f170be84db",
+      "size": 288732
+    },
+    "data/geojson.day/tron-ares-day-00099.geojson.gz": {
+      "sha256": "090a34e8c73f7e5b3057cc33ed832fdffa55a3991303e4936e3d909a9df48aa0",
+      "size": 284590
+    },
+    "data/geojson.day/tron-ares-day-00100.geojson.gz": {
+      "sha256": "ad207fac93bf1be9b5e0b37ec75892c2a71477c9c9caa2e2f733a2cd9b65752f",
+      "size": 293703
+    },
+    "data/geojson.day/tron-ares-day-00101.geojson.gz": {
+      "sha256": "132b3f30eaa6e3fb7b7b82a1a859eeceb56069d9157255ebaeaff448fa6d6b9e",
+      "size": 292267
+    },
+    "data/geojson.day/tron-ares-day-00102.geojson.gz": {
+      "sha256": "de9b54ed6e027b6b052c49a543c3e102761412f61101aba90439218428c8d459",
+      "size": 278629
+    },
+    "data/geojson.day/tron-ares-day-00103.geojson.gz": {
+      "sha256": "c19527019c57d32f04598af92f1678e1ad352723a93a00d612da0dc606092da1",
+      "size": 261865
+    },
+    "data/geojson.day/tron-ares-day-00104.geojson.gz": {
+      "sha256": "0d8b2e0c42af66223758e84ef97ef4cd3dd8e0b738c56d91ebad9b0e93b5c03b",
+      "size": 273009
+    },
+    "data/geojson.day/tron-ares-day-00105.geojson.gz": {
+      "sha256": "1d43f6dbed0ddbffff74b8327d010037daef617db929f9c2a7e4f46eb740e3b8",
+      "size": 276672
+    },
+    "data/geojson.day/tron-ares-day-00106.geojson.gz": {
+      "sha256": "571cfacf8300bd4172bc8464378dc0f55234c826b1b7b0485b92fb6d4dc09238",
+      "size": 271159
+    },
+    "data/geojson.day/tron-ares-day-00107.geojson.gz": {
+      "sha256": "749b264498466050816e22485ed98790c6d1c84d4a3ec690d09f02a89a8dd3df",
+      "size": 270772
+    },
+    "data/geojson.day/tron-ares-day-00108.geojson.gz": {
+      "sha256": "076e7de202c70463d6e8882f650d293823d660f2eb0c8a1c8e27784720802a7e",
+      "size": 278601
+    },
+    "data/geojson.day/tron-ares-day-00109.geojson.gz": {
+      "sha256": "335e9602cf5aa2f541a968928daa0b373464eab009f429a337a5baa358d56536",
+      "size": 286763
+    },
+    "data/geojson.day/tron-ares-day-00110.geojson.gz": {
+      "sha256": "6eeaba013d56f755e33f3d19e3a0ac9a3ec1e7f645003af2b0ddb8b581b596fb",
+      "size": 269059
+    },
+    "data/geojson.day/tron-ares-day-00111.geojson.gz": {
+      "sha256": "ce31a387c7bfb213f62a2ac92dbf2c5a17ecef9133fcf8df251970493b77b828",
+      "size": 268948
+    },
+    "data/geojson.day/tron-ares-day-00112.geojson.gz": {
+      "sha256": "fd55086774941645bbc022c24600532f2cf714304a352f7766e2e2a4b6812380",
+      "size": 284801
+    },
+    "data/geojson.day/tron-ares-day-00113.geojson.gz": {
+      "sha256": "50407ff57058d14a147dbe08e49ef782b43b44cc00314acbd652dcda67fd44ff",
+      "size": 284382
+    },
+    "data/geojson.day/tron-ares-day-00114.geojson.gz": {
+      "sha256": "e480ae6fcbf16db7ee0b01821ce584251d7241dae4da5095988bb6086b4eb005",
+      "size": 291039
+    },
+    "data/geojson.day/tron-ares-day-00115.geojson.gz": {
+      "sha256": "b788346966a37674481e1edaddd94deb9b7beea1a10c56971000eb995d8c81e1",
+      "size": 289186
+    },
+    "data/geojson.day/tron-ares-day-00116.geojson.gz": {
+      "sha256": "c555a37205b446c6cd663a2c6d8ef1925f0a2a894924404823a098c1e70ec11d",
+      "size": 283942
+    },
+    "data/geojson.day/tron-ares-day-00117.geojson.gz": {
+      "sha256": "2cdc9aa23f8800655fd7f585ac5522ca0fab02b40bb816bccb1b06f4519c12ef",
+      "size": 268674
+    },
+    "data/geojson.day/tron-ares-day-00118.geojson.gz": {
+      "sha256": "e60058f887400bb2bf2f7bb65a6b9c92f396138d5236377f310cccdcc878b62e",
+      "size": 264288
+    },
+    "data/geojson.day/tron-ares-day-00119.geojson.gz": {
+      "sha256": "c52ba3ebed341e4e33a2ce4396608d965a58f3c9f9c983464e87fe47459f2711",
+      "size": 276145
+    },
+    "data/geojson.day/tron-ares-day-00120.geojson.gz": {
+      "sha256": "840e81f8adc350c11bba174520677ecec0b1406aabc90926b8c03761b2ed7b57",
+      "size": 275314
+    },
+    "data/geojson.day/tron-ares-day-00121.geojson.gz": {
+      "sha256": "ffaf79ec07478eed29cc1081cac60f3208f2f23e0c46dc1227e9515e82552f63",
+      "size": 288224
+    },
+    "data/geojson.day/tron-ares-day-00122.geojson.gz": {
+      "sha256": "bbc43946eb9bbb52b6f36689f04b81eeb166b0e9ea6d56bd2bbc82b46da01a71",
+      "size": 279045
+    },
+    "data/geojson.day/tron-ares-day-00123.geojson.gz": {
+      "sha256": "f11434f49f0d8d48e4a32eca7e7d036891fee8ccd06e306112d83c3e0011da7a",
+      "size": 323565
+    },
+    "data/geojson.day/tron-ares-day-00124.geojson.gz": {
+      "sha256": "7893ec8c460fb7b15847a363d251b314a732aabd346e151f23ea8ebda4b7d0f3",
+      "size": 276045
+    },
+    "data/geojson.day/tron-ares-day-00125.geojson.gz": {
+      "sha256": "7d4a3a6d9bb70591819796f1c87891e34c5c525febc60bb9e9077d08c0f0a758",
+      "size": 276216
+    },
+    "data/geojson.day/tron-ares-day-00126.geojson.gz": {
+      "sha256": "031dfc3e0add96f6c8f468c826ea001eff0dc4d0dd44fc82ab2cec56dd7ee890",
+      "size": 276171
+    },
+    "data/geojson.day/tron-ares-day-00127.geojson.gz": {
+      "sha256": "67c55c824b96a3ab6a41097e3a35d4b4d061739c7a885a183db87e9a58d40a45",
+      "size": 271866
+    },
+    "data/geojson.day/tron-ares-day-00128.geojson.gz": {
+      "sha256": "21bc04c5c2d623bd369953f7096680c8bf0cadc70f29fbe3153d1a880490bd98",
+      "size": 285433
+    },
+    "data/geojson.day/tron-ares-day-00129.geojson.gz": {
+      "sha256": "7716f70ee53830d9dd4139f4ac97f099f3121817f5104e104fe3b9e4d82635a1",
+      "size": 284416
+    },
+    "data/geojson.day/tron-ares-day-00130.geojson.gz": {
+      "sha256": "4bff068e7fbc8cb2902924e8b4fd5a3cef94ebeefdbce3cdf52933d71e756fec",
+      "size": 289083
+    },
+    "data/geojson.day/tron-ares-day-00131.geojson.gz": {
+      "sha256": "7cdcdfa6dd0cd7a828e03b0d0e0c74ed4765f2823fb592862c91b1ea0cf39c9e",
+      "size": 282639
+    },
+    "data/geojson.day/tron-ares-day-00132.geojson.gz": {
+      "sha256": "0b4206c94a0fd5605cc72bb5a5a64dc4ebd5e8a0c8cbfbc9af0ada3e58f88303",
+      "size": 270520
+    },
+    "data/geojson.day/tron-ares-day-00133.geojson.gz": {
+      "sha256": "d7becd4511f7a61933a85b17a5e1d48189813937a6874998f65bc08c645c2ae2",
+      "size": 287473
+    },
+    "data/geojson.day/tron-ares-day-00134.geojson.gz": {
+      "sha256": "6628c978a6c8ba6ff8f6ade12b3341b3e8678f8360b8e1edd38c72305bd4488c",
+      "size": 288617
+    },
+    "data/geojson.day/tron-ares-day-00135.geojson.gz": {
+      "sha256": "b19a05a2094445df11720254976bae89444bbff4fd5d5af71ed2e5423761a0e3",
+      "size": 287860
+    },
+    "data/geojson.day/tron-ares-day-00136.geojson.gz": {
+      "sha256": "bf89d69cdc31fa7f3f44a720b24bd3f720e0676da9782e45c94d658f9a85d60f",
+      "size": 296282
+    },
+    "data/geojson.day/tron-ares-day-00137.geojson.gz": {
+      "sha256": "ae0db10c4abf7215dedc825838b4cc49a48889e66285d2da3d406e55958b1123",
+      "size": 293691
+    },
+    "data/geojson.day/tron-ares-day-00138.geojson.gz": {
+      "sha256": "97fb2f0226bc1badf04000adca307fe02d2d4a0f1a1b3061146e995f57b0c808",
+      "size": 283886
+    },
+    "data/geojson.day/tron-ares-day-00139.geojson.gz": {
+      "sha256": "1dee1045fb276810e540f603bcdd8273c54aa474ef9ac93b5f805cc65edd0205",
+      "size": 277627
+    },
+    "data/geojson.day/tron-ares-day-00140.geojson.gz": {
+      "sha256": "27c877f4602ca61b1efc52d63792af2ca9b972a5618fc7f854b1bff53fff5a6e",
+      "size": 289084
+    },
+    "data/geojson.day/tron-ares-day-00141.geojson.gz": {
+      "sha256": "f94469d93fba781dc900029c723f060501679cedf3807ead20ab05584878ad4c",
+      "size": 274876
+    },
+    "data/geojson.day/tron-ares-day-00142.geojson.gz": {
+      "sha256": "177ce83dbf30259384ac4f269d9b214f0f164316fa59424e8a147106fad49510",
+      "size": 274893
+    },
+    "data/geojson.day/tron-ares-day-00143.geojson.gz": {
+      "sha256": "6eaf283b0cbb7e8ee89f6831739d8585236c176bb4eaee7ad9b3e78fca51726f",
+      "size": 281105
+    },
+    "data/geojson.day/tron-ares-day-00144.geojson.gz": {
+      "sha256": "d3ef41dd44161441d2478b9a108ba90275af34792121184f191a022ade3acf32",
+      "size": 264928
+    },
+    "data/geojson.day/tron-ares-day-00145.geojson.gz": {
+      "sha256": "494f32a511db447199a9cd5b48c5dc32a4c736fbae40825080848a025fb5bcec",
+      "size": 261627
+    },
+    "data/geojson.day/tron-ares-day-00146.geojson.gz": {
+      "sha256": "7f9fd960bce7718e9a9e42f1495467f6a25c66267948c013ccc931ec228e4fee",
+      "size": 267329
+    },
+    "data/geojson.day/tron-ares-day-00147.geojson.gz": {
+      "sha256": "67b477329480d861c6194efe594ab82285a34b02fc5dad7840a97a825a2acdcc",
+      "size": 264910
+    },
+    "data/geojson.day/tron-ares-day-00148.geojson.gz": {
+      "sha256": "cde6f9610ad4e642cb1b5b7d3eca91edb747ed1bc165073de423b0c3b124d268",
+      "size": 266081
+    },
+    "data/geojson.day/tron-ares-day-00149.geojson.gz": {
+      "sha256": "e0c3b3bdf8caeadc76f717116262882524fc63c49e6bf6736b499b1c87f626f2",
+      "size": 263487
+    },
+    "data/geojson.day/tron-ares-day-00150.geojson.gz": {
+      "sha256": "8e5e4c8f582eb4c846397f283a2862c2dfc05813a9206ff4b6432df79bad14a9",
+      "size": 272662
+    },
+    "data/geojson.day/tron-ares-day-00151.geojson.gz": {
+      "sha256": "f7be0b34ac76fb862cac0437669542f77d1aec706663dc8bcff6fd2e07d51479",
+      "size": 274112
+    },
+    "data/geojson.day/tron-ares-day-00152.geojson.gz": {
+      "sha256": "2813fa484c4f2b2be2f9aa707784dd2306391b0bc67bbba730f83b5bc20472ec",
+      "size": 271911
+    },
+    "data/geojson.day/tron-ares-day-00153.geojson.gz": {
+      "sha256": "c6ddd40207b02fc2d8bbf3fc8b03e5da5da78d4e3585b2455e9e52f9af3484a4",
+      "size": 269175
+    },
+    "data/geojson.day/tron-ares-day-00154.geojson.gz": {
+      "sha256": "b57fe79db498be25559fc45a9e82e9408c2f209a2481c6583dd3405caa22b299",
+      "size": 269300
+    },
+    "data/geojson.day/tron-ares-day-00155.geojson.gz": {
+      "sha256": "4ab8d28f0da00ac8d2189b7af0789d057d38f71e6d741848d96c8486b03ee7e6",
+      "size": 270040
+    },
+    "data/geojson.day/tron-ares-day-00156.geojson.gz": {
+      "sha256": "d727f7098a945bca6226355c586fc991cb9a9c25db179c2f03870ab1a72a8ae0",
+      "size": 273846
+    },
+    "data/geojson.day/tron-ares-day-00157.geojson.gz": {
+      "sha256": "26aea28554732a72da34ac65f0888e6bcc3436d6b66f9ae2223add0669942f99",
+      "size": 269784
+    },
+    "data/geojson.day/tron-ares-day-00158.geojson.gz": {
+      "sha256": "02ba65eafd54a46a1b6389fd4feed6de7a1bfb970705da5b1207801c4d71180e",
+      "size": 269391
+    },
+    "data/geojson.day/tron-ares-day-00159.geojson.gz": {
+      "sha256": "184e5f68b6b0c184673ba7a0cea05908faaab2e8c705a2b2fdd87164d554e513",
+      "size": 272788
+    },
+    "data/geojson.day/tron-ares-day-00160.geojson.gz": {
+      "sha256": "c7b32e5ee605db1f20e7246e2e8c156ce90bc36bf7948c110bdca019787f3fb1",
+      "size": 267670
+    },
+    "data/geojson.day/tron-ares-day-00161.geojson.gz": {
+      "sha256": "b5346be22ddc4601dc7b1f1b76cb59d189e8576420e951e2d657c0e74dd0d6a5",
+      "size": 272468
+    },
+    "data/geojson.day/tron-ares-day-00162.geojson.gz": {
+      "sha256": "a1ab20856abb0690e98c1f85d840eee13718d51172ff31fae91410143d1a862a",
+      "size": 263781
+    },
+    "data/geojson.day/tron-ares-day-00163.geojson.gz": {
+      "sha256": "3e7db99711d303038da144f2e393582cc2d9f2240c0d60e5ff29c93bf6d641ae",
+      "size": 259988
+    },
+    "data/geojson.day/tron-ares-day-00164.geojson.gz": {
+      "sha256": "5b0baf5bdf38dbe65c22221f271ac1c436162a097a6db8e1b29d5c5d6f147150",
+      "size": 274826
+    },
+    "data/geojson.day/tron-ares-day-00165.geojson.gz": {
+      "sha256": "75baead0dccfacdc6cff27c02a61107b7bd06572db5851afb3c7beb34b30b5cc",
+      "size": 301063
+    },
+    "data/geojson.day/tron-ares-day-00166.geojson.gz": {
+      "sha256": "cf1bec08f033659d80e867ac16e4638b22cb9ebe5532fa66fb58b7219c220412",
+      "size": 276929
+    },
+    "data/geojson.day/tron-ares-day-00167.geojson.gz": {
+      "sha256": "dc08ebe3769826e56d012072aa45df0002a65b2cccfcbbe82bde41b12d0ba3a0",
+      "size": 282309
+    },
+    "data/geojson.day/tron-ares-day-00168.geojson.gz": {
+      "sha256": "e19bba7df2ef009cb8bc40ac6f3e8ad24da0de2f3db56d9c4a64cadc5fcf0598",
+      "size": 286087
+    },
+    "data/geojson.day/tron-ares-day-00169.geojson.gz": {
+      "sha256": "24895795cf29c3b2f19e28c6e25629e8cdce7c494a70b8e03a37c78fbc73c1c5",
+      "size": 286315
+    },
+    "data/geojson.day/tron-ares-day-00170.geojson.gz": {
+      "sha256": "76a61c3f65388ebe5cbb061eea0fcdc743058c487bd49c0d1c95db4e2ea046af",
+      "size": 278488
+    },
+    "data/geojson.day/tron-ares-day-00171.geojson.gz": {
+      "sha256": "5e93b9b72fc9070c21612595125aa3b50dc22192ab6c7b7e92cb315e8bcbce15",
+      "size": 280905
+    },
+    "data/geojson.day/tron-ares-day-00172.geojson.gz": {
+      "sha256": "9528fa91b0124d597d72216483e8015b472c45dd59d804338c690e4bd9598603",
+      "size": 279916
+    },
+    "data/geojson.day/tron-ares-day-00173.geojson.gz": {
+      "sha256": "8c3a4a4ad6ab64e9915b7d5b3488bcfee1ebbfb5f0d293bfb2433a112a52167d",
+      "size": 289937
+    },
+    "data/geojson.day/tron-ares-day-00174.geojson.gz": {
+      "sha256": "32e42204f08c4606eb017d4e079478601c090695ed47406fc450d2523243aa85",
+      "size": 287286
+    },
+    "data/geojson.day/tron-ares-day-00175.geojson.gz": {
+      "sha256": "0738214c8a01b3a4dd55937ec8d3c2a5583e78c56535459fd9409be9beecdef1",
+      "size": 281972
+    },
+    "data/geojson.day/tron-ares-day-00176.geojson.gz": {
+      "sha256": "8b74441108e63f6cbdbcc667a931694c6eb4c19dc6d471e120ea4e54d67ddf64",
+      "size": 282599
+    },
+    "data/geojson.day/tron-ares-day-00177.geojson.gz": {
+      "sha256": "4a85cf964eb3995ea9b28b83804b2d53942d25ab9efea43abfa56e6fb13b364d",
+      "size": 285312
+    },
+    "data/geojson.day/tron-ares-day-00178.geojson.gz": {
+      "sha256": "225c077e4a17ade5b0b3400189a79d0f83fda49ceac913ba509af8d6ec89e47e",
+      "size": 282211
+    },
+    "data/geojson.day/tron-ares-day-00179.geojson.gz": {
+      "sha256": "e001c3b8284c6aff1e10cba44b9cb7724f2d1a18ad23bacf2bd7b7714268b7dd",
+      "size": 283081
+    },
+    "data/geojson.day/tron-ares-day-00180.geojson.gz": {
+      "sha256": "da281728ee52bbd3ba75d03cf31a8d4ff412e0150f77775e28104df6a14832ac",
+      "size": 287420
+    },
+    "data/geojson.day/tron-ares-day-00181.geojson.gz": {
+      "sha256": "0207ff84d0912fd447aeda2c0c88f65fe7c3e89abd57f7c782f76f25cddd8b53",
+      "size": 285366
+    },
+    "data/geojson.day/tron-ares-day-00182.geojson.gz": {
+      "sha256": "7113e0a511eb28bf1caf4ede658af70af371217c32cade2c65c0679fb2631b1a",
+      "size": 285905
+    },
+    "data/json/tron-ares-swarm-day-00001-2025-12-02.json": {
+      "sha256": "3f275c242b30d6d187f8abd7753cb4817fac571d2cffbcc7926f1c9e5e5ca4d2",
+      "size": 433
+    },
+    "data/json/tron-ares-swarm-day-00002-2025-12-03.json": {
+      "sha256": "8eeb9e588ccfda405c35a5f0359c5190e9f582912f5da569046f69889b2a645a",
+      "size": 433
+    },
+    "data/json/tron-ares-swarm-day-00003-2025-12-04.json": {
+      "sha256": "40d53a91b3490b34761d8e1a64d4da7705e5713300bd95bb8a7b188804140b2b",
+      "size": 433
+    },
+    "data/json/tron-ares-swarm-day-00004-2025-12-05.json": {
+      "sha256": "a780b90c1c84a655aaa770fd542f896cd516bd42f30073d272b3654bed19670a",
+      "size": 434
+    },
+    "data/json/tron-ares-swarm-day-00005-2025-12-06.json": {
+      "sha256": "28e423f095167e189d38df6e3676c487c5fdc4a9b4379a1b6e97989bb594b9ad",
+      "size": 434
+    },
+    "data/json/tron-ares-swarm-day-00006-2025-12-07.json": {
+      "sha256": "9fd6708400f76f600d115ddb3590341e5166eb41fa7ddc504097f1c54a9fa743",
+      "size": 434
+    },
+    "data/json/tron-ares-swarm-day-00007-2025-12-08.json": {
+      "sha256": "e94f1498d0b6db7ecd8f8820e580ca7308d46050b7010e604cd6164fa829636a",
+      "size": 434
+    },
+    "data/json/tron-ares-swarm-day-00008-2025-12-09.json": {
+      "sha256": "0ad41671fb2a85ccd689aee704e02b1d8443a10da0da230d9a52f62426748044",
+      "size": 434
+    },
+    "data/json/tron-ares-swarm-day-00009-2025-12-10.json": {
+      "sha256": "5ecbffaa1d8f1c68320a6354736f617d35a058dcb62624b44366e2559f630f52",
+      "size": 434
+    },
+    "data/json/tron-ares-swarm-day-00010-2025-12-11.json": {
+      "sha256": "cc1abb5ce34aaf3ff99827b608034c32ca4a68f0675b9ab55f550d7bf474592a",
+      "size": 435
+    },
+    "data/json/tron-ares-swarm-day-00011-2025-12-12.json": {
+      "sha256": "adaba5812178d26be3996ccdaebc3df6fc7836a1f3f032f73c7e07d2c856c6b9",
+      "size": 435
+    },
+    "data/json/tron-ares-swarm-day-00012-2025-12-13.json": {
+      "sha256": "e0c628f66f6129aa95930ad461091429e885ee94523c9e2f684f671f94a74f11",
+      "size": 435
+    },
+    "data/json/tron-ares-swarm-day-00013-2025-12-14.json": {
+      "sha256": "36efaa61252375cddefa1acb317f5de58c96dc0bbd0d31e30429cac2cafd03bd",
+      "size": 435
+    },
+    "data/json/tron-ares-swarm-day-00014-2025-12-15.json": {
+      "sha256": "74dc4b90359ab61235b773b5f5acbb7d900d0e4cd185632b7b2c512cbbb8818b",
+      "size": 435
+    },
+    "data/json/tron-ares-swarm-day-00015-2025-12-16.json": {
+      "sha256": "ab307f53bcfb364f49b09f0a85d360d2797fba0ac1100e7fefda535aea509ea9",
+      "size": 435
+    },
+    "data/json/tron-ares-swarm-day-00016-2025-12-17.json": {
+      "sha256": "90bdbb50920c1d90b726f0733f5233306b03d7813340d2eaab421cc15046137d",
+      "size": 435
+    },
+    "data/json/tron-ares-swarm-day-00017-2025-12-18.json": {
+      "sha256": "5378915038f966fb18d49e70372899f866b496ffab3482f96e0f9de225b3e404",
+      "size": 435
+    },
+    "data/json/tron-ares-swarm-day-00018-2025-12-19.json": {
+      "sha256": "2fefd876b172b7ba7b2da7543b2e0788f1b0c29760ecb3922c0abfbd076e299f",
+      "size": 435
+    },
+    "data/json/tron-ares-swarm-day-00019-2025-12-20.json": {
+      "sha256": "cfae0714a541a179edc1eda8875946ccd7d0dcfa55115b06067c11a4e83a65f5",
+      "size": 435
+    },
+    "data/json/tron-ares-swarm-day-00020-2025-12-21.json": {
+      "sha256": "2fb8309c490862dac0fd40ef21fb1340fc4137140b1af6bb2e99a428f9b60a60",
+      "size": 435
+    },
+    "data/json/tron-ares-swarm-day-00021-2025-12-22.json": {
+      "sha256": "1320aa3b499fab8a50f7a67e329a762e98ed8da05dfc93e4a95f9870a0551564",
+      "size": 435
+    },
+    "data/json/tron-ares-swarm-day-00022-2025-12-23.json": {
+      "sha256": "6045640ffdcdeb9a971f62a4bf9f14136e380a5b120a3d2068209af2ffe405c7",
+      "size": 435
+    },
+    "data/json/tron-ares-swarm-day-00023-2025-12-24.json": {
+      "sha256": "eb2b779974dc4a8f4421d73a93a7ac8a77ac80ae883e397f28fbb33a2e90febf",
+      "size": 435
+    },
+    "data/json/tron-ares-swarm-day-00024-2025-12-25.json": {
+      "sha256": "e24306597ef4163d9e08ae243285518074d9e755928c312a8cb0a01d83e5c610",
+      "size": 435
+    },
+    "data/json/tron-ares-swarm-day-00025-2025-12-26.json": {
+      "sha256": "b7a14cc468760a6e82e669a320ce15041341145e7b85a29ed011d49438edb6d1",
+      "size": 435
+    },
+    "data/json/tron-ares-swarm-day-00026-2025-12-27.json": {
+      "sha256": "3e016875389c1578ee1af81b24c1e473f252986f06cb124683702f60030d1096",
+      "size": 435
+    },
+    "data/json/tron-ares-swarm-day-00027-2025-12-28.json": {
+      "sha256": "751e80fac9ea9b8987893ac83b0aeb9c6a24f891dba012377151666f0a4a8c98",
+      "size": 435
+    },
+    "data/json/tron-ares-swarm-day-00028-2025-12-29.json": {
+      "sha256": "d2840c7aa82d80f77c8e188cbe4f4efab5a2b695f088d3a6f36df3b1da3dd16b",
+      "size": 435
+    },
+    "data/json/tron-ares-swarm-day-00029-2025-12-30.json": {
+      "sha256": "141bc75eb14c21d796272da13647eb3919844b6cef1ed46cfc15e9293845f846",
+      "size": 435
+    },
+    "data/json/tron-ares-swarm-day-00030-2025-12-31.json": {
+      "sha256": "73be58eb866c1f9235c61290219223094c6ff445d96bc4c3f9b0f72f64733940",
+      "size": 435
+    },
+    "data/json/tron-ares-swarm-day-00031-2026-01-01.json": {
+      "sha256": "46b21d177c6f56ae8c1217b8e3877ec55fa1c6310590eb6b1fd68aaa85f4c8dd",
+      "size": 435
+    },
+    "data/json/tron-ares-swarm-day-00032-2026-01-02.json": {
+      "sha256": "aec95d8d3c48e69a45f5f1841c3f629ad0aee72db1965b7e0e69d19c1df52c6e",
+      "size": 435
+    },
+    "data/json/tron-ares-swarm-day-00033-2026-01-03.json": {
+      "sha256": "6e78f655ac87a6d7b0683027611e7a87dd1d7b03e1d285d0bedee71a20034378",
+      "size": 435
+    },
+    "data/json/tron-ares-swarm-day-00034-2026-01-04.json": {
+      "sha256": "13727c64c7fd88f0420802fd057c3d8d00e435cb5afe164a2c63a37c808d5735",
+      "size": 435
+    },
+    "data/json/tron-ares-swarm-day-00035-2026-01-05.json": {
+      "sha256": "b5f4684a7bebc128cf7a408537df7ab309cbd24c04e24163428f3ef26b4f8f33",
+      "size": 435
+    },
+    "data/json/tron-ares-swarm-day-00036-2026-01-06.json": {
+      "sha256": "7594f56131db16abdcaf36b02e3e1efd1fe07946371dcffe56d9d558d3dd82ca",
+      "size": 435
+    },
+    "data/json/tron-ares-swarm-day-00037-2026-01-07.json": {
+      "sha256": "af68dc22326e6b2abc034a14f84b3a5a03c92a2cb6b9bc29568da73180fd9ee8",
+      "size": 435
+    },
+    "data/json/tron-ares-swarm-day-00038-2026-01-08.json": {
+      "sha256": "ed356bfc5a494580617e2419d7e4d3e0c35f67a9584366cb3168fab762c99203",
+      "size": 435
+    },
+    "data/json/tron-ares-swarm-day-00039-2026-01-09.json": {
+      "sha256": "345724adc089d09f42f28a6069252225f75f5d6047a2670f47ad27f2102c0aeb",
+      "size": 435
+    },
+    "data/json/tron-ares-swarm-day-00040-2026-01-10.json": {
+      "sha256": "1a3903bbc031d5c0a8f5e8dde8abca73046df2c57efaa5664683babeef5e3bf5",
+      "size": 435
+    },
+    "data/json/tron-ares-swarm-day-00041-2026-01-11.json": {
+      "sha256": "94fb81ece13408ec2479d475e0dccb19838a58d19de4b1f31929e8e65b14e11b",
+      "size": 435
+    },
+    "data/json/tron-ares-swarm-day-00042-2026-01-12.json": {
+      "sha256": "024f90f177c6f7bacae1ec456d1ca5ad45f89e9f3c123a65ff621ce666ed9f0f",
+      "size": 435
+    },
+    "data/json/tron-ares-swarm-day-00043-2026-01-13.json": {
+      "sha256": "3cff16d31fdf07cc415286de8cc5d10f9394d60dfc5464088d53df745de36c75",
+      "size": 435
+    },
+    "data/json/tron-ares-swarm-day-00044-2026-01-14.json": {
+      "sha256": "6204407b161d4ff43c4a63adcac35d0d58579f8eee6419d35fc831621fab451a",
+      "size": 435
+    },
+    "data/json/tron-ares-swarm-day-00045-2026-01-15.json": {
+      "sha256": "b5b1568db101a8aef70862c43acc231daa19e557a1c6d75356604666a16868f3",
+      "size": 435
+    },
+    "data/json/tron-ares-swarm-day-00046-2026-01-16.json": {
+      "sha256": "c6e9b98ec142be0f7dd1f2cb044455df6e07bba7e3ac2f4c6f3787eff157a6ad",
+      "size": 435
+    },
+    "data/json/tron-ares-swarm-day-00047-2026-01-17.json": {
+      "sha256": "5b6042fe5363c26c2b7c113aad8c7e6a59e5b8b1b5ee48988593fede0478368a",
+      "size": 435
+    },
+    "data/json/tron-ares-swarm-day-00048-2026-01-18.json": {
+      "sha256": "e8d2f839a6bbbca7f9371f26feb43408479277b3ee4090ee480ef5e63f07f0e5",
+      "size": 435
+    },
+    "data/json/tron-ares-swarm-day-00049-2026-01-19.json": {
+      "sha256": "3222be1f510e6566e531e7e043599e254cd6f3193292cce881151dada8e3c2de",
+      "size": 435
+    },
+    "data/json/tron-ares-swarm-day-00050-2026-01-20.json": {
+      "sha256": "8b82d0e56dd2363dc4e0aeaec06df3de66674d793a0efb2ad9fbb3f7c7f0ae09",
+      "size": 435
+    },
+    "data/json/tron-ares-swarm-day-00051-2026-01-21.json": {
+      "sha256": "dee69a382b235960d4dcc7d1e3f3d8d08a7d05587dab6c3743a0e92c6d6d3a54",
+      "size": 435
+    },
+    "data/json/tron-ares-swarm-day-00052-2026-01-22.json": {
+      "sha256": "2ce23d890803f0ddb46f0fa879cb0d2ee12e7aace55784e1f1e56e52ddd2c5f8",
+      "size": 435
+    },
+    "data/json/tron-ares-swarm-day-00053-2026-01-23.json": {
+      "sha256": "7bff0c4028bb7ea28b22ff07ce0754466c5074f6a6910a255e5e2b7dcf9ea069",
+      "size": 435
+    },
+    "data/json/tron-ares-swarm-day-00054-2026-01-24.json": {
+      "sha256": "2c6a60ecdb91ab6cd38fb0a41af98408d03cfbef3c62fbde2da81f916deda725",
+      "size": 435
+    },
+    "data/json/tron-ares-swarm-day-00055-2026-01-25.json": {
+      "sha256": "f2073a51cf314ceed4b29472136ab39f219216ee14b38847e1da53172a35294d",
+      "size": 435
+    },
+    "data/json/tron-ares-swarm-day-00056-2026-01-26.json": {
+      "sha256": "96f38cb7be4cfab19ac9c963692294d68dd7036beae947f67a7410e1873b2aea",
+      "size": 435
+    },
+    "data/json/tron-ares-swarm-day-00057-2026-01-27.json": {
+      "sha256": "150f04edb22f9e984fc8da53c523a5048da38c5deab311450ed3247f8f34a484",
+      "size": 435
+    },
+    "data/json/tron-ares-swarm-day-00058-2026-01-28.json": {
+      "sha256": "f997ceb209144482889b954f4e822e28c42b400c1137b428232bc1407f2c6264",
+      "size": 435
+    },
+    "data/json/tron-ares-swarm-day-00059-2026-01-29.json": {
+      "sha256": "5377dbd596822258acc0d1a793c80a747c8555aa7e11b2e392a603631ec4998e",
+      "size": 435
+    },
+    "data/json/tron-ares-swarm-day-00060-2026-01-30.json": {
+      "sha256": "4b8d415fcde8718e23184d4754264c2d2fc619cdf0b1aa3a78b7530c1af1901e",
+      "size": 435
+    },
+    "data/json/tron-ares-swarm-day-00061-2026-01-31.json": {
+      "sha256": "a068469812f0dbfc20ab1aa7e1c3d6547606bae330e8ee4136fc9b5275a35084",
+      "size": 435
+    },
+    "data/json/tron-ares-swarm-day-00062-2026-02-01.json": {
+      "sha256": "8de6f9508ed1391f2a4f467ddd53a585e57d0633fd92ff287a0887f79e1ecae9",
+      "size": 435
+    },
+    "data/json/tron-ares-swarm-day-00063-2026-02-02.json": {
+      "sha256": "89c98b8fe7660bf1a552830c5372fae7759b03be98b5089cb9dada3f235c5dcd",
+      "size": 435
+    },
+    "data/json/tron-ares-swarm-day-00064-2026-02-03.json": {
+      "sha256": "f955695c80110fa3fb01bfe8d0ab0a6d638c7293a7a16d0e94952ef4faeaf371",
+      "size": 435
+    },
+    "data/json/tron-ares-swarm-day-00065-2026-02-04.json": {
+      "sha256": "70ddd7359d07cb64bc408e7648b918c164ed113117f10d0738979a8da185fbc3",
+      "size": 435
+    },
+    "data/json/tron-ares-swarm-day-00066-2026-02-05.json": {
+      "sha256": "b3a063cf8c0523ff52320cf3f5bd257231856eab129176fad5cfc455dab0ee29",
+      "size": 435
+    },
+    "data/json/tron-ares-swarm-day-00067-2026-02-06.json": {
+      "sha256": "ff0cbe176a6687edf24e5e8dea78e1f2453bc9ed3cd6788954fd107429604bfb",
+      "size": 435
+    },
+    "data/json/tron-ares-swarm-day-00068-2026-02-07.json": {
+      "sha256": "73692a7d884ee364b9efc9bc21e782c677881d08d8ec30c5ab40b7745a2eb751",
+      "size": 435
+    },
+    "data/json/tron-ares-swarm-day-00069-2026-02-08.json": {
+      "sha256": "7646de0319541548d7fe668de388e3a91fcce5e329001b8a20f3829e1ae0511e",
+      "size": 435
+    },
+    "data/json/tron-ares-swarm-day-00070-2026-02-09.json": {
+      "sha256": "bbb6ce8f5114f67a52996b814a8dd3ac19d428c62b03c1b3394ec99e3bc44649",
+      "size": 435
+    },
+    "data/json/tron-ares-swarm-day-00071-2026-02-10.json": {
+      "sha256": "20d22d06ca7df0ccb7518171c47d7178032104c7834b4599c2a630c9b04b595f",
+      "size": 435
+    },
+    "data/json/tron-ares-swarm-day-00072-2026-02-11.json": {
+      "sha256": "00121d7e0f068a483b299d20511f5c855a885c2d9cd16727ba25541d053b6036",
+      "size": 435
+    },
+    "data/json/tron-ares-swarm-day-00073-2026-02-12.json": {
+      "sha256": "2d8bd88ef8e15e580aeb621c0f179de01759e082b663898b936e471dd90085f4",
+      "size": 435
+    },
+    "data/json/tron-ares-swarm-day-00074-2026-02-13.json": {
+      "sha256": "5cf9f5a1c5af78f181fdfc3b63e4ec1ee7ee6ed4b8149af6fd642f9ec03f9a32",
+      "size": 435
+    },
+    "data/json/tron-ares-swarm-day-00075-2026-02-14.json": {
+      "sha256": "91f661679698487b016d040ab1da2ba226f69b6009ed869b754d6f2d9ad0c945",
+      "size": 435
+    },
+    "data/json/tron-ares-swarm-day-00076-2026-02-15.json": {
+      "sha256": "df55d2310d18982bd9b5908a1af0b072cd73934454593d3c370f7cb98e1742b6",
+      "size": 435
+    },
+    "data/json/tron-ares-swarm-day-00077-2026-02-16.json": {
+      "sha256": "baae4231bb294bee8beb5c4085d8292d8d37785914181fb482bf78ad3e8b6d07",
+      "size": 435
+    },
+    "data/json/tron-ares-swarm-day-00078-2026-02-17.json": {
+      "sha256": "0c54e9aec990f9eb96cb3b81c6ca1846ffd743033e93b50a8ef7f00ced306436",
+      "size": 435
+    },
+    "data/json/tron-ares-swarm-day-00079-2026-02-18.json": {
+      "sha256": "87c02f7489a7480af9c5e19b3da01cbd5935ca619eb223893ea6c95f0ff0a25b",
+      "size": 435
+    },
+    "data/json/tron-ares-swarm-day-00080-2026-02-19.json": {
+      "sha256": "ae93b7c78f696652ba46364aaf8eb13ccd684c641c9b853ec581fdb9d1cc995f",
+      "size": 435
+    },
+    "data/json/tron-ares-swarm-day-00081-2026-02-20.json": {
+      "sha256": "660a0d2d457393a4c29fbf50994d1a5899d905ddbedac2b8440891681dfb322e",
+      "size": 435
+    },
+    "data/json/tron-ares-swarm-day-00082-2026-02-21.json": {
+      "sha256": "ac24278c02ccd8d43083e56c889f6652f326501a5c9b18d7137ece72eb384b8d",
+      "size": 435
+    },
+    "data/json/tron-ares-swarm-day-00083-2026-02-22.json": {
+      "sha256": "996b1cf00fcedf0c74d8f332b740c5053c69257543a4f7085fc0ae818f6ea881",
+      "size": 435
+    },
+    "data/json/tron-ares-swarm-day-00084-2026-02-23.json": {
+      "sha256": "ee8a57098136b757f863c842c45ec3a8a5ddd77dc906336696519d5e835a0a7d",
+      "size": 435
+    },
+    "data/json/tron-ares-swarm-day-00085-2026-02-24.json": {
+      "sha256": "d0de1286063b8620a58be7eee69496b14d335152d766af47e3bc8adca44b3ede",
+      "size": 435
+    },
+    "data/json/tron-ares-swarm-day-00086-2026-02-25.json": {
+      "sha256": "214f5f8f9c5b0fa6e69b10b7606b579c9739d89def4d791876776b2814ae7c32",
+      "size": 435
+    },
+    "data/json/tron-ares-swarm-day-00087-2026-02-26.json": {
+      "sha256": "a4585ade5ff8da5207c90a469806d84bb40e1076483363e867f166a81e588716",
+      "size": 435
+    },
+    "data/json/tron-ares-swarm-day-00088-2026-02-27.json": {
+      "sha256": "4444f084b7adbd1ed3ce7f1098c0d65ac4ae0efcea6f8d076932091d934e0348",
+      "size": 435
+    },
+    "data/json/tron-ares-swarm-day-00089-2026-02-28.json": {
+      "sha256": "ab035c83a13fd851520701a4ff04bdb271ce316456c9a22e5fe7173fe02ff2d4",
+      "size": 435
+    },
+    "data/json/tron-ares-swarm-day-00090-2026-03-01.json": {
+      "sha256": "90d5fbc5422e6424d46dcd057cbb3884541bce3b86300d2b4fec8ef20806ee33",
+      "size": 435
+    },
+    "data/json/tron-ares-swarm-day-00091-2026-03-02.json": {
+      "sha256": "a1eeef27f886487686b6eabad9abba968d86caf710de17cb4065ac3c648b7cc9",
+      "size": 435
+    },
+    "data/json/tron-ares-swarm-day-00092-2026-03-03.json": {
+      "sha256": "7cedc2f02984be1c673ea5c2b886ed55a3484a7c306222cf848750510698a567",
+      "size": 435
+    },
+    "data/json/tron-ares-swarm-day-00093-2026-03-04.json": {
+      "sha256": "b2d2b17448360a7ea3e72b8b4bfe4583a301c25279eb244a7f606442a051c0f0",
+      "size": 435
+    },
+    "data/json/tron-ares-swarm-day-00094-2026-03-05.json": {
+      "sha256": "c41551c63adcaa445b5534ebde39699a27e825a428ef25c036e9aebc386a28e9",
+      "size": 435
+    },
+    "data/json/tron-ares-swarm-day-00095-2026-03-06.json": {
+      "sha256": "b4e507c5173d910edb96b624400030a9631b5d114bedc7f1f1927d5e1d2ea018",
+      "size": 435
+    },
+    "data/json/tron-ares-swarm-day-00096-2026-03-07.json": {
+      "sha256": "7a3c7a38d318d5014a463ccb67c305f568bd397336333a319f4029af339f716f",
+      "size": 435
+    },
+    "data/json/tron-ares-swarm-day-00097-2026-03-08.json": {
+      "sha256": "f8d9e1161278ad26222fff8add0a4ce22eaa02b4c7719909a54b048ed52ba4f8",
+      "size": 435
+    },
+    "data/json/tron-ares-swarm-day-00098-2026-03-09.json": {
+      "sha256": "f155640b7765ab992d4fb2c85c9e1cf559149cca1e52f3cb2491d93c89961c95",
+      "size": 435
+    },
+    "data/json/tron-ares-swarm-day-00099-2026-03-10.json": {
+      "sha256": "c5e1856f1d522e786145f17150904a1e0f94b6c8081d7129bc77e46e1a755ba9",
+      "size": 435
+    },
+    "data/json/tron-ares-swarm-day-00100-2026-03-11.json": {
+      "sha256": "3ad6a7bd600fcd2284f73c1b732ccaffc3271498da17dab349d87c5d863fbdb2",
+      "size": 436
+    },
+    "data/json/tron-ares-swarm-day-00101-2026-03-12.json": {
+      "sha256": "7908d20d4553019d70660b4d7d6c354c8b7772bacff309e292d67a4027d6cfa3",
+      "size": 436
+    },
+    "data/json/tron-ares-swarm-day-00102-2026-03-13.json": {
+      "sha256": "2c4f3f7f86aa2228cb61aea433f6cfdabeeccd453f3717f0d3a6029b71ea8c3b",
+      "size": 436
+    },
+    "data/json/tron-ares-swarm-day-00103-2026-03-14.json": {
+      "sha256": "eb942da5c824e57ba6c982d4eb3184e5ff1736f69dce2650b2f77e84bab711a4",
+      "size": 436
+    },
+    "data/json/tron-ares-swarm-day-00104-2026-03-15.json": {
+      "sha256": "e1652f1233507bed3bb60967531b845c73292abe50fd2fce66f6dedb5ee92f3f",
+      "size": 436
+    },
+    "data/json/tron-ares-swarm-day-00105-2026-03-16.json": {
+      "sha256": "496f30f2b091ef9ea19625e2d65cef9c1d7790f4c304f75f9cb17ec05ea9fcbe",
+      "size": 436
+    },
+    "data/json/tron-ares-swarm-day-00106-2026-03-17.json": {
+      "sha256": "4928fc2718bcf37bc2294c93a0380c1135b8099f2ec8d59a660094347b7f4442",
+      "size": 436
+    },
+    "data/json/tron-ares-swarm-day-00107-2026-03-18.json": {
+      "sha256": "a20bbddd96e4a6978a817bb579f73f22b1cd075ae3db9599c8079334118876b0",
+      "size": 436
+    },
+    "data/json/tron-ares-swarm-day-00108-2026-03-19.json": {
+      "sha256": "50952bd7ad4c36ce085e6b64f5ed24890d70661b1693dd68977023109b5ddb27",
+      "size": 436
+    },
+    "data/json/tron-ares-swarm-day-00109-2026-03-20.json": {
+      "sha256": "cbe1bc33703f88fa77a4428d50040414c0b83a13d4870fec06d3dd39e7645d03",
+      "size": 436
+    },
+    "data/json/tron-ares-swarm-day-00110-2026-03-21.json": {
+      "sha256": "f53a217f304a78bd2f54ff45bd037fa2be8f735b63b01493d392919b582d2c09",
+      "size": 436
+    },
+    "data/json/tron-ares-swarm-day-00111-2026-03-22.json": {
+      "sha256": "de67bbef82a7fc419cb1a81ca363583abc49d733a86ba401be47eed4d868c924",
+      "size": 436
+    },
+    "data/json/tron-ares-swarm-day-00112-2026-03-23.json": {
+      "sha256": "b61731ad3b2bdf15dd7dbb637b2ce8970582c96880ad2911e0572106ba9825a5",
+      "size": 436
+    },
+    "data/json/tron-ares-swarm-day-00113-2026-03-24.json": {
+      "sha256": "261cb56c2036587027562b6f413bc7901b46f4951c49517b569e9fdf5469977d",
+      "size": 436
+    },
+    "data/json/tron-ares-swarm-day-00114-2026-03-25.json": {
+      "sha256": "68e7f83b856725d98d21fcbfe27d7f5ef50279759379165de18989048a203b01",
+      "size": 436
+    },
+    "data/json/tron-ares-swarm-day-00115-2026-03-26.json": {
+      "sha256": "d42e11442e372ce005b577eaf6637aa03b885f74a3df1b191c3d33eaffb6b4ef",
+      "size": 436
+    },
+    "data/json/tron-ares-swarm-day-00116-2026-03-27.json": {
+      "sha256": "612f7d9b05c139c52cba047d5613c6c5f24db2f5b0718017694075603d69449f",
+      "size": 436
+    },
+    "data/json/tron-ares-swarm-day-00117-2026-03-28.json": {
+      "sha256": "1e9bb2085f3a1a2262eb6b90bb11c79277ef00a5c049d9c87257433fc309b583",
+      "size": 436
+    },
+    "data/json/tron-ares-swarm-day-00118-2026-03-29.json": {
+      "sha256": "ceb938b226281b7fccfa9ec56546f676ec7c6178bbe8ed06a64ab83ba1cf7a69",
+      "size": 436
+    },
+    "data/json/tron-ares-swarm-day-00119-2026-03-30.json": {
+      "sha256": "18c4193af6e9c761839f1c453337d2768f96b795ffdcd0e5e462d6ffd1c60bce",
+      "size": 436
+    },
+    "data/json/tron-ares-swarm-day-00120-2026-03-31.json": {
+      "sha256": "cb99e40ab5e3e9e9599f0b72ccd44d897aba9cee5bd0b93d372aa3df787742b8",
+      "size": 436
+    },
+    "data/json/tron-ares-swarm-day-00121-2026-04-01.json": {
+      "sha256": "61b08fbe2be702c2a8b620cd6b69c1ab386ec04008aee2361e876800da1aa2c6",
+      "size": 436
+    },
+    "data/json/tron-ares-swarm-day-00122-2026-04-02.json": {
+      "sha256": "df185df0e4a49c94480fd7b3300889b993ba3f3e60b36156f3b84ab4826f822d",
+      "size": 436
+    },
+    "data/json/tron-ares-swarm-day-00123-2026-04-03.json": {
+      "sha256": "b356281ffbf0350f9cad140b49ae7e447ed0d45b3176c33c5e89a23de123a428",
+      "size": 436
+    },
+    "data/json/tron-ares-swarm-day-00124-2026-04-04.json": {
+      "sha256": "0768500a9c3f99dd1c57d7ce901368c82089bc47f95ba8cc7fbc97c4c3762cc5",
+      "size": 436
+    },
+    "data/json/tron-ares-swarm-day-00125-2026-04-05.json": {
+      "sha256": "d3a988beea763a42ddbe3176c93531b64f369b24a3026c2292d6002e02a9c297",
+      "size": 436
+    },
+    "data/json/tron-ares-swarm-day-00126-2026-04-06.json": {
+      "sha256": "ce5e7f9097ac0ea57a38fb619be2415bb8e8edf3ae3679b07940ebc1eaea3dd0",
+      "size": 436
+    },
+    "data/json/tron-ares-swarm-day-00127-2026-04-07.json": {
+      "sha256": "babeac86006ce7a5dc801583d666711945422eeb9dc4cc149b0251eaf596eb52",
+      "size": 436
+    },
+    "data/json/tron-ares-swarm-day-00128-2026-04-08.json": {
+      "sha256": "f5e5b472d94315f32ec38fe3974a108331d448139dc0ef1cf847effc2b300c11",
+      "size": 436
+    },
+    "data/json/tron-ares-swarm-day-00129-2026-04-09.json": {
+      "sha256": "b92c75a62379a2e94c76f8cf8dd8fe5e5b592909ab3f8365cba8e9329d638f5b",
+      "size": 436
+    },
+    "data/json/tron-ares-swarm-day-00130-2026-04-10.json": {
+      "sha256": "40019cb2a3c4a0399fe17f8ca163ef6b52480d70567118f185874595c0a60595",
+      "size": 436
+    },
+    "data/json/tron-ares-swarm-day-00131-2026-04-11.json": {
+      "sha256": "f5596951802101e729b36ccb9d1790c990700958aff0adc11ddee1e2a1f844ea",
+      "size": 436
+    },
+    "data/json/tron-ares-swarm-day-00132-2026-04-12.json": {
+      "sha256": "a3fa8a737c0bf431a288d9c87b192c234dbe8b09ad5665d8ba3e0a41c8c56d63",
+      "size": 436
+    },
+    "data/json/tron-ares-swarm-day-00133-2026-04-13.json": {
+      "sha256": "31f8bd322a0cb6276826ef0e29747bbe21b96f4c39b1896e990371bad146bf2a",
+      "size": 436
+    },
+    "data/json/tron-ares-swarm-day-00134-2026-04-14.json": {
+      "sha256": "7491e386b9df4cff7d3c30573957fdd5b3e7168eb7fcf3c7d302bbe5857d5ca4",
+      "size": 436
+    },
+    "data/json/tron-ares-swarm-day-00135-2026-04-15.json": {
+      "sha256": "93ce84122eb2a9cd30649203f431b324d02a904f1948f54c7fb7d87d584f8e10",
+      "size": 436
+    },
+    "data/json/tron-ares-swarm-day-00136-2026-04-16.json": {
+      "sha256": "2fdd9ece28436d7609bc4757fa2004cda42d5a663127faa92850067af56b6f5a",
+      "size": 436
+    },
+    "data/json/tron-ares-swarm-day-00137-2026-04-17.json": {
+      "sha256": "b67abb279e23e87313612eb058e46968d2ca2c74ba3a038e761e31ce9de9ec77",
+      "size": 436
+    },
+    "data/json/tron-ares-swarm-day-00138-2026-04-18.json": {
+      "sha256": "8cec0f40a22751dfe936a5c4a372e8ab5f724e4b3331808f0fefda2a6961fd15",
+      "size": 436
+    },
+    "data/json/tron-ares-swarm-day-00139-2026-04-19.json": {
+      "sha256": "173b07eeecfef70315d9ceda464abf145ca21e0a02b95b9c97759cb6a92d3cb8",
+      "size": 436
+    },
+    "data/json/tron-ares-swarm-day-00140-2026-04-20.json": {
+      "sha256": "e47aa757c046f1ce1c6b28f2fd2d23161d8937b4ca1d47b075be8bbec39e2cd0",
+      "size": 436
+    },
+    "data/json/tron-ares-swarm-day-00141-2026-04-21.json": {
+      "sha256": "79c4bc192e875dca1f4e577c27749021cb9401337cf3d80d22b86754fbd9ab88",
+      "size": 436
+    },
+    "data/json/tron-ares-swarm-day-00142-2026-04-22.json": {
+      "sha256": "e378e2048f569c7b256ed69c3e905845d3237c426f09fd68574758cd1d1a0ec4",
+      "size": 436
+    },
+    "data/json/tron-ares-swarm-day-00143-2026-04-23.json": {
+      "sha256": "e0b061298f7e548cb83c6e52165c6d02be47b0a914d69b2baf5d22b48dc0ad72",
+      "size": 436
+    },
+    "data/json/tron-ares-swarm-day-00144-2026-04-24.json": {
+      "sha256": "22d09a2fd8bb727f9b6ba7c377df4792baaff168d1c06a4719865ab7a6ee8e8b",
+      "size": 436
+    },
+    "data/json/tron-ares-swarm-day-00145-2026-04-25.json": {
+      "sha256": "92c0adcf611574ebe048ad11f8db1bef92bfca74f34da3613ba2c50ac08ffccf",
+      "size": 436
+    },
+    "data/json/tron-ares-swarm-day-00146-2026-04-26.json": {
+      "sha256": "40a528e86efcfc5f1b8340a46bc68824d11576e655bebf1ae09ff85d1f1225a7",
+      "size": 436
+    },
+    "data/json/tron-ares-swarm-day-00147-2026-04-27.json": {
+      "sha256": "e07d735f074bfbf98b8baf69d548291e2a2baf98714ba9a4feb051643520c360",
+      "size": 436
+    },
+    "data/json/tron-ares-swarm-day-00148-2026-04-28.json": {
+      "sha256": "a823b027a4862a2358d60c66aea118d6b8bcba484eec7d726a63d2ec1a189fb7",
+      "size": 436
+    },
+    "data/json/tron-ares-swarm-day-00149-2026-04-29.json": {
+      "sha256": "a1aa904405c86083fd8f0508a96051b5dd1f2a55c3c8c10e6c4c33e007a370ad",
+      "size": 436
+    },
+    "data/json/tron-ares-swarm-day-00150-2026-04-30.json": {
+      "sha256": "bc3dac4544bfbf7ea8ca255bc2d68caf877b2e816dabc17d88ba9811c9313766",
+      "size": 436
+    },
+    "data/json/tron-ares-swarm-day-00151-2026-05-01.json": {
+      "sha256": "71cac7941ac4e7b90ff8a4a403bdb4a7ef033afe7087f63c4ba34c1e2c6e2412",
+      "size": 436
+    },
+    "data/json/tron-ares-swarm-day-00152-2026-05-02.json": {
+      "sha256": "3015e35402433d29e8fd34ebe1ea3a7c24398643ae689c92506a71f259c817d1",
+      "size": 436
+    },
+    "data/json/tron-ares-swarm-day-00153-2026-05-03.json": {
+      "sha256": "785946666442440a60b7da5ddda26bff21a2a9d745593b31398862a431015e87",
+      "size": 436
+    },
+    "data/json/tron-ares-swarm-day-00154-2026-05-04.json": {
+      "sha256": "236048a2d8f6cbfef5b83f452604ef47a736d85b9610a627440b8eefbb093a1f",
+      "size": 436
+    },
+    "data/json/tron-ares-swarm-day-00155-2026-05-05.json": {
+      "sha256": "feca72ff5c5b0140db2a2b644c94226fb9aac4c1c17a2f7bf3a175b0967f8ae8",
+      "size": 436
+    },
+    "data/json/tron-ares-swarm-day-00156-2026-05-06.json": {
+      "sha256": "2a8898cceb4e46a3ed11632c15ccba4b04004ad3d4e0c32ffff0f90fb796c9f5",
+      "size": 436
+    },
+    "data/json/tron-ares-swarm-day-00157-2026-05-07.json": {
+      "sha256": "e4f89f6a02789160dc66c7d49b3b4e651b7bd824cc271a9657c580aa3be98307",
+      "size": 436
+    },
+    "data/json/tron-ares-swarm-day-00158-2026-05-08.json": {
+      "sha256": "9d91944bea2761ce73ba7947716434c778b6da37569825475d947aed78c36929",
+      "size": 436
+    },
+    "data/json/tron-ares-swarm-day-00159-2026-05-09.json": {
+      "sha256": "4e5bacada30ea8b04892c126b3a52b5d5e6c6e0e6717ee8dbb74cbf6969d7e28",
+      "size": 436
+    },
+    "data/json/tron-ares-swarm-day-00160-2026-05-10.json": {
+      "sha256": "fbc2c0476888d75234900d2448f43524dac1262ddac37025d9c7de681fc2b9e8",
+      "size": 436
+    },
+    "data/json/tron-ares-swarm-day-00161-2026-05-11.json": {
+      "sha256": "d4cf5bcac2c7d1fd7dc21dd0225ee7c697fe5f9b752ae015bb37cd73f710b87f",
+      "size": 436
+    },
+    "data/json/tron-ares-swarm-day-00162-2026-05-12.json": {
+      "sha256": "b828c411eaa5a17ad38a335159ee53f09c400d47329823555630789571aaccef",
+      "size": 436
+    },
+    "data/json/tron-ares-swarm-day-00163-2026-05-13.json": {
+      "sha256": "d20c2768e3fb79d3bc2b3bbbdff2184f7a75c31c81b1698b4bd9dfa5c2d46e52",
+      "size": 436
+    },
+    "data/json/tron-ares-swarm-day-00164-2026-05-14.json": {
+      "sha256": "95fcbab7a14527b8a5d69a283baa219414387a03f466c67963b83d6ff9887ce3",
+      "size": 436
+    },
+    "data/json/tron-ares-swarm-day-00165-2026-05-15.json": {
+      "sha256": "fe626414734472daad031afee5d3716cc5a68e807ea90650fb453661e83ade28",
+      "size": 436
+    },
+    "data/json/tron-ares-swarm-day-00166-2026-05-16.json": {
+      "sha256": "e1202565f73c476cae8175eb004a447d6696aebe6a9c52c5773b607e9562c2b9",
+      "size": 436
+    },
+    "data/json/tron-ares-swarm-day-00167-2026-05-17.json": {
+      "sha256": "403dd519703e6bc40e3994cfa03f96bceb5384182bc846e8a124c15c70129248",
+      "size": 436
+    },
+    "data/json/tron-ares-swarm-day-00168-2026-05-18.json": {
+      "sha256": "6da392ba4d331635b1cd609e43b4798b0249de27627f135babd1f83dcc9effde",
+      "size": 436
+    },
+    "data/json/tron-ares-swarm-day-00169-2026-05-19.json": {
+      "sha256": "082a6ed13507d9f1c07ecc11e62978666c05270818e973e3cb61c44d928f9d6a",
+      "size": 436
+    },
+    "data/json/tron-ares-swarm-day-00170-2026-05-20.json": {
+      "sha256": "c3a4ce5d51a44e4c1aeac0c745e33509a5129626317114e845229092a91cb621",
+      "size": 436
+    },
+    "data/json/tron-ares-swarm-day-00171-2026-05-21.json": {
+      "sha256": "6658ea2bd213e26c5ca3522ded2f50b398e1b20b97293abbb1be1286b25b8b3a",
+      "size": 436
+    },
+    "data/json/tron-ares-swarm-day-00172-2026-05-22.json": {
+      "sha256": "350563df2f4e3804b8e81f85895a846fe83e6d41a5e3a5dc37ef83e754e9a29d",
+      "size": 436
+    },
+    "data/json/tron-ares-swarm-day-00173-2026-05-23.json": {
+      "sha256": "cbcb0b0a614a38bea50c028b8c960761452e90cf62e6ebb232b11fdf3dfe6071",
+      "size": 436
+    },
+    "data/json/tron-ares-swarm-day-00174-2026-05-24.json": {
+      "sha256": "450ab8018728203199c609665765d634a782092ed9b5924150559cd7d338c9e8",
+      "size": 436
+    },
+    "data/json/tron-ares-swarm-day-00175-2026-05-25.json": {
+      "sha256": "cd4bc318f73c17aff8e337a0653fcba0363419b2a51013429e846c88230fd612",
+      "size": 436
+    },
+    "data/json/tron-ares-swarm-day-00176-2026-05-26.json": {
+      "sha256": "c311e5b606e62b869969910587c02d7523740fe5edfd23cd8cdb8b3cca265f0e",
+      "size": 436
+    },
+    "data/json/tron-ares-swarm-day-00177-2026-05-27.json": {
+      "sha256": "940ebc3f06ffe9420d09298c871312ee1a0aa56c153ce1ca19b82e63bb999c7d",
+      "size": 436
+    },
+    "data/json/tron-ares-swarm-day-00178-2026-05-28.json": {
+      "sha256": "9d428f068dcb4cb34015b705f71aa67c527e88ca82f2f462ebbbff33209db966",
+      "size": 436
+    },
+    "data/json/tron-ares-swarm-day-00179-2026-05-29.json": {
+      "sha256": "966a3bc34f80649026f767d7136e66f5cd3d184607710be068c3a4120de458b1",
+      "size": 436
+    },
+    "data/json/tron-ares-swarm-day-00180-2026-05-30.json": {
+      "sha256": "a5d8e647e0d9d536c27188659ad5f2b325d208812a70c91c2b3e5a480d369e83",
+      "size": 436
+    },
+    "data/json/tron-ares-swarm-day-00181-2026-05-31.json": {
+      "sha256": "748db72b3e606bdf98038ea9efafb5a52b1a651d09ac495543c2bf8c9b7b77a4",
+      "size": 436
+    },
+    "data/json/tron-ares-swarm-day-00182-2026-06-01.json": {
+      "sha256": "2572c32a5880384e76976be17914cf4b5d215cfb3045b5e09dd0b7e6e9972b9a",
+      "size": 436
+    }
+  },
+  "schema": "alpha60-year-day-product-bundle/1",
+  "source_revisions": {
+    "aggregate_binary": {
+      "sha256": "7408569641f7247fbd00969cffddaf1bb0cf2768c7fc1529f4cc6191ccfeae05",
+      "size": 38582648
+    },
+    "alpha60": "34f34e5c6eaafebbe65d9dbe1ade7609e9e61b2b",
+    "alpha60_data": "8faeae67a5d274d1fc00bffe9fc9318329163b20",
+    "day_product_contract": {
+      "sha256": "0aa0bee3ac14b512c786d3496ab5218a46aff11786ffa6aa9ea85e762fbd6370",
+      "size": 9897
+    },
+    "generate_cache_aggregates": {
+      "sha256": "2e03ba2df36d70d6293d803880c67ae0f2c3afde1ea5837075e31855a258516b",
+      "size": 22934
+    },
+    "metadata": "fbeb53a0b523f937fae2f23d14689d8c5c84dd5a",
+    "package_script": {
+      "sha256": "21d85741346f2bb967f618a36825484d87b3b94cea93dac22781c103abae8a0e",
+      "size": 15384
+    },
+    "year_day_contract": {
+      "sha256": "f1c07d6f2fdc19475a6f25ddaee5923957447a6f49a8009d8b4c9984a63bd883",
+      "size": 9356
+    }
+  },
+  "status": "pass"
+}
