@@ -1,0 +1,253 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt9561862",
+    "imdb_id": "tt9561862",
+    "revision": "fbeb53a0b523f937fae2f23d14689d8c5c84dd5a",
+    "wikidata_id": "Q61740435",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Love,_Death_%26_Robots"
+  },
+  "coverage_sha256": "2eb86c8335f550952d888172245d1459669d843deaf0513c347be0685b4f4fc9",
+  "generated_at": "2026-08-30T15:02:06.601609+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "aao-checksum-manifest": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/SHA256SUMS",
+      "sha256": "4a4818facd85b709f0321b0a6de31b4a3eff6f108f3b9354c75632926e6baa48",
+      "size": 266728
+    },
+    "aao-release": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/release.json",
+      "sha256": "3ce0984da2d12b0e3697e76c02608bd9d1a955ee3d00e0a7054bdd297b8f18c8",
+      "size": 1342
+    },
+    "aao-verification": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-aao-verification.json",
+      "sha256": "e01294ebce8e54b65e16ab83017fa5585efe6f7a0a0f1a5e0f734e08d8e223fd",
+      "size": 854
+    },
+    "archive-map": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-cache-archive-map.json",
+      "sha256": "8d4d506f23cd80f46baf010bd17509c916083e75eb8b43b052641138c3f308f1",
+      "size": 125170
+    },
+    "btiha-metadata-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/love-death-robots-04-cumulative-btiha-media-objects.json",
+      "sha256": "d27a522cc2d8326d10ae1e758180ae1dd3b61b2bb3b00ef6211f0cdffaaf810e",
+      "size": 556516
+    },
+    "canonical-metadata": {
+      "path": "/tmp/alpha60-swarm-metadata-2025/metadata/love-death-robots-04.json",
+      "sha256": "a5872d0188b9ba60d2c5be98d4cdf7fb468e0f87f673c47bc710a3400332412f",
+      "size": 5606
+    },
+    "coverage-report": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-coverage-evidence/love-death-robots-04.md",
+      "sha256": "fe1cc1075edf7fdb78a74ddb5e66ef301f327f54ff15d8f512d1326e659faf0c",
+      "size": 746
+    },
+    "cumulative-aggregate-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.cumulative/love-death-robots-04-cumulative-aggregate.geojson.gz",
+      "sha256": "2b15ee6891c66e33df7e6272093c7f8c1473420256500e4fbee7042a8b4aa698",
+      "size": 1126581
+    },
+    "cumulative-btiha-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.cumulative/love-death-robots-04-cumulative-btiha.geojson.gz",
+      "sha256": "bb97f8d3af4a5d7df92cb416e81d1611eef754b45be0befc281b3bf07ddb0d7e",
+      "size": 25067208
+    },
+    "cumulative-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/love-death-robots-04-cumulative.json",
+      "sha256": "75584dbf3cbc4b33ed95cb9848626303fb5a98671b2f51605131aac5ad71cd52",
+      "size": 15760
+    },
+    "day-bundle-receipt": {
+      "path": "/tmp/year-2025-day-bundles/love-death-robots-04/receipt.json",
+      "sha256": "77e8011dfc079419d0a60e538e6d0ea6a07a06ba6617f57045cda29a68c242bf",
+      "size": 41594
+    },
+    "ip-swarm-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/love-death-robots-04-cumulative-ip-swarm.json",
+      "sha256": "b2e4b31d55103c59c728c1b41e0b7ff569b4dc8442a466a22d8c346ade5676d6",
+      "size": 42182
+    },
+    "published-day-bundle-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-day-product-receipts/love-death-robots-04.json",
+      "sha256": "77e8011dfc079419d0a60e538e6d0ea6a07a06ba6617f57045cda29a68c242bf",
+      "size": 41594
+    },
+    "week-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/love-death-robots-04-week.json",
+      "sha256": "06b6830d445c47cad14f5e88988ae3e460cea5335d57f25be571f9aac18945bf",
+      "size": 2080103
+    }
+  },
+  "media_object": "love-death-robots-04",
+  "published_files": {
+    "data/csv/bytes/love-death-robots-04-cumulative-detail.2025-btiha-itemized-by-bytes.csv": "fb1994794c7e9971922f47b9d5ac18e804112af698519a3941728562f8f546ea",
+    "docs/itemized/figures/love-death-robots-04-carto-4k.webp": "55d959c89fe967678caf922c517901adb890deb103bfe860dec5a5224e8b901d",
+    "docs/itemized/figures/love-death-robots-04-carto.png": "fb25ab374d99a4f6838b024ed548a33cb36663b765f2bc12593b683f7a247794",
+    "docs/itemized/figures/love-death-robots-04-cumulative-detail-btiha-itemized-by-bytes.svg": "bb8490185192c8779e58852bc901ffe3d454cd58c1339956a0a5764df29f8518",
+    "docs/itemized/figures/love-death-robots-04-data-ge-1080p-4k.webp": "b98ac6a76adf8e28da317fdf73caf878e2e23fa50e28bd27dde09050f2a7edfe",
+    "docs/itemized/figures/love-death-robots-04-data-ge-1080p.webp": "91436d2da237016da04d16514fe71599bad55105013b4c01a86f4fef91897c2c",
+    "docs/itemized/figures/love-death-robots-04-data-lt-1080p-4k.webp": "13c0f2d7c5a8f0981ce982be52b6131e868a3b444adbedd7efdd37f07ae78773",
+    "docs/itemized/figures/love-death-robots-04-data-lt-1080p.webp": "7141e954a6942f6ede0e480d9c9a9ffbee370688c36ca802e54e33b26cbfa8ad",
+    "docs/itemized/figures/love-death-robots-04-downloads-by-day-day.svg": "41bd7df6288b9f29fd1735a1e2021635717712c1722b18bde01c55b26b0c623d",
+    "docs/itemized/figures/love-death-robots-04-downloads-by-week-love-death-robots-04-week.svg": "63a53f0683b003d444700c2b2d03be007e092e77b16062e9b0aab67dc4c26b44",
+    "docs/itemized/love-death-robots-04-sample-cache-audit.md": "106909860bc6888db550801f4d41bd21f0de82810ece2f9606e5d1fc983138b2",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-year-2025-render",
+      "revision": "c520555c40beece2e38f62878e2d4cc1b312c505",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "c192c54f882171dafc74c038ec769f1e68bf8020d12a342d2334086b5b5ee5ea",
+      "size": 36998168
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.cumulative/love-death-robots-04-cumulative-btiha.geojson.gz",
+        "sha256": "bb97f8d3af4a5d7df92cb416e81d1611eef754b45be0befc281b3bf07ddb0d7e",
+        "size": 25067208
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/json/love-death-robots-04-cumulative-btiha-media-objects.json",
+        "sha256": "d27a522cc2d8326d10ae1e758180ae1dd3b61b2bb3b00ef6211f0cdffaaf810e",
+        "size": 556516
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/izzi",
+      "revision": "b988ee7fd690a74a696c27c9aadf40c204a4c780",
+      "untracked": false
+    },
+    "media_object": "love-death-robots-04",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60-results-2025/bin/a60-meta-collection.exe",
+      "sha256": "e71f9def936a6868d5282a5ff7dece07ade360eefa07abebde75434a927220f7",
+      "size": 8743680
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          89.0,
+          53.0,
+          43.0,
+          37.0,
+          37.0,
+          36.0,
+          32.0,
+          30.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Seoul",
+          "Moscow",
+          "Saint Petersburg",
+          "London",
+          "Amsterdam",
+          "Istanbul",
+          "Shanghai",
+          "Nanjing",
+          "Lelystad",
+          "Incheon"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          80.0,
+          48.0,
+          32.0,
+          29.0,
+          28.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Seoul",
+          "Moscow",
+          "Saint Petersburg",
+          "Istanbul",
+          "Shanghai",
+          "Nanjing",
+          "Lelystad",
+          "London",
+          "Amsterdam",
+          "Incheon"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 21,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 26,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 6,
+        "x_tick_marks": 6,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 15,
+        "y_tick_labels": 20
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "c520555c40beece2e38f62878e2d4cc1b312c505",
+    "cartofreako": "fc58111b5bfa7667b12f6ade522ae5e566b464d1",
+    "izzi": "b988ee7fd690a74a696c27c9aadf40c204a4c780",
+    "metadata": "fbeb53a0b523f937fae2f23d14689d8c5c84dd5a",
+    "results_aao_adoption": "9cd9d91a6fbb560ac2a96beadf4c83b94daf6a88"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2025"
+}

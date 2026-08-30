@@ -1,0 +1,1032 @@
+{
+  "archive": {
+    "path": "/home/bkoz/src/alpha60-xperiments/year-2025-archives/love-death-robots-04.cache/cache.20250827.tar.xz",
+    "sha256": "45eb46df99bc25e9c1564470c755f2bf8b96e2cdc5dc85d87dbc39ba6aac35bf",
+    "size": 1590853356
+  },
+  "authorization": {
+    "archive_mutated": false,
+    "excluded_member_classes": [
+      "hour",
+      "week",
+      "cumulative"
+    ],
+    "raw_samples_opened": false,
+    "scope": "read only streaming of per-torrent day records"
+  },
+  "collection_key": "love-death-robots-04",
+  "day_cache_stream_contract": {
+    "authorization": {
+      "archive_mutated": false,
+      "excluded_member_classes": [
+        "hour",
+        "week",
+        "cumulative"
+      ],
+      "raw_samples_opened": false,
+      "scope": "read only streaming of per-torrent day records"
+    },
+    "available_day_products": 105,
+    "cache_members": 26056,
+    "collection_key": "love-death-robots-04",
+    "first_date": "2025-05-15",
+    "first_index": 1,
+    "indices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "last_date": "2025-08-27",
+    "last_index": 105,
+    "missing_indices": [],
+    "sample_span_days": 105,
+    "schema": "alpha60-day-cache-stream-contract/1",
+    "sparse": false,
+    "status": "pass"
+  },
+  "day_product_contract": {
+    "collection_key": "love-death-robots-04",
+    "day_products": 105,
+    "first_date": "2025-05-15",
+    "first_index": 1,
+    "geojson_data_version": "20260701",
+    "ip_geolocation_version": "6:1777968300",
+    "json_data_version": "2026-08-05",
+    "last_date": "2025-08-27",
+    "last_index": 105,
+    "schema": "alpha60-day-product-contract/1",
+    "sparse": false,
+    "status": "pass"
+  },
+  "publications": {
+    "data/geojson.day/love-death-robots-04-day-00001.geojson.gz": {
+      "sha256": "722e6c36aa89f28b0d37c96796cb3c59118794cd7a9b6514b93abcf0186777f1",
+      "size": 120782
+    },
+    "data/geojson.day/love-death-robots-04-day-00002.geojson.gz": {
+      "sha256": "5bec860b7150d9bd828ae3129d569caf0ad0f33385a5e915860fbf9612a74d01",
+      "size": 211459
+    },
+    "data/geojson.day/love-death-robots-04-day-00003.geojson.gz": {
+      "sha256": "d2a31296f8d719e6c2f559705034c5520a1adc53b9143a7da52fd9b313869dc3",
+      "size": 197161
+    },
+    "data/geojson.day/love-death-robots-04-day-00004.geojson.gz": {
+      "sha256": "b4f10235f2f187b46ab956f95a0bfdb255f7f2ab9040860ec011731f6916399e",
+      "size": 194195
+    },
+    "data/geojson.day/love-death-robots-04-day-00005.geojson.gz": {
+      "sha256": "c8dde98aa0e9bfcb444fdd4f47afb27c144c2519398459cad68317909b3e1627",
+      "size": 191484
+    },
+    "data/geojson.day/love-death-robots-04-day-00006.geojson.gz": {
+      "sha256": "f7c88bf400552888d0ee0a2c4bda5cef678cca77467612bfcef09678f197d5df",
+      "size": 187123
+    },
+    "data/geojson.day/love-death-robots-04-day-00007.geojson.gz": {
+      "sha256": "89e34a0969c2aa57eeb7ca6805d98cae4e457834caec0863b6b147e6f6a23ead",
+      "size": 194568
+    },
+    "data/geojson.day/love-death-robots-04-day-00008.geojson.gz": {
+      "sha256": "7ea1d4332b9eb56746e0a95d4aa6e45aed49b46155144b67b466b0f8514f942b",
+      "size": 228884
+    },
+    "data/geojson.day/love-death-robots-04-day-00009.geojson.gz": {
+      "sha256": "ebc1d5c143691069af984b1759d0a4046b6fc01ddba99a11e388f91fbf781f6e",
+      "size": 217249
+    },
+    "data/geojson.day/love-death-robots-04-day-00010.geojson.gz": {
+      "sha256": "b057824632122e29e05ee384ffab1621160eacbb74b897141bd9046d301358b0",
+      "size": 220081
+    },
+    "data/geojson.day/love-death-robots-04-day-00011.geojson.gz": {
+      "sha256": "36bd80a0ea24c53df0e8d5a07ba5fa4cae35140cb3450bc02adb0ad0bddfd9e7",
+      "size": 229452
+    },
+    "data/geojson.day/love-death-robots-04-day-00012.geojson.gz": {
+      "sha256": "9612c857a477db367278bff3f9d57d4fbc9dfa8ad7d9c5a8974e7213579f008f",
+      "size": 237542
+    },
+    "data/geojson.day/love-death-robots-04-day-00013.geojson.gz": {
+      "sha256": "4651764ef16f945ea23c3813a7d54c73a37f83ea52f9e96489c0dd8347ca4e54",
+      "size": 226438
+    },
+    "data/geojson.day/love-death-robots-04-day-00014.geojson.gz": {
+      "sha256": "517081ae7575520b497c380ee6dd089271a7eaaf47a70857c83ce1b832e66d72",
+      "size": 218483
+    },
+    "data/geojson.day/love-death-robots-04-day-00015.geojson.gz": {
+      "sha256": "c107b17106f25d9e9806a66746de488c63d76792a10164e1d83afe3c590520b3",
+      "size": 213064
+    },
+    "data/geojson.day/love-death-robots-04-day-00016.geojson.gz": {
+      "sha256": "8d3bcc2fc6752be7bb8d6785aab81b8293eecd168be0cb605156aee0318b042f",
+      "size": 211747
+    },
+    "data/geojson.day/love-death-robots-04-day-00017.geojson.gz": {
+      "sha256": "7147ce053156c360674ea4c85994f702da59f379f8f699d455db6c81d39ad9de",
+      "size": 210994
+    },
+    "data/geojson.day/love-death-robots-04-day-00018.geojson.gz": {
+      "sha256": "c8ae8dcdcdb88d897e7a31aac66fb5d7838754a3b49eb54cfce24abfce0914e0",
+      "size": 233322
+    },
+    "data/geojson.day/love-death-robots-04-day-00019.geojson.gz": {
+      "sha256": "3695b8e90cdb9eb265ce7ddaee89e8e39370d4593e04e7908cfd1a0aa255cb93",
+      "size": 244352
+    },
+    "data/geojson.day/love-death-robots-04-day-00020.geojson.gz": {
+      "sha256": "ec6f0ea6111dc9a2c9464208d0af10e7ee330d91a342c97d5f94cf62ea4ac074",
+      "size": 253928
+    },
+    "data/geojson.day/love-death-robots-04-day-00021.geojson.gz": {
+      "sha256": "ff728ef1803db0f76a04f80528b4365da6e3ded1b2a1dc0676e1e0daa3c6bf79",
+      "size": 248160
+    },
+    "data/geojson.day/love-death-robots-04-day-00022.geojson.gz": {
+      "sha256": "727a2f6542877d205886fd43244bcb2077e9f35b0ba3e14bba34059613c99367",
+      "size": 259403
+    },
+    "data/geojson.day/love-death-robots-04-day-00023.geojson.gz": {
+      "sha256": "a08399fdfc43886a4ba36ebc23c2ed2aaca3b3a8ada74c65f2792de0fc25ece9",
+      "size": 238786
+    },
+    "data/geojson.day/love-death-robots-04-day-00024.geojson.gz": {
+      "sha256": "23e82cfd83dff698e92d20469346639b2d291569a5bfedad9aca52dfba6ad0cf",
+      "size": 236262
+    },
+    "data/geojson.day/love-death-robots-04-day-00025.geojson.gz": {
+      "sha256": "852f1e28877c59922cbdaae039c71ea5aa95c7db9e3dd582ba1a502f0ade39b0",
+      "size": 228844
+    },
+    "data/geojson.day/love-death-robots-04-day-00026.geojson.gz": {
+      "sha256": "0ce2896c30e2aa1cce33176d06c497e3401e97b78a3fc3c77c7874c7910dcbf4",
+      "size": 247973
+    },
+    "data/geojson.day/love-death-robots-04-day-00027.geojson.gz": {
+      "sha256": "84124a17d45ad342c7a45d2c016964e4bdd8d7a2b0efa6ba54caa4f0b6ac31c7",
+      "size": 240878
+    },
+    "data/geojson.day/love-death-robots-04-day-00028.geojson.gz": {
+      "sha256": "754dcf0a821d6281c1047d8841f4ff284edd92ad2fa28c6276255c4fdc6e873b",
+      "size": 240681
+    },
+    "data/geojson.day/love-death-robots-04-day-00029.geojson.gz": {
+      "sha256": "0951b1b9cdfc45a1118450ad8af587e91fe503fcec4d762005f22f36c67c9d35",
+      "size": 224732
+    },
+    "data/geojson.day/love-death-robots-04-day-00030.geojson.gz": {
+      "sha256": "9825ca4b1130008848e89a11548f647214331e176903a80a0976ee4fe9fa69c7",
+      "size": 203704
+    },
+    "data/geojson.day/love-death-robots-04-day-00031.geojson.gz": {
+      "sha256": "9bb058c749cacd507141e407eba23e954ee2190c2641502503a2a4bf0f30fa9e",
+      "size": 209951
+    },
+    "data/geojson.day/love-death-robots-04-day-00032.geojson.gz": {
+      "sha256": "1d2fa3a6ef78f36b3e325d0a7b90ae42269811c022eb86825b59aa6e7b3dfbab",
+      "size": 205656
+    },
+    "data/geojson.day/love-death-robots-04-day-00033.geojson.gz": {
+      "sha256": "5e44eae529ed0f6e7ec954c3a1ac911b656849ae6b68a8cb1c9e3d88e23c012d",
+      "size": 235031
+    },
+    "data/geojson.day/love-death-robots-04-day-00034.geojson.gz": {
+      "sha256": "4c740cd52b47efc321c6bc495a9803b875cf564f09cb515c21759b3018552830",
+      "size": 232470
+    },
+    "data/geojson.day/love-death-robots-04-day-00035.geojson.gz": {
+      "sha256": "6eb4a9562e274378b106da8f39c44c0fa05dfd13ddfadda64da02b0680b67855",
+      "size": 214647
+    },
+    "data/geojson.day/love-death-robots-04-day-00036.geojson.gz": {
+      "sha256": "07f091d0bd92038a71ec605a6d209feb403b4a9774c8d2c1ef15486acaa3dc43",
+      "size": 226701
+    },
+    "data/geojson.day/love-death-robots-04-day-00037.geojson.gz": {
+      "sha256": "674c2b9efa459d5844a8cf05091beba486efc5c04adf2f7518a5a5ffe5b7a475",
+      "size": 228765
+    },
+    "data/geojson.day/love-death-robots-04-day-00038.geojson.gz": {
+      "sha256": "634031e68c617ca675f36260d8247ada49edbc87418d9b483488199baea3861d",
+      "size": 215050
+    },
+    "data/geojson.day/love-death-robots-04-day-00039.geojson.gz": {
+      "sha256": "10f075414edf00f5fe9c4a0b30d8354a4b75704ef473ba1cf8a904e133db9527",
+      "size": 214033
+    },
+    "data/geojson.day/love-death-robots-04-day-00040.geojson.gz": {
+      "sha256": "7cc616b5703209c6a7fe50e5bd71af03720423115588fe65faef5bd4c954aaad",
+      "size": 237776
+    },
+    "data/geojson.day/love-death-robots-04-day-00041.geojson.gz": {
+      "sha256": "76d81706b8333bdc289ddb2e417302304aaab6436e7fa4215d5145af0c31c286",
+      "size": 234043
+    },
+    "data/geojson.day/love-death-robots-04-day-00042.geojson.gz": {
+      "sha256": "a22da2d530cf64574a620328019c3f070d11379e26b3d863ee465f2101f96765",
+      "size": 238997
+    },
+    "data/geojson.day/love-death-robots-04-day-00043.geojson.gz": {
+      "sha256": "e3a2e1d522e00f7993270a74dc6112f56097aa97f2405e817ae3fcb942ec4673",
+      "size": 224808
+    },
+    "data/geojson.day/love-death-robots-04-day-00044.geojson.gz": {
+      "sha256": "e2a76b0f921c5dca95651f12a4d96e5080e9579a624a96bfce7ed5ed8b0aa7fd",
+      "size": 230997
+    },
+    "data/geojson.day/love-death-robots-04-day-00045.geojson.gz": {
+      "sha256": "1601194b50b8b4a20c4d1de0eda592336f486a8bddfecbb6efb0a83616ab23ce",
+      "size": 219657
+    },
+    "data/geojson.day/love-death-robots-04-day-00046.geojson.gz": {
+      "sha256": "040a20c2643806d51b3389e922ae33dbfba5787e906110b1f1f32c48eca4a677",
+      "size": 211458
+    },
+    "data/geojson.day/love-death-robots-04-day-00047.geojson.gz": {
+      "sha256": "96c548a804a42c731a3e89b003aa3fdf4f78e914eb795107f5b035ae0d2ec2c0",
+      "size": 230902
+    },
+    "data/geojson.day/love-death-robots-04-day-00048.geojson.gz": {
+      "sha256": "b7d8f692fe9a3022322a2356628cd45afb07f47c7decda0711e964f49bd1779c",
+      "size": 219258
+    },
+    "data/geojson.day/love-death-robots-04-day-00049.geojson.gz": {
+      "sha256": "7d2b8da0638782c1151934a71d94215cee280ea64a1b0bb1036743ff048e0028",
+      "size": 194340
+    },
+    "data/geojson.day/love-death-robots-04-day-00050.geojson.gz": {
+      "sha256": "23574dd8dd8ad21730c0dc12b23de379eecc2511bfc582e2342e20721350ce36",
+      "size": 211208
+    },
+    "data/geojson.day/love-death-robots-04-day-00051.geojson.gz": {
+      "sha256": "03b9ab3c1423fd0e950d815412575316cc6ff4df579e5b5962db762bb5f9a137",
+      "size": 238804
+    },
+    "data/geojson.day/love-death-robots-04-day-00052.geojson.gz": {
+      "sha256": "172058cd959c820d96efce80dda351a409126d961f8d36b774adb01a43613be1",
+      "size": 206918
+    },
+    "data/geojson.day/love-death-robots-04-day-00053.geojson.gz": {
+      "sha256": "7f0ff1e186a4782110feb7506836c5b36db4617bbe1f81302f5dc70120ef6fe8",
+      "size": 213906
+    },
+    "data/geojson.day/love-death-robots-04-day-00054.geojson.gz": {
+      "sha256": "dd3cc40f330edc22b4cafbad4a73a41e47a21e6ba4c6c058bc6870944265ed7c",
+      "size": 225653
+    },
+    "data/geojson.day/love-death-robots-04-day-00055.geojson.gz": {
+      "sha256": "30e157b67e5a700f17703ce8589fb5e40ba54a20ef68b2591759d3b51a705072",
+      "size": 213037
+    },
+    "data/geojson.day/love-death-robots-04-day-00056.geojson.gz": {
+      "sha256": "dbe934922e7d39519ad3bd22f16f5082c55cd64666e8f8eaab86e18179f32a49",
+      "size": 223750
+    },
+    "data/geojson.day/love-death-robots-04-day-00057.geojson.gz": {
+      "sha256": "a5e2bac962fcd0a0369f2462cba225b5cb46904c646fc0277ba6366ec0813224",
+      "size": 236818
+    },
+    "data/geojson.day/love-death-robots-04-day-00058.geojson.gz": {
+      "sha256": "5ee08a2335a8584076b97d6fbada568ef04eb272e1c2c9c2721d0178803b64bd",
+      "size": 224399
+    },
+    "data/geojson.day/love-death-robots-04-day-00059.geojson.gz": {
+      "sha256": "e2f25c9c2ab51986a4c2b9d31c2c541072fabe2e09c03a7e955042fc2c122d77",
+      "size": 223045
+    },
+    "data/geojson.day/love-death-robots-04-day-00060.geojson.gz": {
+      "sha256": "5c28cfcd65c098df2c593df4e99a16494f625c9888456369fe4416ef7e98aeb6",
+      "size": 211995
+    },
+    "data/geojson.day/love-death-robots-04-day-00061.geojson.gz": {
+      "sha256": "f085b4040de3880099f01013a8d02f092921a4c7a5ed283bac360c95971a323c",
+      "size": 214573
+    },
+    "data/geojson.day/love-death-robots-04-day-00062.geojson.gz": {
+      "sha256": "81fa8c17966917cfd239c252fd0990067c2336a5d029e7232ef5f121d641a2ea",
+      "size": 181840
+    },
+    "data/geojson.day/love-death-robots-04-day-00063.geojson.gz": {
+      "sha256": "3614d89fd7466138bb7dd5cc76b0513c6a5849229855dbcbd2e3969e53088968",
+      "size": 196398
+    },
+    "data/geojson.day/love-death-robots-04-day-00064.geojson.gz": {
+      "sha256": "f2a0273fcf035317794e18e492a35119fd681e583321449d6045b097138796ac",
+      "size": 190405
+    },
+    "data/geojson.day/love-death-robots-04-day-00065.geojson.gz": {
+      "sha256": "a4be43ebd399b8b488aff47170adc363fcfcddcead5ac2e561c2dfa948f41f39",
+      "size": 208497
+    },
+    "data/geojson.day/love-death-robots-04-day-00066.geojson.gz": {
+      "sha256": "f5fef6551aab922d2652410f9e4c4f16e8cbfae8ff4723935fe82212d359387f",
+      "size": 181807
+    },
+    "data/geojson.day/love-death-robots-04-day-00067.geojson.gz": {
+      "sha256": "9b3b233d7e827bc4a0c918e32d62f5ec557737dcb469ec2e83331e53636d59ac",
+      "size": 188540
+    },
+    "data/geojson.day/love-death-robots-04-day-00068.geojson.gz": {
+      "sha256": "2e55c39a8e5a4017d25d0373adaf1f42aebb154231f99aa19372b6a1838f4f2b",
+      "size": 235326
+    },
+    "data/geojson.day/love-death-robots-04-day-00069.geojson.gz": {
+      "sha256": "bf695e3c7c4e10ba72d6ed3d9e1831ae1b292033667950d5b3b0446a2dbb3913",
+      "size": 199816
+    },
+    "data/geojson.day/love-death-robots-04-day-00070.geojson.gz": {
+      "sha256": "edd52ec1c1d71746c78f7e1c3a97973cbb1c5e97eb451f66e63449060ef89f97",
+      "size": 208400
+    },
+    "data/geojson.day/love-death-robots-04-day-00071.geojson.gz": {
+      "sha256": "e752e854ec1b924f80bbb8027a37a3cb5a91fb39d1a32d86c3a304d65fa74fa5",
+      "size": 198821
+    },
+    "data/geojson.day/love-death-robots-04-day-00072.geojson.gz": {
+      "sha256": "ed2fa0ab29fc7c4ba6e2f101367b028d69c3fd6c0c1eed71732582eb78f2f8e4",
+      "size": 182191
+    },
+    "data/geojson.day/love-death-robots-04-day-00073.geojson.gz": {
+      "sha256": "bae58ce3c375f28865852d17b133c7eee2232f3b21a1fa1598537e49e0625aaf",
+      "size": 181259
+    },
+    "data/geojson.day/love-death-robots-04-day-00074.geojson.gz": {
+      "sha256": "20394880ecd6fe9a1564dff8aaee2fe82231306f1130cc8e0507eeacbf536c0e",
+      "size": 210036
+    },
+    "data/geojson.day/love-death-robots-04-day-00075.geojson.gz": {
+      "sha256": "f831f71b00b0534ba838bded270ce097f4ec6ee2602d699ae8bea2cd78f01400",
+      "size": 238413
+    },
+    "data/geojson.day/love-death-robots-04-day-00076.geojson.gz": {
+      "sha256": "b88425be6580cbbb758c7827167d47a5fde0811139120f23a18a08b2dda9260a",
+      "size": 247046
+    },
+    "data/geojson.day/love-death-robots-04-day-00077.geojson.gz": {
+      "sha256": "50604c838279543125900356b042fd2caf1806f03e0f53c037edab43552e230c",
+      "size": 253977
+    },
+    "data/geojson.day/love-death-robots-04-day-00078.geojson.gz": {
+      "sha256": "098373cbc3310f2749f25f856fe9acae1df7ee6dc9cddadbf57ee643b1317653",
+      "size": 250646
+    },
+    "data/geojson.day/love-death-robots-04-day-00079.geojson.gz": {
+      "sha256": "e49cffe8cd7cafc0ac0985de89be1caa0281a9f851e49990e0465ce3f414ea28",
+      "size": 299039
+    },
+    "data/geojson.day/love-death-robots-04-day-00080.geojson.gz": {
+      "sha256": "4b3cfa0a5ef456c65c5bebd1dff5bb7546e108268ce2ac1f14d3680aba2e8664",
+      "size": 203039
+    },
+    "data/geojson.day/love-death-robots-04-day-00081.geojson.gz": {
+      "sha256": "7f05faef81164d240acfad6ad375ae83002d3d2aac8409b93cf0c11799db99df",
+      "size": 231680
+    },
+    "data/geojson.day/love-death-robots-04-day-00082.geojson.gz": {
+      "sha256": "db8179ed2a142a83f26ce1d2a397e829ee6ffd27f9aff14716d06eb582962540",
+      "size": 217815
+    },
+    "data/geojson.day/love-death-robots-04-day-00083.geojson.gz": {
+      "sha256": "985e38cc915bd862b21ac19310bed4277e46436fe59de86cc7da3a339d2458e7",
+      "size": 80266
+    },
+    "data/geojson.day/love-death-robots-04-day-00084.geojson.gz": {
+      "sha256": "36c621c2ae4f84e492735d524c9962b5ff14847333893dbcf58a80b8a52514c1",
+      "size": 220939
+    },
+    "data/geojson.day/love-death-robots-04-day-00085.geojson.gz": {
+      "sha256": "af80b111e1243c0b0dce034ee9187eeae15bdeb89e926cbacb9b992608bcb695",
+      "size": 235713
+    },
+    "data/geojson.day/love-death-robots-04-day-00086.geojson.gz": {
+      "sha256": "82fa62dd11dbd644685565291a7bf149842f653dbcacfd1b92800fba7bfd1d65",
+      "size": 226693
+    },
+    "data/geojson.day/love-death-robots-04-day-00087.geojson.gz": {
+      "sha256": "bc3c05b30b9226532114c05c4cf93aefcb8e674b79077e738478a4282a6f3f44",
+      "size": 199010
+    },
+    "data/geojson.day/love-death-robots-04-day-00088.geojson.gz": {
+      "sha256": "dfd21c02df338efeac043d7029b3af0fd10b6191a304e683939bb9af08b0ef33",
+      "size": 217204
+    },
+    "data/geojson.day/love-death-robots-04-day-00089.geojson.gz": {
+      "sha256": "54ad76d488b7ac3b90b71edca94b78255d23d8a0bd972b13e1682b7631066d86",
+      "size": 239227
+    },
+    "data/geojson.day/love-death-robots-04-day-00090.geojson.gz": {
+      "sha256": "f74b3995343068415440cb24ae8335cac4f21ab1297d273cca9a423d15baad89",
+      "size": 226141
+    },
+    "data/geojson.day/love-death-robots-04-day-00091.geojson.gz": {
+      "sha256": "ba3da02dba79b5088235d057ec7edfb335ecf31e42bcea3daab8fd151fd361ac",
+      "size": 215581
+    },
+    "data/geojson.day/love-death-robots-04-day-00092.geojson.gz": {
+      "sha256": "e14a57c2c5d20a81b09870289d0f345e6886a950b32eaff14061c59ff4149dff",
+      "size": 208223
+    },
+    "data/geojson.day/love-death-robots-04-day-00093.geojson.gz": {
+      "sha256": "05db62ca9ec1714bbd90c397435d154c058cabd8dcce9eda1b34600696be9eb0",
+      "size": 194667
+    },
+    "data/geojson.day/love-death-robots-04-day-00094.geojson.gz": {
+      "sha256": "a036a00b72d4cd174a93f6e39d1ab37afab73bb07bce27db6928d87c9d9e9d71",
+      "size": 190765
+    },
+    "data/geojson.day/love-death-robots-04-day-00095.geojson.gz": {
+      "sha256": "979711841b12278f5cbee9dfec1fae32aae40d4711a4a24dd6cd38a7f425f575",
+      "size": 189673
+    },
+    "data/geojson.day/love-death-robots-04-day-00096.geojson.gz": {
+      "sha256": "13b337ab2bedd6cc2152c332a99f0be08e57c4319820baee47ba6b2450c4b134",
+      "size": 207978
+    },
+    "data/geojson.day/love-death-robots-04-day-00097.geojson.gz": {
+      "sha256": "9ffa31c6f9cca94c69eff73869024f1f1a381d59c18111d2750e6e884081f74d",
+      "size": 203289
+    },
+    "data/geojson.day/love-death-robots-04-day-00098.geojson.gz": {
+      "sha256": "bbcd66a71a6ccbc6a34658e25e5f9616204de8354c8811d014b409d7b9e73f34",
+      "size": 206313
+    },
+    "data/geojson.day/love-death-robots-04-day-00099.geojson.gz": {
+      "sha256": "d51ff8a52a3e886352e03499e0d7e9d21d411a20cef9e79368626005b4cb5e9a",
+      "size": 220457
+    },
+    "data/geojson.day/love-death-robots-04-day-00100.geojson.gz": {
+      "sha256": "8e245fae30f92782b8c072c8e6330ec148f5480acdd7b54f7d94e248d369e7a8",
+      "size": 209224
+    },
+    "data/geojson.day/love-death-robots-04-day-00101.geojson.gz": {
+      "sha256": "abc1a9a7fb0e2e69b5b6f8cc7d27f13a0f8e557e2bc88e5de887cfb136a21f6e",
+      "size": 206360
+    },
+    "data/geojson.day/love-death-robots-04-day-00102.geojson.gz": {
+      "sha256": "559e4bd9a8b7a460839ca84c428209d77e3e5403974a8735204a69f8c4a33fdc",
+      "size": 190421
+    },
+    "data/geojson.day/love-death-robots-04-day-00103.geojson.gz": {
+      "sha256": "a2cd56670cda03eda626b4baf95e7a71a90ddbb19516e370a436763d707ca15f",
+      "size": 217868
+    },
+    "data/geojson.day/love-death-robots-04-day-00104.geojson.gz": {
+      "sha256": "02dbf7286f71174d380d6b2d3120b939bd7c90ddebe828d65081e7322e30364c",
+      "size": 178721
+    },
+    "data/geojson.day/love-death-robots-04-day-00105.geojson.gz": {
+      "sha256": "4b9c08b30d2c8e91ece1ac97af3cb1cba0d86cd6e787e6e99f0844f6197d1793",
+      "size": 134220
+    },
+    "data/json/love-death-robots-04-swarm-day-00001-2025-05-15.json": {
+      "sha256": "41fc4c65501e04dc621bc7e55a51d13fa522ac4b81bbe8a99c3facb4bc3e3fe9",
+      "size": 457
+    },
+    "data/json/love-death-robots-04-swarm-day-00002-2025-05-16.json": {
+      "sha256": "4fdf6a67831a2f62d93cdcb9b130966aa5a29e0ba071171f4768943280a3da96",
+      "size": 458
+    },
+    "data/json/love-death-robots-04-swarm-day-00003-2025-05-17.json": {
+      "sha256": "d9f628b01382909b54a7ca6616cf2bb5be3a8d937af05b7fe311739cfb23af67",
+      "size": 458
+    },
+    "data/json/love-death-robots-04-swarm-day-00004-2025-05-18.json": {
+      "sha256": "14a1f16d7ef27403b50ee8657c4359624a011c4cbbd49399f2568048a85ac40c",
+      "size": 458
+    },
+    "data/json/love-death-robots-04-swarm-day-00005-2025-05-19.json": {
+      "sha256": "891a8f13115a1abacb3588dc75b916cc96c1621aedd17960a52ede010dc2b7bc",
+      "size": 457
+    },
+    "data/json/love-death-robots-04-swarm-day-00006-2025-05-20.json": {
+      "sha256": "bfc27e77da8f7d15f7aba5750f4f5181c3199157a829f17c8a69f38d1ef7a733",
+      "size": 457
+    },
+    "data/json/love-death-robots-04-swarm-day-00007-2025-05-21.json": {
+      "sha256": "ba23d821db47192fb1c97ea84de8bdc4ac11a55ea7004e821d6fcc6a9f4572d0",
+      "size": 457
+    },
+    "data/json/love-death-robots-04-swarm-day-00008-2025-05-22.json": {
+      "sha256": "9f1f4b22b089953bb5913e807d4d4f44744b7fe791d62b1856d8ac8c4ba64737",
+      "size": 458
+    },
+    "data/json/love-death-robots-04-swarm-day-00009-2025-05-23.json": {
+      "sha256": "ed1c1e3d8f7896d5cf9dc629350f94cfe9bfd094237c773fafd2518896babeaf",
+      "size": 458
+    },
+    "data/json/love-death-robots-04-swarm-day-00010-2025-05-24.json": {
+      "sha256": "3f8978e79a86d9ed28ff7b1f1df9b68d124dc25c31c05005237b43ef4d305c34",
+      "size": 459
+    },
+    "data/json/love-death-robots-04-swarm-day-00011-2025-05-25.json": {
+      "sha256": "db953a1bc8d9cfcf86eab07c58baf490eb348c3871fd8e30ec4c6da35150336a",
+      "size": 459
+    },
+    "data/json/love-death-robots-04-swarm-day-00012-2025-05-26.json": {
+      "sha256": "05b58891cfee2c03428ed3fd460b4d5589bc5a045a6eabba7757c256fcf1af49",
+      "size": 459
+    },
+    "data/json/love-death-robots-04-swarm-day-00013-2025-05-27.json": {
+      "sha256": "eef63dd3afbb76f60b8c8c6b90cf4a4e5f3d8d221743b6b05b0106a109bc3e1a",
+      "size": 458
+    },
+    "data/json/love-death-robots-04-swarm-day-00014-2025-05-28.json": {
+      "sha256": "a26a64128732c3e3d2073d53f7c98dcdf02334b8f21cbfe114c76eb5f744d41d",
+      "size": 458
+    },
+    "data/json/love-death-robots-04-swarm-day-00015-2025-05-29.json": {
+      "sha256": "de5456d2ded7641cfc4ba1f4b66cfcc6ac4968b94d36743298e7812fd27d00df",
+      "size": 458
+    },
+    "data/json/love-death-robots-04-swarm-day-00016-2025-05-30.json": {
+      "sha256": "972a258410d5ccf9718057e5e9547da9169231eda2d87376e29f0bf5e5f8a872",
+      "size": 458
+    },
+    "data/json/love-death-robots-04-swarm-day-00017-2025-05-31.json": {
+      "sha256": "993c966fd631d4e6a0ce3cf546525924afeb640ad73b0d708649584c82f7a4bb",
+      "size": 458
+    },
+    "data/json/love-death-robots-04-swarm-day-00018-2025-06-01.json": {
+      "sha256": "87b619be3beba47444654a0106588118e9b9fd365612a27bd9e446c943dfe4e6",
+      "size": 458
+    },
+    "data/json/love-death-robots-04-swarm-day-00019-2025-06-02.json": {
+      "sha256": "17a839a8cef1f71e5012e9160af271462770202ba3b98c1ef360e8c428a324a5",
+      "size": 458
+    },
+    "data/json/love-death-robots-04-swarm-day-00020-2025-06-03.json": {
+      "sha256": "2ac040ff4242a1d13f7edf8e924f78892f2514326242093f03c567cb7329b0b0",
+      "size": 458
+    },
+    "data/json/love-death-robots-04-swarm-day-00021-2025-06-04.json": {
+      "sha256": "769b1fc23745485099d5056faef7c8282967fc2370ffcbc346a75878ebbd3eea",
+      "size": 458
+    },
+    "data/json/love-death-robots-04-swarm-day-00022-2025-06-05.json": {
+      "sha256": "5e9d083c008ac4f0c45a4b1166abd095863959b3efcaede1cd02a9dadfbccc5a",
+      "size": 458
+    },
+    "data/json/love-death-robots-04-swarm-day-00023-2025-06-06.json": {
+      "sha256": "bdd54e96da42c0a8e5a5ffa94d32b06b95249586a62a408a69d3f02d4cc17039",
+      "size": 458
+    },
+    "data/json/love-death-robots-04-swarm-day-00024-2025-06-07.json": {
+      "sha256": "56433c8f19aeece53516b9b930cd07987300b12d0c10929aaeb3dd1a4e057fad",
+      "size": 458
+    },
+    "data/json/love-death-robots-04-swarm-day-00025-2025-06-08.json": {
+      "sha256": "e6f2a8316bcde3a08ee92f831b4f9805fdd6f24bda4d41cbd6a7344b33fb48f6",
+      "size": 458
+    },
+    "data/json/love-death-robots-04-swarm-day-00026-2025-06-09.json": {
+      "sha256": "f84186bcc0b39606562eb10f8f92d32e067c4391fe5a8e8f8890364214d79e13",
+      "size": 458
+    },
+    "data/json/love-death-robots-04-swarm-day-00027-2025-06-10.json": {
+      "sha256": "a931a24ed6260ca4037e681b3283d4c6922406f7cf2e6c6ed2a54f33ee891c08",
+      "size": 458
+    },
+    "data/json/love-death-robots-04-swarm-day-00028-2025-06-11.json": {
+      "sha256": "92da79bfa1e18fedc9e8ed666d924bf0b2cbf5ed0305d434fb852a9c0cdba3ca",
+      "size": 458
+    },
+    "data/json/love-death-robots-04-swarm-day-00029-2025-06-12.json": {
+      "sha256": "f9b30cf79889a749a1f2e8d7c30863cf62f94820f4941a68c159c9da92efdef0",
+      "size": 458
+    },
+    "data/json/love-death-robots-04-swarm-day-00030-2025-06-13.json": {
+      "sha256": "531baa48b1c8edb18d152155448c60eb8dad29510e2cc3514176eb5e58588ddb",
+      "size": 458
+    },
+    "data/json/love-death-robots-04-swarm-day-00031-2025-06-14.json": {
+      "sha256": "fe3a0c15a6232f25166932479c46d7f1a07a017a2b5e601f1fdf4ff57871dd5b",
+      "size": 458
+    },
+    "data/json/love-death-robots-04-swarm-day-00032-2025-06-15.json": {
+      "sha256": "92dfe18d3d632926463acc35b10eeabbf87fb113b376df05d9c9599e00b07d1d",
+      "size": 458
+    },
+    "data/json/love-death-robots-04-swarm-day-00033-2025-06-16.json": {
+      "sha256": "737f2837e9af0e681094936a56bca73be7ec410b1441afd8a01af073c4280e03",
+      "size": 458
+    },
+    "data/json/love-death-robots-04-swarm-day-00034-2025-06-17.json": {
+      "sha256": "d956e5bf2ea99025aa50f74cb2bfd15d55c4539fbed5275c59d2461ae7a54dc1",
+      "size": 458
+    },
+    "data/json/love-death-robots-04-swarm-day-00035-2025-06-18.json": {
+      "sha256": "6b072eb41e439385d01b9b71bef54400ab30b3f5cc2128b62e5fa47ccde65570",
+      "size": 458
+    },
+    "data/json/love-death-robots-04-swarm-day-00036-2025-06-19.json": {
+      "sha256": "a317f51d03a8a54a205c770c468b6ec3c79eb809d10cee836193ca598350186f",
+      "size": 458
+    },
+    "data/json/love-death-robots-04-swarm-day-00037-2025-06-20.json": {
+      "sha256": "d182236ca99f332bc8ed40aed6a9ed9c12156a7779255b66840f34486d938fb9",
+      "size": 458
+    },
+    "data/json/love-death-robots-04-swarm-day-00038-2025-06-21.json": {
+      "sha256": "d4adaaef8d86eacc570f7a2e281c5c5eadc134892fa71382baa755634a3109aa",
+      "size": 458
+    },
+    "data/json/love-death-robots-04-swarm-day-00039-2025-06-22.json": {
+      "sha256": "767a33cd2c055b2ade678587d20a62329432177ede27e5b441817f4b21a878bd",
+      "size": 458
+    },
+    "data/json/love-death-robots-04-swarm-day-00040-2025-06-23.json": {
+      "sha256": "1e1433916b92166af1dffb206c8b56bf97396052cef78d23bddd86a84bbceec9",
+      "size": 458
+    },
+    "data/json/love-death-robots-04-swarm-day-00041-2025-06-24.json": {
+      "sha256": "2a18787f67c7dd470d5cd1cf98536799129516658fe3e3fbeb0bebb709b207ea",
+      "size": 458
+    },
+    "data/json/love-death-robots-04-swarm-day-00042-2025-06-25.json": {
+      "sha256": "c74b094bd424265d0d71d1394a2d2de6d6cf671569ef71f271dda26c487ac379",
+      "size": 458
+    },
+    "data/json/love-death-robots-04-swarm-day-00043-2025-06-26.json": {
+      "sha256": "def883d330c1e2252e1803c57b53c0d6e5dc9acc02817ac651e4326ef05b8b45",
+      "size": 458
+    },
+    "data/json/love-death-robots-04-swarm-day-00044-2025-06-27.json": {
+      "sha256": "0441a7224978ef6c9d8a0842a8947f0dabc93358e0826c90bf07642b891809da",
+      "size": 458
+    },
+    "data/json/love-death-robots-04-swarm-day-00045-2025-06-28.json": {
+      "sha256": "8c041b2ce28ead5170ca766623bed496b95439bc7954ca4e823f85d978582125",
+      "size": 458
+    },
+    "data/json/love-death-robots-04-swarm-day-00046-2025-06-29.json": {
+      "sha256": "30fdfc6d915212ea6ee95bcaef4075b207249156c466730e5d5cf22d4c7b09ea",
+      "size": 458
+    },
+    "data/json/love-death-robots-04-swarm-day-00047-2025-06-30.json": {
+      "sha256": "a9bee14808846484b0842ee6ffbe05c1d3df8bc82e161187c08ad95dc1ebd072",
+      "size": 458
+    },
+    "data/json/love-death-robots-04-swarm-day-00048-2025-07-01.json": {
+      "sha256": "0c55dc5b47006ecba8564493edaea1286e8e0684391cb35e6134e0de4c140b29",
+      "size": 458
+    },
+    "data/json/love-death-robots-04-swarm-day-00049-2025-07-02.json": {
+      "sha256": "609967ae9dbf2fdb260dbcebdb132c0b86804f8c76e6241f02699f5a6069c487",
+      "size": 458
+    },
+    "data/json/love-death-robots-04-swarm-day-00050-2025-07-03.json": {
+      "sha256": "fc198f249ba43b93ef5e1a2bdd076bf608d84ab080944947b21a4a26f8317282",
+      "size": 458
+    },
+    "data/json/love-death-robots-04-swarm-day-00051-2025-07-04.json": {
+      "sha256": "7b27bae48bc7bb1c8796c9e17d476ce9f84ac412a48a081aaa216fd7b94e8cee",
+      "size": 458
+    },
+    "data/json/love-death-robots-04-swarm-day-00052-2025-07-05.json": {
+      "sha256": "f7373c012140d50a66d2e5bc9e28a619a20175fad8da3bc9c9e3360d15e9267f",
+      "size": 458
+    },
+    "data/json/love-death-robots-04-swarm-day-00053-2025-07-06.json": {
+      "sha256": "1a51d7bd70955c8ed5860bad925f38a5ba96070220dd98a0dcc4bcb6c633ad0b",
+      "size": 458
+    },
+    "data/json/love-death-robots-04-swarm-day-00054-2025-07-07.json": {
+      "sha256": "726c9da14c4960440fc4e6d659eae8d55a50c38dc75ed1495b769eea41bc322b",
+      "size": 458
+    },
+    "data/json/love-death-robots-04-swarm-day-00055-2025-07-08.json": {
+      "sha256": "5dc3c0447ae5455326a42c12314551e40e196b096e8981e6804d367b7d0863a2",
+      "size": 458
+    },
+    "data/json/love-death-robots-04-swarm-day-00056-2025-07-09.json": {
+      "sha256": "b86803c05ad29dc3843e21e9ba4364e1edbee026c9c98029de7ce93acad99c8c",
+      "size": 458
+    },
+    "data/json/love-death-robots-04-swarm-day-00057-2025-07-10.json": {
+      "sha256": "fb9607a1d0c1eb1c78e1f8bf294c674ce5ebf7040981038bc947c2e472578944",
+      "size": 458
+    },
+    "data/json/love-death-robots-04-swarm-day-00058-2025-07-11.json": {
+      "sha256": "8063e99d6fd94c85e80a3a22e41c4d64c6dbfb833b31b8352d66cb31f32df959",
+      "size": 458
+    },
+    "data/json/love-death-robots-04-swarm-day-00059-2025-07-12.json": {
+      "sha256": "e1676ede131f3a3ca82463c8a5ee30cf2640367f215b4e9a99ae341245c510c2",
+      "size": 458
+    },
+    "data/json/love-death-robots-04-swarm-day-00060-2025-07-13.json": {
+      "sha256": "55bfdfec0d8b24f05cb93e83b0c05ed44b3823a5adbaf53b83289d0bcdb5b800",
+      "size": 458
+    },
+    "data/json/love-death-robots-04-swarm-day-00061-2025-07-14.json": {
+      "sha256": "a7c5d50f0bb97d1afce523bf9fc5d532def1aae3113a86f77ad83c83e7c0f3e0",
+      "size": 458
+    },
+    "data/json/love-death-robots-04-swarm-day-00062-2025-07-15.json": {
+      "sha256": "898a2dad67f9919791c109f23831cb33a3be186c4400720afe3c7fe3af4e1274",
+      "size": 458
+    },
+    "data/json/love-death-robots-04-swarm-day-00063-2025-07-16.json": {
+      "sha256": "c960d7b2a92b8d86a5a08ae28a90f4f36e42013137444ca677d084a7f224d9c5",
+      "size": 458
+    },
+    "data/json/love-death-robots-04-swarm-day-00064-2025-07-17.json": {
+      "sha256": "ad61b05daff4ae005204f2267b081efb62f71699baf36edcd0626049aa6dd851",
+      "size": 458
+    },
+    "data/json/love-death-robots-04-swarm-day-00065-2025-07-18.json": {
+      "sha256": "ed1bb47779d07e89ac3b1c03bf25fcae71bbaed4fbee715f099cc87595d7aa55",
+      "size": 458
+    },
+    "data/json/love-death-robots-04-swarm-day-00066-2025-07-19.json": {
+      "sha256": "4a893ec698f80ca4bb54906ce2c841e16719908e331120c7694166605d3380dd",
+      "size": 458
+    },
+    "data/json/love-death-robots-04-swarm-day-00067-2025-07-20.json": {
+      "sha256": "2347df371776059d8dd3c9299e88efce53f5c6020a3f85652e15fe8adb805fbb",
+      "size": 458
+    },
+    "data/json/love-death-robots-04-swarm-day-00068-2025-07-21.json": {
+      "sha256": "92933b02b523e7a407c5b39c863c262a03884997280a4dae397c1b05aacbf324",
+      "size": 458
+    },
+    "data/json/love-death-robots-04-swarm-day-00069-2025-07-22.json": {
+      "sha256": "7d686bfde4b5839e09e34bff4c32bc6068a5713a6776376fc92cf9a5c13a2538",
+      "size": 458
+    },
+    "data/json/love-death-robots-04-swarm-day-00070-2025-07-23.json": {
+      "sha256": "b609a8865b3c332566749b5e83d074cf9ac9d638064a5224451e2d01cc86be2b",
+      "size": 458
+    },
+    "data/json/love-death-robots-04-swarm-day-00071-2025-07-24.json": {
+      "sha256": "be84b04410daa0d4ab8dd4cebd369284c8ac2470015c564e0abc2a07802f1e4e",
+      "size": 458
+    },
+    "data/json/love-death-robots-04-swarm-day-00072-2025-07-25.json": {
+      "sha256": "8788c9f9df2af3da37fd9d9efe42bf172925b1198c707b4d2659cc1060c31f65",
+      "size": 458
+    },
+    "data/json/love-death-robots-04-swarm-day-00073-2025-07-26.json": {
+      "sha256": "4c40e0fdee9a9d48a40ff1386f3ff29a3ce23806dc4e537c25222371f723fd20",
+      "size": 458
+    },
+    "data/json/love-death-robots-04-swarm-day-00074-2025-07-27.json": {
+      "sha256": "069188b970390ddbfb4e7ff3603c2ac08ef426de31b03097506871da7401956f",
+      "size": 458
+    },
+    "data/json/love-death-robots-04-swarm-day-00075-2025-07-28.json": {
+      "sha256": "c4565fa58801a407501f9428a7627c6452d480ff60705acbe1c9a82631a332a8",
+      "size": 458
+    },
+    "data/json/love-death-robots-04-swarm-day-00076-2025-07-29.json": {
+      "sha256": "97d3219a99512d87603abf8d7ff7a73a618b15f5fa159d75cddade898db4d8ac",
+      "size": 458
+    },
+    "data/json/love-death-robots-04-swarm-day-00077-2025-07-30.json": {
+      "sha256": "0458fbb26a018e0610cc727b3fd618222dafa6b3438fa095dfaa42cdc6c4adbd",
+      "size": 458
+    },
+    "data/json/love-death-robots-04-swarm-day-00078-2025-07-31.json": {
+      "sha256": "82a2191ec176c4c860a1b9744c70731188e3086f07ead8318581473e63bf7fb1",
+      "size": 458
+    },
+    "data/json/love-death-robots-04-swarm-day-00079-2025-08-01.json": {
+      "sha256": "16b75d33e9e7029ff662e66e2aec04ba1fa691a5b88004ac6262635807c593ac",
+      "size": 458
+    },
+    "data/json/love-death-robots-04-swarm-day-00080-2025-08-02.json": {
+      "sha256": "ca66549ea6f7e4563ffd6eaef8f20497482fb277948f8a278321e4d4bea2b035",
+      "size": 458
+    },
+    "data/json/love-death-robots-04-swarm-day-00081-2025-08-03.json": {
+      "sha256": "0e193081f07878a721a746c06568ae85b6b467983dbf3e6603ee5b48f4519c60",
+      "size": 458
+    },
+    "data/json/love-death-robots-04-swarm-day-00082-2025-08-04.json": {
+      "sha256": "90f45885b779c1e2de888b6a1fa232594e231dfc24fdbbe8d235d6b26da0659b",
+      "size": 458
+    },
+    "data/json/love-death-robots-04-swarm-day-00083-2025-08-05.json": {
+      "sha256": "883e901bb69d4856bd208d915aebbe4806342bf215096274acfeb1fd58c350a9",
+      "size": 457
+    },
+    "data/json/love-death-robots-04-swarm-day-00084-2025-08-06.json": {
+      "sha256": "14790bfce65f715f2b2d17cbf753da65eaac4b2c95582c57450436f5d2ca3519",
+      "size": 458
+    },
+    "data/json/love-death-robots-04-swarm-day-00085-2025-08-07.json": {
+      "sha256": "bd8c34d9f5a85278016a2d60366fdd705bead44036ccaffc12ec2272546a673b",
+      "size": 458
+    },
+    "data/json/love-death-robots-04-swarm-day-00086-2025-08-08.json": {
+      "sha256": "d4b358d9ab63934a53948de98df12e44fbe8715655c3733bdd4702a46afd898f",
+      "size": 458
+    },
+    "data/json/love-death-robots-04-swarm-day-00087-2025-08-09.json": {
+      "sha256": "f0bffd85272b65968b98cef590fd0eee8463e8fb7996bcce5f343a7942f073fc",
+      "size": 458
+    },
+    "data/json/love-death-robots-04-swarm-day-00088-2025-08-10.json": {
+      "sha256": "c528588fbb3a925a1a0f15c04a6787ff99aa7cfe336631e7a111df47c87d26e0",
+      "size": 458
+    },
+    "data/json/love-death-robots-04-swarm-day-00089-2025-08-11.json": {
+      "sha256": "2244bfe2e83feb774d8bbc29b2ae69fc2878013c8d6fe25c08903ad477a00183",
+      "size": 458
+    },
+    "data/json/love-death-robots-04-swarm-day-00090-2025-08-12.json": {
+      "sha256": "622a0bcc4159c17948c769f030b75e409f5dd989ea88ec1f06c446b82b907657",
+      "size": 458
+    },
+    "data/json/love-death-robots-04-swarm-day-00091-2025-08-13.json": {
+      "sha256": "a3abe2fceff5a00032a4b404e91942fc9fa0eda2c576b1b68547ad62609a1c14",
+      "size": 458
+    },
+    "data/json/love-death-robots-04-swarm-day-00092-2025-08-14.json": {
+      "sha256": "8d3776fd6c78806ea6a46c414e850030da0217c82aa6ea15f7d0b6aecaa4855c",
+      "size": 458
+    },
+    "data/json/love-death-robots-04-swarm-day-00093-2025-08-15.json": {
+      "sha256": "e3f4a615801c3efdab6df2f89e522ff6bf00a158b35dcd5a0c2a29fd7da37eb6",
+      "size": 458
+    },
+    "data/json/love-death-robots-04-swarm-day-00094-2025-08-16.json": {
+      "sha256": "13aed76df3c9d5686ccc831b671e9037766bd5f41c7e0c158b79712e075f3c16",
+      "size": 458
+    },
+    "data/json/love-death-robots-04-swarm-day-00095-2025-08-17.json": {
+      "sha256": "7c8df788a14da06cac555f6f2347351a84a6b453974b713dfe273bc2ffed1bdf",
+      "size": 458
+    },
+    "data/json/love-death-robots-04-swarm-day-00096-2025-08-18.json": {
+      "sha256": "40969b6944f3d221581299c9efeb9cf78168637a8a5758ed5511b8bc86613574",
+      "size": 458
+    },
+    "data/json/love-death-robots-04-swarm-day-00097-2025-08-19.json": {
+      "sha256": "a77871ea922e3262ea5ef79bf1d8b9a39ce6daa30d7974b72927010d7f5ad8a1",
+      "size": 458
+    },
+    "data/json/love-death-robots-04-swarm-day-00098-2025-08-20.json": {
+      "sha256": "94f5fa81bee0a6694cf6491b4030a058725dcb0f24815083922d158e2bd38d2e",
+      "size": 458
+    },
+    "data/json/love-death-robots-04-swarm-day-00099-2025-08-21.json": {
+      "sha256": "253bb3f1062fc60165fae79be939bd712222c00afc269533b83491e74052f08b",
+      "size": 458
+    },
+    "data/json/love-death-robots-04-swarm-day-00100-2025-08-22.json": {
+      "sha256": "e41dd897a0c1a946a0f130bf065a38bfc0f82bc99ce2c9df7da38808d6eae834",
+      "size": 459
+    },
+    "data/json/love-death-robots-04-swarm-day-00101-2025-08-23.json": {
+      "sha256": "140e6fca12614fab40b244fb84d1fafad69b08771c34308f4fb0cc4cf502eb63",
+      "size": 459
+    },
+    "data/json/love-death-robots-04-swarm-day-00102-2025-08-24.json": {
+      "sha256": "4765b41a9ce8516fd97bdaa9abffdc180c4430c00a13b1fa37d28bb941edfaee",
+      "size": 459
+    },
+    "data/json/love-death-robots-04-swarm-day-00103-2025-08-25.json": {
+      "sha256": "67f8b6e9346fb8155c83f134d2ed00842e4ebc50bd1be7ab714c50dc6af132b4",
+      "size": 459
+    },
+    "data/json/love-death-robots-04-swarm-day-00104-2025-08-26.json": {
+      "sha256": "e9e589b6b7f66aa9fccbb348d76f97e7ab0e0052568f23e99e32a19077469bd8",
+      "size": 459
+    },
+    "data/json/love-death-robots-04-swarm-day-00105-2025-08-27.json": {
+      "sha256": "fb845c4354d361b62337feafd98aa292ca345a926b9ba58a597aa4d834029419",
+      "size": 459
+    }
+  },
+  "schema": "alpha60-year-day-product-bundle/1",
+  "source_revisions": {
+    "aggregate_binary": {
+      "sha256": "7408569641f7247fbd00969cffddaf1bb0cf2768c7fc1529f4cc6191ccfeae05",
+      "size": 38582648
+    },
+    "alpha60": "eba8537ed9a6e7a09ae3de163b01460f5ad1ad7e",
+    "alpha60_data": "8faeae67a5d274d1fc00bffe9fc9318329163b20",
+    "day_product_contract": {
+      "sha256": "0aa0bee3ac14b512c786d3496ab5218a46aff11786ffa6aa9ea85e762fbd6370",
+      "size": 9897
+    },
+    "generate_cache_aggregates": {
+      "sha256": "504078e192d9c8182df74e41b98cec08123c5a8b7d0eb7f812d09c1fe5d07010",
+      "size": 17151
+    },
+    "metadata": "fbeb53a0b523f937fae2f23d14689d8c5c84dd5a",
+    "package_script": {
+      "sha256": "516d6ecdccd24b1b66cf80c185219fa47d52af22f672b836773896df621b1666",
+      "size": 14724
+    },
+    "year_day_contract": {
+      "sha256": "f1c07d6f2fdc19475a6f25ddaee5923957447a6f49a8009d8b4c9984a63bd883",
+      "size": 9356
+    }
+  },
+  "status": "pass"
+}
