@@ -1,0 +1,1749 @@
+{
+  "archive": {
+    "path": "/home/bkoz/src/alpha60-xperiments/year-2025-archives/white-lotus-307.cache/cache.20251005.tar.xz",
+    "sha256": "3394f847745623075f3987f595c3c9ebaa6f01585bb887052f5a9f65f9e06dcd",
+    "size": 2232976420
+  },
+  "authorization": {
+    "archive_mutated": false,
+    "excluded_member_classes": [
+      "hour",
+      "week",
+      "cumulative"
+    ],
+    "raw_samples_opened": false,
+    "scope": "read only streaming of per-torrent day records"
+  },
+  "collection_key": "white-lotus-307",
+  "day_cache_stream_contract": {
+    "authorization": {
+      "archive_mutated": false,
+      "excluded_member_classes": [
+        "hour",
+        "week",
+        "cumulative"
+      ],
+      "raw_samples_opened": false,
+      "scope": "read only streaming of per-torrent day records"
+    },
+    "available_day_products": 184,
+    "cache_members": 45460,
+    "collection_key": "white-lotus-307",
+    "first_date": "2025-03-31",
+    "first_index": 1,
+    "indices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144,
+      145,
+      146,
+      147,
+      148,
+      149,
+      150,
+      151,
+      152,
+      153,
+      154,
+      155,
+      156,
+      157,
+      158,
+      159,
+      160,
+      161,
+      162,
+      163,
+      164,
+      165,
+      166,
+      167,
+      168,
+      169,
+      170,
+      171,
+      172,
+      173,
+      174,
+      175,
+      176,
+      177,
+      178,
+      179,
+      180,
+      181,
+      182,
+      183,
+      184,
+      185,
+      186,
+      187,
+      188,
+      189
+    ],
+    "last_date": "2025-10-05",
+    "last_index": 189,
+    "missing_indices": [
+      22,
+      23,
+      24,
+      25,
+      26
+    ],
+    "sample_span_days": 189,
+    "schema": "alpha60-day-cache-stream-contract/1",
+    "sparse": true,
+    "status": "pass"
+  },
+  "day_product_contract": {
+    "collection_key": "white-lotus-307",
+    "day_products": 184,
+    "first_date": "2025-03-31",
+    "first_index": 1,
+    "geojson_data_version": "20260701",
+    "ip_geolocation_version": "6:1777968300",
+    "json_data_version": "2026-08-05",
+    "last_date": "2025-10-05",
+    "last_index": 189,
+    "schema": "alpha60-day-product-contract/1",
+    "sparse": true,
+    "status": "pass"
+  },
+  "publications": {
+    "data/geojson.day/white-lotus-307-day-00001.geojson.gz": {
+      "sha256": "97aa2b74aa17637e13ad7ecba1a5aa48d19ba0e77ee258c185263dea81d525f5",
+      "size": 122349
+    },
+    "data/geojson.day/white-lotus-307-day-00002.geojson.gz": {
+      "sha256": "8a188ca819d19b047bdab4f9391f55a0f10766f10f28ef356f6523041263785e",
+      "size": 164184
+    },
+    "data/geojson.day/white-lotus-307-day-00003.geojson.gz": {
+      "sha256": "9acbdeee42ce689924c6aa4ce9be6b0f1af2caafb0940f9e5b792bfbb5ac2cdd",
+      "size": 147047
+    },
+    "data/geojson.day/white-lotus-307-day-00004.geojson.gz": {
+      "sha256": "6535ba7beff5d49a4bc28813bd7038be32afd2b7a27adac7018bd2699b0e16d3",
+      "size": 159575
+    },
+    "data/geojson.day/white-lotus-307-day-00005.geojson.gz": {
+      "sha256": "a33c694f5fc7926b55907c85aa7fd2ddd455313c6620c51b21fcfddaee7aa4cd",
+      "size": 168603
+    },
+    "data/geojson.day/white-lotus-307-day-00006.geojson.gz": {
+      "sha256": "d46920611abdd05b53ab360137f87cad03617c03b7deb222aef549d3743f227e",
+      "size": 163993
+    },
+    "data/geojson.day/white-lotus-307-day-00007.geojson.gz": {
+      "sha256": "0f7ca29d25874a17eb08e6e7689a7a0b261b1a624908515c6a885483c19fb9c1",
+      "size": 171553
+    },
+    "data/geojson.day/white-lotus-307-day-00008.geojson.gz": {
+      "sha256": "f83d0cbb7300e96e69b60e16f04933da7930cd11eb236c856a98693698a6f62e",
+      "size": 276983
+    },
+    "data/geojson.day/white-lotus-307-day-00009.geojson.gz": {
+      "sha256": "5b99091f27ba62d003b0196582821c8b71e546933b8b569f9adad5a047c024ec",
+      "size": 294193
+    },
+    "data/geojson.day/white-lotus-307-day-00010.geojson.gz": {
+      "sha256": "7045e237a4688897ecb45a6d0f3fe66cd36f9dbba686ec74b139d2af10aaaded",
+      "size": 287766
+    },
+    "data/geojson.day/white-lotus-307-day-00011.geojson.gz": {
+      "sha256": "53bc0cf7378bf3b40eb7b40c12e7831486deb10dcf4f5162b33e1f4ab2b4eba1",
+      "size": 276845
+    },
+    "data/geojson.day/white-lotus-307-day-00012.geojson.gz": {
+      "sha256": "be3cf194827d53770a3fc257d35e65570b63aac34630abd13f46cc50794eaeea",
+      "size": 267181
+    },
+    "data/geojson.day/white-lotus-307-day-00013.geojson.gz": {
+      "sha256": "17304efae84b7d0c9a4d0e35b11a23c861f3341a8354e330100898f3d354705c",
+      "size": 249344
+    },
+    "data/geojson.day/white-lotus-307-day-00014.geojson.gz": {
+      "sha256": "60425c7068bbe0bd881a6465c8443766d9f4d744e6ddfa16da8ff955a643915b",
+      "size": 255657
+    },
+    "data/geojson.day/white-lotus-307-day-00015.geojson.gz": {
+      "sha256": "f45ee817a9c8128a12fc6bdaf2fbe9d5c0be80b475243fce010eda1daf57eb56",
+      "size": 268559
+    },
+    "data/geojson.day/white-lotus-307-day-00016.geojson.gz": {
+      "sha256": "e99fee430e7026f24770d29e010d9331c7aa50a0c1106c17c4decb0af76e9c7c",
+      "size": 258777
+    },
+    "data/geojson.day/white-lotus-307-day-00017.geojson.gz": {
+      "sha256": "d8999313e31c08781e269f1633fea7a2e5a3fb39ac0fe5b210c6699a979387df",
+      "size": 246256
+    },
+    "data/geojson.day/white-lotus-307-day-00018.geojson.gz": {
+      "sha256": "63e4f8dc3f328aea60905b36331045f53ede421aec1f56db72c9d580107dfcde",
+      "size": 230958
+    },
+    "data/geojson.day/white-lotus-307-day-00019.geojson.gz": {
+      "sha256": "c943490d8a370364e1203d4b4dea6c73ecf91901d967cf2ce843ed1f3d632ec1",
+      "size": 226332
+    },
+    "data/geojson.day/white-lotus-307-day-00020.geojson.gz": {
+      "sha256": "9d8510cd5c1dd03e9503f3c836590948089bb75d284d3b4c7d8b631834e1e5f4",
+      "size": 230580
+    },
+    "data/geojson.day/white-lotus-307-day-00021.geojson.gz": {
+      "sha256": "a5d8db088ed19c50b141643233211e3292314dc2aaa926b0cbb1a3ef201448ac",
+      "size": 231616
+    },
+    "data/geojson.day/white-lotus-307-day-00027.geojson.gz": {
+      "sha256": "b0d47ae71c9faa58ca95b42c07b68de3f829036d18096c2ace6179615b79fb8a",
+      "size": 172471
+    },
+    "data/geojson.day/white-lotus-307-day-00028.geojson.gz": {
+      "sha256": "4f4ba71e42f3743e878cd81603f688206b2272b0fb08412c4cff51c54cead525",
+      "size": 232190
+    },
+    "data/geojson.day/white-lotus-307-day-00029.geojson.gz": {
+      "sha256": "707f048e013154968bde06f992c9e82434207e206f434a4e506ee3203bf6a4ca",
+      "size": 251000
+    },
+    "data/geojson.day/white-lotus-307-day-00030.geojson.gz": {
+      "sha256": "21bb3af6186b82154243ee0488a29cce7b6847dc00f9da19326f331765ad6363",
+      "size": 259429
+    },
+    "data/geojson.day/white-lotus-307-day-00031.geojson.gz": {
+      "sha256": "9fea25aa6d206dfd658b068a3257fab92d993f294ee8c6070db2dd75bde8d872",
+      "size": 233273
+    },
+    "data/geojson.day/white-lotus-307-day-00032.geojson.gz": {
+      "sha256": "04db6500fb65c2a550061d63c5afc387f9ed7c00604a01b0a7a0b022e1eb06b6",
+      "size": 230925
+    },
+    "data/geojson.day/white-lotus-307-day-00033.geojson.gz": {
+      "sha256": "98a7e25163c739765a23b954152d41493f7549c5c67c3eb39446cc245425b3ff",
+      "size": 233047
+    },
+    "data/geojson.day/white-lotus-307-day-00034.geojson.gz": {
+      "sha256": "c435e7974ee6bc3d648e7e24c5b985e6587837872e92533f40a5c6dc29f22b46",
+      "size": 230998
+    },
+    "data/geojson.day/white-lotus-307-day-00035.geojson.gz": {
+      "sha256": "8984e20c8da07ee89ed5646dd7f43f9742bebbbbcec77d7587d9d3869095102a",
+      "size": 233463
+    },
+    "data/geojson.day/white-lotus-307-day-00036.geojson.gz": {
+      "sha256": "3cad3925970fe455f5af5c1a6571fb82b57f9af286f23d180879f30ec6ad67de",
+      "size": 246275
+    },
+    "data/geojson.day/white-lotus-307-day-00037.geojson.gz": {
+      "sha256": "3d6364efe0f4bbf8c9a9295108fd314ea17437829a32fc462ff0d5fddf2172e8",
+      "size": 244731
+    },
+    "data/geojson.day/white-lotus-307-day-00038.geojson.gz": {
+      "sha256": "4b11e7b22d387aaabf18d2eb7d996564b081295fd561d65448b35f6c4077303e",
+      "size": 236910
+    },
+    "data/geojson.day/white-lotus-307-day-00039.geojson.gz": {
+      "sha256": "2f81b53d490fb63a110d2adc1e63f2b1e9705f93029d1b7d6732c0846d50ebd7",
+      "size": 219502
+    },
+    "data/geojson.day/white-lotus-307-day-00040.geojson.gz": {
+      "sha256": "97bb471f988e01dedc1511b5893affa2d4dba45d15dfb3eb599526c7f79d57d1",
+      "size": 216946
+    },
+    "data/geojson.day/white-lotus-307-day-00041.geojson.gz": {
+      "sha256": "b031b4cbe5fcfc2ed30785c7c98ca091f7d3d50821454647a12ece488c9f8a9a",
+      "size": 202842
+    },
+    "data/geojson.day/white-lotus-307-day-00042.geojson.gz": {
+      "sha256": "7aaa1cd0a5e1aa88761671bfe31518e4ae0cf0cbf1c8b6e86beda2ac5379f40d",
+      "size": 213688
+    },
+    "data/geojson.day/white-lotus-307-day-00043.geojson.gz": {
+      "sha256": "29d6547466cc420a9447d78f1dffd2d1e413420e718885438a35091b009a35f6",
+      "size": 242783
+    },
+    "data/geojson.day/white-lotus-307-day-00044.geojson.gz": {
+      "sha256": "33941966df88c5924f13905ba1f67e4b08ad40cfd60635f0f2d452fd2f4f3923",
+      "size": 233561
+    },
+    "data/geojson.day/white-lotus-307-day-00045.geojson.gz": {
+      "sha256": "9a236c02838ff5f453da89cae24a0a0a6d57392cd9388385b63481192f03dded",
+      "size": 229804
+    },
+    "data/geojson.day/white-lotus-307-day-00046.geojson.gz": {
+      "sha256": "5ebe520c3d786b8e7d0cbd8475fe20692b731ac7c5fc3c40539d6afa53dbf7f4",
+      "size": 239835
+    },
+    "data/geojson.day/white-lotus-307-day-00047.geojson.gz": {
+      "sha256": "e89fcdb1423386c2dc5cf238ffc2a070ba2d78420e449dacf493f69e2c062724",
+      "size": 229401
+    },
+    "data/geojson.day/white-lotus-307-day-00048.geojson.gz": {
+      "sha256": "2ca32b6c412529dbe5091ee1f1242cbbda5d52df1db9d637cf052d1b6b61b19a",
+      "size": 211756
+    },
+    "data/geojson.day/white-lotus-307-day-00049.geojson.gz": {
+      "sha256": "e1c45243fa76d91ed0025b65711daeb0ef46833936f5aa57ddd9404eb7f60334",
+      "size": 213508
+    },
+    "data/geojson.day/white-lotus-307-day-00050.geojson.gz": {
+      "sha256": "fb14ea90b308bf8d6c20e27c667c6b3f60d6ee35c03764af6b71f2681605e5c4",
+      "size": 228796
+    },
+    "data/geojson.day/white-lotus-307-day-00051.geojson.gz": {
+      "sha256": "0dbe3dc45c23af0f4d5fcca0b99eb53ca3be036db98c27d413544dcafdc74a13",
+      "size": 220433
+    },
+    "data/geojson.day/white-lotus-307-day-00052.geojson.gz": {
+      "sha256": "7088d708033ae27e7bb1732358398c80f70b688d01312d48a63f32588fbdcb17",
+      "size": 208148
+    },
+    "data/geojson.day/white-lotus-307-day-00053.geojson.gz": {
+      "sha256": "8f83b25129aa1acbdead91aa18de89b000d217fe0e37a8536306beb66834fe2a",
+      "size": 221632
+    },
+    "data/geojson.day/white-lotus-307-day-00054.geojson.gz": {
+      "sha256": "5e3cf754adc226b7476dbbf7ad4f66f0460d9aa9f69fe464111bdcdfd5f5ccc1",
+      "size": 216172
+    },
+    "data/geojson.day/white-lotus-307-day-00055.geojson.gz": {
+      "sha256": "e5cad86205356ae2669639c4f861442cf3cf579d3eccb4ea04d941c4cfc1dc24",
+      "size": 206299
+    },
+    "data/geojson.day/white-lotus-307-day-00056.geojson.gz": {
+      "sha256": "3bfd69cf1e4efea953af04c50dfddaf2d34afc9e629f9e6729c11ba1213f9188",
+      "size": 201751
+    },
+    "data/geojson.day/white-lotus-307-day-00057.geojson.gz": {
+      "sha256": "5d1d2bdce3bb388cc5b2386f52713107cbd5c26a0c8f03785772cb75774c7a33",
+      "size": 228186
+    },
+    "data/geojson.day/white-lotus-307-day-00058.geojson.gz": {
+      "sha256": "febd6ba9840523f0f12b09598b6e933ab5f913043d24cbc2625cd038bb7b7df0",
+      "size": 213074
+    },
+    "data/geojson.day/white-lotus-307-day-00059.geojson.gz": {
+      "sha256": "b869b6fbf0db86ad74ef7eca82ea1381b537a2e259ed7f4c247bf09cd4342ba1",
+      "size": 212311
+    },
+    "data/geojson.day/white-lotus-307-day-00060.geojson.gz": {
+      "sha256": "d1023820ce8e54356c6530463c6e4865c1cb97a6b0ae70cad425f9577c8b7d06",
+      "size": 197377
+    },
+    "data/geojson.day/white-lotus-307-day-00061.geojson.gz": {
+      "sha256": "ebfa371a2348188b25fc91967017850df939eba0354848df66777edf016b56b6",
+      "size": 191974
+    },
+    "data/geojson.day/white-lotus-307-day-00062.geojson.gz": {
+      "sha256": "c902655d07c4f2b55d0f77b42dbf8d61e68e54efd0f7f5995074e8532f255326",
+      "size": 193462
+    },
+    "data/geojson.day/white-lotus-307-day-00063.geojson.gz": {
+      "sha256": "ca3a2e79af7284697ae8cb2e15261c67d52fd666d598cb7a95912d297f04cade",
+      "size": 207636
+    },
+    "data/geojson.day/white-lotus-307-day-00064.geojson.gz": {
+      "sha256": "782696373b9d7d07ff348fc2dc0077379e0a43d4a6b04701a9114d061776fe26",
+      "size": 228678
+    },
+    "data/geojson.day/white-lotus-307-day-00065.geojson.gz": {
+      "sha256": "15275d802d47d699ed9899c110243b17a269d56e917e828a2dc7e75458055889",
+      "size": 224399
+    },
+    "data/geojson.day/white-lotus-307-day-00066.geojson.gz": {
+      "sha256": "7554812049e5b4dbe6ce1f4a6b5ded7a9499bbc161f7138cbd33d5300683f92f",
+      "size": 224839
+    },
+    "data/geojson.day/white-lotus-307-day-00067.geojson.gz": {
+      "sha256": "6362a6552103c07ed045aa7e81ce21ae76fed8fcc784e52bfca0a7052a16e056",
+      "size": 248144
+    },
+    "data/geojson.day/white-lotus-307-day-00068.geojson.gz": {
+      "sha256": "e6c321caf5d662d3c64931395c7143465b9a662cb83e30b4977b0800661758ed",
+      "size": 226183
+    },
+    "data/geojson.day/white-lotus-307-day-00069.geojson.gz": {
+      "sha256": "6c0b4f4b29f35ec419888887c627b3520e1d6e0dbeef1f204d94ec2a4d80deaf",
+      "size": 221665
+    },
+    "data/geojson.day/white-lotus-307-day-00070.geojson.gz": {
+      "sha256": "7e47897e1074719cd1078b37bf8a49b851063058877bddd65b46802bfaa596fd",
+      "size": 214243
+    },
+    "data/geojson.day/white-lotus-307-day-00071.geojson.gz": {
+      "sha256": "10b33410c83d771480662bd309b584a1a53aee54a942972712e6315d80c5730f",
+      "size": 228826
+    },
+    "data/geojson.day/white-lotus-307-day-00072.geojson.gz": {
+      "sha256": "f857e1bace750a7b391a7109dcf73711405c9048e56abf133322bd1211dae98b",
+      "size": 227100
+    },
+    "data/geojson.day/white-lotus-307-day-00073.geojson.gz": {
+      "sha256": "b5aafcc96a98094182097d1f110beee492ae1bee5200efc6dfa0e8aecf8ee4fc",
+      "size": 231988
+    },
+    "data/geojson.day/white-lotus-307-day-00074.geojson.gz": {
+      "sha256": "d291bc0ecbc9b7d310a45967c240606802c8e3a299319b35b06dd771a44b1022",
+      "size": 214227
+    },
+    "data/geojson.day/white-lotus-307-day-00075.geojson.gz": {
+      "sha256": "97ec4893295807e7e0ce7a6e0b67755d7308e30a10c5e2357d9068d3019773ab",
+      "size": 193685
+    },
+    "data/geojson.day/white-lotus-307-day-00076.geojson.gz": {
+      "sha256": "1c5b0757c3b175ffa6219c6ac49a1b783f007b69538e2ceb483f19d1a214a07d",
+      "size": 191480
+    },
+    "data/geojson.day/white-lotus-307-day-00077.geojson.gz": {
+      "sha256": "7f47c9597474764f47da94f54ec518bff0c905b587403a830fc3b6305d5b1418",
+      "size": 197251
+    },
+    "data/geojson.day/white-lotus-307-day-00078.geojson.gz": {
+      "sha256": "ea7d7d474eb9abd9712aaaad9d73b1f37b508547a7626c696be5dd9418a8fad0",
+      "size": 226252
+    },
+    "data/geojson.day/white-lotus-307-day-00079.geojson.gz": {
+      "sha256": "29430fea945a779ac07ae3eeb11d6bc275af885d34ecdaa0b6f46189be1cb6ff",
+      "size": 222603
+    },
+    "data/geojson.day/white-lotus-307-day-00080.geojson.gz": {
+      "sha256": "0432970a03258ae0d1e9c76882d1409f7d0024d93ce99624a6645a732e08d81d",
+      "size": 208103
+    },
+    "data/geojson.day/white-lotus-307-day-00081.geojson.gz": {
+      "sha256": "f4537090b412a337706e53dea701e3ab22a200b15addfd7b9b8e936a9eab90c2",
+      "size": 210754
+    },
+    "data/geojson.day/white-lotus-307-day-00082.geojson.gz": {
+      "sha256": "ff952caa0fb33e98ebc7f386c14b174c7d89f916154fecb925c0a3b964aeeaf8",
+      "size": 213382
+    },
+    "data/geojson.day/white-lotus-307-day-00083.geojson.gz": {
+      "sha256": "6ddb4880b3176846be32361df982e76fd4d739d29f019280900c617dafa01436",
+      "size": 196534
+    },
+    "data/geojson.day/white-lotus-307-day-00084.geojson.gz": {
+      "sha256": "88fb54f448c443817dfb166a383588aae12ebab4af2328565b7e28579e4605c9",
+      "size": 196437
+    },
+    "data/geojson.day/white-lotus-307-day-00085.geojson.gz": {
+      "sha256": "db85ff0263bfd8a287694acc4830b92a763c638f7f4340da13de4d788153eb4c",
+      "size": 219630
+    },
+    "data/geojson.day/white-lotus-307-day-00086.geojson.gz": {
+      "sha256": "6b61e0d1e22e600e82b038121dede1f664f9a4757b34162188251e769d474e43",
+      "size": 221542
+    },
+    "data/geojson.day/white-lotus-307-day-00087.geojson.gz": {
+      "sha256": "e1d87c80c698e64620147d99bfe591e8d67b9ca1baf4f40a659ce4bac45c1695",
+      "size": 227796
+    },
+    "data/geojson.day/white-lotus-307-day-00088.geojson.gz": {
+      "sha256": "610afb10d77e748ec547517688d15b6fc648ba54cc3e8a2aeceb5d6987fc9e31",
+      "size": 214248
+    },
+    "data/geojson.day/white-lotus-307-day-00089.geojson.gz": {
+      "sha256": "5c735da99de0b26f398f2fa7e9d853ae78a47db0ce3242234e88855be097a4e8",
+      "size": 222436
+    },
+    "data/geojson.day/white-lotus-307-day-00090.geojson.gz": {
+      "sha256": "49f04e2bebf7e64736d8231d911a3b172e40976650aafd70e8b3f08a24bec17c",
+      "size": 204151
+    },
+    "data/geojson.day/white-lotus-307-day-00091.geojson.gz": {
+      "sha256": "accaf568cc268b341e2ee743df5b8f8eee914f78974ef46697da6bb1c4cd2d77",
+      "size": 183908
+    },
+    "data/geojson.day/white-lotus-307-day-00092.geojson.gz": {
+      "sha256": "0c381a5442ba871250d6944d38008a960c022c7b075627d175157e1433621a53",
+      "size": 208253
+    },
+    "data/geojson.day/white-lotus-307-day-00093.geojson.gz": {
+      "sha256": "966b6ffeb7a3884769a41a522d899ccb890df5c9049bfc2aa2f8c64d86d98dfb",
+      "size": 101857
+    },
+    "data/geojson.day/white-lotus-307-day-00094.geojson.gz": {
+      "sha256": "87d71d04515f1cd0299a80fc76bad0dafec706ea8fe460672ffb38a3355d3179",
+      "size": 193720
+    },
+    "data/geojson.day/white-lotus-307-day-00095.geojson.gz": {
+      "sha256": "b3c50cc72f62e3aa38011b7fd35488abebc168e649c67dd204b89918550e0d06",
+      "size": 202385
+    },
+    "data/geojson.day/white-lotus-307-day-00096.geojson.gz": {
+      "sha256": "3a5dd3ceab65c0ab0b732a325aa44158b39a7a5c30a9280bd426c4aff15eb7ba",
+      "size": 174931
+    },
+    "data/geojson.day/white-lotus-307-day-00097.geojson.gz": {
+      "sha256": "7e88044eb35d25b948ed2d07bb596159190c4e6eb7a125c818a17ea9ccc88300",
+      "size": 197092
+    },
+    "data/geojson.day/white-lotus-307-day-00098.geojson.gz": {
+      "sha256": "c88bd78c54ea0103e662e18a69d665775b4f9beb9485e7ca80ac29de0f0312fd",
+      "size": 203678
+    },
+    "data/geojson.day/white-lotus-307-day-00099.geojson.gz": {
+      "sha256": "f57a7ea74419c374332aac26b0c0126c72345856175a24bce392c9491d9f8ed0",
+      "size": 204903
+    },
+    "data/geojson.day/white-lotus-307-day-00100.geojson.gz": {
+      "sha256": "ee208a60c67f1ba55e0d8480b110bd26ef9448dff70051d5ca98032c8cc7ed62",
+      "size": 207527
+    },
+    "data/geojson.day/white-lotus-307-day-00101.geojson.gz": {
+      "sha256": "7e0b63f8883fee6173c06a1385ce64bae89417998dac46867b4aa979e35ac2a0",
+      "size": 213824
+    },
+    "data/geojson.day/white-lotus-307-day-00102.geojson.gz": {
+      "sha256": "9bc9dbd30f3c7bd40dbb3117c6c832160822e45f01b436311adfd946d9142e55",
+      "size": 228348
+    },
+    "data/geojson.day/white-lotus-307-day-00103.geojson.gz": {
+      "sha256": "ed6326a57fea18efbfd2cf5089297024423e2d0c26d8187097dbbc2b1a982735",
+      "size": 209665
+    },
+    "data/geojson.day/white-lotus-307-day-00104.geojson.gz": {
+      "sha256": "93d366681a1081a7555194ff6412981722325232fb3b9f507bda78e8c3f7dd3f",
+      "size": 212967
+    },
+    "data/geojson.day/white-lotus-307-day-00105.geojson.gz": {
+      "sha256": "55593e41dceb308c036ce42c70e3e52c0eb36e2121efc9a1fb398de7c88efec8",
+      "size": 207082
+    },
+    "data/geojson.day/white-lotus-307-day-00106.geojson.gz": {
+      "sha256": "f456dd07efe93921afd9e8d336fbfa0f2b4371028c2e63f409af615058e1d40f",
+      "size": 208208
+    },
+    "data/geojson.day/white-lotus-307-day-00107.geojson.gz": {
+      "sha256": "398dd6441667c2c58dd48e679e198f167499828ed8cde001dcf26238254d1e29",
+      "size": 174906
+    },
+    "data/geojson.day/white-lotus-307-day-00108.geojson.gz": {
+      "sha256": "cd9cd7dec411f3c52a53777179b7bb0eea22b6013738a753d1a7d9c9bb8bc23d",
+      "size": 189097
+    },
+    "data/geojson.day/white-lotus-307-day-00109.geojson.gz": {
+      "sha256": "1b7e29a882a077c9e20e869d62b94fbd104a7a804c5e7e803e775e463d4096a3",
+      "size": 184767
+    },
+    "data/geojson.day/white-lotus-307-day-00110.geojson.gz": {
+      "sha256": "95a7097679bb87bc46686c9254cdb175885200bf333cc1d48f9d81d900d8d3d3",
+      "size": 197344
+    },
+    "data/geojson.day/white-lotus-307-day-00111.geojson.gz": {
+      "sha256": "42ef53d191c1d6c443dea4d544819abf2a234545677927b0e007773c249a731d",
+      "size": 170440
+    },
+    "data/geojson.day/white-lotus-307-day-00112.geojson.gz": {
+      "sha256": "2060f8dc74927cc2a71bd09cdc7b67db41caffe02d00a3f38d119d142dfa48ca",
+      "size": 176976
+    },
+    "data/geojson.day/white-lotus-307-day-00113.geojson.gz": {
+      "sha256": "7638d364b46f821f3e941310e45d5f78f3133527fb2bc64848d449f066e02d12",
+      "size": 225343
+    },
+    "data/geojson.day/white-lotus-307-day-00114.geojson.gz": {
+      "sha256": "309a0e94699a9c4f179d07d668e1d24731114045d6dd3606b209de886358ab73",
+      "size": 188242
+    },
+    "data/geojson.day/white-lotus-307-day-00115.geojson.gz": {
+      "sha256": "eb500eeb524782e6bcf4d9eb85a8825241b966410f5c6878641fe64459f805b7",
+      "size": 194224
+    },
+    "data/geojson.day/white-lotus-307-day-00116.geojson.gz": {
+      "sha256": "b6129187bcd258cc6683408dbe33a3980dfaa8cce919b33ee4c03094d74221e7",
+      "size": 184541
+    },
+    "data/geojson.day/white-lotus-307-day-00117.geojson.gz": {
+      "sha256": "eba8dc639af45ce307f05646faaeffdd730c83bcc87cabdaabf91e2a7a876560",
+      "size": 167036
+    },
+    "data/geojson.day/white-lotus-307-day-00118.geojson.gz": {
+      "sha256": "74c50eec1abafcb75a4b9351e638aabfa31900da8b256a24e7df878bc0d80c1f",
+      "size": 168491
+    },
+    "data/geojson.day/white-lotus-307-day-00119.geojson.gz": {
+      "sha256": "0aa5e46f802a9d749c5d32f76ea56e4bd09142938853d89230ea9e1ea98d3485",
+      "size": 198026
+    },
+    "data/geojson.day/white-lotus-307-day-00120.geojson.gz": {
+      "sha256": "615b144b9335b37f71644ac4daa2ad4891c3a18f67dd16b3c6c317e8197bc0ec",
+      "size": 235345
+    },
+    "data/geojson.day/white-lotus-307-day-00121.geojson.gz": {
+      "sha256": "ab9835803a601e6d3f68529c90fca708fa50ce1662eb78927238001b9b103ce7",
+      "size": 240808
+    },
+    "data/geojson.day/white-lotus-307-day-00122.geojson.gz": {
+      "sha256": "f840ab08fac1dab3b0b1ea7cb9bf3c7348cf8ce3e92bb8fa74be0132035f531f",
+      "size": 236942
+    },
+    "data/geojson.day/white-lotus-307-day-00123.geojson.gz": {
+      "sha256": "289797e88b3133a36b13681592bb9856c5eb85ffb154f6ba0ebd9593ef8f5a20",
+      "size": 227394
+    },
+    "data/geojson.day/white-lotus-307-day-00124.geojson.gz": {
+      "sha256": "3d96977f82787093e75dc788e7b6f465c57b23516acc6a0dc3702086da153945",
+      "size": 273935
+    },
+    "data/geojson.day/white-lotus-307-day-00125.geojson.gz": {
+      "sha256": "f11c1cf1c552f14cd3eb14ef00edbaf80d233146cd9b70c35ef715ba4ad1b36d",
+      "size": 185086
+    },
+    "data/geojson.day/white-lotus-307-day-00126.geojson.gz": {
+      "sha256": "d175493f66c4f0699376d6c4a219158d8dfa063b376afaa9bcc99b16ba096812",
+      "size": 212912
+    },
+    "data/geojson.day/white-lotus-307-day-00127.geojson.gz": {
+      "sha256": "63cae51828933c5576b3a719b2538b54c5e4f88dba781c21aa1d466f50209d78",
+      "size": 209989
+    },
+    "data/geojson.day/white-lotus-307-day-00128.geojson.gz": {
+      "sha256": "85ce314314f37ff895ece29a5008f33ec2d2379e6cffcf8811f80c1dd382128c",
+      "size": 67584
+    },
+    "data/geojson.day/white-lotus-307-day-00129.geojson.gz": {
+      "sha256": "9dc103fcd0561de0b572f427bbbf03d483eed3c8f09f5280d360b50ef5c8e709",
+      "size": 216877
+    },
+    "data/geojson.day/white-lotus-307-day-00130.geojson.gz": {
+      "sha256": "511f8ad755f048654bf4a4a00bd09906297bd16813d76e2fc68ff17fedb9b0c7",
+      "size": 218278
+    },
+    "data/geojson.day/white-lotus-307-day-00131.geojson.gz": {
+      "sha256": "4a2b2cfaaf266b1e0642b64fc989f765d8f84943fbe27eed2f280ced83ac5f62",
+      "size": 213846
+    },
+    "data/geojson.day/white-lotus-307-day-00132.geojson.gz": {
+      "sha256": "28731dafa99311db5b8993ed66abfc4f7d77ebd9b50b1f6828e33bb1a34060d1",
+      "size": 194318
+    },
+    "data/geojson.day/white-lotus-307-day-00133.geojson.gz": {
+      "sha256": "65bdee7bb6d28d8b2e144b1b7090fc035e54c23625c0789e1862dd50e9590b21",
+      "size": 198772
+    },
+    "data/geojson.day/white-lotus-307-day-00134.geojson.gz": {
+      "sha256": "fc2646e86d31dd7cbd85ee6d63299f50e4044368ab8b209c3bb14fb093b2d48f",
+      "size": 219551
+    },
+    "data/geojson.day/white-lotus-307-day-00135.geojson.gz": {
+      "sha256": "2f217afb9b373ec51ea3a73b9d8f565bef27a82e702507545d53bcd302403b8f",
+      "size": 204291
+    },
+    "data/geojson.day/white-lotus-307-day-00136.geojson.gz": {
+      "sha256": "5e02b77f683d2fd1b15c9be7755a6a6d956fbc1bc175192daf8739530a10a440",
+      "size": 199485
+    },
+    "data/geojson.day/white-lotus-307-day-00137.geojson.gz": {
+      "sha256": "92a0bb06fc58646ba32728265f211272821497272f79287e800129ec0fea3dde",
+      "size": 201134
+    },
+    "data/geojson.day/white-lotus-307-day-00138.geojson.gz": {
+      "sha256": "d4980cf772be1506757293a634a469863fac1a22689de74792256d06219aadd9",
+      "size": 178383
+    },
+    "data/geojson.day/white-lotus-307-day-00139.geojson.gz": {
+      "sha256": "dc9fbdcc9b0882763ea0a4937bc401c779b951f7f2d0df25f14a8623b8364f63",
+      "size": 179858
+    },
+    "data/geojson.day/white-lotus-307-day-00140.geojson.gz": {
+      "sha256": "9bc4f27c301b7a5d09a6f7978a0bb4f4e0f87439f41f8c886a947abb7bfb93f9",
+      "size": 182170
+    },
+    "data/geojson.day/white-lotus-307-day-00141.geojson.gz": {
+      "sha256": "dde943d433cedfbca6da39d6ab821f175fd0e90dfece5ba5bc37ff28e874535a",
+      "size": 198854
+    },
+    "data/geojson.day/white-lotus-307-day-00142.geojson.gz": {
+      "sha256": "5bd2d5023676a61fe4ee42866cfcade7339bddab5dbd98ee10a7f70dc37e91bc",
+      "size": 202547
+    },
+    "data/geojson.day/white-lotus-307-day-00143.geojson.gz": {
+      "sha256": "409c9070968efa5c17bd1c201cc666c4934ad7afd4248d4001b8f3765bc24f4b",
+      "size": 196011
+    },
+    "data/geojson.day/white-lotus-307-day-00144.geojson.gz": {
+      "sha256": "bc848976c9bc346eca746efb02b3d4e78facb929d7f4625cb9ecca11cb162b64",
+      "size": 211063
+    },
+    "data/geojson.day/white-lotus-307-day-00145.geojson.gz": {
+      "sha256": "347cbe14fa881ae86b4ba02cdb4ec776cab647b0f7e1529c80bb39fe284802e4",
+      "size": 207306
+    },
+    "data/geojson.day/white-lotus-307-day-00146.geojson.gz": {
+      "sha256": "a9ad153720cc96ebdca89c9f7d2312bc4d8beaad820db65cc71159598bacdcb6",
+      "size": 194303
+    },
+    "data/geojson.day/white-lotus-307-day-00147.geojson.gz": {
+      "sha256": "eee3f779cfb2b3c41965ebc9367acd9f15e84dfd1184948f491827b639baf183",
+      "size": 183626
+    },
+    "data/geojson.day/white-lotus-307-day-00148.geojson.gz": {
+      "sha256": "02ba827e75e625fccafb64729a6a13b6d244e98cc481b84e7ebcd1b45d1e130e",
+      "size": 210168
+    },
+    "data/geojson.day/white-lotus-307-day-00149.geojson.gz": {
+      "sha256": "2cfeedbe6a959d4e9ac3bc40ac63db8544a2d99bfe74bf8352302908b07cd724",
+      "size": 172864
+    },
+    "data/geojson.day/white-lotus-307-day-00150.geojson.gz": {
+      "sha256": "d271789f6cedc7c058d6eaf8659c1fbbf3c1bc95e793d953435ba48ddd17eeee",
+      "size": 128383
+    },
+    "data/geojson.day/white-lotus-307-day-00151.geojson.gz": {
+      "sha256": "86fd800f96d762ad880566c84a6fc13655c485238d4c10dc1e01746485a53a0d",
+      "size": 210692
+    },
+    "data/geojson.day/white-lotus-307-day-00152.geojson.gz": {
+      "sha256": "a180eb5da3c4b87e25fe0de3a2949cf6c317cb573a22e2a986cdb387be3b58c0",
+      "size": 225250
+    },
+    "data/geojson.day/white-lotus-307-day-00153.geojson.gz": {
+      "sha256": "59a7318540851ca52aba9d884bb80cf3a81d91046e5bb2287a3fe62b5f54382e",
+      "size": 254499
+    },
+    "data/geojson.day/white-lotus-307-day-00154.geojson.gz": {
+      "sha256": "e8d73bbdbd7ae274c0b5449e6451b5d242be38cad6ba66927521652c1838288d",
+      "size": 232872
+    },
+    "data/geojson.day/white-lotus-307-day-00155.geojson.gz": {
+      "sha256": "66f485bd451c30db40e12c3ceae6fe2e7918a4b5db5f18ccd8d4b8d566e1cd39",
+      "size": 225408
+    },
+    "data/geojson.day/white-lotus-307-day-00156.geojson.gz": {
+      "sha256": "c2610e09adec30a055787543c7dcca0129aa4e13eadd98279ddadfd323a559fa",
+      "size": 215280
+    },
+    "data/geojson.day/white-lotus-307-day-00157.geojson.gz": {
+      "sha256": "37dbe6d670e8b3955f631d05afde19ccab33c09d18650c1a8fb868a2be73d727",
+      "size": 209942
+    },
+    "data/geojson.day/white-lotus-307-day-00158.geojson.gz": {
+      "sha256": "7a297b6b2e3e0ed9fd04c7956660f0cb3ed2fe830211954fb1d2fa84e42217cd",
+      "size": 199755
+    },
+    "data/geojson.day/white-lotus-307-day-00159.geojson.gz": {
+      "sha256": "2077b40c6b0ba4ae9f19b346c6d354a03fa286426a86ee4095a8d20e253e2981",
+      "size": 195812
+    },
+    "data/geojson.day/white-lotus-307-day-00160.geojson.gz": {
+      "sha256": "9b8a7b417b9034489bcc284fd7b56fb2ad0672938e8fec34798bc5b0a3adb26a",
+      "size": 197440
+    },
+    "data/geojson.day/white-lotus-307-day-00161.geojson.gz": {
+      "sha256": "b87e6686fe2759cbf957fceff8bae0e5a9fc4f2520f1d4d19442b7cc29a2d0ad",
+      "size": 199459
+    },
+    "data/geojson.day/white-lotus-307-day-00162.geojson.gz": {
+      "sha256": "6e89f2da81b74f5487201205ba7244eb65ea501d62522cab6e0fe30887829dc1",
+      "size": 206928
+    },
+    "data/geojson.day/white-lotus-307-day-00163.geojson.gz": {
+      "sha256": "09a945321311de8867b07189b6388bb5fb52183e34c51962a9f39650f9728946",
+      "size": 231942
+    },
+    "data/geojson.day/white-lotus-307-day-00164.geojson.gz": {
+      "sha256": "775145ee91202866a541cb37e5e44ade0b95d3999ed6c7212605f4eb960b0bf9",
+      "size": 210707
+    },
+    "data/geojson.day/white-lotus-307-day-00165.geojson.gz": {
+      "sha256": "2f74e9d3f46ea90f712fab89c3f9ea45574d34c7a966e9e9c38269bd01a34022",
+      "size": 197181
+    },
+    "data/geojson.day/white-lotus-307-day-00166.geojson.gz": {
+      "sha256": "db40f487b45723a4388cd19d04204e7a049c35383260cf84b4edb0b08dca7cd8",
+      "size": 201872
+    },
+    "data/geojson.day/white-lotus-307-day-00167.geojson.gz": {
+      "sha256": "85d9f36d628db9fa9b2baba644487fd3bbfb6cf9c9d547c37be4990333682430",
+      "size": 189448
+    },
+    "data/geojson.day/white-lotus-307-day-00168.geojson.gz": {
+      "sha256": "e1f29d990f230d138dec5215bac17f498469d166c7f994e018a61186aa4589bb",
+      "size": 178805
+    },
+    "data/geojson.day/white-lotus-307-day-00169.geojson.gz": {
+      "sha256": "08e471af6a9904325fe1fca2f8ad2cb32c557db8a947afceaf974884e21b4baf",
+      "size": 205619
+    },
+    "data/geojson.day/white-lotus-307-day-00170.geojson.gz": {
+      "sha256": "6e7d01c68d566b91b61c8e75939cf97303628aa580651603a1f4ce7e7706ffa7",
+      "size": 193901
+    },
+    "data/geojson.day/white-lotus-307-day-00171.geojson.gz": {
+      "sha256": "04a38879f80627d43cd522b648f38289b52c3b80e52bb036cbd59bdf0934367e",
+      "size": 207419
+    },
+    "data/geojson.day/white-lotus-307-day-00172.geojson.gz": {
+      "sha256": "a0e10d19a57570181b0897c9b092a4e8b283ffd3be6a8f17809ce98ac610f8ea",
+      "size": 203593
+    },
+    "data/geojson.day/white-lotus-307-day-00173.geojson.gz": {
+      "sha256": "605768b7d7407840057882b46c68b2118c66fc5dc31f4bc513ee684aa2dc033a",
+      "size": 201360
+    },
+    "data/geojson.day/white-lotus-307-day-00174.geojson.gz": {
+      "sha256": "9f867c611385bf4a5b605a6894cb17436992253431fecae31948aa6c5b1ea2f2",
+      "size": 206713
+    },
+    "data/geojson.day/white-lotus-307-day-00175.geojson.gz": {
+      "sha256": "a95f2f11110b5f06b3e396c1e22d3ba2c2c32b1bd64da26bfdd5f2192cc7b1bb",
+      "size": 215603
+    },
+    "data/geojson.day/white-lotus-307-day-00176.geojson.gz": {
+      "sha256": "91d10dba09c1b9a493a1a68f8ecd0adee5c67461340dcd43ac13beb5633a14dd",
+      "size": 230121
+    },
+    "data/geojson.day/white-lotus-307-day-00177.geojson.gz": {
+      "sha256": "bed39e7e2c735cdabad491e8688e1d845dab1f19de831a3a8b2601d55e9b8959",
+      "size": 251384
+    },
+    "data/geojson.day/white-lotus-307-day-00178.geojson.gz": {
+      "sha256": "43d79cab8bbe1188a02a44247e7964da34bf131a7e483b10263e8da2d901db82",
+      "size": 239280
+    },
+    "data/geojson.day/white-lotus-307-day-00179.geojson.gz": {
+      "sha256": "1c52c8790e78e4f2ab45ab5d5dc625d4e980f97d950c92922f97711998c587bf",
+      "size": 229750
+    },
+    "data/geojson.day/white-lotus-307-day-00180.geojson.gz": {
+      "sha256": "240125495bd75fc6155603474bb7391a040464a1233164fa9d66596901674d21",
+      "size": 243438
+    },
+    "data/geojson.day/white-lotus-307-day-00181.geojson.gz": {
+      "sha256": "08515be2639febcb01315ba896c8d7667d97cb973a75ab3f98083944413f24f5",
+      "size": 223959
+    },
+    "data/geojson.day/white-lotus-307-day-00182.geojson.gz": {
+      "sha256": "e58f4b9b0726abdb8e4ccfb1a6107c01d0884c28c77294b25af1ccc40601e9d8",
+      "size": 184691
+    },
+    "data/geojson.day/white-lotus-307-day-00183.geojson.gz": {
+      "sha256": "bb3be0b584cde2a83d448e3a9f50c2042711d6d8f7657de92c1aafb12d656c66",
+      "size": 231258
+    },
+    "data/geojson.day/white-lotus-307-day-00184.geojson.gz": {
+      "sha256": "240f687390ea31890a1e0a405d9ff8aa2b8159adba2f4f774e8da2cf33ad2ccb",
+      "size": 221574
+    },
+    "data/geojson.day/white-lotus-307-day-00185.geojson.gz": {
+      "sha256": "5d95764884f49e6e696b949d5416fe6223f264b8c5a188af749587e3df828af9",
+      "size": 212781
+    },
+    "data/geojson.day/white-lotus-307-day-00186.geojson.gz": {
+      "sha256": "c3b3ac85b65fac48019a39175acfbc2d9fa46d153fef78b1fbbf2ff67e465ac1",
+      "size": 210876
+    },
+    "data/geojson.day/white-lotus-307-day-00187.geojson.gz": {
+      "sha256": "605eafb70ccdbdf4f20f37dbc19174bfe6b1cb9c544ef426adea2d71ea4ca5ac",
+      "size": 210045
+    },
+    "data/geojson.day/white-lotus-307-day-00188.geojson.gz": {
+      "sha256": "be05326ca0ec3057a24a08415ba28d6d2d168f163471562f05eda207c800c336",
+      "size": 202834
+    },
+    "data/geojson.day/white-lotus-307-day-00189.geojson.gz": {
+      "sha256": "89e4315e11d3421ba1384e9495342be9575dc5ad1b6d097b6d757a5812aefab1",
+      "size": 209931
+    },
+    "data/json/white-lotus-307-swarm-day-00001-2025-03-31.json": {
+      "sha256": "5721bdd343f4dbee6cc3b792a257817dddb9f81a45ddcd9f75d1b3261582e889",
+      "size": 444
+    },
+    "data/json/white-lotus-307-swarm-day-00002-2025-04-01.json": {
+      "sha256": "377b33a9d1157173ba4caf844208e8f7ff94cfee07956f0637ea896c950f2b73",
+      "size": 444
+    },
+    "data/json/white-lotus-307-swarm-day-00003-2025-04-02.json": {
+      "sha256": "66115fec23e10497d420a9f1ffd6d62c6f46ac1f19ab61b03e15cc7a67ccc36b",
+      "size": 444
+    },
+    "data/json/white-lotus-307-swarm-day-00004-2025-04-03.json": {
+      "sha256": "cc1ff824a32b0c4478b59968252ba9fa40545006017b43cc4b9174b4b078c212",
+      "size": 444
+    },
+    "data/json/white-lotus-307-swarm-day-00005-2025-04-04.json": {
+      "sha256": "80ffff7ed3741c9847fececff9b57e3f77c854e7807aca00518033a7f293df59",
+      "size": 444
+    },
+    "data/json/white-lotus-307-swarm-day-00006-2025-04-05.json": {
+      "sha256": "d73d711e0a10ae98f1efbfe457e038e57b9733a251928ac0e1124d477885fe56",
+      "size": 444
+    },
+    "data/json/white-lotus-307-swarm-day-00007-2025-04-06.json": {
+      "sha256": "bed1754b80c00f0b86a5766c5687eca3174e92fae2b032f924bcb13fcfbf20c4",
+      "size": 444
+    },
+    "data/json/white-lotus-307-swarm-day-00008-2025-04-07.json": {
+      "sha256": "74ba0924cd4e4afa8c7347f026d3fc995d11ca3ffe93111e17358dcb34b34b47",
+      "size": 446
+    },
+    "data/json/white-lotus-307-swarm-day-00009-2025-04-08.json": {
+      "sha256": "5a724757961cf31c00cc5c8ea2680b69b9c17713585c89c131b29f4c5b572b9d",
+      "size": 446
+    },
+    "data/json/white-lotus-307-swarm-day-00010-2025-04-09.json": {
+      "sha256": "c124810245279d21154d7dec8640b281460716d3b05c7daf0a2316fdf1d219ce",
+      "size": 447
+    },
+    "data/json/white-lotus-307-swarm-day-00011-2025-04-10.json": {
+      "sha256": "08c045ccccd62da27cbd06ac766394a985d4eb4f3ff52bfc43f0bdaa96542e4e",
+      "size": 447
+    },
+    "data/json/white-lotus-307-swarm-day-00012-2025-04-11.json": {
+      "sha256": "c1d73d03bbab46ef1bcb4ba59b59680cb3841a4a6f582c9591821d1599d29a07",
+      "size": 447
+    },
+    "data/json/white-lotus-307-swarm-day-00013-2025-04-12.json": {
+      "sha256": "a5dc123416dca667fdd773b5ab0f2285e579e45d502690749df4c36d8db30371",
+      "size": 447
+    },
+    "data/json/white-lotus-307-swarm-day-00014-2025-04-13.json": {
+      "sha256": "dc1c760c9fb399ee6eddfbcd5d6bdd576b73b058aa5d9a08aad127aa5dc84b38",
+      "size": 447
+    },
+    "data/json/white-lotus-307-swarm-day-00015-2025-04-14.json": {
+      "sha256": "c744117e5d08378a12abe6bb3ff9a486d867305fa77a61208a2cfab1b8c9ffb4",
+      "size": 447
+    },
+    "data/json/white-lotus-307-swarm-day-00016-2025-04-15.json": {
+      "sha256": "4ce371bfd0e26a66e680660fab1801e06b99c17ac9992a691e95497260a5dc78",
+      "size": 446
+    },
+    "data/json/white-lotus-307-swarm-day-00017-2025-04-16.json": {
+      "sha256": "08a3764e4f42c9e17c50fa2357cdd568895e1a929da3cb9dfaa20c1afae43ec0",
+      "size": 446
+    },
+    "data/json/white-lotus-307-swarm-day-00018-2025-04-17.json": {
+      "sha256": "5a2a7dea32fa071174426c17283e119497b88cb6fc6f9828956d0be31752441c",
+      "size": 446
+    },
+    "data/json/white-lotus-307-swarm-day-00019-2025-04-18.json": {
+      "sha256": "7db2d6cb088c07d86f20afdc717bb09b2920cf4e2c81124bd161a4ac86f70652",
+      "size": 446
+    },
+    "data/json/white-lotus-307-swarm-day-00020-2025-04-19.json": {
+      "sha256": "0a740a867d10c7ce7041cd2489399f4c6c058b2ec5fb4f3c15cbf04ff113c919",
+      "size": 446
+    },
+    "data/json/white-lotus-307-swarm-day-00021-2025-04-20.json": {
+      "sha256": "624718a82c896547aa6f7a0f3c8185d6766a474d9c5b0d7eb21d2ae5e26f8fb9",
+      "size": 446
+    },
+    "data/json/white-lotus-307-swarm-day-00027-2025-04-26.json": {
+      "sha256": "d218f1712dbd8dbbd0e783b4b3ab3bce128867073f63ed82b9dd989f2456bcfa",
+      "size": 446
+    },
+    "data/json/white-lotus-307-swarm-day-00028-2025-04-27.json": {
+      "sha256": "da3ed7884319f76d74006bee61f815b9f9d3b3b1570801ebf1c7884fbec17182",
+      "size": 446
+    },
+    "data/json/white-lotus-307-swarm-day-00029-2025-04-28.json": {
+      "sha256": "a9ebf672bffa72ce5be1180bc1498b9c47b0cace92a869fc87bb72fd2277ebcd",
+      "size": 446
+    },
+    "data/json/white-lotus-307-swarm-day-00030-2025-04-29.json": {
+      "sha256": "7d8edb52534f99d4b4fbc4a41c69978a52d984ddec00249217cc261ce8338e5c",
+      "size": 446
+    },
+    "data/json/white-lotus-307-swarm-day-00031-2025-04-30.json": {
+      "sha256": "7110ba0a98d3e5bb7a8e43d426821e510580dcd4182f9ca2e5a4b22eb12fdfbc",
+      "size": 446
+    },
+    "data/json/white-lotus-307-swarm-day-00032-2025-05-01.json": {
+      "sha256": "3b9f29b3d064d120f21ecf86af1be4a69b44af040ab55e3998aa2f9f9e308f73",
+      "size": 446
+    },
+    "data/json/white-lotus-307-swarm-day-00033-2025-05-02.json": {
+      "sha256": "c27305058eceaae46fe45f505b50a37887d019a3723b95d6a045959e21a51fe5",
+      "size": 446
+    },
+    "data/json/white-lotus-307-swarm-day-00034-2025-05-03.json": {
+      "sha256": "c08530dbc0134cd5c2426e8447b3b57005d26c1fd3f46211a9d4bc6da3a19c4d",
+      "size": 446
+    },
+    "data/json/white-lotus-307-swarm-day-00035-2025-05-04.json": {
+      "sha256": "2a0f318049a6a2a6e4b9f1ab378912d104223801d82d2d83b9cf2724a9a059c1",
+      "size": 446
+    },
+    "data/json/white-lotus-307-swarm-day-00036-2025-05-05.json": {
+      "sha256": "373158058a4e2ef375b13aa921b0a008b651228ec9ce9221e4f42519a06f9b73",
+      "size": 446
+    },
+    "data/json/white-lotus-307-swarm-day-00037-2025-05-06.json": {
+      "sha256": "f9567cc12ba8ef2f2ca42bdae2a98a7f58d667520d36ce5f88851e8eefe8fce2",
+      "size": 446
+    },
+    "data/json/white-lotus-307-swarm-day-00038-2025-05-07.json": {
+      "sha256": "d70183c9de0edc1df762f1b33f3f90200c61035e89ec9a7cb0e0cb674f39943b",
+      "size": 446
+    },
+    "data/json/white-lotus-307-swarm-day-00039-2025-05-08.json": {
+      "sha256": "9d0dc00ff61557ef24a95577ca1deb8a0c6fd8116546bcff824296d18f31ffdd",
+      "size": 446
+    },
+    "data/json/white-lotus-307-swarm-day-00040-2025-05-09.json": {
+      "sha256": "176db6822074015be7cb9a0d978a031f1813fba0106ffa974e1301879f9aa529",
+      "size": 446
+    },
+    "data/json/white-lotus-307-swarm-day-00041-2025-05-10.json": {
+      "sha256": "cf8ff2e9aaaff1da9afa16305820372ee624f1ab66026d78123f9f9862a90c22",
+      "size": 446
+    },
+    "data/json/white-lotus-307-swarm-day-00042-2025-05-11.json": {
+      "sha256": "60e57775e8ef34a00b38da79f18de60940f90265c47509f687ca0ecf42a65c83",
+      "size": 446
+    },
+    "data/json/white-lotus-307-swarm-day-00043-2025-05-12.json": {
+      "sha256": "15a4043c935a8affeb5133eedf84a8740b5cdb6214392e0a7c6159d000052862",
+      "size": 446
+    },
+    "data/json/white-lotus-307-swarm-day-00044-2025-05-13.json": {
+      "sha256": "35857866fcc9ed39cd50aaaea87c9271e90d0689bab05796bf49a74fb5ec94a8",
+      "size": 446
+    },
+    "data/json/white-lotus-307-swarm-day-00045-2025-05-14.json": {
+      "sha256": "27d355966b6016b7dc5f8f8d22180103b4a047ae2223e1b9e64f9164c40195ec",
+      "size": 446
+    },
+    "data/json/white-lotus-307-swarm-day-00046-2025-05-15.json": {
+      "sha256": "c7cc7af74f03fb26354efde35f2aed3ff33f711287e84b9807bfa856f7180200",
+      "size": 446
+    },
+    "data/json/white-lotus-307-swarm-day-00047-2025-05-16.json": {
+      "sha256": "342a987b2b251395cc2ce329700da45e6312c9d593ee98ddb605741362da14d8",
+      "size": 446
+    },
+    "data/json/white-lotus-307-swarm-day-00048-2025-05-17.json": {
+      "sha256": "84883f277bc65c25ddf7630de24d9f1d6fefebf1edeeb7262ec06261cb19861b",
+      "size": 446
+    },
+    "data/json/white-lotus-307-swarm-day-00049-2025-05-18.json": {
+      "sha256": "67d36089679586e35b53186012bbe84fd9252cd832e465cd6a7cef3641c5bfbb",
+      "size": 446
+    },
+    "data/json/white-lotus-307-swarm-day-00050-2025-05-19.json": {
+      "sha256": "4e9c992dc99baf745e0246214caaa06d5a337067f3231cc20f79e6bd9c2c5d25",
+      "size": 446
+    },
+    "data/json/white-lotus-307-swarm-day-00051-2025-05-20.json": {
+      "sha256": "3cd8f3c6ec9d55a8ed495ece3ff043713876dbcb9f31b4bbf93c4f4423a4d7dc",
+      "size": 446
+    },
+    "data/json/white-lotus-307-swarm-day-00052-2025-05-21.json": {
+      "sha256": "4174e50380bae38ea0424f9fd909b9d21105de1068109f268e5d35921c314d65",
+      "size": 446
+    },
+    "data/json/white-lotus-307-swarm-day-00053-2025-05-22.json": {
+      "sha256": "74a76cbe90aaa49f71f33ca8337ec99c1abd3d7483728a772a10e4d80720a2fd",
+      "size": 446
+    },
+    "data/json/white-lotus-307-swarm-day-00054-2025-05-23.json": {
+      "sha256": "98af0b95a88f9406a0402c660452905675ea4b4b64c552b36ce4f1bb4af3cd2f",
+      "size": 446
+    },
+    "data/json/white-lotus-307-swarm-day-00055-2025-05-24.json": {
+      "sha256": "3892c783d292b06f01244af7e51edd545c4b981255dd292c68c8c2c6458b74a6",
+      "size": 446
+    },
+    "data/json/white-lotus-307-swarm-day-00056-2025-05-25.json": {
+      "sha256": "762f1f2a9b7a7a7c0c23c9ba4d28f9b39378a21b38080e013a1aab4cbe9327de",
+      "size": 446
+    },
+    "data/json/white-lotus-307-swarm-day-00057-2025-05-26.json": {
+      "sha256": "7961d5d45a5ef8ee4b136d56b90bd8098451e3deccc6c20fa999c735afb826c8",
+      "size": 446
+    },
+    "data/json/white-lotus-307-swarm-day-00058-2025-05-27.json": {
+      "sha256": "93790937cfaf9bc65f6c644c5417297a0733802fe64a3b2786c2601edb4658de",
+      "size": 446
+    },
+    "data/json/white-lotus-307-swarm-day-00059-2025-05-28.json": {
+      "sha256": "5ae15efcb32fe37c51524c110700c741bf698c8a9d5e9963b962273b551febfc",
+      "size": 446
+    },
+    "data/json/white-lotus-307-swarm-day-00060-2025-05-29.json": {
+      "sha256": "10ff3099231ee7b9a58b93808d3e985f597b744695bc07fe8c36083b8f9e784e",
+      "size": 446
+    },
+    "data/json/white-lotus-307-swarm-day-00061-2025-05-30.json": {
+      "sha256": "6f4f5648853396260d186d12dd22aab8c12344034b2ae86825cee461c9192201",
+      "size": 446
+    },
+    "data/json/white-lotus-307-swarm-day-00062-2025-05-31.json": {
+      "sha256": "d00ae8e1c23292a41dad5dd8d164699654b9c89bf61bb77c6e249f553130c4f8",
+      "size": 446
+    },
+    "data/json/white-lotus-307-swarm-day-00063-2025-06-01.json": {
+      "sha256": "bba22b984b4deb11c73ffa96dd5107db86534ef9b034987033b51a96da48fef6",
+      "size": 446
+    },
+    "data/json/white-lotus-307-swarm-day-00064-2025-06-02.json": {
+      "sha256": "f07ff327247969c51a84b5a37bf339eb3710b77d971e8e679b0a954997137386",
+      "size": 446
+    },
+    "data/json/white-lotus-307-swarm-day-00065-2025-06-03.json": {
+      "sha256": "4eb499f899c3e359c5783611a22cbbdc955cb045a5246542af6a96dfd7b79da4",
+      "size": 446
+    },
+    "data/json/white-lotus-307-swarm-day-00066-2025-06-04.json": {
+      "sha256": "4d9cd04adfd4902e1a970bc8204ef313fab4044e8e16a85a85beb2c37ea56007",
+      "size": 446
+    },
+    "data/json/white-lotus-307-swarm-day-00067-2025-06-05.json": {
+      "sha256": "a3c20107f73a563921723ff857dc0bb55ff36409418a87ca30b1450df0c5b583",
+      "size": 446
+    },
+    "data/json/white-lotus-307-swarm-day-00068-2025-06-06.json": {
+      "sha256": "9d9162769cd8db007e7d2cdf10783eeaad29d225a3898d7421d99dbeadb808ad",
+      "size": 446
+    },
+    "data/json/white-lotus-307-swarm-day-00069-2025-06-07.json": {
+      "sha256": "a4da6963dee63864fb3546b62af52bbae6cec4f022623d3015adba2f5f0d5a6b",
+      "size": 446
+    },
+    "data/json/white-lotus-307-swarm-day-00070-2025-06-08.json": {
+      "sha256": "2090373be43a225de71f2f0cb07f6fd35a4349de5aecf7bafd52289d51850b09",
+      "size": 446
+    },
+    "data/json/white-lotus-307-swarm-day-00071-2025-06-09.json": {
+      "sha256": "deb4321e3b5b4fa7e35272094fb24fecc976aaf5630d07810da1eab5ccd0b561",
+      "size": 446
+    },
+    "data/json/white-lotus-307-swarm-day-00072-2025-06-10.json": {
+      "sha256": "7bf324cc447120cfa0ca87ea805299febc443ea67fb2dbda1401b91dd8959ddc",
+      "size": 446
+    },
+    "data/json/white-lotus-307-swarm-day-00073-2025-06-11.json": {
+      "sha256": "6fa38d6fd0f63a125a5bfd85d2bbc032f5f0b0e36b3334e19073728704216e49",
+      "size": 446
+    },
+    "data/json/white-lotus-307-swarm-day-00074-2025-06-12.json": {
+      "sha256": "8e3998287adc0f94e2d276c3bdcb848be1d920a50a0f0ba55a42af11c892657c",
+      "size": 446
+    },
+    "data/json/white-lotus-307-swarm-day-00075-2025-06-13.json": {
+      "sha256": "981a2c48cebb250419f69bfb2c22f8be816b27d571c5a60cae3df5fc13a155a3",
+      "size": 446
+    },
+    "data/json/white-lotus-307-swarm-day-00076-2025-06-14.json": {
+      "sha256": "65bae67e41b118ebc3f9b40a959c79041c40fbc0c48dc40ad6cf2bf6f8f28c4e",
+      "size": 446
+    },
+    "data/json/white-lotus-307-swarm-day-00077-2025-06-15.json": {
+      "sha256": "674ee7c8f00549de864d54012a9ab78a584c272e2782a3e07ff7b6d3d4a93e53",
+      "size": 446
+    },
+    "data/json/white-lotus-307-swarm-day-00078-2025-06-16.json": {
+      "sha256": "dcc01244104d35a198249f66e9825f22aacffe28c1bc91c082bb3295153a70b3",
+      "size": 446
+    },
+    "data/json/white-lotus-307-swarm-day-00079-2025-06-17.json": {
+      "sha256": "ab3f9a1a4e7fb4a3b6cbc4ca2955824eacb650690eda28a43fa6b0881d27cc3c",
+      "size": 446
+    },
+    "data/json/white-lotus-307-swarm-day-00080-2025-06-18.json": {
+      "sha256": "b030092304d39e589a035021a74ecc3453dd7c8e7f8ac1c90b0667ae0a6e7be6",
+      "size": 446
+    },
+    "data/json/white-lotus-307-swarm-day-00081-2025-06-19.json": {
+      "sha256": "219d0c963637eeec85441573e8d8a4f0b1d072f383cd4a9659bd641299e88ce2",
+      "size": 446
+    },
+    "data/json/white-lotus-307-swarm-day-00082-2025-06-20.json": {
+      "sha256": "a1075fb834f099eb95dea447deb31f9dce8ce2fb43bff3cbfc9e20162e3a2938",
+      "size": 446
+    },
+    "data/json/white-lotus-307-swarm-day-00083-2025-06-21.json": {
+      "sha256": "6c0671cfcbc4696b910c8dce92ce990dd43f37bc7dac1e103fbee450f493f99c",
+      "size": 446
+    },
+    "data/json/white-lotus-307-swarm-day-00084-2025-06-22.json": {
+      "sha256": "f6f6d499cc9a733b78b04ec6062ad7edb3d08a04af52a4ee59f0fc3ca5de322d",
+      "size": 446
+    },
+    "data/json/white-lotus-307-swarm-day-00085-2025-06-23.json": {
+      "sha256": "c8d8c8d0af94348e3007509df2fd693bd791a1191d4deb94059400ec2da7cf31",
+      "size": 446
+    },
+    "data/json/white-lotus-307-swarm-day-00086-2025-06-24.json": {
+      "sha256": "a29ae2816f451ecca461f0d036fb03bdcdffac4e8c6683c50203a87d53600c6e",
+      "size": 446
+    },
+    "data/json/white-lotus-307-swarm-day-00087-2025-06-25.json": {
+      "sha256": "91b4cc06e2452974360d7875a86651b71fed709b448403f4d32569c08b460547",
+      "size": 446
+    },
+    "data/json/white-lotus-307-swarm-day-00088-2025-06-26.json": {
+      "sha256": "f02c8368e91019d6b47e0982415e654c11ee69dcad233d408117ae82b922f637",
+      "size": 446
+    },
+    "data/json/white-lotus-307-swarm-day-00089-2025-06-27.json": {
+      "sha256": "746a6d08941a626f757a4e373bda13c215bbf6f89dda466cfa39ccf2b875ab18",
+      "size": 446
+    },
+    "data/json/white-lotus-307-swarm-day-00090-2025-06-28.json": {
+      "sha256": "62ee59bd4a4b838d09abba3002fff6fd0ecfc350d17be14c845a70dedb071acf",
+      "size": 446
+    },
+    "data/json/white-lotus-307-swarm-day-00091-2025-06-29.json": {
+      "sha256": "87e18e0e47b0f4a4091cf1b849e9efaf72071ad93a15d9d4445dacbd00e02943",
+      "size": 446
+    },
+    "data/json/white-lotus-307-swarm-day-00092-2025-06-30.json": {
+      "sha256": "bb42256f2e2107bbb491df21ca2c57bca2d0f82802f0cd297fee767a75f0ebe8",
+      "size": 446
+    },
+    "data/json/white-lotus-307-swarm-day-00093-2025-07-01.json": {
+      "sha256": "62587786fb7ca1960e43888b252673ad54624bf2b5d37ece7d7dae2c0930f15d",
+      "size": 446
+    },
+    "data/json/white-lotus-307-swarm-day-00094-2025-07-02.json": {
+      "sha256": "96813c7e0e0d05e2780dc152a7b98104c94c054d3b47b291354df2686f9278d6",
+      "size": 446
+    },
+    "data/json/white-lotus-307-swarm-day-00095-2025-07-03.json": {
+      "sha256": "d34eb4239cce96e947c2a494f78c26f2cacb6174f28e67a15d26602f6c9fa007",
+      "size": 446
+    },
+    "data/json/white-lotus-307-swarm-day-00096-2025-07-04.json": {
+      "sha256": "18a341d8996b18087736bb3b102828a709fcc48400599f6f66ddcf05d156dd67",
+      "size": 446
+    },
+    "data/json/white-lotus-307-swarm-day-00097-2025-07-05.json": {
+      "sha256": "6e8e7ccc114b7e10c30cf8340855fdd5deabf75bd8ee1dea256a5255775a19ce",
+      "size": 446
+    },
+    "data/json/white-lotus-307-swarm-day-00098-2025-07-06.json": {
+      "sha256": "c4d7990094113d997609c3bbbd411e6f56e999daa44ba9938d7d2f91f6c787c5",
+      "size": 446
+    },
+    "data/json/white-lotus-307-swarm-day-00099-2025-07-07.json": {
+      "sha256": "7eb9700e6e6da60bed753d8a31ececfbae06cec2fc28d9b1bc4cf28fb8251af4",
+      "size": 446
+    },
+    "data/json/white-lotus-307-swarm-day-00100-2025-07-08.json": {
+      "sha256": "be02c8f57d05c2e2fece72ae0a1f5bba06d9e182be3e51bd9d454a0cba531301",
+      "size": 447
+    },
+    "data/json/white-lotus-307-swarm-day-00101-2025-07-09.json": {
+      "sha256": "672a71a6195aa3ab68a59114c8a7461f61f8e7c95726cb91750120edd635d192",
+      "size": 447
+    },
+    "data/json/white-lotus-307-swarm-day-00102-2025-07-10.json": {
+      "sha256": "2385fc7471a5ba70bd04a3d6ca8932854db912cc1b488648b31c859a23c75339",
+      "size": 447
+    },
+    "data/json/white-lotus-307-swarm-day-00103-2025-07-11.json": {
+      "sha256": "ad099636a37fd94df8e59d64eef4c64cd3b9755f97b29e17ceaa58591fe38843",
+      "size": 447
+    },
+    "data/json/white-lotus-307-swarm-day-00104-2025-07-12.json": {
+      "sha256": "6e45270ae54cfb8a3bc29292d0913193e543d0eff77e4668a34b8c56025a6de4",
+      "size": 447
+    },
+    "data/json/white-lotus-307-swarm-day-00105-2025-07-13.json": {
+      "sha256": "293d2e75b57d706379370350b466cec61138549926b950183ffb77d587c8237b",
+      "size": 447
+    },
+    "data/json/white-lotus-307-swarm-day-00106-2025-07-14.json": {
+      "sha256": "27c557d066287396aa8bec14917e76e35abc53f5f66ad1f2e6a2b4e726e2b343",
+      "size": 447
+    },
+    "data/json/white-lotus-307-swarm-day-00107-2025-07-15.json": {
+      "sha256": "7918e128305fc62f728643f83a240cbce2cb066170573692940c01854ff61f03",
+      "size": 447
+    },
+    "data/json/white-lotus-307-swarm-day-00108-2025-07-16.json": {
+      "sha256": "cda2e4afc384ce1c7b01e403ab441e2453b4351041faddf9b23b1298472b9e98",
+      "size": 447
+    },
+    "data/json/white-lotus-307-swarm-day-00109-2025-07-17.json": {
+      "sha256": "4b1dd80f510ca5c7caad14d9453c107e9aaaa623522644b278cb897f96425bef",
+      "size": 447
+    },
+    "data/json/white-lotus-307-swarm-day-00110-2025-07-18.json": {
+      "sha256": "804e3f0f6722f45a627bb5b10feb864038f3f175017833fc6519e62c86ea90d7",
+      "size": 447
+    },
+    "data/json/white-lotus-307-swarm-day-00111-2025-07-19.json": {
+      "sha256": "f3ae6885bec682a8d2edc2227932b6837ea4a9df7f0ddb2153f860ca34450aaf",
+      "size": 447
+    },
+    "data/json/white-lotus-307-swarm-day-00112-2025-07-20.json": {
+      "sha256": "178c838f6e95db5b69c82f964eb731f027770c86bdc8c2ab463997a83e7419e9",
+      "size": 447
+    },
+    "data/json/white-lotus-307-swarm-day-00113-2025-07-21.json": {
+      "sha256": "e00bdf595db3b37f8df913fb19cb5df41ec6edaea53106fbb8a11fb543e1e6e8",
+      "size": 447
+    },
+    "data/json/white-lotus-307-swarm-day-00114-2025-07-22.json": {
+      "sha256": "045d19cecaf958a87945a80027cd7f9e2266034a73cca765fa58e4a3b0c88e37",
+      "size": 447
+    },
+    "data/json/white-lotus-307-swarm-day-00115-2025-07-23.json": {
+      "sha256": "abe389fa0fd05bf98e2c7c43f348ef9c7d400a849d6d538394930a55c50d1cfb",
+      "size": 447
+    },
+    "data/json/white-lotus-307-swarm-day-00116-2025-07-24.json": {
+      "sha256": "16fd05557a245f9bed10e467f5b553deeb2db6673406809173df30fd95888f90",
+      "size": 447
+    },
+    "data/json/white-lotus-307-swarm-day-00117-2025-07-25.json": {
+      "sha256": "3c1977c19be3bf5b13ede37c86d86da2c7db714cd4a552ee2db0a0c1d641cd4f",
+      "size": 447
+    },
+    "data/json/white-lotus-307-swarm-day-00118-2025-07-26.json": {
+      "sha256": "3435b4d2a9b5de202925e7facdd37448f222bec29ecc77557220dddbd13e5ca2",
+      "size": 447
+    },
+    "data/json/white-lotus-307-swarm-day-00119-2025-07-27.json": {
+      "sha256": "f1ed4a543f5d0463d3d1c3e188a46da1029fd996a6a536c282d56ce2fb9a2345",
+      "size": 447
+    },
+    "data/json/white-lotus-307-swarm-day-00120-2025-07-28.json": {
+      "sha256": "a15e4bcaf870dff1508a5dc453e9235f6b4cb20750b0a8d81c6d1d607c876b56",
+      "size": 447
+    },
+    "data/json/white-lotus-307-swarm-day-00121-2025-07-29.json": {
+      "sha256": "38cc31638f5454a30e1fe707c1533956fb10234458184f58c92eb81d5e6ccb8e",
+      "size": 447
+    },
+    "data/json/white-lotus-307-swarm-day-00122-2025-07-30.json": {
+      "sha256": "e9849be8a10b686df6b16fb652abd642d978fc7b7038f638939dc0039aee4499",
+      "size": 447
+    },
+    "data/json/white-lotus-307-swarm-day-00123-2025-07-31.json": {
+      "sha256": "ad4381a538cff9ce3c9c3b5fa0a9a8c2534924cbe23f5a41b63af9f064940db4",
+      "size": 447
+    },
+    "data/json/white-lotus-307-swarm-day-00124-2025-08-01.json": {
+      "sha256": "d06446065598000b309cdb072c4332a9abfb2509bc29ee1ddad3bee5bbad2a56",
+      "size": 447
+    },
+    "data/json/white-lotus-307-swarm-day-00125-2025-08-02.json": {
+      "sha256": "b544dea8296edf2ef291447caa09ed9ee29aadff86d7cb92b9abeda5cfd4ac03",
+      "size": 447
+    },
+    "data/json/white-lotus-307-swarm-day-00126-2025-08-03.json": {
+      "sha256": "d3be1a5b7e1b01133ea7a371d5a3db79ebe090de1df95390801320a64ddf1523",
+      "size": 447
+    },
+    "data/json/white-lotus-307-swarm-day-00127-2025-08-04.json": {
+      "sha256": "eb6fb80e7bb90967d8c2e47d777593ed5f129c0f7d195a1b928eda6a91ecd149",
+      "size": 447
+    },
+    "data/json/white-lotus-307-swarm-day-00128-2025-08-05.json": {
+      "sha256": "4e78e00d5e7858219407858d93b330d437656c8dc15b3d51c4752e96f95d8e4f",
+      "size": 446
+    },
+    "data/json/white-lotus-307-swarm-day-00129-2025-08-06.json": {
+      "sha256": "fc266c9b42ffcd91b4fc3de71678bd126f72202e7ed5d0d9c4138d1ca31f72b6",
+      "size": 447
+    },
+    "data/json/white-lotus-307-swarm-day-00130-2025-08-07.json": {
+      "sha256": "065787f4d2644e2ec23089b93b2e2c8d4bcf1ee3a38be4f66d1b20412046ba45",
+      "size": 447
+    },
+    "data/json/white-lotus-307-swarm-day-00131-2025-08-08.json": {
+      "sha256": "79d69ef5535934bb1bfa0e069bd2ab5f8b909b61c55ca805b9babea6999b2b36",
+      "size": 447
+    },
+    "data/json/white-lotus-307-swarm-day-00132-2025-08-09.json": {
+      "sha256": "44dcba4edaa82afeed24b7adb0875418ffd7050ce4de573ab3b4992d635a0510",
+      "size": 447
+    },
+    "data/json/white-lotus-307-swarm-day-00133-2025-08-10.json": {
+      "sha256": "52d38b891a3249eb7ed12622315352d6e28c24942b5890efc57fc6472a630a60",
+      "size": 447
+    },
+    "data/json/white-lotus-307-swarm-day-00134-2025-08-11.json": {
+      "sha256": "f4d984120585dd8c05032e02c7e217df3e1c902ded1f5fc26527d45682c761ea",
+      "size": 447
+    },
+    "data/json/white-lotus-307-swarm-day-00135-2025-08-12.json": {
+      "sha256": "1395cbc7e994e556dc7fa1d62d13f040e18285b825eb9efbc60d652f8f5afed3",
+      "size": 447
+    },
+    "data/json/white-lotus-307-swarm-day-00136-2025-08-13.json": {
+      "sha256": "093f9e0dfe59557ebc0e73f3515f7c962294ec24156cbc3f6bbb60559e25fd74",
+      "size": 447
+    },
+    "data/json/white-lotus-307-swarm-day-00137-2025-08-14.json": {
+      "sha256": "913fc69ec611a947475f6657ff697d702fc9aa78360bb85232a5ada8e90acc95",
+      "size": 447
+    },
+    "data/json/white-lotus-307-swarm-day-00138-2025-08-15.json": {
+      "sha256": "311c891c157ff84d5c34c18e1dbe5c2e372681616cbd312814c364b9f6142bf5",
+      "size": 447
+    },
+    "data/json/white-lotus-307-swarm-day-00139-2025-08-16.json": {
+      "sha256": "8c9c1abf202ea1a85a6e5d2c3706dbcc53300dd549c65595c77d2010ed1987b7",
+      "size": 447
+    },
+    "data/json/white-lotus-307-swarm-day-00140-2025-08-17.json": {
+      "sha256": "dc8a2106c8bd720e616b898f1e6f7979212d7e8d4e98365a3df927296a4d8ca9",
+      "size": 447
+    },
+    "data/json/white-lotus-307-swarm-day-00141-2025-08-18.json": {
+      "sha256": "52ee48d2dd317712b1f1a6614784f2f488b1ab4f93d2723314543ec3e8ea3d4f",
+      "size": 447
+    },
+    "data/json/white-lotus-307-swarm-day-00142-2025-08-19.json": {
+      "sha256": "283e8746b68b70c3dd1010ff2d413ae92ca869cf35033cdbd7d0af27d83eabdc",
+      "size": 447
+    },
+    "data/json/white-lotus-307-swarm-day-00143-2025-08-20.json": {
+      "sha256": "41cd8eac265ed3364a015991342e05fbe9501749629ec29ab0b8b8e82af07988",
+      "size": 447
+    },
+    "data/json/white-lotus-307-swarm-day-00144-2025-08-21.json": {
+      "sha256": "e46122cd841c422f18d9e3f29a93dfd1bb61de558f395f30f733a3b48792f3fe",
+      "size": 447
+    },
+    "data/json/white-lotus-307-swarm-day-00145-2025-08-22.json": {
+      "sha256": "a60ec52a18450045565975cf7187717c8202f0577b193738be16e30d77abe637",
+      "size": 447
+    },
+    "data/json/white-lotus-307-swarm-day-00146-2025-08-23.json": {
+      "sha256": "0261e031e0fae7f55d2c8064f19e2d52ae743c1d007f401616d32e063299dac8",
+      "size": 447
+    },
+    "data/json/white-lotus-307-swarm-day-00147-2025-08-24.json": {
+      "sha256": "cdeb5e595978d6dfd33e4010ab78bb7580593d2a77579e1b45cb42b7af219110",
+      "size": 447
+    },
+    "data/json/white-lotus-307-swarm-day-00148-2025-08-25.json": {
+      "sha256": "c39a4d8deff4f87b7ebefce5d89ea4f13433fd729eae1d68afbe36c3846b9408",
+      "size": 447
+    },
+    "data/json/white-lotus-307-swarm-day-00149-2025-08-26.json": {
+      "sha256": "c4d8d498dc30ceaeb5bcc210aca843ebed031c4c61b838be0ff8fb08a03741c7",
+      "size": 447
+    },
+    "data/json/white-lotus-307-swarm-day-00150-2025-08-27.json": {
+      "sha256": "f92d3f40991056b40812f2001cc04ed404addcb29149ddf744d5c3761ec444a2",
+      "size": 447
+    },
+    "data/json/white-lotus-307-swarm-day-00151-2025-08-28.json": {
+      "sha256": "63405f338c159d39e8446ea1237333efd427a453ce8d09d33b59975dc1a163f6",
+      "size": 447
+    },
+    "data/json/white-lotus-307-swarm-day-00152-2025-08-29.json": {
+      "sha256": "3929cd26927710c672c65d97820a065764eab07cd0cc2bd4fc33c23e0e5f979f",
+      "size": 447
+    },
+    "data/json/white-lotus-307-swarm-day-00153-2025-08-30.json": {
+      "sha256": "620bf08b584df95dc75c88780272d600554da8242135f23e230e4f2380308ff2",
+      "size": 447
+    },
+    "data/json/white-lotus-307-swarm-day-00154-2025-08-31.json": {
+      "sha256": "2578043eab4c26be136de2eb6a099c4f6abe9fe706ef79a44467dce12b8269b8",
+      "size": 447
+    },
+    "data/json/white-lotus-307-swarm-day-00155-2025-09-01.json": {
+      "sha256": "7fbc5c0d85f4227bfa6e3c3aabdbfd366f55fd94858b7da7713258cd5a751878",
+      "size": 447
+    },
+    "data/json/white-lotus-307-swarm-day-00156-2025-09-02.json": {
+      "sha256": "6e1fd77683d81d4df5ebe40ebd4e38fec4c8be4357a23d5112c0e9c4088d6421",
+      "size": 447
+    },
+    "data/json/white-lotus-307-swarm-day-00157-2025-09-03.json": {
+      "sha256": "a0558d25d02f42edefba2e31969548031e72d837071f038047f1e1999bcdfe33",
+      "size": 447
+    },
+    "data/json/white-lotus-307-swarm-day-00158-2025-09-04.json": {
+      "sha256": "94e0cfce45e3b7d088fc7ae0285e7d9c7548e0ba8f9395792ce43c14808bbfdc",
+      "size": 447
+    },
+    "data/json/white-lotus-307-swarm-day-00159-2025-09-05.json": {
+      "sha256": "629e07470afada5bf64c0ef55ef256be80f110b7ef24b482577d6e4bb54de4d5",
+      "size": 447
+    },
+    "data/json/white-lotus-307-swarm-day-00160-2025-09-06.json": {
+      "sha256": "e9908a091717d240bfdb943b80bd698a55383899dd960456ea231d2f80f5e8d2",
+      "size": 447
+    },
+    "data/json/white-lotus-307-swarm-day-00161-2025-09-07.json": {
+      "sha256": "556fbd804162f26e46e44983cca3e473fa0e0a84acb7d53f36a5bb19a92c1e84",
+      "size": 447
+    },
+    "data/json/white-lotus-307-swarm-day-00162-2025-09-08.json": {
+      "sha256": "fb8128258f1bb30136f9e4057d9ed83380176bfebd85d814fd57e309897f7a13",
+      "size": 447
+    },
+    "data/json/white-lotus-307-swarm-day-00163-2025-09-09.json": {
+      "sha256": "4f4231c89a0471013724324e663f4f1bf12c5fb09f4d00b588a295b090e8ad19",
+      "size": 447
+    },
+    "data/json/white-lotus-307-swarm-day-00164-2025-09-10.json": {
+      "sha256": "3c8fbb29a651309da68c100585c1d754b9b371f33ec154096402ccfc2f59567f",
+      "size": 447
+    },
+    "data/json/white-lotus-307-swarm-day-00165-2025-09-11.json": {
+      "sha256": "12ebc5fb59b35fa3b13c26334678c0167ae388b161f8bfb1e91808db1a8e0dde",
+      "size": 447
+    },
+    "data/json/white-lotus-307-swarm-day-00166-2025-09-12.json": {
+      "sha256": "9a5c1416ae83b26c98f63307d8d637779623ef92114b0c9d126957f2be306f43",
+      "size": 447
+    },
+    "data/json/white-lotus-307-swarm-day-00167-2025-09-13.json": {
+      "sha256": "572f13197d94fe04fbed82c2595db374e9005944569eb38cbc4cad58f5dd2586",
+      "size": 447
+    },
+    "data/json/white-lotus-307-swarm-day-00168-2025-09-14.json": {
+      "sha256": "5e04d94c668c86029c3ded86a37daceefec580d4e1fb6cf108bd5a0d424be5b5",
+      "size": 447
+    },
+    "data/json/white-lotus-307-swarm-day-00169-2025-09-15.json": {
+      "sha256": "19a1d5ec7ccd204c0f04c5d3590e4de8592941d6a3acda8a3d9f68e4460c82da",
+      "size": 447
+    },
+    "data/json/white-lotus-307-swarm-day-00170-2025-09-16.json": {
+      "sha256": "cad373eb7a27ff44e0f291870a42bcc00c6da44857cb16975eb1237be434b8e7",
+      "size": 447
+    },
+    "data/json/white-lotus-307-swarm-day-00171-2025-09-17.json": {
+      "sha256": "ae0041a5f3d293d4551c7a0596292774540f83e2ee05e9e04807918c1ad7c761",
+      "size": 447
+    },
+    "data/json/white-lotus-307-swarm-day-00172-2025-09-18.json": {
+      "sha256": "b64345330b1dee536c4c18073b72e5cb72bb9dec1f297de4d8ed5141a726f332",
+      "size": 447
+    },
+    "data/json/white-lotus-307-swarm-day-00173-2025-09-19.json": {
+      "sha256": "52f7e072bcbd7cc9a2b064afeb6a3d7b7865ccbca3055d9616af225f6fc5bfa6",
+      "size": 447
+    },
+    "data/json/white-lotus-307-swarm-day-00174-2025-09-20.json": {
+      "sha256": "043fc9499ce361913b091c60ee580a0bea85bc8a45470d04100a9c3bece1035f",
+      "size": 447
+    },
+    "data/json/white-lotus-307-swarm-day-00175-2025-09-21.json": {
+      "sha256": "4ceadbce18a75240e607597a02d131c3f8098be5f19aa06b8eb3585ce5bf2344",
+      "size": 447
+    },
+    "data/json/white-lotus-307-swarm-day-00176-2025-09-22.json": {
+      "sha256": "84aa7138e9af4f3dab69e831724b74b4f0fdc3c3a81c0b78c77b3132ed74f4d2",
+      "size": 447
+    },
+    "data/json/white-lotus-307-swarm-day-00177-2025-09-23.json": {
+      "sha256": "84c2a0554dedb80ca0d6421ebb18153e93a7adb45ca28277889dab891819ac6b",
+      "size": 447
+    },
+    "data/json/white-lotus-307-swarm-day-00178-2025-09-24.json": {
+      "sha256": "a6fc0d807f51d36d97462ff896c3b8262a2bad11b804298df25ba915bab6c4ac",
+      "size": 447
+    },
+    "data/json/white-lotus-307-swarm-day-00179-2025-09-25.json": {
+      "sha256": "5c576a26eb7b464519b063d1040ca94b165035ff8c7509101408e1d596bf7808",
+      "size": 447
+    },
+    "data/json/white-lotus-307-swarm-day-00180-2025-09-26.json": {
+      "sha256": "90cc493e1a9b2299a9fe82fb3f91dac635f5689a7366a2b4d8df3cc86d1c9a7f",
+      "size": 447
+    },
+    "data/json/white-lotus-307-swarm-day-00181-2025-09-27.json": {
+      "sha256": "dd06a11a3c7bef5ba4624a306cb856877af496de7f46f0877094c9ca1677ccfe",
+      "size": 447
+    },
+    "data/json/white-lotus-307-swarm-day-00182-2025-09-28.json": {
+      "sha256": "b9b17318aaa5dbb458b117d3c6032ce9f1f492ead98e1084aacdd0c428e82d6e",
+      "size": 447
+    },
+    "data/json/white-lotus-307-swarm-day-00183-2025-09-29.json": {
+      "sha256": "15f60d4f9e7c0411a61c2f65330abfbcc3b8661257e55a6b4870564ca71b7be9",
+      "size": 447
+    },
+    "data/json/white-lotus-307-swarm-day-00184-2025-09-30.json": {
+      "sha256": "a23f1546f4aefc76a3ae380a631246ce96d9d1546cc031a4a494ef8681b5c5ff",
+      "size": 447
+    },
+    "data/json/white-lotus-307-swarm-day-00185-2025-10-01.json": {
+      "sha256": "a53ed18e008680e7af22432cd3afe4bad7a6adc093198e2abe23fa830ef157d8",
+      "size": 447
+    },
+    "data/json/white-lotus-307-swarm-day-00186-2025-10-02.json": {
+      "sha256": "6a5ba060fe0648eaaa22a16106abb3e00be6bfd74fb006579374133683c85433",
+      "size": 447
+    },
+    "data/json/white-lotus-307-swarm-day-00187-2025-10-03.json": {
+      "sha256": "a8c45499aa7e882f2781f7b2f07cf37c9cbfe4ff61b29dfced4dc3eeefa650bc",
+      "size": 447
+    },
+    "data/json/white-lotus-307-swarm-day-00188-2025-10-04.json": {
+      "sha256": "a7deabe223d7ea3e60fb6404d4302db7b83b9c3c6361384182ef4a80a8e102a0",
+      "size": 447
+    },
+    "data/json/white-lotus-307-swarm-day-00189-2025-10-05.json": {
+      "sha256": "c9aa783159d7525130d1a494677697b718c69760e61e05d0afebbe2e30149aa2",
+      "size": 447
+    }
+  },
+  "schema": "alpha60-year-day-product-bundle/1",
+  "source_revisions": {
+    "aggregate_binary": {
+      "sha256": "7408569641f7247fbd00969cffddaf1bb0cf2768c7fc1529f4cc6191ccfeae05",
+      "size": 38582648
+    },
+    "alpha60": "34f34e5c6eaafebbe65d9dbe1ade7609e9e61b2b",
+    "alpha60_data": "8faeae67a5d274d1fc00bffe9fc9318329163b20",
+    "day_product_contract": {
+      "sha256": "0aa0bee3ac14b512c786d3496ab5218a46aff11786ffa6aa9ea85e762fbd6370",
+      "size": 9897
+    },
+    "generate_cache_aggregates": {
+      "sha256": "2e03ba2df36d70d6293d803880c67ae0f2c3afde1ea5837075e31855a258516b",
+      "size": 22934
+    },
+    "metadata": "fbeb53a0b523f937fae2f23d14689d8c5c84dd5a",
+    "package_script": {
+      "sha256": "21d85741346f2bb967f618a36825484d87b3b94cea93dac22781c103abae8a0e",
+      "size": 15384
+    },
+    "year_day_contract": {
+      "sha256": "f1c07d6f2fdc19475a6f25ddaee5923957447a6f49a8009d8b4c9984a63bd883",
+      "size": 9356
+    }
+  },
+  "status": "pass"
+}
