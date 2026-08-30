@@ -1,0 +1,893 @@
+{
+  "archive": {
+    "path": "/home/bkoz/src/alpha60-xperiments/year-2025-archives/beatles-anthology.cache/cache.20260310.tar.xz",
+    "sha256": "d72ba34a9427b2ce6429d08dd1d608226e7cda8201844cc4017a2b9e377c42b2",
+    "size": 448287336
+  },
+  "authorization": {
+    "archive_mutated": false,
+    "excluded_member_classes": [
+      "hour",
+      "week",
+      "cumulative"
+    ],
+    "raw_samples_opened": false,
+    "scope": "read only streaming of per-torrent day records"
+  },
+  "collection_key": "beatles-anthology",
+  "day_product_contract": {
+    "collection_key": "beatles-anthology",
+    "day_products": 105,
+    "first_date": "2025-11-26",
+    "first_index": 1,
+    "geojson_data_version": "20260701",
+    "ip_geolocation_version": "6:1777968300",
+    "json_data_version": "2026-08-05",
+    "last_date": "2026-03-10",
+    "last_index": 105,
+    "schema": "alpha60-day-product-contract/1",
+    "sparse": false,
+    "status": "pass"
+  },
+  "publications": {
+    "data/geojson.day/beatles-anthology-day-00001.geojson.gz": {
+      "sha256": "50a2db1662a7231fa071ede04efd8734a2a9edac476315861a2f2da8e5456ea6",
+      "size": 18250
+    },
+    "data/geojson.day/beatles-anthology-day-00002.geojson.gz": {
+      "sha256": "9d3c764b445cc8ccf19e4fe7299a80f198359006d884ae2cbe972563846c0e20",
+      "size": 64447
+    },
+    "data/geojson.day/beatles-anthology-day-00003.geojson.gz": {
+      "sha256": "abded5759c6af90fe1c93ca7062e36f3d5e0911edbe66957f41240c295c2c2c3",
+      "size": 77508
+    },
+    "data/geojson.day/beatles-anthology-day-00004.geojson.gz": {
+      "sha256": "15f8bfcefc170a5b7917d4414b35f84d861fddfd81ea30d63204081b2de88ee9",
+      "size": 97829
+    },
+    "data/geojson.day/beatles-anthology-day-00005.geojson.gz": {
+      "sha256": "b381040dd9af050eda9e993b27d3a41e09773b5ba5f6b68b82bdc19d87a50990",
+      "size": 109933
+    },
+    "data/geojson.day/beatles-anthology-day-00006.geojson.gz": {
+      "sha256": "5510c0a6b47584b8c4bf104ff6b441c68a038a5f60f96bd539498b56e033a1ac",
+      "size": 125472
+    },
+    "data/geojson.day/beatles-anthology-day-00007.geojson.gz": {
+      "sha256": "bb415275f2af5007c460664e00bc85bca63b89aa76c3eb850a9e93de5f089477",
+      "size": 124844
+    },
+    "data/geojson.day/beatles-anthology-day-00008.geojson.gz": {
+      "sha256": "b38f4a8f18f8d6c7a29c8ab7e1bbe455899e0f17df9241748bf93f27032550fe",
+      "size": 132284
+    },
+    "data/geojson.day/beatles-anthology-day-00009.geojson.gz": {
+      "sha256": "76fee20989a7f7a51658331264641db93fa83d09c7c1532e2f1e964b44da3eb5",
+      "size": 138165
+    },
+    "data/geojson.day/beatles-anthology-day-00010.geojson.gz": {
+      "sha256": "9f3dc6c8f0f8075b14b15a60940c5bc05f567fec26ae3490c288ceddf706d188",
+      "size": 134721
+    },
+    "data/geojson.day/beatles-anthology-day-00011.geojson.gz": {
+      "sha256": "277fdcd4f545c366eb9e7b9d83dbe817f0ecf48028d8480be6b78e0fbb5824ff",
+      "size": 134306
+    },
+    "data/geojson.day/beatles-anthology-day-00012.geojson.gz": {
+      "sha256": "3b1ac304b92dd7624ba9800399210493d2b5a5d3b68ca5ccf19864fe6523cdc8",
+      "size": 126955
+    },
+    "data/geojson.day/beatles-anthology-day-00013.geojson.gz": {
+      "sha256": "b289b497831d2eb11aa649170e04953a4019e13e113a380c9051a5346ede1b7d",
+      "size": 149003
+    },
+    "data/geojson.day/beatles-anthology-day-00014.geojson.gz": {
+      "sha256": "89739c139bb1e882bb4fbf6ee3167b5cbd93c0f59a32d06c074e6f938e58be2f",
+      "size": 139047
+    },
+    "data/geojson.day/beatles-anthology-day-00015.geojson.gz": {
+      "sha256": "85e16283c07c51230da804633a7f27e72e76ae8e71a743c2ae5b7fb9ab6f4a8e",
+      "size": 138002
+    },
+    "data/geojson.day/beatles-anthology-day-00016.geojson.gz": {
+      "sha256": "ae066882e318c6751916a5ac5abddadc0d820cff0221dfd06ebdff5825ad67e0",
+      "size": 130646
+    },
+    "data/geojson.day/beatles-anthology-day-00017.geojson.gz": {
+      "sha256": "f046558efb254efbbf418d790b4327e7972e32273eec927bce58acaf64faf3d2",
+      "size": 122611
+    },
+    "data/geojson.day/beatles-anthology-day-00018.geojson.gz": {
+      "sha256": "ed05a35da878564e90041a205f7a7f185a634affd15d5ba84b834dbed4f7f3c5",
+      "size": 117781
+    },
+    "data/geojson.day/beatles-anthology-day-00019.geojson.gz": {
+      "sha256": "7058835489dbcb7c83ead23f7a32c0410b57e8fed7f6c21f2e7543b9b6fc8f14",
+      "size": 106674
+    },
+    "data/geojson.day/beatles-anthology-day-00020.geojson.gz": {
+      "sha256": "e863387503771a7778ab08b8437440ca40cec177dda87359878ce836945a5f8e",
+      "size": 141087
+    },
+    "data/geojson.day/beatles-anthology-day-00021.geojson.gz": {
+      "sha256": "4afd2ca26da538bc12f2fe13861724caa6fe08be3fca5cf8418face4e884818a",
+      "size": 139400
+    },
+    "data/geojson.day/beatles-anthology-day-00022.geojson.gz": {
+      "sha256": "14e743e9d46c148af1ae27c48312b146c610543392f2cfcb9b1018edf499bfd5",
+      "size": 138856
+    },
+    "data/geojson.day/beatles-anthology-day-00023.geojson.gz": {
+      "sha256": "03d40f65dc18ed6dceba09cf4d61261a75746bace3d9ea79812f6fb8704a64f9",
+      "size": 142803
+    },
+    "data/geojson.day/beatles-anthology-day-00024.geojson.gz": {
+      "sha256": "6f1190cb150d41ce027fea94037f864926ce46b3a37bd0e0f0f5051d388e6341",
+      "size": 131813
+    },
+    "data/geojson.day/beatles-anthology-day-00025.geojson.gz": {
+      "sha256": "953fc56b90be7b525d1585468aef2e2916007e4b79ac7c26796af98a05083aeb",
+      "size": 130529
+    },
+    "data/geojson.day/beatles-anthology-day-00026.geojson.gz": {
+      "sha256": "7d5a3f98cfcfe5c6bf36d368dd9986cd63eb76df3e217012cc9af22323e401f2",
+      "size": 130602
+    },
+    "data/geojson.day/beatles-anthology-day-00027.geojson.gz": {
+      "sha256": "be49a3540de177cc14e871ed9379f925ee8606aff8f6303c3bea1379d4d250a7",
+      "size": 110361
+    },
+    "data/geojson.day/beatles-anthology-day-00028.geojson.gz": {
+      "sha256": "909b32d2627480788d5577c5c3ede52a7b4e262a9198eed2081461733fd3c612",
+      "size": 70679
+    },
+    "data/geojson.day/beatles-anthology-day-00029.geojson.gz": {
+      "sha256": "8ecdf758ce29924263e41dc2d808094da74eddcea14c7ad2f926d32f8a1826b2",
+      "size": 146474
+    },
+    "data/geojson.day/beatles-anthology-day-00030.geojson.gz": {
+      "sha256": "461bb41ca53f72377ae80fb58c42cf0cc3228d95c7bffaedf8f81dc37827a57d",
+      "size": 142901
+    },
+    "data/geojson.day/beatles-anthology-day-00031.geojson.gz": {
+      "sha256": "db4a7a986ea1b74ca9fcba7226a5c2442c24e09f7a248ff7d8e706df4c29802c",
+      "size": 136599
+    },
+    "data/geojson.day/beatles-anthology-day-00032.geojson.gz": {
+      "sha256": "78708c4f2527cbaabb5b6875dcb77ce88e139426b77648d367bb3b5190c433da",
+      "size": 133752
+    },
+    "data/geojson.day/beatles-anthology-day-00033.geojson.gz": {
+      "sha256": "da93bf7da3782cb0511ae4f8208a9c57d919f074a070a3959ac5fdc5a45bfd82",
+      "size": 123775
+    },
+    "data/geojson.day/beatles-anthology-day-00034.geojson.gz": {
+      "sha256": "d8c8aa6581f885044d4b4a495542517187f240c09fe5c217c93f43ebe2c1c93c",
+      "size": 144648
+    },
+    "data/geojson.day/beatles-anthology-day-00035.geojson.gz": {
+      "sha256": "4a0067e902898f6b36c4b32f3424dd4c983158458eb9640b80acaaf46105268a",
+      "size": 139113
+    },
+    "data/geojson.day/beatles-anthology-day-00036.geojson.gz": {
+      "sha256": "75fa745efaa8343b152f6982ba2fffd7926bef9a96bf89d941776b5326b6d18d",
+      "size": 144215
+    },
+    "data/geojson.day/beatles-anthology-day-00037.geojson.gz": {
+      "sha256": "18dbf9dba7a6884ef7d54ce8795038b3b5a1788c9eaf60e86d393a03c331abd9",
+      "size": 150856
+    },
+    "data/geojson.day/beatles-anthology-day-00038.geojson.gz": {
+      "sha256": "f3e70c4839a45397711a8560ea5fe7fdaf480387d3c04706297027c60dbe39d3",
+      "size": 150026
+    },
+    "data/geojson.day/beatles-anthology-day-00039.geojson.gz": {
+      "sha256": "db4d08ed026361865b90ef1b906202c86c78e0ebc0b79360f4cc4d3077f639b3",
+      "size": 140576
+    },
+    "data/geojson.day/beatles-anthology-day-00040.geojson.gz": {
+      "sha256": "25f5029f5547a6fc7819cd5a5cd9ab10d10e3c20ad42354d8cde494eef5c1711",
+      "size": 137535
+    },
+    "data/geojson.day/beatles-anthology-day-00041.geojson.gz": {
+      "sha256": "bc0944ced67129fe014ed9e1be4b15228c16aca953878a4b72c4907d6dd4080d",
+      "size": 149423
+    },
+    "data/geojson.day/beatles-anthology-day-00042.geojson.gz": {
+      "sha256": "fd841179755ae4dcf3bf0715230c06c9bfe150814322fe330ebe22b9bb228d3d",
+      "size": 130719
+    },
+    "data/geojson.day/beatles-anthology-day-00043.geojson.gz": {
+      "sha256": "05e010f2960cf4ba1bd6c731fdc7d621b60342ff2a61f4538310c830cde89d63",
+      "size": 155350
+    },
+    "data/geojson.day/beatles-anthology-day-00044.geojson.gz": {
+      "sha256": "51e96d9fb4282243821d210dcbb291028a022fdda802dc5aa6a6abde8ad3c7a7",
+      "size": 173081
+    },
+    "data/geojson.day/beatles-anthology-day-00045.geojson.gz": {
+      "sha256": "31a1c2da6aeb0a2028b01fd9e754b1388204d776778d0fca5ae8fe155df40d0c",
+      "size": 157313
+    },
+    "data/geojson.day/beatles-anthology-day-00046.geojson.gz": {
+      "sha256": "f6cd1354444af4439477ca215f1dffb0e250340db5930fbc3ff540eb06cdbc89",
+      "size": 150228
+    },
+    "data/geojson.day/beatles-anthology-day-00047.geojson.gz": {
+      "sha256": "b31167660128c6bbf7fc7a1f8fc956b5b613f9a0bf6b2aa62bc73b4196e71e6b",
+      "size": 144611
+    },
+    "data/geojson.day/beatles-anthology-day-00048.geojson.gz": {
+      "sha256": "d030481723e76b6f160e9769b95d2bc40f9e3ef3d091809fa38283ebe4820049",
+      "size": 131930
+    },
+    "data/geojson.day/beatles-anthology-day-00049.geojson.gz": {
+      "sha256": "2e468ee8fd9c2aca767d5afe8b121e0775e3dc77303d1a2986acf055fea87667",
+      "size": 141997
+    },
+    "data/geojson.day/beatles-anthology-day-00050.geojson.gz": {
+      "sha256": "1ffc117dca17c17d0d03fa0d01be5d9d83567ca10daaa3ad222ad04e4340faf1",
+      "size": 159050
+    },
+    "data/geojson.day/beatles-anthology-day-00051.geojson.gz": {
+      "sha256": "b1ed257aee2713a3ff73d4bffd58d61f9c565355b5d6c0d2a2b5f770e84d7823",
+      "size": 139570
+    },
+    "data/geojson.day/beatles-anthology-day-00052.geojson.gz": {
+      "sha256": "f4f71b6a59a5a54303dd32f30b3f3dfa0b0a2e601bc871ab81bb288ccd900d00",
+      "size": 137217
+    },
+    "data/geojson.day/beatles-anthology-day-00053.geojson.gz": {
+      "sha256": "b6ed271d88272e19d2f787bbe4c7ba79e4d6e38706f55fad3bc441f50343d52c",
+      "size": 131403
+    },
+    "data/geojson.day/beatles-anthology-day-00054.geojson.gz": {
+      "sha256": "4d6543f3a3ca8d65d001a83f33c7f5f6ec3127199366b2c0d4f20563571e544d",
+      "size": 149971
+    },
+    "data/geojson.day/beatles-anthology-day-00055.geojson.gz": {
+      "sha256": "5fd7f3be76fc2c2daaa5847aa093fd9306130a572a463724fc07cc13092e2587",
+      "size": 145242
+    },
+    "data/geojson.day/beatles-anthology-day-00056.geojson.gz": {
+      "sha256": "2b467095f8941359f9ddde0fa44455aeb010ad10f8b53461e6547188a1e34d31",
+      "size": 160087
+    },
+    "data/geojson.day/beatles-anthology-day-00057.geojson.gz": {
+      "sha256": "1a7c33998ccf0cf9f45024cda4fe912760bee105555e591f5e350ab51da5f9ac",
+      "size": 160273
+    },
+    "data/geojson.day/beatles-anthology-day-00058.geojson.gz": {
+      "sha256": "bdb78120080a7ff131319f785452628d6d263aec67c7be9302ae1daf31197e12",
+      "size": 165981
+    },
+    "data/geojson.day/beatles-anthology-day-00059.geojson.gz": {
+      "sha256": "8de7f67c428ff419f144dae30971ddd988b1b2badf7b1ce56e6903a832ebfac6",
+      "size": 156601
+    },
+    "data/geojson.day/beatles-anthology-day-00060.geojson.gz": {
+      "sha256": "4284fe435dd4e3d8a91eca3b6b83cfd5ed9723a7ccd198fcf6b121ffc08c984b",
+      "size": 152297
+    },
+    "data/geojson.day/beatles-anthology-day-00061.geojson.gz": {
+      "sha256": "739c0eb1720f24858efaf748b7d5993a354d4dbaed72dc770349b01bd5b70ecb",
+      "size": 157061
+    },
+    "data/geojson.day/beatles-anthology-day-00062.geojson.gz": {
+      "sha256": "9e0919bc9cbf7eca36e35353f662274db590d0932f89db028b838941c6de8fb2",
+      "size": 157175
+    },
+    "data/geojson.day/beatles-anthology-day-00063.geojson.gz": {
+      "sha256": "a2a12903a61f093b6ef7ca699a39d8718b6d64a21e6940809277ce88c9b8e5ed",
+      "size": 162192
+    },
+    "data/geojson.day/beatles-anthology-day-00064.geojson.gz": {
+      "sha256": "3c885dcd3b62b01e8c9d6dd5595c06386720617d831438240396b256db791fa4",
+      "size": 138298
+    },
+    "data/geojson.day/beatles-anthology-day-00065.geojson.gz": {
+      "sha256": "82519301dda75cb7d3450e4c8dca50b5405220c6e27bc2f699d95eb92e50b5b3",
+      "size": 135154
+    },
+    "data/geojson.day/beatles-anthology-day-00066.geojson.gz": {
+      "sha256": "a0ce7bfed348f11fb5228d57373e3b53e271d0fa3df1678c5ee40204e051bcfb",
+      "size": 145239
+    },
+    "data/geojson.day/beatles-anthology-day-00067.geojson.gz": {
+      "sha256": "653bd3cada7bfe5e0cc183f8d855634199ae6b83fd14cfd3c103d40d24647406",
+      "size": 142019
+    },
+    "data/geojson.day/beatles-anthology-day-00068.geojson.gz": {
+      "sha256": "5733bc2d1d9cf0e1953c541b231aefcb28c3b026cf7524c7a243e3cb672345f9",
+      "size": 145607
+    },
+    "data/geojson.day/beatles-anthology-day-00069.geojson.gz": {
+      "sha256": "1da7309d4f9d90185e02e585f439614dd395ef2d509ab54a1e431d4682ecd336",
+      "size": 154964
+    },
+    "data/geojson.day/beatles-anthology-day-00070.geojson.gz": {
+      "sha256": "b51f9d7ee39c93ad91ce6de703ca037de78eb117776e704145e762c2c3da327c",
+      "size": 155972
+    },
+    "data/geojson.day/beatles-anthology-day-00071.geojson.gz": {
+      "sha256": "a9f30a0bf708c9a2ebbd61e04d6575fb4314d70de5aa3259458df0d3549de0d5",
+      "size": 169150
+    },
+    "data/geojson.day/beatles-anthology-day-00072.geojson.gz": {
+      "sha256": "c3d530297280dd7b34e09c87ba03615d6d3bcc3bf16832d5316736ddb31da7d8",
+      "size": 156357
+    },
+    "data/geojson.day/beatles-anthology-day-00073.geojson.gz": {
+      "sha256": "abed41a0e82be217654b63317d6c6a4da4e4b2489cad9ac00f01fab3b2bee9dd",
+      "size": 185355
+    },
+    "data/geojson.day/beatles-anthology-day-00074.geojson.gz": {
+      "sha256": "9ca7b490683190936ee39d6fee5e54f1a7cda35f4f423b37471a68957e6b3445",
+      "size": 158685
+    },
+    "data/geojson.day/beatles-anthology-day-00075.geojson.gz": {
+      "sha256": "005f37e40b3ecf5c44a53ab309c9d07b6fdba6858e1fdd60ff3d764da44ed292",
+      "size": 147825
+    },
+    "data/geojson.day/beatles-anthology-day-00076.geojson.gz": {
+      "sha256": "592127675d1525ac2d5c04ae52766bf1c63401879b1b7dfc5d456515c56e2e83",
+      "size": 166197
+    },
+    "data/geojson.day/beatles-anthology-day-00077.geojson.gz": {
+      "sha256": "0c0fa1d7a19379200fa79f4779c224327080ce695f866d4d4d5210e85877442b",
+      "size": 160784
+    },
+    "data/geojson.day/beatles-anthology-day-00078.geojson.gz": {
+      "sha256": "9eef2a58219996a89c36a7ea8e6a2a6486895833fb2eec5f03baabda09abd893",
+      "size": 159723
+    },
+    "data/geojson.day/beatles-anthology-day-00079.geojson.gz": {
+      "sha256": "9b3236a98a16e09594d3b1a966dd92f71f46cd9e655ea247c032a3b440e7bea1",
+      "size": 157537
+    },
+    "data/geojson.day/beatles-anthology-day-00080.geojson.gz": {
+      "sha256": "76c4fabfa344b18ae593c5cf09c6c675577ad5eb3d059f790043aa9064d3fd73",
+      "size": 158311
+    },
+    "data/geojson.day/beatles-anthology-day-00081.geojson.gz": {
+      "sha256": "51ea5b442f067f0df7d098ca9493ffa7077cd3f1a74ba459318143d01920088e",
+      "size": 154347
+    },
+    "data/geojson.day/beatles-anthology-day-00082.geojson.gz": {
+      "sha256": "5251326fae2c1d43066807222168f914785860490112f72f9711fc880ec3c8ff",
+      "size": 164351
+    },
+    "data/geojson.day/beatles-anthology-day-00083.geojson.gz": {
+      "sha256": "6e0d3ce94394d0184d8d3f2c1c99ad04041828e36ad85c51e58265b11ba30546",
+      "size": 160893
+    },
+    "data/geojson.day/beatles-anthology-day-00084.geojson.gz": {
+      "sha256": "6d53c1adb68d9b4b349f131ad416929b9745248297ee51901e2548e0ad3707e8",
+      "size": 147548
+    },
+    "data/geojson.day/beatles-anthology-day-00085.geojson.gz": {
+      "sha256": "cdf42b5f66c13088b44b6864ad8d432a8db0123186f32e80f86e0de84911ae78",
+      "size": 141629
+    },
+    "data/geojson.day/beatles-anthology-day-00086.geojson.gz": {
+      "sha256": "ea7afbfda91f7532864b34433403400447b2e8eb8deaff41afd4132ef05ec644",
+      "size": 170618
+    },
+    "data/geojson.day/beatles-anthology-day-00087.geojson.gz": {
+      "sha256": "0e0a4b0563993015c046e2f62e77dbf6be84dbce770090f5bc76217e51c42eae",
+      "size": 169634
+    },
+    "data/geojson.day/beatles-anthology-day-00088.geojson.gz": {
+      "sha256": "f92b8a9408c2741fa3bb21fef33a89366401d142c3a7c1f843d747d57c1da32d",
+      "size": 157841
+    },
+    "data/geojson.day/beatles-anthology-day-00089.geojson.gz": {
+      "sha256": "feddd249185c689ea1219be12e15188518b1d5e2c0edb37457b81bd3f9df50c4",
+      "size": 156610
+    },
+    "data/geojson.day/beatles-anthology-day-00090.geojson.gz": {
+      "sha256": "6fea721ec38e41460232b7e30d6a05b04eedf092283d1d0d938e22e5d09c514d",
+      "size": 150092
+    },
+    "data/geojson.day/beatles-anthology-day-00091.geojson.gz": {
+      "sha256": "8c0f16c87daec22934802d56d08ca107e392d877aef1757370f39a673f3a1882",
+      "size": 161334
+    },
+    "data/geojson.day/beatles-anthology-day-00092.geojson.gz": {
+      "sha256": "19450699417c4fe307c0061d3ef7366d7faf662eeea60dac85e664ba14eba27e",
+      "size": 163056
+    },
+    "data/geojson.day/beatles-anthology-day-00093.geojson.gz": {
+      "sha256": "96f50415c55b5a9bcf2ec40449fa402af7692655ab95a4c2cfda677a5307b3e8",
+      "size": 162652
+    },
+    "data/geojson.day/beatles-anthology-day-00094.geojson.gz": {
+      "sha256": "b477303f35112e5a49260ea205e431c396b12a34b1ee9c0122a36e660d85c257",
+      "size": 155864
+    },
+    "data/geojson.day/beatles-anthology-day-00095.geojson.gz": {
+      "sha256": "8c5cdb1ca10844a292f4445498c730595cd45c0efc86b4efbdc56804438a1c7f",
+      "size": 153299
+    },
+    "data/geojson.day/beatles-anthology-day-00096.geojson.gz": {
+      "sha256": "5d22daad866c115c143e075875acbfc2d5cda86ce9943d46a74a4f7792db3a5a",
+      "size": 142898
+    },
+    "data/geojson.day/beatles-anthology-day-00097.geojson.gz": {
+      "sha256": "d75f9db121cc5cc7caebc817aca7546ebfdbe34e2f1b4b075f1e0ea077f59c26",
+      "size": 140768
+    },
+    "data/geojson.day/beatles-anthology-day-00098.geojson.gz": {
+      "sha256": "8d0f32fb02a625167da0cddf9115dc64546e455aed57afa6c80dc965ed3d7bd7",
+      "size": 152464
+    },
+    "data/geojson.day/beatles-anthology-day-00099.geojson.gz": {
+      "sha256": "e7febb17cd06895f25d66b7cdce5d018c924fd5456a6c2489c73e26eea81505e",
+      "size": 150273
+    },
+    "data/geojson.day/beatles-anthology-day-00100.geojson.gz": {
+      "sha256": "b1e05b7349b60fc1a4d7970d9d3c225617ad58f9889276aa8e3021c76a693969",
+      "size": 147095
+    },
+    "data/geojson.day/beatles-anthology-day-00101.geojson.gz": {
+      "sha256": "3780c13634e3d5dd60c3b29dcade6c96910391c90bbe0cebce5550e594ffde76",
+      "size": 145637
+    },
+    "data/geojson.day/beatles-anthology-day-00102.geojson.gz": {
+      "sha256": "e40eba0096bbe628c6edc15b230c24484833b9861734aeb9ec2cd1b0b5a76385",
+      "size": 122564
+    },
+    "data/geojson.day/beatles-anthology-day-00103.geojson.gz": {
+      "sha256": "6a891816adf14d1e7d5193451699e7cd2f76c5603ebe1b3bd4cd5ef3012fc597",
+      "size": 117828
+    },
+    "data/geojson.day/beatles-anthology-day-00104.geojson.gz": {
+      "sha256": "5e401238b73647b476f917efd12c096707dd4da7122f62d4b0aa2c2861afbc03",
+      "size": 147659
+    },
+    "data/geojson.day/beatles-anthology-day-00105.geojson.gz": {
+      "sha256": "7fa31940b35e26b56d78100778de9d26f47429eeb0d4bfbc41f2280947aa665a",
+      "size": 145503
+    },
+    "data/json/beatles-anthology-swarm-day-00001-2025-11-26.json": {
+      "sha256": "6af34ebdf1e7ba85ebfa74a2ba69cb828cba139e06c61ecf18ee306bf05b80f7",
+      "size": 450
+    },
+    "data/json/beatles-anthology-swarm-day-00002-2025-11-27.json": {
+      "sha256": "bd75dbe32eedb78d2fb46ffd34a48ec78fdba003766b904602b5568d8b174f54",
+      "size": 452
+    },
+    "data/json/beatles-anthology-swarm-day-00003-2025-11-28.json": {
+      "sha256": "35d621c80ff2450fca35ab08f730a45dc0079893b5af8bc5ef2c8847d93af21d",
+      "size": 452
+    },
+    "data/json/beatles-anthology-swarm-day-00004-2025-11-29.json": {
+      "sha256": "0b5ed132d249ae5886402b847150929b2e2b2e83eaf64d5d0590b00cd20402bb",
+      "size": 452
+    },
+    "data/json/beatles-anthology-swarm-day-00005-2025-11-30.json": {
+      "sha256": "76cedbb5a523d8f412c553659794c644059712f8964b9a31d11d2afa814ae8ea",
+      "size": 452
+    },
+    "data/json/beatles-anthology-swarm-day-00006-2025-12-01.json": {
+      "sha256": "ff8c2fe2d0ac1f29f3e170b2ec9a2a82358a3405f9dd604a2b97f3f4040c6ae2",
+      "size": 452
+    },
+    "data/json/beatles-anthology-swarm-day-00007-2025-12-02.json": {
+      "sha256": "762a5234ddb54404cf33b3490534012a5d051a850d262df5178afabdae600c27",
+      "size": 452
+    },
+    "data/json/beatles-anthology-swarm-day-00008-2025-12-03.json": {
+      "sha256": "01cc38d871689a550af645d62522ceda9cb848e071de7462594987bf931b7731",
+      "size": 452
+    },
+    "data/json/beatles-anthology-swarm-day-00009-2025-12-04.json": {
+      "sha256": "166233f3a717db6af5686c8f970d28d84df071913319aa19d2874bdc9f6ebfb7",
+      "size": 453
+    },
+    "data/json/beatles-anthology-swarm-day-00010-2025-12-05.json": {
+      "sha256": "9c172233d42382eff921cd5df4aea60ead9bb10541dbbc64eb18a9c4bbfd19b3",
+      "size": 454
+    },
+    "data/json/beatles-anthology-swarm-day-00011-2025-12-06.json": {
+      "sha256": "e49950f94df708f603d767c2541545a8ab6ddf51bdd9c8c630e922aa231a7b9c",
+      "size": 454
+    },
+    "data/json/beatles-anthology-swarm-day-00012-2025-12-07.json": {
+      "sha256": "3f2b8b439a1a348df56abbfff16297e18266cd9df0793d10e0644cbbea8c3051",
+      "size": 454
+    },
+    "data/json/beatles-anthology-swarm-day-00013-2025-12-08.json": {
+      "sha256": "387fd838025238321b791c9cbbddd2fb946cf1161625aa31574de3328d712588",
+      "size": 454
+    },
+    "data/json/beatles-anthology-swarm-day-00014-2025-12-09.json": {
+      "sha256": "a1f8b47d7e7a1fce71bcb7a00d99fa5c6b69d6c6d3174fb8f5e5d95e8a3c405c",
+      "size": 455
+    },
+    "data/json/beatles-anthology-swarm-day-00015-2025-12-10.json": {
+      "sha256": "2c446a615aba1a579e4f9a658a6ab5ab8381a4df1492c8bd50cdb8d8e93f9b89",
+      "size": 455
+    },
+    "data/json/beatles-anthology-swarm-day-00016-2025-12-11.json": {
+      "sha256": "963538f734678b3917bdf181201406fc62502ae8d752f109dd341797e353fbb9",
+      "size": 455
+    },
+    "data/json/beatles-anthology-swarm-day-00017-2025-12-12.json": {
+      "sha256": "59a1be3c1af360b192b17b2dc85f2cbe16efe5bea8eb4d5495e46b40ccfb1e85",
+      "size": 455
+    },
+    "data/json/beatles-anthology-swarm-day-00018-2025-12-13.json": {
+      "sha256": "316c5f4093f6b118eaf6693bb47726bea865607f96bce0b0cb3876b0d556b10e",
+      "size": 455
+    },
+    "data/json/beatles-anthology-swarm-day-00019-2025-12-14.json": {
+      "sha256": "c58a0b3185a72697b7dba14fce076291f1ecfdb1b2e55279b69ea01bf7a3dcc3",
+      "size": 455
+    },
+    "data/json/beatles-anthology-swarm-day-00020-2025-12-15.json": {
+      "sha256": "fa0f7020ffd4467b7f7add5b767d21c9d883dee8ac155a3e35f8ba69d6e89835",
+      "size": 455
+    },
+    "data/json/beatles-anthology-swarm-day-00021-2025-12-16.json": {
+      "sha256": "61b04e5f41a5f131740fe1aec365d11908dc572b79930ac7ba8bae305df86502",
+      "size": 455
+    },
+    "data/json/beatles-anthology-swarm-day-00022-2025-12-17.json": {
+      "sha256": "320cb5a65c9222de8ff1d0ca86dbf0d8b0107c563946c30bca752f5739199e64",
+      "size": 455
+    },
+    "data/json/beatles-anthology-swarm-day-00023-2025-12-18.json": {
+      "sha256": "48a3a9d6b5f972eaf73b70b783688649e5b63daff4e9a08cb07476a14379480b",
+      "size": 455
+    },
+    "data/json/beatles-anthology-swarm-day-00024-2025-12-19.json": {
+      "sha256": "5a08112935090a4173386cad68a16811025a04cee053dbef70db296ae858f6ab",
+      "size": 455
+    },
+    "data/json/beatles-anthology-swarm-day-00025-2025-12-20.json": {
+      "sha256": "98ef00e1123509308bdd20611bf5e5f9afd769616ebda576f1b07ea1a3492523",
+      "size": 455
+    },
+    "data/json/beatles-anthology-swarm-day-00026-2025-12-21.json": {
+      "sha256": "db2809afa358330c6f67877a0c8d77361cd4dcf08694be7d462359d776545e1e",
+      "size": 455
+    },
+    "data/json/beatles-anthology-swarm-day-00027-2025-12-22.json": {
+      "sha256": "b07fe0c07d7bc8a547487b1eb725fa09787de2ea6ceda51a182d960a977cb2a4",
+      "size": 454
+    },
+    "data/json/beatles-anthology-swarm-day-00028-2025-12-23.json": {
+      "sha256": "d3abfd3624e093eff89214bf7fa3637859a774e7d2268049b615b65eae0eb1b5",
+      "size": 454
+    },
+    "data/json/beatles-anthology-swarm-day-00029-2025-12-24.json": {
+      "sha256": "e4f4b34a690920d7079d9bfa5dbad203bd7b3922f96ecd81a87f2e051ab4427b",
+      "size": 455
+    },
+    "data/json/beatles-anthology-swarm-day-00030-2025-12-25.json": {
+      "sha256": "53070a39c0de6b07bbcaeab46b3380e0dbb85621bbf92578611f610237e29847",
+      "size": 455
+    },
+    "data/json/beatles-anthology-swarm-day-00031-2025-12-26.json": {
+      "sha256": "2c4607d82877f994524cb869e7412aedae2994792c2d5aed2da447fddcceadb6",
+      "size": 455
+    },
+    "data/json/beatles-anthology-swarm-day-00032-2025-12-27.json": {
+      "sha256": "fc739195b3c88341849ad80770f4cba198a23ce9a1e7581574d5c6db943071b9",
+      "size": 455
+    },
+    "data/json/beatles-anthology-swarm-day-00033-2025-12-28.json": {
+      "sha256": "3749516444cda15312d7583cbc419d4761deef312d88b2ebbe4f3ea7d3a8a2ac",
+      "size": 455
+    },
+    "data/json/beatles-anthology-swarm-day-00034-2025-12-29.json": {
+      "sha256": "791f9dcf8a93cebe0db137fa902d7b276a30bea76f311a8a53f9265598b8f41d",
+      "size": 455
+    },
+    "data/json/beatles-anthology-swarm-day-00035-2025-12-30.json": {
+      "sha256": "5cb5c916a0e6a0852f5f0cc06091ee0cfae5cbf03b7bbfa48cdf07d3694eec2e",
+      "size": 455
+    },
+    "data/json/beatles-anthology-swarm-day-00036-2025-12-31.json": {
+      "sha256": "a1608834a41e51cc6a339de22546812e6f88cc93f3a1a0fece0a7566bba310c5",
+      "size": 455
+    },
+    "data/json/beatles-anthology-swarm-day-00037-2026-01-01.json": {
+      "sha256": "6a1447c55153533bc8422db48523beaf472d53a8e51b112b745ceaeb6b688b4f",
+      "size": 455
+    },
+    "data/json/beatles-anthology-swarm-day-00038-2026-01-02.json": {
+      "sha256": "19c1e01876bd2c75a0da96f6732043fa68dae2ea71869801d5b391a30f1e9888",
+      "size": 455
+    },
+    "data/json/beatles-anthology-swarm-day-00039-2026-01-03.json": {
+      "sha256": "654fed9f218795b64ffdf87ce52987fd7c98c1d50cf429cf5759dd2d47b989c8",
+      "size": 455
+    },
+    "data/json/beatles-anthology-swarm-day-00040-2026-01-04.json": {
+      "sha256": "366fe203697172c0786eeb9454611f6d357125e0de674b4c4c4c2e3d5b774f5e",
+      "size": 455
+    },
+    "data/json/beatles-anthology-swarm-day-00041-2026-01-05.json": {
+      "sha256": "f7fbff676bc48addbee3b433fe5fe09446f74730c375053a6eb1b439682caccb",
+      "size": 455
+    },
+    "data/json/beatles-anthology-swarm-day-00042-2026-01-06.json": {
+      "sha256": "5b8de70b625863e5ea101d793dc9c43dfc6c371ea2e42949893b5ff8e9edec62",
+      "size": 455
+    },
+    "data/json/beatles-anthology-swarm-day-00043-2026-01-07.json": {
+      "sha256": "f82cb79895dd68596c448e2fa21d96eae3063cc643564ddf815d3ff78f8697f7",
+      "size": 455
+    },
+    "data/json/beatles-anthology-swarm-day-00044-2026-01-08.json": {
+      "sha256": "fddc06a1417b3e5da3425a699d7debfbdb1c98bfba729817988fc884403c3b49",
+      "size": 455
+    },
+    "data/json/beatles-anthology-swarm-day-00045-2026-01-09.json": {
+      "sha256": "738376f5e982801ab24d2e332b8510d10dcd7b1a54ef1e911ae2fcbe3d35fddd",
+      "size": 455
+    },
+    "data/json/beatles-anthology-swarm-day-00046-2026-01-10.json": {
+      "sha256": "4dac58ab86fde5fe39c2500dc34fc1bd560ebacd7af190935c32eb47f7affbe5",
+      "size": 455
+    },
+    "data/json/beatles-anthology-swarm-day-00047-2026-01-11.json": {
+      "sha256": "64b1c8420306da59e2dcbd3799d66acf5db2a0bb7b9211a73a015d28d125f17d",
+      "size": 455
+    },
+    "data/json/beatles-anthology-swarm-day-00048-2026-01-12.json": {
+      "sha256": "9f3c902676e4d6cbd9573cdab9e0a1c2b2760143d659e916404f3ceedd9275ef",
+      "size": 455
+    },
+    "data/json/beatles-anthology-swarm-day-00049-2026-01-13.json": {
+      "sha256": "546e6f4af3cea5ec4bc011bda3723f1273e200559b6aaf0b47c4ac5a5371e6d8",
+      "size": 455
+    },
+    "data/json/beatles-anthology-swarm-day-00050-2026-01-14.json": {
+      "sha256": "1e15991df6c847b35a4dc36a40ebb19fede4389be4591f0359c543ea26c21d72",
+      "size": 455
+    },
+    "data/json/beatles-anthology-swarm-day-00051-2026-01-15.json": {
+      "sha256": "748689c447e1795ab5fe2301a69f6f574ff73e15c04a46dbfb9ac34b5bf91c71",
+      "size": 455
+    },
+    "data/json/beatles-anthology-swarm-day-00052-2026-01-16.json": {
+      "sha256": "080e561eb9c8c57dfbd188df7ca6db2e7e19e7638a2e7903c6dc7816feee6362",
+      "size": 455
+    },
+    "data/json/beatles-anthology-swarm-day-00053-2026-01-17.json": {
+      "sha256": "cb6502e2fb466128f4c49a52a20ec86a87fc18c64c4ad7fc21bc1e87a803ae7f",
+      "size": 455
+    },
+    "data/json/beatles-anthology-swarm-day-00054-2026-01-18.json": {
+      "sha256": "201a7d2f308b04d1301d0ce3d1ead20b9027c53cfd4045efd956ef534aa4b5be",
+      "size": 455
+    },
+    "data/json/beatles-anthology-swarm-day-00055-2026-01-19.json": {
+      "sha256": "0c03ea6187c64a67c28fbe30fee08a715a3fe846cd75d05f101910f8866bda9d",
+      "size": 455
+    },
+    "data/json/beatles-anthology-swarm-day-00056-2026-01-20.json": {
+      "sha256": "b3a5db9e2210c4e94e36357d88fa6eda478d5207b3cf63f897b0156f2d469410",
+      "size": 455
+    },
+    "data/json/beatles-anthology-swarm-day-00057-2026-01-21.json": {
+      "sha256": "77f96b39f88cd30dc448221ec4036ca7eab79752a50932338e7cf99fbaf55f43",
+      "size": 455
+    },
+    "data/json/beatles-anthology-swarm-day-00058-2026-01-22.json": {
+      "sha256": "7d3db30371f691daaad15e282b3f39ee217cbb180a3020a667481adab1349fc5",
+      "size": 455
+    },
+    "data/json/beatles-anthology-swarm-day-00059-2026-01-23.json": {
+      "sha256": "f093597afb2e719778997aaea10333f72124bc5da641cfc3a697447ec4e12c3c",
+      "size": 455
+    },
+    "data/json/beatles-anthology-swarm-day-00060-2026-01-24.json": {
+      "sha256": "93fcdc1fae33de4a89bdc94f5d8bed603981d2ece6957330696d79eba9ae12d6",
+      "size": 455
+    },
+    "data/json/beatles-anthology-swarm-day-00061-2026-01-25.json": {
+      "sha256": "8a07122c8b6033f5b58020c35e27d5394d69f3c31a09bb83fba7020f5122f282",
+      "size": 455
+    },
+    "data/json/beatles-anthology-swarm-day-00062-2026-01-26.json": {
+      "sha256": "208ac3ab57ef7f9c45d12fe6f2cad89a4e3dd8811a1a26019abcb6f050459a76",
+      "size": 455
+    },
+    "data/json/beatles-anthology-swarm-day-00063-2026-01-27.json": {
+      "sha256": "3dc2dbcf611fbf9aa831ead92503af18b33488738a336575bde6d05d318859fc",
+      "size": 455
+    },
+    "data/json/beatles-anthology-swarm-day-00064-2026-01-28.json": {
+      "sha256": "b2eb95bf5956e1c64c84190b017299bc08bbe1e3149a5c5dedc36033bfba3718",
+      "size": 455
+    },
+    "data/json/beatles-anthology-swarm-day-00065-2026-01-29.json": {
+      "sha256": "27985885cf7469e501264303fc078291df5525fe4707b377177cc19540a239e8",
+      "size": 455
+    },
+    "data/json/beatles-anthology-swarm-day-00066-2026-01-30.json": {
+      "sha256": "135bdd3a9f8d409a6f112e35d9f1d1ca9ee0cdcbe5cd7a497dee88d5524c1505",
+      "size": 455
+    },
+    "data/json/beatles-anthology-swarm-day-00067-2026-01-31.json": {
+      "sha256": "7931cdee8ca67b3a566a840ff82a560be7d651cd292e23198ef604264f909a05",
+      "size": 455
+    },
+    "data/json/beatles-anthology-swarm-day-00068-2026-02-01.json": {
+      "sha256": "bf5002fd1ad9432416f2b9ede5e2cb44d3034de8d605e982dd4f54c7af324ae1",
+      "size": 455
+    },
+    "data/json/beatles-anthology-swarm-day-00069-2026-02-02.json": {
+      "sha256": "58af86701170f895797869435d9202c8b7dbfc37b3ce2f21816d9a91fc96e71a",
+      "size": 455
+    },
+    "data/json/beatles-anthology-swarm-day-00070-2026-02-03.json": {
+      "sha256": "0c2aa6beb5853e502ea87201b49e731fdf0594abc6bab32e1ddb97d07504e6c8",
+      "size": 455
+    },
+    "data/json/beatles-anthology-swarm-day-00071-2026-02-04.json": {
+      "sha256": "de39d7451cc140f4c488f86a20dc51c8dcb274d6f846ce2ca887a9a98c4212a1",
+      "size": 455
+    },
+    "data/json/beatles-anthology-swarm-day-00072-2026-02-05.json": {
+      "sha256": "e802af19aa4ec8a0b2eb06751a82885b09d2b7f27b3738905430345ad911e5fc",
+      "size": 455
+    },
+    "data/json/beatles-anthology-swarm-day-00073-2026-02-06.json": {
+      "sha256": "e529e0fe01a043f826fceee8e5ceb5f06c852e88b9d266f8d32e64934396618f",
+      "size": 455
+    },
+    "data/json/beatles-anthology-swarm-day-00074-2026-02-07.json": {
+      "sha256": "b183817499ce7ae534743de84351a5bda582bb4e0a332a9f4aab5a0d0dda6df2",
+      "size": 455
+    },
+    "data/json/beatles-anthology-swarm-day-00075-2026-02-08.json": {
+      "sha256": "323f984a7c786d28599ff96ca443d4383d98cfc64729e9963906dcdb9ab43122",
+      "size": 455
+    },
+    "data/json/beatles-anthology-swarm-day-00076-2026-02-09.json": {
+      "sha256": "9d19bead3a20e85c622b18ad3a2060ea7c3b28185f561ca4169c53e5eea77637",
+      "size": 455
+    },
+    "data/json/beatles-anthology-swarm-day-00077-2026-02-10.json": {
+      "sha256": "855758a492dee204603d576f41bb233d1a0849489c5252053a7d5428ae549d36",
+      "size": 455
+    },
+    "data/json/beatles-anthology-swarm-day-00078-2026-02-11.json": {
+      "sha256": "73ee4fc2f02aa1168994fbb5620559b80d91bf0dd3bc7de95ab731f0ae3036b2",
+      "size": 455
+    },
+    "data/json/beatles-anthology-swarm-day-00079-2026-02-12.json": {
+      "sha256": "388b02aa0124d02d83a43fd950f6ec204f8e2941a6b238d9a488512a8882e172",
+      "size": 455
+    },
+    "data/json/beatles-anthology-swarm-day-00080-2026-02-13.json": {
+      "sha256": "26f4e86635f86ed5825567fac8dcf5ef1b690c2e147162e65bc65bebc8391480",
+      "size": 455
+    },
+    "data/json/beatles-anthology-swarm-day-00081-2026-02-14.json": {
+      "sha256": "e0f2d345eed84abee099391711a091a64b566ce9bafdf41b8a765d4b99c5c207",
+      "size": 455
+    },
+    "data/json/beatles-anthology-swarm-day-00082-2026-02-15.json": {
+      "sha256": "a7d319e109ffc3974e61c5f3c929eae59afccce75149c69a683c0644fd7b4a33",
+      "size": 455
+    },
+    "data/json/beatles-anthology-swarm-day-00083-2026-02-16.json": {
+      "sha256": "207d97e51d80e9a540d916bc7e9318c92fe074f27cb27fcb2ad5b31e0c64d526",
+      "size": 455
+    },
+    "data/json/beatles-anthology-swarm-day-00084-2026-02-17.json": {
+      "sha256": "365aaaee7df9a5c555433d3ba5899ddfd3ddf081b1ea4b733280cdf6235e49f0",
+      "size": 455
+    },
+    "data/json/beatles-anthology-swarm-day-00085-2026-02-18.json": {
+      "sha256": "88c81fb5ec93a7987a24180e0811a02bf56be92be8143ae940de7a6436d16cf6",
+      "size": 455
+    },
+    "data/json/beatles-anthology-swarm-day-00086-2026-02-19.json": {
+      "sha256": "04ab123e2ed80f07b2320f36e519b4dc80b2f6ab3282b46cd5c2e0ce05a284fb",
+      "size": 455
+    },
+    "data/json/beatles-anthology-swarm-day-00087-2026-02-20.json": {
+      "sha256": "9999c7750e373d87c3ed6da0e8cd439578e6103a8a5fc0a558d6da84898e77b3",
+      "size": 455
+    },
+    "data/json/beatles-anthology-swarm-day-00088-2026-02-21.json": {
+      "sha256": "86c5284babc8eb0402f77686f450eb7b7cd405ec24242045bd3dcdbe2f133a24",
+      "size": 455
+    },
+    "data/json/beatles-anthology-swarm-day-00089-2026-02-22.json": {
+      "sha256": "36fc1a2adb12cf683f2645c84c455d698b99a9a1aceb71560f15e252bf3d5c41",
+      "size": 455
+    },
+    "data/json/beatles-anthology-swarm-day-00090-2026-02-23.json": {
+      "sha256": "ac2b1fa3a11fcaefe1a56a9b5430e53b95949bfcb35708b087dfb912fe8913c2",
+      "size": 455
+    },
+    "data/json/beatles-anthology-swarm-day-00091-2026-02-24.json": {
+      "sha256": "0cc09a7d09328d49e971da3e65ce7f8f6bb925a23a6c645f05362e017ac948af",
+      "size": 455
+    },
+    "data/json/beatles-anthology-swarm-day-00092-2026-02-25.json": {
+      "sha256": "e2592e34e7954fd996112cd488d830eb82e37d99ee78769eecc42259b9da130b",
+      "size": 455
+    },
+    "data/json/beatles-anthology-swarm-day-00093-2026-02-26.json": {
+      "sha256": "9b2d310ad4bc77d8585ce39a65876d8e340e143f6daf25d545bba9120148adb5",
+      "size": 455
+    },
+    "data/json/beatles-anthology-swarm-day-00094-2026-02-27.json": {
+      "sha256": "2047fe46daeafd6e7e18188f7dda4da4d6e333c78f36d0e353acba41de14d2a4",
+      "size": 455
+    },
+    "data/json/beatles-anthology-swarm-day-00095-2026-02-28.json": {
+      "sha256": "99cfa18213cdcf7c3e634349a780f57719fd00283e29252b9e2db4a902ad8a32",
+      "size": 455
+    },
+    "data/json/beatles-anthology-swarm-day-00096-2026-03-01.json": {
+      "sha256": "67b9f59189cb8e5b2299badffdf98da853995098ea11a0b418e896714d5b9b49",
+      "size": 455
+    },
+    "data/json/beatles-anthology-swarm-day-00097-2026-03-02.json": {
+      "sha256": "204f9311a956b10d0c90f8e3f3d2962c9699ec661e3699dfdf6fcfd1721e9437",
+      "size": 455
+    },
+    "data/json/beatles-anthology-swarm-day-00098-2026-03-03.json": {
+      "sha256": "087b0760b478465e75d3b26aae72b82cad00d38a5a37a97cea8762be02aa3954",
+      "size": 455
+    },
+    "data/json/beatles-anthology-swarm-day-00099-2026-03-04.json": {
+      "sha256": "1f1077e009b2e4b2387afac22f6cc55b8333d092df5f33d8e54574539e8137ca",
+      "size": 455
+    },
+    "data/json/beatles-anthology-swarm-day-00100-2026-03-05.json": {
+      "sha256": "4821303ec57c093fa2e73c54667939e216339fc0b03dab778f2986cffb98cb40",
+      "size": 456
+    },
+    "data/json/beatles-anthology-swarm-day-00101-2026-03-06.json": {
+      "sha256": "99395f9f7f46b0f4482f29be2d18a43a918a0ac8dd4fa458a0b3be32e230205b",
+      "size": 456
+    },
+    "data/json/beatles-anthology-swarm-day-00102-2026-03-07.json": {
+      "sha256": "fcd02c024bbbd648535c50ef754e329972de1aa42e797230e3f61bc7b6cb78e7",
+      "size": 456
+    },
+    "data/json/beatles-anthology-swarm-day-00103-2026-03-08.json": {
+      "sha256": "c15de7576e113ae286be83a456f910b68014c04f4cb91fc37b8bf2666dc68e01",
+      "size": 456
+    },
+    "data/json/beatles-anthology-swarm-day-00104-2026-03-09.json": {
+      "sha256": "b653d91b3937f8f7f98e1957b0a6eb9ac3e6afd0cf01bd3953a041056dea48af",
+      "size": 456
+    },
+    "data/json/beatles-anthology-swarm-day-00105-2026-03-10.json": {
+      "sha256": "e656ed113ddb7e14abb847743b92b07fbbd0569ec7540c3ed888ff4cd5ed8003",
+      "size": 456
+    }
+  },
+  "schema": "alpha60-year-day-product-bundle/1",
+  "source_revisions": {
+    "aggregate_binary": {
+      "sha256": "80bdf6691c0ef6ed5fcc7fa3a6462748104e1935ce5b2a4df3861e11bb13195a",
+      "size": 38582648
+    },
+    "alpha60": "ee81b50bb9790eb0c52125cba38ea8787a1a140f",
+    "alpha60_data": "8faeae67a5d274d1fc00bffe9fc9318329163b20",
+    "day_product_contract": {
+      "sha256": "72cef2b39ed0d6c6f6120f86d21517dd8d4f76982935c36e8d290638c4a3a10b",
+      "size": 9267
+    },
+    "metadata": "fbeb53a0b523f937fae2f23d14689d8c5c84dd5a",
+    "package_script": {
+      "sha256": "79bb170e38712e3653cf3cd8b781ddddf293af5eb6a916b4cb881a67cab8cf97",
+      "size": 11299
+    }
+  },
+  "status": "pass"
+}
