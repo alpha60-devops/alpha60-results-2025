@@ -1,0 +1,253 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt4574334",
+    "imdb_id": "tt4574334",
+    "revision": "fbeb53a0b523f937fae2f23d14689d8c5c84dd5a",
+    "wikidata_id": "Q19798734",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Stranger_Things"
+  },
+  "coverage_sha256": "a1aac3178ff92bf7bea461f944b109318980e99b7eda2633adf3c70a1e2b0356",
+  "generated_at": "2026-08-30T16:42:06.036928+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "aao-checksum-manifest": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/SHA256SUMS",
+      "sha256": "4a4818facd85b709f0321b0a6de31b4a3eff6f108f3b9354c75632926e6baa48",
+      "size": 266728
+    },
+    "aao-release": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/release.json",
+      "sha256": "3ce0984da2d12b0e3697e76c02608bd9d1a955ee3d00e0a7054bdd297b8f18c8",
+      "size": 1342
+    },
+    "aao-verification": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-aao-verification.json",
+      "sha256": "e01294ebce8e54b65e16ab83017fa5585efe6f7a0a0f1a5e0f734e08d8e223fd",
+      "size": 854
+    },
+    "archive-map": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-cache-archive-map.json",
+      "sha256": "8d4d506f23cd80f46baf010bd17509c916083e75eb8b43b052641138c3f308f1",
+      "size": 125170
+    },
+    "btiha-metadata-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/stranger-things-05.2-cumulative-btiha-media-objects.json",
+      "sha256": "9b3354035424cafd3b1de7cd41330ad39a9fa5510263df9b0908df285d4dd3c1",
+      "size": 462341
+    },
+    "canonical-metadata": {
+      "path": "/tmp/alpha60-swarm-metadata-2025/metadata/stranger-things-05.2.json",
+      "sha256": "dbe895087dac124027d5855740c6d3ceaa19b7369978a1932746c762bd7eb74c",
+      "size": 17582
+    },
+    "coverage-report": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-coverage-evidence/stranger-things-05.2.md",
+      "sha256": "45c6b4a42480450fd0ca768192c71cb180d5d28c685fa8a45325a9f358d61476",
+      "size": 746
+    },
+    "cumulative-aggregate-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.cumulative/stranger-things-05.2-cumulative-aggregate.geojson.gz",
+      "sha256": "4c9acc8ce50ff22ca15a76250dc4c47181fc75480ba736e9e4a8c16fa5aa510b",
+      "size": 1299990
+    },
+    "cumulative-btiha-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.cumulative/stranger-things-05.2-cumulative-btiha.geojson.gz",
+      "sha256": "1d48af877a91cb4b88e2bf7d0511a6d8c23a2c1594cc21351e32fb103927ec99",
+      "size": 32622622
+    },
+    "cumulative-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/stranger-things-05.2-cumulative.json",
+      "sha256": "3e75bed0e2463ee4b9efbc4396238866b6062da9352f8a3084ad1127e3a5cdc7",
+      "size": 15694
+    },
+    "day-bundle-receipt": {
+      "path": "/tmp/year-2025-day-bundles/stranger-things-05.2/receipt.json",
+      "sha256": "0e383b0b1684352849ce2bc3b88c52afc392b6255b1fd88155d2f8b86975a66f",
+      "size": 69880
+    },
+    "ip-swarm-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/stranger-things-05.2-cumulative-ip-swarm.json",
+      "sha256": "22fb031f62d04ff9a61f72eae34c8b09cdcbc6406890749aa57813412292d8d1",
+      "size": 42770
+    },
+    "published-day-bundle-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-day-product-receipts/stranger-things-05.2.json",
+      "sha256": "0e383b0b1684352849ce2bc3b88c52afc392b6255b1fd88155d2f8b86975a66f",
+      "size": 69880
+    },
+    "week-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/stranger-things-05.2-week.json",
+      "sha256": "1c541f0b53e5c56d7c021150e14136aa00378444b81993316e3a94fbf79638b7",
+      "size": 3512374
+    }
+  },
+  "media_object": "stranger-things-05.2",
+  "published_files": {
+    "data/csv/bytes/stranger-things-05.2-cumulative-detail.2025-btiha-itemized-by-bytes.csv": "c0874c3842f6eb5e9ab934c261a88fbc9a1ffc79c920211ba039d49e12c66b8c",
+    "docs/itemized/figures/stranger-things-05-2-downloads-by-day-day.svg": "d5dba0102ee7628b2669579fe0a151117d8dba8786cf913c98a899d16dace01c",
+    "docs/itemized/figures/stranger-things-05-2-downloads-by-week-stranger-things-05.2-week.svg": "9911ad2ddaeea4f1328fa754264abdece738aa38cef9b0f95bd33e93479f06b4",
+    "docs/itemized/figures/stranger-things-05.2-carto-4k.webp": "17684bdc94893925df2989f92c1231ed529900793f7aefcf2cf05f35391c402b",
+    "docs/itemized/figures/stranger-things-05.2-carto.png": "a18a5f46bb7de563c187761df198f0c892107a326f1e61921c0958bab0cf11cb",
+    "docs/itemized/figures/stranger-things-05.2-cumulative-detail-btiha-itemized-by-bytes.svg": "69c301c0aa8ff8a741456bbd229805b7b2962285400d39b5efc6e64ba10f23ae",
+    "docs/itemized/figures/stranger-things-05.2-data-ge-1080p-4k.webp": "9c5754d5806ba13809d43b7b37af1b1b7dc28e7a120f2e86551057a706ddd620",
+    "docs/itemized/figures/stranger-things-05.2-data-ge-1080p.webp": "45df03efc5a622ff99bceeab4dce118d4b3ccbbf8c86b507ddee9b4052086a49",
+    "docs/itemized/figures/stranger-things-05.2-data-lt-1080p-4k.webp": "a319c42151de30f0c3575ffcf9f7546904b7ef91da4fd134a20e1c5ebb49f02d",
+    "docs/itemized/figures/stranger-things-05.2-data-lt-1080p.webp": "233453048d14fec3ab235899e041f91ae7d13a9a892c7694e531b7f4bc71db89",
+    "docs/itemized/stranger-things-05.2-sample-cache-audit.md": "24b857dd4abb93678ed49e82856e3f63519bb82c5df3344c9404d91abd029840",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-year-2025-render",
+      "revision": "c520555c40beece2e38f62878e2d4cc1b312c505",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "c192c54f882171dafc74c038ec769f1e68bf8020d12a342d2334086b5b5ee5ea",
+      "size": 36998168
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.cumulative/stranger-things-05.2-cumulative-btiha.geojson.gz",
+        "sha256": "1d48af877a91cb4b88e2bf7d0511a6d8c23a2c1594cc21351e32fb103927ec99",
+        "size": 32622622
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/json/stranger-things-05.2-cumulative-btiha-media-objects.json",
+        "sha256": "9b3354035424cafd3b1de7cd41330ad39a9fa5510263df9b0908df285d4dd3c1",
+        "size": 462341
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/izzi",
+      "revision": "b988ee7fd690a74a696c27c9aadf40c204a4c780",
+      "untracked": false
+    },
+    "media_object": "stranger-things-05.2",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60-results-2025/bin/a60-meta-collection.exe",
+      "sha256": "e71f9def936a6868d5282a5ff7dece07ade360eefa07abebde75434a927220f7",
+      "size": 8743680
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          55.0,
+          45.0,
+          44.0,
+          33.0,
+          32.0,
+          30.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Seoul",
+          "Moscow",
+          "Nanjing",
+          "Istanbul",
+          "Saint Petersburg",
+          "London",
+          "Shanghai",
+          "Amsterdam",
+          "Hangzhou",
+          "Incheon"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          58.0,
+          43.0,
+          39.0,
+          34.0,
+          30.0,
+          27.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Seoul",
+          "Moscow",
+          "Istanbul",
+          "Nanjing",
+          "Saint Petersburg",
+          "Shanghai",
+          "London",
+          "Amsterdam",
+          "Hangzhou",
+          "Incheon"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 21,
+        "y_tick_labels": 20
+      },
+      "histogram": {
+        "bars": 30,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 26,
+        "y_tick_labels": 20
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "c520555c40beece2e38f62878e2d4cc1b312c505",
+    "cartofreako": "fc58111b5bfa7667b12f6ade522ae5e566b464d1",
+    "izzi": "b988ee7fd690a74a696c27c9aadf40c204a4c780",
+    "metadata": "fbeb53a0b523f937fae2f23d14689d8c5c84dd5a",
+    "results_aao_adoption": "9cd9d91a6fbb560ac2a96beadf4c83b94daf6a88"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2025"
+}
