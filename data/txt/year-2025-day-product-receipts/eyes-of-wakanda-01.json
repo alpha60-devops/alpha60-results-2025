@@ -1,0 +1,1509 @@
+{
+  "archive": {
+    "path": "/home/bkoz/src/alpha60-xperiments/year-2025-archives/eyes-of-wakanda-01.cache/cache.20260129.tar.xz",
+    "sha256": "4b7ff9613687d0423171010a3aa5b20a40b2e5d42c97dc746cda2ac8887c84ef",
+    "size": 1133741048
+  },
+  "authorization": {
+    "archive_mutated": false,
+    "excluded_member_classes": [
+      "hour",
+      "week",
+      "cumulative"
+    ],
+    "raw_samples_opened": false,
+    "scope": "read only streaming of per-torrent day records"
+  },
+  "collection_key": "eyes-of-wakanda-01",
+  "day_product_contract": {
+    "collection_key": "eyes-of-wakanda-01",
+    "day_products": 182,
+    "first_date": "2025-08-01",
+    "first_index": 1,
+    "geojson_data_version": "20260701",
+    "ip_geolocation_version": "6:1777968300",
+    "json_data_version": "2026-08-05",
+    "last_date": "2026-01-29",
+    "last_index": 182,
+    "schema": "alpha60-day-product-contract/1",
+    "sparse": false,
+    "status": "pass"
+  },
+  "publications": {
+    "data/geojson.day/eyes-of-wakanda-01-day-00001.geojson.gz": {
+      "sha256": "df05ac9b61bc7a92aee6631659e953d4050e1e33c1282af9679502a6a32e5773",
+      "size": 56832
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00002.geojson.gz": {
+      "sha256": "b43eeafa85f3a45c38609a1e69331be6ff014967093ec4f3dc1507bc3adea6e0",
+      "size": 117929
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00003.geojson.gz": {
+      "sha256": "1b587372f70689d9337cd7674ab7a617ca7a3c9b2feac181a0ffe39e28d07df5",
+      "size": 127297
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00004.geojson.gz": {
+      "sha256": "e58866488206188237ffb35566aa795f0cf9b3070c0e670346dd11e08554a356",
+      "size": 176356
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00005.geojson.gz": {
+      "sha256": "4a0a7771f073edbae45a59b5ca4573fbcbf700755a8debfdb7c4a9b47d87eb62",
+      "size": 98952
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00006.geojson.gz": {
+      "sha256": "48b48e9a56ad86bf1c4b4c1f600e3607ca485a2a3d6f5df4b3dd7ecefc2a5601",
+      "size": 200830
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00007.geojson.gz": {
+      "sha256": "79e432a976d7ccd3de7bf3b9d77be45a79456bce6ebd807ae78ce703223fed38",
+      "size": 207778
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00008.geojson.gz": {
+      "sha256": "669dcc91c308d530a5508298c6fc2a2fe9dbd90016e2771aa81b2e32449df8a5",
+      "size": 196001
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00009.geojson.gz": {
+      "sha256": "557dfd61a4d6aac3aee18f3e5d418af8f30afe19f3e72904f04f402b3f644d97",
+      "size": 183352
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00010.geojson.gz": {
+      "sha256": "61cbc0f4b7054adccb369e9bf5329b9faf983845b87e449c36f1425964a14b6e",
+      "size": 191996
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00011.geojson.gz": {
+      "sha256": "5a4782da5088547c7656cfa8a7cf30fae7e48486772a1b054d57f7ae8ef97f32",
+      "size": 206275
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00012.geojson.gz": {
+      "sha256": "19b80b693131517611243b6e75975e9787864e3634d9d107faa2e95c3f8db197",
+      "size": 197038
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00013.geojson.gz": {
+      "sha256": "551d31e7cc5b05bb897063cef51403b7caf878cd1ac92b7975edac0a9ce6a631",
+      "size": 181824
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00014.geojson.gz": {
+      "sha256": "75397efa45d59e4b90d38d53664047032c8e092cc15c4942ed847a0f1323b8c9",
+      "size": 184142
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00015.geojson.gz": {
+      "sha256": "bb5856041212ec9a600f070fe1efadebc1eded4343382e4d72a0a7ede98e7844",
+      "size": 166390
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00016.geojson.gz": {
+      "sha256": "8078b6c1a90768c3a880469284cd03081770418122799d92d89312d078ae4c18",
+      "size": 166353
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00017.geojson.gz": {
+      "sha256": "37a10596fc9764f1a088fc9d9cbcad1fc4be0a819c9af360e0c1c27c0e106259",
+      "size": 166840
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00018.geojson.gz": {
+      "sha256": "9967aa1b613726537c073e27a1bc5ece3caf1ed935bf6ca9aadbc1ba267c47b9",
+      "size": 181355
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00019.geojson.gz": {
+      "sha256": "48833ec583569067dac2fac00f4032e6994a4abe7cfab642dede6c7002564473",
+      "size": 179673
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00020.geojson.gz": {
+      "sha256": "db64ddf7aec8d84a9bc456638f96d4627fe42365ff5ba9b54d3709873d4d076c",
+      "size": 169921
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00021.geojson.gz": {
+      "sha256": "4315ed8e5be6cdfdd881aa7e333b9cba52dc0118b60b9fbc7e89cf8f312a4d77",
+      "size": 165698
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00022.geojson.gz": {
+      "sha256": "86ccfd09dd4dae2adb79b984f0ba28e996e4e063da7604c31f22ca4759a16668",
+      "size": 167471
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00023.geojson.gz": {
+      "sha256": "c3492402e8c28965f9e76a926511e3ee6e28f07d6856983c77d5fe4559271263",
+      "size": 165493
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00024.geojson.gz": {
+      "sha256": "ed16e7e75bd0e92689193f2d53563e6691ea44aa8fd3a7ab25d5e3ba5ab22ac2",
+      "size": 154158
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00025.geojson.gz": {
+      "sha256": "ce117c51c27910fd6e8fbfa5384bc581f7c40e27c219bcc5176096ec03d5c8d2",
+      "size": 170907
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00026.geojson.gz": {
+      "sha256": "2e49597d1b4267ec47c44758394f177c58df04179f2cd50e59b13f1b5c79b0a1",
+      "size": 140239
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00027.geojson.gz": {
+      "sha256": "b176741010542ba8b62baedd28c575e4f2ab679faefd7e0aaa05817c652d69e5",
+      "size": 103207
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00028.geojson.gz": {
+      "sha256": "f6c606dff1f6f6b81ba07853f994ab776a03cd42bb1750ffbc9cec8a07a2bc92",
+      "size": 170714
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00029.geojson.gz": {
+      "sha256": "099065b71f7bb29c75422f181b104331f39b97efb1a4f76b565ce486415412fd",
+      "size": 205651
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00030.geojson.gz": {
+      "sha256": "0c3f98e0e806c09ab32d44b1a4b3608b91ca1df7de83c373a8d9c516d2dc6dc7",
+      "size": 215884
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00031.geojson.gz": {
+      "sha256": "18438421039192e2f00b1097553364e1758cbced88a6b60e770aed1f8636a7b5",
+      "size": 192616
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00032.geojson.gz": {
+      "sha256": "d3b01f35ab0c26d4b5510768a0a43134ddd1ed2500ce4bb55f54765ecb8b1c68",
+      "size": 181162
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00033.geojson.gz": {
+      "sha256": "1b23538a9742488bd81916352cea0539400f0415d897b174b3d6ef10bd19d3ab",
+      "size": 187733
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00034.geojson.gz": {
+      "sha256": "be515ade971ad16c7b1a575941a8758fc6f44c20129c6de6ccfcc2e1ebfda014",
+      "size": 171112
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00035.geojson.gz": {
+      "sha256": "fa852ccfeda270adbfe420f29b0dd79830e64b39f4bd8e3cdaa418b1944cfe23",
+      "size": 167635
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00036.geojson.gz": {
+      "sha256": "7d1e777e1c130aa70809afb8e86bb10088352b2c863d726f35ad19f923a0f551",
+      "size": 166904
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00037.geojson.gz": {
+      "sha256": "2370493dd44957e62eeeb4ae0874db83c3f54f86d7c8ddd190f1b1eead52dc6a",
+      "size": 161022
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00038.geojson.gz": {
+      "sha256": "b618818de4f8443f81ec5349af0fcdab8c7cb8782d7468bba09ffa1b7b50cf89",
+      "size": 165031
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00039.geojson.gz": {
+      "sha256": "56a960b1ee92a506a1e518674bdae2390feb63352cd512177fb87f1bc3e49660",
+      "size": 178639
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00040.geojson.gz": {
+      "sha256": "34cc26dd52c2f1fa5a3711a38a6618933c7363f18278313a6775f8140b9d61da",
+      "size": 200132
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00041.geojson.gz": {
+      "sha256": "0b4579b20ad931bc9604a84849bee18b564261a4d89b7db676d3ada207d1ee6f",
+      "size": 181455
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00042.geojson.gz": {
+      "sha256": "363bc2fba93a984909fe8b3c8ea51aaf0db842eca401e76f1637b7ab4a6b540b",
+      "size": 158955
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00043.geojson.gz": {
+      "sha256": "ea101a80a32859075dbacb24bef53c5c9d9bbba7a194b5740f313226a79de807",
+      "size": 158983
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00044.geojson.gz": {
+      "sha256": "9d26181976d151e51803c931bb6db9c5aeb02416afe5c3ca2fbb0e609a724052",
+      "size": 149699
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00045.geojson.gz": {
+      "sha256": "1c3c08211b21e4e40eee8bb83d8a05a96dd3e69cdc0bc4c25f47b3887db21c96",
+      "size": 142091
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00046.geojson.gz": {
+      "sha256": "97c9aea8fcc595a5472962875756ebe3d8146de83c6be5411772d486f3a53abe",
+      "size": 174520
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00047.geojson.gz": {
+      "sha256": "dfd9ba0e4cac1f6b29ca4927fc0e816ed45852a7ffb1b5f7b175cb194c2fae3e",
+      "size": 166747
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00048.geojson.gz": {
+      "sha256": "764d744716506436787bdd94bb28bcb09e2f11e79437f81c178aafd74809b31a",
+      "size": 166988
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00049.geojson.gz": {
+      "sha256": "c7bfb0dbee8277afdc7dfd1555597de818ce105ff4bc56b36b70927e15c28df5",
+      "size": 166347
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00050.geojson.gz": {
+      "sha256": "10999aee7b22851ea7c17ffdb522a54c97c795bff87386e192585fab9cfa8c83",
+      "size": 155794
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00051.geojson.gz": {
+      "sha256": "c719d04a48ba3baae25a1aef0d1d98a531f1eb3742b818a68768915485f8ff54",
+      "size": 163871
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00052.geojson.gz": {
+      "sha256": "d6a24a352c984a36a7a19dc417976633bd18b68569e8fb1b2c3d208a4a0b13cf",
+      "size": 179219
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00053.geojson.gz": {
+      "sha256": "bc909817d9745dfe9053efd229809e235bed071d4c04236e39d9b9deccfc308c",
+      "size": 185693
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00054.geojson.gz": {
+      "sha256": "685cbcad1243bb8f0edabf076522218c30498e8c4530331b47c2ec1076703f59",
+      "size": 205607
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00055.geojson.gz": {
+      "sha256": "7a430429c84341a004152ded1d8d23b8f689da27aeb4aa24b8d460e31c897599",
+      "size": 199149
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00056.geojson.gz": {
+      "sha256": "b878d3c53fe8c8e41a1d78e63eaae80f8f028868ae864e58fc8d2820ff970c46",
+      "size": 197898
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00057.geojson.gz": {
+      "sha256": "2965128b148ea21f6cb94eb565017f1aedb27562d7d86f845266cadc3fddeb5a",
+      "size": 215007
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00058.geojson.gz": {
+      "sha256": "0fcf30e363cfd5bf47bd5c6d4949b1403d59d3ad60bb125ae0d453e6ffdf6508",
+      "size": 195129
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00059.geojson.gz": {
+      "sha256": "432d6e3ac48f4372b94f513a8f83757409916ccff2d338af1ce26ca680632f69",
+      "size": 160396
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00060.geojson.gz": {
+      "sha256": "9478f608c0506280422b24c202209e2418821ba2d693d4506ed5c53af89e0e5e",
+      "size": 202523
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00061.geojson.gz": {
+      "sha256": "94f4f935763d211680557371c4e3b008870f284a137fe717f6a544b54bd43d8a",
+      "size": 195794
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00062.geojson.gz": {
+      "sha256": "c8ff1dbb2992f2985dd733c7d2c08b32092cb0ddeaf43cbd4167047cd0e24f6f",
+      "size": 192264
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00063.geojson.gz": {
+      "sha256": "1680a8f8f6d92476d1895c93320cce4ea1b41fefd22ebe17ea2745b5f96ce0b8",
+      "size": 183334
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00064.geojson.gz": {
+      "sha256": "13612ae03c17b8edcc535ba1b400f6a0f2a0b153a0dff798148530d9acf50aa6",
+      "size": 179344
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00065.geojson.gz": {
+      "sha256": "051cc613de1e919aba0c5baec9e8cf20398b46078d69854bd30d847c3710e63b",
+      "size": 167970
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00066.geojson.gz": {
+      "sha256": "082f263ca338477eb5070b6d692a4e848e09b256ae5c6c368e13d43b1ba158db",
+      "size": 175367
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00067.geojson.gz": {
+      "sha256": "af6578c72a274311655ce0557b3c444275b889b45eec4bdab044c8e4831333db",
+      "size": 192484
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00068.geojson.gz": {
+      "sha256": "2db9fe92d90673c3529342e446e7dcda42b3468ab57197f6b274e5370c375d69",
+      "size": 181450
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00069.geojson.gz": {
+      "sha256": "29b2e497697edf60a33cb7cfa1df59a7708d30b2bd304149415f43a888acd31c",
+      "size": 194539
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00070.geojson.gz": {
+      "sha256": "d0fba92daa3a140c17a06999b8170fe7fcd1ed82f722cd2a506badf7d151baa8",
+      "size": 218454
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00071.geojson.gz": {
+      "sha256": "175f343c139dda8bbca2970a213faed8711061b75218752163c2a16ccf220c3d",
+      "size": 215921
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00072.geojson.gz": {
+      "sha256": "2232f61aa19d88dcd87d70fab0af4bbbf31d74bd1b7b4d84bffcd27b05aabac7",
+      "size": 209249
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00073.geojson.gz": {
+      "sha256": "1db0be3eecd60becf2e5037631b6cdcbf8b477f63a27a468f656d77c1678fddc",
+      "size": 197928
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00074.geojson.gz": {
+      "sha256": "90500edca794cd6cebdbb3b31aca16671bdeb95a2b0e4c810c4b3c9567300ea5",
+      "size": 212385
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00075.geojson.gz": {
+      "sha256": "022a5e1b2578afee1265c8496c5d2b737a0a6d7a311226bb9adb938e8362b8a2",
+      "size": 200251
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00076.geojson.gz": {
+      "sha256": "a10f50e29ae8b2fbc0e0f4e4472f7f6f6a1a1433d37b13e675626838993d215a",
+      "size": 211261
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00077.geojson.gz": {
+      "sha256": "82da6f016cf7e58a574c4efafe810c35ec79e0caed66a1387c66e9b3472c57c6",
+      "size": 202532
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00078.geojson.gz": {
+      "sha256": "0a58e3b73e4a2597d2d94dfa547a573effe82e5c6ff4cfea945bb4e9994243bf",
+      "size": 202848
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00079.geojson.gz": {
+      "sha256": "22a5c0d20babd8a3c5c44a5cac69bcfec2ff6b533982f921bbb0c12819cb37a9",
+      "size": 207995
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00080.geojson.gz": {
+      "sha256": "3d320ae7bc86a243ad2e9535c30761be5ea9e3d505113f77da29e9c9b8d3d877",
+      "size": 209879
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00081.geojson.gz": {
+      "sha256": "b8f9499e8ed9bfb245747098db26bda045a863a96f7a3fa414ec0579da29003b",
+      "size": 215072
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00082.geojson.gz": {
+      "sha256": "cd39b10d94dd0e627edfb23b28bcec37484f6aab67aa8da5247ef43a58e6d265",
+      "size": 211762
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00083.geojson.gz": {
+      "sha256": "808a529c5026e6fd26881752ebf1a0766aaf79a839443963fba86c4b431d32a2",
+      "size": 206471
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00084.geojson.gz": {
+      "sha256": "75705541587192f48bf3e3a061b0c27da3677baec731f824100b33b4723e26ee",
+      "size": 202356
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00085.geojson.gz": {
+      "sha256": "40c41e72a168c71dbf08f6a16f59cb8fd44d85ae7edf793c91a38e3dbf6bbffd",
+      "size": 225711
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00086.geojson.gz": {
+      "sha256": "cc24935806500679cfee8cc5d78004b5a7b0f716251b5fd89615bdaf09d7b2ed",
+      "size": 201966
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00087.geojson.gz": {
+      "sha256": "768499f88bed8629b6eea5c72da75643518cd77c8bb6bf801b58db4c13fca053",
+      "size": 193294
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00088.geojson.gz": {
+      "sha256": "e469bd2f8b124471b03c0de1cee50c46259d053fdeecbf1dcd45b9374df06cb6",
+      "size": 210578
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00089.geojson.gz": {
+      "sha256": "c379e6a1452c21848d45ed27fd139fc0318fa4a3e0d1fa04a13547ac132e5ae7",
+      "size": 211321
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00090.geojson.gz": {
+      "sha256": "c6a5a5eb2669215e5cda0c6713c432054c555ac48e7416c529a9debeb3c3c707",
+      "size": 195482
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00091.geojson.gz": {
+      "sha256": "9d2377cdde40da79a85ece397908d52f60487c6f931f76c5a83575e1609832b7",
+      "size": 211776
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00092.geojson.gz": {
+      "sha256": "b4df42ca1c71d97813a11a2707f6b5cc0bd31afebbebade0a70ddafeb639c365",
+      "size": 208073
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00093.geojson.gz": {
+      "sha256": "c7151944b9112d416820039eec3fd91bee60b59de209ebd256215b4f50e0022f",
+      "size": 206508
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00094.geojson.gz": {
+      "sha256": "0a3a67a14dcc0f4b3a45c7dd5421076655cc1d8a353a9a979abfed5339aa33a6",
+      "size": 212961
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00095.geojson.gz": {
+      "sha256": "abcfbce77d6dad36a2f6444ecbdd8956739897ae70961cd2868495ea6f8299f8",
+      "size": 212207
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00096.geojson.gz": {
+      "sha256": "fc53dd3f345a19adcd605e1b3d64acf7aca6c78b76e7161abd78e46519535468",
+      "size": 209913
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00097.geojson.gz": {
+      "sha256": "8d4cfcbc84c300ebb4698f678666a1923619ec4da0ce066dca710aec2b654737",
+      "size": 208410
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00098.geojson.gz": {
+      "sha256": "0686dc55316d6d0729031e185ac09c422cfe8d7e4d53298ba0646e317466100a",
+      "size": 224317
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00099.geojson.gz": {
+      "sha256": "f8e4724523a18179c42acf4c2bb54120a50d400e41943be70c31aad923a902ce",
+      "size": 207835
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00100.geojson.gz": {
+      "sha256": "b8b5be72874b918dba3d75492d2271d074f6c176a6cca944a2bf1ea68bcf02bc",
+      "size": 199234
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00101.geojson.gz": {
+      "sha256": "a0d278272e29f7c24d79787b6208b851d6e7642aebf47dc50a6422dce1b38bfe",
+      "size": 203209
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00102.geojson.gz": {
+      "sha256": "6973d224a052166d22221b01acd0540b15566bbccaa1dd4c88ed27d88e29a845",
+      "size": 204850
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00103.geojson.gz": {
+      "sha256": "097bbe6c0c4ce6a5ebd663276538d4b0f5fe83c9ba2aaf8fc39101a29c4a6e5d",
+      "size": 201096
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00104.geojson.gz": {
+      "sha256": "132436c284a7564b61ccc8eb7bc3b5f7c655d5868f01ad144ff26f013b21a3af",
+      "size": 204458
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00105.geojson.gz": {
+      "sha256": "a4ab181396a90efadda8e2dde291de5fcf900bc302cf1dae197f09627900aa23",
+      "size": 201101
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00106.geojson.gz": {
+      "sha256": "8b1078ca8c0b484568ea10ab00cc1c08ddf3c2cd1a771ae651a0afd274ea08bb",
+      "size": 198124
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00107.geojson.gz": {
+      "sha256": "c9fdb5afbf49eae13f314d23daddffa4f2c1249509aef8074398a29af9160196",
+      "size": 193364
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00108.geojson.gz": {
+      "sha256": "20c2219fd6efa41f7a2e54538d59f21fb9e4efe4042a0ff834e6f6b1043ad897",
+      "size": 179837
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00109.geojson.gz": {
+      "sha256": "3e745547d3c3a5bbfc806a8bfea971558403664c653dce760d0632309741df86",
+      "size": 203243
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00110.geojson.gz": {
+      "sha256": "3b81ba6ff6482823974f70e2c060e475b9f53d2a76930d939d0b5b386ec09589",
+      "size": 198894
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00111.geojson.gz": {
+      "sha256": "765bdc35d6b5cb9d7f91c2d196b562d1ed3600d3b5de41904648ccb608cf6db1",
+      "size": 197997
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00112.geojson.gz": {
+      "sha256": "840fc97ffc0c8f46b8482d594578cf3790f92c554bee338e2223d2f6c99169fc",
+      "size": 202846
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00113.geojson.gz": {
+      "sha256": "a6218ffe8c0adb10997f34f01a19714c0c2e7658422f85cfc5d808cae9ccdc75",
+      "size": 242571
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00114.geojson.gz": {
+      "sha256": "5c12dcc7469368d2046ac5edc8501d67b3dae45b5b77304bbae27bea31843bca",
+      "size": 188862
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00115.geojson.gz": {
+      "sha256": "d127b49c2a08ea45bc0f8840eb750f60180ea4935216338be325c3c69fc87bd4",
+      "size": 185824
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00116.geojson.gz": {
+      "sha256": "38d2fdf6f9522942668f3e14f88c74bd36bb9ee78064cc443cc4d9c1208eef01",
+      "size": 213286
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00117.geojson.gz": {
+      "sha256": "20edea62796f67bee23f3c62ca9db3070dd4c3425fe5b60c0b03e1374cdcd3e2",
+      "size": 198787
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00118.geojson.gz": {
+      "sha256": "e5e94aed64e18fbf502b104723af7430bdb99fc2899c9e7961a6f5e6710d5905",
+      "size": 202659
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00119.geojson.gz": {
+      "sha256": "d365601ba976efc8d35eca912437b22401f06c728246d9c7c11c42cd6dce1939",
+      "size": 212033
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00120.geojson.gz": {
+      "sha256": "b4f01c68f47cbcb634068b7cf3e295d2bf7edb8c4906dd4320a82ad649a59ab3",
+      "size": 205742
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00121.geojson.gz": {
+      "sha256": "c66289a61a9baebf20ea224bad1038144b04a7551af6d99cc43805216736882b",
+      "size": 208458
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00122.geojson.gz": {
+      "sha256": "041079075486fab125b308a1ca020efd80e97171b54a4f1f77ab90a24eef09bd",
+      "size": 196555
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00123.geojson.gz": {
+      "sha256": "1bc504984abc173600030138f92acb99dd367a0055f74cab3eac7e429287e4ce",
+      "size": 209054
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00124.geojson.gz": {
+      "sha256": "6d7ab4fb018b56b0dd5335ddf99d48ea122d5bcf8ea9b27a93d98d98dc88ef24",
+      "size": 203786
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00125.geojson.gz": {
+      "sha256": "aeb884e4e4b342216f23efafe80e326b626d84571d0445cd71b6e5f40089774c",
+      "size": 203683
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00126.geojson.gz": {
+      "sha256": "f0a2667a5dfda3881a85ebc966e0d61e1fb864363c7b319e8e576f0a024d1aa7",
+      "size": 211396
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00127.geojson.gz": {
+      "sha256": "98f93ddc4b094f0a1ea4f52d65242587c769aa03d59a0ba9f048f5a71a4fb3a8",
+      "size": 203353
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00128.geojson.gz": {
+      "sha256": "45e913c76930ae4c7383dd4041aa6db9584dab0af9d9099c00c2dd69a744b795",
+      "size": 191975
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00129.geojson.gz": {
+      "sha256": "59e2fd7f6331a65a2f308aeaef43a810f6b535ffa34f97dc2319417dee802eca",
+      "size": 177529
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00130.geojson.gz": {
+      "sha256": "9d5698c8130f602e2295bfbd9201d639a71d603ff7def30dde1cf2210322d5df",
+      "size": 212790
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00131.geojson.gz": {
+      "sha256": "78f55cb2af019235f19a6f33584a5047a8cb2ac8a05bcb61f439fb2bea851c7a",
+      "size": 201664
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00132.geojson.gz": {
+      "sha256": "475bf0a0d37ee88317d666efbe1661b4701def1ec27cc7e05e6d8559cd2d7903",
+      "size": 209192
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00133.geojson.gz": {
+      "sha256": "79a5ec513fd287280fbb5a352c6eb0c9237686e4802765cbd96ba1263516635d",
+      "size": 201924
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00134.geojson.gz": {
+      "sha256": "91917e8732b0118d95642478905a06f2d5d4196478623cb5d0796775f360442b",
+      "size": 193694
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00135.geojson.gz": {
+      "sha256": "4473522b1b30d79db55cd6dfb3a767c6580d865527d6c42db8769576153056a2",
+      "size": 187639
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00136.geojson.gz": {
+      "sha256": "a8209a9b6651ce4d76d436f05acd8f26eea3981be245b4d0dee302bca43eefbc",
+      "size": 163794
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00137.geojson.gz": {
+      "sha256": "5641ca97816b101ae093de01ebb5a71d122d9c1511d264721875e25e98aa5cab",
+      "size": 216833
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00138.geojson.gz": {
+      "sha256": "adde1451ef2f220c19a04d90a4fca301a4bb3512b64d623c256a583fc3ed2050",
+      "size": 209427
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00139.geojson.gz": {
+      "sha256": "324896eaac26d31a06f5c73684ad97fba75b66ecbdc819c97f52a06fcf356157",
+      "size": 211326
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00140.geojson.gz": {
+      "sha256": "2efa01e62aca6bc7b766b3fed477c9c013eefc3797f465d967065871469c13fb",
+      "size": 213627
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00141.geojson.gz": {
+      "sha256": "08a7eba748183cc22fee722adc233de605ee8ef50220777a3c62635f358c37d5",
+      "size": 190101
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00142.geojson.gz": {
+      "sha256": "8fb4f5da9f288a9232d4e15b79e054ba8f0c08af26bf128789bdd270cc96ba2e",
+      "size": 184380
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00143.geojson.gz": {
+      "sha256": "3dce06918d90023dd2fc2e190bdb6665fd110ecddd4e73b20b964a71277f0ee0",
+      "size": 191669
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00144.geojson.gz": {
+      "sha256": "c64a7996828838bbd331639b5e7b5f80b1d8294d68641db4c3548b9045a3dca8",
+      "size": 159207
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00145.geojson.gz": {
+      "sha256": "9f0f0998d716c5963685d400c64b0178c95991778f2299d2ba0290d459f8006e",
+      "size": 99485
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00146.geojson.gz": {
+      "sha256": "22c50ea52c52fa0951df22845eee2ffbfb2640ce228c1e2bae1aff179c696db2",
+      "size": 187998
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00147.geojson.gz": {
+      "sha256": "e17a5d20d4b102ac6e8229f5c55895da1c8d22f05675e32f49591cfc0c82ae6a",
+      "size": 190492
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00148.geojson.gz": {
+      "sha256": "e918d717e8dab757118a5f5adb0776522d9cbbf3e2e82037e9aeffaab70127f2",
+      "size": 184496
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00149.geojson.gz": {
+      "sha256": "01b9b6b6495b51f8e2cf697ed9aa97d1eadb117c9be8d8ba71c89fe195bb0093",
+      "size": 185906
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00150.geojson.gz": {
+      "sha256": "cc5bffa8dcd795d0e1661e3cc24267c32a9a8ef7f3b9089382d85dc876a3d9a7",
+      "size": 167782
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00151.geojson.gz": {
+      "sha256": "917ada66ea8807984c0d91b73054ff51338f2569b11ebea19b89436055de389b",
+      "size": 197387
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00152.geojson.gz": {
+      "sha256": "8c107c0c7e7b2b3c6982da470640da2d98d7074036729be56fd02a67a820c349",
+      "size": 196663
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00153.geojson.gz": {
+      "sha256": "59e321a6f9623d2207d7bfd4240d8dcdcc33d5d9c5c4d387881e58f92ce258ab",
+      "size": 200188
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00154.geojson.gz": {
+      "sha256": "0f36ef8f586d6b2cfe982fec45220f73758384834e3a335c9809d488086a6fa4",
+      "size": 202020
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00155.geojson.gz": {
+      "sha256": "0abb682b6ac61b26fca73fcccfeca987ec2539b2deb821ce2fdf852ba79e21dc",
+      "size": 218885
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00156.geojson.gz": {
+      "sha256": "69cea8d6da740a4bd697e0ff0b762cb620b9892e64d4e914c9a1c5b74e09ae2a",
+      "size": 192600
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00157.geojson.gz": {
+      "sha256": "69eebb7cd00667d366fc5e065a3ac94abaf062fbe11a56a3600c04aa0bf15ca4",
+      "size": 187387
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00158.geojson.gz": {
+      "sha256": "8817d7f084aae987f300edc9d5e5206492beb79803586f1e9fc0c15242ab5b2f",
+      "size": 198865
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00159.geojson.gz": {
+      "sha256": "8cc51c3e3ca7394499d7edfc5e8f044ae868eeb43a9c886dd9a520e2d8a634bc",
+      "size": 183551
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00160.geojson.gz": {
+      "sha256": "6783f4c591b6745ebac92c7732437573f1fe5c85dcfbd04e4a84da50ad39e290",
+      "size": 215807
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00161.geojson.gz": {
+      "sha256": "8f6d23158c7459137e7b11a3e38b50e65e9436b612167e143248fbcb9a7f7cfd",
+      "size": 225981
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00162.geojson.gz": {
+      "sha256": "95253679c6e16380c2a40134e8d5e18f9ef1aa94deae6c4e5103268f322f86f2",
+      "size": 211126
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00163.geojson.gz": {
+      "sha256": "98a056d25b736c0d4027a13aa02c310fe6d024aa5d8837e01ca7b3bbce6269df",
+      "size": 197119
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00164.geojson.gz": {
+      "sha256": "931d9305a6b3fc135d2eee35fc3df86960201507cc2257e66fd811acdbb6a76a",
+      "size": 198541
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00165.geojson.gz": {
+      "sha256": "7cc4fc6520f7390161090dbd252152eedbab734d23b43e3fcba3f4fff102b627",
+      "size": 192179
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00166.geojson.gz": {
+      "sha256": "7cfb948fa97c473c59337184085aea68dbea284554d3f546c3c94000d109733c",
+      "size": 196713
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00167.geojson.gz": {
+      "sha256": "81764d94f932ebf57efd8ca0d2e5e4a7e6b658f7972046faf7999c5e1f3748e5",
+      "size": 204021
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00168.geojson.gz": {
+      "sha256": "fcbb3df8be25a95c29d4ad0b5da23821f6c6482100c0e0a6f7dcf65bbe0c6ed1",
+      "size": 210107
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00169.geojson.gz": {
+      "sha256": "a9daad2b9e1078533ad8832a274e86cb77b02aba48bdb88913afb2ea4a48fb44",
+      "size": 205398
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00170.geojson.gz": {
+      "sha256": "b6834344541a5edf48558bc5ce158a795f68b825fb2006f34fd0a55dc05bc65e",
+      "size": 201283
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00171.geojson.gz": {
+      "sha256": "3cf9171d8777dc8a34375bed53ede02a3aa69b05fa1fbd475ea5234e88983b94",
+      "size": 187591
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00172.geojson.gz": {
+      "sha256": "e7dbc4ccc8bd7155f46316b9c1523ca425f9bbb9086211ba742a23eed3691fe0",
+      "size": 194232
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00173.geojson.gz": {
+      "sha256": "66137aa18ac10a1b4ebc2feb2cc3040b2f61a018108c0994d13334a14e3ace30",
+      "size": 202704
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00174.geojson.gz": {
+      "sha256": "ebebe4e9868945d437416f7c28f798ae50122c840ea9668b59790342355f2013",
+      "size": 199262
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00175.geojson.gz": {
+      "sha256": "61378f39f24148117313f688e7286fc3ef99efb61f2b4c64b9bdcc225432ff7e",
+      "size": 212765
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00176.geojson.gz": {
+      "sha256": "2c3c8def8690e20a61945deb6286d50599c033caa7708cc772d81dd64b992f40",
+      "size": 214081
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00177.geojson.gz": {
+      "sha256": "7be1e3486cb2532a340281a6b9b8b08a55e6517478144c56d46bc54e85c3c9c2",
+      "size": 191142
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00178.geojson.gz": {
+      "sha256": "f12cee6172a888edaa19d8d84d6eb88fea9cb3960850b06215aefb45cf607a78",
+      "size": 202306
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00179.geojson.gz": {
+      "sha256": "1a1df3309d25fc2d77f0e41b160719ac3330bc2a3045a8cfd0cd21b16fe8f18e",
+      "size": 203830
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00180.geojson.gz": {
+      "sha256": "78d243db3f28ac1050c0da287035499d203210a5c302ba192ed19c3883ff1b1b",
+      "size": 202404
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00181.geojson.gz": {
+      "sha256": "fc43c8439ad0dabbf32d4c18cf64c86fb5a239f340735dd89ca696db47eb8854",
+      "size": 185703
+    },
+    "data/geojson.day/eyes-of-wakanda-01-day-00182.geojson.gz": {
+      "sha256": "d194f327eb63754cd553f46e05da20f22a5509ce62d469319ebea4f40fd3a6bf",
+      "size": 197209
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00001-2025-08-01.json": {
+      "sha256": "9caf57db430452cd424d0dec4dd0775a8a60d95ac4637c4e3d5fd45cc90aa8f0",
+      "size": 465
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00002-2025-08-02.json": {
+      "sha256": "715884ad1cb11c3bc04b42371a1179a5e902053bd7a35a08c7d0c5c703d9b6b6",
+      "size": 465
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00003-2025-08-03.json": {
+      "sha256": "fbc467f2e88a030aa199aa41f3f2e7f8f88f1b57419cdb38fb49058ee0452a1a",
+      "size": 467
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00004-2025-08-04.json": {
+      "sha256": "9170a839cbd8d4d6062a7ae44580d26953575de6e625520d13e4081003dbbab8",
+      "size": 467
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00005-2025-08-05.json": {
+      "sha256": "cf6c21a0d0a8cef351f8c6386319f6024072de057f49850f68674daec1942e4c",
+      "size": 466
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00006-2025-08-06.json": {
+      "sha256": "96ac934f317abeb203ad447cbd93a838463bf8e5778014923f15f3dbbad4f5bd",
+      "size": 467
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00007-2025-08-07.json": {
+      "sha256": "52d40dd75761b3087315bea0c434b27a7f4c0702f3837bde2afb18b054dbe43a",
+      "size": 467
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00008-2025-08-08.json": {
+      "sha256": "6672477172d12fff236fc67a6aedd5b495218318b9cc396792f43ac3db709018",
+      "size": 467
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00009-2025-08-09.json": {
+      "sha256": "a141e26189f71e5e273f91f745696d9cf5d470297da4b7ebd181cc71ab4da91a",
+      "size": 467
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00010-2025-08-10.json": {
+      "sha256": "9beb17a876c77a9032276f019f12361fb6e3a976881e243ff909d9f055e6503f",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00011-2025-08-11.json": {
+      "sha256": "97209923ebf5977630538a22cf2201ec15d3af3deb670d83b2ececb92f396457",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00012-2025-08-12.json": {
+      "sha256": "d14a8ac829725466bac80aff880e69b978ca0e348f9bf754d1efa0190dc2cf31",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00013-2025-08-13.json": {
+      "sha256": "fc8e30132863ea864f1be8e0c947e04e52e1988d4dcc7f930bfd0a2ec5bb3bab",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00014-2025-08-14.json": {
+      "sha256": "2c47376465be5d8fbdb59f2010d5ea6298ada783c8520ed1c4fe047985231218",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00015-2025-08-15.json": {
+      "sha256": "55bb9efbd6ebb1c6293be29f5da4bddce7b99543fec93e6380995a4624dd6379",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00016-2025-08-16.json": {
+      "sha256": "877f6576b6e84b792a8a43d3b1ee1a43a928f1bef24633ace48389ed34b9078b",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00017-2025-08-17.json": {
+      "sha256": "519f45b5d9e877f15cefe9b62b0be2d39baf5de7de8aa2fc421f5fb8f3d0789c",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00018-2025-08-18.json": {
+      "sha256": "24b9fe2f0448f1d4d7be4530d8eb51d23093f0bdcd692af036fe32083da9ddca",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00019-2025-08-19.json": {
+      "sha256": "d841d67f3a68be29c0f155afd95dec465f2336452cd7e54d051d2e9ad4b7471d",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00020-2025-08-20.json": {
+      "sha256": "123843deb34d6f69887674d902d22297c2b5912d0ac775f961dc217fdd825868",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00021-2025-08-21.json": {
+      "sha256": "3a8b9e9e80fbe680c240f1b27558d80b345bcad80a5ef4bb9753066d69c7774a",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00022-2025-08-22.json": {
+      "sha256": "b1eabfb08cceef145316b42f5f6de0812cb238ca849c3a9a6e9f9bbd72a6296f",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00023-2025-08-23.json": {
+      "sha256": "e1b36840f7947d5cb0dc21c705cc366d0db0ed9f70e08b2187ccc70b1f6f53bb",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00024-2025-08-24.json": {
+      "sha256": "dde2bef6d94c0a14f960f9a74a17d75b44126cd7e1e0ac654d8abeca85ccbe71",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00025-2025-08-25.json": {
+      "sha256": "6452a220f9d4b4720df92cd91b140e25fc5e386bd82e9e2ff3dabb9db4f80236",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00026-2025-08-26.json": {
+      "sha256": "21217ff9484a567cb8463df23ce21722dacc9be7fa70b0fded1ba310e0550ef4",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00027-2025-08-27.json": {
+      "sha256": "99a4cb5a62d84b3f9be4e2e0d6af2f38caab908ef2a7182fa6d0de470bf83255",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00028-2025-08-28.json": {
+      "sha256": "bf4487de5dcdd77756f738c12ec91a18ffa014b80839786d10ae59226dbe472c",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00029-2025-08-29.json": {
+      "sha256": "13404ee2a451d49b5d08afdbbbf300ce65fc07891b703d7766756b67725e4df2",
+      "size": 467
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00030-2025-08-30.json": {
+      "sha256": "14dabfab6352a5d7606ca48c05b230d5ac0f9b53381137d3003ccdcfa32ea6b4",
+      "size": 467
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00031-2025-08-31.json": {
+      "sha256": "a58b63f751486555085b6627732aec1c05a8c8c2da1458ff293d1b759c8e753b",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00032-2025-09-01.json": {
+      "sha256": "33b2715008fc356dff9793263d175b562abf3afa321f55926ac8e5901b2964d8",
+      "size": 467
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00033-2025-09-02.json": {
+      "sha256": "0b61d64c7b46827c769575547623edaea960d36bca3cd813421aff3dde597885",
+      "size": 467
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00034-2025-09-03.json": {
+      "sha256": "d50836e095e66cf06d9ef469249a0d925d61fb48d73d74d2859cab8d50c139ee",
+      "size": 467
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00035-2025-09-04.json": {
+      "sha256": "11c575482dca5d0f644ace9dd2fa4e2a76c71948435d9c45d7a43c9f7ed30eec",
+      "size": 467
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00036-2025-09-05.json": {
+      "sha256": "4f88bfc1f57ea703903fe9dd715a6d9bb8cabf35c58206a95e1067558867cb9f",
+      "size": 467
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00037-2025-09-06.json": {
+      "sha256": "4e050c3733c86b7248c733b5e4b75213a19ddd4055229906d67f5fb70b9fb4cd",
+      "size": 467
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00038-2025-09-07.json": {
+      "sha256": "974ee452a5d4a8374ef6daf3ea1243ef6bef0a7de078fbdbea2b434b4c6b50ff",
+      "size": 467
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00039-2025-09-08.json": {
+      "sha256": "88ec9cccffddea0430377f3e8cad90040f0da260e481829cfbc629020e8f9dfb",
+      "size": 467
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00040-2025-09-09.json": {
+      "sha256": "1c68e63cd8f2ed1a9ac9dceecd44243ee4bfd1fecc84152f0f5076accc645b04",
+      "size": 467
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00041-2025-09-10.json": {
+      "sha256": "94beb41002c7bf5506f82bb1f46a674425f66f9778205635a2e729c4e5c36a7c",
+      "size": 467
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00042-2025-09-11.json": {
+      "sha256": "df857b370867b6592f6154a620b47181f4c33233455cb6897e1d79d691cdb215",
+      "size": 467
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00043-2025-09-12.json": {
+      "sha256": "c49a24c204e0724cbf68799ca403db41fc2aea4391ad4427a0ae5954b5f01392",
+      "size": 467
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00044-2025-09-13.json": {
+      "sha256": "31a1caf5f253cfc81c8e59c4391b224074fac627fd012763908b1816fc88dcd0",
+      "size": 467
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00045-2025-09-14.json": {
+      "sha256": "7cdd77ed8adb8c2bddc0d5ad0ba5b5af0fdcb823647d9ec45014a0b4300e137b",
+      "size": 467
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00046-2025-09-15.json": {
+      "sha256": "3bb3463d9c27270a7fd93f4d5ed270a1270107b8f1d7034ca0d255c7d6665d0d",
+      "size": 467
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00047-2025-09-16.json": {
+      "sha256": "388ad1288c272fe4689fbbfc5253ffca033e0d05767bf1c724e5a434536c4d50",
+      "size": 467
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00048-2025-09-17.json": {
+      "sha256": "04e28d99f71957001c1f8809eb5e6d0e1e9b3989e1211ec5bba04f2aad3b7082",
+      "size": 467
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00049-2025-09-18.json": {
+      "sha256": "7b755112d9b4fe41c117d749ebf3c5a95dfc22aa62259d6524e72844166c61d2",
+      "size": 467
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00050-2025-09-19.json": {
+      "sha256": "db8a90644d1e5bd732e2242c9f79ccff39fb0e5e808af12a4ddc40bd5476d911",
+      "size": 467
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00051-2025-09-20.json": {
+      "sha256": "540a2167b4cc3c93b9763a394812511d94de7e045cc9376806269c02f00672f4",
+      "size": 467
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00052-2025-09-21.json": {
+      "sha256": "e891f95398751214136dc30928e281e1607df21c3b6bf65bcf8b48e305d3075c",
+      "size": 467
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00053-2025-09-22.json": {
+      "sha256": "74c1619ec66e8ded1bbf81c3350ae17626bf55a43b441c661d3f707f00dffe82",
+      "size": 467
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00054-2025-09-23.json": {
+      "sha256": "d60316ed8a2d0cedf966744e3c84134d24aef21fd89db0f68d230158887881d4",
+      "size": 467
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00055-2025-09-24.json": {
+      "sha256": "68acb3ee922ad1fe67cd273851387e4eb8c795f1f1fc1d34261a479420ebca36",
+      "size": 467
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00056-2025-09-25.json": {
+      "sha256": "a946edd236abc468ce7e483441fb254a0f10e14acd6b4107cb4b62aeaf0e8c30",
+      "size": 467
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00057-2025-09-26.json": {
+      "sha256": "0a8daa411bf36945f736aedaa81620ed61610a59deb29f1bf2fbe0af1a7a7c5b",
+      "size": 467
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00058-2025-09-27.json": {
+      "sha256": "96e330e16b99f59ea974aff1a5f62f00e60acf7c65c462936fe8a7c921a7da33",
+      "size": 467
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00059-2025-09-28.json": {
+      "sha256": "47c2e59fcdaab92991709cadcc02f6ba6291fc88ae24f7a9b2535cb51fcaff69",
+      "size": 467
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00060-2025-09-29.json": {
+      "sha256": "6aa275bc53a9fabbf2e9395fe1456820f9225eeda937680910f43ed787be4ad2",
+      "size": 467
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00061-2025-09-30.json": {
+      "sha256": "d98d94bedeb4a3031df8ac9685b14408590ad64afb15ccd55184410b2e9f42c5",
+      "size": 467
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00062-2025-10-01.json": {
+      "sha256": "afb54289715e2dbad41f11da2e032287d458b3754775a45697ce9089c06f2753",
+      "size": 467
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00063-2025-10-02.json": {
+      "sha256": "d046aa248fb4be11cce272486bdc73278750f676c9a7b01abb581967da6911e1",
+      "size": 467
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00064-2025-10-03.json": {
+      "sha256": "c678113b36b8b993d9fb0639ad691836544b10271e3b55a4081188a4566f4948",
+      "size": 467
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00065-2025-10-04.json": {
+      "sha256": "bfe91768a6a9f80504b10e586bdb7c1bbcc78792acfa773b2c9686050fd9e282",
+      "size": 467
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00066-2025-10-05.json": {
+      "sha256": "4e81df6e17ec8ace59e08f8eed68cfb7b0d00fca8e3015ea87e994a2b904ada4",
+      "size": 467
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00067-2025-10-06.json": {
+      "sha256": "e69e951a75ebe40e252d777ab76f0c5cb0903ef23d366c88554749b9e7cddce0",
+      "size": 467
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00068-2025-10-07.json": {
+      "sha256": "82369219e56d0e7daa740a4a305a19168615580191f683e15570d02afa0741c3",
+      "size": 467
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00069-2025-10-08.json": {
+      "sha256": "273b38980a825f5027a85c81d21c60b823daea43bcaae3c0dd467d775d7284d9",
+      "size": 467
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00070-2025-10-09.json": {
+      "sha256": "799e933fef6cdaea3d3fe3afafbbbee25c4b009a2edf871e75ad992fe55678a2",
+      "size": 467
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00071-2025-10-10.json": {
+      "sha256": "a7179e27eef260c09aef1ecdc13e9fb9fb05fbba181da7ed8e4c101074584188",
+      "size": 467
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00072-2025-10-11.json": {
+      "sha256": "fd8f4900ea63f1c04046117deb67c93d8c361545da3f057cb8bbdc4338807c76",
+      "size": 467
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00073-2025-10-12.json": {
+      "sha256": "2ec70d06f1aecfdf07c8c3e3564e18bc9fff260affe523eb9af1c2966f0333e2",
+      "size": 467
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00074-2025-10-13.json": {
+      "sha256": "42fd3a2ec006f078ce1a264daff89ef10508ec68640b016d5a762ead71c255ef",
+      "size": 467
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00075-2025-10-14.json": {
+      "sha256": "569bc15b16256d6aa51ed9dc6dbe8f3f8274de530510f95678df1da938cb97eb",
+      "size": 467
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00076-2025-10-15.json": {
+      "sha256": "f1f7bbc7e881ab6f05fd734f97c1a08d7273cc9162c3ceeb883cf03aa1c431f6",
+      "size": 467
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00077-2025-10-16.json": {
+      "sha256": "644e20346174713f819473d976c7c067b565c19a555f318efed1223d5eb9f1cd",
+      "size": 467
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00078-2025-10-17.json": {
+      "sha256": "74ecf29877b93fd5f9c6476424f44f226429ee5fa8c9d82c12d9e228d9eefceb",
+      "size": 467
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00079-2025-10-18.json": {
+      "sha256": "0430d40015ccadbc347a877b0550b3ac354adba09eae3e37c881748dc58500d1",
+      "size": 467
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00080-2025-10-19.json": {
+      "sha256": "691f781aaa0bc5fe73afef4dd41811fedc3871aee78137e5931ebcc81e3c4a77",
+      "size": 467
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00081-2025-10-20.json": {
+      "sha256": "da45888d35215e554d0b9e47097c32cef462ef71155179029aac572cc13aa1ce",
+      "size": 467
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00082-2025-10-21.json": {
+      "sha256": "d92fc9945bf6ef3d1a23587a543862fa83be9eaacf2635cf58f7d883712c22b2",
+      "size": 467
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00083-2025-10-22.json": {
+      "sha256": "70692ee103a12c8c5a699a976e9af8a2025b79404d745c08ef46916375089f48",
+      "size": 467
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00084-2025-10-23.json": {
+      "sha256": "22c2ff0c4c47facc6172e081d952d8ab037a3bfe342305c93786b2cea0d3c14a",
+      "size": 467
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00085-2025-10-24.json": {
+      "sha256": "f32867d17b781e39e3a1cb023175dcdccb1d43e544d745941cf59ddf509d8334",
+      "size": 467
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00086-2025-10-25.json": {
+      "sha256": "cd427cc773c9d69496246868bbe6a57c10dbfc03f36782704216d09d1d7aee9c",
+      "size": 467
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00087-2025-10-26.json": {
+      "sha256": "7d32661aa19954953e75722695896999ca7b9358b0f769d4d12ef102b0d92154",
+      "size": 467
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00088-2025-10-27.json": {
+      "sha256": "c41284bd709c8febd88946b6776285e4124722e261ee6f956c923b710b0976a8",
+      "size": 467
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00089-2025-10-28.json": {
+      "sha256": "b04ce3fba302f0c3935738fd47fcafe21fa95e4febb1a72545ddb86fd7d068aa",
+      "size": 467
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00090-2025-10-29.json": {
+      "sha256": "54c35942290dceca473f1622ee43e4a66c856e933210d24b9fb7fea2fc491cf9",
+      "size": 467
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00091-2025-10-30.json": {
+      "sha256": "6bc7ab2927c8fcd1b785f229e35098f82722af99babbc53c27c8215a77fced1b",
+      "size": 467
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00092-2025-10-31.json": {
+      "sha256": "35315b1449d07d71d699e5d75f9ee543bca3dfd3c3b9b100cb564d122e7b1cee",
+      "size": 467
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00093-2025-11-01.json": {
+      "sha256": "18c11befac4df4560f512aa695729360200f9e2b7a02fc0b113e8af2d421fbc8",
+      "size": 467
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00094-2025-11-02.json": {
+      "sha256": "8ae9bc5bca9144e93f2bbe3fd7ff5e4a3f8c12437b8a9f1d7f61f49dc7c3825c",
+      "size": 467
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00095-2025-11-03.json": {
+      "sha256": "c2373054c0a9bec8e0538195bea6ba5ccb1968e729712a5383bbf9832c6961f0",
+      "size": 467
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00096-2025-11-04.json": {
+      "sha256": "8b80b42045ec22fe71d80cde9cf8950289947d6ed6d40e710ba1e9b6e389fa6c",
+      "size": 467
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00097-2025-11-05.json": {
+      "sha256": "8556fb180ec84489ba2c954ddb377befcca0b8db89896409ff398f74b900dca0",
+      "size": 467
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00098-2025-11-06.json": {
+      "sha256": "2f662aa636d7dcc6f3b97a081b377075da40defc54828cc6de46375d18812cad",
+      "size": 467
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00099-2025-11-07.json": {
+      "sha256": "60026214ca580e0dc1b8797e84c36d19b51f5f5cab17e4b530365ffdbc3e366c",
+      "size": 467
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00100-2025-11-08.json": {
+      "sha256": "c9671587d248aabfee2857bb703879a47f5a3a0a2b9827c704bb0b25cc5198cb",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00101-2025-11-09.json": {
+      "sha256": "c28670e6a7c659f7dfdbdd41bd94ef9d974340fccb499213bc4ecdec2c199b5f",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00102-2025-11-10.json": {
+      "sha256": "f0dac0af3c80989dd546e97d854dcaae00c0ccf88adf689ff7b9ef7b8fe49185",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00103-2025-11-11.json": {
+      "sha256": "2876485540d563d4fd1a0afb925b577e591f81846bd2d9122cfd8d48147e896b",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00104-2025-11-12.json": {
+      "sha256": "234afd820c83afb93c7b7ec9929b47c92e51654347cabc70e852db454d852be2",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00105-2025-11-13.json": {
+      "sha256": "2fba52a7cc5ba48fb9a5230255fe46e256172a796672828da121b456663c6ba0",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00106-2025-11-14.json": {
+      "sha256": "6cc475b8e0fa404b1eb5f5b587eb47f4b1d4e03ddd0779d668fabf918c2a53fe",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00107-2025-11-15.json": {
+      "sha256": "d8afe6b598b069cb02eaa73a47817708f82e4560504c4356a8734952ed31c902",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00108-2025-11-16.json": {
+      "sha256": "4ced35f038ada100c347d128b439998fda5d57f036956975af5282946d898c7f",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00109-2025-11-17.json": {
+      "sha256": "53255c7e38ab7d82732568cebc087c05363fa12b6b08fe1671c200a7262b2c7c",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00110-2025-11-18.json": {
+      "sha256": "01695cd93dcb7e82831adc3f268eab528a8053cf5d68c4e6f4d4dd5b4f23c2db",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00111-2025-11-19.json": {
+      "sha256": "3c344348a2b5a92b28893c60387ebde291d23ccd45a2d22ab44d3c5e3bf463b1",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00112-2025-11-20.json": {
+      "sha256": "d398d26f8d483057dddf56462077a88ab2325eb5047fb0d083fc63562b3edf0b",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00113-2025-11-21.json": {
+      "sha256": "d7aa968b18a4f66666c6cc797ac6c68e6d68122e7ce0c88f1dea334651df3e35",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00114-2025-11-22.json": {
+      "sha256": "aae32e32b0672b243ffd46d93bedf11e462d7c77de2e73a8b8035543ccf867cb",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00115-2025-11-23.json": {
+      "sha256": "96f8c548000f48234c58c138b2677ff1dd00e2d7250634f26abce866e04c6c0f",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00116-2025-11-24.json": {
+      "sha256": "e8c737a313e6f4c8776d2545598a266a2167958ab0d6f9cb4d61ee7071caaf6d",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00117-2025-11-25.json": {
+      "sha256": "27a42c812ca58c5bbef17ff88318298a2fbb4fd45a212d2dca579edb37a8fdb8",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00118-2025-11-26.json": {
+      "sha256": "7d9e0c97999ae19946983b2a4c3cd545acf9b73b8950c4c7a72ade19feeceafd",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00119-2025-11-27.json": {
+      "sha256": "76649938072793e16776940b02128146b1efb61abe84bf96e8a44ee8cbc8bcc1",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00120-2025-11-28.json": {
+      "sha256": "a244b8f5a17c1b1b98ce03ce6782f4ee0a0999729e4bcad40ef29db61aa85b9b",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00121-2025-11-29.json": {
+      "sha256": "82e9a99483a6106edcaf08dfd06302bf3ed95d94a8725b6355a22b95e38492e3",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00122-2025-11-30.json": {
+      "sha256": "63ea57fdaf4353ad57d8ef7a42c479bcb6cbf2d70f52bd826fe40b1e501f0743",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00123-2025-12-01.json": {
+      "sha256": "50cdebe3eef59c835a2fd7a0fc4d5ea66e1323dc71f9b8c037883fa7822e5318",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00124-2025-12-02.json": {
+      "sha256": "37d14d7a6afa314d690e000afc9c67ccf36e4365ca842a415ca85cc9f0f6c149",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00125-2025-12-03.json": {
+      "sha256": "4c61a444317433d80395861451d5819fbdc1300d21cefd5f2f5c576593cf9ee1",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00126-2025-12-04.json": {
+      "sha256": "e4e8e2fb51e38adc36cbb5c116d00b3eeae232783073188a28fbe38c783b5848",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00127-2025-12-05.json": {
+      "sha256": "c2411583e498b7952c8b797dfce6362d0c1e29cca2d0b96ed6e7ef3b1a2e0916",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00128-2025-12-06.json": {
+      "sha256": "e1eae880c331e0d6385b016fdc5dd1a3096b9cbc3b62a66811c9464ad7a4de65",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00129-2025-12-07.json": {
+      "sha256": "b7a88391cedc6c61bc564f78e5246d086210efe4b1d5cc76d16924ff3d825bc8",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00130-2025-12-08.json": {
+      "sha256": "48751a6be727d41e21748f4a6bdb40a0bc58dd7aee7065cfb62de6c9a6d0b70e",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00131-2025-12-09.json": {
+      "sha256": "9193c0a605e8fa13d4911309ba77a64ba3f938e1f806df34bf7e18a01b37f6c9",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00132-2025-12-10.json": {
+      "sha256": "a69a9469445c45f3f2d53e180f4c1d90b95a2407e7cf706e371c31fccc0446df",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00133-2025-12-11.json": {
+      "sha256": "11ec0a9999ba58f472c060b25d6bd07528f9b34e4aa28c93607149228c75cb54",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00134-2025-12-12.json": {
+      "sha256": "43ab4682abdbd95319ae4ad56eb045ee34cd585e3c6ab8d042006f3bf1a64ff0",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00135-2025-12-13.json": {
+      "sha256": "9463678f95260b526fbab73be9030e9254aa5f0baa7db67dda71dbbfdbf562e9",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00136-2025-12-14.json": {
+      "sha256": "87e16be7f303b21d5cf8ce72e1cc6d8992753fd184c55a4aa4e5988a92461507",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00137-2025-12-15.json": {
+      "sha256": "9a85b45de7993519a29f0db4902dba65c9780f1132ff9b68f719c5e146296a55",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00138-2025-12-16.json": {
+      "sha256": "60363c45f1cd1fb8656bf9a021c8cbdf32edd76ce3cc5b347e7f0e8714ce0169",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00139-2025-12-17.json": {
+      "sha256": "61fe9830501197e7eb15d40f89cf527db23debae3cb06b1b2985bfccf0cf1148",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00140-2025-12-18.json": {
+      "sha256": "7eef48e4b2b401e8efe030514afe3cc3db53cd579fbd560db707088a44066263",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00141-2025-12-19.json": {
+      "sha256": "2a65dcbcd01c545e6d8aea3a4177802953a054bcb925c56ab69d7f7678c94743",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00142-2025-12-20.json": {
+      "sha256": "5af7d8af8845f48c52604afc79353598dd35c3ea5f1f65fdd7664652b7ca730e",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00143-2025-12-21.json": {
+      "sha256": "449bb06093fe7c1ccc71f1db10bffcb8374524cf9cf07a094b99f553614ab70e",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00144-2025-12-22.json": {
+      "sha256": "00f32700d9fe000a9712321df4d794fbd815feede7cac71a0ccda93325ab026c",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00145-2025-12-23.json": {
+      "sha256": "7ac37439e08bedcdc198f23c410a7b4b640852e6ddc5956f49b6a63e2a20a0e9",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00146-2025-12-24.json": {
+      "sha256": "a71734f0d8be37dfd71e6512bb6dbcd92a1b27f34e33e1aa343a3cb480d3a6c4",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00147-2025-12-25.json": {
+      "sha256": "2376f25dc83847c4cde8d6998cdc7b5229bb792161577e2585cbfceb7c92b95a",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00148-2025-12-26.json": {
+      "sha256": "6daca0ce032f3a45cd4974663055e76ec07adf4d324fa4a8c46847a67dcd8bfc",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00149-2025-12-27.json": {
+      "sha256": "33f6e30afa8a0071b109803ea6621109f1952fe10cf784f4bbb0b77be76adf6b",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00150-2025-12-28.json": {
+      "sha256": "97dab864573bb3098f54bc989e258ebb7eb7429dc515fbc6e5788f37648f1615",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00151-2025-12-29.json": {
+      "sha256": "e06547781f25ca29b5518701620451a80ba0445267ba12d6e3f0b9e83023fd17",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00152-2025-12-30.json": {
+      "sha256": "163ca0d7edafbc802851382a5dc6377d4dac914c35cb7daac80339ddb9477330",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00153-2025-12-31.json": {
+      "sha256": "9123f414b25d5d26e4a5fcd8228b1ea426aae96776bb6a94a0fdd4b68c2fbde0",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00154-2026-01-01.json": {
+      "sha256": "05b3dcdae149c572b0c9314a58d38e05a810d867b4e3531ac91c591596258b6b",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00155-2026-01-02.json": {
+      "sha256": "9127bda77f14fd3cae9b10bd8f708295c05a547e746c43c7b8eb98186b70cd78",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00156-2026-01-03.json": {
+      "sha256": "c4e45181a98e9443dba3d1b9069b78a474d146068375d3eaf0b18444df998ad9",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00157-2026-01-04.json": {
+      "sha256": "2ffb4a4254b51f96800283825601780aa9e90fb1a147a597156617951cfbdc84",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00158-2026-01-05.json": {
+      "sha256": "78d517eadc06d8ce7451ebe83667e23d62bf1a84970097072d28899d6e77e4c7",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00159-2026-01-06.json": {
+      "sha256": "c7a2b6df782ff411c804412888d7485a4110cd0181635f103a848014871b0c6d",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00160-2026-01-07.json": {
+      "sha256": "7d0e3ae3158c4b42f51831384c6eaaf6486ad0792da3666f46d48aa8c223880a",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00161-2026-01-08.json": {
+      "sha256": "9b44b5eb4580c458f0b760120cd5d8dd58b0d179beef820b69d6118dae8f44f1",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00162-2026-01-09.json": {
+      "sha256": "d780990469df9c366e231f30143c95716511bfa98ae4152e6ac077ad256f11c0",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00163-2026-01-10.json": {
+      "sha256": "1d4ef919a04b76095e2d5d097a24e8aa7335a58953f2cab120287daed6c9f000",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00164-2026-01-11.json": {
+      "sha256": "7a2c93c15bf3ed2a9fe951d148eb5cfa5d8c47d6f87c2c67f7da763dde54a0df",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00165-2026-01-12.json": {
+      "sha256": "0ebdff2dc54b862528e3e43ac3352907111e63dcb6b7fb494475be074d19ff02",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00166-2026-01-13.json": {
+      "sha256": "b89280892cbce6a92efa805983181d33efef2ab1ea4c3e38d34cc655b92a5de5",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00167-2026-01-14.json": {
+      "sha256": "0f5cd73319c64dd06735249d96d85c747fef321cdbf9678ad936cc1a800ab399",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00168-2026-01-15.json": {
+      "sha256": "65b755981033770148014a6bc97fbb94db060d34a77d84a0d1675b410852ce76",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00169-2026-01-16.json": {
+      "sha256": "3b1924bd1415e99ef0db057a3da32afe6f919d336b87ace7e721f6f284b8f300",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00170-2026-01-17.json": {
+      "sha256": "7ef6b28a3eaf21e2a803c54c2afb471d5190828d03ff50c6e39765f38c9d06d9",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00171-2026-01-18.json": {
+      "sha256": "73a3e731a47825db719cbe6bc5702ab0c0b031c4fa7c449147de080a0d2d57c7",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00172-2026-01-19.json": {
+      "sha256": "e144db58bca333bf2c86083ea2b407a6c8dd4a7ab1107a36162e69fef278818e",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00173-2026-01-20.json": {
+      "sha256": "e710b0d72dc1377802d6ed716ffa9658fd0120a3af81eaca6a5be2be98dd6a8b",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00174-2026-01-21.json": {
+      "sha256": "54623ee3e43de44bc0d6ede79257d07e278c9aa80ae00890e0476d7d7ffeccb4",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00175-2026-01-22.json": {
+      "sha256": "a5b55f94e9966426fe52a41800132bcd39b6b1838b9c90eceaf1ebd656a056b3",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00176-2026-01-23.json": {
+      "sha256": "994a2b58355374eecd8f16b8e4fd4119b7bf978e3bf604af6fc82b8497c13982",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00177-2026-01-24.json": {
+      "sha256": "e40d88154d1ad8016adf819630eecc64f8893d235957c0acc34b6502da74c913",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00178-2026-01-25.json": {
+      "sha256": "ae39a0b4d141ff0e596a3ba31bf51f676c80b75b2a047dc06bdc3e6a833ff887",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00179-2026-01-26.json": {
+      "sha256": "f5da8c9c6ae460ed77a1775c3d365cd08345a57ed39732617bde2d05b0bca968",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00180-2026-01-27.json": {
+      "sha256": "802df79df21e388ad6bc4e353e353df62c63b7122cbcc0f6252ab21e6e93f7e4",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00181-2026-01-28.json": {
+      "sha256": "00bc003e59c313b5a53590297d63354fb37a2f374988cd91355b980e727c6286",
+      "size": 468
+    },
+    "data/json/eyes-of-wakanda-01-swarm-day-00182-2026-01-29.json": {
+      "sha256": "83b713f225515e8620b163d57250a8e4a7c9eb7a5d4b88eda50fd8716e02f133",
+      "size": 468
+    }
+  },
+  "schema": "alpha60-year-day-product-bundle/1",
+  "source_revisions": {
+    "aggregate_binary": {
+      "sha256": "80bdf6691c0ef6ed5fcc7fa3a6462748104e1935ce5b2a4df3861e11bb13195a",
+      "size": 38582648
+    },
+    "alpha60": "ee81b50bb9790eb0c52125cba38ea8787a1a140f",
+    "alpha60_data": "8faeae67a5d274d1fc00bffe9fc9318329163b20",
+    "day_product_contract": {
+      "sha256": "72cef2b39ed0d6c6f6120f86d21517dd8d4f76982935c36e8d290638c4a3a10b",
+      "size": 9267
+    },
+    "metadata": "fbeb53a0b523f937fae2f23d14689d8c5c84dd5a",
+    "package_script": {
+      "sha256": "79bb170e38712e3653cf3cd8b781ddddf293af5eb6a916b4cb881a67cab8cf97",
+      "size": 11299
+    }
+  },
+  "status": "pass"
+}

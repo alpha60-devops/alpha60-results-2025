@@ -1,0 +1,253 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt13968252",
+    "imdb_id": "tt13968252",
+    "revision": "fbeb53a0b523f937fae2f23d14689d8c5c84dd5a",
+    "wikidata_id": "Q123953931",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Eyes_of_Wakanda"
+  },
+  "coverage_sha256": "c97ffe2a6044e9512aec154a418a87360669a1e25d136af868673abb6b630ce1",
+  "generated_at": "2026-08-30T12:43:05.895934+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "aao-checksum-manifest": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/SHA256SUMS",
+      "sha256": "4a4818facd85b709f0321b0a6de31b4a3eff6f108f3b9354c75632926e6baa48",
+      "size": 266728
+    },
+    "aao-release": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/release.json",
+      "sha256": "3ce0984da2d12b0e3697e76c02608bd9d1a955ee3d00e0a7054bdd297b8f18c8",
+      "size": 1342
+    },
+    "aao-verification": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-aao-verification.json",
+      "sha256": "e01294ebce8e54b65e16ab83017fa5585efe6f7a0a0f1a5e0f734e08d8e223fd",
+      "size": 854
+    },
+    "archive-map": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-cache-archive-map.json",
+      "sha256": "8d4d506f23cd80f46baf010bd17509c916083e75eb8b43b052641138c3f308f1",
+      "size": 125170
+    },
+    "btiha-metadata-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/eyes-of-wakanda-01-cumulative-btiha-media-objects.json",
+      "sha256": "8a8420a4f82cebf99115da107d1006c3977123adb4703d295eb8c0091e1988ea",
+      "size": 392849
+    },
+    "canonical-metadata": {
+      "path": "/tmp/alpha60-swarm-metadata-2025/metadata/eyes-of-wakanda-01.json",
+      "sha256": "024841a81f42abc75b1941991b3977b5816d1c382d202211814d30d17dab42e1",
+      "size": 8797
+    },
+    "coverage-report": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-coverage-evidence/eyes-of-wakanda-01.md",
+      "sha256": "6a7cb8529ad90da4954d30092f06f5217029e629a693eb1983812b0a67262039",
+      "size": 744
+    },
+    "cumulative-aggregate-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.cumulative/eyes-of-wakanda-01-cumulative-aggregate.geojson.gz",
+      "sha256": "b224b4e8b630f50b7c10dfe5a3290f5ff819caa597bbf7a51bdba97227104d1e",
+      "size": 1199279
+    },
+    "cumulative-btiha-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.cumulative/eyes-of-wakanda-01-cumulative-btiha.geojson.gz",
+      "sha256": "6c935ff6ac06016a01759188593e2b0ded3fcfd1a4c13d54a86d565bbffe436e",
+      "size": 31044510
+    },
+    "cumulative-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/eyes-of-wakanda-01-cumulative.json",
+      "sha256": "bf686b2e8bc617128592db7b7a2d7b3ce8f07a47abdc49f796080d838b18495e",
+      "size": 15695
+    },
+    "day-bundle-receipt": {
+      "path": "/tmp/year-2025-day-bundles/eyes-of-wakanda-01/receipt.json",
+      "sha256": "24274eba042da1a02f015c9067b6bf38917864f6461ec2607501d3fa250305ab",
+      "size": 66638
+    },
+    "ip-swarm-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/eyes-of-wakanda-01-cumulative-ip-swarm.json",
+      "sha256": "5cb85ff4711a81e665e61b2fb79e3c13e0422b952dd4e0f149ee0eac323e63ea",
+      "size": 42369
+    },
+    "published-day-bundle-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-day-product-receipts/eyes-of-wakanda-01.json",
+      "sha256": "24274eba042da1a02f015c9067b6bf38917864f6461ec2607501d3fa250305ab",
+      "size": 66638
+    },
+    "week-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/eyes-of-wakanda-01-week.json",
+      "sha256": "585876971f20a79a2c05fdad07f7936a4bc2912893976fbbe480388fd5a3a58d",
+      "size": 3313666
+    }
+  },
+  "media_object": "eyes-of-wakanda-01",
+  "published_files": {
+    "data/csv/bytes/eyes-of-wakanda-01-cumulative-detail.2025-btiha-itemized-by-bytes.csv": "d71763f56e2911fbd2af5e9ee822766c3d708e1de9114ef8a39e0b5e0d6b521e",
+    "docs/itemized/eyes-of-wakanda-01-sample-cache-audit.md": "163e26f50d1f5defbc9a13637f9660683f5c229d073a5d59211ab62c7b415dc5",
+    "docs/itemized/figures/eyes-of-wakanda-01-carto-4k.webp": "0166c91ba2efdf023c51b39889dbc2aedeef48ee54870c4d97596599f8b4eebc",
+    "docs/itemized/figures/eyes-of-wakanda-01-carto.png": "98620e251e117b5db4a80782bcfa5d71c098bcaf2befce68c1f426dd72aad9dc",
+    "docs/itemized/figures/eyes-of-wakanda-01-cumulative-detail-btiha-itemized-by-bytes.svg": "65b8fbb3a3cf7daa5dc5427b1c6f7d91be5c84764cbfd172dadc701e7ed8e9ba",
+    "docs/itemized/figures/eyes-of-wakanda-01-data-ge-1080p-4k.webp": "400d0665aa12f1cbd17ebc54db53f7e46c3f51ba75e4a2d31aa18b40611cfccb",
+    "docs/itemized/figures/eyes-of-wakanda-01-data-ge-1080p.webp": "57f818512bb06776fd1bc361fa7f99d2553fe67dc0047e9394a28fa60b3852eb",
+    "docs/itemized/figures/eyes-of-wakanda-01-data-lt-1080p-4k.webp": "cdd4e9a492faa87746a29a22f731ed1950ffa7782e9354985ab09c3a1d6d7f7c",
+    "docs/itemized/figures/eyes-of-wakanda-01-data-lt-1080p.webp": "b2a40e686f59271ee895cc6bac46bafdb4002f2038f85ec1b72febe8ce4032d1",
+    "docs/itemized/figures/eyes-of-wakanda-01-downloads-by-day-day.svg": "4edd03f725a76080947b2cbf6f62cc08602d70a5a7369f8c40da33945d725081",
+    "docs/itemized/figures/eyes-of-wakanda-01-downloads-by-week-eyes-of-wakanda-01-week.svg": "03e4762746f54869e99abf43fb9e969bf5f215d3dba17f247b581e083703ed1f",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-year-2025-render",
+      "revision": "c3fc4c8a7866bee5f6d5f26160c56b2cffb05cb1",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "b5732bc916a52afce45790bf7005569f9cdebbb759447c374ec08d1f5222ed12",
+      "size": 36994160
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.cumulative/eyes-of-wakanda-01-cumulative-btiha.geojson.gz",
+        "sha256": "6c935ff6ac06016a01759188593e2b0ded3fcfd1a4c13d54a86d565bbffe436e",
+        "size": 31044510
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/json/eyes-of-wakanda-01-cumulative-btiha-media-objects.json",
+        "sha256": "8a8420a4f82cebf99115da107d1006c3977123adb4703d295eb8c0091e1988ea",
+        "size": 392849
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/izzi",
+      "revision": "b988ee7fd690a74a696c27c9aadf40c204a4c780",
+      "untracked": false
+    },
+    "media_object": "eyes-of-wakanda-01",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60-results-2025/bin/a60-meta-collection.exe",
+      "sha256": "e71f9def936a6868d5282a5ff7dece07ade360eefa07abebde75434a927220f7",
+      "size": 8743680
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          64.0,
+          42.0,
+          38.0,
+          29.0,
+          29.0,
+          27.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Seoul",
+          "Moscow",
+          "Istanbul",
+          "Saint Petersburg",
+          "Shanghai",
+          "Nanjing",
+          "London",
+          "Hangzhou",
+          "Amsterdam",
+          "Ashburn"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          64.0,
+          42.0,
+          38.0,
+          29.0,
+          29.0,
+          27.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Seoul",
+          "Moscow",
+          "Istanbul",
+          "Saint Petersburg",
+          "Shanghai",
+          "Nanjing",
+          "London",
+          "Hangzhou",
+          "Amsterdam",
+          "Incheon"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 21,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 36,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 6,
+        "x_tick_marks": 6,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 26,
+        "y_tick_labels": 20
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "c3fc4c8a7866bee5f6d5f26160c56b2cffb05cb1",
+    "cartofreako": "fc58111b5bfa7667b12f6ade522ae5e566b464d1",
+    "izzi": "b988ee7fd690a74a696c27c9aadf40c204a4c780",
+    "metadata": "fbeb53a0b523f937fae2f23d14689d8c5c84dd5a",
+    "results_aao_adoption": "9cd9d91a6fbb560ac2a96beadf4c83b94daf6a88"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2025"
+}
