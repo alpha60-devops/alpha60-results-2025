@@ -1,0 +1,253 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt14016500",
+    "imdb_id": "tt14016500",
+    "revision": "fbeb53a0b523f937fae2f23d14689d8c5c84dd5a",
+    "wikidata_id": "Q111947659",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Summer_I_Turned_Pretty_(TV_series)"
+  },
+  "coverage_sha256": "1bf450a42fc15f813a5e3fa8239ba52e14e4bce702cd96f1ceb5cce466e8d664",
+  "generated_at": "2026-08-30T16:46:42.178861+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "aao-checksum-manifest": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/SHA256SUMS",
+      "sha256": "4a4818facd85b709f0321b0a6de31b4a3eff6f108f3b9354c75632926e6baa48",
+      "size": 266728
+    },
+    "aao-release": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/release.json",
+      "sha256": "3ce0984da2d12b0e3697e76c02608bd9d1a955ee3d00e0a7054bdd297b8f18c8",
+      "size": 1342
+    },
+    "aao-verification": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-aao-verification.json",
+      "sha256": "e01294ebce8e54b65e16ab83017fa5585efe6f7a0a0f1a5e0f734e08d8e223fd",
+      "size": 854
+    },
+    "archive-map": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-cache-archive-map.json",
+      "sha256": "8d4d506f23cd80f46baf010bd17509c916083e75eb8b43b052641138c3f308f1",
+      "size": 125170
+    },
+    "btiha-metadata-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/summer-i-turned-pretty-311-cumulative-btiha-media-objects.json",
+      "sha256": "d02859403b5223b70f1a446cffabdbc9f35e95df3c799ca976d746d77429b1e1",
+      "size": 472630
+    },
+    "canonical-metadata": {
+      "path": "/tmp/alpha60-swarm-metadata-2025/metadata/summer-i-turned-pretty-311.json",
+      "sha256": "ad632240d5c6fe214ba667eb5a8a70efd4f78004f5761ddaab8b9aae70fa623c",
+      "size": 14697
+    },
+    "coverage-report": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-coverage-evidence/summer-i-turned-pretty-311.md",
+      "sha256": "6fa958ec05663cf94a1e4913724002b81c8e713f6e1f73c64ce8db6cf68fa5d6",
+      "size": 752
+    },
+    "cumulative-aggregate-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.cumulative/summer-i-turned-pretty-311-cumulative-aggregate.geojson.gz",
+      "sha256": "a4cecd4971a66dd7cd4fe541b9957c89a253d260be22d9c7dcc482cfb622f1e8",
+      "size": 1130842
+    },
+    "cumulative-btiha-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.cumulative/summer-i-turned-pretty-311-cumulative-btiha.geojson.gz",
+      "sha256": "ae91481ea533878521564dfad790be07d4ddc6b9c3735b3d8d5ee20a2314375b",
+      "size": 18864761
+    },
+    "cumulative-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/summer-i-turned-pretty-311-cumulative.json",
+      "sha256": "7fcf44d10229dac444674e4d34ab11592196ce7caac320a432ce580b3f677888",
+      "size": 15659
+    },
+    "day-bundle-receipt": {
+      "path": "/tmp/year-2025-day-bundles/summer-i-turned-pretty-311/receipt.json",
+      "sha256": "e2370d39f762f8665e3b63b7c71eebf535144b27f30c8c13e2563001aa080a4c",
+      "size": 72445
+    },
+    "ip-swarm-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/summer-i-turned-pretty-311-cumulative-ip-swarm.json",
+      "sha256": "ea8869a9bb543e3706d22e8b988ed80071c631abee2ae0b8698045c2a90cf083",
+      "size": 42160
+    },
+    "published-day-bundle-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-day-product-receipts/summer-i-turned-pretty-311.json",
+      "sha256": "e2370d39f762f8665e3b63b7c71eebf535144b27f30c8c13e2563001aa080a4c",
+      "size": 72445
+    },
+    "week-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/summer-i-turned-pretty-311-week.json",
+      "sha256": "d5b9dd48d7e751f5edb3ac0fcc80d64f640eb90aafa701caa875fa4bd62c0f3b",
+      "size": 1870648
+    }
+  },
+  "media_object": "summer-i-turned-pretty-311",
+  "published_files": {
+    "data/csv/bytes/summer-i-turned-pretty-311-cumulative-detail.2025-btiha-itemized-by-bytes.csv": "937e85649f5b72650f398ce89c0a1da465de8523786654c843235d811a6724ee",
+    "docs/itemized/figures/summer-i-turned-pretty-311-carto-4k.webp": "f9330b91d8b168c82b5ae2f468dc9703523909fc71a3788497bc713a17b1f387",
+    "docs/itemized/figures/summer-i-turned-pretty-311-carto.png": "5bd572dae52a387db4fe26410eb9358b6919c1637e61dfdea591534c09e34a84",
+    "docs/itemized/figures/summer-i-turned-pretty-311-cumulative-detail-btiha-itemized-by-bytes.svg": "2af06fac4d87faa870880e43a5d4d6d14f5bf4f2b32fd6c45f006242c3788e51",
+    "docs/itemized/figures/summer-i-turned-pretty-311-data-ge-1080p-4k.webp": "101602211f0a893b1e7680a27cd68b65b912096223c024434caf6418ae941111",
+    "docs/itemized/figures/summer-i-turned-pretty-311-data-ge-1080p.webp": "d208f0f115acbab5a25e877dcf41a4a6bade4adb5523f089340074016adcbd55",
+    "docs/itemized/figures/summer-i-turned-pretty-311-data-lt-1080p-4k.webp": "7a3852603a7ba73c2c46d8c0c4b155df59432b08deae8d40096a4575a25443a9",
+    "docs/itemized/figures/summer-i-turned-pretty-311-data-lt-1080p.webp": "a2f942a3f83dd14eba02876aa388fa703be750743337e6447eb0078500098ba1",
+    "docs/itemized/figures/summer-i-turned-pretty-311-downloads-by-day-day.svg": "9c78e050acaf17ea9957945212d9aec5868c2d32be5154876041ac59a80743e9",
+    "docs/itemized/figures/summer-i-turned-pretty-311-downloads-by-week-summer-i-turned-pretty-311-week.svg": "0594b5b7d95206fd788faa5f028675f9b345696581ac220722f7da697074a51b",
+    "docs/itemized/summer-i-turned-pretty-311-sample-cache-audit.md": "931a5804859bdc02e7345f3765aed640e439470c7bb37e8701f53a118f11e6ce",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-year-2025-render",
+      "revision": "c520555c40beece2e38f62878e2d4cc1b312c505",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "c192c54f882171dafc74c038ec769f1e68bf8020d12a342d2334086b5b5ee5ea",
+      "size": 36998168
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.cumulative/summer-i-turned-pretty-311-cumulative-btiha.geojson.gz",
+        "sha256": "ae91481ea533878521564dfad790be07d4ddc6b9c3735b3d8d5ee20a2314375b",
+        "size": 18864761
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/json/summer-i-turned-pretty-311-cumulative-btiha-media-objects.json",
+        "sha256": "d02859403b5223b70f1a446cffabdbc9f35e95df3c799ca976d746d77429b1e1",
+        "size": 472630
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/izzi",
+      "revision": "b988ee7fd690a74a696c27c9aadf40c204a4c780",
+      "untracked": false
+    },
+    "media_object": "summer-i-turned-pretty-311",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60-results-2025/bin/a60-meta-collection.exe",
+      "sha256": "e71f9def936a6868d5282a5ff7dece07ade360eefa07abebde75434a927220f7",
+      "size": 8743680
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          62.0,
+          45.0,
+          36.0,
+          30.0,
+          29.0,
+          27.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Seoul",
+          "Moscow",
+          "Istanbul",
+          "Saint Petersburg",
+          "Nanjing",
+          "Shanghai",
+          "London",
+          "Hangzhou",
+          "Budapest",
+          "Amsterdam"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          65.0,
+          46.0,
+          38.0,
+          31.0,
+          30.0,
+          28.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Seoul",
+          "Moscow",
+          "Istanbul",
+          "Saint Petersburg",
+          "Shanghai",
+          "Nanjing",
+          "London",
+          "Budapest",
+          "Hangzhou",
+          "Incheon"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 21,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 28,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 26,
+        "y_tick_labels": 20
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "c520555c40beece2e38f62878e2d4cc1b312c505",
+    "cartofreako": "fc58111b5bfa7667b12f6ade522ae5e566b464d1",
+    "izzi": "b988ee7fd690a74a696c27c9aadf40c204a4c780",
+    "metadata": "fbeb53a0b523f937fae2f23d14689d8c5c84dd5a",
+    "results_aao_adoption": "9cd9d91a6fbb560ac2a96beadf4c83b94daf6a88"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2025"
+}
