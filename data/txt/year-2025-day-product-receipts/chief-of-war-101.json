@@ -1,0 +1,1710 @@
+{
+  "archive": {
+    "path": "/home/bkoz/src/alpha60-xperiments/year-2025-archives/chief-of-war-101.cache/cache.20260129.tar.xz",
+    "sha256": "0202d3b406bf309c29ac2ef9a123313e4c9ea953f9b94ed0a6cf2df38e55bf4d",
+    "size": 2151628004
+  },
+  "authorization": {
+    "archive_mutated": false,
+    "excluded_member_classes": [
+      "hour",
+      "week",
+      "cumulative"
+    ],
+    "raw_samples_opened": false,
+    "scope": "read only streaming of per-torrent day records"
+  },
+  "collection_key": "chief-of-war-101",
+  "day_cache_stream_contract": {
+    "authorization": {
+      "archive_mutated": false,
+      "excluded_member_classes": [
+        "hour",
+        "week",
+        "cumulative"
+      ],
+      "raw_samples_opened": false,
+      "scope": "read only streaming of per-torrent day records"
+    },
+    "available_day_products": 180,
+    "cache_members": 58684,
+    "collection_key": "chief-of-war-101",
+    "first_date": "2025-08-01",
+    "first_index": 1,
+    "indices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144,
+      145,
+      146,
+      147,
+      148,
+      149,
+      150,
+      151,
+      152,
+      153,
+      154,
+      155,
+      156,
+      157,
+      158,
+      159,
+      160,
+      161,
+      162,
+      163,
+      164,
+      165,
+      166,
+      167,
+      168,
+      169,
+      170,
+      171,
+      172,
+      173,
+      174,
+      175,
+      176,
+      177,
+      178,
+      179,
+      180,
+      181,
+      182
+    ],
+    "last_date": "2026-01-29",
+    "last_index": 182,
+    "missing_indices": [
+      62,
+      63
+    ],
+    "sample_span_days": 182,
+    "schema": "alpha60-day-cache-stream-contract/1",
+    "sparse": true,
+    "status": "pass"
+  },
+  "day_product_contract": {
+    "collection_key": "chief-of-war-101",
+    "day_products": 180,
+    "first_date": "2025-08-01",
+    "first_index": 1,
+    "geojson_data_version": "20260701",
+    "ip_geolocation_version": "6:1777968300",
+    "json_data_version": "2026-08-05",
+    "last_date": "2026-01-29",
+    "last_index": 182,
+    "schema": "alpha60-day-product-contract/1",
+    "sparse": true,
+    "status": "pass"
+  },
+  "publications": {
+    "data/geojson.day/chief-of-war-101-day-00001.geojson.gz": {
+      "sha256": "590da02596e6faff7a5a41f4f4135534d6b75cc131c2cd0316c390cd3485ada3",
+      "size": 70184
+    },
+    "data/geojson.day/chief-of-war-101-day-00002.geojson.gz": {
+      "sha256": "7ef1b0915fe730a9d0bd7d2a464e7c65f9c3da080a379bba7ba623496075eae6",
+      "size": 145343
+    },
+    "data/geojson.day/chief-of-war-101-day-00003.geojson.gz": {
+      "sha256": "df9b08cc4663a09e634d4991fd3f54dfd0aa350b024541fc62ad10ca46adbe28",
+      "size": 161239
+    },
+    "data/geojson.day/chief-of-war-101-day-00004.geojson.gz": {
+      "sha256": "468d34b10f17465640c0bd79d35c4b6270fdbfda76c615c33fa4b08033d07900",
+      "size": 196221
+    },
+    "data/geojson.day/chief-of-war-101-day-00005.geojson.gz": {
+      "sha256": "898ff341d61af3cdd175f195af2df2d5bd13267191c6e1218f87b69790328240",
+      "size": 137267
+    },
+    "data/geojson.day/chief-of-war-101-day-00006.geojson.gz": {
+      "sha256": "ebc8c7ecd46ed7cf312b373e6f78cab3474e8a3b0ea7a5e60bb9a6181df37599",
+      "size": 225271
+    },
+    "data/geojson.day/chief-of-war-101-day-00007.geojson.gz": {
+      "sha256": "aec0fe765cfb1b720f4a0ab683336a98f4226cc0de942edb1c07d8210f1c5168",
+      "size": 234385
+    },
+    "data/geojson.day/chief-of-war-101-day-00008.geojson.gz": {
+      "sha256": "ce0811e43add1dd60b72d646d7043ad7f9ecfc1e8b35ff21fc6b6114e2888667",
+      "size": 238761
+    },
+    "data/geojson.day/chief-of-war-101-day-00009.geojson.gz": {
+      "sha256": "558fb0aa66390936acd8eee1cefd200fe49f0ee9a8c89f8c15f2a85e4dfa74ed",
+      "size": 249888
+    },
+    "data/geojson.day/chief-of-war-101-day-00010.geojson.gz": {
+      "sha256": "3dc9afaafbfe0d4964ef9d3a1019d820feab338b9087548f267801b38be78cab",
+      "size": 285193
+    },
+    "data/geojson.day/chief-of-war-101-day-00011.geojson.gz": {
+      "sha256": "26f02cb51306093414c22f19d5bf8e054d85bfa7f1025488082aafa32e4834c5",
+      "size": 294916
+    },
+    "data/geojson.day/chief-of-war-101-day-00012.geojson.gz": {
+      "sha256": "7d38ae3ab726eab0c8bd9f2f2304899821359e803bf4cc8d197b7a46b8f196bf",
+      "size": 283117
+    },
+    "data/geojson.day/chief-of-war-101-day-00013.geojson.gz": {
+      "sha256": "aed28448986aac88240572af0d5516f103c39f9c272067a8a61d5bc7822bb300",
+      "size": 273841
+    },
+    "data/geojson.day/chief-of-war-101-day-00014.geojson.gz": {
+      "sha256": "852cb2acc850ba02339002a6ee3ed269004bf471130d7f3f5bed5a22559d8d48",
+      "size": 272791
+    },
+    "data/geojson.day/chief-of-war-101-day-00015.geojson.gz": {
+      "sha256": "0811f4ac2fa2a2025c8916fdbd7262cdd8727053255aef2eed2ca80b66b35f2c",
+      "size": 259868
+    },
+    "data/geojson.day/chief-of-war-101-day-00016.geojson.gz": {
+      "sha256": "b9a2da9439ec3bd0e5d0f42412f4b6353d2b4c8deb2cb3ccde87fccea82044e3",
+      "size": 257950
+    },
+    "data/geojson.day/chief-of-war-101-day-00017.geojson.gz": {
+      "sha256": "14dd9248b4c20d7d187d67494f8160feccdad9c5e4c0bb893751d70d2cdd6d72",
+      "size": 258867
+    },
+    "data/geojson.day/chief-of-war-101-day-00018.geojson.gz": {
+      "sha256": "f3720b61d0d1d775289469176236158181f0d01fd250641881f52176c272bccc",
+      "size": 253446
+    },
+    "data/geojson.day/chief-of-war-101-day-00019.geojson.gz": {
+      "sha256": "5a0298743886c2081c24c3f796b11978afa5e4f8afca14c1cf0f235a62e5bb76",
+      "size": 246818
+    },
+    "data/geojson.day/chief-of-war-101-day-00020.geojson.gz": {
+      "sha256": "f78b8d9eb24176a886c30b4b64863f1431bd6b3452b493e72374c11617df5a92",
+      "size": 242788
+    },
+    "data/geojson.day/chief-of-war-101-day-00021.geojson.gz": {
+      "sha256": "d9d4faa0296792daf7761bfa1a28eb09008c6f1cdc95d919dfdd7387216a9438",
+      "size": 248467
+    },
+    "data/geojson.day/chief-of-war-101-day-00022.geojson.gz": {
+      "sha256": "157ba1a9be55a44888a6e33de6e195bfcee030d91e113a1a556a5849f57a2979",
+      "size": 253182
+    },
+    "data/geojson.day/chief-of-war-101-day-00023.geojson.gz": {
+      "sha256": "aefc86eaa7983a7dae4a6fb999b6c08a5acd6175642f35fe3e17efe34c736289",
+      "size": 262598
+    },
+    "data/geojson.day/chief-of-war-101-day-00024.geojson.gz": {
+      "sha256": "cececebbe48162a8034fc0bb168f7311d4ca33de4b4e7ae0a2b8d44d2befe094",
+      "size": 254604
+    },
+    "data/geojson.day/chief-of-war-101-day-00025.geojson.gz": {
+      "sha256": "d874526d3774da4dee59e11c938a75874a210dc6da522966eb2799a1eecbbeb6",
+      "size": 266648
+    },
+    "data/geojson.day/chief-of-war-101-day-00026.geojson.gz": {
+      "sha256": "76b3369b54c1b2421757a06e79b4f14f7f43dcdcd69a7c30189a28ee758be121",
+      "size": 231999
+    },
+    "data/geojson.day/chief-of-war-101-day-00027.geojson.gz": {
+      "sha256": "a1340c8e69ec0726d7d55fd24308baa47cc95b85b9f4ade2bfd71a95543a2de1",
+      "size": 193741
+    },
+    "data/geojson.day/chief-of-war-101-day-00028.geojson.gz": {
+      "sha256": "d47e9560af7d2daf4b6f9d11321188ebbaedcc2be455f0a35babc61a83274022",
+      "size": 252834
+    },
+    "data/geojson.day/chief-of-war-101-day-00029.geojson.gz": {
+      "sha256": "19346e2d78247793062b586211a1358bb95824b59378a676cc83deb6aae4aa3f",
+      "size": 282954
+    },
+    "data/geojson.day/chief-of-war-101-day-00030.geojson.gz": {
+      "sha256": "b8fd462c499e68d85f71c30653dfd6d5f458769bbec78bba4ba3ebf9e6d10ffd",
+      "size": 294764
+    },
+    "data/geojson.day/chief-of-war-101-day-00031.geojson.gz": {
+      "sha256": "2c324136dbaaac624a27425a449e8fd914512a6dc3ac7919fc972e143c58e8e0",
+      "size": 277054
+    },
+    "data/geojson.day/chief-of-war-101-day-00032.geojson.gz": {
+      "sha256": "3ddcec424b276df1d47e2477885ac05f865b8b945c077a7beed29975afa4233a",
+      "size": 268506
+    },
+    "data/geojson.day/chief-of-war-101-day-00033.geojson.gz": {
+      "sha256": "fdce7f04344daab2a85434f3841078c8f0efec23a24282ba7dc9c06b417dd341",
+      "size": 263628
+    },
+    "data/geojson.day/chief-of-war-101-day-00034.geojson.gz": {
+      "sha256": "7fa76666b214ccdf57f6ec115bf715cd449529db114fd4634bd06e12b53c9d59",
+      "size": 244414
+    },
+    "data/geojson.day/chief-of-war-101-day-00035.geojson.gz": {
+      "sha256": "cbe8d32b759eab9781b5a64b36f50f9b99f21aaec258ca6183cc20c566cf5820",
+      "size": 248788
+    },
+    "data/geojson.day/chief-of-war-101-day-00036.geojson.gz": {
+      "sha256": "5fdbebd02015c3c209ee55910ccccb21d2065718056beedeaab0dc96ca31a600",
+      "size": 249698
+    },
+    "data/geojson.day/chief-of-war-101-day-00037.geojson.gz": {
+      "sha256": "c81def4cafd1e47eb48465ac577c0253f6136b44652581bfcd95d2dd0d321ccb",
+      "size": 245072
+    },
+    "data/geojson.day/chief-of-war-101-day-00038.geojson.gz": {
+      "sha256": "0b380008cdca11cc50e9246affe490a0f6a1ea490e5a9201d6b7a514969455fa",
+      "size": 245359
+    },
+    "data/geojson.day/chief-of-war-101-day-00039.geojson.gz": {
+      "sha256": "e7b9ca2d2d9a018325467f72b48719b975e06fc4827ac7290f1a8a44439d2bd0",
+      "size": 252955
+    },
+    "data/geojson.day/chief-of-war-101-day-00040.geojson.gz": {
+      "sha256": "4fa0790e4dd25a0b247ce4977df1b40117ab528c3f625e44865914e2206848c9",
+      "size": 271835
+    },
+    "data/geojson.day/chief-of-war-101-day-00041.geojson.gz": {
+      "sha256": "613467942c709edcf860672eaa5c9d405df64c85f507863e0b074c50b9a32e4d",
+      "size": 265794
+    },
+    "data/geojson.day/chief-of-war-101-day-00042.geojson.gz": {
+      "sha256": "8d9414f5032b9b767da9a69330f1a443c6d700768db03097b53f5ba2a573f6c4",
+      "size": 240145
+    },
+    "data/geojson.day/chief-of-war-101-day-00043.geojson.gz": {
+      "sha256": "bb8ded77396f2a47bb18124941cb3bdea72b5f32a5f2ab26e81a6ba3ae8db978",
+      "size": 243944
+    },
+    "data/geojson.day/chief-of-war-101-day-00044.geojson.gz": {
+      "sha256": "af1d3fc5ca724ce098c3b85ec9c9f3e14265dafdbbf9b490d00a80c4eaa51f98",
+      "size": 228723
+    },
+    "data/geojson.day/chief-of-war-101-day-00045.geojson.gz": {
+      "sha256": "9b435991559104a1e0dc5a38e087efdce70efe097bfb8f25454b43baf2e53973",
+      "size": 226830
+    },
+    "data/geojson.day/chief-of-war-101-day-00046.geojson.gz": {
+      "sha256": "053c06c51a21e1febfa9e3db814d7d79b05656bc9c64ac3b46652df3bc342e41",
+      "size": 247716
+    },
+    "data/geojson.day/chief-of-war-101-day-00047.geojson.gz": {
+      "sha256": "b586b8ec450a9210ec3d8dcf654eae0bba62b2578c87a75e83b3e286ae36e482",
+      "size": 236262
+    },
+    "data/geojson.day/chief-of-war-101-day-00048.geojson.gz": {
+      "sha256": "e3474d298483d873cbe4a0541c974a785c18663c5c42ef6b1fbf84293d6d944b",
+      "size": 247028
+    },
+    "data/geojson.day/chief-of-war-101-day-00049.geojson.gz": {
+      "sha256": "3fe13a7ddc924086a3235fd110def18d6cd8b48697a45ca1272e9acf5fac1d10",
+      "size": 242492
+    },
+    "data/geojson.day/chief-of-war-101-day-00050.geojson.gz": {
+      "sha256": "fb800569d4c850f78cc6c950bb6c7ce5d01c395412f7d09fef4a35a08f2d10ef",
+      "size": 231282
+    },
+    "data/geojson.day/chief-of-war-101-day-00051.geojson.gz": {
+      "sha256": "b901e900d75f05a758b731683dba0b04d710a944f3ca7c18a7e2edfeea365966",
+      "size": 239862
+    },
+    "data/geojson.day/chief-of-war-101-day-00052.geojson.gz": {
+      "sha256": "08ca4d5c15fdd66312c0d8e778dc943130e956823559189d3573a4a45eb3700d",
+      "size": 256695
+    },
+    "data/geojson.day/chief-of-war-101-day-00053.geojson.gz": {
+      "sha256": "c4c1496a0563e05ced4521b5748acc60fe1c30f6a89e1033f4b5163febb724fe",
+      "size": 138948
+    },
+    "data/geojson.day/chief-of-war-101-day-00054.geojson.gz": {
+      "sha256": "aa37be5c17189b1763e6aed6b657e0a941c70c4221e50f3496366e1bd7cd9689",
+      "size": 278550
+    },
+    "data/geojson.day/chief-of-war-101-day-00055.geojson.gz": {
+      "sha256": "f8afdc4c8837be380d3a85c888c4cc6cd4f7bff43ea80506664b0b4545710edc",
+      "size": 267109
+    },
+    "data/geojson.day/chief-of-war-101-day-00056.geojson.gz": {
+      "sha256": "6070656268d8453e6765960feb93a9c33909e691ca38560802737bb8ef0e19e0",
+      "size": 256398
+    },
+    "data/geojson.day/chief-of-war-101-day-00057.geojson.gz": {
+      "sha256": "8b2f7085f3251c1c459dce35d6e6e6afbbe526d204dee3c54d73702c86651ba8",
+      "size": 285392
+    },
+    "data/geojson.day/chief-of-war-101-day-00058.geojson.gz": {
+      "sha256": "367d69448ad44883b2e3f3a6226b267bc6a7815a3c956cad2d5b31ab4e2416e1",
+      "size": 254886
+    },
+    "data/geojson.day/chief-of-war-101-day-00059.geojson.gz": {
+      "sha256": "da4ca8544d1f533fd463e36b32d404c19f2cc49e27f94535832a32de2ff87f1b",
+      "size": 217837
+    },
+    "data/geojson.day/chief-of-war-101-day-00060.geojson.gz": {
+      "sha256": "0309c13619e621e2e36e0c102d7f1c3b8874dc809cc76c60eadf3e621a5e9156",
+      "size": 271577
+    },
+    "data/geojson.day/chief-of-war-101-day-00061.geojson.gz": {
+      "sha256": "46ef484f7a73b20793ab34e21ba3125bee4ab9b0ee719aead50d17e9d4f49114",
+      "size": 263669
+    },
+    "data/geojson.day/chief-of-war-101-day-00064.geojson.gz": {
+      "sha256": "4c6f01ab0d2696a95069319238dddcfe958eee5e084394ac08084ac25b101ea3",
+      "size": 252717
+    },
+    "data/geojson.day/chief-of-war-101-day-00065.geojson.gz": {
+      "sha256": "41f999a795868f17c1e0ca5f7a2897d8108cd15d072cb8bbcf763005ffb96b97",
+      "size": 239760
+    },
+    "data/geojson.day/chief-of-war-101-day-00066.geojson.gz": {
+      "sha256": "9ba393b10a5f2d46b4ccd29ddae0e063d162ef2db7a081f3c5269ccf382c756a",
+      "size": 244452
+    },
+    "data/geojson.day/chief-of-war-101-day-00067.geojson.gz": {
+      "sha256": "f39a017c5e619524991cb6fff4933618aa8eaa503de09b47c099e18748fd9023",
+      "size": 272463
+    },
+    "data/geojson.day/chief-of-war-101-day-00068.geojson.gz": {
+      "sha256": "5578d194748c309b5508cb67cb6a2b2b792709227baba2eabe214c8601801935",
+      "size": 240983
+    },
+    "data/geojson.day/chief-of-war-101-day-00069.geojson.gz": {
+      "sha256": "3d78bd8a216d069f0d5c0c31af03bd6049e8d8dc71991e0e2977e048f10a9701",
+      "size": 251014
+    },
+    "data/geojson.day/chief-of-war-101-day-00070.geojson.gz": {
+      "sha256": "e70b74df22ddafb5241bbda547235e3c4024a063e4dcf212466f4ad30d0e1b98",
+      "size": 279161
+    },
+    "data/geojson.day/chief-of-war-101-day-00071.geojson.gz": {
+      "sha256": "0490272943a3a8f0726defa4a4e645b16d04e66d8043a39c9e3f1432896fac03",
+      "size": 265365
+    },
+    "data/geojson.day/chief-of-war-101-day-00072.geojson.gz": {
+      "sha256": "d08717e95b717a247c5ee3ab8dea72a07959f93032e4d32b2044afdb0bdece58",
+      "size": 262176
+    },
+    "data/geojson.day/chief-of-war-101-day-00073.geojson.gz": {
+      "sha256": "8b6f272f2846be2a2c8c50989c0886a9e11510d7ce8e49a583ef780ff470d1a6",
+      "size": 265075
+    },
+    "data/geojson.day/chief-of-war-101-day-00074.geojson.gz": {
+      "sha256": "f7537d2fa22bfbec0ee07f79df830caa0f631ca42f2a07ac42a84519f066b234",
+      "size": 266712
+    },
+    "data/geojson.day/chief-of-war-101-day-00075.geojson.gz": {
+      "sha256": "5d1184dc5dc54ca37d3862b9232dc877af904e59e4cbb334d131153482acd2b7",
+      "size": 259251
+    },
+    "data/geojson.day/chief-of-war-101-day-00076.geojson.gz": {
+      "sha256": "3380a2fe30346fa0f6567ee501f8a92d2b1e024dc0bcda0bcc3ccfe8b208af28",
+      "size": 263567
+    },
+    "data/geojson.day/chief-of-war-101-day-00077.geojson.gz": {
+      "sha256": "a3d91224e975d851cdc9c3fdb00ae734c2a4f9e7663738ecb4290e6f6be5d5b8",
+      "size": 259475
+    },
+    "data/geojson.day/chief-of-war-101-day-00078.geojson.gz": {
+      "sha256": "e15a9bcfb50d255dd061c2a10c235ac58a7564eb2cba8dfb028673477645f8bb",
+      "size": 261259
+    },
+    "data/geojson.day/chief-of-war-101-day-00079.geojson.gz": {
+      "sha256": "668cd2c42dd6ebc1664b6b8d840f5d601aa83f4de873f9e13beadcabb8338cbb",
+      "size": 267751
+    },
+    "data/geojson.day/chief-of-war-101-day-00080.geojson.gz": {
+      "sha256": "9aedeb63ba8c07b88677273588bddbb996642d48c15e123590a927f383510a37",
+      "size": 261435
+    },
+    "data/geojson.day/chief-of-war-101-day-00081.geojson.gz": {
+      "sha256": "a6b55f603185f340340fd7d4f0ec21444e7d2a1e774a74353cf7041793689628",
+      "size": 270349
+    },
+    "data/geojson.day/chief-of-war-101-day-00082.geojson.gz": {
+      "sha256": "74662bcef7fb0cb48aff303818139bea3f3c589aa3f5d5990a45b41bd97b2857",
+      "size": 259752
+    },
+    "data/geojson.day/chief-of-war-101-day-00083.geojson.gz": {
+      "sha256": "f8d8073ad0792c0f331080d83fa05d4d03d34f2f64fac615bb407d04728b8758",
+      "size": 256422
+    },
+    "data/geojson.day/chief-of-war-101-day-00084.geojson.gz": {
+      "sha256": "1369491d6a909d92fec2ad488a180dd64e967ebec31ed87a45408b14dd316f0a",
+      "size": 255501
+    },
+    "data/geojson.day/chief-of-war-101-day-00085.geojson.gz": {
+      "sha256": "3c5fd6e70edd9a00f3e603671806d1206a3fea6f9bf5b3d2944e5faf57f332cc",
+      "size": 278976
+    },
+    "data/geojson.day/chief-of-war-101-day-00086.geojson.gz": {
+      "sha256": "ddeb87f15d9f9e1919456bae72ec231cd02ffac85ce4a7e93221e64077d82051",
+      "size": 249800
+    },
+    "data/geojson.day/chief-of-war-101-day-00087.geojson.gz": {
+      "sha256": "8ea1ea5245109c6b9f822746ed6fa8f2eda798ddadce0176a0585be115de955e",
+      "size": 248263
+    },
+    "data/geojson.day/chief-of-war-101-day-00088.geojson.gz": {
+      "sha256": "7f503d7ac56f16f3222a2aec6d82f3f1e6915a1cef63caf8ce245255676d1645",
+      "size": 257019
+    },
+    "data/geojson.day/chief-of-war-101-day-00089.geojson.gz": {
+      "sha256": "5c8e0dc819dbf154e051ef363caf9cc2ba7f7fb7245b48b24ae1d1194546e701",
+      "size": 251624
+    },
+    "data/geojson.day/chief-of-war-101-day-00090.geojson.gz": {
+      "sha256": "ab65b222176b13a4fef00b3cfb2fa02467e0f236b7aad57235a51ede1845a922",
+      "size": 251867
+    },
+    "data/geojson.day/chief-of-war-101-day-00091.geojson.gz": {
+      "sha256": "5b93d99b83963f50d93a23a685ff1b8b75174d7dfe3944c94af148f1f138d7c7",
+      "size": 253092
+    },
+    "data/geojson.day/chief-of-war-101-day-00092.geojson.gz": {
+      "sha256": "db305c929c882d9e28fb1a75d92b44b6dc9e462730a71aa972b1301b64eb7d1f",
+      "size": 254306
+    },
+    "data/geojson.day/chief-of-war-101-day-00093.geojson.gz": {
+      "sha256": "c449c9fe4de66f4adc5047a4edcbcda39e48aa79079dcd1218db51d9daba0d83",
+      "size": 240705
+    },
+    "data/geojson.day/chief-of-war-101-day-00094.geojson.gz": {
+      "sha256": "63def90eb4d11d980d033fe7c9d36f61332b5a09589572c4511a8810064c7eaf",
+      "size": 248319
+    },
+    "data/geojson.day/chief-of-war-101-day-00095.geojson.gz": {
+      "sha256": "427ca4babe3988b3f6f797affaac4dce6aa7ca76a6422e85eef7f098c433edf0",
+      "size": 241855
+    },
+    "data/geojson.day/chief-of-war-101-day-00096.geojson.gz": {
+      "sha256": "858aef0db16590bb7b61969ae8fdfba0702bdcde3508756e807f290818a2c9a3",
+      "size": 242227
+    },
+    "data/geojson.day/chief-of-war-101-day-00097.geojson.gz": {
+      "sha256": "a5a4d6265532230d9e59d0243cacb0d9f7a033c688436702e58bf01f375b7171",
+      "size": 243897
+    },
+    "data/geojson.day/chief-of-war-101-day-00098.geojson.gz": {
+      "sha256": "2826e16e5ad8d155dcd98d1cdb3187dfbc0632d81f8e7d63ed80267266ae4393",
+      "size": 254111
+    },
+    "data/geojson.day/chief-of-war-101-day-00099.geojson.gz": {
+      "sha256": "e0faa80a008cbbc71ac2535fc524f86a9a3bde2c81fd0bbf64c8a4d70bc157d4",
+      "size": 246745
+    },
+    "data/geojson.day/chief-of-war-101-day-00100.geojson.gz": {
+      "sha256": "4296e9bd0145f5d6bae79a453c48d1280385471860f07be4279cd43fab8f2b16",
+      "size": 245751
+    },
+    "data/geojson.day/chief-of-war-101-day-00101.geojson.gz": {
+      "sha256": "115553f3497f263791f74812d407d63a92347bd64ecaabfa86c3f2ad58255439",
+      "size": 243393
+    },
+    "data/geojson.day/chief-of-war-101-day-00102.geojson.gz": {
+      "sha256": "e65f0bcfda506ec30908748546d6312da3c8600e49e9233b969b5bc61c1505fa",
+      "size": 253370
+    },
+    "data/geojson.day/chief-of-war-101-day-00103.geojson.gz": {
+      "sha256": "5405f2a57c873acecfb68fba37e1009d3aeb750eb938160fefa0d00bc7537e73",
+      "size": 248349
+    },
+    "data/geojson.day/chief-of-war-101-day-00104.geojson.gz": {
+      "sha256": "22f05c9fff77d91fbfb052fd4d9fb201648f21b0ce36fb3fc9c313aeb53c90df",
+      "size": 251320
+    },
+    "data/geojson.day/chief-of-war-101-day-00105.geojson.gz": {
+      "sha256": "b6bc970789847ca58066ef89449f22be8d845b5b5c13d6987d1e727a12f8050d",
+      "size": 249333
+    },
+    "data/geojson.day/chief-of-war-101-day-00106.geojson.gz": {
+      "sha256": "5323daaffe68ab8e7b08761e1f85383a3f74383731ab69a9e73c215608c6fcc0",
+      "size": 254632
+    },
+    "data/geojson.day/chief-of-war-101-day-00107.geojson.gz": {
+      "sha256": "1c930c1a84dbb7073f9ffb8744c0bfb6f0438c417dd3fb4ed53cbf352098ff53",
+      "size": 249566
+    },
+    "data/geojson.day/chief-of-war-101-day-00108.geojson.gz": {
+      "sha256": "2bfd755f1ba49a126b207040bc3433c7a91bfebc016eeaacc441be283218a50e",
+      "size": 234754
+    },
+    "data/geojson.day/chief-of-war-101-day-00109.geojson.gz": {
+      "sha256": "ce58df24e1484657cf9295eaee0493d7c17d807562413681f6dc6fd0635f0aed",
+      "size": 266941
+    },
+    "data/geojson.day/chief-of-war-101-day-00110.geojson.gz": {
+      "sha256": "899fe538c5ee48d67f0811be231d6b5dd6d8964d0ca49919a50e924e1ce1a1d8",
+      "size": 253417
+    },
+    "data/geojson.day/chief-of-war-101-day-00111.geojson.gz": {
+      "sha256": "6ebe29ee628354b3d9bf306c84f82bd792e09e7c33dd3ba8ee748b49325b086e",
+      "size": 254163
+    },
+    "data/geojson.day/chief-of-war-101-day-00112.geojson.gz": {
+      "sha256": "578dd436a4b218d452b576d0e6f08f463b32ccfd935ba27300e4a2ad20331993",
+      "size": 253605
+    },
+    "data/geojson.day/chief-of-war-101-day-00113.geojson.gz": {
+      "sha256": "a21824d59a6a1be66b3cfc8808ea00b27d814813fd59ce52c35ec5cf60270b05",
+      "size": 308044
+    },
+    "data/geojson.day/chief-of-war-101-day-00114.geojson.gz": {
+      "sha256": "09bbb4a7fbc94b8ad02e245af09a5e45a3f75e8e221704694f4fa14d4a566e4b",
+      "size": 242299
+    },
+    "data/geojson.day/chief-of-war-101-day-00115.geojson.gz": {
+      "sha256": "bbd6d8184b4bedcab997492e5ee286983ea58ef93130ba4f174e1c594d40eb80",
+      "size": 234841
+    },
+    "data/geojson.day/chief-of-war-101-day-00116.geojson.gz": {
+      "sha256": "d7d684d11e2fc3d021972ca90c4992525a7dc81b08cba8e8fa8e6b4b12c9f1a5",
+      "size": 256100
+    },
+    "data/geojson.day/chief-of-war-101-day-00117.geojson.gz": {
+      "sha256": "e5a26af9b0e9468ac3a86a8a20b4a0aaaa4a807d86425fefa629bfa590ecea14",
+      "size": 249118
+    },
+    "data/geojson.day/chief-of-war-101-day-00118.geojson.gz": {
+      "sha256": "0a49f06a453f711773be00c0fda6044371891cf561972d626d20f6afe02aa1b1",
+      "size": 255722
+    },
+    "data/geojson.day/chief-of-war-101-day-00119.geojson.gz": {
+      "sha256": "26fe938aed0b9f305684c15478e9e52766ad25c7bf79ab7039dc98a48dc33f86",
+      "size": 261486
+    },
+    "data/geojson.day/chief-of-war-101-day-00120.geojson.gz": {
+      "sha256": "7cc30c43a21545ec2f5a00222ce79d12e2d64cb20fb4f8dd756bcc05dd083e13",
+      "size": 253890
+    },
+    "data/geojson.day/chief-of-war-101-day-00121.geojson.gz": {
+      "sha256": "bf22e0ba5218d633e4d01313f75cb3bf0c9ef95d4c7ac7f9c3f364f28396c5fa",
+      "size": 251823
+    },
+    "data/geojson.day/chief-of-war-101-day-00122.geojson.gz": {
+      "sha256": "f7f6c1fb413cfecb856c254c82a0e3ec1af977aa2d8c2acd2d60f6569714c1be",
+      "size": 252847
+    },
+    "data/geojson.day/chief-of-war-101-day-00123.geojson.gz": {
+      "sha256": "4db5ded6c7f4c130221d6a0ce21e2ed78d09e78c006de759265a37732e5a796f",
+      "size": 268992
+    },
+    "data/geojson.day/chief-of-war-101-day-00124.geojson.gz": {
+      "sha256": "dc676831d02cd84c4720fb8a6dccae23877e4926e68fa487f9cb0f9a4ede1e8c",
+      "size": 260905
+    },
+    "data/geojson.day/chief-of-war-101-day-00125.geojson.gz": {
+      "sha256": "d717745a58e66b5945e8981b3228a20463432ac7970fc6701c7dce9ff931befa",
+      "size": 261122
+    },
+    "data/geojson.day/chief-of-war-101-day-00126.geojson.gz": {
+      "sha256": "31c7c6b26a5a8a13d49babb4347b89a33656c1ed5df4624a0931a8d2212d8a10",
+      "size": 249507
+    },
+    "data/geojson.day/chief-of-war-101-day-00127.geojson.gz": {
+      "sha256": "fbc858f1386baa188c6a5c381413a10df3d56f494407516e9b40ccecc4908b4b",
+      "size": 253543
+    },
+    "data/geojson.day/chief-of-war-101-day-00128.geojson.gz": {
+      "sha256": "be5b362dabb9067e6ae634386227b65a67a9f47c9b12ae4d9fe71f489d72b8ed",
+      "size": 234785
+    },
+    "data/geojson.day/chief-of-war-101-day-00129.geojson.gz": {
+      "sha256": "d78d7c2779aff0a5597c39dfa8fea44c96b28e4a5bc35f973680f874e0d16f3b",
+      "size": 229738
+    },
+    "data/geojson.day/chief-of-war-101-day-00130.geojson.gz": {
+      "sha256": "185425f6540d7138c5d3e2de92dd6c6b883c43a8a7ceef9659043c2476342a34",
+      "size": 258837
+    },
+    "data/geojson.day/chief-of-war-101-day-00131.geojson.gz": {
+      "sha256": "1c2e984fc5be6e949c3948843e446c4f940bb43403b99f4833a0cac7965a1874",
+      "size": 238999
+    },
+    "data/geojson.day/chief-of-war-101-day-00132.geojson.gz": {
+      "sha256": "ef97c2cd06f8935784ee16dea7d12d10c7f830913cae36a1c0736ceecd28ba82",
+      "size": 247656
+    },
+    "data/geojson.day/chief-of-war-101-day-00133.geojson.gz": {
+      "sha256": "0c702a7e163e8ac6b41e66dc54679dcbc4970622883aadb5e57ddf3947b3c1aa",
+      "size": 248975
+    },
+    "data/geojson.day/chief-of-war-101-day-00134.geojson.gz": {
+      "sha256": "5d70bf3c4363e0b275caa3d0317fe1f23679e0f7c744fded6c3b6aa0a3ad4e7a",
+      "size": 242823
+    },
+    "data/geojson.day/chief-of-war-101-day-00135.geojson.gz": {
+      "sha256": "749ca39cad9fe3f17895e3e32bd9649e02f69830a04d55bd26d58724165c6a6a",
+      "size": 230671
+    },
+    "data/geojson.day/chief-of-war-101-day-00136.geojson.gz": {
+      "sha256": "26c63566f38efca00c2cc9a014028da8ff1c8fd1d3459fcf0c7076c023a2c1da",
+      "size": 209881
+    },
+    "data/geojson.day/chief-of-war-101-day-00137.geojson.gz": {
+      "sha256": "7ae97dd7132125c3bbb5fa1500d176ab37e57784aae6439bdbbfcc509f720b94",
+      "size": 249094
+    },
+    "data/geojson.day/chief-of-war-101-day-00138.geojson.gz": {
+      "sha256": "9f253f72102cbe32cd04321e9734a0d2b983e9756ce7f2bc3bee6768ed4e0dbf",
+      "size": 251087
+    },
+    "data/geojson.day/chief-of-war-101-day-00139.geojson.gz": {
+      "sha256": "fd2a7b505ea784c3bb2fc775c51bcd47db54d2e2e4184cb318312eac4b115ed4",
+      "size": 247986
+    },
+    "data/geojson.day/chief-of-war-101-day-00140.geojson.gz": {
+      "sha256": "21ee4bd5ae5f381daaa4a3e51c5a570e7653cf60eabf89d96e19b903845138cb",
+      "size": 244804
+    },
+    "data/geojson.day/chief-of-war-101-day-00141.geojson.gz": {
+      "sha256": "6646a4b8528c993474d5c3addaa92c78ddc70301704bbc89d332610d3d5cf01d",
+      "size": 241091
+    },
+    "data/geojson.day/chief-of-war-101-day-00142.geojson.gz": {
+      "sha256": "3c48468a758bff7f11794393c34bcaa924457d70b9ca20a65443fd866c8ba61c",
+      "size": 235067
+    },
+    "data/geojson.day/chief-of-war-101-day-00143.geojson.gz": {
+      "sha256": "d7cba1061c2565848a5be21710defdc63815291e3101145789dc49d67575fa65",
+      "size": 248308
+    },
+    "data/geojson.day/chief-of-war-101-day-00144.geojson.gz": {
+      "sha256": "d0510784463b07bc0129d6ab486a7bf345ce8dd096307803d58ca253a198e798",
+      "size": 198911
+    },
+    "data/geojson.day/chief-of-war-101-day-00145.geojson.gz": {
+      "sha256": "22f4b0a813f396db78abbc6c8dba27701ad7480715f83db322e9ce2b6d6d1619",
+      "size": 140360
+    },
+    "data/geojson.day/chief-of-war-101-day-00146.geojson.gz": {
+      "sha256": "d6f2351332382bc43af53a07c828cc17f8f0f8eafaa3a3ca390fdb0168d9d34e",
+      "size": 250468
+    },
+    "data/geojson.day/chief-of-war-101-day-00147.geojson.gz": {
+      "sha256": "72ee018f5dfb1900a935a9d284380d14f3e11091de744053f260b8f1fea0ccb8",
+      "size": 232527
+    },
+    "data/geojson.day/chief-of-war-101-day-00148.geojson.gz": {
+      "sha256": "0d1cf9bee9d6ea6e89ed8d7a395fdcc135b335468ff68c9adde666443be779d1",
+      "size": 236391
+    },
+    "data/geojson.day/chief-of-war-101-day-00149.geojson.gz": {
+      "sha256": "8f36437d7181dbf242d5d687abce3961868e38ebe95c48f1781feba0a4a9133f",
+      "size": 233284
+    },
+    "data/geojson.day/chief-of-war-101-day-00150.geojson.gz": {
+      "sha256": "a6eae61a6b41b48c4e068bb32e06afc62a3a169065df07fa07db0c760fd0da8a",
+      "size": 215035
+    },
+    "data/geojson.day/chief-of-war-101-day-00151.geojson.gz": {
+      "sha256": "d4160e8c648212a9d5154268a4809adcea8cc0e4bb3ea3207b33585ae91a911b",
+      "size": 245062
+    },
+    "data/geojson.day/chief-of-war-101-day-00152.geojson.gz": {
+      "sha256": "2d83b031f9de0ec9967c93842c5dcba4c92f0a5e3d728f3683e054743aacde17",
+      "size": 238267
+    },
+    "data/geojson.day/chief-of-war-101-day-00153.geojson.gz": {
+      "sha256": "5ded0dc5454a8b0c8e7ecb7a7cb3a6e9550dd81bd6de8c05d12aeecde5cc75e9",
+      "size": 253024
+    },
+    "data/geojson.day/chief-of-war-101-day-00154.geojson.gz": {
+      "sha256": "8bf7da2a87a9695b30dbe86cd45b780ddf305eb92e750ac1752dd100780cf52d",
+      "size": 249247
+    },
+    "data/geojson.day/chief-of-war-101-day-00155.geojson.gz": {
+      "sha256": "249661a8f1c7175e62f35799360f9a02d38584a3cd5c3267ce18d1176ae59328",
+      "size": 257067
+    },
+    "data/geojson.day/chief-of-war-101-day-00156.geojson.gz": {
+      "sha256": "ece058a1d9316c822b4811aa5dea710b949c6d0425a32a107bdab0d265ef222a",
+      "size": 236709
+    },
+    "data/geojson.day/chief-of-war-101-day-00157.geojson.gz": {
+      "sha256": "5cd401e8380546cadd0de37d6d8ab1daea51f13b534c12135ed096c3f6790769",
+      "size": 238831
+    },
+    "data/geojson.day/chief-of-war-101-day-00158.geojson.gz": {
+      "sha256": "61302a3fb953f04cf1908b687daef6f1d2174fa52740f1480bbfab9778411aa7",
+      "size": 246037
+    },
+    "data/geojson.day/chief-of-war-101-day-00159.geojson.gz": {
+      "sha256": "18861dee9d45622afa7dd050ba4b2592e556bfa47623fcdca7535a6be04465d5",
+      "size": 233223
+    },
+    "data/geojson.day/chief-of-war-101-day-00160.geojson.gz": {
+      "sha256": "3c54acc13b4e5dc9f797f0402247a10c459e2a52900d881ba7385d12f28605aa",
+      "size": 263231
+    },
+    "data/geojson.day/chief-of-war-101-day-00161.geojson.gz": {
+      "sha256": "0959988cda9ca0018c7f64254a31aeac186b79f4b27251fc77f1da58af8eb05f",
+      "size": 270108
+    },
+    "data/geojson.day/chief-of-war-101-day-00162.geojson.gz": {
+      "sha256": "0e5affa5cd831dffcffc5ca1b084b7195853870a8d136709a562698eb51515fa",
+      "size": 252757
+    },
+    "data/geojson.day/chief-of-war-101-day-00163.geojson.gz": {
+      "sha256": "18e5eb6d02470a03e34b6fa1e60d8eabc91374e917a2a1ef9b84895955bae46a",
+      "size": 240444
+    },
+    "data/geojson.day/chief-of-war-101-day-00164.geojson.gz": {
+      "sha256": "f406d0a576e8edb6aeb572a1af71b68dbebc13b2df3df141f79d80bf053c4b33",
+      "size": 244338
+    },
+    "data/geojson.day/chief-of-war-101-day-00165.geojson.gz": {
+      "sha256": "08947e2cde78c1325e98cf839c2039122daad414de9702a3b512094012a149af",
+      "size": 243823
+    },
+    "data/geojson.day/chief-of-war-101-day-00166.geojson.gz": {
+      "sha256": "413927c62e5dd42be198bf532a31473506164429ed38bb68d82b419e049f57ab",
+      "size": 248361
+    },
+    "data/geojson.day/chief-of-war-101-day-00167.geojson.gz": {
+      "sha256": "a0d3ee1bc24911d4ccabe75f8060231d8b8516305e6de5be7e666e69759ba9b6",
+      "size": 246910
+    },
+    "data/geojson.day/chief-of-war-101-day-00168.geojson.gz": {
+      "sha256": "165d0f3dcc47bb70cef9b748d727fd76e388ddc87472dc2e77b9ae196dbc978f",
+      "size": 252435
+    },
+    "data/geojson.day/chief-of-war-101-day-00169.geojson.gz": {
+      "sha256": "a492f57e85457d5034b90f0d32d4d95cf4cba9867d0d511d9720f80d9c524ed5",
+      "size": 241512
+    },
+    "data/geojson.day/chief-of-war-101-day-00170.geojson.gz": {
+      "sha256": "4ed8090b4209b91c40656157a53bcf17556bb65311b3e81f29ce484ad7c8684c",
+      "size": 239532
+    },
+    "data/geojson.day/chief-of-war-101-day-00171.geojson.gz": {
+      "sha256": "2a7ac842ab0764c0a0957839604fb84594217716879ff4cd1ab1265ef1121496",
+      "size": 234833
+    },
+    "data/geojson.day/chief-of-war-101-day-00172.geojson.gz": {
+      "sha256": "7e2a137d1f60999d3596838b0363bff1897fd2ab11ba61592d979b54dbf18465",
+      "size": 241641
+    },
+    "data/geojson.day/chief-of-war-101-day-00173.geojson.gz": {
+      "sha256": "3de9e47a5441d2fc70fc91a4ce7a76c82263b0acb2526a6dc82e364f2b454679",
+      "size": 244547
+    },
+    "data/geojson.day/chief-of-war-101-day-00174.geojson.gz": {
+      "sha256": "b3b3ab34821bdfaa479487b9c3bdb026985e607d6b0dee1370a4005cce4e51b2",
+      "size": 239644
+    },
+    "data/geojson.day/chief-of-war-101-day-00175.geojson.gz": {
+      "sha256": "1926db7cc096a69c7b1129a1305fd9d856db8a0f9424c38ceef950873532539e",
+      "size": 245655
+    },
+    "data/geojson.day/chief-of-war-101-day-00176.geojson.gz": {
+      "sha256": "60db652c1b289291e85582c7cdec18911a9032bedf2abd582e1a3bbf578471f8",
+      "size": 255118
+    },
+    "data/geojson.day/chief-of-war-101-day-00177.geojson.gz": {
+      "sha256": "5c5365d47dc648ff5b8ed29e53923ee7a746170b40cf4fee91ca98af69f2a782",
+      "size": 237267
+    },
+    "data/geojson.day/chief-of-war-101-day-00178.geojson.gz": {
+      "sha256": "fa605f08ced3bdfdae99628b0b3dd6acb5b2cbc0427a0e7ddeae77b422634578",
+      "size": 236177
+    },
+    "data/geojson.day/chief-of-war-101-day-00179.geojson.gz": {
+      "sha256": "8f65c9a2bb36032747e54a974a9ff609d6f3bbe6b15efbd3f38378db91b1c833",
+      "size": 254682
+    },
+    "data/geojson.day/chief-of-war-101-day-00180.geojson.gz": {
+      "sha256": "48299e1cf378f8ad8f097a125dd0e760c8106daa29fecf896d21a1ae8fe752ed",
+      "size": 246773
+    },
+    "data/geojson.day/chief-of-war-101-day-00181.geojson.gz": {
+      "sha256": "ee1fe8edbc2206772b1f272767da7bb615e48093e04eb4da8ad8b99c5803b5c0",
+      "size": 228699
+    },
+    "data/geojson.day/chief-of-war-101-day-00182.geojson.gz": {
+      "sha256": "b8cf733d7527897306983dc78405d02e5f85b8a1af668ebf9947cd61e30fd7a6",
+      "size": 229757
+    },
+    "data/json/chief-of-war-101-swarm-day-00001-2025-08-01.json": {
+      "sha256": "dc444764082db18584230f9b11323b242f5d4a661befb7b3a27b8589f92777df",
+      "size": 456
+    },
+    "data/json/chief-of-war-101-swarm-day-00002-2025-08-02.json": {
+      "sha256": "c4e6ecafd139d2390af21f7495b18509fd518fc23d754df9031e9fc6621cc0a3",
+      "size": 457
+    },
+    "data/json/chief-of-war-101-swarm-day-00003-2025-08-03.json": {
+      "sha256": "0111671b43c87124df22889d5f4c6bb129d4b88394c50916a8d222f6647d9f3d",
+      "size": 457
+    },
+    "data/json/chief-of-war-101-swarm-day-00004-2025-08-04.json": {
+      "sha256": "9aa13f1986edb971c6e258b31f517a14c24e7a039fc2b8f22c961985b751187d",
+      "size": 457
+    },
+    "data/json/chief-of-war-101-swarm-day-00005-2025-08-05.json": {
+      "sha256": "95a7098b3603cb8b552d9717682435ec6b74e4cb6d680deaf19fc371dc3ea2cf",
+      "size": 457
+    },
+    "data/json/chief-of-war-101-swarm-day-00006-2025-08-06.json": {
+      "sha256": "64d4a8d5d0f2adc0972434e3f91e7b9f0d39caafe6f39290ef3e9ffc3be5212c",
+      "size": 457
+    },
+    "data/json/chief-of-war-101-swarm-day-00007-2025-08-07.json": {
+      "sha256": "0a824e421b4f000a7dab9cd911dc24d47a3dcb9a9195a558038437f651cde368",
+      "size": 457
+    },
+    "data/json/chief-of-war-101-swarm-day-00008-2025-08-08.json": {
+      "sha256": "b6b0f845f05b2cd8ddcd5583be939c4d4ccf6d2256af6a69782318a828468ad1",
+      "size": 457
+    },
+    "data/json/chief-of-war-101-swarm-day-00009-2025-08-09.json": {
+      "sha256": "dc8756470d0ffea32fb32f1bf6b9666adcd2cb522b5ff210dd553e7d04b9b379",
+      "size": 457
+    },
+    "data/json/chief-of-war-101-swarm-day-00010-2025-08-10.json": {
+      "sha256": "84bb47d1fc2874ef96c4700c17282c21bd8ac01f8c79ee57d5ef64bead028fd5",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00011-2025-08-11.json": {
+      "sha256": "eee5106413f3667a56a18b2cf44f808963250a35d502b3c35c87e5603dd41a58",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00012-2025-08-12.json": {
+      "sha256": "05e56e250925985b9dcc686d2cf53dbea9a2ca5ac8161bf5a722556461fb7930",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00013-2025-08-13.json": {
+      "sha256": "daae1c7066d148c4fc26d6d68af11408c99b5d9774b84499a24d01468410e301",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00014-2025-08-14.json": {
+      "sha256": "52d50e76d4cb92501ee69cd689bd7823ba3ed3ab703a1f5f7dcc81a1ce5d00ee",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00015-2025-08-15.json": {
+      "sha256": "d6efffb0d4fc65c8c4a65b3a5b680e9b18f71ddb91f1743f8e355ce2c1ab1297",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00016-2025-08-16.json": {
+      "sha256": "86ba6e439a8e9219cfd2dd277f2a259b7b7b2cd38852b31f17c306e7777211d4",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00017-2025-08-17.json": {
+      "sha256": "7fcdbca8eaccfd51e98e759f9aea327b9c1db111b31e6001a3f0bce9e460d6f4",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00018-2025-08-18.json": {
+      "sha256": "6b6eb10a6beba05b7e006c20914016493ba2baad05654aa763ed4ead54ff0bcc",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00019-2025-08-19.json": {
+      "sha256": "733421d869f8dec2cb19e3606732d2c53c47800b7fc1facc7335e8f57a38b3e2",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00020-2025-08-20.json": {
+      "sha256": "ecf4840ad41f31401668070f51d10dbb3638270d53bfb723b1911aedeaf3444f",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00021-2025-08-21.json": {
+      "sha256": "eaa05a37594ec9f8b191d5b25ae091a945161aec7915023b136735667e49c266",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00022-2025-08-22.json": {
+      "sha256": "0d3d9caec52689754a4cff50191eb7b9e7c0b12d055229d0e43ccb0f5a2e0a6b",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00023-2025-08-23.json": {
+      "sha256": "64c0c01ddeca4e0558b1bf7d48449fbea4d94bbad38ce3d4b334a6889624cf52",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00024-2025-08-24.json": {
+      "sha256": "c04aaf0c9c99b233452c4ff0d807a4524d9b4dde49d3134cc6eecc6af6ff5400",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00025-2025-08-25.json": {
+      "sha256": "95d4828c6ebc9dcd40070bc3a387ec7d152b009c5033780d2b86bec79d8208df",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00026-2025-08-26.json": {
+      "sha256": "3996f2a3c78f68a9c0883fe161fe3f44c1d0fb4332ba8a88b0f7f134de3db515",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00027-2025-08-27.json": {
+      "sha256": "9442ed38c6967b778a5ddace3c5300bcceb0339707d6fd851327f2c9050fc0d8",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00028-2025-08-28.json": {
+      "sha256": "79768d09d5b13602ba1a659735ad12066d2c0b6cd567726b17a56b10b16242c3",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00029-2025-08-29.json": {
+      "sha256": "82dcf1f6d5eecc250d0c9ef115a031ad68d33316a3d397d3bf6a3657f7dee985",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00030-2025-08-30.json": {
+      "sha256": "843781c23409789ea32dbc5839c47d2d5b150cf3649f57b057421545396225cc",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00031-2025-08-31.json": {
+      "sha256": "62aedd9f79f719669496b8f5f90b181d311b47a8c8db300fef5fc2989e8938be",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00032-2025-09-01.json": {
+      "sha256": "0341ab4164fa5c247c77db90e2bb0e29435561da3367301d0a0da866f593890b",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00033-2025-09-02.json": {
+      "sha256": "1baa99b33d90a134c9ca8772f6e3682ca1a5596d6a7add8ac96072f8f1ffae3b",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00034-2025-09-03.json": {
+      "sha256": "d0f66e29f40ebb89d7334812daff067bcc9342e74aaec3be79c525dd2c33497e",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00035-2025-09-04.json": {
+      "sha256": "ed7c56d1a4d42ecba7f39a0bb2fca2a5375b656138a802438485459dac693165",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00036-2025-09-05.json": {
+      "sha256": "c94e48b9b321e4cafe0afcd32b1fb66f10853dd835401d1de8e2696c516ff015",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00037-2025-09-06.json": {
+      "sha256": "831d46e522118119862b08e941c6a4222643a7dc83dbf56d6c804e5e14b1db52",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00038-2025-09-07.json": {
+      "sha256": "734b6ea46d3ef00d982569ec977578a0a7c2dc4a95e85c2181d0efd4285d8505",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00039-2025-09-08.json": {
+      "sha256": "978c5673896782c842b0ab75c8f237d4727ed9a9a1bf1f2b6f44765a2818e868",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00040-2025-09-09.json": {
+      "sha256": "b0dd3d12e16bc8c38da823f6f29ebef16c6556aef77965dd621293cf6cce0254",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00041-2025-09-10.json": {
+      "sha256": "38fc2b0bb74edf62136e53139a62f65c5b68263a36673cd50604fec1a3fc4ae0",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00042-2025-09-11.json": {
+      "sha256": "b493e0f21fef5c1f059edd7020f24915b5c137f346c62b8f26263c46f4f51618",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00043-2025-09-12.json": {
+      "sha256": "c20eebed31eed4cee746b980f84910fe552f43a7641bd608d35a64d09b3e0af8",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00044-2025-09-13.json": {
+      "sha256": "389e12c807030d5ffde3d50ce3f16d8e18c15c763495d53f02ef2a5829c2a9e6",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00045-2025-09-14.json": {
+      "sha256": "83cf1896ee5536e38a50a05de7c5c250a63a513d39f48d085134b1fb215f071e",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00046-2025-09-15.json": {
+      "sha256": "e66e065f8f1939305557bd5262293af150c6b40726a439c74adca7dce7762764",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00047-2025-09-16.json": {
+      "sha256": "d57feac229171b6204a69911e88ceed95fcee833bfe4e48f8d425531a42bed07",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00048-2025-09-17.json": {
+      "sha256": "792462d2e2afdab4a9f63e9d4b003ca2304a6d712026cabfa982634bc546e5fe",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00049-2025-09-18.json": {
+      "sha256": "38fd9a4c5327fceb38606f5c6da92438a55cb62bcf5b262453ee6f20951e87a0",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00050-2025-09-19.json": {
+      "sha256": "5f590893fcfff551b92f0c6da1492e17760c94273581358bf267729c33bc78ad",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00051-2025-09-20.json": {
+      "sha256": "c2628126faf26c7f12ae74c1ee25c3260bc820d405c400fa386d7366cabd70c6",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00052-2025-09-21.json": {
+      "sha256": "ba32c5700a4426f808e0ba90353dcdadde036d0966f08ee912847297a99d6188",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00053-2025-09-22.json": {
+      "sha256": "44eb283356cee94db1cdf37c9d8de0851e82dbc1e97139edc7ef039766f9453f",
+      "size": 457
+    },
+    "data/json/chief-of-war-101-swarm-day-00054-2025-09-23.json": {
+      "sha256": "d40f85ea314673be781439facb4d9fdd2096e0bfb9ad94c8320430fae2c3916d",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00055-2025-09-24.json": {
+      "sha256": "667355db32174aeae5f736cc6562ddd0a26d2e3309f977e7ff4808963a123169",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00056-2025-09-25.json": {
+      "sha256": "bcbf8a8a463c40a8a479768b6e421213ae3680e234476b735f8fb0484af6c3eb",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00057-2025-09-26.json": {
+      "sha256": "6971ddb5d5972f42e3cdd00579189edb996ad3b8cd2230c014b001bca5bf4a3b",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00058-2025-09-27.json": {
+      "sha256": "03345cb8514d395f120c8d326ec84fa71f23628d6ec7c7f9e62775fecd906891",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00059-2025-09-28.json": {
+      "sha256": "6754b0b878912c0c23801d849db7efb067e6c580a8af9c5810073ae0f8a3531e",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00060-2025-09-29.json": {
+      "sha256": "f86a2c97e9e6115c9300287e8ede34c319f2df50cf4751ce4aeae29b543918dc",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00061-2025-09-30.json": {
+      "sha256": "e65f0f2b929f7ad16187c6a06431fb86dd6b9daa3e4ee5ef9dd9d9c73f8fbe86",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00064-2025-10-03.json": {
+      "sha256": "3999b4ba7f9b0baba579e769f38d284ab3aabc97c1bfb0813aea0b7f3a6ab1fe",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00065-2025-10-04.json": {
+      "sha256": "128478a9cb8e9f467ddc93e907d54e7cdfb600715a5a5ce432e1e48d3bacf08f",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00066-2025-10-05.json": {
+      "sha256": "5bb51efb03f6a49754b96e989a283702e7c0fa3d01d640c455a794c9d37a373b",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00067-2025-10-06.json": {
+      "sha256": "01add8349068bede98a3584d30f481fb90af92d0c53966d73e75a337cb7335a7",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00068-2025-10-07.json": {
+      "sha256": "c320bd2b82fcfcd6bf25c044f3a6413ef1d80cfd31414282112168fcb1e7362e",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00069-2025-10-08.json": {
+      "sha256": "f867b6e8bc9c37f395c7a2494bf264c5540c46c57fed68089b2bbbee278efaba",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00070-2025-10-09.json": {
+      "sha256": "b7288ec93035d7b13ea2b1e7a1b9e364d7c9d7b755c8485283c630c699411acb",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00071-2025-10-10.json": {
+      "sha256": "b279066806feaa6d5f773a43db4987ff2c1e29c0f3672a76f31cd2d0fe61e852",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00072-2025-10-11.json": {
+      "sha256": "257e2a497cda60fa96be2f9e3774ce2503e9bad504f1191e80c089360b0dc10f",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00073-2025-10-12.json": {
+      "sha256": "9815717912f42755a2d5cf635639a53acbf7733391bf3e6ce7a096fddfac2dbc",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00074-2025-10-13.json": {
+      "sha256": "a00d86bc12dc9ba806890f30b95bf28ad118fa92e091e871971ff39394f66874",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00075-2025-10-14.json": {
+      "sha256": "cdc00520b4005dcbae73344f70679e8ed0d763f219cffb506e2e321d75e6271e",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00076-2025-10-15.json": {
+      "sha256": "e1ea78afc23e9684dd018756262fd4bf506c7b8f9ac1e9e4c66d138f7f4cacb1",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00077-2025-10-16.json": {
+      "sha256": "55dab80a5bd7fa12a115eee75284f1843b011c5bed47aa7c87d35b3c8bc6c6ae",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00078-2025-10-17.json": {
+      "sha256": "944c80fc5743c74397c94cdeec69c0dc7de55ef8b93725d3ee528e0fcd81ec2e",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00079-2025-10-18.json": {
+      "sha256": "0e43135d59e5e293601f59734aef50854f8b5787f8decbbfc0d47e637e813315",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00080-2025-10-19.json": {
+      "sha256": "7394092b3d78c1a99ce0707a359a3ee6b7512f999e4d0d82d5d98959dc577c09",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00081-2025-10-20.json": {
+      "sha256": "9703cfe1d70210da29012977a462dce606a6259054e437fc0815af8800326726",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00082-2025-10-21.json": {
+      "sha256": "f4bab5122d4036b9703816554102ebe1cd570faf7efe6cfef289a3b9b154a32b",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00083-2025-10-22.json": {
+      "sha256": "1783ad904513bddd17a979de571c77220b06735021f3ddf40f00e710f6fa20a5",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00084-2025-10-23.json": {
+      "sha256": "fb3f5aa7efc38bb924afa83a7a060a4e344928bbe35b9ed71fb486ff0f427769",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00085-2025-10-24.json": {
+      "sha256": "5bc792189439f8b1a189d8d32977d729700bd31348f6655a9c1dfee08867e652",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00086-2025-10-25.json": {
+      "sha256": "deaf69327aca23a97ae4516b22a4a7543c33c985842a93fb1334aaefff4d2b47",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00087-2025-10-26.json": {
+      "sha256": "5cd504489140d11ca9151519a5db4047fa9ed64568db49e79bed328798a1c6a2",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00088-2025-10-27.json": {
+      "sha256": "a1905832ccc8bfc816eb2b9322f7c5fcce887d95bde2da9466c2cdc962436ef2",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00089-2025-10-28.json": {
+      "sha256": "8bb4b663275d9f368ef33c0ecca8b56f64c5e17d64ff4c1d9687835abd3fe6fb",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00090-2025-10-29.json": {
+      "sha256": "ba999bd657bbbdcba0754b03d4ed778d56896833bafa55f7695d809bd214f325",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00091-2025-10-30.json": {
+      "sha256": "7f4f19b4759e247d39137e1daccfd75bc8987eef972cda6e997dbb8650c606f1",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00092-2025-10-31.json": {
+      "sha256": "098e7a0a31e232b1c097fbf34c37b3ae315475b91bd947995b1553a9d1953282",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00093-2025-11-01.json": {
+      "sha256": "e2435f9d1914c9f14b409d5ba81f1b3f5700b1fbe0269f56afd97d4078cd688c",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00094-2025-11-02.json": {
+      "sha256": "8daad83b634dd4ee1d395418e50892830b05129f4dd6a65e811a9083587cd2fc",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00095-2025-11-03.json": {
+      "sha256": "56f9268a3e0b6ac5400a6967c6ba9f8d5d9a1c8f336ecc0b5dd902c919f1c0c6",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00096-2025-11-04.json": {
+      "sha256": "603404ba9c061176dbeed994b9ff8de131e2fb07217fdafc0a7a753edf0fdcb7",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00097-2025-11-05.json": {
+      "sha256": "b3db44b2adeb3ca074859548928eab909a3dd25ff4f93ae08cbf4c168e555d36",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00098-2025-11-06.json": {
+      "sha256": "8e42d66eb0ded3f00731a5cca0153c1aba393414c6aab1c751dc312417b6c593",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00099-2025-11-07.json": {
+      "sha256": "b67671de273c65ac41b48acdc7f8eb399f049ce19cbb2bf469723a3195d6c103",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00100-2025-11-08.json": {
+      "sha256": "70512a3f1658f69a5339726b1d50e7b41daed848887aae1a97face6583fd6850",
+      "size": 459
+    },
+    "data/json/chief-of-war-101-swarm-day-00101-2025-11-09.json": {
+      "sha256": "968a12e738e74dd909bb526c0f997f37bc03c70e277cb1f9bea0b3b6479f9a34",
+      "size": 459
+    },
+    "data/json/chief-of-war-101-swarm-day-00102-2025-11-10.json": {
+      "sha256": "043b332d40bd737f542beb1e8a47aae1ce5ca424062ce35042e5b975de2839c6",
+      "size": 459
+    },
+    "data/json/chief-of-war-101-swarm-day-00103-2025-11-11.json": {
+      "sha256": "38e9104943687c9526bef3e68c07e4e3e38cc3d272d282b53a1f28abb95ad9f5",
+      "size": 459
+    },
+    "data/json/chief-of-war-101-swarm-day-00104-2025-11-12.json": {
+      "sha256": "ed6ddeca81b5fdd78ace6b0d9f308aac8815e1324478865046e5152793965c2f",
+      "size": 459
+    },
+    "data/json/chief-of-war-101-swarm-day-00105-2025-11-13.json": {
+      "sha256": "7195f800314d31d81ff5f233a862efb998891ff2ea7dc8acfeecb0532ef2f066",
+      "size": 459
+    },
+    "data/json/chief-of-war-101-swarm-day-00106-2025-11-14.json": {
+      "sha256": "91f027718abaee68690473650fc837a5eb462563a31a9eee8ebbda629175b156",
+      "size": 459
+    },
+    "data/json/chief-of-war-101-swarm-day-00107-2025-11-15.json": {
+      "sha256": "f6344b41c61f38829218dabc0a3ea8ca3a330c8cf2b234879d88b9e1b8719a22",
+      "size": 459
+    },
+    "data/json/chief-of-war-101-swarm-day-00108-2025-11-16.json": {
+      "sha256": "a0cdbc973b0536f2c4faf3e3c86a65345be3c2625dc608697274a6d87d99c0c8",
+      "size": 459
+    },
+    "data/json/chief-of-war-101-swarm-day-00109-2025-11-17.json": {
+      "sha256": "b016cdfd1c52ca0a3ef76c8f89b67235d4cf41d58866fc2fcf1cba0b938ac63b",
+      "size": 459
+    },
+    "data/json/chief-of-war-101-swarm-day-00110-2025-11-18.json": {
+      "sha256": "4f7a5b2c70817f697532edaba66b04d1c2e3472f875baf0f5f654de4c3e200c0",
+      "size": 459
+    },
+    "data/json/chief-of-war-101-swarm-day-00111-2025-11-19.json": {
+      "sha256": "b09e1f916ad1d29a7e467c3f70efa2811889cbf5849e3ead67ef655c399f23c6",
+      "size": 459
+    },
+    "data/json/chief-of-war-101-swarm-day-00112-2025-11-20.json": {
+      "sha256": "1d4a11d411989242229122846b5f33f081a5edd8955a410fa2f3da40f4b54cf0",
+      "size": 459
+    },
+    "data/json/chief-of-war-101-swarm-day-00113-2025-11-21.json": {
+      "sha256": "7bba8a3ed203cf31cce3573455f5ba53aa704163ee22c835c88ad8c714bdffdc",
+      "size": 459
+    },
+    "data/json/chief-of-war-101-swarm-day-00114-2025-11-22.json": {
+      "sha256": "945ec9ca17fadbae9e8a4a39353eb8c2b814b53ad12e88c05d90e36728ad4221",
+      "size": 459
+    },
+    "data/json/chief-of-war-101-swarm-day-00115-2025-11-23.json": {
+      "sha256": "3c81060293b3a51404716d742f9bf1f0f6bcea60a5efb6040e10a02d081a3ef3",
+      "size": 459
+    },
+    "data/json/chief-of-war-101-swarm-day-00116-2025-11-24.json": {
+      "sha256": "bd8efbfd92c5a3f8f53a1e95ecda8d260041cfb3b19347639e768091862527d5",
+      "size": 459
+    },
+    "data/json/chief-of-war-101-swarm-day-00117-2025-11-25.json": {
+      "sha256": "968c3ac86b172d9d65b7f0bcb2ae4c909b1aae6d841ab3b6bf9cd2dbd6e845cf",
+      "size": 459
+    },
+    "data/json/chief-of-war-101-swarm-day-00118-2025-11-26.json": {
+      "sha256": "c9772e6d7770e7e028891018ea2dc49d687c23fddd8855d51c7561526f4705a7",
+      "size": 459
+    },
+    "data/json/chief-of-war-101-swarm-day-00119-2025-11-27.json": {
+      "sha256": "9651e25bb64d9ed8c9f58de6eff9e368284bb4ca48db61052cdab6f803c4bc97",
+      "size": 459
+    },
+    "data/json/chief-of-war-101-swarm-day-00120-2025-11-28.json": {
+      "sha256": "e361593f435423a2a6a994ffc26a77c8a7568d2b311213681ed27e5c41e1ae84",
+      "size": 459
+    },
+    "data/json/chief-of-war-101-swarm-day-00121-2025-11-29.json": {
+      "sha256": "1599ffad89d41cc632f4c8cb04b1b642b8a8b679d92600484d1048899a88d070",
+      "size": 459
+    },
+    "data/json/chief-of-war-101-swarm-day-00122-2025-11-30.json": {
+      "sha256": "b77f243873bbdcc4809cce01ba4939e43789edee9aa4886cd1e91dd0005b1b47",
+      "size": 459
+    },
+    "data/json/chief-of-war-101-swarm-day-00123-2025-12-01.json": {
+      "sha256": "44b3e1a8074ad412618f204eb2c562ac7c2e0de3489af042566a3d330a5e2156",
+      "size": 459
+    },
+    "data/json/chief-of-war-101-swarm-day-00124-2025-12-02.json": {
+      "sha256": "eca3748d628b8e0e48c7e1712ab72800ca1d6c6178e2b0da453faa8cb33d1827",
+      "size": 459
+    },
+    "data/json/chief-of-war-101-swarm-day-00125-2025-12-03.json": {
+      "sha256": "5aea71df718004ac355a01c433db9b1dd051484c25c7c2d87f19987ecc0036aa",
+      "size": 459
+    },
+    "data/json/chief-of-war-101-swarm-day-00126-2025-12-04.json": {
+      "sha256": "e71f92fdf2d63b10eda4c0b5c01b70719faec7a8fb0fffbc94068384429c9d4f",
+      "size": 459
+    },
+    "data/json/chief-of-war-101-swarm-day-00127-2025-12-05.json": {
+      "sha256": "e1542a2cb592e2e21302c87fbb37e2440b66d4cbb61bc24ad18e982f206f6b19",
+      "size": 459
+    },
+    "data/json/chief-of-war-101-swarm-day-00128-2025-12-06.json": {
+      "sha256": "613d3c5c94cf15623675c74b32e5ca581304f3530d21e271b1d5c865e2c38c16",
+      "size": 459
+    },
+    "data/json/chief-of-war-101-swarm-day-00129-2025-12-07.json": {
+      "sha256": "39bf017485feeeef94d6f505d6b356694bc381465ac052536ad4ec1211a6e61d",
+      "size": 459
+    },
+    "data/json/chief-of-war-101-swarm-day-00130-2025-12-08.json": {
+      "sha256": "74f9371996baaa6df6d49ce04babfe62401a665eab4f2b3fd1ce25d6f7cc0c6c",
+      "size": 459
+    },
+    "data/json/chief-of-war-101-swarm-day-00131-2025-12-09.json": {
+      "sha256": "0e5a519b7c181742566078f5d7aea47796eafe5374443871d3969160cb7d8474",
+      "size": 459
+    },
+    "data/json/chief-of-war-101-swarm-day-00132-2025-12-10.json": {
+      "sha256": "accb5ba4f81f44d54d65bbbe11a672fe19e81036043ee023efb934655c156cd9",
+      "size": 459
+    },
+    "data/json/chief-of-war-101-swarm-day-00133-2025-12-11.json": {
+      "sha256": "ad1d59804c4d91644d9a36c6d6e429ff48aac500d297b4c818ac5c2246b674ac",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00134-2025-12-12.json": {
+      "sha256": "f64950603f8f073819a1aeece62a8fffe23279e3e79733b48cfbf0f2df033120",
+      "size": 459
+    },
+    "data/json/chief-of-war-101-swarm-day-00135-2025-12-13.json": {
+      "sha256": "fc3bd02dc16361785d146620d15cf79b17f9a364e44b82475153f1e1ea1de32d",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00136-2025-12-14.json": {
+      "sha256": "6d11d98a4cb161754423d4b158db519a16f10c2a2dd6b9941a1f2c00a73d6842",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00137-2025-12-15.json": {
+      "sha256": "674283fccecfba1510ddaefaea80fc62e2840b0c063ca51fe4f85103a40ceb14",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00138-2025-12-16.json": {
+      "sha256": "6ea9cbb1e88002963d98cf570808f860b70620d5474032daa854be73e33490d4",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00139-2025-12-17.json": {
+      "sha256": "ebdd9d9ac5671f77dbbbfc3cc9f2aabdb91e81358baa68709c4fe6aa4577170d",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00140-2025-12-18.json": {
+      "sha256": "cd0520fbe0be497c67f6d2d377f5802592e1ab90c6f9966763c8867e8e8221b7",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00141-2025-12-19.json": {
+      "sha256": "dde09a9c997a4782b7bbc94b07cbdf1a3e6dbf333353b8d464a96749ca6402cd",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00142-2025-12-20.json": {
+      "sha256": "cf3726534f4d3eda19b15433a0741e2c717b429318d17fcd228c7a0e37119622",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00143-2025-12-21.json": {
+      "sha256": "5c61bf4738fa6dc59b0dc8533e75799a93632de6244f935ad0569639aec971b1",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00144-2025-12-22.json": {
+      "sha256": "5c4798c90b8f233e91f76651cbea0d2ba26e513bf485f3b80d2699470cc9c5d2",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00145-2025-12-23.json": {
+      "sha256": "acced95bf903b4af830ef3dc92a085446d8b5f3ca28b921a472f0d077040becf",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00146-2025-12-24.json": {
+      "sha256": "02831ab2edce1960d29bf831c6303b15486581f576ac9af4793f028cc680b8f9",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00147-2025-12-25.json": {
+      "sha256": "26f365c5a4658472c22d79c1b1c01c9e746f9f26ca821fca3b758b07b53cfa5b",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00148-2025-12-26.json": {
+      "sha256": "ee43ab3a5b78d958f564f8ace73e89fd1f277c0179530144e3a08bbbb78b7b0d",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00149-2025-12-27.json": {
+      "sha256": "5394c50bc69198276dae3d8b7e44ff20a7cec683d1e08701b2baaa361b47c6b0",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00150-2025-12-28.json": {
+      "sha256": "ef7014860412f5476400a46264bdcc054f60fc96d9620cecb5a4bc9829df9d8d",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00151-2025-12-29.json": {
+      "sha256": "ce464f5b5ac0dd6495e5e7335c35b3024869fec8017f8d8eb6399f7ba9ff9d83",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00152-2025-12-30.json": {
+      "sha256": "d6603b585c38ef879f5b3a47867ee5ef782fa3033112b9fd853551ecde41d328",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00153-2025-12-31.json": {
+      "sha256": "c648b4175cc7469ea7809c32eb801bb9a92e6bf84aed0aeb6a925a4c2cec88ae",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00154-2026-01-01.json": {
+      "sha256": "3b2c02b6fece04b441565d3126a6c246323d494216cc63c3b7f023b16a8fa526",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00155-2026-01-02.json": {
+      "sha256": "ed17d04775ece075c3804c91c055d8fed34b6ce687d1b2f7a04468ee12b310d3",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00156-2026-01-03.json": {
+      "sha256": "49271cc3839afa7a58474177f80638233de4b7b20fd88a6680dfd6cbec5bfb80",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00157-2026-01-04.json": {
+      "sha256": "09a14870248f615aad57b1843d2d107303ff2026e60457ca5e05d06fe9c650a9",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00158-2026-01-05.json": {
+      "sha256": "b623b238af4cca0c286b6c60b77ce2894daf371ea6e5867dc959baf78b9f60da",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00159-2026-01-06.json": {
+      "sha256": "cd37cf23646c5ffca6cde023c1d2d50d248fe2dd7c5c48e7b014c0e1deb081be",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00160-2026-01-07.json": {
+      "sha256": "8e7b8e73188803f79d5db73828751eeb559532409343c3dff336d6efa25715dd",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00161-2026-01-08.json": {
+      "sha256": "ffa2638b18d0fe9eca2b8c28a50a907ccc327c0cafe55823c1d478b79ec63f23",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00162-2026-01-09.json": {
+      "sha256": "ce25dcbc55596c1e20acdda75676b5010fab0247ae5d75157caefff20903eeb3",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00163-2026-01-10.json": {
+      "sha256": "93edab123fde1c164a3049504b3c6198585acb3e57a092885e35db07a7dee95d",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00164-2026-01-11.json": {
+      "sha256": "4efff5ef8241967528540149a43790203964013f249860313f55e3f73c96645c",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00165-2026-01-12.json": {
+      "sha256": "734cb729fb37c56c2b7c91a5e71cb78cef03a643808f1bd0be776c2aace2a473",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00166-2026-01-13.json": {
+      "sha256": "b3245096ecb42be7bddd2f4edeb6dc3d32559ef319e328e54b62c1acfe83583a",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00167-2026-01-14.json": {
+      "sha256": "a406eaa0dd077e9b9828614c55ca9ca3e6dc7912eb5133db62ca9698dd161d11",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00168-2026-01-15.json": {
+      "sha256": "beced1d88289d7001ebfcf3d8e0e2130e88994893f1008fcd36389581cffc78c",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00169-2026-01-16.json": {
+      "sha256": "60168e053c2cfe7776b7b530d4050fd256e1fac1b248a2188d0c580223836cfa",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00170-2026-01-17.json": {
+      "sha256": "bc338e31e581f7418adbfa761334722a29160ef2f4d3ffcf99657ab49c5a5dfd",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00171-2026-01-18.json": {
+      "sha256": "64453ec3234ad47f09c3a568b5ca590915ae7971cfa33f9a20be976c641d12d9",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00172-2026-01-19.json": {
+      "sha256": "be5e61639d71dae42bb48bd395c811a93af956d0e6fe68737ad95ff665b7e2c9",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00173-2026-01-20.json": {
+      "sha256": "d1e8e1ea464cdc8da61b1e299070b9bd36f8babdf145ba44ef41a787617adc0b",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00174-2026-01-21.json": {
+      "sha256": "a613a3d1611bc975f9d8ab6277263a9d3cf0d8740896ae0edf30cb369db40fb5",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00175-2026-01-22.json": {
+      "sha256": "f31081f864a02e2db1ad2decae279b169787ca3d01f70aac1e90437e051d2702",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00176-2026-01-23.json": {
+      "sha256": "725872ce220d94928dbcc879b451b7f332d229ed3a699f3df733c75af0315c2c",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00177-2026-01-24.json": {
+      "sha256": "741eb001b8a0b0874d651a51263eba8822d2e2cc112dccb3fae9328a1ecbae58",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00178-2026-01-25.json": {
+      "sha256": "c1be3ef615df016e56c01f56e0e106c808b2d2bb51b11125a537714d17fa04cb",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00179-2026-01-26.json": {
+      "sha256": "313ed97b8beb80b4a8cd9aae9a770ae94c96d8ebfbbd04636fb32ee813859554",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00180-2026-01-27.json": {
+      "sha256": "02fecacf72cd677e2a546a48f844ac0bb5d8538adf79dca7a30be3c97f5dd3fd",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00181-2026-01-28.json": {
+      "sha256": "f529b9c3f467d6104c23eb84993b07afe8215425c115915b2654438d9313ea2d",
+      "size": 458
+    },
+    "data/json/chief-of-war-101-swarm-day-00182-2026-01-29.json": {
+      "sha256": "77a95722f9ecbc8810030f5510ab58a3d8f7056e02cb0ae1c39866c3a0a4ed50",
+      "size": 458
+    }
+  },
+  "schema": "alpha60-year-day-product-bundle/1",
+  "source_revisions": {
+    "aggregate_binary": {
+      "sha256": "80bdf6691c0ef6ed5fcc7fa3a6462748104e1935ce5b2a4df3861e11bb13195a",
+      "size": 38582648
+    },
+    "alpha60": "c3fc4c8a7866bee5f6d5f26160c56b2cffb05cb1",
+    "alpha60_data": "8faeae67a5d274d1fc00bffe9fc9318329163b20",
+    "day_product_contract": {
+      "sha256": "0aa0bee3ac14b512c786d3496ab5218a46aff11786ffa6aa9ea85e762fbd6370",
+      "size": 9897
+    },
+    "generate_cache_aggregates": {
+      "sha256": "504078e192d9c8182df74e41b98cec08123c5a8b7d0eb7f812d09c1fe5d07010",
+      "size": 17151
+    },
+    "metadata": "fbeb53a0b523f937fae2f23d14689d8c5c84dd5a",
+    "package_script": {
+      "sha256": "516d6ecdccd24b1b66cf80c185219fa47d52af22f672b836773896df621b1666",
+      "size": 14724
+    },
+    "year_day_contract": {
+      "sha256": "f1c07d6f2fdc19475a6f25ddaee5923957447a6f49a8009d8b4c9984a63bd883",
+      "size": 9356
+    }
+  },
+  "status": "pass"
+}
