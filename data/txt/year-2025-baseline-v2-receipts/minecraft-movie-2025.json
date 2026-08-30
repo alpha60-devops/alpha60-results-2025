@@ -1,0 +1,253 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt3566834",
+    "imdb_id": "tt3566834",
+    "revision": "fbeb53a0b523f937fae2f23d14689d8c5c84dd5a",
+    "wikidata_id": "Q40083273",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/A_Minecraft_Movie"
+  },
+  "coverage_sha256": "ef77f66d90945bf66119101f485f4e58889799cd4c8d30c23420994685abd24b",
+  "generated_at": "2026-08-30T15:16:43.547036+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "aao-checksum-manifest": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/SHA256SUMS",
+      "sha256": "4a4818facd85b709f0321b0a6de31b4a3eff6f108f3b9354c75632926e6baa48",
+      "size": 266728
+    },
+    "aao-release": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/release.json",
+      "sha256": "3ce0984da2d12b0e3697e76c02608bd9d1a955ee3d00e0a7054bdd297b8f18c8",
+      "size": 1342
+    },
+    "aao-verification": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-aao-verification.json",
+      "sha256": "e01294ebce8e54b65e16ab83017fa5585efe6f7a0a0f1a5e0f734e08d8e223fd",
+      "size": 854
+    },
+    "archive-map": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-cache-archive-map.json",
+      "sha256": "8d4d506f23cd80f46baf010bd17509c916083e75eb8b43b052641138c3f308f1",
+      "size": 125170
+    },
+    "btiha-metadata-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/minecraft-movie-2025-cumulative-btiha-media-objects.json",
+      "sha256": "9240b678994a4975702c414e8a33167a093abf46593c1c4a94d170bd0bf27505",
+      "size": 1173096
+    },
+    "canonical-metadata": {
+      "path": "/tmp/alpha60-swarm-metadata-2025/metadata/minecraft-movie-2025.json",
+      "sha256": "ad887f05ed0ea643b36c3e72dd7c10a00242606b0fc77b183e522153cde0ea1f",
+      "size": 7846
+    },
+    "coverage-report": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-coverage-evidence/minecraft-movie-2025.md",
+      "sha256": "c4939e19066146c4ee3b3dc6d0034a3a86fb1ad300ff6fb69ebb103684c22c02",
+      "size": 746
+    },
+    "cumulative-aggregate-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.cumulative/minecraft-movie-2025-cumulative-aggregate.geojson.gz",
+      "sha256": "5166044cf62346688c8c66e863f5b57614d06012673340b61fcc6d8bb1d63490",
+      "size": 1475759
+    },
+    "cumulative-btiha-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.cumulative/minecraft-movie-2025-cumulative-btiha.geojson.gz",
+      "sha256": "87a613e3fbd1adf79271e70008568b76a2c10c8a0ab9f7cb80caaece42cdbad6",
+      "size": 68700053
+    },
+    "cumulative-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/minecraft-movie-2025-cumulative.json",
+      "sha256": "7910f090b72107071b5a0b8ccf7a00f1329fd48a7f996ded30d80e85ad7595d4",
+      "size": 15747
+    },
+    "day-bundle-receipt": {
+      "path": "/tmp/year-2025-day-bundles/minecraft-movie-2025/receipt.json",
+      "sha256": "0494672523c247ac4e6d8350ee92987d1179cdea006765206f9104b6fc2bc077",
+      "size": 72484
+    },
+    "ip-swarm-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/minecraft-movie-2025-cumulative-ip-swarm.json",
+      "sha256": "875b7dddff3fe4c53f6a45a44c774154a6d016b9830a8730a747bd25a5c4dce4",
+      "size": 44252
+    },
+    "published-day-bundle-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-day-product-receipts/minecraft-movie-2025.json",
+      "sha256": "0494672523c247ac4e6d8350ee92987d1179cdea006765206f9104b6fc2bc077",
+      "size": 72484
+    },
+    "week-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/minecraft-movie-2025-week.json",
+      "sha256": "fd6343116201eb56769252a0b8539be8d92fecfe4251e48485c43280db7e1e00",
+      "size": 5624155
+    }
+  },
+  "media_object": "minecraft-movie-2025",
+  "published_files": {
+    "data/csv/bytes/minecraft-movie-2025-cumulative-detail.2025-btiha-itemized-by-bytes.csv": "813b8f6fc7116dc1e46f91cb01eb0b79c3b58c8e4191a0291b1e87bc78761faa",
+    "docs/itemized/figures/minecraft-movie-2025-carto-4k.webp": "230d9d4a69c459692d67ae99d2df182892a44fc5ff9a8854af2aaec35f54816f",
+    "docs/itemized/figures/minecraft-movie-2025-carto.png": "18aafa06a14eccd49afa544b64646c7af94025fe7834fe511e34ce1f89fb18b9",
+    "docs/itemized/figures/minecraft-movie-2025-cumulative-detail-btiha-itemized-by-bytes.svg": "18fec94afcfc9b69e11d2fcc11c0e998e89f2a26d8c7fc7540b9549717d52c7f",
+    "docs/itemized/figures/minecraft-movie-2025-data-ge-1080p-4k.webp": "5d266b033de971dadd5e8bb388d555b4bde03fb22b20ef76fc3c300e8885a9de",
+    "docs/itemized/figures/minecraft-movie-2025-data-ge-1080p.webp": "ab1cd90721a4a07f0453627905212ddcb6d2100195c78edaca8d8ee04d7bf3b3",
+    "docs/itemized/figures/minecraft-movie-2025-data-lt-1080p-4k.webp": "4937a3d5cbac092ee40e51f1bdf43aaa192cce711fa946e1bfe0efef0f1e2724",
+    "docs/itemized/figures/minecraft-movie-2025-data-lt-1080p.webp": "ff1e67a7a6e90632c937d1dad90b5a6e689cdbe3d4049fdbcbbdf5d6d3d54acd",
+    "docs/itemized/figures/minecraft-movie-2025-downloads-by-day-day.svg": "af4c6a9b392740540f0737d7e452fa1757e4a93823525143f7e854923fde5276",
+    "docs/itemized/figures/minecraft-movie-2025-downloads-by-week-minecraft-movie-2025-week.svg": "113aaa7493b337be9116ae562ee373aeb525d254f8c17696bf7b57fd95894566",
+    "docs/itemized/minecraft-movie-2025-sample-cache-audit.md": "e9ab38790db7f775a06f2cbc5474325de430e28682f7a798542a9ce94f444934",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-year-2025-render",
+      "revision": "c520555c40beece2e38f62878e2d4cc1b312c505",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "c192c54f882171dafc74c038ec769f1e68bf8020d12a342d2334086b5b5ee5ea",
+      "size": 36998168
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.cumulative/minecraft-movie-2025-cumulative-btiha.geojson.gz",
+        "sha256": "87a613e3fbd1adf79271e70008568b76a2c10c8a0ab9f7cb80caaece42cdbad6",
+        "size": 68700053
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/json/minecraft-movie-2025-cumulative-btiha-media-objects.json",
+        "sha256": "9240b678994a4975702c414e8a33167a093abf46593c1c4a94d170bd0bf27505",
+        "size": 1173096
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/izzi",
+      "revision": "b988ee7fd690a74a696c27c9aadf40c204a4c780",
+      "untracked": false
+    },
+    "media_object": "minecraft-movie-2025",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60-results-2025/bin/a60-meta-collection.exe",
+      "sha256": "e71f9def936a6868d5282a5ff7dece07ade360eefa07abebde75434a927220f7",
+      "size": 8743680
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          74.0,
+          44.0,
+          43.0,
+          34.0,
+          30.0,
+          29.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Seoul",
+          "Moscow",
+          "Saint Petersburg",
+          "Istanbul",
+          "London",
+          "Shanghai",
+          "Nanjing",
+          "Amsterdam",
+          "Hangzhou",
+          "Incheon"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          89.0,
+          52.0,
+          45.0,
+          33.0,
+          31.0,
+          29.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Seoul",
+          "Moscow",
+          "Saint Petersburg",
+          "Istanbul",
+          "London",
+          "Shanghai",
+          "Nanjing",
+          "Budapest",
+          "Amsterdam",
+          "Incheon"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 21,
+        "y_tick_labels": 20
+      },
+      "histogram": {
+        "bars": 45,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 27,
+        "y_tick_labels": 20
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "c520555c40beece2e38f62878e2d4cc1b312c505",
+    "cartofreako": "fc58111b5bfa7667b12f6ade522ae5e566b464d1",
+    "izzi": "b988ee7fd690a74a696c27c9aadf40c204a4c780",
+    "metadata": "fbeb53a0b523f937fae2f23d14689d8c5c84dd5a",
+    "results_aao_adoption": "9cd9d91a6fbb560ac2a96beadf4c83b94daf6a88"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2025"
+}
