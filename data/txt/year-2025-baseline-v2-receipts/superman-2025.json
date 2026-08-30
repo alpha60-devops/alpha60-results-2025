@@ -1,0 +1,253 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt5950044",
+    "imdb_id": "tt5950044",
+    "revision": "fbeb53a0b523f937fae2f23d14689d8c5c84dd5a",
+    "wikidata_id": "Q116547790",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Superman_(2025_film)"
+  },
+  "coverage_sha256": "18257991d928b2232883f8dfa953684b800d3f639dce5d8e0834e1622bc70be1",
+  "generated_at": "2026-08-30T16:49:32.363420+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "aao-checksum-manifest": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/SHA256SUMS",
+      "sha256": "4a4818facd85b709f0321b0a6de31b4a3eff6f108f3b9354c75632926e6baa48",
+      "size": 266728
+    },
+    "aao-release": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/release.json",
+      "sha256": "3ce0984da2d12b0e3697e76c02608bd9d1a955ee3d00e0a7054bdd297b8f18c8",
+      "size": 1342
+    },
+    "aao-verification": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-aao-verification.json",
+      "sha256": "e01294ebce8e54b65e16ab83017fa5585efe6f7a0a0f1a5e0f734e08d8e223fd",
+      "size": 854
+    },
+    "archive-map": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-cache-archive-map.json",
+      "sha256": "8d4d506f23cd80f46baf010bd17509c916083e75eb8b43b052641138c3f308f1",
+      "size": 125170
+    },
+    "btiha-metadata-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/superman-2025-cumulative-btiha-media-objects.json",
+      "sha256": "743066fd295f6ec5e409271e135089d382dd62d54ee90ee71305c7e375abb5c9",
+      "size": 397736
+    },
+    "canonical-metadata": {
+      "path": "/tmp/alpha60-swarm-metadata-2025/metadata/superman-2025.json",
+      "sha256": "cd13f0a799a3f2795f13e1022f15ba1e1debeb872996195fcc30056a591e2f2b",
+      "size": 9108
+    },
+    "coverage-report": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-coverage-evidence/superman-2025.md",
+      "sha256": "89e52916ec114c06f4663ad2cadf284fc71ad56a0b4dc4429287aad361df53bb",
+      "size": 739
+    },
+    "cumulative-aggregate-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.cumulative/superman-2025-cumulative-aggregate.geojson.gz",
+      "sha256": "d9515bc364db5fb3d559055ab2877bf4b0e1a795e3d525d51d1c7ab123ef82bb",
+      "size": 1260131
+    },
+    "cumulative-btiha-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.cumulative/superman-2025-cumulative-btiha.geojson.gz",
+      "sha256": "544af299299b61d3f748aff29e6cc8284a7791636c9ea8344e78fb20837aef19",
+      "size": 24136718
+    },
+    "cumulative-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/superman-2025-cumulative.json",
+      "sha256": "0bd5fc9fd8c0e92f653dc92f9be4f05c0327c43365460a6b241e2ea612381330",
+      "size": 15707
+    },
+    "day-bundle-receipt": {
+      "path": "/tmp/year-2025-day-bundles/superman-2025/receipt.json",
+      "sha256": "34ff61d84ad580556d326db04d682f99f2082f5281be30063912b8610edc1bee",
+      "size": 40869
+    },
+    "ip-swarm-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/superman-2025-cumulative-ip-swarm.json",
+      "sha256": "48e44fc3048c3b55197e153366417520be3406f3c4e1ae9cea7c13d526d74949",
+      "size": 43064
+    },
+    "published-day-bundle-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-day-product-receipts/superman-2025.json",
+      "sha256": "34ff61d84ad580556d326db04d682f99f2082f5281be30063912b8610edc1bee",
+      "size": 40869
+    },
+    "week-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/superman-2025-week.json",
+      "sha256": "ec13b28a0b2f4456f4816d1139cd4d215091fdc7508a58eac20a90d65b7477b2",
+      "size": 1302659
+    }
+  },
+  "media_object": "superman-2025",
+  "published_files": {
+    "data/csv/bytes/superman-2025-cumulative-detail.2025-btiha-itemized-by-bytes.csv": "a4772f8077541caa515fe5a9f04e10c13aca0419bcef68809af5b6635ba73c27",
+    "docs/itemized/figures/superman-2025-carto-4k.webp": "6a828de6fe60a9cf7536c3fc4bdb31921930603bec8b778995ad161a972effce",
+    "docs/itemized/figures/superman-2025-carto.png": "7538c717bdbfedb391e43dc49d84823d042a417a1f64a41bb07db818a131a174",
+    "docs/itemized/figures/superman-2025-cumulative-detail-btiha-itemized-by-bytes.svg": "657df090c2a2bd5424ea821994f4adedb0d58fcb452237a90e88fa9bcddc0475",
+    "docs/itemized/figures/superman-2025-data-ge-1080p-4k.webp": "fcf5181e1a64e1d95150e537e32ce2b6170d1afd0cdb085f99c8214de3d9deef",
+    "docs/itemized/figures/superman-2025-data-ge-1080p.webp": "9f5389d57c265cb44ee17c61d8ea826286c525c9a4faa94b88386d2a957be006",
+    "docs/itemized/figures/superman-2025-data-lt-1080p-4k.webp": "3920828162ad2a6b6517daede7dca3891984e24ee3483651ebb80f260a7476ef",
+    "docs/itemized/figures/superman-2025-data-lt-1080p.webp": "1ef1d604ae5701afb02a415ad136cd4de234b6096b9523b5a03c9c7145b50beb",
+    "docs/itemized/figures/superman-2025-downloads-by-day-day.svg": "9caf78df93b63edf62b5475b88a4d31108f508d9ac5f09bce3eb62893416d517",
+    "docs/itemized/figures/superman-2025-downloads-by-week-superman-2025-week.svg": "0660812dafb6b7b4528547abca68f34286a329b6b44246581dc910239a5b8c72",
+    "docs/itemized/superman-2025-sample-cache-audit.md": "a5ca82e2f573fa11876f9888d693745463f79b1f75ff73cac3a507547928f11b",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-year-2025-render",
+      "revision": "c520555c40beece2e38f62878e2d4cc1b312c505",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "c192c54f882171dafc74c038ec769f1e68bf8020d12a342d2334086b5b5ee5ea",
+      "size": 36998168
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.cumulative/superman-2025-cumulative-btiha.geojson.gz",
+        "sha256": "544af299299b61d3f748aff29e6cc8284a7791636c9ea8344e78fb20837aef19",
+        "size": 24136718
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/json/superman-2025-cumulative-btiha-media-objects.json",
+        "sha256": "743066fd295f6ec5e409271e135089d382dd62d54ee90ee71305c7e375abb5c9",
+        "size": 397736
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/izzi",
+      "revision": "b988ee7fd690a74a696c27c9aadf40c204a4c780",
+      "untracked": false
+    },
+    "media_object": "superman-2025",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60-results-2025/bin/a60-meta-collection.exe",
+      "sha256": "e71f9def936a6868d5282a5ff7dece07ade360eefa07abebde75434a927220f7",
+      "size": 8743680
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          70.0,
+          54.0,
+          50.0,
+          41.0,
+          32.0,
+          32.0,
+          32.0,
+          27.0,
+          27.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Seoul",
+          "Moscow",
+          "Istanbul",
+          "London",
+          "Saint Petersburg",
+          "Shanghai",
+          "Amsterdam",
+          "Nanjing",
+          "Hangzhou",
+          "Lelystad"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          82.0,
+          53.0,
+          47.0,
+          36.0,
+          32.0,
+          31.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Seoul",
+          "Moscow",
+          "Istanbul",
+          "Saint Petersburg",
+          "London",
+          "Shanghai",
+          "Nanjing",
+          "Hangzhou",
+          "Amsterdam",
+          "Budapest"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 22,
+        "y_tick_labels": 20
+      },
+      "histogram": {
+        "bars": 42,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 16,
+        "y_tick_labels": 20
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "c520555c40beece2e38f62878e2d4cc1b312c505",
+    "cartofreako": "fc58111b5bfa7667b12f6ade522ae5e566b464d1",
+    "izzi": "b988ee7fd690a74a696c27c9aadf40c204a4c780",
+    "metadata": "fbeb53a0b523f937fae2f23d14689d8c5c84dd5a",
+    "results_aao_adoption": "9cd9d91a6fbb560ac2a96beadf4c83b94daf6a88"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2025"
+}
