@@ -1,0 +1,1719 @@
+{
+  "archive": {
+    "path": "/home/bkoz/src/alpha60-xperiments/year-2025-archives/andor-210.cache/cache.20251112.tar.xz",
+    "sha256": "4e31f200b388e1ff4403e1cc76aedd5ce047e0b9dc87443d6b53394731e784ac",
+    "size": 4136242832
+  },
+  "authorization": {
+    "archive_mutated": false,
+    "excluded_member_classes": [
+      "hour",
+      "week",
+      "cumulative"
+    ],
+    "raw_samples_opened": false,
+    "scope": "read only streaming of per-torrent day records"
+  },
+  "collection_key": "andor-210",
+  "day_cache_stream_contract": {
+    "authorization": {
+      "archive_mutated": false,
+      "excluded_member_classes": [
+        "hour",
+        "week",
+        "cumulative"
+      ],
+      "raw_samples_opened": false,
+      "scope": "read only streaming of per-torrent day records"
+    },
+    "available_day_products": 181,
+    "cache_members": 89826,
+    "collection_key": "andor-210",
+    "first_date": "2025-05-14",
+    "first_index": 1,
+    "indices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144,
+      145,
+      146,
+      147,
+      148,
+      149,
+      150,
+      151,
+      152,
+      153,
+      154,
+      155,
+      156,
+      157,
+      158,
+      159,
+      160,
+      161,
+      162,
+      163,
+      164,
+      165,
+      166,
+      167,
+      168,
+      169,
+      170,
+      171,
+      172,
+      173,
+      174,
+      175,
+      176,
+      177,
+      178,
+      179,
+      180,
+      181,
+      182,
+      183
+    ],
+    "last_date": "2025-11-12",
+    "last_index": 183,
+    "missing_indices": [
+      62,
+      63
+    ],
+    "sample_span_days": 183,
+    "schema": "alpha60-day-cache-stream-contract/1",
+    "sparse": true,
+    "status": "pass"
+  },
+  "day_product_contract": {
+    "collection_key": "andor-210",
+    "day_products": 181,
+    "first_date": "2025-05-14",
+    "first_index": 1,
+    "geojson_data_version": "20260701",
+    "ip_geolocation_version": "6:1777968300",
+    "json_data_version": "2026-08-05",
+    "last_date": "2025-11-12",
+    "last_index": 183,
+    "schema": "alpha60-day-product-contract/1",
+    "sparse": true,
+    "status": "pass"
+  },
+  "publications": {
+    "data/geojson.day/andor-210-day-00001.geojson.gz": {
+      "sha256": "a67d7e1e5f13af69f3c79212eeeb4eb9fcab971ccf0231a7eb3f1ecd837173a7",
+      "size": 315032
+    },
+    "data/geojson.day/andor-210-day-00002.geojson.gz": {
+      "sha256": "588d0e9670b22526d5d8361240e61873427182af83c9e558b8d2c12ab9de0836",
+      "size": 319307
+    },
+    "data/geojson.day/andor-210-day-00003.geojson.gz": {
+      "sha256": "57570db62752943670f5e4d69a7b229addebc2f41874a425eedab19361fa3135",
+      "size": 296542
+    },
+    "data/geojson.day/andor-210-day-00004.geojson.gz": {
+      "sha256": "1f76bb43b3e34ff28d86b2da64c003f2d9d5ad4bf2033e0dc693793d9f408a0b",
+      "size": 285101
+    },
+    "data/geojson.day/andor-210-day-00005.geojson.gz": {
+      "sha256": "71177a0879618c4cecbf247d27c365317fcc441cbeb7f6b538f6c6d9b8c45a36",
+      "size": 300098
+    },
+    "data/geojson.day/andor-210-day-00006.geojson.gz": {
+      "sha256": "38d0da0cedf7c86631768cd80b286458718619e3a831043d091bd06f6534464a",
+      "size": 299367
+    },
+    "data/geojson.day/andor-210-day-00007.geojson.gz": {
+      "sha256": "828c65dd62e42ded2f6fea194cb5ffc38f968d8328324d8b2bbd954a17f6570c",
+      "size": 312520
+    },
+    "data/geojson.day/andor-210-day-00008.geojson.gz": {
+      "sha256": "c0038abb23e6d1c778a6ad4bf4ec3a9684bfbb1bcf80692df6203f317dcccf86",
+      "size": 314879
+    },
+    "data/geojson.day/andor-210-day-00009.geojson.gz": {
+      "sha256": "3d35c0ee197a173aedb16f67056f7ff73b66911477f9f325fdcaaffb5d3c3d68",
+      "size": 330108
+    },
+    "data/geojson.day/andor-210-day-00010.geojson.gz": {
+      "sha256": "28d2e1e4dc4f54afb0fd0e82a29e7372cd6878e0743f0e7a3a55ec43f2154bec",
+      "size": 329890
+    },
+    "data/geojson.day/andor-210-day-00011.geojson.gz": {
+      "sha256": "7d19826718e2b97606ab42d7cbb3a0cb99ad159b559418f4abe499fec3671c0e",
+      "size": 326157
+    },
+    "data/geojson.day/andor-210-day-00012.geojson.gz": {
+      "sha256": "61f8e197f196a7aa5e4c8e1fbc24347f0c9e03c46d04c27405a28e7b8857937f",
+      "size": 323193
+    },
+    "data/geojson.day/andor-210-day-00013.geojson.gz": {
+      "sha256": "63cc6b5872b55e412ff12c6e7e00036b548ee6e7c0480612cc20c39849912417",
+      "size": 337234
+    },
+    "data/geojson.day/andor-210-day-00014.geojson.gz": {
+      "sha256": "6d68ff6112b08aafbe85a236adf8b530518792ad28178fdf63ab8da57b060dd9",
+      "size": 332890
+    },
+    "data/geojson.day/andor-210-day-00015.geojson.gz": {
+      "sha256": "bfadec0c4393937b503dacb3052aa8f87bf349d2ec163f42f8cb3d2f53e93340",
+      "size": 328134
+    },
+    "data/geojson.day/andor-210-day-00016.geojson.gz": {
+      "sha256": "3bbefd8009396c03c98f0afb4a43a54c5752239012458aded969f6b98fbf29dc",
+      "size": 315947
+    },
+    "data/geojson.day/andor-210-day-00017.geojson.gz": {
+      "sha256": "3ddfcfb56887e4316f9aed3f799f15145a50735703a83a31858036edaf095b1a",
+      "size": 303337
+    },
+    "data/geojson.day/andor-210-day-00018.geojson.gz": {
+      "sha256": "b90fdb943c937eb31c8d4cabc82396572aeb3517da5167803c56289270c1cebc",
+      "size": 309001
+    },
+    "data/geojson.day/andor-210-day-00019.geojson.gz": {
+      "sha256": "cced057e9b1b0814e284df7f3dc8b4da3411672f6566679161b4e7b3113ee6db",
+      "size": 324342
+    },
+    "data/geojson.day/andor-210-day-00020.geojson.gz": {
+      "sha256": "55350dc50345c531ee2cad5426db3d5cae8da8a5cb4ec7d9778ca0f2e4550497",
+      "size": 346879
+    },
+    "data/geojson.day/andor-210-day-00021.geojson.gz": {
+      "sha256": "7ba458ef32b7a25234a8bbff0739dbaa4ce2ae28ed33da2ea20c173fd515c758",
+      "size": 337094
+    },
+    "data/geojson.day/andor-210-day-00022.geojson.gz": {
+      "sha256": "fb4f294f8ae0f66cd7957b61e14ef8aca1e1d9d5a002a00122a8aeba6e8b7879",
+      "size": 330026
+    },
+    "data/geojson.day/andor-210-day-00023.geojson.gz": {
+      "sha256": "569b7f36e8037b9c095bb998ab386057d5f7b274a6196c2b09daa97c80e120dd",
+      "size": 342889
+    },
+    "data/geojson.day/andor-210-day-00024.geojson.gz": {
+      "sha256": "1c5eab350e5e6abb8356efef433bb9fd416c15f7fbeb1f5e01bb11b237f514d4",
+      "size": 331225
+    },
+    "data/geojson.day/andor-210-day-00025.geojson.gz": {
+      "sha256": "1fb3b480409a7ecf1485259390b4d90eae1310769ce563c241635c5e7f06580c",
+      "size": 324467
+    },
+    "data/geojson.day/andor-210-day-00026.geojson.gz": {
+      "sha256": "5de77e95a3a611a75195f4ef17d89b118fe0689d9c8c8a20dc870c6a252816c8",
+      "size": 318275
+    },
+    "data/geojson.day/andor-210-day-00027.geojson.gz": {
+      "sha256": "bc9e9d16ea7d62d287ca756afda2ff2e6876e94be0df81e63a6b7f8548ff2957",
+      "size": 334077
+    },
+    "data/geojson.day/andor-210-day-00028.geojson.gz": {
+      "sha256": "7290fd9a38ec430527e51d882835b966f0a6c0055435586a8f642600540d29c1",
+      "size": 329969
+    },
+    "data/geojson.day/andor-210-day-00029.geojson.gz": {
+      "sha256": "fe74dca5a1e628c1cd79fe851c6239993be465dc4c406f0a95548e63483bc309",
+      "size": 330860
+    },
+    "data/geojson.day/andor-210-day-00030.geojson.gz": {
+      "sha256": "60f898aa6396a35c88d1425a781cbb2a8f2a1b80d489b6ee4a156c443fb4ba45",
+      "size": 307013
+    },
+    "data/geojson.day/andor-210-day-00031.geojson.gz": {
+      "sha256": "b9116fff68b5913ea66bb10f6c7febadf8b5064a9e488c30611f33b0f709755a",
+      "size": 284874
+    },
+    "data/geojson.day/andor-210-day-00032.geojson.gz": {
+      "sha256": "e83520d93220a15a6a01292477eb35361574a02ddb14073171171667b176d0dd",
+      "size": 287682
+    },
+    "data/geojson.day/andor-210-day-00033.geojson.gz": {
+      "sha256": "3093719fb23c6de830f29d76576f84ba2a346d76be9133c0661421fcfe503703",
+      "size": 292342
+    },
+    "data/geojson.day/andor-210-day-00034.geojson.gz": {
+      "sha256": "3b6d791f16319720026300e1d8277b4caed7a27fdbd5a6700b6403450cb1c437",
+      "size": 316306
+    },
+    "data/geojson.day/andor-210-day-00035.geojson.gz": {
+      "sha256": "c8bd3a3f86b0dd1965532614b887597988c9e257b78fad7f6ce708f27d54fdad",
+      "size": 317467
+    },
+    "data/geojson.day/andor-210-day-00036.geojson.gz": {
+      "sha256": "8e142787f26baf107578ca69114e28c0476af33a063e2a44eb6a1f94b42eb99c",
+      "size": 294946
+    },
+    "data/geojson.day/andor-210-day-00037.geojson.gz": {
+      "sha256": "4676f4a0df57e3fbd908b38f53b7d3dc29287bc1b7fc3b41684433cf270bbe50",
+      "size": 302191
+    },
+    "data/geojson.day/andor-210-day-00038.geojson.gz": {
+      "sha256": "a715bf7404e7e2ebe93b33aa71fd708affa2aced2f82d74cf1c399e852ae288e",
+      "size": 307541
+    },
+    "data/geojson.day/andor-210-day-00039.geojson.gz": {
+      "sha256": "03137f89effd04c0ccad249ccbda4d86f9041e408e97e184207269b260e76a3a",
+      "size": 293568
+    },
+    "data/geojson.day/andor-210-day-00040.geojson.gz": {
+      "sha256": "4b4dd27152dc0cbcd7d1c6509a4c479abcfeeaa06679ea1764303791ba1b19a9",
+      "size": 293870
+    },
+    "data/geojson.day/andor-210-day-00041.geojson.gz": {
+      "sha256": "f624e57b389112cea4fc0340d8cce75cf1436e465dca5383b7315e03b6aad819",
+      "size": 317663
+    },
+    "data/geojson.day/andor-210-day-00042.geojson.gz": {
+      "sha256": "cb37cc5317b8ef73c640009fd3415cb604904798a4ddd8adf92fd7b064700cc8",
+      "size": 307458
+    },
+    "data/geojson.day/andor-210-day-00043.geojson.gz": {
+      "sha256": "56b2e721d557f7a219111698fa38309110deca4afd28a880304667f52cd0c219",
+      "size": 314841
+    },
+    "data/geojson.day/andor-210-day-00044.geojson.gz": {
+      "sha256": "3a603110c8e248e9cec757d8050ecffc7dfecba88fcf1fae728f121a0ce17a19",
+      "size": 299464
+    },
+    "data/geojson.day/andor-210-day-00045.geojson.gz": {
+      "sha256": "1610d1bd6a66dc26c3e7a810397edade7a58515a63c5bdea8e17bc02edfeadfd",
+      "size": 319539
+    },
+    "data/geojson.day/andor-210-day-00046.geojson.gz": {
+      "sha256": "1c0a299ab2b884ac77275d3ba72674a937018dbd575a8984857479e3d2809e54",
+      "size": 308479
+    },
+    "data/geojson.day/andor-210-day-00047.geojson.gz": {
+      "sha256": "cf7c4308ec719f72fe01f7aa18e5106f47c4a59dec15e4da9736ef51eaef8f2a",
+      "size": 291833
+    },
+    "data/geojson.day/andor-210-day-00048.geojson.gz": {
+      "sha256": "983cd2233111e65114eeb5959c0d14f4e8abaae64640abf98b9817fe1422be35",
+      "size": 315533
+    },
+    "data/geojson.day/andor-210-day-00049.geojson.gz": {
+      "sha256": "9f38001b7c25963e6186a7192cc894a5431b7ee7ab3c20ecaa0f51fd2e8153a4",
+      "size": 309172
+    },
+    "data/geojson.day/andor-210-day-00050.geojson.gz": {
+      "sha256": "8819a5601caf636e4d473db3e6c13ba8c020073532ed1fa8805e0656f8bffb6d",
+      "size": 285473
+    },
+    "data/geojson.day/andor-210-day-00051.geojson.gz": {
+      "sha256": "0bcf171a32a848d6f1eb7f20c3a8bf6de1ce40ccf1f3fc072e0f79cc069831a0",
+      "size": 301613
+    },
+    "data/geojson.day/andor-210-day-00052.geojson.gz": {
+      "sha256": "0f0b684059810c37b0ddfcfad5c4a66af9d0ca06010cc26906f9f7492ee1a02d",
+      "size": 334280
+    },
+    "data/geojson.day/andor-210-day-00053.geojson.gz": {
+      "sha256": "192df552d8ecff445dd30a2485a0ecdf8909cf05e3c2dc576b23fab06ccad3c1",
+      "size": 291727
+    },
+    "data/geojson.day/andor-210-day-00054.geojson.gz": {
+      "sha256": "615ee6a7fef9d2f3058f0a7c01aa731eb34b93ec0cef76003090d9ae269df6f0",
+      "size": 293725
+    },
+    "data/geojson.day/andor-210-day-00055.geojson.gz": {
+      "sha256": "bd1003ae7936ac81d81ede685300018e0cdec21490e781e90471b17413c72c2e",
+      "size": 305924
+    },
+    "data/geojson.day/andor-210-day-00056.geojson.gz": {
+      "sha256": "92b61e6cfb4b2f6db98139db3998c2f2c6c58c87d0793a686d8f2c4e49702a6c",
+      "size": 303770
+    },
+    "data/geojson.day/andor-210-day-00057.geojson.gz": {
+      "sha256": "7f507fe4f131071bde6daf30fc4cdd130523c1351d3767de9e95f8af50bb1ecc",
+      "size": 292946
+    },
+    "data/geojson.day/andor-210-day-00058.geojson.gz": {
+      "sha256": "c657cd73a369734fb2d0c265b0ad96dc9cfe622a1d0d62cb0b195804e58693b7",
+      "size": 311407
+    },
+    "data/geojson.day/andor-210-day-00059.geojson.gz": {
+      "sha256": "7e8845eb590811fe44271fd5f7c52623dcbfbb84455d7a3afa9b3ddb93afee5d",
+      "size": 300109
+    },
+    "data/geojson.day/andor-210-day-00060.geojson.gz": {
+      "sha256": "97d79e578336dcc2ca38a24f87d7419a906d66ce09125f04fc081129c9c8518c",
+      "size": 299448
+    },
+    "data/geojson.day/andor-210-day-00061.geojson.gz": {
+      "sha256": "6586e23d03094364f96b26cb96c10875caaf704bff73d42537fc5d9e9d825724",
+      "size": 292339
+    },
+    "data/geojson.day/andor-210-day-00064.geojson.gz": {
+      "sha256": "58f36984bd0275110d3dfcb30a5cbca70442a4b776c73c8537418e385102a8e6",
+      "size": 268785
+    },
+    "data/geojson.day/andor-210-day-00065.geojson.gz": {
+      "sha256": "0ad4d1b5bf0196f399f208aa203673050c8a059bd2089e5f89d1229a0781a4f5",
+      "size": 268989
+    },
+    "data/geojson.day/andor-210-day-00066.geojson.gz": {
+      "sha256": "59b18bf7140c33719505101423a25b9ad029d2d46c0a31a7f8bc43ddb7b36859",
+      "size": 282689
+    },
+    "data/geojson.day/andor-210-day-00067.geojson.gz": {
+      "sha256": "96fb209cb7fd725e80a30b3fe70b115732060a62f6ee9d755a951cd621059853",
+      "size": 247923
+    },
+    "data/geojson.day/andor-210-day-00068.geojson.gz": {
+      "sha256": "30f6860d9097220ce9459a5cb4c1bb63688068308769c4805a5a6887ec39a3a5",
+      "size": 261693
+    },
+    "data/geojson.day/andor-210-day-00069.geojson.gz": {
+      "sha256": "ac7d30e14a1571f6ac1ca972eed3a86fca606e1cb8682aad84a87702d35d9cb0",
+      "size": 304479
+    },
+    "data/geojson.day/andor-210-day-00070.geojson.gz": {
+      "sha256": "0a9318aba4751d0a845cdcb9e9c94a531531a57ee349a95f2ec2ca303cc137b6",
+      "size": 259444
+    },
+    "data/geojson.day/andor-210-day-00071.geojson.gz": {
+      "sha256": "e219316ea1a058d931648e86e0f32f469c1127cf3a1d0faeb593681d97149efa",
+      "size": 280063
+    },
+    "data/geojson.day/andor-210-day-00072.geojson.gz": {
+      "sha256": "588ad7c669abeddd8de996ed0604b1f1ccb258cf425d5d92821f19f6dd6517d5",
+      "size": 277873
+    },
+    "data/geojson.day/andor-210-day-00073.geojson.gz": {
+      "sha256": "c06b387b702eea95862370314d6fbbcc7db609ba428b533e684ba7184db0e9b6",
+      "size": 256127
+    },
+    "data/geojson.day/andor-210-day-00074.geojson.gz": {
+      "sha256": "2e8266c5b496aadeed0fbc0c3e1e69cab4850065ca9312dbac626377d942effe",
+      "size": 243116
+    },
+    "data/geojson.day/andor-210-day-00075.geojson.gz": {
+      "sha256": "93e1a240be0888d468c958e1e1617ee823fa133af49ad04aa8162972e9ea3596",
+      "size": 290111
+    },
+    "data/geojson.day/andor-210-day-00076.geojson.gz": {
+      "sha256": "ba9c03ac2d476c25fa4cd26e67671632736d12fb860c9eecc55c087d23dababe",
+      "size": 321592
+    },
+    "data/geojson.day/andor-210-day-00077.geojson.gz": {
+      "sha256": "68e3e6a522775318f9aec3d4e51bb759be20ef250a27725286cdb9f40849c5d9",
+      "size": 328579
+    },
+    "data/geojson.day/andor-210-day-00078.geojson.gz": {
+      "sha256": "34610d09bcd86a145902b1daf91d84e2e5ad6cad1513d2f2e418f56a61d1e66f",
+      "size": 338319
+    },
+    "data/geojson.day/andor-210-day-00079.geojson.gz": {
+      "sha256": "4dc461a470541300dc75b1d3f8d101962a6491b1520ee7a1156ba346a44fdc55",
+      "size": 320546
+    },
+    "data/geojson.day/andor-210-day-00080.geojson.gz": {
+      "sha256": "00771577ecbe797b7057c6f7171562fd2564624b48819c2a7614ea86274fa49b",
+      "size": 368586
+    },
+    "data/geojson.day/andor-210-day-00081.geojson.gz": {
+      "sha256": "bb338ffad2a7ebb12ac405c5157ecac4c1e95f66846fa699fbae43cb6d0042b2",
+      "size": 268721
+    },
+    "data/geojson.day/andor-210-day-00082.geojson.gz": {
+      "sha256": "4e394d5bfea4020cca067aa5c346f08b58d0d2d18bc98d4129b0561c6d1768f5",
+      "size": 311389
+    },
+    "data/geojson.day/andor-210-day-00083.geojson.gz": {
+      "sha256": "98f8d51a45635b36bdc2a175c412e823b2e728fcf879122871d03f0a97bcfd99",
+      "size": 293219
+    },
+    "data/geojson.day/andor-210-day-00084.geojson.gz": {
+      "sha256": "48f82d58fc7b53a13ef00ec2b4756310ff494f698403a824946d93c42607a282",
+      "size": 128295
+    },
+    "data/geojson.day/andor-210-day-00085.geojson.gz": {
+      "sha256": "98d9def6c6d7f6852114f7a5a20d43136640a84c381a02eb7469cdc99ac46e73",
+      "size": 291987
+    },
+    "data/geojson.day/andor-210-day-00086.geojson.gz": {
+      "sha256": "8558c7110622744115f77b1e532961fdcad5edb74c8a159469c7250cae1ca38e",
+      "size": 304762
+    },
+    "data/geojson.day/andor-210-day-00087.geojson.gz": {
+      "sha256": "25ab3655035d0d504a0e3487faeb1f54e92e7b38ea818109ea2343531845d85f",
+      "size": 301578
+    },
+    "data/geojson.day/andor-210-day-00088.geojson.gz": {
+      "sha256": "c7262b96bfd094a5a9ab65d569b8f214bd0a6be90bcebe8b2c9c6eaf95bcb3f8",
+      "size": 270299
+    },
+    "data/geojson.day/andor-210-day-00089.geojson.gz": {
+      "sha256": "c69a28c460409bbfae111fcb24953a1a6b2f6164bb325986789cbca22e3451ec",
+      "size": 281065
+    },
+    "data/geojson.day/andor-210-day-00090.geojson.gz": {
+      "sha256": "448af2f045f78025b55ef9acf1911d98a560d13afd6e1a6490e5dc231b4577cc",
+      "size": 302744
+    },
+    "data/geojson.day/andor-210-day-00091.geojson.gz": {
+      "sha256": "a1fa3bb50490d881f4ae07083450419a868a8b10097da9d3ada2e87d3a45884d",
+      "size": 291243
+    },
+    "data/geojson.day/andor-210-day-00092.geojson.gz": {
+      "sha256": "ceb50665b2c712711a7eb77523fc91d90e1747f9d229e722f303612e673326f7",
+      "size": 279659
+    },
+    "data/geojson.day/andor-210-day-00093.geojson.gz": {
+      "sha256": "75004090a276d54ef50e43398cfb14d782f9f436dc6d9f13d14878208f8245d2",
+      "size": 281453
+    },
+    "data/geojson.day/andor-210-day-00094.geojson.gz": {
+      "sha256": "75cfc47ccdad3006261167f286892b60ae6e39392e1459d2c2e701e107ab8f3a",
+      "size": 263702
+    },
+    "data/geojson.day/andor-210-day-00095.geojson.gz": {
+      "sha256": "54c37c5600b1bed1cca2338b018c94901f39f7061ce95f11f5b4f4edb862c65f",
+      "size": 258957
+    },
+    "data/geojson.day/andor-210-day-00096.geojson.gz": {
+      "sha256": "7d839c452fa01f8792b3568c43bbb197a21a5e07c20c2335546b535b53b82155",
+      "size": 260845
+    },
+    "data/geojson.day/andor-210-day-00097.geojson.gz": {
+      "sha256": "26b197b27016a8fa712233ead9b662d9dea8280242da531992658cdc71488877",
+      "size": 273996
+    },
+    "data/geojson.day/andor-210-day-00098.geojson.gz": {
+      "sha256": "98bc1d09f19dec9e00128e9de83e891d3c7454ee7ad5aea12cf634a6f5ccdca4",
+      "size": 269143
+    },
+    "data/geojson.day/andor-210-day-00099.geojson.gz": {
+      "sha256": "ba8c6f8b23941c457ba34a70b4f343eb2c10cb0e02f53cbe376aacfcd9d6b32b",
+      "size": 274629
+    },
+    "data/geojson.day/andor-210-day-00100.geojson.gz": {
+      "sha256": "00fe135dfc3d019a6c722d340678aa80161505f8a2e672f74bcda78ff70cc34e",
+      "size": 282907
+    },
+    "data/geojson.day/andor-210-day-00101.geojson.gz": {
+      "sha256": "4b3e900c8c7a44ede00bf748998ee35f1765908aa8be6a2c688cdf9299ab5f70",
+      "size": 275544
+    },
+    "data/geojson.day/andor-210-day-00102.geojson.gz": {
+      "sha256": "acf6de6da953a8a5f0e7efb82a6682deea0569082cd3a741f5fb4010295caf26",
+      "size": 274447
+    },
+    "data/geojson.day/andor-210-day-00103.geojson.gz": {
+      "sha256": "81ccd65a7883327bac451bf008bb550493cc30b7eaead3c82dadf5045e78ccf1",
+      "size": 264734
+    },
+    "data/geojson.day/andor-210-day-00104.geojson.gz": {
+      "sha256": "db5ca1134f54d5a1205c2780096b0552e377c246b82985e7cea58296c0839ee5",
+      "size": 285594
+    },
+    "data/geojson.day/andor-210-day-00105.geojson.gz": {
+      "sha256": "0c5e72bc66dd2d7d84e957c795f833f100de644869078bfce1da46492cc57176",
+      "size": 247188
+    },
+    "data/geojson.day/andor-210-day-00106.geojson.gz": {
+      "sha256": "4c9ea8b44b8c1c4c241248ae40be99f81b1e21c0e6379477599002d6746e119b",
+      "size": 188022
+    },
+    "data/geojson.day/andor-210-day-00107.geojson.gz": {
+      "sha256": "b70bb2ac8c2cbe5f52e7a69ebf4e3ed0bbe5a49b1dd420cff7c7b8cd3824d99f",
+      "size": 277543
+    },
+    "data/geojson.day/andor-210-day-00108.geojson.gz": {
+      "sha256": "19079a6c6cb8dc6c89629e5132ad5689893ee7f1377ff2758a78d3d89015e1c9",
+      "size": 318598
+    },
+    "data/geojson.day/andor-210-day-00109.geojson.gz": {
+      "sha256": "687f016ddb2544b539b6312f56c6ce4618df352bb2f72aaa566dbad29e6c9b4a",
+      "size": 326193
+    },
+    "data/geojson.day/andor-210-day-00110.geojson.gz": {
+      "sha256": "d9dd6869a1adc85c1fdd84b883d29c34b7605fa73d69d05d6c0b47b158214285",
+      "size": 304770
+    },
+    "data/geojson.day/andor-210-day-00111.geojson.gz": {
+      "sha256": "f77b81a4e8fa199ecd5b5b3c863ca943b93e1cdb1516bb27b2cc83bd4c85cb50",
+      "size": 298965
+    },
+    "data/geojson.day/andor-210-day-00112.geojson.gz": {
+      "sha256": "f000b200a66dc73a149208b0d4f38fdaf364e0c5ae3122224ba6a3ef1a73d527",
+      "size": 292417
+    },
+    "data/geojson.day/andor-210-day-00113.geojson.gz": {
+      "sha256": "e785404a33820a2ac855b0c768371ff24edc3b48b9d079c4d381b9a0280394b8",
+      "size": 272820
+    },
+    "data/geojson.day/andor-210-day-00114.geojson.gz": {
+      "sha256": "e9116b1b03b85f28cfcc41f34b30f084c27bf924881620b85319a435e3b69452",
+      "size": 284103
+    },
+    "data/geojson.day/andor-210-day-00115.geojson.gz": {
+      "sha256": "c7b939106b70a178ca6e9ff2f98c49953715cc9635f3edb8a443242a22a91a05",
+      "size": 276814
+    },
+    "data/geojson.day/andor-210-day-00116.geojson.gz": {
+      "sha256": "f98f39aa9640c4f22f5ee28b3b1a67dc0d222fbf1afa52b5941bf239d7805bc2",
+      "size": 261288
+    },
+    "data/geojson.day/andor-210-day-00117.geojson.gz": {
+      "sha256": "3a0ad339cd22c060515d7b4b7fb1f8793f6af340c2897d1bf5e5d331d30a299c",
+      "size": 267664
+    },
+    "data/geojson.day/andor-210-day-00118.geojson.gz": {
+      "sha256": "1cff77baa80d2eae2e7811e7a332186790b9c78e3e0c8ac2b9d9c5c3cb07ad55",
+      "size": 289764
+    },
+    "data/geojson.day/andor-210-day-00119.geojson.gz": {
+      "sha256": "894101a09114fa218c4694dfc287c3546f71b3b7fe05380b1ff9c9fd65b62dd8",
+      "size": 299457
+    },
+    "data/geojson.day/andor-210-day-00120.geojson.gz": {
+      "sha256": "74957024965555446cebb039af14c0702d5d0bcb9fe9b494060c0fc87427bc6d",
+      "size": 300229
+    },
+    "data/geojson.day/andor-210-day-00121.geojson.gz": {
+      "sha256": "ef5b356a6a140db89f3947bebc31291db763e7a8a4c463e6086a932b064ffb09",
+      "size": 274925
+    },
+    "data/geojson.day/andor-210-day-00122.geojson.gz": {
+      "sha256": "b34c09bcc8a6626ccde170f809e554b79dc17d72b29ca2287381ab170238e46f",
+      "size": 277002
+    },
+    "data/geojson.day/andor-210-day-00123.geojson.gz": {
+      "sha256": "a7bf889c82a55a16429d395bba4b7e2f66ac525337a47f72baebed86ce08aba2",
+      "size": 270313
+    },
+    "data/geojson.day/andor-210-day-00124.geojson.gz": {
+      "sha256": "0f47980fdb74b10b0949388af07d57acddda745371c2082bba749082403831cc",
+      "size": 247017
+    },
+    "data/geojson.day/andor-210-day-00125.geojson.gz": {
+      "sha256": "f688f30f52095991ca92030b6e4f1c406c73764b0eaea653fac9891b4947831d",
+      "size": 286008
+    },
+    "data/geojson.day/andor-210-day-00126.geojson.gz": {
+      "sha256": "f7543fa3936d42efccdd2ea5af83b7775abc6cfbbc849a800afc3e40942d183a",
+      "size": 274901
+    },
+    "data/geojson.day/andor-210-day-00127.geojson.gz": {
+      "sha256": "62d8f8c4cfe57518f1fb824ae132257b91eeea2ecd60d727503dc85bd0b71e77",
+      "size": 281556
+    },
+    "data/geojson.day/andor-210-day-00128.geojson.gz": {
+      "sha256": "b737dcbc144e5cf4071e8279757b4c7faaa7b3ee17272f56e67d701a122decdf",
+      "size": 289003
+    },
+    "data/geojson.day/andor-210-day-00129.geojson.gz": {
+      "sha256": "df7cdab1ff036444c9157ea96f6ebd96ea37d582a8f2626bd5dd62b8bd515884",
+      "size": 277984
+    },
+    "data/geojson.day/andor-210-day-00130.geojson.gz": {
+      "sha256": "81915b3f1a02ba161c62d380543f85c708c9077bf632dc697f012b91b04cfdb3",
+      "size": 275310
+    },
+    "data/geojson.day/andor-210-day-00131.geojson.gz": {
+      "sha256": "75d0164853751a465eb0b3ffd0f29b6c352474f3f2d0fad7c527b89e08a61eda",
+      "size": 295432
+    },
+    "data/geojson.day/andor-210-day-00132.geojson.gz": {
+      "sha256": "d79f5885a9d1a405e36f798234a4e70dc62503e18f42760c579d83eeb216029c",
+      "size": 297289
+    },
+    "data/geojson.day/andor-210-day-00133.geojson.gz": {
+      "sha256": "0e06c817a9cf348efb456b9016d66fe8cc791330e1590b9569faeaaf52276ecb",
+      "size": 309149
+    },
+    "data/geojson.day/andor-210-day-00134.geojson.gz": {
+      "sha256": "5565394f73b985c5897351f1e36cdebc8a7e2d21fcfacb9fd0bf399474115694",
+      "size": 313121
+    },
+    "data/geojson.day/andor-210-day-00135.geojson.gz": {
+      "sha256": "0438248423d91d070bdd2d1c62b605ab7a5fe87426a626c97b52ace6f8653e03",
+      "size": 304338
+    },
+    "data/geojson.day/andor-210-day-00136.geojson.gz": {
+      "sha256": "827eed1a94eae0af70873b6fe36b3df3fa3b47334b69cbcb799b04ba27b17d3a",
+      "size": 334534
+    },
+    "data/geojson.day/andor-210-day-00137.geojson.gz": {
+      "sha256": "bf4d622f2bdc2011b6e3678471732ba1416e5ddb0dbf45d1a7c339cdf63c2a23",
+      "size": 304993
+    },
+    "data/geojson.day/andor-210-day-00138.geojson.gz": {
+      "sha256": "380046d9412ceec90e4e8fbd26a06ee5f9bfa815bdb22c46724eeb89b8046d49",
+      "size": 262545
+    },
+    "data/geojson.day/andor-210-day-00139.geojson.gz": {
+      "sha256": "b04dbc339057ccdb76e6a3d6093cd1252c351aa27488038cef2da35b9b4a967c",
+      "size": 326409
+    },
+    "data/geojson.day/andor-210-day-00140.geojson.gz": {
+      "sha256": "ebf65ad79c9a16ad3cb54a9408f6b7f831873d85564335d36737d8708071de8a",
+      "size": 322234
+    },
+    "data/geojson.day/andor-210-day-00141.geojson.gz": {
+      "sha256": "163ef686b8615c00e61d526bcaa21e26b50861ac704fe7a2f65e87509c8bf977",
+      "size": 301316
+    },
+    "data/geojson.day/andor-210-day-00142.geojson.gz": {
+      "sha256": "7a76159f2c854d00396d171a90069601c5af432473d91de1a64445cd2d02435c",
+      "size": 302879
+    },
+    "data/geojson.day/andor-210-day-00143.geojson.gz": {
+      "sha256": "98d3b8b6ae8db5d7b03e201be4440ef748981456c7a015f1f6fc7830bcc3e100",
+      "size": 306544
+    },
+    "data/geojson.day/andor-210-day-00144.geojson.gz": {
+      "sha256": "8936a95d9cbae3d30ecfe0069965e247286348ae145fb68df059e5b2434d23f4",
+      "size": 294378
+    },
+    "data/geojson.day/andor-210-day-00145.geojson.gz": {
+      "sha256": "fd1d6cda9286b204c64b51d66bcefcd3e7775587c60cfae98f05fdd08f154d2b",
+      "size": 298443
+    },
+    "data/geojson.day/andor-210-day-00146.geojson.gz": {
+      "sha256": "6d7e89df3859e37e08cd86f41a103494752d0a04a4d0a55f15b49aef272b5420",
+      "size": 315511
+    },
+    "data/geojson.day/andor-210-day-00147.geojson.gz": {
+      "sha256": "da021544afa12f4010f7bcb1ee00e742ccb936ad60e1957cd3f3793d0a88cb3a",
+      "size": 294506
+    },
+    "data/geojson.day/andor-210-day-00148.geojson.gz": {
+      "sha256": "793fe4caec4f25c8f4faf4029826b4f4ad6bfd03720b4c84cedcff70dfd9b60d",
+      "size": 316450
+    },
+    "data/geojson.day/andor-210-day-00149.geojson.gz": {
+      "sha256": "1c1772125692e54f8970aa84658403e693c9c0462d5b31bab21163a202c9d067",
+      "size": 335919
+    },
+    "data/geojson.day/andor-210-day-00150.geojson.gz": {
+      "sha256": "813d68035fe51503f467c373a0247ab3eac6eb9e3782232b3813da070d37a72a",
+      "size": 327598
+    },
+    "data/geojson.day/andor-210-day-00151.geojson.gz": {
+      "sha256": "b0849eafb28310ea1edfa22259a606eafe9b83f5a730ffb9368335e05460afff",
+      "size": 321989
+    },
+    "data/geojson.day/andor-210-day-00152.geojson.gz": {
+      "sha256": "c963504377cc9edeb20b54813911a0e29d0a1cee77493940d2baebf9e95a53fb",
+      "size": 319802
+    },
+    "data/geojson.day/andor-210-day-00153.geojson.gz": {
+      "sha256": "4bec40b476a568a55a1772885020cfbb3e6180ea0761fa1a1560689129299a60",
+      "size": 327444
+    },
+    "data/geojson.day/andor-210-day-00154.geojson.gz": {
+      "sha256": "f6692f7cf5a9276e69b27d230b09f11a966f32e0d0cb82c23414d0a296da5dad",
+      "size": 308989
+    },
+    "data/geojson.day/andor-210-day-00155.geojson.gz": {
+      "sha256": "14fce4f8c83bfc4cce6635f7aea30f23050d3e73312d72c79665b79ddbdd4e71",
+      "size": 315299
+    },
+    "data/geojson.day/andor-210-day-00156.geojson.gz": {
+      "sha256": "687a648d34955fc18bf1e21ca35164732f6a81271ed323a76b2a84ebd566a497",
+      "size": 310572
+    },
+    "data/geojson.day/andor-210-day-00157.geojson.gz": {
+      "sha256": "9cdbd04cd58092f5b4cd3d49799743112e8e2779a46771db064bb2a9d77dcc1a",
+      "size": 311525
+    },
+    "data/geojson.day/andor-210-day-00158.geojson.gz": {
+      "sha256": "57abfa47cfa5abf5814ad9e529c4116b866eb9e7dde87495fc61cf19d374aca6",
+      "size": 321000
+    },
+    "data/geojson.day/andor-210-day-00159.geojson.gz": {
+      "sha256": "9a5fbee934acb9a4ac05b8da87399695da42d4463b8631967f2128214ab2db11",
+      "size": 327849
+    },
+    "data/geojson.day/andor-210-day-00160.geojson.gz": {
+      "sha256": "5b2d28ca0f89e98245033f23e2d71190a2b6a1631ca08a8413b77647fc3f6427",
+      "size": 333007
+    },
+    "data/geojson.day/andor-210-day-00161.geojson.gz": {
+      "sha256": "0794cb296dcfd97fbb4142cdb983fbfb059973e89f12a5682a3fdaa78880bd67",
+      "size": 320322
+    },
+    "data/geojson.day/andor-210-day-00162.geojson.gz": {
+      "sha256": "a8d73f806fd693f7227880d9e6d90da6915a078abc7ed6b38a13ad4d447997c4",
+      "size": 318126
+    },
+    "data/geojson.day/andor-210-day-00163.geojson.gz": {
+      "sha256": "b7089b63497d62a62937311281b115a34b46b7cbf1d0b05549f2a29b29cfecfa",
+      "size": 322186
+    },
+    "data/geojson.day/andor-210-day-00164.geojson.gz": {
+      "sha256": "bdc1ecac020d497938f57e06d334fb27e05eb6a109065d229014168683a0b857",
+      "size": 353812
+    },
+    "data/geojson.day/andor-210-day-00165.geojson.gz": {
+      "sha256": "377684a731051be46cca1ae2d49652c10d485bec32197147650f5f83a3050df0",
+      "size": 319307
+    },
+    "data/geojson.day/andor-210-day-00166.geojson.gz": {
+      "sha256": "bbb573c0a77c2407aa54b5c554e1f67b330c28ae68728f6004cf407981ba1188",
+      "size": 306340
+    },
+    "data/geojson.day/andor-210-day-00167.geojson.gz": {
+      "sha256": "521f982d6a52251fe6f0ebc532a70fbade4edd69090a58cf4baf898c2b7bca0e",
+      "size": 317012
+    },
+    "data/geojson.day/andor-210-day-00168.geojson.gz": {
+      "sha256": "07b5b89c4a9e8b48dedf075a45ae296e1a8ea195095373080760115d18920627",
+      "size": 313104
+    },
+    "data/geojson.day/andor-210-day-00169.geojson.gz": {
+      "sha256": "a8c1a4d162a5961dc9b2883a66029853951510f04701381a0f8f7f3cc77f7c7b",
+      "size": 312169
+    },
+    "data/geojson.day/andor-210-day-00170.geojson.gz": {
+      "sha256": "80c0fbd299ed905ebd49e07418afe235762591edfd0ee99443c3743447475659",
+      "size": 310309
+    },
+    "data/geojson.day/andor-210-day-00171.geojson.gz": {
+      "sha256": "b109ee1e30ceef4e0d9b20ef5693c1e5045de9deccdea322df161dda5669288d",
+      "size": 316981
+    },
+    "data/geojson.day/andor-210-day-00172.geojson.gz": {
+      "sha256": "f514421ebf856cda21c3ca98ebdbbe93e73dbc2f233304d9231521c68e323f45",
+      "size": 319182
+    },
+    "data/geojson.day/andor-210-day-00173.geojson.gz": {
+      "sha256": "a8d5f862a7d297e5cf1d094d7b2b99242ef385e5dfda123773c103b0df6c49c2",
+      "size": 318821
+    },
+    "data/geojson.day/andor-210-day-00174.geojson.gz": {
+      "sha256": "654e6fa6f763dbd41c3ee337ccc6026afcf792d19d3d862d0009a0058c7a3e1d",
+      "size": 317839
+    },
+    "data/geojson.day/andor-210-day-00175.geojson.gz": {
+      "sha256": "6aa304de29b3f2e0f2310b87769dfdff4654473c43f0ef443d4480e091a09dec",
+      "size": 317163
+    },
+    "data/geojson.day/andor-210-day-00176.geojson.gz": {
+      "sha256": "b3d6baf3e812b75aeef5c49311c7af6c1edf1bcf876b0606923a455e1ea0091d",
+      "size": 319061
+    },
+    "data/geojson.day/andor-210-day-00177.geojson.gz": {
+      "sha256": "7cf0986edb4496481e2fae8a0c57f6d479ed0fe6f8c6179bb403a59c04912f65",
+      "size": 320011
+    },
+    "data/geojson.day/andor-210-day-00178.geojson.gz": {
+      "sha256": "df4fabef2893a6f0b708594f08d4a215eeca22044ce9fb4f981bf0746e40cef5",
+      "size": 315585
+    },
+    "data/geojson.day/andor-210-day-00179.geojson.gz": {
+      "sha256": "206fbab3aadaf558b943b56a292eaeb45573b9b5320d2ca69fa5d3ea3e090fac",
+      "size": 325198
+    },
+    "data/geojson.day/andor-210-day-00180.geojson.gz": {
+      "sha256": "7a9ee88506cec45b5568ad25960bb62c9d3c3786cf8836f94d343551d4a55e82",
+      "size": 318818
+    },
+    "data/geojson.day/andor-210-day-00181.geojson.gz": {
+      "sha256": "4f2559b9f82d691bd59a3248c4591055d09beceab6a84ff07c1d4ec7de5e5d65",
+      "size": 319567
+    },
+    "data/geojson.day/andor-210-day-00182.geojson.gz": {
+      "sha256": "05cc074a587770e5fd85ef407d0755e09b227676d4592836b3f3a5aba8601438",
+      "size": 316825
+    },
+    "data/geojson.day/andor-210-day-00183.geojson.gz": {
+      "sha256": "13e34c17ab364dc8e74829af66948d3e1ac2301f9ac2b19dd0d864eb70833874",
+      "size": 313435
+    },
+    "data/json/andor-210-swarm-day-00001-2025-05-14.json": {
+      "sha256": "f8b47498068de959088aba77c56cf8f89dc50e930aa0eca37423f5041ed3d38d",
+      "size": 444
+    },
+    "data/json/andor-210-swarm-day-00002-2025-05-15.json": {
+      "sha256": "1ed8858cdd3d8c08796dc0176ccf6234cf7c50d9e972373cf0f350864166cb09",
+      "size": 444
+    },
+    "data/json/andor-210-swarm-day-00003-2025-05-16.json": {
+      "sha256": "5e8a94a1d3db8e0cf36f2544595493d2847a867b3d58346f2f9c6eb72a31f583",
+      "size": 444
+    },
+    "data/json/andor-210-swarm-day-00004-2025-05-17.json": {
+      "sha256": "dfcc910dd79e7d00c62bbc99cf7cdd667a80bca3c16186ee370f5416d08b7c19",
+      "size": 444
+    },
+    "data/json/andor-210-swarm-day-00005-2025-05-18.json": {
+      "sha256": "f51525a92bcc6b9f2ff0d2c3bcbbaf23c55b7e804a75db11719d1fbab4b1df27",
+      "size": 444
+    },
+    "data/json/andor-210-swarm-day-00006-2025-05-19.json": {
+      "sha256": "c56570e05dc84a9fa8171a3306976b22e6c7ed8c28ecaedac3f48e50117a285d",
+      "size": 444
+    },
+    "data/json/andor-210-swarm-day-00007-2025-05-20.json": {
+      "sha256": "0aa0ef81630b2fde6e7d6cad5382868f5559da830efe50b36f697b171177b199",
+      "size": 444
+    },
+    "data/json/andor-210-swarm-day-00008-2025-05-21.json": {
+      "sha256": "785d8a33d4e77ae0dcaf4410cd034b15389fc3237d6c6d5af35babed4af16964",
+      "size": 444
+    },
+    "data/json/andor-210-swarm-day-00009-2025-05-22.json": {
+      "sha256": "41cc9b0de0f135c7a03c9d1d7714b8104e6c9785b1458cc5c8e4a9ba7a589dc2",
+      "size": 444
+    },
+    "data/json/andor-210-swarm-day-00010-2025-05-23.json": {
+      "sha256": "f640d0afaa50e3a91985863e23a7e908a6f5608d15d0fc2880a4be601728d2d1",
+      "size": 445
+    },
+    "data/json/andor-210-swarm-day-00011-2025-05-24.json": {
+      "sha256": "59970e5f3e7ac5c7e5c16344db023a378a724c9b2d3d6af47a3bfb8fad27040d",
+      "size": 445
+    },
+    "data/json/andor-210-swarm-day-00012-2025-05-25.json": {
+      "sha256": "cbfa903af50643c25eba3979c19a2f489b6b59f29720e97e0304c611cf9ef889",
+      "size": 445
+    },
+    "data/json/andor-210-swarm-day-00013-2025-05-26.json": {
+      "sha256": "50081051f010bb0696fffa1738c2e6172b95057e2e09269acca704e986ce9946",
+      "size": 445
+    },
+    "data/json/andor-210-swarm-day-00014-2025-05-27.json": {
+      "sha256": "393d1c2e03f6ea509c6106230f4389dc1e77b9e5dfac906fba37e7531d20bc95",
+      "size": 445
+    },
+    "data/json/andor-210-swarm-day-00015-2025-05-28.json": {
+      "sha256": "c844a2eff04d0ad6debafac393b4143af8f58fcd31efb2753d733bbfc00319df",
+      "size": 445
+    },
+    "data/json/andor-210-swarm-day-00016-2025-05-29.json": {
+      "sha256": "55af23905cac49bfd3078abd10e6ac12a9c9501cd672b12b9e2f6a3351dae914",
+      "size": 445
+    },
+    "data/json/andor-210-swarm-day-00017-2025-05-30.json": {
+      "sha256": "75ad35275dec4e1f4377fff8e057d3515b6354ac1e3041ccf903a210097ed65d",
+      "size": 445
+    },
+    "data/json/andor-210-swarm-day-00018-2025-05-31.json": {
+      "sha256": "9d2bf8aac5b66d613574c7f6df42f0c50618a9d2f87ed4095a1423674a9b64b9",
+      "size": 445
+    },
+    "data/json/andor-210-swarm-day-00019-2025-06-01.json": {
+      "sha256": "47701c24cc7a5d4d12783f8e3bcd916b3bfc3b5b205a1034727ab7a88ed047ee",
+      "size": 445
+    },
+    "data/json/andor-210-swarm-day-00020-2025-06-02.json": {
+      "sha256": "e7ac5aa237f328cf50ee0cea4262f2a43c2e8b23e8d7afd424c43b81f8521c51",
+      "size": 444
+    },
+    "data/json/andor-210-swarm-day-00021-2025-06-03.json": {
+      "sha256": "7ad905163482fc0c8cfeb00342890be8c065fc89f01217ddf73e866b1bf0f730",
+      "size": 444
+    },
+    "data/json/andor-210-swarm-day-00022-2025-06-04.json": {
+      "sha256": "a248221250eb403f4a3819a2e1a1317a999a52420a60868a7f381bab951a0cfe",
+      "size": 444
+    },
+    "data/json/andor-210-swarm-day-00023-2025-06-05.json": {
+      "sha256": "50f7a83a2bc5457c505ec54f2b6ac57c354a8ad8aea0daa6a358ea8402acb86b",
+      "size": 444
+    },
+    "data/json/andor-210-swarm-day-00024-2025-06-06.json": {
+      "sha256": "dd08746935e4e26a54b7d34ab6be24d2852d6ca82a5433400c39fdbe15c7bc05",
+      "size": 444
+    },
+    "data/json/andor-210-swarm-day-00025-2025-06-07.json": {
+      "sha256": "5cdd1d6449cb249a3a25c6c4183f6247f535ccde961a6fe3e6eb43c87db0391a",
+      "size": 444
+    },
+    "data/json/andor-210-swarm-day-00026-2025-06-08.json": {
+      "sha256": "64cec582104067111d8f9f48eb3c0e83561a1114bf6dd7300bf6562b07a14ac6",
+      "size": 444
+    },
+    "data/json/andor-210-swarm-day-00027-2025-06-09.json": {
+      "sha256": "8df59910838f8ae3d5995498400fb2c065bf3add888b3f428f2a3adb920c28c9",
+      "size": 444
+    },
+    "data/json/andor-210-swarm-day-00028-2025-06-10.json": {
+      "sha256": "aa74dfe7ee4f79883759c342e58ab5bb39f5d84c3c42e4f813e44266b0be8982",
+      "size": 444
+    },
+    "data/json/andor-210-swarm-day-00029-2025-06-11.json": {
+      "sha256": "db0b7921930c6c19172ac5e18a5349ed977529ff30c1799386c26bcb4c93047e",
+      "size": 444
+    },
+    "data/json/andor-210-swarm-day-00030-2025-06-12.json": {
+      "sha256": "5ba864f2ec305482fa2c3135073c45b8d6274c23ea9c3e1009fcc8e614e1b9eb",
+      "size": 444
+    },
+    "data/json/andor-210-swarm-day-00031-2025-06-13.json": {
+      "sha256": "8d26821d50fa61ffc451b6615003211dbf7a9ae3567a8022085cb2f88243797f",
+      "size": 444
+    },
+    "data/json/andor-210-swarm-day-00032-2025-06-14.json": {
+      "sha256": "9f6ad8284b1b3456da56490d9c04cb4cdc2fa9b800416467fa6d61dda81b6d51",
+      "size": 444
+    },
+    "data/json/andor-210-swarm-day-00033-2025-06-15.json": {
+      "sha256": "7a299d222febb8fa52f49cb05da1c2362ad1ddfc9edf566fe409db061ff4516f",
+      "size": 444
+    },
+    "data/json/andor-210-swarm-day-00034-2025-06-16.json": {
+      "sha256": "a95dff326541cb08184ecde964480444bd639bcee9fcd936167d2c456ddb1420",
+      "size": 444
+    },
+    "data/json/andor-210-swarm-day-00035-2025-06-17.json": {
+      "sha256": "19feabe00dd1bdd5aed821ccd6745c8ded1827a91da10d88de404c961f88d7bd",
+      "size": 444
+    },
+    "data/json/andor-210-swarm-day-00036-2025-06-18.json": {
+      "sha256": "4f1945ef8e2d068269d7891854a426d6dc8373a3ad7edb372f07c24f1102befb",
+      "size": 444
+    },
+    "data/json/andor-210-swarm-day-00037-2025-06-19.json": {
+      "sha256": "ae07c5c6cdf5eacc8bdb8632f981d4da25f63497fa418c723595f872161fc058",
+      "size": 444
+    },
+    "data/json/andor-210-swarm-day-00038-2025-06-20.json": {
+      "sha256": "742c38afeb1527d443d6f14fb533e979057b51f8abfac01c7cd944eacc820b97",
+      "size": 444
+    },
+    "data/json/andor-210-swarm-day-00039-2025-06-21.json": {
+      "sha256": "e76221dd56bcbdb10f41049883c6614c8026a0f1d1593eeee96e0a6c81a5f261",
+      "size": 444
+    },
+    "data/json/andor-210-swarm-day-00040-2025-06-22.json": {
+      "sha256": "a0f82d93508755b90b8ea52b04d8170ad8e79dccc3b92fd7e02034437b9d5d12",
+      "size": 444
+    },
+    "data/json/andor-210-swarm-day-00041-2025-06-23.json": {
+      "sha256": "daff468f2108252ff7a66483ed657c5fcfb9a920fae7adbb4bb3368d5c5164e7",
+      "size": 444
+    },
+    "data/json/andor-210-swarm-day-00042-2025-06-24.json": {
+      "sha256": "2cf9177c944ecbe155b9b335a5969a6a7e8f004f6acddd8193845ef0955c381d",
+      "size": 444
+    },
+    "data/json/andor-210-swarm-day-00043-2025-06-25.json": {
+      "sha256": "e905dfc31a4a0ab961cd34cf997fe9a0e9632fffb2e9ef8d723a072ea558da9b",
+      "size": 444
+    },
+    "data/json/andor-210-swarm-day-00044-2025-06-26.json": {
+      "sha256": "193095354538695c1d5ea42a244b1b4002ad3c8dc73fa7d48bc12116cf14b908",
+      "size": 444
+    },
+    "data/json/andor-210-swarm-day-00045-2025-06-27.json": {
+      "sha256": "151f0c2c0d97236e39529678df5fad6adfff7898349903ed54f2413e5d655aa5",
+      "size": 444
+    },
+    "data/json/andor-210-swarm-day-00046-2025-06-28.json": {
+      "sha256": "19f44ceb09c7871e73b179092538de6e1d13335bd833a23523b9dcec5deb3545",
+      "size": 444
+    },
+    "data/json/andor-210-swarm-day-00047-2025-06-29.json": {
+      "sha256": "abb18722fc6ab2178e3d1de4b73000a35c1dd8e0942564afe95707f1a4d0e226",
+      "size": 444
+    },
+    "data/json/andor-210-swarm-day-00048-2025-06-30.json": {
+      "sha256": "ec241ff2f7ab123257497257d3bed5f9b6f76aa0dc83105d34252c0c7da7d96c",
+      "size": 444
+    },
+    "data/json/andor-210-swarm-day-00049-2025-07-01.json": {
+      "sha256": "0bf715da49d43eb73f4e1c17f9617ae3eac7b4140137243a743db3b36024116d",
+      "size": 444
+    },
+    "data/json/andor-210-swarm-day-00050-2025-07-02.json": {
+      "sha256": "d18e3989c2cde2dd2f357e1e5e00d2f5ea0aec54032918276d45e484d59de15e",
+      "size": 444
+    },
+    "data/json/andor-210-swarm-day-00051-2025-07-03.json": {
+      "sha256": "098cd96a8e600259425e67d1a638b716b7b89076259ed9edf1dfe88b9650ea74",
+      "size": 444
+    },
+    "data/json/andor-210-swarm-day-00052-2025-07-04.json": {
+      "sha256": "e5e35c00783b7278ba491f8f6fe8d38181e8761c0b5401e42bfa3ecf372397ce",
+      "size": 444
+    },
+    "data/json/andor-210-swarm-day-00053-2025-07-05.json": {
+      "sha256": "8dbdac1af449fa279d214552244aaef20579716e0a71c659fe6310ab7001836d",
+      "size": 444
+    },
+    "data/json/andor-210-swarm-day-00054-2025-07-06.json": {
+      "sha256": "5a2d6a980dc9ef26fcb3af2eae47c5d0e22ea4d5a63bfc64a9131c0e582bf696",
+      "size": 444
+    },
+    "data/json/andor-210-swarm-day-00055-2025-07-07.json": {
+      "sha256": "cd6104a9d8ae78d456343fff63761cf47c33e8b500ce411a0fd94df7ccb1fcba",
+      "size": 444
+    },
+    "data/json/andor-210-swarm-day-00056-2025-07-08.json": {
+      "sha256": "58350d5a55fa0376e629336976bc3a50acad1282d5f4362b41e320105d52ff3c",
+      "size": 444
+    },
+    "data/json/andor-210-swarm-day-00057-2025-07-09.json": {
+      "sha256": "a58337320c9b2c90b4d92a08974120acd2ab844ef6fd408ffe4ffd98a78cb85a",
+      "size": 444
+    },
+    "data/json/andor-210-swarm-day-00058-2025-07-10.json": {
+      "sha256": "b4a81990608194fc16e5c7a4e33d267eab99345ebd3d252d832960cb543cd00c",
+      "size": 444
+    },
+    "data/json/andor-210-swarm-day-00059-2025-07-11.json": {
+      "sha256": "7945feeccd1d3ffa6809dcc529baaf6271afa08c0c1c2acf83b825e7c05c1103",
+      "size": 444
+    },
+    "data/json/andor-210-swarm-day-00060-2025-07-12.json": {
+      "sha256": "75d1b3835ec9d9804dd85e7c19fd35274d0cf46ff8ee75ae6e87ebfb941f5f9d",
+      "size": 444
+    },
+    "data/json/andor-210-swarm-day-00061-2025-07-13.json": {
+      "sha256": "80d96a9919bf585777d02c8b36dfed487827a0d35be04dc7e8a1b060293ba2e9",
+      "size": 444
+    },
+    "data/json/andor-210-swarm-day-00064-2025-07-16.json": {
+      "sha256": "277d488974c99dfcb289900a8b3c53a30984eb0cde55e5a35cea160b5763bf0d",
+      "size": 444
+    },
+    "data/json/andor-210-swarm-day-00065-2025-07-17.json": {
+      "sha256": "603a53e4d79264f9d67e39eb2d1879bccd97086ec57fee3d3637474d0f4003e9",
+      "size": 444
+    },
+    "data/json/andor-210-swarm-day-00066-2025-07-18.json": {
+      "sha256": "31739125490109dcabb567ac7492bd275f557156b7d5a15513100c98e66a5f81",
+      "size": 444
+    },
+    "data/json/andor-210-swarm-day-00067-2025-07-19.json": {
+      "sha256": "71403ec64e2ca5bce3d7b3c1ec8862aac1a292e0ee9b395d175c7ded0cd24476",
+      "size": 444
+    },
+    "data/json/andor-210-swarm-day-00068-2025-07-20.json": {
+      "sha256": "2c3857bd542b2db0353eb3de5008717545fd36d266dd7d514f3cd5d3162894c9",
+      "size": 444
+    },
+    "data/json/andor-210-swarm-day-00069-2025-07-21.json": {
+      "sha256": "4b4980d2d04ea84e4bed59862b194eb244e2765163d020179b5a3a148d9d2344",
+      "size": 444
+    },
+    "data/json/andor-210-swarm-day-00070-2025-07-22.json": {
+      "sha256": "d1e21f652c65650a13a9bc655d615422802a2706886c8ad853de426387b0102a",
+      "size": 444
+    },
+    "data/json/andor-210-swarm-day-00071-2025-07-23.json": {
+      "sha256": "1d74a1eda782555470ed91149bef5dbe638eaa04e559a43778d6da6d76a81f8b",
+      "size": 444
+    },
+    "data/json/andor-210-swarm-day-00072-2025-07-24.json": {
+      "sha256": "ee02bc457677645d8bd35513af10fd9c78b6a463e5cc889bd81a03843342871e",
+      "size": 444
+    },
+    "data/json/andor-210-swarm-day-00073-2025-07-25.json": {
+      "sha256": "d0dcb0c2d2eb4e0b0f7e6fbfe42e6b36273d071bceb83f61c7e2ac63b2e81f46",
+      "size": 444
+    },
+    "data/json/andor-210-swarm-day-00074-2025-07-26.json": {
+      "sha256": "a655d1f483a99fabb6198a3e35eac0c6fc7e6dc3b14621d3cf78aa176e6631af",
+      "size": 444
+    },
+    "data/json/andor-210-swarm-day-00075-2025-07-27.json": {
+      "sha256": "74f98d70a4bdd6979a2cb927696b086486e7ed5122266efaa8f5f08f0c9075f4",
+      "size": 444
+    },
+    "data/json/andor-210-swarm-day-00076-2025-07-28.json": {
+      "sha256": "ec81d0636f418d085d3194dd14ca8de02868f96e0bfd97e9f891614540dd0732",
+      "size": 444
+    },
+    "data/json/andor-210-swarm-day-00077-2025-07-29.json": {
+      "sha256": "44b7c944054046ba0321553255af3656c94e7e41db7686b9407da9f12f388ede",
+      "size": 444
+    },
+    "data/json/andor-210-swarm-day-00078-2025-07-30.json": {
+      "sha256": "16ff123318585a4bfa61286ac3dd7cfd22d4c9f62b288b8bfa85c097d20eeebc",
+      "size": 444
+    },
+    "data/json/andor-210-swarm-day-00079-2025-07-31.json": {
+      "sha256": "5647153b3b64cdb319bcb5eed8a3d3786d89d0b40c592f01a7e452adb105bb41",
+      "size": 444
+    },
+    "data/json/andor-210-swarm-day-00080-2025-08-01.json": {
+      "sha256": "298ca8a6193b4aaca28c57c579bc7a02c1874464ad76042de2d3b343ed18ef09",
+      "size": 444
+    },
+    "data/json/andor-210-swarm-day-00081-2025-08-02.json": {
+      "sha256": "de8d9aee754e0911ffdb2a3b28fbbbfa693a8cd714aeb856f9334dd7a3a82477",
+      "size": 444
+    },
+    "data/json/andor-210-swarm-day-00082-2025-08-03.json": {
+      "sha256": "20b3420e650729d29f6e7df2d5b42063257c14eba265d807e1075e6060ace4bf",
+      "size": 444
+    },
+    "data/json/andor-210-swarm-day-00083-2025-08-04.json": {
+      "sha256": "e0224288b8ef1cef5ffb701dd0de787131901f17c8f8b5e8d891b3b0a0521b57",
+      "size": 444
+    },
+    "data/json/andor-210-swarm-day-00084-2025-08-05.json": {
+      "sha256": "8b48a95a96a6cf2eec00b602226d01d73c3373e4f3e6929a949fd90a061c46ea",
+      "size": 444
+    },
+    "data/json/andor-210-swarm-day-00085-2025-08-06.json": {
+      "sha256": "c6f50cdce6fd3a3f57eb8bc524a2bfbfef25434ea0e77cf4c284aa1a5dd252f3",
+      "size": 444
+    },
+    "data/json/andor-210-swarm-day-00086-2025-08-07.json": {
+      "sha256": "f8da84e9f78879c0bbc99e1f43274b4042a9cdfcd67d35d9866ec96468930cd7",
+      "size": 444
+    },
+    "data/json/andor-210-swarm-day-00087-2025-08-08.json": {
+      "sha256": "027e3157b4da78cbbfd6108a21f2e087595f1e87c50862c338b71b79361a5a54",
+      "size": 444
+    },
+    "data/json/andor-210-swarm-day-00088-2025-08-09.json": {
+      "sha256": "bb682456bb29f032ace1ea945b51b1de90db222797db6c898d721985d9557966",
+      "size": 444
+    },
+    "data/json/andor-210-swarm-day-00089-2025-08-10.json": {
+      "sha256": "c9f2e306dbbc009b9aac59f73619dead892e392fc6630a1086086bdd26c57c97",
+      "size": 444
+    },
+    "data/json/andor-210-swarm-day-00090-2025-08-11.json": {
+      "sha256": "8e7f75d5fe8c1b3c29f1ba2bc8ef5fe8c244bbb71fccec2e76eef3198aa05b60",
+      "size": 444
+    },
+    "data/json/andor-210-swarm-day-00091-2025-08-12.json": {
+      "sha256": "a1ca4156a6558eb8e5d2fe46de0aeceb7649c53021e63b9f96d18b32445ce176",
+      "size": 444
+    },
+    "data/json/andor-210-swarm-day-00092-2025-08-13.json": {
+      "sha256": "1ff27a3bf76dd5eb8a648caa1f4da14ecac2386dcdd8234d58dc8ce4fb21bcec",
+      "size": 444
+    },
+    "data/json/andor-210-swarm-day-00093-2025-08-14.json": {
+      "sha256": "085125df9a2104181c66a2e00c55dc0111af416f23ef150b1d9d784538c5224e",
+      "size": 444
+    },
+    "data/json/andor-210-swarm-day-00094-2025-08-15.json": {
+      "sha256": "4d00bf8e6d957dcfe0357a6f70b88494d181c865dff8c542a0fc7b4722e51fba",
+      "size": 444
+    },
+    "data/json/andor-210-swarm-day-00095-2025-08-16.json": {
+      "sha256": "9696ef7c88a8263bf5fe02467e57911113511ab34fc28def1deb4b8c7318f1a5",
+      "size": 444
+    },
+    "data/json/andor-210-swarm-day-00096-2025-08-17.json": {
+      "sha256": "92cb370d812970ccbe008c4951650e72986e54f7a204cd3efb5041f2e7711f2d",
+      "size": 444
+    },
+    "data/json/andor-210-swarm-day-00097-2025-08-18.json": {
+      "sha256": "c62a158b46ec7b72f3bad8052ab29794b19b78af2709b8ffd9fa2bed17de90f7",
+      "size": 444
+    },
+    "data/json/andor-210-swarm-day-00098-2025-08-19.json": {
+      "sha256": "c4a8ce3f818b404b3c303644bf39d1d1350e5bb155759bc549c0db823fba4159",
+      "size": 444
+    },
+    "data/json/andor-210-swarm-day-00099-2025-08-20.json": {
+      "sha256": "72f0d73f253fbbe686b097f8314017a989b7a25393e52c656f1c44a7f8faced2",
+      "size": 444
+    },
+    "data/json/andor-210-swarm-day-00100-2025-08-21.json": {
+      "sha256": "b57b64738cb1b7c1f69a2a14c48cc74c354f4d2cb360da428584e43c736624bf",
+      "size": 445
+    },
+    "data/json/andor-210-swarm-day-00101-2025-08-22.json": {
+      "sha256": "c9d0184e278b61064624159886306f92908dbe8dec667e94d369f80d96ca592b",
+      "size": 445
+    },
+    "data/json/andor-210-swarm-day-00102-2025-08-23.json": {
+      "sha256": "6704c92c2c2a19ac57e453c30a348996447027372c3f6f3a44848139535ac513",
+      "size": 445
+    },
+    "data/json/andor-210-swarm-day-00103-2025-08-24.json": {
+      "sha256": "b3c3e8c386f48c7d34f3a4c3af8a76cbc7119b5f8055616305bf486cd56ef80d",
+      "size": 445
+    },
+    "data/json/andor-210-swarm-day-00104-2025-08-25.json": {
+      "sha256": "5654b42e1a9d895ddd409502269ed1fdd83db47339a96c635e58c229274ce230",
+      "size": 445
+    },
+    "data/json/andor-210-swarm-day-00105-2025-08-26.json": {
+      "sha256": "9d5b353c0324e1af421399b95d3e2af3754ee833c5ba466482171473958ec44a",
+      "size": 445
+    },
+    "data/json/andor-210-swarm-day-00106-2025-08-27.json": {
+      "sha256": "d87925a971ba39c0fe0f779c2e1ce67a0c72485b376554f603de44b138247527",
+      "size": 445
+    },
+    "data/json/andor-210-swarm-day-00107-2025-08-28.json": {
+      "sha256": "8701ae4b950885fd3af2fd3133c0c88a2ac663f3947b0fa61355c5d6306d12ef",
+      "size": 445
+    },
+    "data/json/andor-210-swarm-day-00108-2025-08-29.json": {
+      "sha256": "3853d35376d289a9242adf44fee276406f87cdd0b6f8df7c1a568eb24da2a57b",
+      "size": 445
+    },
+    "data/json/andor-210-swarm-day-00109-2025-08-30.json": {
+      "sha256": "125c8758af55639fd4849d2ec41b8b34bfe03ee548590e418177f836d75510a3",
+      "size": 445
+    },
+    "data/json/andor-210-swarm-day-00110-2025-08-31.json": {
+      "sha256": "334ab4294c36c58c5dc729fb080b28a649fb2303bba02c8dadf2385cf921fbf8",
+      "size": 445
+    },
+    "data/json/andor-210-swarm-day-00111-2025-09-01.json": {
+      "sha256": "2251c6bf79db82212ae9eade12fb26f9bafc4b7c671005ff21f1c68c4741f926",
+      "size": 445
+    },
+    "data/json/andor-210-swarm-day-00112-2025-09-02.json": {
+      "sha256": "2502bdfbcd87939e699785a1986caabd14e3b9273fe6ea78dcd3bc3715acbd07",
+      "size": 445
+    },
+    "data/json/andor-210-swarm-day-00113-2025-09-03.json": {
+      "sha256": "dc714d91def702ac8866f24e1050c42765299f9109c7706649534cb21f750096",
+      "size": 445
+    },
+    "data/json/andor-210-swarm-day-00114-2025-09-04.json": {
+      "sha256": "7a60c36792f5c99fd473bdddf0bbacaee3edd87741163957f26b9e7d3a54254b",
+      "size": 445
+    },
+    "data/json/andor-210-swarm-day-00115-2025-09-05.json": {
+      "sha256": "3467fd48b2cf7020291694bfb47a988b37fb6ea5e5c41151f525459b075091b1",
+      "size": 445
+    },
+    "data/json/andor-210-swarm-day-00116-2025-09-06.json": {
+      "sha256": "d77481bd8dbf3f76a6637f358f5f21c850c935963530fbebb1e5441ebab9a29d",
+      "size": 445
+    },
+    "data/json/andor-210-swarm-day-00117-2025-09-07.json": {
+      "sha256": "53fd3b18dfb826068335d13c9ee0d4c8e6d4fdaee940f54651234ea2caac5529",
+      "size": 445
+    },
+    "data/json/andor-210-swarm-day-00118-2025-09-08.json": {
+      "sha256": "abbe9735be3a039e26fb3f46b763b0ce061a1c4fd5665c3740740806a6569cbf",
+      "size": 445
+    },
+    "data/json/andor-210-swarm-day-00119-2025-09-09.json": {
+      "sha256": "7094b586c04429b3d1c6de7786654de2fb3965dcc62b9ebd8dca3f6761abcc10",
+      "size": 445
+    },
+    "data/json/andor-210-swarm-day-00120-2025-09-10.json": {
+      "sha256": "08c1f93ad562f01b1f6f225e91849d3e420377fab96cfac4a40e0b7b740f2dc0",
+      "size": 445
+    },
+    "data/json/andor-210-swarm-day-00121-2025-09-11.json": {
+      "sha256": "0819e3a666b9df43158e0166edf2e64e940e8c879a5e6a2743724bcc75af9e9a",
+      "size": 445
+    },
+    "data/json/andor-210-swarm-day-00122-2025-09-12.json": {
+      "sha256": "b56e1747fbf177a35eb55685e63b4e361f9bdb14cf277bd7113054b8e2b5c66d",
+      "size": 445
+    },
+    "data/json/andor-210-swarm-day-00123-2025-09-13.json": {
+      "sha256": "862ba89f79cfb4f4ddf4a0d38c5ec29c841055e6ca329fca75b8496e22fef9c5",
+      "size": 445
+    },
+    "data/json/andor-210-swarm-day-00124-2025-09-14.json": {
+      "sha256": "9ac01b0c2b423d54afaf0992c1dd2493710054407611fd568c2d82b550582bb0",
+      "size": 445
+    },
+    "data/json/andor-210-swarm-day-00125-2025-09-15.json": {
+      "sha256": "1a45a1ebea2f908c9e4e59de91a12c4fcd84fc31fd6ba11747058440d66ab4cf",
+      "size": 445
+    },
+    "data/json/andor-210-swarm-day-00126-2025-09-16.json": {
+      "sha256": "a6a99de702d8631a90c14a12f1a9c2ffc7b727a5fce3e289d60c825d35b3025b",
+      "size": 445
+    },
+    "data/json/andor-210-swarm-day-00127-2025-09-17.json": {
+      "sha256": "fd10230951dccf767739b4b7dc80de543f3cad9a3aa6bcb43e0ec580e0c232fb",
+      "size": 445
+    },
+    "data/json/andor-210-swarm-day-00128-2025-09-18.json": {
+      "sha256": "78762c33c08c050b93723456e2691dffddd3ed84cdb8acf906f169399ff309a0",
+      "size": 445
+    },
+    "data/json/andor-210-swarm-day-00129-2025-09-19.json": {
+      "sha256": "6bbaf12bd03c13282a721b2b32fb25134527d824da957f4ac6ededc7738ec930",
+      "size": 445
+    },
+    "data/json/andor-210-swarm-day-00130-2025-09-20.json": {
+      "sha256": "a8bd0302fb25d9980385243d5cee02034ec5c87cbcfc446294683fcf22ef3c61",
+      "size": 445
+    },
+    "data/json/andor-210-swarm-day-00131-2025-09-21.json": {
+      "sha256": "409ee5a5f991f0591924f25dbd121713d956c0527e36ca5f8428f09be9cee55a",
+      "size": 445
+    },
+    "data/json/andor-210-swarm-day-00132-2025-09-22.json": {
+      "sha256": "4da867c86eda91dc5a9c8dce38a46ed1fd642acda8ebcb0df4d85dfdc9bd5d2f",
+      "size": 445
+    },
+    "data/json/andor-210-swarm-day-00133-2025-09-23.json": {
+      "sha256": "c31ee9a37dd814f03cd10cc5e11d207eb1cdf8a9c2c458a2d65f9aa71de41911",
+      "size": 445
+    },
+    "data/json/andor-210-swarm-day-00134-2025-09-24.json": {
+      "sha256": "2e1f6f4335092d33a786cc8558a298a2b0a40119e2c0fbfc73e3fe78bfbad81f",
+      "size": 445
+    },
+    "data/json/andor-210-swarm-day-00135-2025-09-25.json": {
+      "sha256": "3d08fd51b867177892abb9959ac1240f9623e626e5ca026aebb225ad9efe7080",
+      "size": 445
+    },
+    "data/json/andor-210-swarm-day-00136-2025-09-26.json": {
+      "sha256": "5882d183ee2350273cc4c2e54171fdb64db47ceaf8e823d26000e9901f100da2",
+      "size": 445
+    },
+    "data/json/andor-210-swarm-day-00137-2025-09-27.json": {
+      "sha256": "d27a949a63356771489fe1734ace4b64e5a1a61fb771bd34e55229ee975697d9",
+      "size": 445
+    },
+    "data/json/andor-210-swarm-day-00138-2025-09-28.json": {
+      "sha256": "3a69dff903c23a16106b0346910fcdcae9db45988035c46731275227043f9ea6",
+      "size": 445
+    },
+    "data/json/andor-210-swarm-day-00139-2025-09-29.json": {
+      "sha256": "6276a1aa70cc11a51b68a86993f8b2c575a22902ec34734b0d901cf8f70aacb8",
+      "size": 445
+    },
+    "data/json/andor-210-swarm-day-00140-2025-09-30.json": {
+      "sha256": "6e733201103cf4b843401c3675cf8b5d38a990fc8984ec47147b8d48ed6b61de",
+      "size": 445
+    },
+    "data/json/andor-210-swarm-day-00141-2025-10-01.json": {
+      "sha256": "74a27fa3ce4b435fbf6fbd1ffa293651d0f1a3d0fca0bedc947b9c57f5407612",
+      "size": 445
+    },
+    "data/json/andor-210-swarm-day-00142-2025-10-02.json": {
+      "sha256": "a266b72c457f26ec7d77620c6fd2b219fa988102bc9f692e8c362deed5721cf3",
+      "size": 445
+    },
+    "data/json/andor-210-swarm-day-00143-2025-10-03.json": {
+      "sha256": "577333fd118391d63e66f87bacdee8010cc595a636793a4a0c2ff496d69fdde8",
+      "size": 445
+    },
+    "data/json/andor-210-swarm-day-00144-2025-10-04.json": {
+      "sha256": "9e305fee5ae7f5a14305c49cb9cfb3b19b14f5f42ff0e2e7bc7ac572ee6b6886",
+      "size": 445
+    },
+    "data/json/andor-210-swarm-day-00145-2025-10-05.json": {
+      "sha256": "20c5254879f18592788fcb6e0cbfd2d4399a27272bde285f50705d68b0d9343d",
+      "size": 445
+    },
+    "data/json/andor-210-swarm-day-00146-2025-10-06.json": {
+      "sha256": "b4e414c46b321810edde039ccf9be3fd5ef3dd631b72130bad01fd5395d9be12",
+      "size": 445
+    },
+    "data/json/andor-210-swarm-day-00147-2025-10-07.json": {
+      "sha256": "4e7b449b1440f67d77ce890ec5c9df9d565b59a3458318c6a6f337f86b266dc1",
+      "size": 445
+    },
+    "data/json/andor-210-swarm-day-00148-2025-10-08.json": {
+      "sha256": "cd1b7c6b11afc2ba182b90548142e753821c75b3ecdd3e94464c7b36d4382a41",
+      "size": 445
+    },
+    "data/json/andor-210-swarm-day-00149-2025-10-09.json": {
+      "sha256": "24152ab205bc7a579f1959e8ab33b9efff7f1f75734a59fc9944ce64e8633a68",
+      "size": 445
+    },
+    "data/json/andor-210-swarm-day-00150-2025-10-10.json": {
+      "sha256": "b8ff418695cc27534f5e2fddc491da2f4781ea466fd0cb86adff69a9bb125135",
+      "size": 445
+    },
+    "data/json/andor-210-swarm-day-00151-2025-10-11.json": {
+      "sha256": "59c40269bd7511ab8138061f1f5003b61c49b6e3032fbc49779d90c11f837570",
+      "size": 445
+    },
+    "data/json/andor-210-swarm-day-00152-2025-10-12.json": {
+      "sha256": "71fcb581a3d88e65e4f1c0e47594cf26ea1d733961153d4487ca614f577ca9bb",
+      "size": 445
+    },
+    "data/json/andor-210-swarm-day-00153-2025-10-13.json": {
+      "sha256": "222baaa99eda0f102a29a676e5fc463518d9a929d80bd29841f6dcbda62cb3e9",
+      "size": 445
+    },
+    "data/json/andor-210-swarm-day-00154-2025-10-14.json": {
+      "sha256": "9016a296b3db3ee40456a4cd6b0aceaf5f166657b0ef6c86a5dde99a4f32dcd0",
+      "size": 445
+    },
+    "data/json/andor-210-swarm-day-00155-2025-10-15.json": {
+      "sha256": "6f6837264ea9b03af416caae164ecd577b40a3abadd560a6eb1f59ed1f626e2d",
+      "size": 445
+    },
+    "data/json/andor-210-swarm-day-00156-2025-10-16.json": {
+      "sha256": "4b240bf6a0c4bf3bbd267683d434dd920ff7f419d520bdeee791210cd7b5ac0f",
+      "size": 445
+    },
+    "data/json/andor-210-swarm-day-00157-2025-10-17.json": {
+      "sha256": "e2307edebfe6cb4f4137ae7d5095f12e8472cfa9de8c5aeeeafac79ac6528556",
+      "size": 445
+    },
+    "data/json/andor-210-swarm-day-00158-2025-10-18.json": {
+      "sha256": "96956bfa8b508a4575b5a3bc3ba3214b36f1f47f44630bdea94735c9391cca42",
+      "size": 445
+    },
+    "data/json/andor-210-swarm-day-00159-2025-10-19.json": {
+      "sha256": "157cb96c16297fab3d5e6dcc6718ccce02757daf68126416a14f1f1727f5fe9e",
+      "size": 445
+    },
+    "data/json/andor-210-swarm-day-00160-2025-10-20.json": {
+      "sha256": "8264bf2a714053421b3a9cd2c24d7341f404f5d804115a140c2d0144b4314c68",
+      "size": 445
+    },
+    "data/json/andor-210-swarm-day-00161-2025-10-21.json": {
+      "sha256": "3ade0fc670f967c3ebc19453f1712312b852170c4fc4819c0ae5c11b29179452",
+      "size": 445
+    },
+    "data/json/andor-210-swarm-day-00162-2025-10-22.json": {
+      "sha256": "d04a0d7d7b63707c79670c7b1e15a7c6d6c236d981117057146ad4ed3702d3e4",
+      "size": 445
+    },
+    "data/json/andor-210-swarm-day-00163-2025-10-23.json": {
+      "sha256": "7f25cc103480c1f068d974ac13d0c4c6b1a6ec649ee579f54a45750376103e4b",
+      "size": 445
+    },
+    "data/json/andor-210-swarm-day-00164-2025-10-24.json": {
+      "sha256": "64237b6b9f347ca4d089c08737fc71d2bcdac81423707bc637797e96c58c324b",
+      "size": 445
+    },
+    "data/json/andor-210-swarm-day-00165-2025-10-25.json": {
+      "sha256": "f0dd3d6c8b40d6ca92c9283b7a6b5fb243d5ee69bffc9f4a379145ac039d840c",
+      "size": 445
+    },
+    "data/json/andor-210-swarm-day-00166-2025-10-26.json": {
+      "sha256": "2592bb9ca11d46c52b60761aa1af9e42506ec99ae4a56f16fdd4b3be6e13c2c4",
+      "size": 445
+    },
+    "data/json/andor-210-swarm-day-00167-2025-10-27.json": {
+      "sha256": "c5f5dbf66a5294e9596e32029ee1cad1fe4e84c9648ac709c1643e43bdddc74d",
+      "size": 445
+    },
+    "data/json/andor-210-swarm-day-00168-2025-10-28.json": {
+      "sha256": "e8e9e41f524eb635a05d476758bdc35ee1951d5b6db344cbd10419de7de5d9de",
+      "size": 445
+    },
+    "data/json/andor-210-swarm-day-00169-2025-10-29.json": {
+      "sha256": "e00ddbbf46073f79bbf8900b678541bb40626543c19afe161f6e0107b5266f8b",
+      "size": 445
+    },
+    "data/json/andor-210-swarm-day-00170-2025-10-30.json": {
+      "sha256": "8c2cf361d49f1fc7d3bb0cfea162be7ad189720b6545447c48c07777deed8901",
+      "size": 445
+    },
+    "data/json/andor-210-swarm-day-00171-2025-10-31.json": {
+      "sha256": "80a706af6d5f4a5c86718884ec63a9e0091c168dfdf820c5c434d4c8e7e9bd41",
+      "size": 445
+    },
+    "data/json/andor-210-swarm-day-00172-2025-11-01.json": {
+      "sha256": "146392929e0fdb64000a9a1090f3cf5ffe715685c4ce2f8870937b747785dd50",
+      "size": 445
+    },
+    "data/json/andor-210-swarm-day-00173-2025-11-02.json": {
+      "sha256": "f1612ec854482b8ebb73da5c5ca87d84f5fd235313289959948460822bf25ba1",
+      "size": 445
+    },
+    "data/json/andor-210-swarm-day-00174-2025-11-03.json": {
+      "sha256": "2ca20b13067f4ee62231e0457cde95b1be80ca612ff2f139a7fbf34b42497a05",
+      "size": 445
+    },
+    "data/json/andor-210-swarm-day-00175-2025-11-04.json": {
+      "sha256": "5ab35ed8fd099aae0afd134d9e64e23b94f8b315e09b1686023e4025e7621b05",
+      "size": 445
+    },
+    "data/json/andor-210-swarm-day-00176-2025-11-05.json": {
+      "sha256": "dd8cee293d341f4abcfaadb6cc6ed45639530d76b03ae5c0eceee387f8c4c838",
+      "size": 445
+    },
+    "data/json/andor-210-swarm-day-00177-2025-11-06.json": {
+      "sha256": "6b8fe7a83fcaf10343a3d011291f12c53e2c9ef0af1acfedea07e6729a5acbbf",
+      "size": 445
+    },
+    "data/json/andor-210-swarm-day-00178-2025-11-07.json": {
+      "sha256": "f35f3feef2d939d2215d3a3b70b75a254f28c1ee03720bf81b13287fd8d5e3ee",
+      "size": 445
+    },
+    "data/json/andor-210-swarm-day-00179-2025-11-08.json": {
+      "sha256": "ef8cba743ab8199acb9093b8409ead16e05401fae6be4979b25ad91ef1373147",
+      "size": 445
+    },
+    "data/json/andor-210-swarm-day-00180-2025-11-09.json": {
+      "sha256": "ac8bd01fcb6029c8081115cba87c28bd5e993f69f0f0bbc4f9b79b63854e2bf3",
+      "size": 445
+    },
+    "data/json/andor-210-swarm-day-00181-2025-11-10.json": {
+      "sha256": "1859dc18ee2ce057854b39d6d6ec7ac7c53355bea16dc5ae4a6442c77cba8edb",
+      "size": 445
+    },
+    "data/json/andor-210-swarm-day-00182-2025-11-11.json": {
+      "sha256": "03d844c8e3a0a4b62e4405e10d41e3ae9d838b9d945d437ba5a5453153392754",
+      "size": 445
+    },
+    "data/json/andor-210-swarm-day-00183-2025-11-12.json": {
+      "sha256": "922eb4b3be09045b6ba4102dc85835939f8f07f11c221d9c2e2e28dd553e4cdf",
+      "size": 445
+    }
+  },
+  "schema": "alpha60-year-day-product-bundle/1",
+  "source_revisions": {
+    "aggregate_binary": {
+      "sha256": "80bdf6691c0ef6ed5fcc7fa3a6462748104e1935ce5b2a4df3861e11bb13195a",
+      "size": 38582648
+    },
+    "alpha60": "c3fc4c8a7866bee5f6d5f26160c56b2cffb05cb1",
+    "alpha60_data": "8faeae67a5d274d1fc00bffe9fc9318329163b20",
+    "day_product_contract": {
+      "sha256": "0aa0bee3ac14b512c786d3496ab5218a46aff11786ffa6aa9ea85e762fbd6370",
+      "size": 9897
+    },
+    "generate_cache_aggregates": {
+      "sha256": "504078e192d9c8182df74e41b98cec08123c5a8b7d0eb7f812d09c1fe5d07010",
+      "size": 17151
+    },
+    "metadata": "fbeb53a0b523f937fae2f23d14689d8c5c84dd5a",
+    "package_script": {
+      "sha256": "516d6ecdccd24b1b66cf80c185219fa47d52af22f672b836773896df621b1666",
+      "size": 14724
+    },
+    "year_day_contract": {
+      "sha256": "f1c07d6f2fdc19475a6f25ddaee5923957447a6f49a8009d8b4c9984a63bd883",
+      "size": 9356
+    }
+  },
+  "status": "pass"
+}

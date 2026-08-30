@@ -1,0 +1,253 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt9253284",
+    "imdb_id": "tt9253284",
+    "revision": "fbeb53a0b523f937fae2f23d14689d8c5c84dd5a",
+    "wikidata_id": "Q60462338",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Andor"
+  },
+  "coverage_sha256": "ffb1619d954904a3c5a7846e7fc0e628959a2be64b483a7aa3df76524873e229",
+  "generated_at": "2026-08-30T13:04:10.862857+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "aao-checksum-manifest": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/SHA256SUMS",
+      "sha256": "4a4818facd85b709f0321b0a6de31b4a3eff6f108f3b9354c75632926e6baa48",
+      "size": 266728
+    },
+    "aao-release": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/release.json",
+      "sha256": "3ce0984da2d12b0e3697e76c02608bd9d1a955ee3d00e0a7054bdd297b8f18c8",
+      "size": 1342
+    },
+    "aao-verification": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-aao-verification.json",
+      "sha256": "e01294ebce8e54b65e16ab83017fa5585efe6f7a0a0f1a5e0f734e08d8e223fd",
+      "size": 854
+    },
+    "archive-map": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-cache-archive-map.json",
+      "sha256": "8d4d506f23cd80f46baf010bd17509c916083e75eb8b43b052641138c3f308f1",
+      "size": 125170
+    },
+    "btiha-metadata-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/andor-210-cumulative-btiha-media-objects.json",
+      "sha256": "d6e60f30d0a6f9cf3cb47ad951e6f4dd584baef1a3c8e12c557364f3c3e460a3",
+      "size": 1211534
+    },
+    "canonical-metadata": {
+      "path": "/tmp/alpha60-swarm-metadata-2025/metadata/andor-210.json",
+      "sha256": "ce59571f27462f279cf051ca8d12ebb3d47f16e0bf15676b93d2b1aa53034284",
+      "size": 12406
+    },
+    "coverage-report": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-coverage-evidence/andor-210.md",
+      "sha256": "e534e1975226cf3100db0aaeac4addb2287ec0c8e939be64f30e2200106d34b2",
+      "size": 735
+    },
+    "cumulative-aggregate-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.cumulative/andor-210-cumulative-aggregate.geojson.gz",
+      "sha256": "c610e738a191bd4c808f94b204b99118ecf89fc3b88b2f4826b48df1a5cffd5a",
+      "size": 1404268
+    },
+    "cumulative-btiha-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.cumulative/andor-210-cumulative-btiha.geojson.gz",
+      "sha256": "245a6fec184679ca3f1710d516aab63b16e3edc56eed9ea805cb8c13db4de9e2",
+      "size": 65248069
+    },
+    "cumulative-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/andor-210-cumulative.json",
+      "sha256": "32106d3c5fb77f71f431cdc31a841e502c5ec533046daf4ce9919d50e2ebef5b",
+      "size": 15754
+    },
+    "day-bundle-receipt": {
+      "path": "/tmp/year-2025-day-bundles/andor-210/receipt.json",
+      "sha256": "0fa9757812759cd3bfaa78e2a8c99735bd5c23016a1545464c115ce77d665fbe",
+      "size": 65865
+    },
+    "ip-swarm-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/andor-210-cumulative-ip-swarm.json",
+      "sha256": "2291a2482e334a94f8766e2ba83700b27cee83982f7d3ba746af6b85df9914a1",
+      "size": 44032
+    },
+    "published-day-bundle-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-day-product-receipts/andor-210.json",
+      "sha256": "0fa9757812759cd3bfaa78e2a8c99735bd5c23016a1545464c115ce77d665fbe",
+      "size": 65865
+    },
+    "week-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/andor-210-week.json",
+      "sha256": "18a936da6c5d5b1cb8a48057ffc1b911af1d30d61c9d551b5e00e4f17d8ef1fe",
+      "size": 7504067
+    }
+  },
+  "media_object": "andor-210",
+  "published_files": {
+    "data/csv/bytes/andor-210-cumulative-detail.2025-btiha-itemized-by-bytes.csv": "733a83797923b7264ad520d76c676d53db753ca765550fe7c781c6577f1f1d4e",
+    "docs/itemized/andor-210-sample-cache-audit.md": "b10572c08c7692b481774e972cf71586ef83867c8f85460da9c0b99b45a2870b",
+    "docs/itemized/figures/andor-210-carto-4k.webp": "77f610af2d405de47ff21c094a9197455c2d741ac03c7b5284e9fa191c30915d",
+    "docs/itemized/figures/andor-210-carto.png": "fa4862d33170fafc23cdecd8c79e4bdb224e1213870f39bb6db642da7f6f2e3f",
+    "docs/itemized/figures/andor-210-cumulative-detail-btiha-itemized-by-bytes.svg": "b82abef11a6484524a893ba2ae015cf976b6c24ada121e48a6d8390278b126ca",
+    "docs/itemized/figures/andor-210-data-ge-1080p-4k.webp": "9a03d5db587fd1854cb5b9b310fb13bf94202fc74017ab630c5158289f5476de",
+    "docs/itemized/figures/andor-210-data-ge-1080p.webp": "75f2ef58fa66fef755ab7012f09c1aef6afa30fcc2d9062b773839b70c3513de",
+    "docs/itemized/figures/andor-210-data-lt-1080p-4k.webp": "06b40859e66b116cf0b40ec27082753001b52d6b437ca0ccf605e3a0876ed561",
+    "docs/itemized/figures/andor-210-data-lt-1080p.webp": "0ff7700e66c34dd285e250646b74d946295267bf8bbf8c5bc9c88722903a3a7e",
+    "docs/itemized/figures/andor-210-downloads-by-day-day.svg": "1c19bf7928dca59862e64244a35d9e5b5560080178b2382d3c6fbf7e34d645df",
+    "docs/itemized/figures/andor-210-downloads-by-week-andor-210-week.svg": "59dca6051b416cde4707fa9af1288e95ac7eb91e1f1b486ae976745d606ca448",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-year-2025-render",
+      "revision": "c3fc4c8a7866bee5f6d5f26160c56b2cffb05cb1",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "b5732bc916a52afce45790bf7005569f9cdebbb759447c374ec08d1f5222ed12",
+      "size": 36994160
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.cumulative/andor-210-cumulative-btiha.geojson.gz",
+        "sha256": "245a6fec184679ca3f1710d516aab63b16e3edc56eed9ea805cb8c13db4de9e2",
+        "size": 65248069
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/json/andor-210-cumulative-btiha-media-objects.json",
+        "sha256": "d6e60f30d0a6f9cf3cb47ad951e6f4dd584baef1a3c8e12c557364f3c3e460a3",
+        "size": 1211534
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/izzi",
+      "revision": "b988ee7fd690a74a696c27c9aadf40c204a4c780",
+      "untracked": false
+    },
+    "media_object": "andor-210",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60-results-2025/bin/a60-meta-collection.exe",
+      "sha256": "e71f9def936a6868d5282a5ff7dece07ade360eefa07abebde75434a927220f7",
+      "size": 8743680
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          73.0,
+          44.0,
+          43.0,
+          38.0,
+          30.0,
+          28.0,
+          27.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Seoul",
+          "Moscow",
+          "Saint Petersburg",
+          "Istanbul",
+          "London",
+          "Shanghai",
+          "Nanjing",
+          "Amsterdam",
+          "Ashburn",
+          "Budapest"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          76.0,
+          46.0,
+          44.0,
+          32.0,
+          31.0,
+          28.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Seoul",
+          "Moscow",
+          "Saint Petersburg",
+          "Istanbul",
+          "London",
+          "Shanghai",
+          "Nanjing",
+          "Amsterdam",
+          "Budapest",
+          "Incheon"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 21,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 41,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 6,
+        "x_tick_marks": 6,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 27,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "c3fc4c8a7866bee5f6d5f26160c56b2cffb05cb1",
+    "cartofreako": "fc58111b5bfa7667b12f6ade522ae5e566b464d1",
+    "izzi": "b988ee7fd690a74a696c27c9aadf40c204a4c780",
+    "metadata": "fbeb53a0b523f937fae2f23d14689d8c5c84dd5a",
+    "results_aao_adoption": "9cd9d91a6fbb560ac2a96beadf4c83b94daf6a88"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2025"
+}
