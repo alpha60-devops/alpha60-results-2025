@@ -1,0 +1,253 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt31227572",
+    "imdb_id": "tt31227572",
+    "revision": "fbeb53a0b523f937fae2f23d14689d8c5c84dd5a",
+    "wikidata_id": "Q126396314",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Predator:_Badlands"
+  },
+  "coverage_sha256": "333da42cba15eeae036a52e335a7a5cbe088f786c2554dd21a834d7323815582",
+  "generated_at": "2026-08-30T15:50:34.760972+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "aao-checksum-manifest": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/SHA256SUMS",
+      "sha256": "4a4818facd85b709f0321b0a6de31b4a3eff6f108f3b9354c75632926e6baa48",
+      "size": 266728
+    },
+    "aao-release": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/release.json",
+      "sha256": "3ce0984da2d12b0e3697e76c02608bd9d1a955ee3d00e0a7054bdd297b8f18c8",
+      "size": 1342
+    },
+    "aao-verification": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-aao-verification.json",
+      "sha256": "e01294ebce8e54b65e16ab83017fa5585efe6f7a0a0f1a5e0f734e08d8e223fd",
+      "size": 854
+    },
+    "archive-map": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-cache-archive-map.json",
+      "sha256": "8d4d506f23cd80f46baf010bd17509c916083e75eb8b43b052641138c3f308f1",
+      "size": 125170
+    },
+    "btiha-metadata-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/predator-badlands-cumulative-btiha-media-objects.json",
+      "sha256": "9bc763cfd6fb156edffc10e27f9320920500cf01fbed08facf1000425fb38f83",
+      "size": 386562
+    },
+    "canonical-metadata": {
+      "path": "/tmp/alpha60-swarm-metadata-2025/metadata/predator-badlands.json",
+      "sha256": "46189710c9705b61fe8895f7a5f141cd63f2e5eb148e8570f975503c1b3cdc33",
+      "size": 6860
+    },
+    "coverage-report": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-coverage-evidence/predator-badlands.md",
+      "sha256": "0c9a8826dd2599a1359ad0cf9318f459d0e5f9657a3a81f475b38aa8b171539e",
+      "size": 743
+    },
+    "cumulative-aggregate-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.cumulative/predator-badlands-cumulative-aggregate.geojson.gz",
+      "sha256": "4b95fc62748db26be75ea871e462214a0f6df7daa990b9e944a530f07fb6d920",
+      "size": 1428224
+    },
+    "cumulative-btiha-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.cumulative/predator-badlands-cumulative-btiha.geojson.gz",
+      "sha256": "f662d8ce48ebf5bcf7445ae4128069b49bd5e4042f1551fa5c677c60555f1f9f",
+      "size": 52555793
+    },
+    "cumulative-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/predator-badlands-cumulative.json",
+      "sha256": "cb651ec6ffcf4c8534577947cb799f887fd3ff9096df018fdbe379ec5268d885",
+      "size": 15693
+    },
+    "day-bundle-receipt": {
+      "path": "/tmp/year-2025-day-bundles/predator-badlands/receipt.json",
+      "sha256": "fa06bb821d493801a1165a41153fa2d8dfa4886011b0db5b57d723d72d130b42",
+      "size": 69132
+    },
+    "ip-swarm-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/predator-badlands-cumulative-ip-swarm.json",
+      "sha256": "abc14a302fc1ba81bfd1342889af54b88da826dd68b827933d2f3e6f6112c59d",
+      "size": 43701
+    },
+    "published-day-bundle-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-day-product-receipts/predator-badlands.json",
+      "sha256": "fa06bb821d493801a1165a41153fa2d8dfa4886011b0db5b57d723d72d130b42",
+      "size": 69132
+    },
+    "week-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/predator-badlands-week.json",
+      "sha256": "97c8d271af97c5cd8a61c042a65d546b77851906cb27d0ae7292492b1c178cfd",
+      "size": 3664816
+    }
+  },
+  "media_object": "predator-badlands",
+  "published_files": {
+    "data/csv/bytes/predator-badlands-cumulative-detail.2025-btiha-itemized-by-bytes.csv": "a2b40ecf6babd2731be2349959f0d62d48a55fa046a91a20d290945fa195be49",
+    "docs/itemized/figures/predator-badlands-carto-4k.webp": "0ee556600ca5975fcaabd65f73bbb6c611ffac46663b33babdfc7b0623396cc4",
+    "docs/itemized/figures/predator-badlands-carto.png": "0424b35e73a408e6a4c80d609606d4873654a1d495d8631f65113a60a464b6b1",
+    "docs/itemized/figures/predator-badlands-cumulative-detail-btiha-itemized-by-bytes.svg": "7dcbd36017df43f4b84de5d65d0549c716e1800ce4072be4ab76e7838029ee90",
+    "docs/itemized/figures/predator-badlands-data-ge-1080p-4k.webp": "ea4e689995f0531388850336bd499a022a4232f45f0f7f9441d6fda3bb50c404",
+    "docs/itemized/figures/predator-badlands-data-ge-1080p.webp": "c0517d0a30e29e7ba0212ab4cb8f5ff46b5df48a7c2aaf5b697775ff9b7d6c4d",
+    "docs/itemized/figures/predator-badlands-data-lt-1080p-4k.webp": "28037c85f687904f7671376b54d226ae530d3deedb9417710576a6057d107be7",
+    "docs/itemized/figures/predator-badlands-data-lt-1080p.webp": "6bf6d61f7f25f2afd40d57944fc1202877a13c5c7b9700c47d2b2a8e2a754844",
+    "docs/itemized/figures/predator-badlands-downloads-by-day-day.svg": "c0384763ad3b85a9ddeb1f50d396a0cd03f5fdbcfadd62c97c4ef0ca359a5fda",
+    "docs/itemized/figures/predator-badlands-downloads-by-week-predator-badlands-week.svg": "d860fe72eb12154c96aee5921a0bee217ff08aa14783554af5bb5192fb656e20",
+    "docs/itemized/predator-badlands-sample-cache-audit.md": "b0fc9a5ce7c00c4766d86fa37b6ff039e1dc87c31f3a966d35caa2a6e366c9a3",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-year-2025-render",
+      "revision": "c520555c40beece2e38f62878e2d4cc1b312c505",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "c192c54f882171dafc74c038ec769f1e68bf8020d12a342d2334086b5b5ee5ea",
+      "size": 36998168
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.cumulative/predator-badlands-cumulative-btiha.geojson.gz",
+        "sha256": "f662d8ce48ebf5bcf7445ae4128069b49bd5e4042f1551fa5c677c60555f1f9f",
+        "size": 52555793
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/json/predator-badlands-cumulative-btiha-media-objects.json",
+        "sha256": "9bc763cfd6fb156edffc10e27f9320920500cf01fbed08facf1000425fb38f83",
+        "size": 386562
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/izzi",
+      "revision": "b988ee7fd690a74a696c27c9aadf40c204a4c780",
+      "untracked": false
+    },
+    "media_object": "predator-badlands",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60-results-2025/bin/a60-meta-collection.exe",
+      "sha256": "e71f9def936a6868d5282a5ff7dece07ade360eefa07abebde75434a927220f7",
+      "size": 8743680
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          68.0,
+          55.0,
+          41.0,
+          33.0,
+          29.0,
+          29.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Seoul",
+          "Nanjing",
+          "Moscow",
+          "Istanbul",
+          "Saint Petersburg",
+          "Shanghai",
+          "London",
+          "Amsterdam",
+          "Hangzhou",
+          "Incheon"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          58.0,
+          43.0,
+          43.0,
+          34.0,
+          30.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Seoul",
+          "Moscow",
+          "Nanjing",
+          "Istanbul",
+          "Saint Petersburg",
+          "Shanghai",
+          "London",
+          "Hangzhou",
+          "Amsterdam",
+          "Incheon"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 21,
+        "y_tick_labels": 20
+      },
+      "histogram": {
+        "bars": 48,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 26,
+        "y_tick_labels": 20
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "c520555c40beece2e38f62878e2d4cc1b312c505",
+    "cartofreako": "fc58111b5bfa7667b12f6ade522ae5e566b464d1",
+    "izzi": "b988ee7fd690a74a696c27c9aadf40c204a4c780",
+    "metadata": "fbeb53a0b523f937fae2f23d14689d8c5c84dd5a",
+    "results_aao_adoption": "9cd9d91a6fbb560ac2a96beadf4c83b94daf6a88"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2025"
+}

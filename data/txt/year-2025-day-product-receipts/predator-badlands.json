@@ -1,0 +1,1725 @@
+{
+  "archive": {
+    "path": "/home/bkoz/src/alpha60-xperiments/year-2025-archives/predator-badlands.cache/cache.20260610.tar.xz",
+    "sha256": "4460656c95f33ee65c970fb9dcc28fa928bfaca4346a8e5eafdfe35f50cdfe8c",
+    "size": 3206384196
+  },
+  "authorization": {
+    "archive_mutated": false,
+    "excluded_member_classes": [
+      "hour",
+      "week",
+      "cumulative"
+    ],
+    "raw_samples_opened": false,
+    "scope": "read only streaming of per-torrent day records"
+  },
+  "collection_key": "predator-badlands",
+  "day_cache_stream_contract": {
+    "authorization": {
+      "archive_mutated": false,
+      "excluded_member_classes": [
+        "hour",
+        "week",
+        "cumulative"
+      ],
+      "raw_samples_opened": false,
+      "scope": "read only streaming of per-torrent day records"
+    },
+    "available_day_products": 182,
+    "cache_members": 43215,
+    "collection_key": "predator-badlands",
+    "first_date": "2025-12-11",
+    "first_index": 1,
+    "indices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144,
+      145,
+      146,
+      147,
+      148,
+      149,
+      150,
+      151,
+      152,
+      153,
+      154,
+      155,
+      156,
+      157,
+      158,
+      159,
+      160,
+      161,
+      162,
+      163,
+      164,
+      165,
+      166,
+      167,
+      168,
+      169,
+      170,
+      171,
+      172,
+      173,
+      174,
+      175,
+      176,
+      177,
+      178,
+      179,
+      180,
+      181,
+      182
+    ],
+    "last_date": "2026-06-10",
+    "last_index": 182,
+    "missing_indices": [],
+    "sample_span_days": 182,
+    "schema": "alpha60-day-cache-stream-contract/1",
+    "sparse": false,
+    "status": "pass"
+  },
+  "day_product_contract": {
+    "collection_key": "predator-badlands",
+    "day_products": 182,
+    "first_date": "2025-12-11",
+    "first_index": 1,
+    "geojson_data_version": "20260701",
+    "ip_geolocation_version": "6:1777968300",
+    "json_data_version": "2026-08-05",
+    "last_date": "2026-06-10",
+    "last_index": 182,
+    "schema": "alpha60-day-product-contract/1",
+    "sparse": false,
+    "status": "pass"
+  },
+  "publications": {
+    "data/geojson.day/predator-badlands-day-00001.geojson.gz": {
+      "sha256": "499d981f854e13c3a13dc599a8e0a6252b42837bd4b593eb817ac26da1b55378",
+      "size": 25877
+    },
+    "data/geojson.day/predator-badlands-day-00002.geojson.gz": {
+      "sha256": "1ac9034095e9dd878adaf14bd8175f37c3f4e894004dfe373d2de134a69a0b37",
+      "size": 28132
+    },
+    "data/geojson.day/predator-badlands-day-00003.geojson.gz": {
+      "sha256": "ec0010d1df17f3ad98ff1c5eee7892de4b6cd9ce362e0fa475798661f2f68957",
+      "size": 28063
+    },
+    "data/geojson.day/predator-badlands-day-00004.geojson.gz": {
+      "sha256": "2c7cfa07ef947fcbd6f5ff9938c80fb133d279656a658568bfe62852a2544eb4",
+      "size": 144217
+    },
+    "data/geojson.day/predator-badlands-day-00005.geojson.gz": {
+      "sha256": "2f03a01d05ba6c295a38d0150dba56af806c98489680676c2a49e1498f59a1f5",
+      "size": 271897
+    },
+    "data/geojson.day/predator-badlands-day-00006.geojson.gz": {
+      "sha256": "b8406a94aa9a5575dd7fe30eeb8adeb7063c15cad49c33bf8ed4f780d1beded3",
+      "size": 265837
+    },
+    "data/geojson.day/predator-badlands-day-00007.geojson.gz": {
+      "sha256": "83f52e6849d1daa1139e3e545fec7e4766a5e1999a0908d5ae4df9c396e3ebf2",
+      "size": 254986
+    },
+    "data/geojson.day/predator-badlands-day-00008.geojson.gz": {
+      "sha256": "e825a0ca14f84f628f47b2a0a96e1384205a273a9a79aacdd8951852de1deed4",
+      "size": 257126
+    },
+    "data/geojson.day/predator-badlands-day-00009.geojson.gz": {
+      "sha256": "89bc3c84023230cf60ee3321093b0d46b991bda2eb4e11ea8e3cc361c3efe9d9",
+      "size": 252464
+    },
+    "data/geojson.day/predator-badlands-day-00010.geojson.gz": {
+      "sha256": "96b42809d94f413f4ebef56271a2e0aa5ac595b3461af2414cbc40966fd84fe0",
+      "size": 251358
+    },
+    "data/geojson.day/predator-badlands-day-00011.geojson.gz": {
+      "sha256": "f36cfcb7d53eac50c561dac57aba5ce2e8b9a16116b1385fff75bf0e917222dd",
+      "size": 256843
+    },
+    "data/geojson.day/predator-badlands-day-00012.geojson.gz": {
+      "sha256": "5f928e3b4aa3478c3ed127008245f9343103a05d4ac873e5ad89f68055b5619e",
+      "size": 230050
+    },
+    "data/geojson.day/predator-badlands-day-00013.geojson.gz": {
+      "sha256": "f7dd66561689b2048ab97fb01ca576947b50cf524160c56f93f5de78915aaaf9",
+      "size": 212216
+    },
+    "data/geojson.day/predator-badlands-day-00014.geojson.gz": {
+      "sha256": "9cbf95e54edc1328b7189dd0274000cf60610ff7f0561c3c66ba100977bb35bc",
+      "size": 246702
+    },
+    "data/geojson.day/predator-badlands-day-00015.geojson.gz": {
+      "sha256": "3f0ecb308d66d06246b6b79237c1f2b3ad5499ef41376349241f3eca0c9cb980",
+      "size": 245896
+    },
+    "data/geojson.day/predator-badlands-day-00016.geojson.gz": {
+      "sha256": "a3301c94bc5c9f14cbba61eddc1e213f628bf85398821eda4ecd5f799a97aca7",
+      "size": 246780
+    },
+    "data/geojson.day/predator-badlands-day-00017.geojson.gz": {
+      "sha256": "952e93f109760ee5899cb55dcb3ff2db5770172acd802e435444b4cf4466ae1d",
+      "size": 255752
+    },
+    "data/geojson.day/predator-badlands-day-00018.geojson.gz": {
+      "sha256": "dd6267747a8e9072952d9416bca2312db2825f7778f9d60d5a46047d7b6ab739",
+      "size": 253971
+    },
+    "data/geojson.day/predator-badlands-day-00019.geojson.gz": {
+      "sha256": "741bfc2f20da4a12ea496117b5e56eef490ff433755c2e4f7ad068d44f6893cf",
+      "size": 253390
+    },
+    "data/geojson.day/predator-badlands-day-00020.geojson.gz": {
+      "sha256": "2f9a3af42fcc954ade53ece97ff335b6d2a868faaf1b7e4d5d6bda79745939de",
+      "size": 250169
+    },
+    "data/geojson.day/predator-badlands-day-00021.geojson.gz": {
+      "sha256": "2dffd7c0e30d6e4a05f8a3cbd17a88a5faa9b313023396b07acbca8b6e19ba51",
+      "size": 256724
+    },
+    "data/geojson.day/predator-badlands-day-00022.geojson.gz": {
+      "sha256": "343997bb667b4e8ed9e70dd5785207015fc67e0df2e3b9358c69d33f628aae47",
+      "size": 253786
+    },
+    "data/geojson.day/predator-badlands-day-00023.geojson.gz": {
+      "sha256": "4b2dbbf6dd29128c12d2039476a838448b47cb3dc2ad4689d9ed386315e51ecb",
+      "size": 265028
+    },
+    "data/geojson.day/predator-badlands-day-00024.geojson.gz": {
+      "sha256": "ecb8b40e776a97ec8479da3b44900ac4cd496c03a813bca12b5c446ca316ce53",
+      "size": 247540
+    },
+    "data/geojson.day/predator-badlands-day-00025.geojson.gz": {
+      "sha256": "c5a2bb88732d6c0b6b956a438f9b8b2c4d0aaade037e802f68ff8f72cd340235",
+      "size": 248811
+    },
+    "data/geojson.day/predator-badlands-day-00026.geojson.gz": {
+      "sha256": "a8bb19951e74699c685bb3c58f13f3a8a8a823404d51b32802a28a886c9ec2e1",
+      "size": 260241
+    },
+    "data/geojson.day/predator-badlands-day-00027.geojson.gz": {
+      "sha256": "f3fb87be49f5b78bde8950f57fe4d7c504d6c735243b419bfb2c42cb314140b5",
+      "size": 278390
+    },
+    "data/geojson.day/predator-badlands-day-00028.geojson.gz": {
+      "sha256": "803d509891e0a5cd1042736f2790220b7fa4e0d34340bfc25c9925a1dc4c8197",
+      "size": 347601
+    },
+    "data/geojson.day/predator-badlands-day-00029.geojson.gz": {
+      "sha256": "cf1657bce57ec16f95526b10d15d1c59ae5ae318494163a9fcbd36675f17b69e",
+      "size": 392265
+    },
+    "data/geojson.day/predator-badlands-day-00030.geojson.gz": {
+      "sha256": "538256b349c6e2e8478f97d1ac3f0e50e9f1f351931f0f5dc85fed99c27e3e1f",
+      "size": 384772
+    },
+    "data/geojson.day/predator-badlands-day-00031.geojson.gz": {
+      "sha256": "915b0d9a4b5bc840025dbc9fbe8449b8949d2a192f0af3199c56a3e97c8533a1",
+      "size": 373123
+    },
+    "data/geojson.day/predator-badlands-day-00032.geojson.gz": {
+      "sha256": "d0703aff1b597f42c277c4f713975493afb473e89fb0d445d0e5aa9fc2b67e10",
+      "size": 371638
+    },
+    "data/geojson.day/predator-badlands-day-00033.geojson.gz": {
+      "sha256": "f0ad35def1662f0707dfc5b71dd4e94d5a3956201b628b45e9c2c832747bfefe",
+      "size": 354828
+    },
+    "data/geojson.day/predator-badlands-day-00034.geojson.gz": {
+      "sha256": "a9361a81865a58d9219ad85792e707a6610aba65e1912e8b9f1c92bbbfe6e167",
+      "size": 353169
+    },
+    "data/geojson.day/predator-badlands-day-00035.geojson.gz": {
+      "sha256": "09123c659a1ac75d8a0e3258c8c7de87a69e4a8589927df0b2c9644a2f6c39a7",
+      "size": 356367
+    },
+    "data/geojson.day/predator-badlands-day-00036.geojson.gz": {
+      "sha256": "dc6738a43a07567a10b248625eea2971311fbc6c88cdf640826af29f41ef3072",
+      "size": 347079
+    },
+    "data/geojson.day/predator-badlands-day-00037.geojson.gz": {
+      "sha256": "f24e0ee59bbe0f276af012302c2236b599c74cb868613b7e2c8a62269fcc7c38",
+      "size": 343722
+    },
+    "data/geojson.day/predator-badlands-day-00038.geojson.gz": {
+      "sha256": "4cdadd4c43fe6f1c0d71f01b051a948170d5a5a66c5963e0fb8353d0f753f47e",
+      "size": 352192
+    },
+    "data/geojson.day/predator-badlands-day-00039.geojson.gz": {
+      "sha256": "5c97f3f66982b23772a9b5bcae0f8c7364ed684b1f570bfff2d4fb31005e63b8",
+      "size": 348401
+    },
+    "data/geojson.day/predator-badlands-day-00040.geojson.gz": {
+      "sha256": "a8713893653b8490ad5cb863c7ea5938012ec8d999de4da0164da846ee67ad72",
+      "size": 351297
+    },
+    "data/geojson.day/predator-badlands-day-00041.geojson.gz": {
+      "sha256": "a8c375f54869c27cdba6b463ccf248dd93e7c9a9fc665fa72a5b3f183d4c7fca",
+      "size": 350366
+    },
+    "data/geojson.day/predator-badlands-day-00042.geojson.gz": {
+      "sha256": "be276638a2ab81889e697adbf554353553d165118811bc276b58ada31b17e146",
+      "size": 335352
+    },
+    "data/geojson.day/predator-badlands-day-00043.geojson.gz": {
+      "sha256": "3472d9b3d05a8bfbf1ec7a4b747562436028254cbff4d34b973ab27083878afe",
+      "size": 342952
+    },
+    "data/geojson.day/predator-badlands-day-00044.geojson.gz": {
+      "sha256": "0ac1b8742fb29d61834638d3e1b3f8668222e04472d561da4a2742cdbbc34378",
+      "size": 345852
+    },
+    "data/geojson.day/predator-badlands-day-00045.geojson.gz": {
+      "sha256": "8b712138adc5da8eeedda0c14b5f319fded9465fc6b629b501c0325f5e72adce",
+      "size": 331998
+    },
+    "data/geojson.day/predator-badlands-day-00046.geojson.gz": {
+      "sha256": "21c245fe7efdce51978c4609904ad3b4ad4ddb4d56cfba75fc57679eb6f73dbd",
+      "size": 336192
+    },
+    "data/geojson.day/predator-badlands-day-00047.geojson.gz": {
+      "sha256": "58eaded46a1f3c32157335f17593feb05fe6295d4ada95d55a3a255507bb1866",
+      "size": 343162
+    },
+    "data/geojson.day/predator-badlands-day-00048.geojson.gz": {
+      "sha256": "c25f5f895f84cebe475ada681c2db7c460cef109d617b29f96c67686774e3230",
+      "size": 337502
+    },
+    "data/geojson.day/predator-badlands-day-00049.geojson.gz": {
+      "sha256": "b00243820c3874270b43e95a89e346c01796ebe28ef44f1b5e0403155f9edb6a",
+      "size": 325095
+    },
+    "data/geojson.day/predator-badlands-day-00050.geojson.gz": {
+      "sha256": "dda1c9435c46157b09e586facc7cd15d9b86298e76f48f005fb68e11e7494237",
+      "size": 317772
+    },
+    "data/geojson.day/predator-badlands-day-00051.geojson.gz": {
+      "sha256": "69758bb1f263568cd121fbb7088a5c8ac86e1ebae19791bc77f346443f4a71d6",
+      "size": 334778
+    },
+    "data/geojson.day/predator-badlands-day-00052.geojson.gz": {
+      "sha256": "c376a77fc59437bb4dd91b31e8592d9b8c9d6fe140ec2aeb2d66bdc360116674",
+      "size": 314444
+    },
+    "data/geojson.day/predator-badlands-day-00053.geojson.gz": {
+      "sha256": "1e753125792e86a3e03f797e438a03738defa87299c762b24d6bdf9923aa606b",
+      "size": 324942
+    },
+    "data/geojson.day/predator-badlands-day-00054.geojson.gz": {
+      "sha256": "6feb7223e243fbff85d31271c714c1e5182e05b33d7b4fd531fd0a2889588f7f",
+      "size": 340582
+    },
+    "data/geojson.day/predator-badlands-day-00055.geojson.gz": {
+      "sha256": "1a9c5e7a51f522983c4f78a36e0b1c7c97379f040abf02c87c030a9561668281",
+      "size": 332785
+    },
+    "data/geojson.day/predator-badlands-day-00056.geojson.gz": {
+      "sha256": "49466358b700034ba01bedf9c68b28858f6ddd3c479872ab73fd8dac1625553e",
+      "size": 338396
+    },
+    "data/geojson.day/predator-badlands-day-00057.geojson.gz": {
+      "sha256": "f169a5bb0b9cfde4f8fdc5dbafa80aa6fcbaea6261c5b25ad17983a826ef42de",
+      "size": 332415
+    },
+    "data/geojson.day/predator-badlands-day-00058.geojson.gz": {
+      "sha256": "90134faf729df103e21b796b489c4122249dc7ee9c6b80dcea63c57494892be1",
+      "size": 390786
+    },
+    "data/geojson.day/predator-badlands-day-00059.geojson.gz": {
+      "sha256": "7576e0983e483397d24501b39164cf0345cf3c27bf65573d63f19eacfb325b83",
+      "size": 338021
+    },
+    "data/geojson.day/predator-badlands-day-00060.geojson.gz": {
+      "sha256": "fe513cd34f18458b5844067634a48e2d7c0e39155bdd151e6a3063eb310cfbd9",
+      "size": 323417
+    },
+    "data/geojson.day/predator-badlands-day-00061.geojson.gz": {
+      "sha256": "43b256a1023953d57ec3eb0e67daa147393add1b786128dd6d5821ae1f391c0a",
+      "size": 337887
+    },
+    "data/geojson.day/predator-badlands-day-00062.geojson.gz": {
+      "sha256": "5150cb0efb2ddf5e14b06ad06f142411ea9c4db02f8a60824acd204b35e2d66a",
+      "size": 336688
+    },
+    "data/geojson.day/predator-badlands-day-00063.geojson.gz": {
+      "sha256": "61d1a6598be1093dd5b34ac11c90d2357d2cd42e6de483ef183c58a44b90bcc7",
+      "size": 331611
+    },
+    "data/geojson.day/predator-badlands-day-00064.geojson.gz": {
+      "sha256": "717820216cba76c29d0482376759888b1d8637ef92f8153daad18b06f09131ca",
+      "size": 329158
+    },
+    "data/geojson.day/predator-badlands-day-00065.geojson.gz": {
+      "sha256": "5caad11cc482816ee6f8f4227822d69560fea30ef7ceab0607c24c641dd90979",
+      "size": 337523
+    },
+    "data/geojson.day/predator-badlands-day-00066.geojson.gz": {
+      "sha256": "f32a642ad023188d915bd8548ec935813e2dda0b2c821cb67a87aa74e572c8a4",
+      "size": 338032
+    },
+    "data/geojson.day/predator-badlands-day-00067.geojson.gz": {
+      "sha256": "90926decec81436f9fe2d9be0fd931584cc71016abb08453fe428f984fe64474",
+      "size": 348558
+    },
+    "data/geojson.day/predator-badlands-day-00068.geojson.gz": {
+      "sha256": "a6994847a127c6942eaefd531b0ec253793d4e42e36c48483c19719e85267cb1",
+      "size": 346482
+    },
+    "data/geojson.day/predator-badlands-day-00069.geojson.gz": {
+      "sha256": "9bdc61aad2604db1fe9aa866318fb11cb8b9a39cf93c5a634f7892da0715b797",
+      "size": 327163
+    },
+    "data/geojson.day/predator-badlands-day-00070.geojson.gz": {
+      "sha256": "72192c820a7e87efa9890190968d7277e1604ba0a3a6ca7c0d1f43f09772d655",
+      "size": 324145
+    },
+    "data/geojson.day/predator-badlands-day-00071.geojson.gz": {
+      "sha256": "3b7524a95e0f009925ad238caccf751c23f7324b15a6556a93790f88f4a3a524",
+      "size": 336952
+    },
+    "data/geojson.day/predator-badlands-day-00072.geojson.gz": {
+      "sha256": "9ca023ebcbc6869f10dad02d6fb506ad60fcd088c496b84cc2d3d4e58ff0682c",
+      "size": 342201
+    },
+    "data/geojson.day/predator-badlands-day-00073.geojson.gz": {
+      "sha256": "aa24a989ffcde3a8731c19343acafd99d41c057ed5625384deabd1844b3fd461",
+      "size": 340127
+    },
+    "data/geojson.day/predator-badlands-day-00074.geojson.gz": {
+      "sha256": "68a9a32d121f610aaf62efe5e8f0602f827a201ef81460da001ed904fcc93536",
+      "size": 334746
+    },
+    "data/geojson.day/predator-badlands-day-00075.geojson.gz": {
+      "sha256": "1c93e054acb968f69cd6608d63b87d77310aabd355ee53a82431b9ec23c877eb",
+      "size": 337912
+    },
+    "data/geojson.day/predator-badlands-day-00076.geojson.gz": {
+      "sha256": "b07c13a635354b21c9880300678420d1aaddf4905af4f0b41da7196c37bbb7e6",
+      "size": 334429
+    },
+    "data/geojson.day/predator-badlands-day-00077.geojson.gz": {
+      "sha256": "31d7b2db9857acaa4e6918297119734b0b83cfc2ff44c1d99156c5b886fe60c6",
+      "size": 320684
+    },
+    "data/geojson.day/predator-badlands-day-00078.geojson.gz": {
+      "sha256": "d0bda93b378c0ec56f25d0ebad082b45b999c73f5feeb551350781cbcea1c127",
+      "size": 314254
+    },
+    "data/geojson.day/predator-badlands-day-00079.geojson.gz": {
+      "sha256": "710c8594a0898620d287516f2a598a40695491b33c9566283d897dcdf915c30c",
+      "size": 303628
+    },
+    "data/geojson.day/predator-badlands-day-00080.geojson.gz": {
+      "sha256": "c9f0d91f0bcd07ddbfd63d82134308bf976d4b0866cbf0073fee24986bf0ae06",
+      "size": 307563
+    },
+    "data/geojson.day/predator-badlands-day-00081.geojson.gz": {
+      "sha256": "bc13751436c6671e43f450c29a63f3990a72b31884aee2072c764580e3e757e7",
+      "size": 305713
+    },
+    "data/geojson.day/predator-badlands-day-00082.geojson.gz": {
+      "sha256": "ae6ba4a3027f43425fdc531df59bf4ddc848a156d8991b8fd1246dfeadf54d65",
+      "size": 311428
+    },
+    "data/geojson.day/predator-badlands-day-00083.geojson.gz": {
+      "sha256": "491919f499b845c1bb2a42164e9085120019a24c3efdce25e0ec519505b5aeba",
+      "size": 317031
+    },
+    "data/geojson.day/predator-badlands-day-00084.geojson.gz": {
+      "sha256": "5f26ca5e0a28e65e25d8004d8b2f6d682a0c53d12b2c98921436044b3d6d7ca8",
+      "size": 308395
+    },
+    "data/geojson.day/predator-badlands-day-00085.geojson.gz": {
+      "sha256": "fe61704bcbc6bf59b2cda330003e9d14484c363c8267b57eaa7fdf329611bae0",
+      "size": 313107
+    },
+    "data/geojson.day/predator-badlands-day-00086.geojson.gz": {
+      "sha256": "04e23386c07737cc081757156adfe1e3f3cc2d87ea6494394d68b0c7fb4db69a",
+      "size": 298638
+    },
+    "data/geojson.day/predator-badlands-day-00087.geojson.gz": {
+      "sha256": "d66d2efc4d01a9e7b25fd2f178ee1b571a83d4ceaa6b1e887b5a2be390f7c710",
+      "size": 282988
+    },
+    "data/geojson.day/predator-badlands-day-00088.geojson.gz": {
+      "sha256": "184489d636dd908bb075920ac81dcde1a4741240badb768b3f0314d1c1bf6165",
+      "size": 270141
+    },
+    "data/geojson.day/predator-badlands-day-00089.geojson.gz": {
+      "sha256": "12d5818a27ee40a04b6f7136a412f7cdc44f74816434de25e7a4185253e1c2f2",
+      "size": 309501
+    },
+    "data/geojson.day/predator-badlands-day-00090.geojson.gz": {
+      "sha256": "8ad07cf79624291e3ee10ffb64c65234af5ad07fdde9f6817df72cbfa944b5a5",
+      "size": 299615
+    },
+    "data/geojson.day/predator-badlands-day-00091.geojson.gz": {
+      "sha256": "e09cecbecc62648fa8be7aedb8e7eeeef0fecd400f84e0316407742178cfa8c5",
+      "size": 310420
+    },
+    "data/geojson.day/predator-badlands-day-00092.geojson.gz": {
+      "sha256": "027041fbe7a0c7bf6e135d614dce2f14b73c6e93c9a18d562a53cf4f08706353",
+      "size": 307179
+    },
+    "data/geojson.day/predator-badlands-day-00093.geojson.gz": {
+      "sha256": "f5a14d6e923f1c58437539ffd96322f4400fd78013ca1f22385123cf793a8aa9",
+      "size": 292743
+    },
+    "data/geojson.day/predator-badlands-day-00094.geojson.gz": {
+      "sha256": "8a055d41c4ff7662226f22922986d7697b93bc87ec0c20e2c18cef2c61fe49d3",
+      "size": 281583
+    },
+    "data/geojson.day/predator-badlands-day-00095.geojson.gz": {
+      "sha256": "5aeadabb3b917a1f2b70bfd736f4ad90d27733b560491f0e98aa1125093bd9ca",
+      "size": 297602
+    },
+    "data/geojson.day/predator-badlands-day-00096.geojson.gz": {
+      "sha256": "e2c14f412365c0e311699c4c580c41480bd44327dedf6f14e5f75fdf6f951291",
+      "size": 298046
+    },
+    "data/geojson.day/predator-badlands-day-00097.geojson.gz": {
+      "sha256": "1258e52807e3dbcf2d97cb40966a41a2526e30e81a35c886b9f1dcd8afd866ce",
+      "size": 295101
+    },
+    "data/geojson.day/predator-badlands-day-00098.geojson.gz": {
+      "sha256": "e974c095954438ba174508c3d26626c5fb7635e0301e6553006e955ad6263200",
+      "size": 292266
+    },
+    "data/geojson.day/predator-badlands-day-00099.geojson.gz": {
+      "sha256": "f654423c3cfa8ee540f886ffbf62af59defa0eb98ec76291da0b23699f59d4ef",
+      "size": 296456
+    },
+    "data/geojson.day/predator-badlands-day-00100.geojson.gz": {
+      "sha256": "00e2762c8867393457dc029d963634889efa98b749610ce7d6192f2e40859386",
+      "size": 300210
+    },
+    "data/geojson.day/predator-badlands-day-00101.geojson.gz": {
+      "sha256": "a410a37d36a1abdda56d80b6ce253f576076fd9cadada5fd21ba50c0bb4ddea7",
+      "size": 282465
+    },
+    "data/geojson.day/predator-badlands-day-00102.geojson.gz": {
+      "sha256": "44ee89ee4bb089602d8b1702944d57a8a70ecdcd44dd104b6a82c10b5901dc78",
+      "size": 292510
+    },
+    "data/geojson.day/predator-badlands-day-00103.geojson.gz": {
+      "sha256": "78d332a2fe0867ad35f27c2ea8bebfd4bfdba9d21ea75497b6c2e5b095016b42",
+      "size": 300514
+    },
+    "data/geojson.day/predator-badlands-day-00104.geojson.gz": {
+      "sha256": "ace7791b95e3981da6562bda706abda0d98fe7ae72dfa455c6c4f22ae9fb07b9",
+      "size": 302002
+    },
+    "data/geojson.day/predator-badlands-day-00105.geojson.gz": {
+      "sha256": "4f1e29ec9b8842f07101976466790e864806524181fd9b5a9635e282d51d6c90",
+      "size": 305007
+    },
+    "data/geojson.day/predator-badlands-day-00106.geojson.gz": {
+      "sha256": "49785b042b922b56f8fcff3442b998456d34d059d58d53d257fe02a2e388720b",
+      "size": 308622
+    },
+    "data/geojson.day/predator-badlands-day-00107.geojson.gz": {
+      "sha256": "7ada315898537ff2c5bd1ec41fda11f5761379fe061a860bffa334ec4d6f7647",
+      "size": 308626
+    },
+    "data/geojson.day/predator-badlands-day-00108.geojson.gz": {
+      "sha256": "0d8c0e319c19c442b1f07ae733d5a56a441b6da324f7ea3d13add8a05b07ad86",
+      "size": 289214
+    },
+    "data/geojson.day/predator-badlands-day-00109.geojson.gz": {
+      "sha256": "31a512a0c4fc79f17ab8646b8ed457294d407a1321b4885cc749f6389f943110",
+      "size": 281660
+    },
+    "data/geojson.day/predator-badlands-day-00110.geojson.gz": {
+      "sha256": "05434c370737ddae3fbbadafe3a44087f849d1db4ff83721415798d8665c9708",
+      "size": 300678
+    },
+    "data/geojson.day/predator-badlands-day-00111.geojson.gz": {
+      "sha256": "e4b13fb91641c720870f5472055be0db255071f0f25d23346ce5f3492b9ec6f2",
+      "size": 296832
+    },
+    "data/geojson.day/predator-badlands-day-00112.geojson.gz": {
+      "sha256": "cf7d217d4998abfe8a74fcf1b730682d8ba35872c1f06d69f491e407d27e7c77",
+      "size": 301341
+    },
+    "data/geojson.day/predator-badlands-day-00113.geojson.gz": {
+      "sha256": "35e6324c8de3a06cae062c159a7292344d8368db18078b7e01be982105089170",
+      "size": 300510
+    },
+    "data/geojson.day/predator-badlands-day-00114.geojson.gz": {
+      "sha256": "ffb194950a638f0aba54e272caa384692747dca7d63cbb21ef89cdcf43beb7a5",
+      "size": 338603
+    },
+    "data/geojson.day/predator-badlands-day-00115.geojson.gz": {
+      "sha256": "20ecf1aca28c210fd11c06185037856e599b078c5dca65aea5a2b3034926885f",
+      "size": 285748
+    },
+    "data/geojson.day/predator-badlands-day-00116.geojson.gz": {
+      "sha256": "26f04853825d2101a1738214fe1341fe795da965207d1630735e7d4834305f47",
+      "size": 288028
+    },
+    "data/geojson.day/predator-badlands-day-00117.geojson.gz": {
+      "sha256": "9ebbf51029f961437357af50b91a7892c7466323cd6dad6488730f4e20a118fc",
+      "size": 302242
+    },
+    "data/geojson.day/predator-badlands-day-00118.geojson.gz": {
+      "sha256": "6173262342d97ef1eaa5116863dbe090b1dd4670dcfa67c6dabe0f99919c83a0",
+      "size": 291730
+    },
+    "data/geojson.day/predator-badlands-day-00119.geojson.gz": {
+      "sha256": "8ab36cef19502a0401fcc51039559777c8bcd8ce9f4283f516a24f289afac6de",
+      "size": 295600
+    },
+    "data/geojson.day/predator-badlands-day-00120.geojson.gz": {
+      "sha256": "44b80efe8154e46462b1abed72257ec054d37f0f968c80e0d17bb0cb44d61601",
+      "size": 292127
+    },
+    "data/geojson.day/predator-badlands-day-00121.geojson.gz": {
+      "sha256": "426325be953cd9666c0b90a6a0c2b821f45a400e879a1a08e47d1fbaf3a211b7",
+      "size": 302764
+    },
+    "data/geojson.day/predator-badlands-day-00122.geojson.gz": {
+      "sha256": "bc511d609c709f0e291d3e031af59f869f628f2f6d44235ee9b179eae1752c46",
+      "size": 284251
+    },
+    "data/geojson.day/predator-badlands-day-00123.geojson.gz": {
+      "sha256": "d2240ff795cc68a3ba66c13b5677fc75fa2548c78364d87acc40ca680ea4e039",
+      "size": 277037
+    },
+    "data/geojson.day/predator-badlands-day-00124.geojson.gz": {
+      "sha256": "ca5d5dbed038ebaa355e52a42da4d5b6fecf0aa02e21d066422d2c34baec4f84",
+      "size": 297069
+    },
+    "data/geojson.day/predator-badlands-day-00125.geojson.gz": {
+      "sha256": "494938f07e85e3d75c00e8b1257984c3236a19dab2a7742038b3bb938cf0838c",
+      "size": 303582
+    },
+    "data/geojson.day/predator-badlands-day-00126.geojson.gz": {
+      "sha256": "32fe89bdb3e3f7a11b1089d4ade3e1484384d9ad12cbda59cb655d57230c3e4f",
+      "size": 301336
+    },
+    "data/geojson.day/predator-badlands-day-00127.geojson.gz": {
+      "sha256": "493455636c0eaf334fb1d9cc5c086aa328347776e4b1481837208863a6e761c4",
+      "size": 297311
+    },
+    "data/geojson.day/predator-badlands-day-00128.geojson.gz": {
+      "sha256": "620e635a6fcd8d9d5452c46bbd47e7d9063ce181a4eb0a006f100ae5b7e06164",
+      "size": 300102
+    },
+    "data/geojson.day/predator-badlands-day-00129.geojson.gz": {
+      "sha256": "da6872378789c9293bc3271a1caddb7eb490bda9c7cb88698da152312e184b09",
+      "size": 293890
+    },
+    "data/geojson.day/predator-badlands-day-00130.geojson.gz": {
+      "sha256": "49a8d2ad74fde78df33e3d641c53aa7538381ce9f2d78945434e0986ba823526",
+      "size": 295145
+    },
+    "data/geojson.day/predator-badlands-day-00131.geojson.gz": {
+      "sha256": "4fcc6d316df3d99f8975ec9336995bd08fae6f61142f0ec7705ea4de83a9b145",
+      "size": 295325
+    },
+    "data/geojson.day/predator-badlands-day-00132.geojson.gz": {
+      "sha256": "71040e92485af93ff561ba96f69fcf7f5813bea6e67d97cc131f164046e3131a",
+      "size": 295275
+    },
+    "data/geojson.day/predator-badlands-day-00133.geojson.gz": {
+      "sha256": "a6c4732ff3f90d0849b614de27159102a810ca2efc0191c442f83f798cda1986",
+      "size": 296125
+    },
+    "data/geojson.day/predator-badlands-day-00134.geojson.gz": {
+      "sha256": "797cd33686c55fd757174ac2def3fa222ad48dc3b5ee7658a5784e5b3b75a350",
+      "size": 294274
+    },
+    "data/geojson.day/predator-badlands-day-00135.geojson.gz": {
+      "sha256": "13e0d59cdc9d64fefd14dd6a44296c3be4ef037639d8740838f3f72bc3bd07d3",
+      "size": 281432
+    },
+    "data/geojson.day/predator-badlands-day-00136.geojson.gz": {
+      "sha256": "42ddc260137461e365f2c8d9e6c239e0034c14fcb66506863bed016a4e50c6e0",
+      "size": 281732
+    },
+    "data/geojson.day/predator-badlands-day-00137.geojson.gz": {
+      "sha256": "e049d151100d597d8ff85737814c6aa8a886a4d8bcae2b518f79ec2b326e8f25",
+      "size": 276222
+    },
+    "data/geojson.day/predator-badlands-day-00138.geojson.gz": {
+      "sha256": "5dbc19c6a3931ec0b8e72fb7cdb46283a502a3351bb52bd141651ab6146086dc",
+      "size": 269105
+    },
+    "data/geojson.day/predator-badlands-day-00139.geojson.gz": {
+      "sha256": "0cbf0ef8a46a4f7bdc5c963b19a3ed503dee1f5380b1f7bee0cc372d3e22491a",
+      "size": 281344
+    },
+    "data/geojson.day/predator-badlands-day-00140.geojson.gz": {
+      "sha256": "6494a5687120608808f714860f8b15aaca14e6be680489c2f7a39c64da34f23d",
+      "size": 275512
+    },
+    "data/geojson.day/predator-badlands-day-00141.geojson.gz": {
+      "sha256": "2a6979b22b1baa36fd6c36a4672a0e8ae53070dc436090a5efed4470bde1ffdf",
+      "size": 284517
+    },
+    "data/geojson.day/predator-badlands-day-00142.geojson.gz": {
+      "sha256": "70b4fc60bf0367a4b7d0b7339ff08e20d6187dddb0d41a141a0e47d1abfd88f2",
+      "size": 282028
+    },
+    "data/geojson.day/predator-badlands-day-00143.geojson.gz": {
+      "sha256": "b5b15037324079fcaed0dc2a8c15ea112053cb8e01342c146b1d02e0bf26af10",
+      "size": 285631
+    },
+    "data/geojson.day/predator-badlands-day-00144.geojson.gz": {
+      "sha256": "b22efad67c99133975fcdd75654faf5254daae1e8212f2b3736c406fc6c3a21e",
+      "size": 276304
+    },
+    "data/geojson.day/predator-badlands-day-00145.geojson.gz": {
+      "sha256": "77e2c11f9b46fcef4a7c634822975a7631f5933e0261b04bdef1359564ae5335",
+      "size": 275984
+    },
+    "data/geojson.day/predator-badlands-day-00146.geojson.gz": {
+      "sha256": "4b9bc5b1a2d476a4d77dd6e434c31d425fda92eb98131d69bfeb762c9c83235d",
+      "size": 271083
+    },
+    "data/geojson.day/predator-badlands-day-00147.geojson.gz": {
+      "sha256": "ef8bc92d027f96823965fef0d7c9f82f565ec2f4efb84370bc2d5f27e11e28f4",
+      "size": 271500
+    },
+    "data/geojson.day/predator-badlands-day-00148.geojson.gz": {
+      "sha256": "5216d62592618ecc42080281ee97a35854b534a28836d1fffc8fca69cf497d70",
+      "size": 272947
+    },
+    "data/geojson.day/predator-badlands-day-00149.geojson.gz": {
+      "sha256": "62b5f4cc4ad59f06fa5b702d196b3251500420995873de9e0fc9a1b963520c82",
+      "size": 268053
+    },
+    "data/geojson.day/predator-badlands-day-00150.geojson.gz": {
+      "sha256": "2353bcaf3dca39101ddf7a4cab4b42e35eeec848b76cf45c043333a75fe1ca6b",
+      "size": 275271
+    },
+    "data/geojson.day/predator-badlands-day-00151.geojson.gz": {
+      "sha256": "89f8cf1e26fc92d68c6c2def27b7c7f3efa7d2b9af637b7ff65091acc019d47e",
+      "size": 280933
+    },
+    "data/geojson.day/predator-badlands-day-00152.geojson.gz": {
+      "sha256": "ad09afa3385b9144cf288552e4c5eb749550351f22e0a9b6319c82fe2bdd70ba",
+      "size": 277611
+    },
+    "data/geojson.day/predator-badlands-day-00153.geojson.gz": {
+      "sha256": "ffe22c7d840ad03a9e13cc248be7f860fa535fbcc47d8abc1c8297039cc3c448",
+      "size": 269523
+    },
+    "data/geojson.day/predator-badlands-day-00154.geojson.gz": {
+      "sha256": "f0cb6c52145f91dfc0f320357ce0dcbefb0000dad5e234bafa1999d0e77212ad",
+      "size": 282291
+    },
+    "data/geojson.day/predator-badlands-day-00155.geojson.gz": {
+      "sha256": "48d64d4e50913817f7ca277f6471f445d6e9245f95087f36b038f8c2c9c1d8b9",
+      "size": 296841
+    },
+    "data/geojson.day/predator-badlands-day-00156.geojson.gz": {
+      "sha256": "ec2517732e9052596f7763918397ebe2e29bafc64d43c62507a1750036a950de",
+      "size": 311733
+    },
+    "data/geojson.day/predator-badlands-day-00157.geojson.gz": {
+      "sha256": "8acc6311e5639cde6f9b5d4edc8707226f826c220b24d81a2eeacd09598cea72",
+      "size": 296898
+    },
+    "data/geojson.day/predator-badlands-day-00158.geojson.gz": {
+      "sha256": "dc9857de93214d8559b875f4dfa3b51eff0c1830abc84d1a2333bda702fb3ad9",
+      "size": 296046
+    },
+    "data/geojson.day/predator-badlands-day-00159.geojson.gz": {
+      "sha256": "ef9e7a637fad9390203a3216f51e2622deb5e0b33b9a947e4433a1d19b8bf1de",
+      "size": 294116
+    },
+    "data/geojson.day/predator-badlands-day-00160.geojson.gz": {
+      "sha256": "d85994575a63fae90bf17aea1f76b0f1b437ce93bb8027bb9647aa4309bdd3e8",
+      "size": 285069
+    },
+    "data/geojson.day/predator-badlands-day-00161.geojson.gz": {
+      "sha256": "8a4590c0e212675c5126456b76a40e88c8334b7fa653f1b7c2f37c674df96638",
+      "size": 291034
+    },
+    "data/geojson.day/predator-badlands-day-00162.geojson.gz": {
+      "sha256": "dd00c76e63acdda02a1596d2cec4981a52309b297c17a222e2c6114abef858ca",
+      "size": 292744
+    },
+    "data/geojson.day/predator-badlands-day-00163.geojson.gz": {
+      "sha256": "7a184bbf11f49a457fc29db39c18fe98874b0438d2754dea26074e6468097a19",
+      "size": 281860
+    },
+    "data/geojson.day/predator-badlands-day-00164.geojson.gz": {
+      "sha256": "54f79f7f7c95854854d29da8efa2b551d1370bcd4997f60773dcf8a3b529d67f",
+      "size": 288748
+    },
+    "data/geojson.day/predator-badlands-day-00165.geojson.gz": {
+      "sha256": "89ec162701f9414a5e32a42d33f7f8936941ae63c531d9b120f7e24b23860a06",
+      "size": 289419
+    },
+    "data/geojson.day/predator-badlands-day-00166.geojson.gz": {
+      "sha256": "61606838fa8348c8ed13a0b438e050488eb787633dbc5a237b0075afee113627",
+      "size": 295419
+    },
+    "data/geojson.day/predator-badlands-day-00167.geojson.gz": {
+      "sha256": "e4ac1263c4c38ffd0a0ceb0144b0a110ebe4f3a7efe9e64c7aa3a2227df6886c",
+      "size": 290107
+    },
+    "data/geojson.day/predator-badlands-day-00168.geojson.gz": {
+      "sha256": "ff8421e56a8619067305b7dd9e239a291e4d3c9fa0969b67f94f3ba65e1207ae",
+      "size": 289140
+    },
+    "data/geojson.day/predator-badlands-day-00169.geojson.gz": {
+      "sha256": "8af90ec0505950a331b390e9b104ff475bf30a214398914ad069c573f5bbc104",
+      "size": 292446
+    },
+    "data/geojson.day/predator-badlands-day-00170.geojson.gz": {
+      "sha256": "150ac0706b3f7e415ba2cd4a4df6ac09bca86f99a9a82f4daf9491805dd57947",
+      "size": 291014
+    },
+    "data/geojson.day/predator-badlands-day-00171.geojson.gz": {
+      "sha256": "c8478ba15e4d0613b20ed646648a19678ff0ca41122f16828301386ced210c22",
+      "size": 292097
+    },
+    "data/geojson.day/predator-badlands-day-00172.geojson.gz": {
+      "sha256": "e10b10fdd594dabb7ecbb8eb6c725ad385a00f9afac3d3021eec9d66a07c70ab",
+      "size": 294894
+    },
+    "data/geojson.day/predator-badlands-day-00173.geojson.gz": {
+      "sha256": "3a7bb8f6cb2c982a562891f36ed53ae3b271199d1990e570fda98e7c42069e16",
+      "size": 293974
+    },
+    "data/geojson.day/predator-badlands-day-00174.geojson.gz": {
+      "sha256": "d972c7c906c0d512684a0fc29049d56265f6bd79daa08f6d5e0222a90693db6f",
+      "size": 287514
+    },
+    "data/geojson.day/predator-badlands-day-00175.geojson.gz": {
+      "sha256": "57ae0889974821001ac21fc71dd35be3438a163bd525f12fce039f972b5c605e",
+      "size": 282276
+    },
+    "data/geojson.day/predator-badlands-day-00176.geojson.gz": {
+      "sha256": "5d6479ce145e752d9d7f220662806b5f65e63c72bfbc52406752553574f5af70",
+      "size": 286682
+    },
+    "data/geojson.day/predator-badlands-day-00177.geojson.gz": {
+      "sha256": "166e689b050aa01ea0843095fb760e31e43e93e4d89a3c487d946bda3199188d",
+      "size": 291669
+    },
+    "data/geojson.day/predator-badlands-day-00178.geojson.gz": {
+      "sha256": "c59a95ca65b2c86cc5024cc94aa9b43b260aba7a222151365e3b17ccf739ca9a",
+      "size": 270379
+    },
+    "data/geojson.day/predator-badlands-day-00179.geojson.gz": {
+      "sha256": "dc33e586bda9676c81cb19a3a2cd8925e8a67728237f007f14dfd5e3d89e497a",
+      "size": 283820
+    },
+    "data/geojson.day/predator-badlands-day-00180.geojson.gz": {
+      "sha256": "8f962bdf24c0837247624e1110fd13de110d73511a12ca6e5e6ec293031b616a",
+      "size": 277506
+    },
+    "data/geojson.day/predator-badlands-day-00181.geojson.gz": {
+      "sha256": "fd7cf2498f704e79f066884cd691fe34f6f459cb95375096716d95e837176898",
+      "size": 265832
+    },
+    "data/geojson.day/predator-badlands-day-00182.geojson.gz": {
+      "sha256": "52bd91c4a629b67a7102e6b5c1fceb04d623386fcb68e29a637460ce2ce782d2",
+      "size": 260559
+    },
+    "data/json/predator-badlands-swarm-day-00001-2025-12-11.json": {
+      "sha256": "427c22d3c9e0efcb112a67eb7dd69081d568a43cd67d1c8e5657cf031bc8581d",
+      "size": 446
+    },
+    "data/json/predator-badlands-swarm-day-00002-2025-12-12.json": {
+      "sha256": "e8e363be50a986e4cd9d002da126df1337fa1315cf130556b0702ed2d32cee49",
+      "size": 446
+    },
+    "data/json/predator-badlands-swarm-day-00003-2025-12-13.json": {
+      "sha256": "e1596f2262488411c4e3e0ea723b12779e9e23bfa60cd370e382b1ec91863267",
+      "size": 446
+    },
+    "data/json/predator-badlands-swarm-day-00004-2025-12-14.json": {
+      "sha256": "7b1846958a989bb3ba46ead94b743937345a1880429f9b32e4e3618954dd47f9",
+      "size": 448
+    },
+    "data/json/predator-badlands-swarm-day-00005-2025-12-15.json": {
+      "sha256": "5ca2fc21da3a0ec84245c1c914463e05e62ac70fae5f91773b31fadee0efade9",
+      "size": 449
+    },
+    "data/json/predator-badlands-swarm-day-00006-2025-12-16.json": {
+      "sha256": "ac2b775b7fbf9ccd4f403e7fed2c6b8d054673cfc002591e25531073808816aa",
+      "size": 449
+    },
+    "data/json/predator-badlands-swarm-day-00007-2025-12-17.json": {
+      "sha256": "f14a3feff06761bf0b94cbf1cb377e52ac87cc5abea1825bfece14387bffe685",
+      "size": 449
+    },
+    "data/json/predator-badlands-swarm-day-00008-2025-12-18.json": {
+      "sha256": "767fd712d2cd205283ea458831a4d62f7f4ee6ba6a6d186efdebf08c20268655",
+      "size": 449
+    },
+    "data/json/predator-badlands-swarm-day-00009-2025-12-19.json": {
+      "sha256": "0afa8eff432c7626712c3b62024eb913e5f5adaaca3e5f45c370146989ae814d",
+      "size": 449
+    },
+    "data/json/predator-badlands-swarm-day-00010-2025-12-20.json": {
+      "sha256": "2c34d96d9e1189f4acac91791b9f26679185dde79a31a3aa5bf9991b98f9fc0c",
+      "size": 450
+    },
+    "data/json/predator-badlands-swarm-day-00011-2025-12-21.json": {
+      "sha256": "39bb8f1fd7753973ea002d115fcbedce96e4f0d3c6d37fe88ae85012dd0ddba6",
+      "size": 450
+    },
+    "data/json/predator-badlands-swarm-day-00012-2025-12-22.json": {
+      "sha256": "eb81daf713cbc1cb2c542fa0321f640d52a558c6af321a8aac5c5513de193a5e",
+      "size": 450
+    },
+    "data/json/predator-badlands-swarm-day-00013-2025-12-23.json": {
+      "sha256": "d775b5aa8768d0819b6d14524dab666ede81de5beb49994b1bae26bbc956a8b6",
+      "size": 450
+    },
+    "data/json/predator-badlands-swarm-day-00014-2025-12-24.json": {
+      "sha256": "faec1c7b250d13f83ce5f217668c8b9660e61a33fa083bb2f6451b4a8f4f0eed",
+      "size": 450
+    },
+    "data/json/predator-badlands-swarm-day-00015-2025-12-25.json": {
+      "sha256": "9b340af6da242fd2d856e27a6e26f35563a36b527112e3699224f10ef8629819",
+      "size": 450
+    },
+    "data/json/predator-badlands-swarm-day-00016-2025-12-26.json": {
+      "sha256": "84afa02a50229d2d1fad846c78e7be2a7388895fcff2851f31c6af1b4bc67f25",
+      "size": 450
+    },
+    "data/json/predator-badlands-swarm-day-00017-2025-12-27.json": {
+      "sha256": "c969e94078ca62c01834ba3182ee6fbfa2fa2eb6ead55993edfda88401f7b48e",
+      "size": 450
+    },
+    "data/json/predator-badlands-swarm-day-00018-2025-12-28.json": {
+      "sha256": "e2161fae40827978d3013dce29730580ae5b8956484fc2335545339ff587184f",
+      "size": 450
+    },
+    "data/json/predator-badlands-swarm-day-00019-2025-12-29.json": {
+      "sha256": "763c2ad3db60e02e19ca35a0ef760a661e4b6a58a2cc546e3c40901a9b926b93",
+      "size": 450
+    },
+    "data/json/predator-badlands-swarm-day-00020-2025-12-30.json": {
+      "sha256": "a7b935340af4f3b981fa4b6cb245d1a83c25da18cce1da3eda69d106cfd106e4",
+      "size": 450
+    },
+    "data/json/predator-badlands-swarm-day-00021-2025-12-31.json": {
+      "sha256": "f8ca9c7b9bca17a9643263ac725c970e028ee7ed89149745d08d5fe1366b57ab",
+      "size": 450
+    },
+    "data/json/predator-badlands-swarm-day-00022-2026-01-01.json": {
+      "sha256": "392cec6f4e7bf48e8d6dd4e8553dd81033a09eb54da97d2f0f24cde599cfcf77",
+      "size": 450
+    },
+    "data/json/predator-badlands-swarm-day-00023-2026-01-02.json": {
+      "sha256": "916ac77b4d5f3ab3dd9328d3abb0dae1b0e5710db4e131bb51a44d7cf3d2bf86",
+      "size": 450
+    },
+    "data/json/predator-badlands-swarm-day-00024-2026-01-03.json": {
+      "sha256": "3f676bc37691c4d99d8d6a053c62de9fdaedeeaa1699e54791390e56eafa9c88",
+      "size": 450
+    },
+    "data/json/predator-badlands-swarm-day-00025-2026-01-04.json": {
+      "sha256": "34cd7ccdc25fdeb0bff96f73de8bc14cda2fda60127ef4a46fb8236f3ebe7390",
+      "size": 450
+    },
+    "data/json/predator-badlands-swarm-day-00026-2026-01-05.json": {
+      "sha256": "70e979987b0658a42f8b91bf540d2caf70b2ad907aa216e8a2f689e920a9d0a2",
+      "size": 450
+    },
+    "data/json/predator-badlands-swarm-day-00027-2026-01-06.json": {
+      "sha256": "82bc30f9aa158182c4c008ff0b90b808872c45076df0a0de737dc51bdc1f32fc",
+      "size": 451
+    },
+    "data/json/predator-badlands-swarm-day-00028-2026-01-07.json": {
+      "sha256": "8be569ba0af56c5dbdcc029506b810ddfde3a7d64b0047cd7d96973fc36c45bd",
+      "size": 452
+    },
+    "data/json/predator-badlands-swarm-day-00029-2026-01-08.json": {
+      "sha256": "57312a21675c9b582c53c2d171baa35e28884e5ee19e11676f570d80c82981b5",
+      "size": 452
+    },
+    "data/json/predator-badlands-swarm-day-00030-2026-01-09.json": {
+      "sha256": "a90a5008f6d1b220592c9ad8573b516c6bdc12bcf59ebdd953e65221332efa3a",
+      "size": 452
+    },
+    "data/json/predator-badlands-swarm-day-00031-2026-01-10.json": {
+      "sha256": "a398ba52038f4f5c209fcfca3942d5ff1ce3e55e9b0ca6d2d1612d00396099ea",
+      "size": 452
+    },
+    "data/json/predator-badlands-swarm-day-00032-2026-01-11.json": {
+      "sha256": "288e7eb0c307606a997678afb5b6b112a0b3fc8ed3e646480905010cc4a4a01b",
+      "size": 452
+    },
+    "data/json/predator-badlands-swarm-day-00033-2026-01-12.json": {
+      "sha256": "e5fd02e6d426b6e1da0a21c4a020622ef172a76a590d939b3345e41ce2cd8c17",
+      "size": 451
+    },
+    "data/json/predator-badlands-swarm-day-00034-2026-01-13.json": {
+      "sha256": "2836f9ae79c8cba33ba4b8a74a36f6e7ea15cf7a996797a352c1c7e01b5290e3",
+      "size": 451
+    },
+    "data/json/predator-badlands-swarm-day-00035-2026-01-14.json": {
+      "sha256": "5538d45248f89866394e7eb19cd24902339ca24b884fa2884db3dfe7fad973ff",
+      "size": 451
+    },
+    "data/json/predator-badlands-swarm-day-00036-2026-01-15.json": {
+      "sha256": "fd29f173b09be830f550cbaccb765bbaafa4d7bfce957ccffc16f6b96b9703bd",
+      "size": 451
+    },
+    "data/json/predator-badlands-swarm-day-00037-2026-01-16.json": {
+      "sha256": "eb4f1cb2381eea13389fcd4eb0b8b0566bac09cbda57d40e9dd76bcef6894a49",
+      "size": 451
+    },
+    "data/json/predator-badlands-swarm-day-00038-2026-01-17.json": {
+      "sha256": "f0fd8d95168abc55b49e3a6b9616eb71274ebe1688992f91ba065b217aed571b",
+      "size": 451
+    },
+    "data/json/predator-badlands-swarm-day-00039-2026-01-18.json": {
+      "sha256": "baa9497f68a953c57d522e3774a8e745234e98cd6139ef4d44d5b64f92787d45",
+      "size": 451
+    },
+    "data/json/predator-badlands-swarm-day-00040-2026-01-19.json": {
+      "sha256": "0365ae39c914e788904757c5cf76f46e14c3b248d939386a46681aa2a97843e5",
+      "size": 451
+    },
+    "data/json/predator-badlands-swarm-day-00041-2026-01-20.json": {
+      "sha256": "cf8e44869c496a1171eda4d20da4e52956859eef5e59a005b55b7fa75be551ee",
+      "size": 451
+    },
+    "data/json/predator-badlands-swarm-day-00042-2026-01-21.json": {
+      "sha256": "3867ff7880c3c85fd6d38a09d83aa50a20dbd97a08406db36c449840a953939b",
+      "size": 451
+    },
+    "data/json/predator-badlands-swarm-day-00043-2026-01-22.json": {
+      "sha256": "0928cf4b0dd82ed09de9e60f7037385fe407d761c6329d3705d3b3c879c2c008",
+      "size": 451
+    },
+    "data/json/predator-badlands-swarm-day-00044-2026-01-23.json": {
+      "sha256": "908bfc446023ef4ae916d1840c085c08872bcfca93832a76386c9fb5912c1ed6",
+      "size": 451
+    },
+    "data/json/predator-badlands-swarm-day-00045-2026-01-24.json": {
+      "sha256": "3004aa64fed62af66f23af7692363bbef0df7af8309a646892afd29a459263cd",
+      "size": 451
+    },
+    "data/json/predator-badlands-swarm-day-00046-2026-01-25.json": {
+      "sha256": "c12a50b745180875fbf55741ac2bf00a058528eeff5098252518c13ed291ed6e",
+      "size": 451
+    },
+    "data/json/predator-badlands-swarm-day-00047-2026-01-26.json": {
+      "sha256": "d81ce1e73c60eddad675c25a4fff0e753dc8bf95a9040a62a8857d58c5f47c08",
+      "size": 451
+    },
+    "data/json/predator-badlands-swarm-day-00048-2026-01-27.json": {
+      "sha256": "5f41afd24a3e8f6b7e2309c89b3446b0f90250fe16b9e69e86c7ec1cf6cebe9a",
+      "size": 451
+    },
+    "data/json/predator-badlands-swarm-day-00049-2026-01-28.json": {
+      "sha256": "6b2362c75b2a0b32ac8a30954252755e9b183064bf9cbb208c7db82864c1fbb2",
+      "size": 451
+    },
+    "data/json/predator-badlands-swarm-day-00050-2026-01-29.json": {
+      "sha256": "7d1f54993199448d60fba09e9a3fdc7b16d5faf2c65b28122262621163bc80e7",
+      "size": 451
+    },
+    "data/json/predator-badlands-swarm-day-00051-2026-01-30.json": {
+      "sha256": "156ddfdb1ea852dc1794467d01560c5e73e447104bc2571f9df8282d8c6f2ff1",
+      "size": 451
+    },
+    "data/json/predator-badlands-swarm-day-00052-2026-01-31.json": {
+      "sha256": "f00c371f3b9a9c82301fdc932d9af3dc559455f4b3deed8e16edbd92915ebf57",
+      "size": 451
+    },
+    "data/json/predator-badlands-swarm-day-00053-2026-02-01.json": {
+      "sha256": "4ab6edf44118add575fdf0f96f60ae22b9327e00258ddde1ceecd519392e17c4",
+      "size": 451
+    },
+    "data/json/predator-badlands-swarm-day-00054-2026-02-02.json": {
+      "sha256": "fe4b9dbdc0cdcaccafd2060c268829be78d96b5dee13875e9fc06f82dedc24d7",
+      "size": 451
+    },
+    "data/json/predator-badlands-swarm-day-00055-2026-02-03.json": {
+      "sha256": "9111ab6a0b92baea498f7d296a71bd2bbb3f1035633c82c1ecc567ae7cdd312d",
+      "size": 451
+    },
+    "data/json/predator-badlands-swarm-day-00056-2026-02-04.json": {
+      "sha256": "b0586b3f55ea14c0b816a2ff6b475c484b9cc5af4b3d7859102416a303b8b025",
+      "size": 451
+    },
+    "data/json/predator-badlands-swarm-day-00057-2026-02-05.json": {
+      "sha256": "30a4238e9df72ff850246f990afb26f1c27ddd1a3bb63bac1d0107f9b41b9771",
+      "size": 451
+    },
+    "data/json/predator-badlands-swarm-day-00058-2026-02-06.json": {
+      "sha256": "4cee3fe37e884261489d972570c69dcef21a3b1edc7ed54e9baf7c91fec85111",
+      "size": 451
+    },
+    "data/json/predator-badlands-swarm-day-00059-2026-02-07.json": {
+      "sha256": "c2e17a42fa17a7c34150e70882fc50ec4f0505e67f04886cfb7be240f1f7519d",
+      "size": 451
+    },
+    "data/json/predator-badlands-swarm-day-00060-2026-02-08.json": {
+      "sha256": "27ed89dc998641338de10d14eae5b90dd3c8f9463d13bf14af57d3fb61531fc1",
+      "size": 451
+    },
+    "data/json/predator-badlands-swarm-day-00061-2026-02-09.json": {
+      "sha256": "741f6d36fcd495c0851f658853fd0779b1d6f89fd3179a5c589d129774106d3c",
+      "size": 451
+    },
+    "data/json/predator-badlands-swarm-day-00062-2026-02-10.json": {
+      "sha256": "3238d13b3219c6afb59310383baa1526d8722aa57ef92e5228141aaf2d4776dc",
+      "size": 451
+    },
+    "data/json/predator-badlands-swarm-day-00063-2026-02-11.json": {
+      "sha256": "3f61ff9668d92f590820597a4a93476b8b2465a8e1835b694250914ad6371ad1",
+      "size": 451
+    },
+    "data/json/predator-badlands-swarm-day-00064-2026-02-12.json": {
+      "sha256": "1f88118b3e974f62082be059b8871e505dacda3ba1b3854815fa17bfbd5bac48",
+      "size": 451
+    },
+    "data/json/predator-badlands-swarm-day-00065-2026-02-13.json": {
+      "sha256": "13a9197bf9de9a76ce5e2236635ccd6d5c417185f441d52519079c591222d66e",
+      "size": 451
+    },
+    "data/json/predator-badlands-swarm-day-00066-2026-02-14.json": {
+      "sha256": "fdb7585805dba6914d95bf552285a20076df173e95a84a498647155d7b44c5dd",
+      "size": 451
+    },
+    "data/json/predator-badlands-swarm-day-00067-2026-02-15.json": {
+      "sha256": "21257a0c4fe8d26938a8f4526a8617c177f18a7a91b158f1a5765a0797aaf8e1",
+      "size": 451
+    },
+    "data/json/predator-badlands-swarm-day-00068-2026-02-16.json": {
+      "sha256": "aab07b8505f739c6229dbc7a07f57d3fdba77f575b2e7a59911d4697626319e8",
+      "size": 451
+    },
+    "data/json/predator-badlands-swarm-day-00069-2026-02-17.json": {
+      "sha256": "fce6a42344b6438a26862215288218168b34426af2c79ed3a5d8a0f5c506d17e",
+      "size": 451
+    },
+    "data/json/predator-badlands-swarm-day-00070-2026-02-18.json": {
+      "sha256": "03cb48e560abd882eccd6b3eaefaf89c1402895b046a26dcffb53505d3001685",
+      "size": 451
+    },
+    "data/json/predator-badlands-swarm-day-00071-2026-02-19.json": {
+      "sha256": "fe9f45df9d690f023c965041f9d251ee0b29a57b9e36adb347bdda861461ec78",
+      "size": 451
+    },
+    "data/json/predator-badlands-swarm-day-00072-2026-02-20.json": {
+      "sha256": "1a26a887c5a97cd5ff8d86106ccf3c96d8def7b8865a603ce44812da56570fde",
+      "size": 451
+    },
+    "data/json/predator-badlands-swarm-day-00073-2026-02-21.json": {
+      "sha256": "f7fa41ba63b6dd6e3d06594716861b4063402321e7a92a910ae51883668983c3",
+      "size": 451
+    },
+    "data/json/predator-badlands-swarm-day-00074-2026-02-22.json": {
+      "sha256": "829f5865e290d7284d4dfebb7a3843f6c149315182df63af3e422189f2986eb2",
+      "size": 451
+    },
+    "data/json/predator-badlands-swarm-day-00075-2026-02-23.json": {
+      "sha256": "f69711405f0472f559b49df068301b168cde0f5571388f9cceeb7f21bb267da9",
+      "size": 451
+    },
+    "data/json/predator-badlands-swarm-day-00076-2026-02-24.json": {
+      "sha256": "a87069c827febb9fb1bd8df2516e8e185e41830e8baf216b5ba4a709b4f16c76",
+      "size": 451
+    },
+    "data/json/predator-badlands-swarm-day-00077-2026-02-25.json": {
+      "sha256": "d7ff9800d54db2de12d316d398b66b38536d73d7a06a6461be7edb42a6bd424d",
+      "size": 451
+    },
+    "data/json/predator-badlands-swarm-day-00078-2026-02-26.json": {
+      "sha256": "12a7edbaaa5b8ac6618277f45061bd75bb0ac944255d9f68aa769927d819bba7",
+      "size": 451
+    },
+    "data/json/predator-badlands-swarm-day-00079-2026-02-27.json": {
+      "sha256": "644f6275785401b89d104d82ec578bf869b2368ca53804e52b7db0550074ea48",
+      "size": 451
+    },
+    "data/json/predator-badlands-swarm-day-00080-2026-02-28.json": {
+      "sha256": "02e752ffb8b1ad2346147e21831f6c73e1ced53555b5f29663e27c3438e7d20f",
+      "size": 451
+    },
+    "data/json/predator-badlands-swarm-day-00081-2026-03-01.json": {
+      "sha256": "fe23a6c07c1d1f54475ef5489e52d26fa98ae2bb1a55ccfee45ac77d49ae6d8e",
+      "size": 451
+    },
+    "data/json/predator-badlands-swarm-day-00082-2026-03-02.json": {
+      "sha256": "a632cd47e58fba60b88659867273839f1802e55ae65432f00201e0a1338921c2",
+      "size": 451
+    },
+    "data/json/predator-badlands-swarm-day-00083-2026-03-03.json": {
+      "sha256": "6fe250df885267f55b34013707a09b33b6e36b1c62b3cfd176fb98ef21de38ed",
+      "size": 451
+    },
+    "data/json/predator-badlands-swarm-day-00084-2026-03-04.json": {
+      "sha256": "a5acad691f1e7e04d774b58f421db0bed4dcd1395b5809c65d7cf2a86123c834",
+      "size": 451
+    },
+    "data/json/predator-badlands-swarm-day-00085-2026-03-05.json": {
+      "sha256": "14ed9a0fddcff01d2e6b9f26af2ea3f39e643ab1ea9d0b117540154e33d63f3d",
+      "size": 451
+    },
+    "data/json/predator-badlands-swarm-day-00086-2026-03-06.json": {
+      "sha256": "e31269568410b941acc0cc90d39bdec7d29f43b169ba9ce12a44bf7197fca783",
+      "size": 451
+    },
+    "data/json/predator-badlands-swarm-day-00087-2026-03-07.json": {
+      "sha256": "71e01cc5208334fe1fa2b12626f41de042b6fbc1cde383c88f8f27787e7c9120",
+      "size": 451
+    },
+    "data/json/predator-badlands-swarm-day-00088-2026-03-08.json": {
+      "sha256": "befb91b7a6b7fa8b4190684562855dfa2d2b84ce32a9c2216a84e5023af757d8",
+      "size": 451
+    },
+    "data/json/predator-badlands-swarm-day-00089-2026-03-09.json": {
+      "sha256": "048ca66afccb768eac0c3973f38c0ce261eece894b8ab4f58b6500c90d42a91b",
+      "size": 451
+    },
+    "data/json/predator-badlands-swarm-day-00090-2026-03-10.json": {
+      "sha256": "47305976c52578166151774d0421cd20d86eea95701a6bd90bf817d6244c4c9c",
+      "size": 451
+    },
+    "data/json/predator-badlands-swarm-day-00091-2026-03-11.json": {
+      "sha256": "9cb38b61d7486717d1ce549c5f4128bd8fc2e3d99379a957a7d0aa3af9437eac",
+      "size": 451
+    },
+    "data/json/predator-badlands-swarm-day-00092-2026-03-12.json": {
+      "sha256": "bb0bf12bb76a194f767c38eb5583549da4ea994dd393a4285a8a8b7794ede8f3",
+      "size": 451
+    },
+    "data/json/predator-badlands-swarm-day-00093-2026-03-13.json": {
+      "sha256": "a5047a6f3f59decd770c27ae64e45f9959966e98d5778689564819a711ff5634",
+      "size": 451
+    },
+    "data/json/predator-badlands-swarm-day-00094-2026-03-14.json": {
+      "sha256": "e80436d4a3ebfd97d376ead3dd0480a836b7b09f10839ee3bd6adc950e649c8c",
+      "size": 451
+    },
+    "data/json/predator-badlands-swarm-day-00095-2026-03-15.json": {
+      "sha256": "552e6dd4142f31ca52a038a5c0299786627b06ab8815ef1fda622cf598d319e2",
+      "size": 451
+    },
+    "data/json/predator-badlands-swarm-day-00096-2026-03-16.json": {
+      "sha256": "7b74d27becc488ee57b18e61d125a9362ade10f68e0a6cfee96f5be81a23776c",
+      "size": 451
+    },
+    "data/json/predator-badlands-swarm-day-00097-2026-03-17.json": {
+      "sha256": "a4c024720a40ff4ac4c9e5de14a0b73db85cd4be1015e28e974a81cd8908c448",
+      "size": 451
+    },
+    "data/json/predator-badlands-swarm-day-00098-2026-03-18.json": {
+      "sha256": "fd55bb252c2d677e92da47b3e3cfa363d3c0baf9dae32fb81a8e29101feba6f2",
+      "size": 451
+    },
+    "data/json/predator-badlands-swarm-day-00099-2026-03-19.json": {
+      "sha256": "60d1f6e0efc80425d7f7fabbb89d3f2a40c115f53c686301ecbbfa9af189b4bd",
+      "size": 451
+    },
+    "data/json/predator-badlands-swarm-day-00100-2026-03-20.json": {
+      "sha256": "1a29348058e0b09639510e502ba3a544d724de6baae026803a01f91d274211fa",
+      "size": 452
+    },
+    "data/json/predator-badlands-swarm-day-00101-2026-03-21.json": {
+      "sha256": "a1b925a6f0155fff89401e3de1081ca0888004fcb447c62d95809d78b667db21",
+      "size": 452
+    },
+    "data/json/predator-badlands-swarm-day-00102-2026-03-22.json": {
+      "sha256": "a16933bd43ed95435426bdb0d82205ed2cc8c4b21fef4dfaa2229730d68ab795",
+      "size": 452
+    },
+    "data/json/predator-badlands-swarm-day-00103-2026-03-23.json": {
+      "sha256": "9346f2cdb0243f34cbc7f07bfee67546f4b117e7bf7d4862980209f3f2031ab3",
+      "size": 452
+    },
+    "data/json/predator-badlands-swarm-day-00104-2026-03-24.json": {
+      "sha256": "7213434c6ed55601276404f4c67334857f5201dfeacca190d30789b84bb2d81e",
+      "size": 452
+    },
+    "data/json/predator-badlands-swarm-day-00105-2026-03-25.json": {
+      "sha256": "c7c95c76b4430de239be6bb5ddcd0c3fb69094c448c05d90c62716a1c2bdf6d3",
+      "size": 452
+    },
+    "data/json/predator-badlands-swarm-day-00106-2026-03-26.json": {
+      "sha256": "eda28ef8b79ee53b61743c36f060ce2bd263f541c5714f7617af161e507f7319",
+      "size": 452
+    },
+    "data/json/predator-badlands-swarm-day-00107-2026-03-27.json": {
+      "sha256": "b8bc43b5a7432c28ac1e2f6ae919a945127d39628abb7b5e4e92a9201aebd816",
+      "size": 452
+    },
+    "data/json/predator-badlands-swarm-day-00108-2026-03-28.json": {
+      "sha256": "970f7f3e36694dfb523cef2fd366c505049fb2537a98f04e158308d777425038",
+      "size": 452
+    },
+    "data/json/predator-badlands-swarm-day-00109-2026-03-29.json": {
+      "sha256": "17a1cdfbe8a01bd20076b4adb8d89e9d0a2df30167a8ca77610987621d3dd9ce",
+      "size": 452
+    },
+    "data/json/predator-badlands-swarm-day-00110-2026-03-30.json": {
+      "sha256": "d0eb05dd48385d2cc002d5cbb966383a9bfb586366e54657347de027c789afb4",
+      "size": 452
+    },
+    "data/json/predator-badlands-swarm-day-00111-2026-03-31.json": {
+      "sha256": "dd01a791ce4d53074f1f7c3fb4d840faa5f510b75e3f9144cccdbe85b8e2fd0f",
+      "size": 452
+    },
+    "data/json/predator-badlands-swarm-day-00112-2026-04-01.json": {
+      "sha256": "9bcea1ed8ec9a6005d75e527a82005a39a1d7881b1b1c3ebf024c938015062a3",
+      "size": 452
+    },
+    "data/json/predator-badlands-swarm-day-00113-2026-04-02.json": {
+      "sha256": "e107faefda906430381ea29c38918475c8b7b830ff72a886ea7c5b0ec8a39a85",
+      "size": 452
+    },
+    "data/json/predator-badlands-swarm-day-00114-2026-04-03.json": {
+      "sha256": "973ef765c619cd98fd5661cddaebb67f015ae77365aeeb67b69df2ba73ed1b76",
+      "size": 452
+    },
+    "data/json/predator-badlands-swarm-day-00115-2026-04-04.json": {
+      "sha256": "b38775722ba2ef3531f869b5f6bda0b10fcda5ae9cd4440317f86f16d6091554",
+      "size": 452
+    },
+    "data/json/predator-badlands-swarm-day-00116-2026-04-05.json": {
+      "sha256": "b92f84a388cb4aa5bb8b5e182032f8bb0e4ad3b7399948fc53f3e33240718b29",
+      "size": 452
+    },
+    "data/json/predator-badlands-swarm-day-00117-2026-04-06.json": {
+      "sha256": "9f72f64fdb7515b941161d99b6538f56ab2c0403c170388d39c4a10df095d856",
+      "size": 452
+    },
+    "data/json/predator-badlands-swarm-day-00118-2026-04-07.json": {
+      "sha256": "36654d5bbf6a929fe34baa4833aef8f2df20e14485365b7e8926b1b678f7e074",
+      "size": 452
+    },
+    "data/json/predator-badlands-swarm-day-00119-2026-04-08.json": {
+      "sha256": "1df7b322d3d5a679608d53f71d1b7058d9d3f9120f2e767bc1954462d629975e",
+      "size": 452
+    },
+    "data/json/predator-badlands-swarm-day-00120-2026-04-09.json": {
+      "sha256": "0f93a45f36e711c8f6dc939c02d4281c69b0903b72d28b6d435ce9c71073b4f6",
+      "size": 452
+    },
+    "data/json/predator-badlands-swarm-day-00121-2026-04-10.json": {
+      "sha256": "bb299ec384619bb8621333c4b12a25c24eb1d96845e112486f2a9b6e0a170934",
+      "size": 452
+    },
+    "data/json/predator-badlands-swarm-day-00122-2026-04-11.json": {
+      "sha256": "930121fd4eadfe71133287f6f146df65a604bea2bcd785414d1edf481b6785af",
+      "size": 452
+    },
+    "data/json/predator-badlands-swarm-day-00123-2026-04-12.json": {
+      "sha256": "43f1e83cbe3dbf12ed5acea1d91de44777403ecc1b1e0048ada531218114dba4",
+      "size": 452
+    },
+    "data/json/predator-badlands-swarm-day-00124-2026-04-13.json": {
+      "sha256": "eb55ce1d0518f68675675620da46aa81d26b5c60ccaf2e725214f982292822d7",
+      "size": 452
+    },
+    "data/json/predator-badlands-swarm-day-00125-2026-04-14.json": {
+      "sha256": "a84766e0f552cca61db050d9dddd256ff2f8dd19459a765435ed44041e24a02d",
+      "size": 452
+    },
+    "data/json/predator-badlands-swarm-day-00126-2026-04-15.json": {
+      "sha256": "722608b524247760594555041022bd22d5bc910309d15646b10840f6e9131c94",
+      "size": 452
+    },
+    "data/json/predator-badlands-swarm-day-00127-2026-04-16.json": {
+      "sha256": "6f7e61fc311a1f8d4d9cf73110f8dc79d52e702c9724d13dfdccda278056b0eb",
+      "size": 452
+    },
+    "data/json/predator-badlands-swarm-day-00128-2026-04-17.json": {
+      "sha256": "348ef41fafac3600334b3f80c2368c1cba41839112690fbd63c4c24e580d6863",
+      "size": 452
+    },
+    "data/json/predator-badlands-swarm-day-00129-2026-04-18.json": {
+      "sha256": "03725f3d0f9becf2995b5b2427910cc296950975ea70e704f4cb837726f0a8fc",
+      "size": 452
+    },
+    "data/json/predator-badlands-swarm-day-00130-2026-04-19.json": {
+      "sha256": "71df9aa17d5f8ce2f637c2b2411f2045e3849ea708ef6c692e47439ce38c4ed5",
+      "size": 452
+    },
+    "data/json/predator-badlands-swarm-day-00131-2026-04-20.json": {
+      "sha256": "6f31761d63048809d0058fd17eaf33beabb786b1599872a582e8c88ea136d816",
+      "size": 452
+    },
+    "data/json/predator-badlands-swarm-day-00132-2026-04-21.json": {
+      "sha256": "0343991bd23b1b34169b0605ec1ba0e6e515bb30e74e315676437a35511fdc82",
+      "size": 452
+    },
+    "data/json/predator-badlands-swarm-day-00133-2026-04-22.json": {
+      "sha256": "e3ac45a66e741bb93e569a235ac5bddbd43dd3f65c5676c292dbd28df99196f2",
+      "size": 452
+    },
+    "data/json/predator-badlands-swarm-day-00134-2026-04-23.json": {
+      "sha256": "c3d7126fc0d83f62dfd5f03104074d82131ab0bf3306cddaccd41078fb35a223",
+      "size": 452
+    },
+    "data/json/predator-badlands-swarm-day-00135-2026-04-24.json": {
+      "sha256": "f93c99164fccf83443ab1c1b1de6c50d379f2d918ef4cf51b643e492e34419dd",
+      "size": 452
+    },
+    "data/json/predator-badlands-swarm-day-00136-2026-04-25.json": {
+      "sha256": "76b389752452916109c08ba3d5e0192fd227c6c2b577e3a6db231d79c3e37946",
+      "size": 452
+    },
+    "data/json/predator-badlands-swarm-day-00137-2026-04-26.json": {
+      "sha256": "40d52f3ec32807ce889132487aa489c61cf83da536365ff50431590a58dc0831",
+      "size": 452
+    },
+    "data/json/predator-badlands-swarm-day-00138-2026-04-27.json": {
+      "sha256": "d0db3c6e76f297112379381b5981403913424c4a86166bb73e85f36e5e4c3472",
+      "size": 452
+    },
+    "data/json/predator-badlands-swarm-day-00139-2026-04-28.json": {
+      "sha256": "e139de755939a49fe499bb2d4cde80293036448453603f1ca45da201a96eb365",
+      "size": 452
+    },
+    "data/json/predator-badlands-swarm-day-00140-2026-04-29.json": {
+      "sha256": "d59fb8c95b288445e9332f940ec47e7f880228e94d6306bde05cc9bb68460620",
+      "size": 452
+    },
+    "data/json/predator-badlands-swarm-day-00141-2026-04-30.json": {
+      "sha256": "f7760b790a92efd1d5230469b66743a5edddac1ce6fde13d768c43c32587394f",
+      "size": 452
+    },
+    "data/json/predator-badlands-swarm-day-00142-2026-05-01.json": {
+      "sha256": "9419d4f66cd382d771b56871641bdf82a53e3a0e2b01f65cdd21d1bd4bab02f4",
+      "size": 452
+    },
+    "data/json/predator-badlands-swarm-day-00143-2026-05-02.json": {
+      "sha256": "438df3816fc9835df79274f23aa5dcdfdf9b56967be591aa254e78b9f1cc06c9",
+      "size": 452
+    },
+    "data/json/predator-badlands-swarm-day-00144-2026-05-03.json": {
+      "sha256": "62b1c7ddd4b5a231ac6b5a44008d0775e40fe77aac44f6aec611e0572cb7c5a5",
+      "size": 452
+    },
+    "data/json/predator-badlands-swarm-day-00145-2026-05-04.json": {
+      "sha256": "209d6334858a58e52ce458dd451058de9d18346ee27f1a9ffaeb9c1c88495293",
+      "size": 452
+    },
+    "data/json/predator-badlands-swarm-day-00146-2026-05-05.json": {
+      "sha256": "41445d0274f186557f303e8f3335a25c82952247e0fa10e43330186ac89e701b",
+      "size": 452
+    },
+    "data/json/predator-badlands-swarm-day-00147-2026-05-06.json": {
+      "sha256": "bc16664ab470480a1f8c6c28e57b5e1e09fbf62069526001e4e97f5fa409c8db",
+      "size": 452
+    },
+    "data/json/predator-badlands-swarm-day-00148-2026-05-07.json": {
+      "sha256": "6967edfff5d99b70ab4f35921a77901995c4eef709d71d3a368e76b7fd1c2eab",
+      "size": 452
+    },
+    "data/json/predator-badlands-swarm-day-00149-2026-05-08.json": {
+      "sha256": "ca66aee4f0985d6735427696d35c4ffd51655d75b51acf5929e02427bdc3ce19",
+      "size": 452
+    },
+    "data/json/predator-badlands-swarm-day-00150-2026-05-09.json": {
+      "sha256": "a23a8c2e853027fdccb96eb1133bf0d7ec2969e6e1bbe44577f115ed4e0d227c",
+      "size": 452
+    },
+    "data/json/predator-badlands-swarm-day-00151-2026-05-10.json": {
+      "sha256": "67f34b0d55e9317c84b4595a2f19fb6440403cf27e1a338e73e42dfb699ba357",
+      "size": 452
+    },
+    "data/json/predator-badlands-swarm-day-00152-2026-05-11.json": {
+      "sha256": "10852d86980c9fce164f6c7ab0730f05a01bc065f2ef2ac06152203796c27bee",
+      "size": 452
+    },
+    "data/json/predator-badlands-swarm-day-00153-2026-05-12.json": {
+      "sha256": "4e98de7394e54c1b333b76c6f149232e37c7ff2c8908d232114f4c16f41c4297",
+      "size": 452
+    },
+    "data/json/predator-badlands-swarm-day-00154-2026-05-13.json": {
+      "sha256": "3ef4218c49a2f6497e255dcf3fa97d13eb80de762be90a24fffa640306dd8502",
+      "size": 452
+    },
+    "data/json/predator-badlands-swarm-day-00155-2026-05-14.json": {
+      "sha256": "578d27d5d71c462d6c427fed8bb94c2fd0b549b167c7ce54cc92e874b009e528",
+      "size": 452
+    },
+    "data/json/predator-badlands-swarm-day-00156-2026-05-15.json": {
+      "sha256": "523a731c2d8a4165491acbd266bb1b1da79e804028ca41859241360c5cae3769",
+      "size": 452
+    },
+    "data/json/predator-badlands-swarm-day-00157-2026-05-16.json": {
+      "sha256": "0b6c571dc28e7a4ed4215d7733dfdd48b43f52fae5a18d1c2b6a964c63567dfc",
+      "size": 452
+    },
+    "data/json/predator-badlands-swarm-day-00158-2026-05-17.json": {
+      "sha256": "8cba6cfbb5bfd9cfdea8dbd82d4b992540ced62dee5e0e08370407f7a617573f",
+      "size": 452
+    },
+    "data/json/predator-badlands-swarm-day-00159-2026-05-18.json": {
+      "sha256": "71a3ec458b0e4aeb4e88c1e4b0eadff0f9756fb0fdc9c00911651467594aeb38",
+      "size": 452
+    },
+    "data/json/predator-badlands-swarm-day-00160-2026-05-19.json": {
+      "sha256": "f8c92d5bde9eadb70306ca089fc388748655ddca11c6d6940a83c12c741900de",
+      "size": 452
+    },
+    "data/json/predator-badlands-swarm-day-00161-2026-05-20.json": {
+      "sha256": "d8e05861c861c6b4c07bea816bdd219dccdb9e33fa0c6af1320d870f6df481c7",
+      "size": 452
+    },
+    "data/json/predator-badlands-swarm-day-00162-2026-05-21.json": {
+      "sha256": "71ffee2de7b7510d7ec55a145fdb09946c21e9b7ced0d87514d33bbc9c89d0e9",
+      "size": 452
+    },
+    "data/json/predator-badlands-swarm-day-00163-2026-05-22.json": {
+      "sha256": "d074952b64c0f76cd407966a24dbe24e8ff465b3416c9e9d819c4a25a640fd80",
+      "size": 452
+    },
+    "data/json/predator-badlands-swarm-day-00164-2026-05-23.json": {
+      "sha256": "3fbac9005b845ec7ee09aa6b2d215b90c6c5c96e40cdd2f7bbfa412a26cde884",
+      "size": 452
+    },
+    "data/json/predator-badlands-swarm-day-00165-2026-05-24.json": {
+      "sha256": "2ac8c1bba8f92f76c38725fb1bd1ed68735203d794def8f1ef61308aefb24c28",
+      "size": 452
+    },
+    "data/json/predator-badlands-swarm-day-00166-2026-05-25.json": {
+      "sha256": "e663bee40dc1be8f9a4101bd97b147c9a6dcd9ebfd9a5c4f4f6010b32efc3fed",
+      "size": 452
+    },
+    "data/json/predator-badlands-swarm-day-00167-2026-05-26.json": {
+      "sha256": "3b7302c5c85a487490e04ae279763025f2ff9a22d993d8aa91e5a02501758649",
+      "size": 452
+    },
+    "data/json/predator-badlands-swarm-day-00168-2026-05-27.json": {
+      "sha256": "a52cb58642d7303605377a24e184fc4e82dbdcc504711545713f33114889a334",
+      "size": 452
+    },
+    "data/json/predator-badlands-swarm-day-00169-2026-05-28.json": {
+      "sha256": "3bfff43e53feb9ec8567ddd2dd58926ac9b5d4ce94a1371b385da9883e4f8796",
+      "size": 452
+    },
+    "data/json/predator-badlands-swarm-day-00170-2026-05-29.json": {
+      "sha256": "e074af6c526398f2858702ff43c601fd592c9d26708aad43046545483dc26393",
+      "size": 452
+    },
+    "data/json/predator-badlands-swarm-day-00171-2026-05-30.json": {
+      "sha256": "c7eb60df2906c51368ffca3536b19dd30abb50a1c64414f3f49332857d67150a",
+      "size": 452
+    },
+    "data/json/predator-badlands-swarm-day-00172-2026-05-31.json": {
+      "sha256": "7a404da64afd4135fa2f0bb79f6dcd7405f6ac4308f51acfe9b38d1f6de8485a",
+      "size": 452
+    },
+    "data/json/predator-badlands-swarm-day-00173-2026-06-01.json": {
+      "sha256": "87a7c17296b372a54e0ea09da6e3f78e80a72089358dbe9e9d4fe4fead42df80",
+      "size": 452
+    },
+    "data/json/predator-badlands-swarm-day-00174-2026-06-02.json": {
+      "sha256": "ce6f2beb227f49d57c09897fa17d8be09418683e83f50d17eb58d726581f6488",
+      "size": 452
+    },
+    "data/json/predator-badlands-swarm-day-00175-2026-06-03.json": {
+      "sha256": "a33ed1aa00d99d6870c88a6251731040cb8d5aabe99333d550cf61ea12100b6b",
+      "size": 452
+    },
+    "data/json/predator-badlands-swarm-day-00176-2026-06-04.json": {
+      "sha256": "9b15c943c6f43d7ebc7b4a3f891b74a809577e7e3c551ad5cdf7e1d195ae02c6",
+      "size": 452
+    },
+    "data/json/predator-badlands-swarm-day-00177-2026-06-05.json": {
+      "sha256": "edf9d9a34d6b25cec44a289f8f69ea2f4bb3335b155836dbfc6c84be42e030a9",
+      "size": 452
+    },
+    "data/json/predator-badlands-swarm-day-00178-2026-06-06.json": {
+      "sha256": "4aa8ba49aebd0348c97f62b1170835ac29c5a49f285b53c818fe49038b755c36",
+      "size": 452
+    },
+    "data/json/predator-badlands-swarm-day-00179-2026-06-07.json": {
+      "sha256": "8ad129bc74e17b491f1f387cb9b486c3124a8149b1f6bc2d97a39e385505ac4f",
+      "size": 452
+    },
+    "data/json/predator-badlands-swarm-day-00180-2026-06-08.json": {
+      "sha256": "b67196c3ff40d5791e79bcad837d0ca87ebc7dfa3ff3c401f3d828318bab4712",
+      "size": 452
+    },
+    "data/json/predator-badlands-swarm-day-00181-2026-06-09.json": {
+      "sha256": "fb1da1607323277c93d85cfe837b0e99dec4011c5cb9f61c2814db13a92fae27",
+      "size": 452
+    },
+    "data/json/predator-badlands-swarm-day-00182-2026-06-10.json": {
+      "sha256": "a432695fa33dcfe3985d7575fd1c63c5394340416eae3fd7da4ebe10a23ca17a",
+      "size": 452
+    }
+  },
+  "schema": "alpha60-year-day-product-bundle/1",
+  "source_revisions": {
+    "aggregate_binary": {
+      "sha256": "7408569641f7247fbd00969cffddaf1bb0cf2768c7fc1529f4cc6191ccfeae05",
+      "size": 38582648
+    },
+    "alpha60": "34f34e5c6eaafebbe65d9dbe1ade7609e9e61b2b",
+    "alpha60_data": "8faeae67a5d274d1fc00bffe9fc9318329163b20",
+    "day_product_contract": {
+      "sha256": "0aa0bee3ac14b512c786d3496ab5218a46aff11786ffa6aa9ea85e762fbd6370",
+      "size": 9897
+    },
+    "generate_cache_aggregates": {
+      "sha256": "2e03ba2df36d70d6293d803880c67ae0f2c3afde1ea5837075e31855a258516b",
+      "size": 22934
+    },
+    "metadata": "fbeb53a0b523f937fae2f23d14689d8c5c84dd5a",
+    "package_script": {
+      "sha256": "21d85741346f2bb967f618a36825484d87b3b94cea93dac22781c103abae8a0e",
+      "size": 15384
+    },
+    "year_day_contract": {
+      "sha256": "f1c07d6f2fdc19475a6f25ddaee5923957447a6f49a8009d8b4c9984a63bd883",
+      "size": 9356
+    }
+  },
+  "status": "pass"
+}
