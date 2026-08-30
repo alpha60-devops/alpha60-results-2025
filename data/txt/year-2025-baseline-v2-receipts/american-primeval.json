@@ -1,0 +1,253 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt24069848",
+    "imdb_id": "tt24069848",
+    "revision": "fbeb53a0b523f937fae2f23d14689d8c5c84dd5a",
+    "wikidata_id": "Q126264784",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/American_Primeval"
+  },
+  "coverage_sha256": "07c525ce0c9e2cffffc78a10e4d9a690b2ce928ff794c559038e1595da4934c6",
+  "generated_at": "2026-08-30T12:29:20.174338+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "aao-checksum-manifest": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/SHA256SUMS",
+      "sha256": "4a4818facd85b709f0321b0a6de31b4a3eff6f108f3b9354c75632926e6baa48",
+      "size": 266728
+    },
+    "aao-release": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/release.json",
+      "sha256": "3ce0984da2d12b0e3697e76c02608bd9d1a955ee3d00e0a7054bdd297b8f18c8",
+      "size": 1342
+    },
+    "aao-verification": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-aao-verification.json",
+      "sha256": "e01294ebce8e54b65e16ab83017fa5585efe6f7a0a0f1a5e0f734e08d8e223fd",
+      "size": 854
+    },
+    "archive-map": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-cache-archive-map.json",
+      "sha256": "8d4d506f23cd80f46baf010bd17509c916083e75eb8b43b052641138c3f308f1",
+      "size": 125170
+    },
+    "btiha-metadata-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/american-primeval-cumulative-btiha-media-objects.json",
+      "sha256": "338cfe34435285735fbb45f289b352f75f89bfac5ec434df36952b9f25adc01f",
+      "size": 600709
+    },
+    "canonical-metadata": {
+      "path": "/tmp/alpha60-swarm-metadata-2025/metadata/american-primeval.json",
+      "sha256": "2d1d8f7afc8bc59a8423b674b77aa501268ce111722576f0c13a99acf22050cd",
+      "size": 9568
+    },
+    "coverage-report": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-coverage-evidence/american-primeval.md",
+      "sha256": "812650b680128c1d7b074b87eb6013cd2a3ca459620354f3dec04fcdb0c17716",
+      "size": 743
+    },
+    "cumulative-aggregate-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.cumulative/american-primeval-cumulative-aggregate.geojson.gz",
+      "sha256": "7bfc26894f4a5a85fec187b495772ceafdc9f1ea8a9159be3bfcc3c073244a47",
+      "size": 1198008
+    },
+    "cumulative-btiha-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.cumulative/american-primeval-cumulative-btiha.geojson.gz",
+      "sha256": "59893f566ff9ce3c5f9a1bf2eb53b841998f5763c7a5d22d1acdbc4ba75bf1f3",
+      "size": 31699673
+    },
+    "cumulative-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/american-primeval-cumulative.json",
+      "sha256": "d56c4d1662cb22dc8d73c0331bc9d594bb2921e63a273d3e7c8221ddd04094e7",
+      "size": 15749
+    },
+    "day-bundle-receipt": {
+      "path": "/tmp/year-2025-day-bundles/american-primeval/receipt.json",
+      "sha256": "5478a2579967c5fbaf1b90d21559c353258851d6f54ccc748af92ddcde90b97f",
+      "size": 42489
+    },
+    "ip-swarm-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/american-primeval-cumulative-ip-swarm.json",
+      "sha256": "3c365177e5ccf67f356d6a39d3616b70cb6e14416567d664ce3d165c782b17ef",
+      "size": 42841
+    },
+    "published-day-bundle-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-day-product-receipts/american-primeval.json",
+      "sha256": "5478a2579967c5fbaf1b90d21559c353258851d6f54ccc748af92ddcde90b97f",
+      "size": 42489
+    },
+    "week-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/american-primeval-week.json",
+      "sha256": "d0119fd3cf76544fd68b6803b8ef0bdd85ff069aa2abba88df05f6e1cc6b2ca7",
+      "size": 2572073
+    }
+  },
+  "media_object": "american-primeval",
+  "published_files": {
+    "data/csv/bytes/american-primeval-cumulative-detail.2025-btiha-itemized-by-bytes.csv": "890aac65729712a34c40933e55e6badaa79328a288b5d944d06f47f35e1561ef",
+    "docs/itemized/american-primeval-sample-cache-audit.md": "ce7bb0feba978543cda47cb14f68a1c435c75ce6e19012066f62052f90a7b3d9",
+    "docs/itemized/figures/american-primeval-carto-4k.webp": "92c01f1936c06e79a24233b93b97cb44ff1d458b98fc889cfde337c351104de9",
+    "docs/itemized/figures/american-primeval-carto.png": "6d130f8948a7e03cc0e1e0f6866438128e270b579b1fafdc50df4ddde6b29f76",
+    "docs/itemized/figures/american-primeval-cumulative-detail-btiha-itemized-by-bytes.svg": "82f81dd16f118d19260683733d6074c02264d312cee7ce748b17235e85acd493",
+    "docs/itemized/figures/american-primeval-data-ge-1080p-4k.webp": "cbbcb625eb33abafc70a73de7b6691304d28b2608fe313aa132c1c939530a90d",
+    "docs/itemized/figures/american-primeval-data-ge-1080p.webp": "84a95df7206187ab5edff00a90cdf60cd9e732ec27408380451261b570683174",
+    "docs/itemized/figures/american-primeval-data-lt-1080p-4k.webp": "a6d0e2dada8148d0d888c48afc6111bd361ea99526b5a203b044b6be3767b49e",
+    "docs/itemized/figures/american-primeval-data-lt-1080p.webp": "adf406463068297df2d86d0f98c23e7c92499f48c52da600b0ffa82a272f51c8",
+    "docs/itemized/figures/american-primeval-downloads-by-day-day.svg": "ca73f48f22bccef8282dae80e3df4390781695539924452c07c5b15197a131a1",
+    "docs/itemized/figures/american-primeval-downloads-by-week-american-primeval-week.svg": "98e25f6cec62a7b8ab8d382ced3f4b6b1c6ee2dc913f3a8e95871d588ceb7bd1",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-year-2025-render",
+      "revision": "c3fc4c8a7866bee5f6d5f26160c56b2cffb05cb1",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "b5732bc916a52afce45790bf7005569f9cdebbb759447c374ec08d1f5222ed12",
+      "size": 36994160
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.cumulative/american-primeval-cumulative-btiha.geojson.gz",
+        "sha256": "59893f566ff9ce3c5f9a1bf2eb53b841998f5763c7a5d22d1acdbc4ba75bf1f3",
+        "size": 31699673
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/json/american-primeval-cumulative-btiha-media-objects.json",
+        "sha256": "338cfe34435285735fbb45f289b352f75f89bfac5ec434df36952b9f25adc01f",
+        "size": 600709
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/izzi",
+      "revision": "b988ee7fd690a74a696c27c9aadf40c204a4c780",
+      "untracked": false
+    },
+    "media_object": "american-primeval",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60-results-2025/bin/a60-meta-collection.exe",
+      "sha256": "e71f9def936a6868d5282a5ff7dece07ade360eefa07abebde75434a927220f7",
+      "size": 8743680
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          81.0,
+          76.0,
+          52.0,
+          35.0,
+          29.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "Istanbul",
+          "Seoul",
+          "Saint Petersburg",
+          "London",
+          "Ankara",
+          "Budapest",
+          "Amsterdam",
+          "Lelystad",
+          "Yekaterinburg"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          76.0,
+          72.0,
+          51.0,
+          32.0,
+          27.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "Istanbul",
+          "Seoul",
+          "Saint Petersburg",
+          "London",
+          "Ankara",
+          "Budapest",
+          "Lelystad",
+          "Amsterdam",
+          "Yekaterinburg"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 23,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 33,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 6,
+        "x_tick_marks": 6,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 17,
+        "y_tick_labels": 20
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "c3fc4c8a7866bee5f6d5f26160c56b2cffb05cb1",
+    "cartofreako": "fc58111b5bfa7667b12f6ade522ae5e566b464d1",
+    "izzi": "b988ee7fd690a74a696c27c9aadf40c204a4c780",
+    "metadata": "fbeb53a0b523f937fae2f23d14689d8c5c84dd5a",
+    "results_aao_adoption": "9cd9d91a6fbb560ac2a96beadf4c83b94daf6a88"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2025"
+}

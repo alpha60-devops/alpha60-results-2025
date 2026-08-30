@@ -1,0 +1,973 @@
+{
+  "archive": {
+    "path": "/home/bkoz/src/alpha60-xperiments/year-2025-archives/american-primeval.cache/cache.20250504.tar.xz",
+    "sha256": "d34e471b78ed6e9e36a42a88bfbf5a834ace016edb9c004558b376a8d2d027ea",
+    "size": 1913354700
+  },
+  "authorization": {
+    "archive_mutated": false,
+    "excluded_member_classes": [
+      "hour",
+      "week",
+      "cumulative"
+    ],
+    "raw_samples_opened": false,
+    "scope": "read only streaming of per-torrent day records"
+  },
+  "collection_key": "american-primeval",
+  "day_product_contract": {
+    "collection_key": "american-primeval",
+    "day_products": 115,
+    "first_date": "2025-01-10",
+    "first_index": 1,
+    "geojson_data_version": "20260701",
+    "ip_geolocation_version": "6:1777968300",
+    "json_data_version": "2026-08-05",
+    "last_date": "2025-05-04",
+    "last_index": 115,
+    "schema": "alpha60-day-product-contract/1",
+    "sparse": false,
+    "status": "pass"
+  },
+  "publications": {
+    "data/geojson.day/american-primeval-day-00001.geojson.gz": {
+      "sha256": "14ab716e29519562266febdda96562b52ab8ea8fdc7513d55e873a54e77982ee",
+      "size": 201298
+    },
+    "data/geojson.day/american-primeval-day-00002.geojson.gz": {
+      "sha256": "8d69706c7e86499d297e80bb0e12e64cd979dccb99eac4f6b880f846dfef2df1",
+      "size": 213986
+    },
+    "data/geojson.day/american-primeval-day-00003.geojson.gz": {
+      "sha256": "cb5b0ec2c1454efa485e4c6e93273b49f0064195f2c1c67c62d7bd6431e36a8a",
+      "size": 229951
+    },
+    "data/geojson.day/american-primeval-day-00004.geojson.gz": {
+      "sha256": "b30f1ae0b8f9274019d55ae2ed57d89110fd1ef97cbb8e83bb7868737bf1dd6a",
+      "size": 249201
+    },
+    "data/geojson.day/american-primeval-day-00005.geojson.gz": {
+      "sha256": "2adc84635f5eebab878c9d33282e0f62b53030369999d92fb1171bd05e437f19",
+      "size": 256976
+    },
+    "data/geojson.day/american-primeval-day-00006.geojson.gz": {
+      "sha256": "f13a43431de69750def808dc733424638c666125a048d2a4ad53e760c4dca691",
+      "size": 247750
+    },
+    "data/geojson.day/american-primeval-day-00007.geojson.gz": {
+      "sha256": "668c59d06d60b8bbb8213613e53d2ec173bb7e4cb787775c30b9ea136ff754b5",
+      "size": 249111
+    },
+    "data/geojson.day/american-primeval-day-00008.geojson.gz": {
+      "sha256": "08e7035600746f22d1b76091aee11f2c132fe2e4777df34bdd2622e6c45bf29d",
+      "size": 270675
+    },
+    "data/geojson.day/american-primeval-day-00009.geojson.gz": {
+      "sha256": "fcf541a1b94ffa21e53526d48872b1b059396a7c7230c40a201a1f9de9b95a25",
+      "size": 259457
+    },
+    "data/geojson.day/american-primeval-day-00010.geojson.gz": {
+      "sha256": "9f3c645e622e18885e00943fced32e83c13ae4622e9f53fad0cf906c83fddd1d",
+      "size": 256582
+    },
+    "data/geojson.day/american-primeval-day-00011.geojson.gz": {
+      "sha256": "d2ab812341a75623393570548e29ac7fe5ad711edeb60fa73d8c669232900189",
+      "size": 280359
+    },
+    "data/geojson.day/american-primeval-day-00012.geojson.gz": {
+      "sha256": "e95b22e1cc14b037d53d3af0c18e107058c40fb8cce35c44992675638efbac4f",
+      "size": 285869
+    },
+    "data/geojson.day/american-primeval-day-00013.geojson.gz": {
+      "sha256": "8510c1a373bac13fbe72771164f72b2a4bb4c20c79aaec31ac2b4cf4b70fb78c",
+      "size": 267508
+    },
+    "data/geojson.day/american-primeval-day-00014.geojson.gz": {
+      "sha256": "5bd491be5e29088fc3c9014f76178f7ba75320f2dba2cb7c1d95d38015032f9f",
+      "size": 270706
+    },
+    "data/geojson.day/american-primeval-day-00015.geojson.gz": {
+      "sha256": "35ee93ef006ae25da965706b7416c116c20d19ee2e275256e1b39a8a23eca790",
+      "size": 275841
+    },
+    "data/geojson.day/american-primeval-day-00016.geojson.gz": {
+      "sha256": "bf1eb5a4e019fa95837b46ba09100f84e67e024ca81c0bbe8d8d915588f9585e",
+      "size": 255839
+    },
+    "data/geojson.day/american-primeval-day-00017.geojson.gz": {
+      "sha256": "23ada2fa2ccc417490b3a0c39df63b3eea7778ebe3a3841b05bb71fe7ab44c16",
+      "size": 265114
+    },
+    "data/geojson.day/american-primeval-day-00018.geojson.gz": {
+      "sha256": "0b808e022e7ca201acf77b9d7530921dce1664f1414ac658e407cd150df1edfc",
+      "size": 271213
+    },
+    "data/geojson.day/american-primeval-day-00019.geojson.gz": {
+      "sha256": "ffe05ae54d155210ffe2a5d18fbc0c6c9c324beb88f52eed7f96977642b3a5fe",
+      "size": 273958
+    },
+    "data/geojson.day/american-primeval-day-00020.geojson.gz": {
+      "sha256": "2bd35b45a86032329075865397054eabdd49e55d3eb1206f1a5ecf632dd436db",
+      "size": 272011
+    },
+    "data/geojson.day/american-primeval-day-00021.geojson.gz": {
+      "sha256": "5a12c34428a6d7d1f548bcb4e2d1561a011a8555538d7e8f5cb5308a454ec9be",
+      "size": 261504
+    },
+    "data/geojson.day/american-primeval-day-00022.geojson.gz": {
+      "sha256": "1adfe4095b69713af1783e5bf7ba01720cded15928d355961dd158e7734712eb",
+      "size": 312305
+    },
+    "data/geojson.day/american-primeval-day-00023.geojson.gz": {
+      "sha256": "32438ecc8a006829868afafc2c5c34c3c1a5cf145d93412aea2dee86e96b00eb",
+      "size": 271424
+    },
+    "data/geojson.day/american-primeval-day-00024.geojson.gz": {
+      "sha256": "ea5978844eb56d87ac3b3c610fddc2cd50f8ab9dca2039dfda90301d7edd499b",
+      "size": 269692
+    },
+    "data/geojson.day/american-primeval-day-00025.geojson.gz": {
+      "sha256": "1f2b242055e2451b932bf36aa7c3cfc0d393a273ee3bee3e7f34e9ab4ec1a224",
+      "size": 292861
+    },
+    "data/geojson.day/american-primeval-day-00026.geojson.gz": {
+      "sha256": "857ebd69badf175c5974a618c4cd46afa07897be068af5d3e5616e231e530065",
+      "size": 290366
+    },
+    "data/geojson.day/american-primeval-day-00027.geojson.gz": {
+      "sha256": "7674311a6e8217e2239aa0718016c762a711ff730a43f8c8f9cce550c0292d9e",
+      "size": 285818
+    },
+    "data/geojson.day/american-primeval-day-00028.geojson.gz": {
+      "sha256": "51e7ceb7faeb51fe1a0c767bf3780b9245bee2ff91c1eb23df94b212992bf679",
+      "size": 287378
+    },
+    "data/geojson.day/american-primeval-day-00029.geojson.gz": {
+      "sha256": "9da772d764338bcb6f4a697338567bc547a6d839337aa783d058c8520bbc838a",
+      "size": 262387
+    },
+    "data/geojson.day/american-primeval-day-00030.geojson.gz": {
+      "sha256": "fd5c21dfcd212a6cccc13d1372f2f013540ea70fe4a3a66cc824a4dde6e2f9da",
+      "size": 268792
+    },
+    "data/geojson.day/american-primeval-day-00031.geojson.gz": {
+      "sha256": "650df51209fb83e437e5aa2e5158753957c226584af8cfb8d0b3095773b8753b",
+      "size": 260091
+    },
+    "data/geojson.day/american-primeval-day-00032.geojson.gz": {
+      "sha256": "29aeeb2dea1a870a9e4de44e2d607a6beb485ff1b508803a0c1655ce4e785f26",
+      "size": 291462
+    },
+    "data/geojson.day/american-primeval-day-00033.geojson.gz": {
+      "sha256": "7f3e44f8529c423864313e9f523e0796a2e389b21aadf95d1acf155281124b03",
+      "size": 280571
+    },
+    "data/geojson.day/american-primeval-day-00034.geojson.gz": {
+      "sha256": "f644d3317f16a774bbbc3c55428869374febd1fad27ec44c6b19a2a6f0d17725",
+      "size": 266976
+    },
+    "data/geojson.day/american-primeval-day-00035.geojson.gz": {
+      "sha256": "d3358cc7873715a73efada74ac596cb65ed1e91922892b21d3f8b7fef076af1e",
+      "size": 275439
+    },
+    "data/geojson.day/american-primeval-day-00036.geojson.gz": {
+      "sha256": "19e17751ad7d4facfb89d2be9bff835113e19be6c12fd8d5e9a0daf3770c7463",
+      "size": 275011
+    },
+    "data/geojson.day/american-primeval-day-00037.geojson.gz": {
+      "sha256": "1ad39af0473d85516a77360c3c0c86ca9d7644887321055ac17cfd5366e9caaf",
+      "size": 234103
+    },
+    "data/geojson.day/american-primeval-day-00038.geojson.gz": {
+      "sha256": "3dbbb52edc56e0df04b28adcc4fadb39389b9acf13dc49951eea4099fa6e416e",
+      "size": 261031
+    },
+    "data/geojson.day/american-primeval-day-00039.geojson.gz": {
+      "sha256": "6ed5c6a220d716dacf7790344421e19aac24981a0c73be016bc141def4b7f0a3",
+      "size": 282327
+    },
+    "data/geojson.day/american-primeval-day-00040.geojson.gz": {
+      "sha256": "eccad56e27b3fc784790f0f23b5cc7a4dff11cfc4fe260674675a71303841914",
+      "size": 273886
+    },
+    "data/geojson.day/american-primeval-day-00041.geojson.gz": {
+      "sha256": "c965b7ee8b934cd50515d0dfd6720e135c709b106ae839a5dfec1aabd899889d",
+      "size": 271406
+    },
+    "data/geojson.day/american-primeval-day-00042.geojson.gz": {
+      "sha256": "cb7ddd7763223be2c77ac454a739da4d3f4dff450c38ef9ace17d5416d6f89fb",
+      "size": 262934
+    },
+    "data/geojson.day/american-primeval-day-00043.geojson.gz": {
+      "sha256": "fc6342c968e8e0f611b62514ee60f71ed4b3efa1c2f79f1ae2839c3ebf2d722b",
+      "size": 246683
+    },
+    "data/geojson.day/american-primeval-day-00044.geojson.gz": {
+      "sha256": "5e1d3642c93c6bdfa2f6ce112df45c90dcbde208862e0d298e752320035ce1bd",
+      "size": 230976
+    },
+    "data/geojson.day/american-primeval-day-00045.geojson.gz": {
+      "sha256": "84f6be6e12d94e54fc1f101f26c635ecc658bddd014f722dacebce17c87a9cec",
+      "size": 243638
+    },
+    "data/geojson.day/american-primeval-day-00046.geojson.gz": {
+      "sha256": "76af260aedf7a7d203e9bc061f580776460bbf6a4ae5a22b8d71121610e8fd47",
+      "size": 257845
+    },
+    "data/geojson.day/american-primeval-day-00047.geojson.gz": {
+      "sha256": "263f3ddf69f691c3a5556cd8166db0a6e352bca6dcc1b1bdfa8cafd2cce213d7",
+      "size": 259630
+    },
+    "data/geojson.day/american-primeval-day-00048.geojson.gz": {
+      "sha256": "8b523510e82a95ffa737512124ed0a981911103f225e6aebd8a3253a919eb715",
+      "size": 249933
+    },
+    "data/geojson.day/american-primeval-day-00049.geojson.gz": {
+      "sha256": "a8d44a897454822b542acf5df63ca061fbc50f8ec927dd405b9094d8b035fae5",
+      "size": 245945
+    },
+    "data/geojson.day/american-primeval-day-00050.geojson.gz": {
+      "sha256": "31abac54396543e2e4ac95e4d3f27b1c1b275f8e2717299fd98431c80ce51956",
+      "size": 247780
+    },
+    "data/geojson.day/american-primeval-day-00051.geojson.gz": {
+      "sha256": "3744800a86b31d717727458786cccd6d9cf272cf2dbb817949c33b743ada76b2",
+      "size": 233458
+    },
+    "data/geojson.day/american-primeval-day-00052.geojson.gz": {
+      "sha256": "1d17c844bde04d084cac983e45cd86f6d95fd93ae3e01e8137c443471c07ea69",
+      "size": 244271
+    },
+    "data/geojson.day/american-primeval-day-00053.geojson.gz": {
+      "sha256": "58526dc86b8f69a6a31ef426db8efce5b937ce5fb5607f920e6ed3599ed5707a",
+      "size": 251832
+    },
+    "data/geojson.day/american-primeval-day-00054.geojson.gz": {
+      "sha256": "86d27dae64382b293e5ede275700659b8b3a9e306da293e13f852413dcff0476",
+      "size": 268917
+    },
+    "data/geojson.day/american-primeval-day-00055.geojson.gz": {
+      "sha256": "ac5832fe7f1cf343b3df657324103c49fc01a303649ee23c828a8350f87758a4",
+      "size": 258682
+    },
+    "data/geojson.day/american-primeval-day-00056.geojson.gz": {
+      "sha256": "530bf7cc12ca2520a47903ff3107f5761e4df035011df4b9a3462777b11f1b95",
+      "size": 255339
+    },
+    "data/geojson.day/american-primeval-day-00057.geojson.gz": {
+      "sha256": "4082851b1ef5d058cfd21563e476d05340d278254066d8c44898ec30ac0bf464",
+      "size": 230608
+    },
+    "data/geojson.day/american-primeval-day-00058.geojson.gz": {
+      "sha256": "6a675593bb617cd452749f2bce17074198ef98c3016da66b91a9e4570fc92d7b",
+      "size": 225156
+    },
+    "data/geojson.day/american-primeval-day-00059.geojson.gz": {
+      "sha256": "22490ec22e25783d99dd54983ab751d110daf9f3c78711b8140b79fb2baaa45c",
+      "size": 251890
+    },
+    "data/geojson.day/american-primeval-day-00060.geojson.gz": {
+      "sha256": "12c579df40077191479de4884ad5f4e83f9a762c5db5e71c0ce1edcb61136dcf",
+      "size": 258612
+    },
+    "data/geojson.day/american-primeval-day-00061.geojson.gz": {
+      "sha256": "5c64b0cd54ae574927b7e65479e4f08704e5a86ef4f2efe86d6d2c67f6fd73f3",
+      "size": 259970
+    },
+    "data/geojson.day/american-primeval-day-00062.geojson.gz": {
+      "sha256": "599044fe9e52f037ba2d3a6f05f94c4141d5dca8d4b01639dd0e06de986284b6",
+      "size": 259100
+    },
+    "data/geojson.day/american-primeval-day-00063.geojson.gz": {
+      "sha256": "ffb98d0d75e58e902f3fcf9f2f72f9d0a199981532d725fb284e47a861f83155",
+      "size": 235010
+    },
+    "data/geojson.day/american-primeval-day-00064.geojson.gz": {
+      "sha256": "e9a07dd89b472be90ea4ca71a1d41ce946f9658898bb48a0618a1e45bbe1501a",
+      "size": 231373
+    },
+    "data/geojson.day/american-primeval-day-00065.geojson.gz": {
+      "sha256": "22fb475f4f06cd2df6ab1997199e39810ab8db821c65ea65e14f923574018fdf",
+      "size": 213952
+    },
+    "data/geojson.day/american-primeval-day-00066.geojson.gz": {
+      "sha256": "69fc3508023b1fa9aec5e6d299b46919a583a90fbe7365d0e62913ef63e7152d",
+      "size": 194298
+    },
+    "data/geojson.day/american-primeval-day-00067.geojson.gz": {
+      "sha256": "62fbf2cd102321522de313ba56705990a4a2296d223aba6e171855c3ffcc2bd7",
+      "size": 251651
+    },
+    "data/geojson.day/american-primeval-day-00068.geojson.gz": {
+      "sha256": "72877f3a90c3ba5d09875e5fcc5c5a4ba7c9fc03a557cd5ec5c5807cb0d7f843",
+      "size": 235178
+    },
+    "data/geojson.day/american-primeval-day-00069.geojson.gz": {
+      "sha256": "396bb0444ad765efa84f2a741b7f0315e4ebf75a6d6dc6b26b83977ed6dc0903",
+      "size": 236373
+    },
+    "data/geojson.day/american-primeval-day-00070.geojson.gz": {
+      "sha256": "8d085f675fb1c1ab15e6e5e39250985c262f68eb62f7a7c68d406c11cd3837de",
+      "size": 238145
+    },
+    "data/geojson.day/american-primeval-day-00071.geojson.gz": {
+      "sha256": "4b6bf7968670803c376cdc6853cb3aee3357dcbd83fa4ee1762184d92259117f",
+      "size": 237532
+    },
+    "data/geojson.day/american-primeval-day-00072.geojson.gz": {
+      "sha256": "4dc64f75652ca9d7d123b02cb74c2b8362afacffff1fa988c220698c3c4adf94",
+      "size": 220243
+    },
+    "data/geojson.day/american-primeval-day-00073.geojson.gz": {
+      "sha256": "8c579e43548a37e982df4497f2515460ef25a962e66085e60884ad3c7c3c458f",
+      "size": 221675
+    },
+    "data/geojson.day/american-primeval-day-00074.geojson.gz": {
+      "sha256": "b94358e412e38c246ef9f9cbd090d112b61fe1a851813db8dba8f6415d5feba1",
+      "size": 252922
+    },
+    "data/geojson.day/american-primeval-day-00075.geojson.gz": {
+      "sha256": "04a0173d97f9467bccedf676ad382687b8b8c92e38c06694bf0724edaf63359e",
+      "size": 234520
+    },
+    "data/geojson.day/american-primeval-day-00076.geojson.gz": {
+      "sha256": "c48b2966249e555228befb140a9cee123eb027802aa2b96ecd2a2746180c5ebb",
+      "size": 185026
+    },
+    "data/geojson.day/american-primeval-day-00077.geojson.gz": {
+      "sha256": "24dcc56b4929c0dff60c2bc5b4a31dd24b3752d907e92a045fab4be89b313d98",
+      "size": 209357
+    },
+    "data/geojson.day/american-primeval-day-00078.geojson.gz": {
+      "sha256": "0dc4dbfde1d88acd6b5f15142290267f7aa908cd536be5f5be7c9a9cb9b3a20c",
+      "size": 207189
+    },
+    "data/geojson.day/american-primeval-day-00079.geojson.gz": {
+      "sha256": "f972a25a6cf391322d04318a9f207c43c9e94525bee1d3d5dfdd2c11ec41e251",
+      "size": 186978
+    },
+    "data/geojson.day/american-primeval-day-00080.geojson.gz": {
+      "sha256": "4e4a57bdcef1d4ac6adfcb6fe71fd24052a11919d8dc25cba8b0b1a9eabb67bf",
+      "size": 190396
+    },
+    "data/geojson.day/american-primeval-day-00081.geojson.gz": {
+      "sha256": "5a9a336dd9aa37550850d07bba65abfc8287d0a19c6149e569f32f8f0e043c51",
+      "size": 243154
+    },
+    "data/geojson.day/american-primeval-day-00082.geojson.gz": {
+      "sha256": "fd3ecbd3942079487ed20549034be0ff4c5da93d755788ed6e71bf60308ccd43",
+      "size": 249047
+    },
+    "data/geojson.day/american-primeval-day-00083.geojson.gz": {
+      "sha256": "d7229477735faceeef103d3eec8f0ecaa207dbb5e3096a1fa339dbba4a6aafaf",
+      "size": 240517
+    },
+    "data/geojson.day/american-primeval-day-00084.geojson.gz": {
+      "sha256": "7ff20fa6ee93b859c66b98b76b88a8f3534dccf7f1d1f57c994f694043418fa7",
+      "size": 224206
+    },
+    "data/geojson.day/american-primeval-day-00085.geojson.gz": {
+      "sha256": "f575a4ca014c5e4df6efac3f429b240b9718d046df114e6648b0b1e677d8ccc5",
+      "size": 221670
+    },
+    "data/geojson.day/american-primeval-day-00086.geojson.gz": {
+      "sha256": "c6ba9d5624f42f096c6205637e21fac2034aa3702ef386ea9b8a094be63a4cce",
+      "size": 194572
+    },
+    "data/geojson.day/american-primeval-day-00087.geojson.gz": {
+      "sha256": "15619c818b52b8d43b6e0c6053eda8c12fbe4abbb3ad1ba034bfc135fdadba5b",
+      "size": 202798
+    },
+    "data/geojson.day/american-primeval-day-00088.geojson.gz": {
+      "sha256": "82ea6156ea012b654b1439043e4c3d2abde012903423c242b7ca4902507b27cc",
+      "size": 232299
+    },
+    "data/geojson.day/american-primeval-day-00089.geojson.gz": {
+      "sha256": "b1191dff49568fb8f78df642f10a9a0cd1bf63f0632abb8394591c77add9bb44",
+      "size": 219864
+    },
+    "data/geojson.day/american-primeval-day-00090.geojson.gz": {
+      "sha256": "f292c9853f64f8378d99e144af8ddcbbeb670e69d6a55d71634e8fce233774a6",
+      "size": 240077
+    },
+    "data/geojson.day/american-primeval-day-00091.geojson.gz": {
+      "sha256": "fa7edad50270d19d7d08629905cd6981493f17f4fa3879890dfd74dc795194b0",
+      "size": 221519
+    },
+    "data/geojson.day/american-primeval-day-00092.geojson.gz": {
+      "sha256": "976c68ce11956e79a291178271f1e3c8bea50056a5b9014da20c7df00782a59d",
+      "size": 218582
+    },
+    "data/geojson.day/american-primeval-day-00093.geojson.gz": {
+      "sha256": "b4315fc926584669043b130fd856eeb15f2a0ab085cac01bf1f9e0e315ea399d",
+      "size": 205522
+    },
+    "data/geojson.day/american-primeval-day-00094.geojson.gz": {
+      "sha256": "bfd90f327b6be617d588bed0e5c43379f5ea738badc4b2fa57748fe8765ebcdf",
+      "size": 210922
+    },
+    "data/geojson.day/american-primeval-day-00095.geojson.gz": {
+      "sha256": "3e760ae48c9596d4e0697c86f2603534298945cb15b726fd55125b0d72d8f190",
+      "size": 229386
+    },
+    "data/geojson.day/american-primeval-day-00096.geojson.gz": {
+      "sha256": "bb11adc03efde31eff1de75e17fd55ec5fb657ae78e9e595b70912c83086877e",
+      "size": 217645
+    },
+    "data/geojson.day/american-primeval-day-00097.geojson.gz": {
+      "sha256": "865dbf77f8f4c5976adf7ffadd08d14e12f062547c75316d30c02165ea235577",
+      "size": 213991
+    },
+    "data/geojson.day/american-primeval-day-00098.geojson.gz": {
+      "sha256": "30fa0fae4f7270dc9bfbc823f2275f0aa4129e9d85bc4ce83af2f9d1ceef6325",
+      "size": 191622
+    },
+    "data/geojson.day/american-primeval-day-00099.geojson.gz": {
+      "sha256": "8713639bdc1eb1285b050e438e5ee4e8c1f80102506bdc283f3e5259b2437da3",
+      "size": 183537
+    },
+    "data/geojson.day/american-primeval-day-00100.geojson.gz": {
+      "sha256": "aac3bab086a5f196c98e95f6ca422711872a52d110cbb3e524236fbb6974b753",
+      "size": 193833
+    },
+    "data/geojson.day/american-primeval-day-00101.geojson.gz": {
+      "sha256": "e28e9fb0ae8f5583acef6e83c26da3f62d1d07dba10ade28e019c6131f00ac9f",
+      "size": 197058
+    },
+    "data/geojson.day/american-primeval-day-00102.geojson.gz": {
+      "sha256": "76b1cf5246bf5e5d1fc62fe35853d212477c0cb7a37fa45374d585656947bcc9",
+      "size": 226829
+    },
+    "data/geojson.day/american-primeval-day-00103.geojson.gz": {
+      "sha256": "49b667a27f1f9c06e3c88d714e137dfd7691e8609f5e389af030e658e800991c",
+      "size": 218455
+    },
+    "data/geojson.day/american-primeval-day-00104.geojson.gz": {
+      "sha256": "3e8e293fba54f9a5e11052af1685f34acd301b7d45e4fa60e5954aec4a7124e0",
+      "size": 219451
+    },
+    "data/geojson.day/american-primeval-day-00105.geojson.gz": {
+      "sha256": "2b92cbfca97a514107b074de5dc5290e7c069f3f5a08db26bfc27e92005e338d",
+      "size": 228523
+    },
+    "data/geojson.day/american-primeval-day-00106.geojson.gz": {
+      "sha256": "200a7007ea7b8cceb1ef232063e2970068eff072505bc22bd588d8d5644f7f67",
+      "size": 210755
+    },
+    "data/geojson.day/american-primeval-day-00107.geojson.gz": {
+      "sha256": "e7cc5affa22cc2979852a648fd6ae0c9371507a3203616f00e9b1ccf57f143ef",
+      "size": 200188
+    },
+    "data/geojson.day/american-primeval-day-00108.geojson.gz": {
+      "sha256": "84b8a293c7dca9ed2344c158947588445cffebeeaaff41b78d7158af1f156dcb",
+      "size": 204335
+    },
+    "data/geojson.day/american-primeval-day-00109.geojson.gz": {
+      "sha256": "99c500310c8b93b5fedc0be2685077d1d52b7335b57a6d8e88c58f3d7c2f71e8",
+      "size": 243535
+    },
+    "data/geojson.day/american-primeval-day-00110.geojson.gz": {
+      "sha256": "e15ab18e4902617d3e6edde1eae78d1c78cd35a256ac30dff1a82d1074d1fe7f",
+      "size": 245227
+    },
+    "data/geojson.day/american-primeval-day-00111.geojson.gz": {
+      "sha256": "eb7015e491eefb877f4b77007b7c43a89dadb03f9780cc375c0369f6697f8dca",
+      "size": 209263
+    },
+    "data/geojson.day/american-primeval-day-00112.geojson.gz": {
+      "sha256": "49c91cb96da21d30baf8169f3841aac9d5f8c1e4d85709ce52bc75c0a5691c81",
+      "size": 205858
+    },
+    "data/geojson.day/american-primeval-day-00113.geojson.gz": {
+      "sha256": "9679cfe2cc5c7fcaf924065bea37fb679664f913fe810dd9a665e11fd5e33166",
+      "size": 221997
+    },
+    "data/geojson.day/american-primeval-day-00114.geojson.gz": {
+      "sha256": "94b06c387403ee3ae67c5e8078633ecd50cf15368dc546ef217ae5acf341ec9f",
+      "size": 221512
+    },
+    "data/geojson.day/american-primeval-day-00115.geojson.gz": {
+      "sha256": "261b5c2fef6bc7ae0f7fabf17d9a18bddf866706ab89e87199b10f6208362837",
+      "size": 214262
+    },
+    "data/json/american-primeval-swarm-day-00001-2025-01-10.json": {
+      "sha256": "8261d4be74fa789e33b1d954bcdda917fad868b49e784f11b34be13c6d87e8b5",
+      "size": 453
+    },
+    "data/json/american-primeval-swarm-day-00002-2025-01-11.json": {
+      "sha256": "a4a5254545249067e3164c945aedbf8a07a878ffec118d9f78600eedb578b9d3",
+      "size": 453
+    },
+    "data/json/american-primeval-swarm-day-00003-2025-01-12.json": {
+      "sha256": "7d9f01055cf7fe8a89bfd6ab8d146843ace46eba07e160f9bf6e4060c50a2daa",
+      "size": 453
+    },
+    "data/json/american-primeval-swarm-day-00004-2025-01-13.json": {
+      "sha256": "79e82a1ed5a8306ea0bf7627fc69fc2321beb39a0d8d48c54092a9237356cc8e",
+      "size": 453
+    },
+    "data/json/american-primeval-swarm-day-00005-2025-01-14.json": {
+      "sha256": "c69d2ef581a40d71cbc1f67096592ef813a97d0d8cd23f5875eb6000e2f2b4de",
+      "size": 453
+    },
+    "data/json/american-primeval-swarm-day-00006-2025-01-15.json": {
+      "sha256": "282425d6d615629ed150ce6686957537eec43ac51d3eaa5a8328ea69bef62b5b",
+      "size": 453
+    },
+    "data/json/american-primeval-swarm-day-00007-2025-01-16.json": {
+      "sha256": "1205d78bcedb55b4326e53ecb29da5b0b6c4abb044602b478ef75b9fccb52c18",
+      "size": 453
+    },
+    "data/json/american-primeval-swarm-day-00008-2025-01-17.json": {
+      "sha256": "ca72aabc9f70f93a62c3fab4847a89f874a7cc5e1c02100c3859202e6c75fdf8",
+      "size": 453
+    },
+    "data/json/american-primeval-swarm-day-00009-2025-01-18.json": {
+      "sha256": "331a603732f870859f06d3420654c6d7e728f2509eed6e85a5711a30039e2159",
+      "size": 453
+    },
+    "data/json/american-primeval-swarm-day-00010-2025-01-19.json": {
+      "sha256": "5aa4453689e24d0b675bbcaf172104315ee8abe7f046b7d2c35cb61228a64d1c",
+      "size": 454
+    },
+    "data/json/american-primeval-swarm-day-00011-2025-01-20.json": {
+      "sha256": "f388b9d87d6e87b436c5e0c5aeb0db58de29e7607594ea7c20d2fc53a2a1f88c",
+      "size": 454
+    },
+    "data/json/american-primeval-swarm-day-00012-2025-01-21.json": {
+      "sha256": "555107ffba2bd85caa1aacba3e8c7f677167043d81e12f01ff2c6423179d133d",
+      "size": 454
+    },
+    "data/json/american-primeval-swarm-day-00013-2025-01-22.json": {
+      "sha256": "f02027fada5c27f7cd780b75c675dd6cf404372334007d4f51e075249ec0f794",
+      "size": 454
+    },
+    "data/json/american-primeval-swarm-day-00014-2025-01-23.json": {
+      "sha256": "d46c374315b488dc70963c948ca240b68d699b2e9830a2cfc4b74392027dcaec",
+      "size": 454
+    },
+    "data/json/american-primeval-swarm-day-00015-2025-01-24.json": {
+      "sha256": "c6bd58a338cb54fc17fd89a0b1f2788fe169ab5be407b651f4c245be98ddb33d",
+      "size": 454
+    },
+    "data/json/american-primeval-swarm-day-00016-2025-01-25.json": {
+      "sha256": "6b51e6faaee2cfc1ee4912367769c78282687f06ae4ed3c6221f99ee74367bc7",
+      "size": 454
+    },
+    "data/json/american-primeval-swarm-day-00017-2025-01-26.json": {
+      "sha256": "7ab25e24bbd63af11e35a2e2aeac17dcd3fc9c4071544606a47db5d4ce287fe6",
+      "size": 454
+    },
+    "data/json/american-primeval-swarm-day-00018-2025-01-27.json": {
+      "sha256": "2ae15316c41fc5cdc62648d6e184b933a2a8377b6551fa8a93ef10d757c72b9c",
+      "size": 454
+    },
+    "data/json/american-primeval-swarm-day-00019-2025-01-28.json": {
+      "sha256": "f054e4c0222342824aeb078e7e4501d233ba8e76ca3b71e4feaefae57e9071b5",
+      "size": 454
+    },
+    "data/json/american-primeval-swarm-day-00020-2025-01-29.json": {
+      "sha256": "ee05d7e56d343299d179b2d6484933e318e166af8d47734a20eb4313ad36ef22",
+      "size": 454
+    },
+    "data/json/american-primeval-swarm-day-00021-2025-01-30.json": {
+      "sha256": "9fe82c0d8c1ef2c66aea4686c787bbde14a2e26e0410e2ce2a497a95d43b9e66",
+      "size": 454
+    },
+    "data/json/american-primeval-swarm-day-00022-2025-01-31.json": {
+      "sha256": "3b9aabe74f8a6b2b0f06674d31ce82f5fc0fa49e7b7fbe14bb655e871ad1e0b9",
+      "size": 454
+    },
+    "data/json/american-primeval-swarm-day-00023-2025-02-01.json": {
+      "sha256": "81cf127241ec45ca1263f7566054e4441bbcca3afc1f5677e0d66e5f5ae7d569",
+      "size": 454
+    },
+    "data/json/american-primeval-swarm-day-00024-2025-02-02.json": {
+      "sha256": "99ee46239acda1cc39ef3d778111e3900955d1951ce01cbc1a9a840d28874e32",
+      "size": 454
+    },
+    "data/json/american-primeval-swarm-day-00025-2025-02-03.json": {
+      "sha256": "68390b9a3524971bcadde2a278863e6cc0e494c3edc1d4492a2a677bc45886c8",
+      "size": 454
+    },
+    "data/json/american-primeval-swarm-day-00026-2025-02-04.json": {
+      "sha256": "66efd597cde1b0b6fe196673e0112c2cca230d79566e626b650c721b29fa4fd9",
+      "size": 454
+    },
+    "data/json/american-primeval-swarm-day-00027-2025-02-05.json": {
+      "sha256": "5533110205e21b25140b832eec9c73f8c2fd73f3081b108a1c0909807264f4c1",
+      "size": 454
+    },
+    "data/json/american-primeval-swarm-day-00028-2025-02-06.json": {
+      "sha256": "025203dfd61ae6ac47c06719ef7c79ab263b813e2f8f25dc939bdb976cb91dce",
+      "size": 454
+    },
+    "data/json/american-primeval-swarm-day-00029-2025-02-07.json": {
+      "sha256": "747ac7cc09488deb627b3f0bbaf83b5d46983310807a226899801eec5ba4ff50",
+      "size": 454
+    },
+    "data/json/american-primeval-swarm-day-00030-2025-02-08.json": {
+      "sha256": "4a3d7d9922720759e42229b3d79e60083cfcfff193e275adb364855af296c8c4",
+      "size": 454
+    },
+    "data/json/american-primeval-swarm-day-00031-2025-02-09.json": {
+      "sha256": "d4e701406f03b58224c773cd889fb0349289413ccf9de2e1c07fffefae0ce483",
+      "size": 454
+    },
+    "data/json/american-primeval-swarm-day-00032-2025-02-10.json": {
+      "sha256": "ea4da0c16387cbaf4af81e72c44f962ce0608239d328c64d34c6811a8d619ce4",
+      "size": 454
+    },
+    "data/json/american-primeval-swarm-day-00033-2025-02-11.json": {
+      "sha256": "2eebc67155079fdc2a4b9f19f8e86050d5f5dca96beea2627690c5484227c0fc",
+      "size": 454
+    },
+    "data/json/american-primeval-swarm-day-00034-2025-02-12.json": {
+      "sha256": "f015c2f38411d0417197bbf69560e62db4463217d8916efd830e7e595a95d7e9",
+      "size": 454
+    },
+    "data/json/american-primeval-swarm-day-00035-2025-02-13.json": {
+      "sha256": "7c9b39c01d2407fcc73e8de65415e2f0ed3ce3b2d97b3e8fb625c9de9bfb5c38",
+      "size": 454
+    },
+    "data/json/american-primeval-swarm-day-00036-2025-02-14.json": {
+      "sha256": "01dac0a5a6755a06e24f68787a326c3e61c59ecb4a680cd1fb470909bd3700cc",
+      "size": 454
+    },
+    "data/json/american-primeval-swarm-day-00037-2025-02-15.json": {
+      "sha256": "6aaaa083731db3d29794a157db482bc87570f50c396d97cb0400518631238223",
+      "size": 454
+    },
+    "data/json/american-primeval-swarm-day-00038-2025-02-16.json": {
+      "sha256": "6244d0a74056f0ad2c665c05a2b26858cb3accefd5340c99207951490b102bb9",
+      "size": 454
+    },
+    "data/json/american-primeval-swarm-day-00039-2025-02-17.json": {
+      "sha256": "c5430206c26bb38d0783678cfa136794fbb57a26667990ce15382a93662eebac",
+      "size": 454
+    },
+    "data/json/american-primeval-swarm-day-00040-2025-02-18.json": {
+      "sha256": "f273257b63a91a67b7959c5608a3d32c4ee72925460b0667c0a5923f7fa7d27b",
+      "size": 454
+    },
+    "data/json/american-primeval-swarm-day-00041-2025-02-19.json": {
+      "sha256": "ca7df7f103b09d7b9f7ff7354c1070b47da7b9211b6473a0d6eb68e957325b65",
+      "size": 454
+    },
+    "data/json/american-primeval-swarm-day-00042-2025-02-20.json": {
+      "sha256": "f8b82c908c41a3dee04690bd85fa26bbdb7cc8e639da971ac8ddb938b8468aaa",
+      "size": 454
+    },
+    "data/json/american-primeval-swarm-day-00043-2025-02-21.json": {
+      "sha256": "f4a3783a9766f84fa3701107150e3ed4de7625fd56ed26cdef126e9ccbe1b703",
+      "size": 454
+    },
+    "data/json/american-primeval-swarm-day-00044-2025-02-22.json": {
+      "sha256": "1d9e628acf9afa15813eb95b9296017afe20ca44c2437e07fd8ca89963f1be38",
+      "size": 454
+    },
+    "data/json/american-primeval-swarm-day-00045-2025-02-23.json": {
+      "sha256": "92d1501fcda656a864ed56a5ad27b6b22578d75549c6fcdcd201ea72c9860421",
+      "size": 454
+    },
+    "data/json/american-primeval-swarm-day-00046-2025-02-24.json": {
+      "sha256": "f7ac3fa8d78e4b82957c71b03a381c181703695ab208553db6b7e65249eba4b8",
+      "size": 454
+    },
+    "data/json/american-primeval-swarm-day-00047-2025-02-25.json": {
+      "sha256": "37791d15f44a14adde583c2887203b596379468b7a6e2ad37ab6a95c5cd16660",
+      "size": 454
+    },
+    "data/json/american-primeval-swarm-day-00048-2025-02-26.json": {
+      "sha256": "f67348887285a1dc5eea07372992c8dbb4589ed6f06d91a8e95bc766853e77c3",
+      "size": 454
+    },
+    "data/json/american-primeval-swarm-day-00049-2025-02-27.json": {
+      "sha256": "caebe57888759840b95c2afac40e29063e72359b9c2e6ab9006d5a3d58c2eb75",
+      "size": 454
+    },
+    "data/json/american-primeval-swarm-day-00050-2025-02-28.json": {
+      "sha256": "f890add2ff632bc70fbbb7170531f752b11a5f1c2e516c497fe46b8c7b34b8dd",
+      "size": 454
+    },
+    "data/json/american-primeval-swarm-day-00051-2025-03-01.json": {
+      "sha256": "4533e10163e7e1bceba928580f01ead6cb15e05c2b11431d75a4ff654f0992e0",
+      "size": 454
+    },
+    "data/json/american-primeval-swarm-day-00052-2025-03-02.json": {
+      "sha256": "110fcad9519f740717dcc6a39c3e90a201f2e0d8ce49b5217e9e50a35ac07273",
+      "size": 454
+    },
+    "data/json/american-primeval-swarm-day-00053-2025-03-03.json": {
+      "sha256": "ed33212fccc74207bc2cbc54e98b2015398d973eba19e7f7387d5d5c991fa7a3",
+      "size": 454
+    },
+    "data/json/american-primeval-swarm-day-00054-2025-03-04.json": {
+      "sha256": "c63d0a71a2ba5346fce4fa4f10893c41453f434d0d6d81d8757528a13025cf33",
+      "size": 454
+    },
+    "data/json/american-primeval-swarm-day-00055-2025-03-05.json": {
+      "sha256": "1e81f6ef4648707526bfdbfc3b32fc59579d5959ef64e06ea9aee1df44704904",
+      "size": 454
+    },
+    "data/json/american-primeval-swarm-day-00056-2025-03-06.json": {
+      "sha256": "c2493bd16f7416e9ec637c88bdb73ccf9f082c49ef7af4b106a13850d9d5ac7d",
+      "size": 454
+    },
+    "data/json/american-primeval-swarm-day-00057-2025-03-07.json": {
+      "sha256": "51fdf80e0a290dbf8dba37882c2b32ff1c7a2e674fc421661307f83cda2629e0",
+      "size": 454
+    },
+    "data/json/american-primeval-swarm-day-00058-2025-03-08.json": {
+      "sha256": "b83b5535d507337befefcfb52380f5a9faaaed9afe220f7d97098ab654bf0c36",
+      "size": 454
+    },
+    "data/json/american-primeval-swarm-day-00059-2025-03-09.json": {
+      "sha256": "dc66e2e60320afcd41c36cd464b35dc9fbc72067a186be18a2b347c067bca916",
+      "size": 454
+    },
+    "data/json/american-primeval-swarm-day-00060-2025-03-10.json": {
+      "sha256": "40bc708dbd28951615241bda11462bcbcf6716da7008f857a179b25c180a76ee",
+      "size": 454
+    },
+    "data/json/american-primeval-swarm-day-00061-2025-03-11.json": {
+      "sha256": "feb4862a62dc7a5d02200b64e8e238f838e98e7195bf4209213d32f6d6f57e96",
+      "size": 454
+    },
+    "data/json/american-primeval-swarm-day-00062-2025-03-12.json": {
+      "sha256": "fccb11bfd4c1da42d372e79e8f52bacbf2a77806f4dd0c2dfeade942b1139fc2",
+      "size": 454
+    },
+    "data/json/american-primeval-swarm-day-00063-2025-03-13.json": {
+      "sha256": "06ad00e5ece9539a9683e9b823c81f58361549598029f1a2110f89493b7dfd82",
+      "size": 454
+    },
+    "data/json/american-primeval-swarm-day-00064-2025-03-14.json": {
+      "sha256": "73f887011e9de00e37396b7297fd91cc234a63552c74a347b4341f3f5b70b889",
+      "size": 454
+    },
+    "data/json/american-primeval-swarm-day-00065-2025-03-15.json": {
+      "sha256": "a533c94eb9e347f6922833e139f429af0b0e6d4ec1939fc6ec8a2b2a077c4e5f",
+      "size": 454
+    },
+    "data/json/american-primeval-swarm-day-00066-2025-03-16.json": {
+      "sha256": "d77f4cb7113ce32f3539a8138b20b7e830f1baa5217d7ce935b508f140de0668",
+      "size": 454
+    },
+    "data/json/american-primeval-swarm-day-00067-2025-03-17.json": {
+      "sha256": "1e9384f0d42f2e86255de1252d7deea247d77eb8f366a7d55fb4fdb8208f041c",
+      "size": 454
+    },
+    "data/json/american-primeval-swarm-day-00068-2025-03-18.json": {
+      "sha256": "a7a567daf8188ea091b7b6d749e8f67cced30a6ab10e0258851e592946911f52",
+      "size": 454
+    },
+    "data/json/american-primeval-swarm-day-00069-2025-03-19.json": {
+      "sha256": "7af919831fa37dc06c66e47780b163ab7d8490816add6aea9d0d32521a604d8e",
+      "size": 454
+    },
+    "data/json/american-primeval-swarm-day-00070-2025-03-20.json": {
+      "sha256": "4455a7186cb6db14083ef9e68bbe81371a94cb3b1de308dd5a35b1ef66774d72",
+      "size": 454
+    },
+    "data/json/american-primeval-swarm-day-00071-2025-03-21.json": {
+      "sha256": "558b9f463063aa7cc4657033d6091fb862f1f2735fae1bdf5bff250a6243c658",
+      "size": 454
+    },
+    "data/json/american-primeval-swarm-day-00072-2025-03-22.json": {
+      "sha256": "a0e22b9b29c4591aa54d25d26aaa226b3fe99a26edb307d05de4548afd130467",
+      "size": 454
+    },
+    "data/json/american-primeval-swarm-day-00073-2025-03-23.json": {
+      "sha256": "6f0761e3517368f414d3a75224012a582d670fa16993f93f9133a7fc7c36d1e9",
+      "size": 454
+    },
+    "data/json/american-primeval-swarm-day-00074-2025-03-24.json": {
+      "sha256": "031ab7d827d1942d5e4b4222ff01686d75222989e17604890860c2e4e28f94cf",
+      "size": 454
+    },
+    "data/json/american-primeval-swarm-day-00075-2025-03-25.json": {
+      "sha256": "f3c5c6a0442f4f176c70b43b317004a7ff73ae578786a4bacbb1b1d5d7b111b8",
+      "size": 454
+    },
+    "data/json/american-primeval-swarm-day-00076-2025-03-26.json": {
+      "sha256": "dbbe4797766c084e7e5b11abdc6a32a197032b9f5b9cbb22aa0c27ac9358dca9",
+      "size": 454
+    },
+    "data/json/american-primeval-swarm-day-00077-2025-03-27.json": {
+      "sha256": "5c6c4c69cef8e236a75f3dbeac7f82b4ddff4a02a5c19edc7a72bc6348e4ef1a",
+      "size": 454
+    },
+    "data/json/american-primeval-swarm-day-00078-2025-03-28.json": {
+      "sha256": "cf2e64bb1a06fedcb71cc87c970687c886ea632d9cb1c6b23934c16b9fdc014b",
+      "size": 454
+    },
+    "data/json/american-primeval-swarm-day-00079-2025-03-29.json": {
+      "sha256": "e9d8f1c68ee8653c624e42163fc477d0a83c9119c74c6d794d5af9d84a83fd2b",
+      "size": 454
+    },
+    "data/json/american-primeval-swarm-day-00080-2025-03-30.json": {
+      "sha256": "d3a72a8ae021e36c468f580eaa75a1243d13444b5f7266e3c73c4742b10b3b8f",
+      "size": 454
+    },
+    "data/json/american-primeval-swarm-day-00081-2025-03-31.json": {
+      "sha256": "67e1fa47074835e858211c65baee1b449662d075edbc7effeaf04316d8807f33",
+      "size": 454
+    },
+    "data/json/american-primeval-swarm-day-00082-2025-04-01.json": {
+      "sha256": "2170edaadc618d49a0492ad0a481a6c4cae56b8924a49684aed5cb261332787b",
+      "size": 454
+    },
+    "data/json/american-primeval-swarm-day-00083-2025-04-02.json": {
+      "sha256": "a7009b7b3c9e6632c036c6ccf80d85b3b52c5c20a8b55c65698521f9c14b0aee",
+      "size": 454
+    },
+    "data/json/american-primeval-swarm-day-00084-2025-04-03.json": {
+      "sha256": "feba4df5c74990d1fa3ca723f01a04021679db07e97d910078cc022a3643f0b9",
+      "size": 454
+    },
+    "data/json/american-primeval-swarm-day-00085-2025-04-04.json": {
+      "sha256": "782568cc4874f2eaa9ad381ea57dc5339fd1af2b81f500670fe5bf1bc4e0f14a",
+      "size": 454
+    },
+    "data/json/american-primeval-swarm-day-00086-2025-04-05.json": {
+      "sha256": "eec5dff77aa62e82d8f3790d731d0268423ae9693031ab89214c517262475cfb",
+      "size": 454
+    },
+    "data/json/american-primeval-swarm-day-00087-2025-04-06.json": {
+      "sha256": "04f080892bebea4e32195c1738d924d0ed6f0d2a5dc6499c7cfb782f8c5a6a37",
+      "size": 454
+    },
+    "data/json/american-primeval-swarm-day-00088-2025-04-07.json": {
+      "sha256": "5052ed8b433886014d7fcfcd2a84f6d8f5ba85499e8e7dc2ae0d940ca529210f",
+      "size": 454
+    },
+    "data/json/american-primeval-swarm-day-00089-2025-04-08.json": {
+      "sha256": "ac0e66beeecd63d84b3c596865e32a3ec40de76fceb96cb0ef2c67ce42eb5aba",
+      "size": 454
+    },
+    "data/json/american-primeval-swarm-day-00090-2025-04-09.json": {
+      "sha256": "4fadae27f66b7827bce29d710154ada3d5af4b7cebd86187f3abfad9c999ed15",
+      "size": 454
+    },
+    "data/json/american-primeval-swarm-day-00091-2025-04-10.json": {
+      "sha256": "b7cd9edd7b79fd2681cc82f770f757e3ad7125b24bc3aeb9dbdcdf2a9370b97b",
+      "size": 454
+    },
+    "data/json/american-primeval-swarm-day-00092-2025-04-11.json": {
+      "sha256": "6b211cb45212dba216da3d6eaf382d2586badead5f18ccc1461a02de2748831e",
+      "size": 454
+    },
+    "data/json/american-primeval-swarm-day-00093-2025-04-12.json": {
+      "sha256": "49fb22080057af70250523ed9020d48d1a705cb9ab48af357783bfde3a817679",
+      "size": 454
+    },
+    "data/json/american-primeval-swarm-day-00094-2025-04-13.json": {
+      "sha256": "f8fe9bcc41cc2d48332e03873a533c266932d1aa890c1dc1fdcea8433e9f05d3",
+      "size": 454
+    },
+    "data/json/american-primeval-swarm-day-00095-2025-04-14.json": {
+      "sha256": "83aeb1d555fd4d3d5aa36c2f743b2abcc9caae06a6f204e2ecd3ef3f48cd0c5d",
+      "size": 454
+    },
+    "data/json/american-primeval-swarm-day-00096-2025-04-15.json": {
+      "sha256": "2f12a80531d562cfca32ac4e49a4437ece08e145406f92f2a6934a6cf8b94dd5",
+      "size": 454
+    },
+    "data/json/american-primeval-swarm-day-00097-2025-04-16.json": {
+      "sha256": "0fa9754f93f2f282f6ed920b32e11683a70c919cf952f568442249948a2c5ea4",
+      "size": 454
+    },
+    "data/json/american-primeval-swarm-day-00098-2025-04-17.json": {
+      "sha256": "b6dab9ede91a71f1bd552a37fa605b8ffb58a903f9dde9c61cd4d882542e3f15",
+      "size": 454
+    },
+    "data/json/american-primeval-swarm-day-00099-2025-04-18.json": {
+      "sha256": "d7e45f0c63ae1cde02f58c131621644bcd96ccb9f3304aaad59bcd92090e79b9",
+      "size": 454
+    },
+    "data/json/american-primeval-swarm-day-00100-2025-04-19.json": {
+      "sha256": "f92e3be68ed314b9acd616527fd4ba205872801c04db68e32730fcddecedc652",
+      "size": 455
+    },
+    "data/json/american-primeval-swarm-day-00101-2025-04-20.json": {
+      "sha256": "8c83a6827ad986c6a777c2f92bc1309984ef291ecc762aaefeff13b732513b43",
+      "size": 455
+    },
+    "data/json/american-primeval-swarm-day-00102-2025-04-21.json": {
+      "sha256": "6d06cde32ad05276711264b3ac0e4614bb7c3f2f82784b1bbb51574113d5a567",
+      "size": 455
+    },
+    "data/json/american-primeval-swarm-day-00103-2025-04-22.json": {
+      "sha256": "4aae9566a669f65cdd9c74e32e8b81685a75cc77b4f9f872311c3b7ccad40e43",
+      "size": 455
+    },
+    "data/json/american-primeval-swarm-day-00104-2025-04-23.json": {
+      "sha256": "29f04afcdedec0bbee246e765cef2ea2636d004fb353b56aa5bdd3fe3ce61f2a",
+      "size": 455
+    },
+    "data/json/american-primeval-swarm-day-00105-2025-04-24.json": {
+      "sha256": "e573143603e57999f80f01020db6086166a2c7ba19f2b95e0a93aeb0fabcadfb",
+      "size": 455
+    },
+    "data/json/american-primeval-swarm-day-00106-2025-04-25.json": {
+      "sha256": "2569015ff70ac035a30c90e6e3c8380d06a84488fa1df6eccd25d7b6ec82b562",
+      "size": 455
+    },
+    "data/json/american-primeval-swarm-day-00107-2025-04-26.json": {
+      "sha256": "d439fa8ad2bcad0d3798d4d190c4ab7bdf366575cafd3c63d865d26502c03232",
+      "size": 455
+    },
+    "data/json/american-primeval-swarm-day-00108-2025-04-27.json": {
+      "sha256": "4a5f9a733fff385dfbbf8d40e8dbe3a6a367f812c0aef0d86a699edd8ef45a49",
+      "size": 455
+    },
+    "data/json/american-primeval-swarm-day-00109-2025-04-28.json": {
+      "sha256": "f70c20aa43c05bbbef44fd6794703902bd44c6573ecdfd25cbe825eab1b27e86",
+      "size": 455
+    },
+    "data/json/american-primeval-swarm-day-00110-2025-04-29.json": {
+      "sha256": "e031d8fcf9f36b297a2438a51db90980e4344d537dc8a57bc8224f21e4b112bc",
+      "size": 455
+    },
+    "data/json/american-primeval-swarm-day-00111-2025-04-30.json": {
+      "sha256": "53d049a9484b301e1c8c0986f531c14fab98f7fa746a42f74bef37b30ec3dea0",
+      "size": 455
+    },
+    "data/json/american-primeval-swarm-day-00112-2025-05-01.json": {
+      "sha256": "84927548f572eb735979cde7ed6dde9884fc81eee034aa73e06b8d0201bd128b",
+      "size": 455
+    },
+    "data/json/american-primeval-swarm-day-00113-2025-05-02.json": {
+      "sha256": "28aead479940af8252c65043e65960b2429621f09cb7bba26754589c44f0d3ba",
+      "size": 455
+    },
+    "data/json/american-primeval-swarm-day-00114-2025-05-03.json": {
+      "sha256": "38119d142ea3aa172cfaee4d0504b54d4cd49afc3e800df7d771f88880fc0351",
+      "size": 455
+    },
+    "data/json/american-primeval-swarm-day-00115-2025-05-04.json": {
+      "sha256": "28a7fe6ea49a05c0f1c94438b3d16bf86ec83da85119e6fcf8aca54ca79c4e07",
+      "size": 455
+    }
+  },
+  "schema": "alpha60-year-day-product-bundle/1",
+  "source_revisions": {
+    "aggregate_binary": {
+      "sha256": "80bdf6691c0ef6ed5fcc7fa3a6462748104e1935ce5b2a4df3861e11bb13195a",
+      "size": 38582648
+    },
+    "alpha60": "ee81b50bb9790eb0c52125cba38ea8787a1a140f",
+    "alpha60_data": "8faeae67a5d274d1fc00bffe9fc9318329163b20",
+    "day_product_contract": {
+      "sha256": "72cef2b39ed0d6c6f6120f86d21517dd8d4f76982935c36e8d290638c4a3a10b",
+      "size": 9267
+    },
+    "metadata": "fbeb53a0b523f937fae2f23d14689d8c5c84dd5a",
+    "package_script": {
+      "sha256": "79bb170e38712e3653cf3cd8b781ddddf293af5eb6a916b4cb881a67cab8cf97",
+      "size": 11299
+    }
+  },
+  "status": "pass"
+}
