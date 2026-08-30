@@ -1,0 +1,1725 @@
+{
+  "archive": {
+    "path": "/home/bkoz/src/alpha60-xperiments/year-2025-archives/south-park-27.cache/cache.20260122.tar.xz",
+    "sha256": "022ca3b694b02695f4e40aabd99c95bdfdff0e558c6a00fe216cbc0301439aa6",
+    "size": 3376567868
+  },
+  "authorization": {
+    "archive_mutated": false,
+    "excluded_member_classes": [
+      "hour",
+      "week",
+      "cumulative"
+    ],
+    "raw_samples_opened": false,
+    "scope": "read only streaming of per-torrent day records"
+  },
+  "collection_key": "south-park-27",
+  "day_cache_stream_contract": {
+    "authorization": {
+      "archive_mutated": false,
+      "excluded_member_classes": [
+        "hour",
+        "week",
+        "cumulative"
+      ],
+      "raw_samples_opened": false,
+      "scope": "read only streaming of per-torrent day records"
+    },
+    "available_day_products": 182,
+    "cache_members": 43594,
+    "collection_key": "south-park-27",
+    "first_date": "2025-07-25",
+    "first_index": 1,
+    "indices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144,
+      145,
+      146,
+      147,
+      148,
+      149,
+      150,
+      151,
+      152,
+      153,
+      154,
+      155,
+      156,
+      157,
+      158,
+      159,
+      160,
+      161,
+      162,
+      163,
+      164,
+      165,
+      166,
+      167,
+      168,
+      169,
+      170,
+      171,
+      172,
+      173,
+      174,
+      175,
+      176,
+      177,
+      178,
+      179,
+      180,
+      181,
+      182
+    ],
+    "last_date": "2026-01-22",
+    "last_index": 182,
+    "missing_indices": [],
+    "sample_span_days": 182,
+    "schema": "alpha60-day-cache-stream-contract/1",
+    "sparse": false,
+    "status": "pass"
+  },
+  "day_product_contract": {
+    "collection_key": "south-park-27",
+    "day_products": 182,
+    "first_date": "2025-07-25",
+    "first_index": 1,
+    "geojson_data_version": "20260701",
+    "ip_geolocation_version": "6:1777968300",
+    "json_data_version": "2026-08-05",
+    "last_date": "2026-01-22",
+    "last_index": 182,
+    "schema": "alpha60-day-product-contract/1",
+    "sparse": false,
+    "status": "pass"
+  },
+  "publications": {
+    "data/geojson.day/south-park-27-day-00001.geojson.gz": {
+      "sha256": "7098006ccd78b799fc5abc8c711d9a9a9a7e8d1c5ea0f2c4aea40cec345bf20b",
+      "size": 207680
+    },
+    "data/geojson.day/south-park-27-day-00002.geojson.gz": {
+      "sha256": "bea62f1588379aae90c21d5d105c1191524394ae4d4361193fce312ede1c8deb",
+      "size": 182168
+    },
+    "data/geojson.day/south-park-27-day-00003.geojson.gz": {
+      "sha256": "af4547cb5df0af0412c3c85c95c8347286ec5274b2cf35ae3642818fc217fe33",
+      "size": 176384
+    },
+    "data/geojson.day/south-park-27-day-00004.geojson.gz": {
+      "sha256": "c4b27ef0d34b6a75d439383593b6f471c45919458a70d89695263950c544531b",
+      "size": 175987
+    },
+    "data/geojson.day/south-park-27-day-00005.geojson.gz": {
+      "sha256": "d88ffc4ddc641c89b87133d82b00ed438ee81ba3cedb6f9879685dbc970bd5f6",
+      "size": 170145
+    },
+    "data/geojson.day/south-park-27-day-00006.geojson.gz": {
+      "sha256": "1a0317f9be9f64c530b076edf2712f584c097e4fba55d09d81fc5eba25e9bc8d",
+      "size": 167743
+    },
+    "data/geojson.day/south-park-27-day-00007.geojson.gz": {
+      "sha256": "b16930be63d44b1634baf9f569742463ee4b321077f611f5571e137b3f1e3d0a",
+      "size": 163169
+    },
+    "data/geojson.day/south-park-27-day-00008.geojson.gz": {
+      "sha256": "630d4ec1911ad63626ba84a36bb840cd2a54129bba33f1bad8420e1ce5e481f6",
+      "size": 163699
+    },
+    "data/geojson.day/south-park-27-day-00009.geojson.gz": {
+      "sha256": "4df91d51367e8c71d448c587a002593b62a5d57ceb7f763c3f3fd88abaf0c0db",
+      "size": 138356
+    },
+    "data/geojson.day/south-park-27-day-00010.geojson.gz": {
+      "sha256": "29b67f5bd029105ed95c1218306abb514d778853d763bd0bd3bf9d173c2083b3",
+      "size": 148521
+    },
+    "data/geojson.day/south-park-27-day-00011.geojson.gz": {
+      "sha256": "31cd3930055d350f7d7e5ff2ceebbe4864f5fc9d61cd745342ee5bdd1c20c561",
+      "size": 143020
+    },
+    "data/geojson.day/south-park-27-day-00012.geojson.gz": {
+      "sha256": "874229822a9db2a9cc7a95fc00a76c416722ff2beea8d1e859d9a8486ef97818",
+      "size": 95615
+    },
+    "data/geojson.day/south-park-27-day-00013.geojson.gz": {
+      "sha256": "b8354b5f5c2de858ae2cd52598a5bed817dba88c7a6f2b889e03c308e8e6679a",
+      "size": 138348
+    },
+    "data/geojson.day/south-park-27-day-00014.geojson.gz": {
+      "sha256": "ef069d25eec2e3a30c89881a27f28e5407eb4a746ae20a62d483d2cb13b3e87b",
+      "size": 197724
+    },
+    "data/geojson.day/south-park-27-day-00015.geojson.gz": {
+      "sha256": "a35d0783ce707df9e6568906ed2b11155e3de8892a510993c38625c9d2b50fa9",
+      "size": 236982
+    },
+    "data/geojson.day/south-park-27-day-00016.geojson.gz": {
+      "sha256": "621e66b39d737980242514b1f7f491415530f0ddf2bc292bbffbe295981fa4ef",
+      "size": 213739
+    },
+    "data/geojson.day/south-park-27-day-00017.geojson.gz": {
+      "sha256": "1bf91f8276fc1072a3f56ff8ed243d7cb52cdc3be9c7d29ced41599dd1719dfe",
+      "size": 212332
+    },
+    "data/geojson.day/south-park-27-day-00018.geojson.gz": {
+      "sha256": "3bbecc787dd123689440cde8f48d3b65576b2e7d8dfce68108721db04443db0d",
+      "size": 206978
+    },
+    "data/geojson.day/south-park-27-day-00019.geojson.gz": {
+      "sha256": "52e2e592d9bac93f4e76fb0136b52c82e454ca3bb10fd72f6d9e8a5fff55b57a",
+      "size": 190828
+    },
+    "data/geojson.day/south-park-27-day-00020.geojson.gz": {
+      "sha256": "34c6591c865c0599a5eeb92b96450c388bf385017c9d52463d7fdddd199ab0d4",
+      "size": 192124
+    },
+    "data/geojson.day/south-park-27-day-00021.geojson.gz": {
+      "sha256": "095a04d7c946a07641327f9f3e7028202ffef5e318ec11b9cbb89418f70c59e2",
+      "size": 180634
+    },
+    "data/geojson.day/south-park-27-day-00022.geojson.gz": {
+      "sha256": "a9d9b6bfe7a5304c0a09659072ea9ce0e3fa6213ad0036de9e897bb197ab5398",
+      "size": 174751
+    },
+    "data/geojson.day/south-park-27-day-00023.geojson.gz": {
+      "sha256": "4e1b34052b9a564e62105ddd08d72cf15ffa7d35367e872c48b0b372442349b5",
+      "size": 169335
+    },
+    "data/geojson.day/south-park-27-day-00024.geojson.gz": {
+      "sha256": "57b6d43511c661f5c7772fd055276f3c78892a9a6c3b7cb81accbd75e144a6d7",
+      "size": 166805
+    },
+    "data/geojson.day/south-park-27-day-00025.geojson.gz": {
+      "sha256": "3d75296aa7b109848a15e9bcd4e984fbdc4bde0c3db753696940aacaacc9987d",
+      "size": 172162
+    },
+    "data/geojson.day/south-park-27-day-00026.geojson.gz": {
+      "sha256": "b63231cbe407e2ae614f675c59982ad1d35e42ebe9a63d5ad577f503fabded9c",
+      "size": 168627
+    },
+    "data/geojson.day/south-park-27-day-00027.geojson.gz": {
+      "sha256": "7be9d19aee14ce58aeb3e17527b5707408fea23de9ac7b0fa6e2070da27fcdf9",
+      "size": 165647
+    },
+    "data/geojson.day/south-park-27-day-00028.geojson.gz": {
+      "sha256": "0840b5bb8bea170b9186e1b54623bb10db4f67875fa5050f0998840c12b0c37d",
+      "size": 193252
+    },
+    "data/geojson.day/south-park-27-day-00029.geojson.gz": {
+      "sha256": "0700de3a8961646e20eee1d4b321bcc957b472f5fafcae54e5701d18f84608fc",
+      "size": 245417
+    },
+    "data/geojson.day/south-park-27-day-00030.geojson.gz": {
+      "sha256": "e5cee66eced1e84ac922e90b7fc8a7b5eaa7deba107fae0866b649e6901ad9c8",
+      "size": 232413
+    },
+    "data/geojson.day/south-park-27-day-00031.geojson.gz": {
+      "sha256": "b97c4908e3ec762164315e9297b6de6047338f3a1b3c74debee261a2e762dd6a",
+      "size": 236494
+    },
+    "data/geojson.day/south-park-27-day-00032.geojson.gz": {
+      "sha256": "3a476508ba08d685e0412af5ee4876cc40cb48502c8921d97f103b7fa548776b",
+      "size": 247431
+    },
+    "data/geojson.day/south-park-27-day-00033.geojson.gz": {
+      "sha256": "85306e3fb4a818992e93e285c4d4ede4fc68f37e8de1002cc506e7f2e684524c",
+      "size": 207656
+    },
+    "data/geojson.day/south-park-27-day-00034.geojson.gz": {
+      "sha256": "2cc3d93210f621ceb03ae8e2a0abacce44772841723ea3a69983e8877ffe7db9",
+      "size": 176247
+    },
+    "data/geojson.day/south-park-27-day-00035.geojson.gz": {
+      "sha256": "4019117f5cc1f7b474481e2907e497c791b6218996b7c8d32d9d70a24b85d0c4",
+      "size": 197212
+    },
+    "data/geojson.day/south-park-27-day-00036.geojson.gz": {
+      "sha256": "a2ca6d50935f7c29f751db72f2f1557586a98d4da812b46d1a55012fda56204c",
+      "size": 200852
+    },
+    "data/geojson.day/south-park-27-day-00037.geojson.gz": {
+      "sha256": "0ab3f541a07e63e2a2d629220aa7ae92ade2f77b03a9fe83c61b7e7fcbfa19ff",
+      "size": 207836
+    },
+    "data/geojson.day/south-park-27-day-00038.geojson.gz": {
+      "sha256": "a48d3847a2d8f67cbe212b8ca1d972f7f43b9c51e197a63d1666c7ab20fd5e50",
+      "size": 196351
+    },
+    "data/geojson.day/south-park-27-day-00039.geojson.gz": {
+      "sha256": "eb7ffbbf46c0baa2226921b14c6c054d7a891a0b4705ef2d1890962c6044e228",
+      "size": 190794
+    },
+    "data/geojson.day/south-park-27-day-00040.geojson.gz": {
+      "sha256": "750812cd9f75ce0dfd7f88081cdff287a226709305a1ef9477ba8b60de5e53d7",
+      "size": 194603
+    },
+    "data/geojson.day/south-park-27-day-00041.geojson.gz": {
+      "sha256": "4b22368b36c0df92817799d5362a050aaf5a3d25a8fff463e87b30329c07d423",
+      "size": 184282
+    },
+    "data/geojson.day/south-park-27-day-00042.geojson.gz": {
+      "sha256": "bf86b726f8cd72899f5e95119298118743f5159a17cb7b7722d94a1cc2285710",
+      "size": 194313
+    },
+    "data/geojson.day/south-park-27-day-00043.geojson.gz": {
+      "sha256": "fb29e29943475cd2531ae3cbffe589fbd8c95681dc4daef6d9252696a0a79cdb",
+      "size": 215751
+    },
+    "data/geojson.day/south-park-27-day-00044.geojson.gz": {
+      "sha256": "1f46742a714255eab46a4d6845070efc39c4f4862a29b3c2de98adbd010adabe",
+      "size": 240643
+    },
+    "data/geojson.day/south-park-27-day-00045.geojson.gz": {
+      "sha256": "38b8119e6e581aab56a17d957b14a867406d3190c0c377597e118e948ba95477",
+      "size": 236704
+    },
+    "data/geojson.day/south-park-27-day-00046.geojson.gz": {
+      "sha256": "c88288b58e4fc3a6dfd75fde64e38e24bea8deac34285d008bf6d8e7499c0fef",
+      "size": 241117
+    },
+    "data/geojson.day/south-park-27-day-00047.geojson.gz": {
+      "sha256": "b8a52bae6b0c2e0ec9e7d89a5488b225c39ddf5412391f7328fbdfb346d56c53",
+      "size": 254181
+    },
+    "data/geojson.day/south-park-27-day-00048.geojson.gz": {
+      "sha256": "bc1f6891414826e97c4ac40c74317acf3d932e928791cc88729f1160ed50e4d7",
+      "size": 232253
+    },
+    "data/geojson.day/south-park-27-day-00049.geojson.gz": {
+      "sha256": "a81662b69efa23bee4259a32b1f6e3d6e62f612f6a2c599c1b8191aa1ffc6b71",
+      "size": 232721
+    },
+    "data/geojson.day/south-park-27-day-00050.geojson.gz": {
+      "sha256": "d73293c3301c25d19f46b30f10498ab138bfcc4cb5aa849b7893dc3a66ddd4c7",
+      "size": 236545
+    },
+    "data/geojson.day/south-park-27-day-00051.geojson.gz": {
+      "sha256": "5c144f4bea01fd3f2313d0c016c29e8abaaa28a27f325f63bc1ef6fbf60915ab",
+      "size": 225317
+    },
+    "data/geojson.day/south-park-27-day-00052.geojson.gz": {
+      "sha256": "044417842c08869a9daa2067bc9e08923d895217c83498eef4bf83c882fcf165",
+      "size": 196403
+    },
+    "data/geojson.day/south-park-27-day-00053.geojson.gz": {
+      "sha256": "e80ec9089e3f86870e2d057b7839dec9a3abf16c2d68338430e9afc1b667ee4f",
+      "size": 192291
+    },
+    "data/geojson.day/south-park-27-day-00054.geojson.gz": {
+      "sha256": "b4e79237663acaad955067cbbb6fce151ac8faf758744e5f91f9b5beba436a73",
+      "size": 216615
+    },
+    "data/geojson.day/south-park-27-day-00055.geojson.gz": {
+      "sha256": "1366591ac451903d34073992be9127262182052faaf625698bca92ab24630a81",
+      "size": 222589
+    },
+    "data/geojson.day/south-park-27-day-00056.geojson.gz": {
+      "sha256": "0eac054cf34a620ea72a7c3d5e0265db4aab1dad637379728cc04d550f4b08f7",
+      "size": 222484
+    },
+    "data/geojson.day/south-park-27-day-00057.geojson.gz": {
+      "sha256": "94ec962f11980a7a235ebe505a75a63096ff233bd53d66a17e7acb17827ff295",
+      "size": 218068
+    },
+    "data/geojson.day/south-park-27-day-00058.geojson.gz": {
+      "sha256": "da41e0aef7690d678c49d7f727c1ba046cc4a3d022b82b82927d3bd2b8e7f7d5",
+      "size": 210954
+    },
+    "data/geojson.day/south-park-27-day-00059.geojson.gz": {
+      "sha256": "f3b8abd41200a148fcaa9e2188f424d7960c611eac3e56944fa6c2a8c08c6351",
+      "size": 220733
+    },
+    "data/geojson.day/south-park-27-day-00060.geojson.gz": {
+      "sha256": "315b7880216415d0407ba55c7c20879f074823e8bb2fdccea83e92f01c147eaf",
+      "size": 223901
+    },
+    "data/geojson.day/south-park-27-day-00061.geojson.gz": {
+      "sha256": "963c9ba27829d321dfdd73a9f164e64f220785da3ae0dd464b76765c622a0ef4",
+      "size": 228188
+    },
+    "data/geojson.day/south-park-27-day-00062.geojson.gz": {
+      "sha256": "3d2cb88f62cb648ae42991ef693f95ca15233a6046f492e0b836a640ed5748ac",
+      "size": 239884
+    },
+    "data/geojson.day/south-park-27-day-00063.geojson.gz": {
+      "sha256": "56dcf737b8a2dc53aa745ad3870ba3c1c5d2b49a72bdf1516cd84111661b0b90",
+      "size": 259245
+    },
+    "data/geojson.day/south-park-27-day-00064.geojson.gz": {
+      "sha256": "1e7f0d54b1a20dc5b19089fb30ca49a727fbcbad8d63a4ca77a7be5dd60037d4",
+      "size": 299562
+    },
+    "data/geojson.day/south-park-27-day-00065.geojson.gz": {
+      "sha256": "e26a6a3fff284afa9a33c7c8cb4580c7542c35acdc5a8f605a342b7140a71478",
+      "size": 289861
+    },
+    "data/geojson.day/south-park-27-day-00066.geojson.gz": {
+      "sha256": "a16ae17429350422a85a45ebc24372308f8cb520df5fb230be43c94213aa163b",
+      "size": 260762
+    },
+    "data/geojson.day/south-park-27-day-00067.geojson.gz": {
+      "sha256": "d9c423cc2babc63cb5b6a0d37ac8aa9a353300a57abcbd6b881be073a00c15a5",
+      "size": 285281
+    },
+    "data/geojson.day/south-park-27-day-00068.geojson.gz": {
+      "sha256": "c107fc40ce66b2b885d39531595376b7fb48dbbd48d211d1d626d6e31cbf98d2",
+      "size": 270081
+    },
+    "data/geojson.day/south-park-27-day-00069.geojson.gz": {
+      "sha256": "fe7c53c5fe083465244f2f43a0f634c9dec04a95526728c3258b3d599e964bef",
+      "size": 257538
+    },
+    "data/geojson.day/south-park-27-day-00070.geojson.gz": {
+      "sha256": "5594adee6d357ece0f7fa27af23eab6c1f416a4e6137236c717bffbb4f0857cc",
+      "size": 257190
+    },
+    "data/geojson.day/south-park-27-day-00071.geojson.gz": {
+      "sha256": "fd9cabd7c6e9679e773054b740e036a7810753b053cda2cbf4ddf056dec431f9",
+      "size": 258771
+    },
+    "data/geojson.day/south-park-27-day-00072.geojson.gz": {
+      "sha256": "2b118ccfb0decfe0fce7b90433964a0f8d8c74d624b5df873e039d5a7d8ff796",
+      "size": 241103
+    },
+    "data/geojson.day/south-park-27-day-00073.geojson.gz": {
+      "sha256": "abc00ba5194ba9ca2b720bf8d248c043fec78b2a7e4e5da58422b7c265da1561",
+      "size": 250765
+    },
+    "data/geojson.day/south-park-27-day-00074.geojson.gz": {
+      "sha256": "305e10b4e2c27ddd5c0e532cc7fd03c739a4033bd11aabe37a0ab1ce591fa897",
+      "size": 267020
+    },
+    "data/geojson.day/south-park-27-day-00075.geojson.gz": {
+      "sha256": "29d72aa831a541d69975566630d57ea08d0fca7f2e6a956d431eb544764adc5d",
+      "size": 249253
+    },
+    "data/geojson.day/south-park-27-day-00076.geojson.gz": {
+      "sha256": "035f723cf34a2dbd0b3d29234a2cdc11c6f99336e95739de776889502fff8407",
+      "size": 251604
+    },
+    "data/geojson.day/south-park-27-day-00077.geojson.gz": {
+      "sha256": "b3c5a3ebf65b0c9db5bf0f801efbc158ac588dd9855284db8f5014013f28f6fd",
+      "size": 268370
+    },
+    "data/geojson.day/south-park-27-day-00078.geojson.gz": {
+      "sha256": "095bc1e22744dab9b72dbab2341ab09d5d0e5c54db85c4b8dc17cd038aef7dde",
+      "size": 34233
+    },
+    "data/geojson.day/south-park-27-day-00079.geojson.gz": {
+      "sha256": "cbca4320686f974c156f815bfde7a3da0fdde7443e4f1ccb2dc21b9ad9b964f7",
+      "size": 225813
+    },
+    "data/geojson.day/south-park-27-day-00080.geojson.gz": {
+      "sha256": "1b860416ebf1671cce5f3f33add9168cff6a734237243750d98638933064317e",
+      "size": 271606
+    },
+    "data/geojson.day/south-park-27-day-00081.geojson.gz": {
+      "sha256": "1fd6a17fe61bcf85d33e2239180c26f72006e94cd06c479f41d4a2ce0c3de10f",
+      "size": 268687
+    },
+    "data/geojson.day/south-park-27-day-00082.geojson.gz": {
+      "sha256": "06e9d1dd877e80ff24ea4a711d119a1a7731099650c2b3323ea8321462eef7c6",
+      "size": 257510
+    },
+    "data/geojson.day/south-park-27-day-00083.geojson.gz": {
+      "sha256": "392e759c409b5ffcd6b66f90d8713265d530b6492356f1c840cbbe1cdc915c73",
+      "size": 267158
+    },
+    "data/geojson.day/south-park-27-day-00084.geojson.gz": {
+      "sha256": "0bccdd26dc1d2daf8f4d798eef2fc4bc9cfe5d961cd9f5744f776cdf1bd82bb3",
+      "size": 263911
+    },
+    "data/geojson.day/south-park-27-day-00085.geojson.gz": {
+      "sha256": "61fe3342801b982bea0ca0b2fb495757f0a212a035662eeb4c7d869a983b39a9",
+      "size": 272378
+    },
+    "data/geojson.day/south-park-27-day-00086.geojson.gz": {
+      "sha256": "d73bb82cc02dfddfac0c65fb6bc23926f3efc7fcedb965108e5f506d1bd005f0",
+      "size": 278266
+    },
+    "data/geojson.day/south-park-27-day-00087.geojson.gz": {
+      "sha256": "6b3869127ac4c4e53c86116b41e0484fdb6e1b05e618010ae3538d91afb686de",
+      "size": 269093
+    },
+    "data/geojson.day/south-park-27-day-00088.geojson.gz": {
+      "sha256": "5db20c664d3ac64fa62f7e3424221906e4e7c2886179cc076b1a782b74709d91",
+      "size": 270437
+    },
+    "data/geojson.day/south-park-27-day-00089.geojson.gz": {
+      "sha256": "f038a1a4b12c18087ab91dc1e5c4a3fe84074bc0dc0b8b32dcabc131c75e15fb",
+      "size": 252202
+    },
+    "data/geojson.day/south-park-27-day-00090.geojson.gz": {
+      "sha256": "709ebe0a90dd5bdfa49b929f07dbf8fb16474c11d7c6f4e44381ee29cf64c74a",
+      "size": 252910
+    },
+    "data/geojson.day/south-park-27-day-00091.geojson.gz": {
+      "sha256": "1df3aa7d5c8344f90271fbab8dee6d032fb1d7edfaa08949f6ad5e71e6735d52",
+      "size": 255452
+    },
+    "data/geojson.day/south-park-27-day-00092.geojson.gz": {
+      "sha256": "20ea3bf9ccc09ad32e0fde06dcc3405cb5c5df0eb7824b83c02a904f65a933e9",
+      "size": 261878
+    },
+    "data/geojson.day/south-park-27-day-00093.geojson.gz": {
+      "sha256": "44987ecbed199ece00e15affc406c3f341286346902708b30bd0da3f861eb3c5",
+      "size": 245423
+    },
+    "data/geojson.day/south-park-27-day-00094.geojson.gz": {
+      "sha256": "f2a72b17a7f83b8d370da74338112727052eee0d789a79c0a3128ecb31ee8117",
+      "size": 233248
+    },
+    "data/geojson.day/south-park-27-day-00095.geojson.gz": {
+      "sha256": "090401edd6dd4a6f49b66e8a57a9fdb95a334d7dfadd335fdde0edf26aaaca5e",
+      "size": 253570
+    },
+    "data/geojson.day/south-park-27-day-00096.geojson.gz": {
+      "sha256": "c91f96a67c1cdd2aed3855a6ce39fbe4b2fac2d5b7b72664d4872493acddce32",
+      "size": 242570
+    },
+    "data/geojson.day/south-park-27-day-00097.geojson.gz": {
+      "sha256": "ed48a6df8ebc5cba1c0a46eba75b44a41e4c020c023446e8ec657c43bb4d1990",
+      "size": 241349
+    },
+    "data/geojson.day/south-park-27-day-00098.geojson.gz": {
+      "sha256": "6124fd686b928acb848e500eeeb38498f801d830f9437c09603466914ba4a5d1",
+      "size": 251869
+    },
+    "data/geojson.day/south-park-27-day-00099.geojson.gz": {
+      "sha256": "6811a4bd6caacf79ef3de0445d04e938764d5bc8848bc49f34c94004bd5ed89a",
+      "size": 248587
+    },
+    "data/geojson.day/south-park-27-day-00100.geojson.gz": {
+      "sha256": "e5234514a254d177747a6ec6ff8b7a170850e5ef0da5c6955ec3aa02a7d1f288",
+      "size": 244431
+    },
+    "data/geojson.day/south-park-27-day-00101.geojson.gz": {
+      "sha256": "a48ea8f886f2f4b92bd75a1fcc52cfaf2964d63e2358e9c81d091f64ed440336",
+      "size": 242871
+    },
+    "data/geojson.day/south-park-27-day-00102.geojson.gz": {
+      "sha256": "2a63b3f0d43056da3670ff883a15e24a9212791c15632e42cc1837d7feaa9c6c",
+      "size": 254560
+    },
+    "data/geojson.day/south-park-27-day-00103.geojson.gz": {
+      "sha256": "963a8bdecd7af049043f519bf3c3fc7494d05efc48d3afcba3d45d0259746de1",
+      "size": 239258
+    },
+    "data/geojson.day/south-park-27-day-00104.geojson.gz": {
+      "sha256": "f0f889f1b1b5a9fddfc1316494ed7893b1506a556f80c370113505882107b574",
+      "size": 239273
+    },
+    "data/geojson.day/south-park-27-day-00105.geojson.gz": {
+      "sha256": "14e33f19316f1158f2f57c831299994f8d82cc977c6b2df8b3ff7176ad804778",
+      "size": 253570
+    },
+    "data/geojson.day/south-park-27-day-00106.geojson.gz": {
+      "sha256": "6367743d817fd6d413beb3cb060eb5e9b4618d1dea6addf0707814d569d541b3",
+      "size": 253272
+    },
+    "data/geojson.day/south-park-27-day-00107.geojson.gz": {
+      "sha256": "6aac75be02aaabeb62a5610411751c819f16bd2f46d0c792e6b9dbc1a81c2416",
+      "size": 242853
+    },
+    "data/geojson.day/south-park-27-day-00108.geojson.gz": {
+      "sha256": "aeb8d2d3cfc7205c48db980fef349525b97393bd407670716ce6e0c8669c471c",
+      "size": 240842
+    },
+    "data/geojson.day/south-park-27-day-00109.geojson.gz": {
+      "sha256": "f939c9f410179ae63edce1b65c2cdd2602042b7eb758c5d748c6396ae356833a",
+      "size": 246186
+    },
+    "data/geojson.day/south-park-27-day-00110.geojson.gz": {
+      "sha256": "2e58e245848f72e34446d672b22e180a6b4b3016ddaa8ad4fef8df7265cc406e",
+      "size": 235378
+    },
+    "data/geojson.day/south-park-27-day-00111.geojson.gz": {
+      "sha256": "efd37d82255abdf1ebca5b199471b92bcb73485aa724870740812eb98471127f",
+      "size": 239154
+    },
+    "data/geojson.day/south-park-27-day-00112.geojson.gz": {
+      "sha256": "165b711415f4ae4ce19cf7c59cb23e4dee43e02c95f9009858d4c6b02b80521b",
+      "size": 235093
+    },
+    "data/geojson.day/south-park-27-day-00113.geojson.gz": {
+      "sha256": "a3cadf194aa28d87a713423c74da86ce9fbd76ff70d6c876561703895e395ad0",
+      "size": 238048
+    },
+    "data/geojson.day/south-park-27-day-00114.geojson.gz": {
+      "sha256": "f23c95ea6cc8877f74388a452947b4934ff28c61dd79d1e3c17b50b0e48f4108",
+      "size": 235722
+    },
+    "data/geojson.day/south-park-27-day-00115.geojson.gz": {
+      "sha256": "156e497def5b17139bda1e81f93bfc2e413471d820dc1ebc2177f88acb9df1ef",
+      "size": 221446
+    },
+    "data/geojson.day/south-park-27-day-00116.geojson.gz": {
+      "sha256": "83975d202e9f0b38ed51994748eb6d1d03492dc0805bf7ca28cab2ec1e6f9edd",
+      "size": 252073
+    },
+    "data/geojson.day/south-park-27-day-00117.geojson.gz": {
+      "sha256": "bcd97e8334ee35eeba5e2705e969c04e9e730c768a58fcf49ab5a42d83e8c5ad",
+      "size": 289776
+    },
+    "data/geojson.day/south-park-27-day-00118.geojson.gz": {
+      "sha256": "f0206064415868b1cd07d34bda6b1bd824862e6717ccac38e98badc82e88072b",
+      "size": 292056
+    },
+    "data/geojson.day/south-park-27-day-00119.geojson.gz": {
+      "sha256": "34257b1dd99b922020fccd773e98a8d7b7842b42d3f60043b35e34a78c4245f0",
+      "size": 291621
+    },
+    "data/geojson.day/south-park-27-day-00120.geojson.gz": {
+      "sha256": "5df6aa2e7b23dd9a10ba6bb554011a9132216f1321e08fd6d3a1072f22bdbcc3",
+      "size": 334504
+    },
+    "data/geojson.day/south-park-27-day-00121.geojson.gz": {
+      "sha256": "5513af3e0f76887a1b4739cc2756407844b8c08ed4475afa1c26e609e7c8c8ea",
+      "size": 281610
+    },
+    "data/geojson.day/south-park-27-day-00122.geojson.gz": {
+      "sha256": "eb9a4c689294c05aace39563e8ff569ca001da908d13ba1efeb09fd25ed198c3",
+      "size": 279936
+    },
+    "data/geojson.day/south-park-27-day-00123.geojson.gz": {
+      "sha256": "f637595cf3e54bee8e3113622bbf15e017c1e7812fcc399fc00ef82f6dc4883f",
+      "size": 299643
+    },
+    "data/geojson.day/south-park-27-day-00124.geojson.gz": {
+      "sha256": "fe759c702ad9206baf75870ce3e5dbd9c02e35ac4027be3e046a99fa58231e8b",
+      "size": 306334
+    },
+    "data/geojson.day/south-park-27-day-00125.geojson.gz": {
+      "sha256": "e99ff9cdb352154b434eafda60ca750a9031a1ff8099a7d0b11a8153c0e24562",
+      "size": 306797
+    },
+    "data/geojson.day/south-park-27-day-00126.geojson.gz": {
+      "sha256": "ec7e38c401ff2ab61b7f114d98077bb19107b58e60ac24594ac1098e359b32b5",
+      "size": 309386
+    },
+    "data/geojson.day/south-park-27-day-00127.geojson.gz": {
+      "sha256": "155d04425dcc17426f984367183ae7e452050abf3f80669290876ff74f2a925e",
+      "size": 287064
+    },
+    "data/geojson.day/south-park-27-day-00128.geojson.gz": {
+      "sha256": "b91c7b15e0d1a84719838c7290af98b60bbedbbba34d1cccdee077d0ec1c887f",
+      "size": 286437
+    },
+    "data/geojson.day/south-park-27-day-00129.geojson.gz": {
+      "sha256": "c2de33b5b169693dd349c1ee5a5c8015bf43017d0981d5786e31530b8fc7bbb8",
+      "size": 303733
+    },
+    "data/geojson.day/south-park-27-day-00130.geojson.gz": {
+      "sha256": "8e18a0a687000b2dc2aee9086609c3a00fa3f6957da2c1d9b4ef1ffb7c5f22e4",
+      "size": 310108
+    },
+    "data/geojson.day/south-park-27-day-00131.geojson.gz": {
+      "sha256": "f193689e461b989ca389030d9c72d1535f3f43b3a3963031854a09abc772be6a",
+      "size": 298017
+    },
+    "data/geojson.day/south-park-27-day-00132.geojson.gz": {
+      "sha256": "9cb9663146c3de40a78ecd51d9e28181f04826ead3c6c3dfb90e4b36da83f4ee",
+      "size": 284853
+    },
+    "data/geojson.day/south-park-27-day-00133.geojson.gz": {
+      "sha256": "7eb74fd0310756e724439617638ad8672703c0b69653dec568c9cff474be23b5",
+      "size": 284702
+    },
+    "data/geojson.day/south-park-27-day-00134.geojson.gz": {
+      "sha256": "354df76add425dc3dfd89356e4f947790b5d66407d1841d8dbb05f31419918c2",
+      "size": 278895
+    },
+    "data/geojson.day/south-park-27-day-00135.geojson.gz": {
+      "sha256": "5856301d71a6fa6cf037fe26b2adfe4e589ca8cea38ec71f80ab2ad3dfa539c3",
+      "size": 266341
+    },
+    "data/geojson.day/south-park-27-day-00136.geojson.gz": {
+      "sha256": "cc18f49d5ed180d4582b914d65673df3e8a89e619cb36ebbbb5774e6edee34bd",
+      "size": 253786
+    },
+    "data/geojson.day/south-park-27-day-00137.geojson.gz": {
+      "sha256": "db5ddcbce342819dbe8191e4b8cbe4fbe198bc0ab76b7bdecf0ce3aa365bdf81",
+      "size": 279514
+    },
+    "data/geojson.day/south-park-27-day-00138.geojson.gz": {
+      "sha256": "5e3230997beb9839d96aee207311aac655b23d686efe3f00c66cf07faeabedf1",
+      "size": 263567
+    },
+    "data/geojson.day/south-park-27-day-00139.geojson.gz": {
+      "sha256": "797666285ab9214bca6771d0edd7b22ee3965f276e3778cfa5483166444ab3f5",
+      "size": 266804
+    },
+    "data/geojson.day/south-park-27-day-00140.geojson.gz": {
+      "sha256": "821470bd5ae531e5f3c2e6011f5ba7eced19c1a27142c276a409de77dd903501",
+      "size": 268043
+    },
+    "data/geojson.day/south-park-27-day-00141.geojson.gz": {
+      "sha256": "046d207ee608e713637fb381cadf707c53002b74b2c7294572669c9082f217b8",
+      "size": 269501
+    },
+    "data/geojson.day/south-park-27-day-00142.geojson.gz": {
+      "sha256": "5b3d3f83996d280117b902298abd441f75936287eb10040e6d08d723de820000",
+      "size": 253939
+    },
+    "data/geojson.day/south-park-27-day-00143.geojson.gz": {
+      "sha256": "f6803778fee595b23da2f4260a2e29268846383208e563f7bf010e5c51268049",
+      "size": 238302
+    },
+    "data/geojson.day/south-park-27-day-00144.geojson.gz": {
+      "sha256": "cf82951c8d7478705b69a1a54d50e755219f91cb7a25d9f4c56e6648d855721b",
+      "size": 276662
+    },
+    "data/geojson.day/south-park-27-day-00145.geojson.gz": {
+      "sha256": "80e14a73ab8b6fa2a14a401ede7ed4ed5990350e19a527edd9b7f4f6011f8c5e",
+      "size": 276757
+    },
+    "data/geojson.day/south-park-27-day-00146.geojson.gz": {
+      "sha256": "fb2e0d7d98bf20ccbb7466e0e01fea1f36be3e6ff0dc7e5ea327b05e630ca7d7",
+      "size": 276432
+    },
+    "data/geojson.day/south-park-27-day-00147.geojson.gz": {
+      "sha256": "0a003c92b21b2f6a06bbf1ce32d225cd205cfef6720f7c138274493666c5baab",
+      "size": 277115
+    },
+    "data/geojson.day/south-park-27-day-00148.geojson.gz": {
+      "sha256": "6de8569c5b7b7f600dcfccb99dba189bbcb79fc91c638d694ff13f566653a6f2",
+      "size": 265268
+    },
+    "data/geojson.day/south-park-27-day-00149.geojson.gz": {
+      "sha256": "d8caade95c113c9c03df194955369755d4a60d9af2f572c2cf4fdbd02a776c80",
+      "size": 256362
+    },
+    "data/geojson.day/south-park-27-day-00150.geojson.gz": {
+      "sha256": "de6584761fb40e0315edffa9579ae5ff4fe0f5904477ccd01eba63fc0d197d78",
+      "size": 269126
+    },
+    "data/geojson.day/south-park-27-day-00151.geojson.gz": {
+      "sha256": "41271976f0f5fc781bcd101d475d50bd20ea4d85250c91572f673a0c4374a780",
+      "size": 233762
+    },
+    "data/geojson.day/south-park-27-day-00152.geojson.gz": {
+      "sha256": "5f000135fd7e7b771c7e90e3e9bd8ded72d0bf4b84888557793e6a3e737523ae",
+      "size": 175114
+    },
+    "data/geojson.day/south-park-27-day-00153.geojson.gz": {
+      "sha256": "33b892ecda0ecec43ba8e123ffc0ea34673051599a1f254462c5d2d66af1d27f",
+      "size": 263927
+    },
+    "data/geojson.day/south-park-27-day-00154.geojson.gz": {
+      "sha256": "c26ce274a89ba92ca3b993b8b9dd9bd698139a04f95c94fb8179660d9a30eae4",
+      "size": 252298
+    },
+    "data/geojson.day/south-park-27-day-00155.geojson.gz": {
+      "sha256": "66d3aefc13ba81b0429aeaf3ea27ce7fa29d86172d3f2f7952393497b72afbff",
+      "size": 256307
+    },
+    "data/geojson.day/south-park-27-day-00156.geojson.gz": {
+      "sha256": "98095b393b529b82eec938950319c130dfc6e1c8053cd16690bd742acc5692f2",
+      "size": 257016
+    },
+    "data/geojson.day/south-park-27-day-00157.geojson.gz": {
+      "sha256": "6cb2feaef3ebd91de1187a58a4e03e4dda50a8495bf08cb4f5f1f3ed9c2fc6b8",
+      "size": 236308
+    },
+    "data/geojson.day/south-park-27-day-00158.geojson.gz": {
+      "sha256": "3b7c1106616a1d3623b7759cc57c20dc51cec0885a4212da98097c76ee5fc4cb",
+      "size": 260324
+    },
+    "data/geojson.day/south-park-27-day-00159.geojson.gz": {
+      "sha256": "c0dc0b33cbe17dfa8ffe66dbb51b3ea0992de11e9278551cc084ec1273adae8b",
+      "size": 262729
+    },
+    "data/geojson.day/south-park-27-day-00160.geojson.gz": {
+      "sha256": "3854f75c4e35d90b115d5d37e8d246d5b81ba91e155bf7c4c5112a15dffe648e",
+      "size": 272253
+    },
+    "data/geojson.day/south-park-27-day-00161.geojson.gz": {
+      "sha256": "748060ca2a50f504e0697d61ce65d91e77e31f00fbaa771afbd627fa5341b764",
+      "size": 279660
+    },
+    "data/geojson.day/south-park-27-day-00162.geojson.gz": {
+      "sha256": "7653d1b3ccba1cfa27e5fe70de8cb35cbf939eee49f49d24e33b8d30298de63a",
+      "size": 274331
+    },
+    "data/geojson.day/south-park-27-day-00163.geojson.gz": {
+      "sha256": "113963582bfb084b8bf79929ad2218170bcdb99de837c279198e30c8d6e0358e",
+      "size": 248343
+    },
+    "data/geojson.day/south-park-27-day-00164.geojson.gz": {
+      "sha256": "b94a237281902b53ac785f5de975ba9013b199db06b214645dc13aff55ccd5aa",
+      "size": 253729
+    },
+    "data/geojson.day/south-park-27-day-00165.geojson.gz": {
+      "sha256": "93087ef95163ed48dc410501327dc2eb45bf2292bc5d2d2be0611360857e1d75",
+      "size": 266161
+    },
+    "data/geojson.day/south-park-27-day-00166.geojson.gz": {
+      "sha256": "333b48bbd13fb488516bb44760407656a044145418c9cecf5580b65e8357dcf4",
+      "size": 250116
+    },
+    "data/geojson.day/south-park-27-day-00167.geojson.gz": {
+      "sha256": "1bf1a42ed7a3128374f668d7b9d6c06cc216dc412145f9777fec248e1588e148",
+      "size": 270938
+    },
+    "data/geojson.day/south-park-27-day-00168.geojson.gz": {
+      "sha256": "68252f532efc79d0e6bd8f98ba8902f6c4567b65b0f5eaa001e3062f63483d80",
+      "size": 280719
+    },
+    "data/geojson.day/south-park-27-day-00169.geojson.gz": {
+      "sha256": "ab8127970c4645125a2d870303c9d609153a9ebef9b1e7d9f313d52f6a109875",
+      "size": 271099
+    },
+    "data/geojson.day/south-park-27-day-00170.geojson.gz": {
+      "sha256": "b7a98be27e09770126b91808ee4d0b899a29c3e495eece6aa69bf33af0d6c4b4",
+      "size": 268099
+    },
+    "data/geojson.day/south-park-27-day-00171.geojson.gz": {
+      "sha256": "703eada5a77b1a44ac6e7e4561c84f99a4afbd2af8d464091d159541598888d0",
+      "size": 274062
+    },
+    "data/geojson.day/south-park-27-day-00172.geojson.gz": {
+      "sha256": "48ec4f0dd69035eb5069288a04cb7c26ea03eed7621b49bed6883477c5a4a071",
+      "size": 252960
+    },
+    "data/geojson.day/south-park-27-day-00173.geojson.gz": {
+      "sha256": "e693c3e3dda0c2614859b68349b75fde8ae4ad3ef9af181920249b8289de7a60",
+      "size": 256359
+    },
+    "data/geojson.day/south-park-27-day-00174.geojson.gz": {
+      "sha256": "d6edd188780fad84bb47e6be8a8ef8152007d42eed1c95d83a8a5671f4e4644d",
+      "size": 265818
+    },
+    "data/geojson.day/south-park-27-day-00175.geojson.gz": {
+      "sha256": "2138d1a5fb18a506a75f10969a5575936f0e2228041b6888b488881fab174f38",
+      "size": 263493
+    },
+    "data/geojson.day/south-park-27-day-00176.geojson.gz": {
+      "sha256": "68a31295e7a14fa2206d97c943a1a58ecc31b82e692dc3129ac49925b5a5a0b6",
+      "size": 274526
+    },
+    "data/geojson.day/south-park-27-day-00177.geojson.gz": {
+      "sha256": "249b04c977e3eebf91a7ad5fe6ac6905cbaeaec19304f7cdff74a2736ed4a877",
+      "size": 265874
+    },
+    "data/geojson.day/south-park-27-day-00178.geojson.gz": {
+      "sha256": "5086fcea78bdbfdf492a4ba0c2284cff9f3451deb8fe45e6dc7586ee74fbb336",
+      "size": 260101
+    },
+    "data/geojson.day/south-park-27-day-00179.geojson.gz": {
+      "sha256": "b05964ed96639be5298df5d46ef24cfe65a736dd034b9852d1d0ed5aa9d79c08",
+      "size": 261152
+    },
+    "data/geojson.day/south-park-27-day-00180.geojson.gz": {
+      "sha256": "b55439b59fca14c0f0b14380fc2aa95a622ca93547609fa85a0abd3e66ebc4e3",
+      "size": 262885
+    },
+    "data/geojson.day/south-park-27-day-00181.geojson.gz": {
+      "sha256": "d2330405cdcd12a7a3291d74f6c1fa02fb1c46aa3a2da2f9745dfa71aed70224",
+      "size": 260018
+    },
+    "data/geojson.day/south-park-27-day-00182.geojson.gz": {
+      "sha256": "95dca20ad571094396e2ceed184594497531c1f555992e0952b3ca31ac19434c",
+      "size": 271276
+    },
+    "data/json/south-park-27-swarm-day-00001-2025-07-25.json": {
+      "sha256": "d66c6bb4ccf000ec51f627eefb123680667dfcfada970ca6a3c507a9b3fa7e62",
+      "size": 466
+    },
+    "data/json/south-park-27-swarm-day-00002-2025-07-26.json": {
+      "sha256": "8bda5bcc0f33c272035194ad946ec8071f4019f7ecf4485b244ebeb33230e809",
+      "size": 466
+    },
+    "data/json/south-park-27-swarm-day-00003-2025-07-27.json": {
+      "sha256": "9f4beaf8fc1f46c1055f9ad93d4a1e2ade40c390f1279bb612f9855e47e69dc7",
+      "size": 466
+    },
+    "data/json/south-park-27-swarm-day-00004-2025-07-28.json": {
+      "sha256": "663134e9f18d9b0555eb350dc1eea7212b0f6505b9ad1b2533caf8020fa88115",
+      "size": 466
+    },
+    "data/json/south-park-27-swarm-day-00005-2025-07-29.json": {
+      "sha256": "252d3aa31cf1995e6b85c80661de34cb7f1b52369a00d150040783498ce686fc",
+      "size": 466
+    },
+    "data/json/south-park-27-swarm-day-00006-2025-07-30.json": {
+      "sha256": "460d023d915040682d10dbb68b294de9608d09ded92dd4042d1c294e5c7c5390",
+      "size": 466
+    },
+    "data/json/south-park-27-swarm-day-00007-2025-07-31.json": {
+      "sha256": "63ba7342f36f77db4afc7d44103f52b91164c052daf56f9d51bb41a687476b0f",
+      "size": 466
+    },
+    "data/json/south-park-27-swarm-day-00008-2025-08-01.json": {
+      "sha256": "afd68a8bd03b45eba79dc615fdd765b14be51a904c13d25f16842be8f2b0fee7",
+      "size": 466
+    },
+    "data/json/south-park-27-swarm-day-00009-2025-08-02.json": {
+      "sha256": "dbcf86953df41187852c92a4e0ef82c7d196b63f9a14a657451b12fcb39d380e",
+      "size": 466
+    },
+    "data/json/south-park-27-swarm-day-00010-2025-08-03.json": {
+      "sha256": "ed563f934874867c72511ad913cd281e62097f3525419ccb65c1447e93c354ea",
+      "size": 467
+    },
+    "data/json/south-park-27-swarm-day-00011-2025-08-04.json": {
+      "sha256": "1cfaef58bb4cc62966e8f0c731351cf3975daa4b020fff0d7f18a01801fee852",
+      "size": 467
+    },
+    "data/json/south-park-27-swarm-day-00012-2025-08-05.json": {
+      "sha256": "3b030b62019b4570e17dcf42cebfe3f7650372d58948a5ab0169219fb2f675f7",
+      "size": 466
+    },
+    "data/json/south-park-27-swarm-day-00013-2025-08-06.json": {
+      "sha256": "505a93c3ed9aadd5a64146182995fe4bdd87be763bc3e84cd860451359b3eee9",
+      "size": 467
+    },
+    "data/json/south-park-27-swarm-day-00014-2025-08-07.json": {
+      "sha256": "bf7234c8137d0715cee70df08271e384a8417b423517a30e0e03e199f3e619cb",
+      "size": 467
+    },
+    "data/json/south-park-27-swarm-day-00015-2025-08-08.json": {
+      "sha256": "573a2bc3a39204d90cc872224d26c3a611a788a58c3f719fb893b1ae810bad38",
+      "size": 468
+    },
+    "data/json/south-park-27-swarm-day-00016-2025-08-09.json": {
+      "sha256": "3880950bb14d3800fa8024c35bbe75f568f222b5315a03c5a2e20f2901951726",
+      "size": 468
+    },
+    "data/json/south-park-27-swarm-day-00017-2025-08-10.json": {
+      "sha256": "04ece9ffc71285f1bed91d19f092625bf8005c3db27c2d376cf73dbbcf72b433",
+      "size": 468
+    },
+    "data/json/south-park-27-swarm-day-00018-2025-08-11.json": {
+      "sha256": "c787e44abbc746e6add76f8e4ec2baf3931cbd4eb4625d91c5e39af616aaa559",
+      "size": 468
+    },
+    "data/json/south-park-27-swarm-day-00019-2025-08-12.json": {
+      "sha256": "ac8981beea58944316ab44bad233ac57df1b2fce87399c758da3745c1581ee58",
+      "size": 468
+    },
+    "data/json/south-park-27-swarm-day-00020-2025-08-13.json": {
+      "sha256": "117ce0fba8395224ba312bd397618842eb79c1c61faf37ef9ecf96b37d4d0d55",
+      "size": 468
+    },
+    "data/json/south-park-27-swarm-day-00021-2025-08-14.json": {
+      "sha256": "a924295ad8ce1803fa31fbd6e69f2ba8d15980fd2e29cb09beb5aa695dec668f",
+      "size": 468
+    },
+    "data/json/south-park-27-swarm-day-00022-2025-08-15.json": {
+      "sha256": "4227003fde53c842fde9552b4533eb6185c4259d5938e6878065c35d86035727",
+      "size": 467
+    },
+    "data/json/south-park-27-swarm-day-00023-2025-08-16.json": {
+      "sha256": "db84edaae406c78a7a23e38832894db8322ee535ae3fbfc9007d224543981d21",
+      "size": 467
+    },
+    "data/json/south-park-27-swarm-day-00024-2025-08-17.json": {
+      "sha256": "995ef21e64b3df6931e6ed0120a701efc1f28e200f08bbb919cff2143f741f75",
+      "size": 467
+    },
+    "data/json/south-park-27-swarm-day-00025-2025-08-18.json": {
+      "sha256": "c5525048b2fa61a1ff927a59091e0b976f423564182b03af6252cdd470667f64",
+      "size": 467
+    },
+    "data/json/south-park-27-swarm-day-00026-2025-08-19.json": {
+      "sha256": "c2992bfeea8c6c26d2c050c3dd8fb6cd4c99ab49e386e036a32e65d92663da1d",
+      "size": 467
+    },
+    "data/json/south-park-27-swarm-day-00027-2025-08-20.json": {
+      "sha256": "f6add4da0f8c7218cf2004bc6354b8625b4737a801cc254ab9069a70317abb70",
+      "size": 467
+    },
+    "data/json/south-park-27-swarm-day-00028-2025-08-21.json": {
+      "sha256": "a662ed30f43c94d1c7eae2febcc887d826a2724420510ff7a296cb3198295021",
+      "size": 468
+    },
+    "data/json/south-park-27-swarm-day-00029-2025-08-22.json": {
+      "sha256": "21c868d0f66a9cd4d4e453d11191903d38777dd6535e418c1a3d1d75b25edc68",
+      "size": 469
+    },
+    "data/json/south-park-27-swarm-day-00030-2025-08-23.json": {
+      "sha256": "c62e6a3c110a9fe99552aba54e609862de48da58cc1dd9e0b1a254cf266e798a",
+      "size": 468
+    },
+    "data/json/south-park-27-swarm-day-00031-2025-08-24.json": {
+      "sha256": "2831453cc4b2e6fe923caf57deffb6eefcb5f3ca111232a3bcd5834ea0f015a2",
+      "size": 468
+    },
+    "data/json/south-park-27-swarm-day-00032-2025-08-25.json": {
+      "sha256": "bdda54eefdf581577c955ea4789777a3147a3c0639e8cf8da59020fd9ab9bab5",
+      "size": 468
+    },
+    "data/json/south-park-27-swarm-day-00033-2025-08-26.json": {
+      "sha256": "e0b3dbcd6e002610391a0dbc78a608c226fd6278fc64adf5e8af6fb22bf7d998",
+      "size": 468
+    },
+    "data/json/south-park-27-swarm-day-00034-2025-08-27.json": {
+      "sha256": "1635bbbbfc83f40ff9808b830cdb5849b62e14c42df3d4031ae5bef2c0a14754",
+      "size": 468
+    },
+    "data/json/south-park-27-swarm-day-00035-2025-08-28.json": {
+      "sha256": "7cbd10e8a1464389ebb328559964d99229f6185a2308bea1c9a6fcacd2de848f",
+      "size": 468
+    },
+    "data/json/south-park-27-swarm-day-00036-2025-08-29.json": {
+      "sha256": "bdfebe757d4300bdd9ee04cb92bd523f0be344a92c9e07a26b906dc30891c7aa",
+      "size": 468
+    },
+    "data/json/south-park-27-swarm-day-00037-2025-08-30.json": {
+      "sha256": "549ce8263efaaaa7bea0fdc95d0c447aa3fa771a084aafc4ca2a534e9462fb96",
+      "size": 468
+    },
+    "data/json/south-park-27-swarm-day-00038-2025-08-31.json": {
+      "sha256": "cf1fd6ed918082c2eb5532b98a2eebc569dd7feffe0ca39877a2e918bc84c973",
+      "size": 468
+    },
+    "data/json/south-park-27-swarm-day-00039-2025-09-01.json": {
+      "sha256": "67f5ce61750aab2134084e16f86d038a721bf2a8a8832bda8d2d76048f9c52c9",
+      "size": 468
+    },
+    "data/json/south-park-27-swarm-day-00040-2025-09-02.json": {
+      "sha256": "0b558571fb34ec0b489de442f5864b4fba7fbdc63d24a27405efc9d53b0c8e5f",
+      "size": 468
+    },
+    "data/json/south-park-27-swarm-day-00041-2025-09-03.json": {
+      "sha256": "93fe66130603939988fb9997f801bae70ffe432bc4a155e5e1262dbc9ddbcf57",
+      "size": 468
+    },
+    "data/json/south-park-27-swarm-day-00042-2025-09-04.json": {
+      "sha256": "8731810d2cb089b7174343f8908e8bdab4e24c5a391d5234a695875d5f49a31c",
+      "size": 468
+    },
+    "data/json/south-park-27-swarm-day-00043-2025-09-05.json": {
+      "sha256": "3cd13869124b77e9403a90672010b9addec2b89825a129fce4afbb17f0025626",
+      "size": 468
+    },
+    "data/json/south-park-27-swarm-day-00044-2025-09-06.json": {
+      "sha256": "ed2a4d821b910cffff035b29d3bbb87dd70a276e937df329d2159dbed57dd798",
+      "size": 468
+    },
+    "data/json/south-park-27-swarm-day-00045-2025-09-07.json": {
+      "sha256": "7c092ae5e810bb6647a1f8a92f3fa6830c3fc58dd10f20a18a04d7abbf488fd6",
+      "size": 468
+    },
+    "data/json/south-park-27-swarm-day-00046-2025-09-08.json": {
+      "sha256": "125f9de0aac2f85ab30dc98dab9d4d6b65284e931175b8b8c8cf2aff81d6fd9c",
+      "size": 468
+    },
+    "data/json/south-park-27-swarm-day-00047-2025-09-09.json": {
+      "sha256": "2ab32a685c133840612c23b3d15966a4420a6eedb332ca546e72c005efc45708",
+      "size": 468
+    },
+    "data/json/south-park-27-swarm-day-00048-2025-09-10.json": {
+      "sha256": "056aba03ca6a5a6c38de573d39a8f42b03220ac1dcc710a9ac37e9aa97724192",
+      "size": 468
+    },
+    "data/json/south-park-27-swarm-day-00049-2025-09-11.json": {
+      "sha256": "f48fad83f38c562e66a1fc7e8ae762b8629803ef604ee3f5fd34c2a57253a50b",
+      "size": 468
+    },
+    "data/json/south-park-27-swarm-day-00050-2025-09-12.json": {
+      "sha256": "5dec9c6a0821733192c3e791b56312a4de7d40fa04706b673974916993bfb830",
+      "size": 468
+    },
+    "data/json/south-park-27-swarm-day-00051-2025-09-13.json": {
+      "sha256": "fa954fe6b73bcd3ddcde069ede55f6349c9d722aa23c0a65102cdcbddd9800a7",
+      "size": 468
+    },
+    "data/json/south-park-27-swarm-day-00052-2025-09-14.json": {
+      "sha256": "13f1be459ca02b269beec8c57f6b4873838010cad34985e2cdca1e44741e75c6",
+      "size": 468
+    },
+    "data/json/south-park-27-swarm-day-00053-2025-09-15.json": {
+      "sha256": "f0d4d299acfa5d6122a3d07db7905c9ed8e7d40a6f4b532d7f1d2159b3d409e2",
+      "size": 468
+    },
+    "data/json/south-park-27-swarm-day-00054-2025-09-16.json": {
+      "sha256": "1997cd132a1316fc65b6bb7e0d72f98ae216ec41f1afdc73cab3894c620df78d",
+      "size": 468
+    },
+    "data/json/south-park-27-swarm-day-00055-2025-09-17.json": {
+      "sha256": "72eebb42af7500ab4fcd40607c3aca6e8fb1b205a49a928efc3f1c3ac0373e95",
+      "size": 468
+    },
+    "data/json/south-park-27-swarm-day-00056-2025-09-18.json": {
+      "sha256": "a5066ddd8b8a85c263d36737694b3ced6b23493067ac05fba1f1f65cf1292c99",
+      "size": 468
+    },
+    "data/json/south-park-27-swarm-day-00057-2025-09-19.json": {
+      "sha256": "7c2d2eb2808cd871ac388382ef498d9be06984e6450788f3035c3b355796ad93",
+      "size": 468
+    },
+    "data/json/south-park-27-swarm-day-00058-2025-09-20.json": {
+      "sha256": "fc932b867945f30452cf3b38e4e06e67792fd9effc981f75c9e4a3d6a3b851e7",
+      "size": 468
+    },
+    "data/json/south-park-27-swarm-day-00059-2025-09-21.json": {
+      "sha256": "316debdfddbb4477ead039a981cfa1730500378208d6c131cf7cbb86e760c2f0",
+      "size": 468
+    },
+    "data/json/south-park-27-swarm-day-00060-2025-09-22.json": {
+      "sha256": "2ed7bebc8898fec92354d335fa080e497171c480d954de6835fbeb140413419f",
+      "size": 468
+    },
+    "data/json/south-park-27-swarm-day-00061-2025-09-23.json": {
+      "sha256": "7944809a713c6e9d6e412fabd119459f3d515c7ff0cdb78d8f571bce73b4e1aa",
+      "size": 468
+    },
+    "data/json/south-park-27-swarm-day-00062-2025-09-24.json": {
+      "sha256": "4e8150ea232341e298a36e2bbf18e34cfb437bf06926ddb217c449349931d26d",
+      "size": 468
+    },
+    "data/json/south-park-27-swarm-day-00063-2025-09-25.json": {
+      "sha256": "3171b385bb1b2500fc22f901c7b572eb348e7796b60019637c85940ea0821be3",
+      "size": 468
+    },
+    "data/json/south-park-27-swarm-day-00064-2025-09-26.json": {
+      "sha256": "2aabb432ec75ddbfb9886194204f7c0e10299fe81d405e70b2b6c9df47f91b10",
+      "size": 469
+    },
+    "data/json/south-park-27-swarm-day-00065-2025-09-27.json": {
+      "sha256": "fc3544b615fac557d6257ee2bcc4dcb467b9642eab2dfbfc4c15f8a4d302c86a",
+      "size": 469
+    },
+    "data/json/south-park-27-swarm-day-00066-2025-09-28.json": {
+      "sha256": "4fe342ee19b63f46dfac4a6b292333c3902b8234730cb9dff11b33606ccf5fd5",
+      "size": 469
+    },
+    "data/json/south-park-27-swarm-day-00067-2025-09-29.json": {
+      "sha256": "7618e124cbc42260a30c97a774fffdeff4573065114277f8b0fe86a8703bbce1",
+      "size": 468
+    },
+    "data/json/south-park-27-swarm-day-00068-2025-09-30.json": {
+      "sha256": "732dab75263a0c17ff7d97fba29b649073ee08c47b1656b12a8ba21b0180e728",
+      "size": 468
+    },
+    "data/json/south-park-27-swarm-day-00069-2025-10-01.json": {
+      "sha256": "b60899d74e5cefe3ee514ae5f40bea137815e531694dee18354d5c7656286dfd",
+      "size": 468
+    },
+    "data/json/south-park-27-swarm-day-00070-2025-10-02.json": {
+      "sha256": "f99c9104d4d8510e8eed1e04f8ffa6e02e20e0e39e5294c462dec6ef10edcb9c",
+      "size": 468
+    },
+    "data/json/south-park-27-swarm-day-00071-2025-10-03.json": {
+      "sha256": "5e94de6a42ba5c83c54d26b61a8a4602b9bd5eb4276caf6581b793cc29069e1c",
+      "size": 468
+    },
+    "data/json/south-park-27-swarm-day-00072-2025-10-04.json": {
+      "sha256": "d73f19b2fa1fe69a42f4bdc0843bb522223fdf7795f07c5c4efd6b1ce089de18",
+      "size": 468
+    },
+    "data/json/south-park-27-swarm-day-00073-2025-10-05.json": {
+      "sha256": "b517b0b5b16baa3f274f1132d0dd225fadebd8673cafc4c20c6f4aa7538611ec",
+      "size": 468
+    },
+    "data/json/south-park-27-swarm-day-00074-2025-10-06.json": {
+      "sha256": "6cabaa43c884a516c10e29bdbbb2e2b9bc1a9ac0c48e2ab1688fdd48f2bfe61f",
+      "size": 468
+    },
+    "data/json/south-park-27-swarm-day-00075-2025-10-07.json": {
+      "sha256": "7bcc6fde5703cd0ececaf2ce9d744ca58879b1153fc2ff86d4345740356454bd",
+      "size": 468
+    },
+    "data/json/south-park-27-swarm-day-00076-2025-10-08.json": {
+      "sha256": "dee8985ff31f0a4ade3ad1fc509f8e0b0897e42ce4317d9c67949f6d41f559d7",
+      "size": 468
+    },
+    "data/json/south-park-27-swarm-day-00077-2025-10-09.json": {
+      "sha256": "f8352056986a125ecb5a459436c8fe942254d3025afb6f5039a419bc01e4b7f5",
+      "size": 468
+    },
+    "data/json/south-park-27-swarm-day-00078-2025-10-10.json": {
+      "sha256": "f0c957d17b8a94569d7233c89abc584b2a52ca708a36b93006f1e51e8b7ed8c8",
+      "size": 463
+    },
+    "data/json/south-park-27-swarm-day-00079-2025-10-11.json": {
+      "sha256": "1552dfa6d6f5c1c632ea6332ba538c0ba527962878797f9dee4c140b559d3251",
+      "size": 468
+    },
+    "data/json/south-park-27-swarm-day-00080-2025-10-12.json": {
+      "sha256": "513fb23c1d3509ad420bde87cba2c4cd2d056643ab4a5f45be82fd0c060fc8b6",
+      "size": 468
+    },
+    "data/json/south-park-27-swarm-day-00081-2025-10-13.json": {
+      "sha256": "9e53b0f5bef9551129dff204eb61afe3edf76d25fc3e8c0ef97b4e626117f592",
+      "size": 468
+    },
+    "data/json/south-park-27-swarm-day-00082-2025-10-14.json": {
+      "sha256": "9091c9de6048adcbc8d2974309699b16d1d4abdfd50b0ee22cde9cf77defa84b",
+      "size": 468
+    },
+    "data/json/south-park-27-swarm-day-00083-2025-10-15.json": {
+      "sha256": "1b81b3d9b6fb4845d886648939acfce492491e2c0903e003ae1a849c8c07ccae",
+      "size": 468
+    },
+    "data/json/south-park-27-swarm-day-00084-2025-10-16.json": {
+      "sha256": "b395adef7a2fad29e530152d33b703da53863659fe654f1e490f3a3720fa0999",
+      "size": 468
+    },
+    "data/json/south-park-27-swarm-day-00085-2025-10-17.json": {
+      "sha256": "37978e87631cbc0b75943776bafddb953fd45622ce3a3a51ef8c7b88ede37c5c",
+      "size": 468
+    },
+    "data/json/south-park-27-swarm-day-00086-2025-10-18.json": {
+      "sha256": "03c3b43541e9819a08ff273cdce560532eff2545dfd7ea5a63f34601c12d83f8",
+      "size": 468
+    },
+    "data/json/south-park-27-swarm-day-00087-2025-10-19.json": {
+      "sha256": "3851380f116a7d320f47a0b5e9e9ce093abb5eecd797cf286c41d0ea4d2938a5",
+      "size": 468
+    },
+    "data/json/south-park-27-swarm-day-00088-2025-10-20.json": {
+      "sha256": "0def5eb7a634f0440b8c4247030effe2c6edace3d5c19cab6440a2f4acde49a3",
+      "size": 468
+    },
+    "data/json/south-park-27-swarm-day-00089-2025-10-21.json": {
+      "sha256": "8cb743eecf88788e44ae2b9c1cd542c8c201714c8996aa457163c561fb559b6f",
+      "size": 468
+    },
+    "data/json/south-park-27-swarm-day-00090-2025-10-22.json": {
+      "sha256": "b4a82cb4f7170640e4a6567aa0b9158bc5beadd198c351321b8b9b99ae8db2b3",
+      "size": 468
+    },
+    "data/json/south-park-27-swarm-day-00091-2025-10-23.json": {
+      "sha256": "d0aece02826882ab336699bc7bbc8eb463e9e1d6e92c968c92ed075367abaf93",
+      "size": 468
+    },
+    "data/json/south-park-27-swarm-day-00092-2025-10-24.json": {
+      "sha256": "df77289f7dd35b65c08bdf0c9a919c536607fc2a5262be6086675b8e24e81e81",
+      "size": 468
+    },
+    "data/json/south-park-27-swarm-day-00093-2025-10-25.json": {
+      "sha256": "c91b6cce5bb172ee9f0ae2eed9876af872f76024166b83f34cb8e79e315c582c",
+      "size": 468
+    },
+    "data/json/south-park-27-swarm-day-00094-2025-10-26.json": {
+      "sha256": "06c907e105bca4a5d67e249e2e97333109b1ae3d98295e3051293b80421926d3",
+      "size": 468
+    },
+    "data/json/south-park-27-swarm-day-00095-2025-10-27.json": {
+      "sha256": "19589c09dd3d8862911a79f13faf14b72f3adb4f71d3bf2503d504167bdc113b",
+      "size": 468
+    },
+    "data/json/south-park-27-swarm-day-00096-2025-10-28.json": {
+      "sha256": "600fddf4b075aedef57eccd4b1f8bc60b6a2de95a7ef8304f4e299638776a3c0",
+      "size": 468
+    },
+    "data/json/south-park-27-swarm-day-00097-2025-10-29.json": {
+      "sha256": "38b6c1457986c627df60454fa7fceea6e18ba89b65df8789b18f7a37f6c61a92",
+      "size": 468
+    },
+    "data/json/south-park-27-swarm-day-00098-2025-10-30.json": {
+      "sha256": "4dd325464f670a321b89865462958e4e2ac98a86970cc45db06476f15a6bfd34",
+      "size": 468
+    },
+    "data/json/south-park-27-swarm-day-00099-2025-10-31.json": {
+      "sha256": "11ba7f6ff2fae38e96b72010d60a23f1defd51db3a559b28fbb0053a2af2d906",
+      "size": 468
+    },
+    "data/json/south-park-27-swarm-day-00100-2025-11-01.json": {
+      "sha256": "c276f1db8aa974fd28b5195f312e13ec5603f9c45dd31d1be0ec29f9cb75962e",
+      "size": 469
+    },
+    "data/json/south-park-27-swarm-day-00101-2025-11-02.json": {
+      "sha256": "bfcf0c7f7c9e8863ca73587da9ae4e2e5cc2f420384cade06a6caeca327f8f0c",
+      "size": 469
+    },
+    "data/json/south-park-27-swarm-day-00102-2025-11-03.json": {
+      "sha256": "0506c86360880d0cc7bc5f4f76bc0e423a12f475b71859743db09102c55c9c25",
+      "size": 469
+    },
+    "data/json/south-park-27-swarm-day-00103-2025-11-04.json": {
+      "sha256": "96efb4fbf8fd024f2c0af2603f620e54614de1aec3e1d47726318ba47bb188b1",
+      "size": 469
+    },
+    "data/json/south-park-27-swarm-day-00104-2025-11-05.json": {
+      "sha256": "7cf68980049dcf919206225ca3928ee58a0f45b91bc99693c6c97c48b8d2055b",
+      "size": 469
+    },
+    "data/json/south-park-27-swarm-day-00105-2025-11-06.json": {
+      "sha256": "fdbab2b1c3b6ec50672f0b1551f42e9b16253597adc38d87fe9ed3e7ae182657",
+      "size": 469
+    },
+    "data/json/south-park-27-swarm-day-00106-2025-11-07.json": {
+      "sha256": "61bbe513e04a7bc061dfae741009f2d8fd429e0021f3d82097e566c93f0184c4",
+      "size": 469
+    },
+    "data/json/south-park-27-swarm-day-00107-2025-11-08.json": {
+      "sha256": "f21947007143351f4e81b30afc0061c1dd715189a1c84a3eaaadc5f603e578cf",
+      "size": 469
+    },
+    "data/json/south-park-27-swarm-day-00108-2025-11-09.json": {
+      "sha256": "e520427080a1934ca2e63c18a9e4623f25bcc4d015b099306e2925edb9816113",
+      "size": 469
+    },
+    "data/json/south-park-27-swarm-day-00109-2025-11-10.json": {
+      "sha256": "cf6279f4a79ee583e0530a85ec7dcde3e6efbe1e4371a7334e082b838e7e6d36",
+      "size": 469
+    },
+    "data/json/south-park-27-swarm-day-00110-2025-11-11.json": {
+      "sha256": "ffb39b92ca5a59cb3ed2a53cc7f6fd67ed0284fc3c55ab8a25950d64b28ef5b6",
+      "size": 469
+    },
+    "data/json/south-park-27-swarm-day-00111-2025-11-12.json": {
+      "sha256": "6ef182949aba94cbb92d75bf74ee5997d0f334e9a5753db9157ad04e6ce80053",
+      "size": 469
+    },
+    "data/json/south-park-27-swarm-day-00112-2025-11-13.json": {
+      "sha256": "32efd57e94c239dd84ef9084035c5b808cfbbf545177fd4e0bad5aedb5e88434",
+      "size": 469
+    },
+    "data/json/south-park-27-swarm-day-00113-2025-11-14.json": {
+      "sha256": "8784503da31e7a9ff60e6e48002e4b3d7d29d897c363013c5a1becb72b051e7e",
+      "size": 469
+    },
+    "data/json/south-park-27-swarm-day-00114-2025-11-15.json": {
+      "sha256": "141ce1d63700e8d33070df26642102498815913ef3b3ecebdc9073a178173f96",
+      "size": 469
+    },
+    "data/json/south-park-27-swarm-day-00115-2025-11-16.json": {
+      "sha256": "31c29f1a0dc266638d6fe6d784db5329102aa41ea5ba3833d1edd255d643949d",
+      "size": 469
+    },
+    "data/json/south-park-27-swarm-day-00116-2025-11-17.json": {
+      "sha256": "c89c56a3e9628b6d536ee362f8df2d8e4734182365b6a3633772e0414ff07fe6",
+      "size": 469
+    },
+    "data/json/south-park-27-swarm-day-00117-2025-11-18.json": {
+      "sha256": "ca4c8b81eac9d65d1ad3d52a6d7ca4133dd1dab320223e0d6d2e5cba694e3a3b",
+      "size": 469
+    },
+    "data/json/south-park-27-swarm-day-00118-2025-11-19.json": {
+      "sha256": "7588344653adb6c2de58f4c5fd7892b8a180ab5f869019c730a456f51e61d2aa",
+      "size": 469
+    },
+    "data/json/south-park-27-swarm-day-00119-2025-11-20.json": {
+      "sha256": "d1969aa2c70dbeca27b283ccd96924e35e93c306ed6d34c0e865ef92fec6af0e",
+      "size": 469
+    },
+    "data/json/south-park-27-swarm-day-00120-2025-11-21.json": {
+      "sha256": "715c42159095b8e5dbc2798e20a932ab259bd7c1f56c1206c17f4f74d36b9ec4",
+      "size": 469
+    },
+    "data/json/south-park-27-swarm-day-00121-2025-11-22.json": {
+      "sha256": "7a4ced4040a586f1ecef02794851a57a8f362eb5792d4aa3b64399321e92c972",
+      "size": 469
+    },
+    "data/json/south-park-27-swarm-day-00122-2025-11-23.json": {
+      "sha256": "c497d963381fe771df273294bcbd662e6279dc9dd2ee0e942d7a5160b72fb181",
+      "size": 469
+    },
+    "data/json/south-park-27-swarm-day-00123-2025-11-24.json": {
+      "sha256": "4362242340323238c7845e4027d0c6f016d0c0e98b86651712cd69e9b41c6fc9",
+      "size": 469
+    },
+    "data/json/south-park-27-swarm-day-00124-2025-11-25.json": {
+      "sha256": "0871b23d1a25cb14ff3350548a738e06fec4be580507aec0c585cb8cf05326ed",
+      "size": 469
+    },
+    "data/json/south-park-27-swarm-day-00125-2025-11-26.json": {
+      "sha256": "3d4cfe38072062a83abeaf73c33cb12435326350af63fa5d08991287f6f8986a",
+      "size": 469
+    },
+    "data/json/south-park-27-swarm-day-00126-2025-11-27.json": {
+      "sha256": "e6dcbd7de92f9eb7867e88e876ce051bd225fd64da9c2f7e44b409b669b8ba2c",
+      "size": 469
+    },
+    "data/json/south-park-27-swarm-day-00127-2025-11-28.json": {
+      "sha256": "dd31bb99c9406271020d78b597c8b0939fbd7e112ac604714af6bceb731ee8db",
+      "size": 469
+    },
+    "data/json/south-park-27-swarm-day-00128-2025-11-29.json": {
+      "sha256": "8a1f9ae06c5e705c3ddd27fa1482291127924dcdc02389b130ca805765bf2fb7",
+      "size": 469
+    },
+    "data/json/south-park-27-swarm-day-00129-2025-11-30.json": {
+      "sha256": "e7a46e0623774e89bd7259c8c63b1fad11c7fec9e0902104146bd8c45222ba27",
+      "size": 469
+    },
+    "data/json/south-park-27-swarm-day-00130-2025-12-01.json": {
+      "sha256": "fe0d39314d35d9a8ed280e64991e661b37a07725d0116e4ed8f55cbf33bff113",
+      "size": 469
+    },
+    "data/json/south-park-27-swarm-day-00131-2025-12-02.json": {
+      "sha256": "e15a2a1ca3e9708ace408e692b66e3b04dee49a1550e784b001833329e09ccf2",
+      "size": 469
+    },
+    "data/json/south-park-27-swarm-day-00132-2025-12-03.json": {
+      "sha256": "0ce26084ce6f464a6c7aa3b51efadcfa4b4017cffc46947abd6ac17d0ec8d843",
+      "size": 469
+    },
+    "data/json/south-park-27-swarm-day-00133-2025-12-04.json": {
+      "sha256": "642ff40eb7c25542a117d7c7b01cb68f558ec243ee97a93db321863322141fc4",
+      "size": 469
+    },
+    "data/json/south-park-27-swarm-day-00134-2025-12-05.json": {
+      "sha256": "32452db8628f79b73006ee5aabfb458e829b51c35721fa3c37bff5ff0c2cda09",
+      "size": 469
+    },
+    "data/json/south-park-27-swarm-day-00135-2025-12-06.json": {
+      "sha256": "9b9cba63e90aee516a0798b6984baf32917acf4109f4340a8f9b68a8a6445907",
+      "size": 469
+    },
+    "data/json/south-park-27-swarm-day-00136-2025-12-07.json": {
+      "sha256": "d4a5b43e6dc828aefe70de1566120f2ec822330d58e5e623e111d74428f7598a",
+      "size": 469
+    },
+    "data/json/south-park-27-swarm-day-00137-2025-12-08.json": {
+      "sha256": "a82bdfc9e47b4818cb07f9bb38d05712d7ea66afa1fdfb0d263b09e1c2f7034f",
+      "size": 469
+    },
+    "data/json/south-park-27-swarm-day-00138-2025-12-09.json": {
+      "sha256": "261a47bfb9d042c642287fdd77b8b6f658e557d84fa4bfae271b62e62cd83e47",
+      "size": 469
+    },
+    "data/json/south-park-27-swarm-day-00139-2025-12-10.json": {
+      "sha256": "08043e3dd186f3c212200309d92074aca1a2776d38235537790ce87ecc6e43aa",
+      "size": 469
+    },
+    "data/json/south-park-27-swarm-day-00140-2025-12-11.json": {
+      "sha256": "d0259156b973ac98ac82ec7b89683cf4ac460b8ac1585118c4dd6be4501aff88",
+      "size": 469
+    },
+    "data/json/south-park-27-swarm-day-00141-2025-12-12.json": {
+      "sha256": "c00c24358e289cccf836fe7ccdcd44bf463442f5f1c2745804289c82fdf0af7c",
+      "size": 469
+    },
+    "data/json/south-park-27-swarm-day-00142-2025-12-13.json": {
+      "sha256": "6d67a7bb011c9c74be71e6df9d4d28f71e28296c9a1d4cd848435279b0842724",
+      "size": 469
+    },
+    "data/json/south-park-27-swarm-day-00143-2025-12-14.json": {
+      "sha256": "0e7ee118f16c4099d08a03d9878418096a785460aa7cddff05e223528bbcb9dd",
+      "size": 469
+    },
+    "data/json/south-park-27-swarm-day-00144-2025-12-15.json": {
+      "sha256": "acd6bd24b078437cb94df7d35465efb187c316902edded19376251de1dc49e30",
+      "size": 469
+    },
+    "data/json/south-park-27-swarm-day-00145-2025-12-16.json": {
+      "sha256": "4e2ec1a5045a4a5b3dde5fb4b8d0781d453e7d2f419d812444643dcefab680e9",
+      "size": 469
+    },
+    "data/json/south-park-27-swarm-day-00146-2025-12-17.json": {
+      "sha256": "581b82f9bc29a0331270ad50dabf173d49138c8b8249fd8de5f1ede037ce0cd1",
+      "size": 469
+    },
+    "data/json/south-park-27-swarm-day-00147-2025-12-18.json": {
+      "sha256": "a4fcf84e4843bd2ef113dadd2a27ee262251dcd242cbc45f9abe14c965c04e26",
+      "size": 469
+    },
+    "data/json/south-park-27-swarm-day-00148-2025-12-19.json": {
+      "sha256": "21f1bdf919692323b128bda03daafbe3e9a34d27f8b13957114844b477b94f06",
+      "size": 469
+    },
+    "data/json/south-park-27-swarm-day-00149-2025-12-20.json": {
+      "sha256": "ae371dac401e0f3acf76e2e499261c6fd289721bef3dc8d95c17166919c25be4",
+      "size": 469
+    },
+    "data/json/south-park-27-swarm-day-00150-2025-12-21.json": {
+      "sha256": "44860fb9d9a50ed62fcc6ec5c240dc8721a2644d159e8870ad866b143dba13e4",
+      "size": 469
+    },
+    "data/json/south-park-27-swarm-day-00151-2025-12-22.json": {
+      "sha256": "f6fb04aa7aa26f0faf4fc74aa770e667c96b2b2f0ae52cea80761f6d4431d2fc",
+      "size": 469
+    },
+    "data/json/south-park-27-swarm-day-00152-2025-12-23.json": {
+      "sha256": "7c9f642cc7b04c50551a3086c6414b558de34a368636afea2b959f846d2f2792",
+      "size": 469
+    },
+    "data/json/south-park-27-swarm-day-00153-2025-12-24.json": {
+      "sha256": "fb0868acd602ecf84d96ac692d0e0cb1559d72272b5d65d97285b207a44cc036",
+      "size": 469
+    },
+    "data/json/south-park-27-swarm-day-00154-2025-12-25.json": {
+      "sha256": "12a5fc673187b4c887161fd0987c601879f411242fb64f4cfc494b13493aa5a9",
+      "size": 469
+    },
+    "data/json/south-park-27-swarm-day-00155-2025-12-26.json": {
+      "sha256": "dd533da60dcb4829c0fb23cb592badc12b83b6b570d575439f196d1e26a76e08",
+      "size": 469
+    },
+    "data/json/south-park-27-swarm-day-00156-2025-12-27.json": {
+      "sha256": "d760e8713f75399bf7d0f0023bec7c9a627fd24defab8cd71b94781055fe999f",
+      "size": 469
+    },
+    "data/json/south-park-27-swarm-day-00157-2025-12-28.json": {
+      "sha256": "1986a52ac559ff361d81386b93f0faa3af5a811fd337224ddfe11c62d6f82be3",
+      "size": 469
+    },
+    "data/json/south-park-27-swarm-day-00158-2025-12-29.json": {
+      "sha256": "d1769ea5fae1cc0ff8b5ef76acf20a951017444a50188bc294f5014a0f0a45d2",
+      "size": 469
+    },
+    "data/json/south-park-27-swarm-day-00159-2025-12-30.json": {
+      "sha256": "e862351f396b2fc829e04404615d69b3d34b1d95e704ae53604f88e33a0ed5f4",
+      "size": 469
+    },
+    "data/json/south-park-27-swarm-day-00160-2025-12-31.json": {
+      "sha256": "e31de991c4be248167ca1faec6c31a739bd38bd24f846377b513b598a26daa58",
+      "size": 469
+    },
+    "data/json/south-park-27-swarm-day-00161-2026-01-01.json": {
+      "sha256": "94768bc9e7c33794e638b8d917c6b632ee0abb7c8d2a3c166910a7f06dae023c",
+      "size": 469
+    },
+    "data/json/south-park-27-swarm-day-00162-2026-01-02.json": {
+      "sha256": "69577afb4ebbb5015b01299c7c76c128d8da4aa7a5639c92100bcb2a25626505",
+      "size": 469
+    },
+    "data/json/south-park-27-swarm-day-00163-2026-01-03.json": {
+      "sha256": "b83b8d4c786ce9bd0d59732f16fa1d3547c9041af2d2257a4de39a606be30ce9",
+      "size": 469
+    },
+    "data/json/south-park-27-swarm-day-00164-2026-01-04.json": {
+      "sha256": "d6f78571096d2ad7992382ef4521186650af9c158bf9b9f0e5c11ac2e027a011",
+      "size": 469
+    },
+    "data/json/south-park-27-swarm-day-00165-2026-01-05.json": {
+      "sha256": "8096d7ce08e8078e8efa45753d9e43c3499f7246c8a4c97eec35137668d2360d",
+      "size": 469
+    },
+    "data/json/south-park-27-swarm-day-00166-2026-01-06.json": {
+      "sha256": "208aec7ca8871fd46a066cd0ca9dc320314fedba3ae02f1aa3b0651f624f1873",
+      "size": 469
+    },
+    "data/json/south-park-27-swarm-day-00167-2026-01-07.json": {
+      "sha256": "102330f83846f4574794ad78bc31f37b9912dc5d57e38f168c094a7742bb6959",
+      "size": 469
+    },
+    "data/json/south-park-27-swarm-day-00168-2026-01-08.json": {
+      "sha256": "e6d6cfcec4126605d8d6bf0c69865890ae606006b2392ad170137e592934cf65",
+      "size": 469
+    },
+    "data/json/south-park-27-swarm-day-00169-2026-01-09.json": {
+      "sha256": "c5e08b6baffcb36ae90dd44393154020b028494123ff625f6c33e58b4663e542",
+      "size": 469
+    },
+    "data/json/south-park-27-swarm-day-00170-2026-01-10.json": {
+      "sha256": "43f44dd1f36341b3aa23b6be226098ed057b232c1223902ae131466f2b3e83e3",
+      "size": 469
+    },
+    "data/json/south-park-27-swarm-day-00171-2026-01-11.json": {
+      "sha256": "d4a959f393c334afa1ee1272fd7cf7d94ccd2fb6f0272e55c30a8ea96241a195",
+      "size": 469
+    },
+    "data/json/south-park-27-swarm-day-00172-2026-01-12.json": {
+      "sha256": "3b2129178d8fb42e1691d5809f5a210d628a4a6a48cc2ac78bbbe44edbe942e0",
+      "size": 469
+    },
+    "data/json/south-park-27-swarm-day-00173-2026-01-13.json": {
+      "sha256": "54363760c18ebed997731f3c890eaaa4f9f90ff1aa09b63e549822678b2066e7",
+      "size": 469
+    },
+    "data/json/south-park-27-swarm-day-00174-2026-01-14.json": {
+      "sha256": "9f12d02d0eeb0035e53ecfdbcc78a14f1a6818a214746f9be4ad2988c429612a",
+      "size": 469
+    },
+    "data/json/south-park-27-swarm-day-00175-2026-01-15.json": {
+      "sha256": "602c802c7dae0bba46b4fe1db92c7bdffce566e56d3f972e181805d4f5eff4ca",
+      "size": 469
+    },
+    "data/json/south-park-27-swarm-day-00176-2026-01-16.json": {
+      "sha256": "650ec13b81b6279024598abaabe1840e7faa3551eb3e27057d2f5eb91ad082a6",
+      "size": 469
+    },
+    "data/json/south-park-27-swarm-day-00177-2026-01-17.json": {
+      "sha256": "98defc47fc7fee8dc36b332b87ca24a4064ba065e7a9b320660606bd6ef4f62b",
+      "size": 469
+    },
+    "data/json/south-park-27-swarm-day-00178-2026-01-18.json": {
+      "sha256": "fa42e1accd5689ef94d40686b478083119519300fa513ab2823fa2cf7cf8ad53",
+      "size": 469
+    },
+    "data/json/south-park-27-swarm-day-00179-2026-01-19.json": {
+      "sha256": "ca5a40a67400f6e422b0f62e8730abc1241236cce346bd18cdea55cca450e48d",
+      "size": 469
+    },
+    "data/json/south-park-27-swarm-day-00180-2026-01-20.json": {
+      "sha256": "34d840aafda37eb536c248cc7e50ceed2cf4077c5a39707c45560b32f9bb26b2",
+      "size": 469
+    },
+    "data/json/south-park-27-swarm-day-00181-2026-01-21.json": {
+      "sha256": "12e533c2c801362a0488646f60482c40287cb5352677fef5b06e6d8e5553bad1",
+      "size": 469
+    },
+    "data/json/south-park-27-swarm-day-00182-2026-01-22.json": {
+      "sha256": "38d3435c045e461f79271114f38da09ab84d962d5733b5de23135e41276085e9",
+      "size": 469
+    }
+  },
+  "schema": "alpha60-year-day-product-bundle/1",
+  "source_revisions": {
+    "aggregate_binary": {
+      "sha256": "7408569641f7247fbd00969cffddaf1bb0cf2768c7fc1529f4cc6191ccfeae05",
+      "size": 38582648
+    },
+    "alpha60": "34f34e5c6eaafebbe65d9dbe1ade7609e9e61b2b",
+    "alpha60_data": "8faeae67a5d274d1fc00bffe9fc9318329163b20",
+    "day_product_contract": {
+      "sha256": "0aa0bee3ac14b512c786d3496ab5218a46aff11786ffa6aa9ea85e762fbd6370",
+      "size": 9897
+    },
+    "generate_cache_aggregates": {
+      "sha256": "2e03ba2df36d70d6293d803880c67ae0f2c3afde1ea5837075e31855a258516b",
+      "size": 22934
+    },
+    "metadata": "fbeb53a0b523f937fae2f23d14689d8c5c84dd5a",
+    "package_script": {
+      "sha256": "21d85741346f2bb967f618a36825484d87b3b94cea93dac22781c103abae8a0e",
+      "size": 15384
+    },
+    "year_day_contract": {
+      "sha256": "f1c07d6f2fdc19475a6f25ddaee5923957447a6f49a8009d8b4c9984a63bd883",
+      "size": 9356
+    }
+  },
+  "status": "pass"
+}
