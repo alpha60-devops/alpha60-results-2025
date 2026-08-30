@@ -26,8 +26,8 @@
       "raw_samples_opened": false,
       "scope": "read only streaming of per-torrent day records"
     },
-    "available_day_products": 167,
-    "cache_members": 25809,
+    "available_day_products": 181,
+    "cache_members": 27993,
     "collection_key": "long-story-short-01",
     "first_date": "2025-08-22",
     "first_index": 1,
@@ -198,43 +198,42 @@
       165,
       166,
       167,
-      168
+      168,
+      169,
+      170,
+      171,
+      172,
+      173,
+      174,
+      175,
+      176,
+      177,
+      178,
+      179,
+      180,
+      181,
+      182
     ],
-    "last_date": "2026-02-05",
-    "last_index": 168,
+    "last_date": "2026-02-19",
+    "last_index": 182,
     "missing_indices": [
       4
     ],
-    "sample_span_days": 168,
+    "sample_span_days": 182,
     "schema": "alpha60-day-cache-stream-contract/1",
-    "selection": {
-      "archive_mutated": false,
-      "excluded_cache_members": 2184,
-      "policy": "released-sample-endpoints",
-      "required_first_date": "2025-08-22",
-      "required_last_date": "2026-02-05",
-      "required_span_days": 168,
-      "schema": "alpha60-released-day-cache-window/1",
-      "selected_cache_members": 25809,
-      "source_cache_members": 27993,
-      "source_first_date": "2025-08-22",
-      "source_first_index": 1,
-      "source_last_date": "2026-02-19",
-      "source_last_index": 182
-    },
     "sparse": true,
     "status": "pass"
   },
   "day_product_contract": {
     "collection_key": "long-story-short-01",
-    "day_products": 167,
+    "day_products": 181,
     "first_date": "2025-08-22",
     "first_index": 1,
     "geojson_data_version": "20260701",
     "ip_geolocation_version": "6:1777968300",
     "json_data_version": "2026-08-05",
-    "last_date": "2026-02-05",
-    "last_index": 168,
+    "last_date": "2026-02-19",
+    "last_index": 182,
     "schema": "alpha60-day-product-contract/1",
     "sparse": true,
     "status": "pass"
@@ -908,6 +907,62 @@
       "sha256": "2e1368c0c06c0545282968fcdde56a534d9d52fc07a9d01dde6e6efbd1969bb7",
       "size": 140388
     },
+    "data/geojson.day/long-story-short-01-day-00169.geojson.gz": {
+      "sha256": "2cfb37ba1d851f423cc46c1d8ef8868239cc834b0b44d2b93eb73353b5a3cdf9",
+      "size": 174606
+    },
+    "data/geojson.day/long-story-short-01-day-00170.geojson.gz": {
+      "sha256": "6e5a0a2291992fc4f998acd111c884ec21f8a0215e12a5a7cc50f398d1f63e89",
+      "size": 143258
+    },
+    "data/geojson.day/long-story-short-01-day-00171.geojson.gz": {
+      "sha256": "5f63ffc20ec3aa0bfb5a163f5ef06078cff87d17f97abe37f0120f17af278173",
+      "size": 129096
+    },
+    "data/geojson.day/long-story-short-01-day-00172.geojson.gz": {
+      "sha256": "219ee6e9f6ebb9704d7e8b618f5dc465901d0c4b3fd72551fc67218d9811413b",
+      "size": 149559
+    },
+    "data/geojson.day/long-story-short-01-day-00173.geojson.gz": {
+      "sha256": "5379b8799712a53bde51fe4d25bd2d62e6853f240878df8c042a2ece236d0670",
+      "size": 156065
+    },
+    "data/geojson.day/long-story-short-01-day-00174.geojson.gz": {
+      "sha256": "6052f852ea6eba95584b854784b11ebede0dcf03d70a35029c41dbd3e16d105e",
+      "size": 139678
+    },
+    "data/geojson.day/long-story-short-01-day-00175.geojson.gz": {
+      "sha256": "0d8d765d3525c71f34b3d458bb1d0c3542a8164d6a7cae81a16c621b661ce8aa",
+      "size": 149261
+    },
+    "data/geojson.day/long-story-short-01-day-00176.geojson.gz": {
+      "sha256": "eeec2ceccfbd8bcb887bea509e28bc40ccfdfc2df167193635ce6fd79ffaad09",
+      "size": 150293
+    },
+    "data/geojson.day/long-story-short-01-day-00177.geojson.gz": {
+      "sha256": "8b6ddef93aeebe093d12272e17d2b5a3800060c80b399023360e82b06c82ea39",
+      "size": 149830
+    },
+    "data/geojson.day/long-story-short-01-day-00178.geojson.gz": {
+      "sha256": "cab29eb62f764b6bf789ab3803414c7269b8f137c0e0bb36734e53b77d88eb23",
+      "size": 147969
+    },
+    "data/geojson.day/long-story-short-01-day-00179.geojson.gz": {
+      "sha256": "85e592dcfebbc460e3552e75822913371bb6b5b877622b672a27ea9cedab785e",
+      "size": 151350
+    },
+    "data/geojson.day/long-story-short-01-day-00180.geojson.gz": {
+      "sha256": "d7df1a7294fb732d1b2705fbd9ac00f86972ec6e38285e02711fc41fbea4d4ff",
+      "size": 138731
+    },
+    "data/geojson.day/long-story-short-01-day-00181.geojson.gz": {
+      "sha256": "44d40e4bd937be7c2a3e9437dfd9c1f2b040e54bd259614105cf0edb6dc171fc",
+      "size": 127726
+    },
+    "data/geojson.day/long-story-short-01-day-00182.geojson.gz": {
+      "sha256": "ff1450742d0e33843a1394a2ca3aa12a32ae754b0b645c1eb5cab0c897a49118",
+      "size": 148365
+    },
     "data/json/long-story-short-01-swarm-day-00001-2025-08-22.json": {
       "sha256": "f0919df6ba2cc0db9fbf8ffbae71c489f10edf25022aa8f520b28ec769904db5",
       "size": 453
@@ -1575,6 +1630,62 @@
     "data/json/long-story-short-01-swarm-day-00168-2026-02-05.json": {
       "sha256": "77a9fc2d6eff3b1ad121939a662d8622ce2068539093438948bdffd6445d1f29",
       "size": 457
+    },
+    "data/json/long-story-short-01-swarm-day-00169-2026-02-06.json": {
+      "sha256": "97102b1a567ef9ba7f371edd04b864a6607f70ac25b1e5ce3fa79dff4ef40f59",
+      "size": 457
+    },
+    "data/json/long-story-short-01-swarm-day-00170-2026-02-07.json": {
+      "sha256": "38d29ef66f92530a8c0eafdb4ab48448bd85b7950f27b8514389d1cc69e4f666",
+      "size": 457
+    },
+    "data/json/long-story-short-01-swarm-day-00171-2026-02-08.json": {
+      "sha256": "5ac67f84a09dd28c74b3b830316f2381159be7cfe6459dd546dc54aef0ac116e",
+      "size": 457
+    },
+    "data/json/long-story-short-01-swarm-day-00172-2026-02-09.json": {
+      "sha256": "e549f576c66efb6eed6ed1592bb260281641f8da90e79d12aac90fe88ca9f3ef",
+      "size": 457
+    },
+    "data/json/long-story-short-01-swarm-day-00173-2026-02-10.json": {
+      "sha256": "d04e48adfa64a148851bbeb757ba8f634401b68f8a71b4cc13b30ff298a5ce3e",
+      "size": 457
+    },
+    "data/json/long-story-short-01-swarm-day-00174-2026-02-11.json": {
+      "sha256": "a600d9b6a9ea4e31797327f4464e9914af80f6f5747c5a2074ed4d417d5d3d21",
+      "size": 457
+    },
+    "data/json/long-story-short-01-swarm-day-00175-2026-02-12.json": {
+      "sha256": "9bd14fadc4bb9f81c3c855ccac3b4781851d00c470cd3bb70dc27767c9ac03c3",
+      "size": 457
+    },
+    "data/json/long-story-short-01-swarm-day-00176-2026-02-13.json": {
+      "sha256": "ded26dd422326ad8f18e8232f3f92a06a2aa372fa46047b4c022f442c28aa503",
+      "size": 457
+    },
+    "data/json/long-story-short-01-swarm-day-00177-2026-02-14.json": {
+      "sha256": "05fe4a274b60e0cf7522b16bfe98f6453a358b4e3fe767d1145e7914aaad7283",
+      "size": 457
+    },
+    "data/json/long-story-short-01-swarm-day-00178-2026-02-15.json": {
+      "sha256": "5c1d6924c0acf5e2f3b12cd2637e923e6118d2fca99f4d9f1b338572cc263270",
+      "size": 457
+    },
+    "data/json/long-story-short-01-swarm-day-00179-2026-02-16.json": {
+      "sha256": "836f213cf6cbb246800ef2259c40b2c8f550796a15801fabfa55c613907e25ec",
+      "size": 457
+    },
+    "data/json/long-story-short-01-swarm-day-00180-2026-02-17.json": {
+      "sha256": "f13f68df00b788cbe99ddc8167bce77bf050a18b82791fc06615e392f6f687f8",
+      "size": 457
+    },
+    "data/json/long-story-short-01-swarm-day-00181-2026-02-18.json": {
+      "sha256": "5cfff226b21ac7b4920f2d005c0ef798a72985e19eed174b863aa868fa209897",
+      "size": 457
+    },
+    "data/json/long-story-short-01-swarm-day-00182-2026-02-19.json": {
+      "sha256": "b8de3c76f3b182e0d80c357f604fe1e831a0198f5a7b076bbe1d8070566d1f29",
+      "size": 457
     }
   },
   "schema": "alpha60-year-day-product-bundle/1",
@@ -1583,20 +1694,20 @@
       "sha256": "7408569641f7247fbd00969cffddaf1bb0cf2768c7fc1529f4cc6191ccfeae05",
       "size": 38582648
     },
-    "alpha60": "34f34e5c6eaafebbe65d9dbe1ade7609e9e61b2b",
+    "alpha60": "eba8537ed9a6e7a09ae3de163b01460f5ad1ad7e",
     "alpha60_data": "8faeae67a5d274d1fc00bffe9fc9318329163b20",
     "day_product_contract": {
       "sha256": "0aa0bee3ac14b512c786d3496ab5218a46aff11786ffa6aa9ea85e762fbd6370",
       "size": 9897
     },
     "generate_cache_aggregates": {
-      "sha256": "2e03ba2df36d70d6293d803880c67ae0f2c3afde1ea5837075e31855a258516b",
-      "size": 22934
+      "sha256": "504078e192d9c8182df74e41b98cec08123c5a8b7d0eb7f812d09c1fe5d07010",
+      "size": 17151
     },
     "metadata": "fbeb53a0b523f937fae2f23d14689d8c5c84dd5a",
     "package_script": {
-      "sha256": "21d85741346f2bb967f618a36825484d87b3b94cea93dac22781c103abae8a0e",
-      "size": 15384
+      "sha256": "516d6ecdccd24b1b66cf80c185219fa47d52af22f672b836773896df621b1666",
+      "size": 14724
     },
     "year_day_contract": {
       "sha256": "f1c07d6f2fdc19475a6f25ddaee5923957447a6f49a8009d8b4c9984a63bd883",

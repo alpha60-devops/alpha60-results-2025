@@ -6,33 +6,33 @@
     "wikidata_id": "Q134427756",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Long_Story_Short_(TV_series)"
   },
-  "coverage_sha256": "8626929903ab26e12fe5bde49828774386c56696c437ed914951c3eb5e73b2b7",
-  "generated_at": "2026-08-30T14:53:49.299358+00:00",
+  "coverage_sha256": "3671099bc4bd8ad3a72f4e5f539b4b2c91d02368ab2ecb63016d93432b0fd45b",
+  "generated_at": "2026-08-30T23:59:33.406568+00:00",
   "human_review": null,
   "immutable_inputs": {
     "aao-checksum-manifest": {
       "path": "/home/bkoz/src/alpha60-results-2025/data/SHA256SUMS",
-      "sha256": "4a4818facd85b709f0321b0a6de31b4a3eff6f108f3b9354c75632926e6baa48",
-      "size": 266728
+      "sha256": "f7cccd77fa83baa7a24036fc961f1c1131634582d18b5ad42de6adbd4b42c313",
+      "size": 266970
     },
     "aao-release": {
       "path": "/home/bkoz/src/alpha60-results-2025/data/release.json",
-      "sha256": "3ce0984da2d12b0e3697e76c02608bd9d1a955ee3d00e0a7054bdd297b8f18c8",
-      "size": 1342
+      "sha256": "466e51603a0ffc645fb7c7b50cf16e62923dc261fe0b3435910911ea7740f986",
+      "size": 2976
     },
     "aao-verification": {
       "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-aao-verification.json",
-      "sha256": "e01294ebce8e54b65e16ab83017fa5585efe6f7a0a0f1a5e0f734e08d8e223fd",
-      "size": 854
+      "sha256": "ec18ea60d6836c8a3cf602d828a0bb15cf44128eff1f03cddc529f394769fe15",
+      "size": 2458
     },
     "archive-map": {
-      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-cache-archive-map.json",
-      "sha256": "8d4d506f23cd80f46baf010bd17509c916083e75eb8b43b052641138c3f308f1",
-      "size": 125170
+      "path": "/tmp/year-2025-cache-archive-map.zero-exceptions.json",
+      "sha256": "07df6768b09300f45368bce76aa0f855dc87c0135f5d2f754100a09fad43a0e6",
+      "size": 124844
     },
     "btiha-metadata-json": {
       "path": "/home/bkoz/src/alpha60-results-2025/data/json/long-story-short-01-cumulative-btiha-media-objects.json",
-      "sha256": "9656dba0420cd1b4daedc24345129c99f53ee77243c98654e6d8d0a2a6a5245a",
+      "sha256": "41e9a527932f210676da76c10b1bc1270300365794d8dc49a4c66b739220b990",
       "size": 268037
     },
     "canonical-metadata": {
@@ -40,66 +40,71 @@
       "sha256": "9ebf79347af3854b85050fe243a9236e52e77a6055839bde36861d22e7e1ad1a",
       "size": 10002
     },
+    "coverage-evidence-source": {
+      "path": "/tmp/year-2025-coverage-overrides/long-story-short-01.md",
+      "sha256": "b3dc443310ffa2f91b00d9904ff2ccbc9a0911b8f8d155925b6b6612d8f757d0",
+      "size": 1418
+    },
     "coverage-report": {
       "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-coverage-evidence/long-story-short-01.md",
-      "sha256": "bc4672320bd2bf697b0cea159d071a04dccdd55ba97e5b7c8073548823dd947e",
-      "size": 745
+      "sha256": "b3dc443310ffa2f91b00d9904ff2ccbc9a0911b8f8d155925b6b6612d8f757d0",
+      "size": 1418
     },
     "cumulative-aggregate-geojson-gzip": {
       "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.cumulative/long-story-short-01-cumulative-aggregate.geojson.gz",
-      "sha256": "eeda99794fdb22e114bdefdae1f43b1e0053192e31197bfc368ecfa83bd21ef5",
-      "size": 1009482
+      "sha256": "96cd1a4e828d05d556ba9bd1e2159b590a0fbb655287528de5da5188076b33ff",
+      "size": 1007693
     },
     "cumulative-btiha-geojson-gzip": {
       "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.cumulative/long-story-short-01-cumulative-btiha.geojson.gz",
-      "sha256": "fd87284c62646090e98b457b5121c502307cd4493dde9b27ca3cf85e7c6a73e1",
-      "size": 15176681
+      "sha256": "8f1aafdc26d5e9c14ce4722815b720ea1a0e0adf106de6ab74a8fd07b45ddc19",
+      "size": 15566908
     },
     "cumulative-json": {
       "path": "/home/bkoz/src/alpha60-results-2025/data/json/long-story-short-01-cumulative.json",
-      "sha256": "5c4aff397d7c6a61c7228e864a95ec44ed9a8da67f9ef6c4f482da38eeabeea9",
-      "size": 15622
+      "sha256": "fae42553803cd50abb76b9497bf5af88e77f20ce105cb5e232a7f9768dfbe112",
+      "size": 15629
     },
     "day-bundle-receipt": {
-      "path": "/tmp/year-2025-day-bundles/long-story-short-01/receipt.json",
-      "sha256": "07051383ef0a8bf2f82b6c4b5602a7d53af2416f0fb13852d7f5dc41f7b0549a",
-      "size": 64856
+      "path": "/tmp/year-2025-final-bundles/long-story-short-01/receipt.json",
+      "sha256": "d18ead964ded720ac23ccef5bf2465f31dcf341f4e03df7e7a721746c6a6892b",
+      "size": 69503
     },
     "ip-swarm-json": {
       "path": "/home/bkoz/src/alpha60-results-2025/data/json/long-story-short-01-cumulative-ip-swarm.json",
-      "sha256": "3f7f01bc9d891decad9915b8acab0e2f8179c46ef97232e905b76a9086707789",
-      "size": 41218
+      "sha256": "5fa6b13c244738fa7cb2baf41e77c35b1a1b897b242de56c3612911eb6742c10",
+      "size": 41228
     },
     "published-day-bundle-receipt": {
       "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-day-product-receipts/long-story-short-01.json",
-      "sha256": "07051383ef0a8bf2f82b6c4b5602a7d53af2416f0fb13852d7f5dc41f7b0549a",
-      "size": 64856
+      "sha256": "d18ead964ded720ac23ccef5bf2465f31dcf341f4e03df7e7a721746c6a6892b",
+      "size": 69503
     },
     "week-json": {
       "path": "/home/bkoz/src/alpha60-results-2025/data/json/long-story-short-01-week.json",
-      "sha256": "0aa02c47a7f5ff12ad53a5b2d01dc974b86778ad9417a08130215e5de3bcc22d",
-      "size": 2244171
+      "sha256": "019d2eb3f3a121c543382093620174ed86c752eef1182efbbe52222fa4a8873b",
+      "size": 1960823
     }
   },
   "media_object": "long-story-short-01",
   "published_files": {
-    "data/csv/bytes/long-story-short-01-cumulative-detail.2025-btiha-itemized-by-bytes.csv": "5d8c4166e3d7556a2e4385d41477ee9040f996b6e0303ddd40c2ee4a85359191",
-    "docs/itemized/figures/long-story-short-01-carto-4k.webp": "4fa58dff77878a85549444bd5e0d5f01c3efb65e9a7309d3f0373add2481fbf2",
-    "docs/itemized/figures/long-story-short-01-carto.png": "868dd4fca8d680a3d71eb1a1896b8d4efa833f6e69454b62a6960d6f6b54fba1",
+    "data/csv/bytes/long-story-short-01-cumulative-detail.2025-btiha-itemized-by-bytes.csv": "633a79909a994df70e90766bd2bd5c316e11d3a54a0c17acbb68424c4ffce2ac",
+    "docs/itemized/figures/long-story-short-01-carto-4k.webp": "4e3074f90b0e943c9133c57eae05249a33c68d197adaca189e7793c29dcbd5a0",
+    "docs/itemized/figures/long-story-short-01-carto.png": "5f1020dd6779e7171eb0b650c8bd6ffd4eef65526a013c0ccdd2946fa1fa6b5a",
     "docs/itemized/figures/long-story-short-01-cumulative-detail-btiha-itemized-by-bytes.svg": "2a9bb9b0aae732b4d3fc8d9161e44eace583b6eb71c843554b976ee8a6defe6f",
-    "docs/itemized/figures/long-story-short-01-data-ge-1080p-4k.webp": "fdace3c2a44c23071a2dca7f11cfe3b90edff6f8f0e0b851aea2bda00e1a0933",
-    "docs/itemized/figures/long-story-short-01-data-ge-1080p.webp": "0af894a967e5637fce73f0a1fc20efb957cbc5a2c022a7a2c9692e514304b6fb",
-    "docs/itemized/figures/long-story-short-01-data-lt-1080p-4k.webp": "d87ea1f7748148254f0bf9e2c6ba34893246d9c02ea919181507584f50e401d2",
-    "docs/itemized/figures/long-story-short-01-data-lt-1080p.webp": "6de40b45ae427617fed905cfbf38b0ca7e5247e37c026dfb67d940607c300374",
-    "docs/itemized/figures/long-story-short-01-downloads-by-day-day.svg": "5cf3f4f1df6d4cb996dff9e45b1e64fe6a08c01449de3156b4851d97b90d7127",
-    "docs/itemized/figures/long-story-short-01-downloads-by-week-long-story-short-01-week.svg": "75f996ad62b9244146811f4b463b81428b28041b3c720cd69de90d015c26835a",
-    "docs/itemized/long-story-short-01-sample-cache-audit.md": "fbc6eba03e05f4db83da88192a863f90a1bf255989700fa5b40bde60611fff6c",
+    "docs/itemized/figures/long-story-short-01-data-ge-1080p-4k.webp": "85c85799017836afddd8ab5e4e54bbb331390de64b32e744af17092e0ebe87de",
+    "docs/itemized/figures/long-story-short-01-data-ge-1080p.webp": "d145614b0786020b70f5eb7948611838912225996865ea79b0e94f048a6fa5bc",
+    "docs/itemized/figures/long-story-short-01-data-lt-1080p-4k.webp": "7c8d8a4d9931657a7d5bdc314a08d4abad7027f582d753c38dd19618cda3bc3b",
+    "docs/itemized/figures/long-story-short-01-data-lt-1080p.webp": "d6e9e619b1b4a5c3903dbb6f61bc2bce6e90cc3a80d394927c07812d734186bd",
+    "docs/itemized/figures/long-story-short-01-downloads-by-day-day.svg": "166f96963d80da732ac9cead90740f066ac2370ed4ca386cfcab83011e51d60f",
+    "docs/itemized/figures/long-story-short-01-downloads-by-week-long-story-short-01-week.svg": "136798956d834f0f1e2ef44dc45faf5d0dc6d63a4cf7bceb67561073457dfc7f",
+    "docs/itemized/long-story-short-01-sample-cache-audit.md": "57f3f3e1fa4216599feaa457143783efa0450b40b8627174b7219c7cde57bd4d",
     "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
   },
   "render_receipt": {
     "alpha60": {
       "dirty": false,
-      "path": "/home/bkoz/src/alpha60-year-2025-render",
+      "path": "/tmp/alpha60-year-2025-render",
       "revision": "c520555c40beece2e38f62878e2d4cc1b312c505",
       "untracked": false
     },
@@ -112,12 +117,12 @@
     "inputs": {
       "cumulative-btiha-geojson": {
         "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.cumulative/long-story-short-01-cumulative-btiha.geojson.gz",
-        "sha256": "fd87284c62646090e98b457b5121c502307cd4493dde9b27ca3cf85e7c6a73e1",
-        "size": 15176681
+        "sha256": "8f1aafdc26d5e9c14ce4722815b720ea1a0e0adf106de6ab74a8fd07b45ddc19",
+        "size": 15566908
       },
       "cumulative-btiha-metadata": {
         "path": "/home/bkoz/src/alpha60-results-2025/data/json/long-story-short-01-cumulative-btiha-media-objects.json",
-        "sha256": "9656dba0420cd1b4daedc24345129c99f53ee77243c98654e6d8d0a2a6a5245a",
+        "sha256": "41e9a527932f210676da76c10b1bc1270300365794d8dc49a4c66b739220b990",
         "size": 268037
       }
     },
@@ -144,12 +149,12 @@
       "data-map-ge-1080p": {
         "font_sizes": [
           90.0,
-          67.0,
+          65.0,
           45.0,
-          39.0,
-          39.0,
+          38.0,
+          38.0,
           32.0,
-          32.0,
+          31.0,
           30.0,
           26.0,
           26.0
@@ -177,13 +182,13 @@
       "data-map-lt-1080p": {
         "font_sizes": [
           90.0,
-          66.0,
-          44.0,
-          39.0,
-          33.0,
-          32.0,
-          31.0,
-          28.0,
+          61.0,
+          42.0,
+          36.0,
+          30.0,
+          30.0,
+          29.0,
+          26.0,
           26.0,
           26.0
         ],
@@ -197,8 +202,8 @@
           "Istanbul",
           "Saint Petersburg",
           "Shanghai",
-          "Ashburn",
           "Nanjing",
+          "Ashburn",
           "London",
           "Hangzhou",
           "Amsterdam"
@@ -234,7 +239,7 @@
         "polylines": 2,
         "role": "week-graph",
         "status": "passed",
-        "x_tick_labels": 24,
+        "x_tick_labels": 26,
         "y_tick_labels": 22
       }
     }
