@@ -1,0 +1,253 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt13622970",
+    "imdb_id": "tt13622970",
+    "revision": "fbeb53a0b523f937fae2f23d14689d8c5c84dd5a",
+    "wikidata_id": "Q124457266",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Moana_2"
+  },
+  "coverage_sha256": "c3d0c9bc46f108f394f1bf2aab54e4cb56040574649c1da02b205bf4507f11f2",
+  "generated_at": "2026-08-30T15:23:15.048682+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "aao-checksum-manifest": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/SHA256SUMS",
+      "sha256": "4a4818facd85b709f0321b0a6de31b4a3eff6f108f3b9354c75632926e6baa48",
+      "size": 266728
+    },
+    "aao-release": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/release.json",
+      "sha256": "3ce0984da2d12b0e3697e76c02608bd9d1a955ee3d00e0a7054bdd297b8f18c8",
+      "size": 1342
+    },
+    "aao-verification": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-aao-verification.json",
+      "sha256": "e01294ebce8e54b65e16ab83017fa5585efe6f7a0a0f1a5e0f734e08d8e223fd",
+      "size": 854
+    },
+    "archive-map": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-cache-archive-map.json",
+      "sha256": "8d4d506f23cd80f46baf010bd17509c916083e75eb8b43b052641138c3f308f1",
+      "size": 125170
+    },
+    "btiha-metadata-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/moana-2-cumulative-btiha-media-objects.json",
+      "sha256": "94f0712dbff8fdb1d752f2be0b8864124449bc3e1eb44d12e9ca3d20520e94b4",
+      "size": 1437417
+    },
+    "canonical-metadata": {
+      "path": "/tmp/alpha60-swarm-metadata-2025/metadata/moana-2.json",
+      "sha256": "d88674324055f80e1aca1bb76bdb881cc8862a49138ef0bca05cda5145d1ede4",
+      "size": 6722
+    },
+    "coverage-report": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-coverage-evidence/moana-2.md",
+      "sha256": "c7de5295e994fcc9ce6ff000380cd47778219276ca0ff76f485ff9ec560356a8",
+      "size": 733
+    },
+    "cumulative-aggregate-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.cumulative/moana-2-cumulative-aggregate.geojson.gz",
+      "sha256": "3d0e16b4841db92ca552d5e39487afd4227f0a1ca8f6572c4bf0c32023801c38",
+      "size": 1471000
+    },
+    "cumulative-btiha-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.cumulative/moana-2-cumulative-btiha.geojson.gz",
+      "sha256": "b6993a31ba31c617bab1ecb8f225c8c8dda3ecd26f86956e6a9dc25472a80491",
+      "size": 61836219
+    },
+    "cumulative-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/moana-2-cumulative.json",
+      "sha256": "d24a64f7b6f00c7bbaf0188aaf823e7b1f328bb2939bc24757922cf0302a10bb",
+      "size": 15696
+    },
+    "day-bundle-receipt": {
+      "path": "/tmp/year-2025-day-bundles/moana-2/receipt.json",
+      "sha256": "425c2430c8630b9f53fd6e93e2674808a4cf715895789d3f937b1b1e01f069c4",
+      "size": 65455
+    },
+    "ip-swarm-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/moana-2-cumulative-ip-swarm.json",
+      "sha256": "6297141ae56d6ed9c44ffdcaeb590d61360d2aaf551ce4852c6a22f108bf85de",
+      "size": 44005
+    },
+    "published-day-bundle-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-day-product-receipts/moana-2.json",
+      "sha256": "425c2430c8630b9f53fd6e93e2674808a4cf715895789d3f937b1b1e01f069c4",
+      "size": 65455
+    },
+    "week-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/moana-2-week.json",
+      "sha256": "fdf48458571b3c9b0a323a4f29bfddc379799d136b56fe4a3d585fe1eb8b20db",
+      "size": 5416524
+    }
+  },
+  "media_object": "moana-2",
+  "published_files": {
+    "data/csv/bytes/moana-2-cumulative-detail.2025-btiha-itemized-by-bytes.csv": "367b7d9e3c23cdf5c38bb0d8acbac4819803d5e45966dbdbd0b38fb486ae12bf",
+    "docs/itemized/figures/moana-2-carto-4k.webp": "5e10854acdab05d235b4068ceef58636fd30d8a004fa0e2cb208dd557ebeccbc",
+    "docs/itemized/figures/moana-2-carto.png": "080e28b09d91df3994e54bd1022ae8a7812dec8261c7b9d60d7fd86cd51d7ed9",
+    "docs/itemized/figures/moana-2-cumulative-detail-btiha-itemized-by-bytes.svg": "d9efcc0af13b851bf9116bb2c88db3a569c4fb7a800f432ccd4d330f8f94ffd3",
+    "docs/itemized/figures/moana-2-data-ge-1080p-4k.webp": "90c0de0fde43c8bffa15cbe1579c498e50a28644e714ea718551dbf960f2a334",
+    "docs/itemized/figures/moana-2-data-ge-1080p.webp": "854aa48997b032b8f51718e484f9a53adf8c10e3091f652ae2061660db405ab8",
+    "docs/itemized/figures/moana-2-data-lt-1080p-4k.webp": "5bb0189cf753fd0ca749fd3de48ab73fce1fa7258c7828a5bfc64a33571cdfc7",
+    "docs/itemized/figures/moana-2-data-lt-1080p.webp": "f8587df687227fde2bb5b8530b65a06c87b456a564a8e50c236332f157c9235c",
+    "docs/itemized/figures/moana-2-downloads-by-day-day.svg": "2faf5e0d38cad1207782382e05eab31724f47c49d579db327a42d325bcb528cc",
+    "docs/itemized/figures/moana-2-downloads-by-week-moana-2-week.svg": "dbc08c7e9ab97c8469e4db4cb4a7afd75c1af091020ee14ffb49ad0ecb9bfd31",
+    "docs/itemized/moana-2-sample-cache-audit.md": "970231116f3a827f6a61761366bc63b1bdd49625a4dc224cc0c072c36f3aeff5",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-year-2025-render",
+      "revision": "c520555c40beece2e38f62878e2d4cc1b312c505",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "c192c54f882171dafc74c038ec769f1e68bf8020d12a342d2334086b5b5ee5ea",
+      "size": 36998168
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.cumulative/moana-2-cumulative-btiha.geojson.gz",
+        "sha256": "b6993a31ba31c617bab1ecb8f225c8c8dda3ecd26f86956e6a9dc25472a80491",
+        "size": 61836219
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/json/moana-2-cumulative-btiha-media-objects.json",
+        "sha256": "94f0712dbff8fdb1d752f2be0b8864124449bc3e1eb44d12e9ca3d20520e94b4",
+        "size": 1437417
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/izzi",
+      "revision": "b988ee7fd690a74a696c27c9aadf40c204a4c780",
+      "untracked": false
+    },
+    "media_object": "moana-2",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60-results-2025/bin/a60-meta-collection.exe",
+      "sha256": "e71f9def936a6868d5282a5ff7dece07ade360eefa07abebde75434a927220f7",
+      "size": 8743680
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          89.0,
+          59.0,
+          53.0,
+          34.0,
+          27.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Seoul",
+          "Moscow",
+          "Istanbul",
+          "Saint Petersburg",
+          "London",
+          "Shanghai",
+          "Amsterdam",
+          "Nanjing",
+          "Budapest",
+          "Lelystad"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          73.0,
+          58.0,
+          52.0,
+          28.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "Seoul",
+          "Istanbul",
+          "Saint Petersburg",
+          "London",
+          "Shanghai",
+          "Budapest",
+          "Nanjing",
+          "Yekaterinburg",
+          "Ankara"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 21,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 48,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 26,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "c520555c40beece2e38f62878e2d4cc1b312c505",
+    "cartofreako": "fc58111b5bfa7667b12f6ade522ae5e566b464d1",
+    "izzi": "b988ee7fd690a74a696c27c9aadf40c204a4c780",
+    "metadata": "fbeb53a0b523f937fae2f23d14689d8c5c84dd5a",
+    "results_aao_adoption": "9cd9d91a6fbb560ac2a96beadf4c83b94daf6a88"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2025"
+}

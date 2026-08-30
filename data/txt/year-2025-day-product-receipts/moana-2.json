@@ -1,0 +1,1725 @@
+{
+  "archive": {
+    "path": "/home/bkoz/src/alpha60-xperiments/year-2025-archives/moana-2.cache/cache.20250728.tar.xz",
+    "sha256": "4a9230dddde2c308104e799920ceed8d939a9478a11d94aba21a17e2502b95b4",
+    "size": 4966346704
+  },
+  "authorization": {
+    "archive_mutated": false,
+    "excluded_member_classes": [
+      "hour",
+      "week",
+      "cumulative"
+    ],
+    "raw_samples_opened": false,
+    "scope": "read only streaming of per-torrent day records"
+  },
+  "collection_key": "moana-2",
+  "day_cache_stream_contract": {
+    "authorization": {
+      "archive_mutated": false,
+      "excluded_member_classes": [
+        "hour",
+        "week",
+        "cumulative"
+      ],
+      "raw_samples_opened": false,
+      "scope": "read only streaming of per-torrent day records"
+    },
+    "available_day_products": 182,
+    "cache_members": 72385,
+    "collection_key": "moana-2",
+    "first_date": "2025-01-28",
+    "first_index": 1,
+    "indices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144,
+      145,
+      146,
+      147,
+      148,
+      149,
+      150,
+      151,
+      152,
+      153,
+      154,
+      155,
+      156,
+      157,
+      158,
+      159,
+      160,
+      161,
+      162,
+      163,
+      164,
+      165,
+      166,
+      167,
+      168,
+      169,
+      170,
+      171,
+      172,
+      173,
+      174,
+      175,
+      176,
+      177,
+      178,
+      179,
+      180,
+      181,
+      182
+    ],
+    "last_date": "2025-07-28",
+    "last_index": 182,
+    "missing_indices": [],
+    "sample_span_days": 182,
+    "schema": "alpha60-day-cache-stream-contract/1",
+    "sparse": false,
+    "status": "pass"
+  },
+  "day_product_contract": {
+    "collection_key": "moana-2",
+    "day_products": 182,
+    "first_date": "2025-01-28",
+    "first_index": 1,
+    "geojson_data_version": "20260701",
+    "ip_geolocation_version": "6:1777968300",
+    "json_data_version": "2026-08-05",
+    "last_date": "2025-07-28",
+    "last_index": 182,
+    "schema": "alpha60-day-product-contract/1",
+    "sparse": false,
+    "status": "pass"
+  },
+  "publications": {
+    "data/geojson.day/moana-2-day-00001.geojson.gz": {
+      "sha256": "9cdb07521eab0b4af9c411ee8f8bdb09762a01502b344f588575f461f3894a69",
+      "size": 249219
+    },
+    "data/geojson.day/moana-2-day-00002.geojson.gz": {
+      "sha256": "46283c64ec398f7d3ad3a2e037181f65c5089270b9785adf4933bed7c05329a1",
+      "size": 319780
+    },
+    "data/geojson.day/moana-2-day-00003.geojson.gz": {
+      "sha256": "395c7592ae50e253859a26f7d0809c7b7bc52bb68489d1a72f47417905fc1d32",
+      "size": 315252
+    },
+    "data/geojson.day/moana-2-day-00004.geojson.gz": {
+      "sha256": "4e15454ead058a58da2dc051a594eebb7d9fb4f6d2bb1bc433720021992dc201",
+      "size": 354823
+    },
+    "data/geojson.day/moana-2-day-00005.geojson.gz": {
+      "sha256": "2f2d4d11cbad0330a9cf8e003f2861167879cef15e0258a6c0852b82873ba16d",
+      "size": 338353
+    },
+    "data/geojson.day/moana-2-day-00006.geojson.gz": {
+      "sha256": "95308484b087e0553aa519aac32ca129906eb03b6640ea3ad8f971b9105c147b",
+      "size": 336450
+    },
+    "data/geojson.day/moana-2-day-00007.geojson.gz": {
+      "sha256": "c923595a0b5ce892103998433041a4539245e4d0461b0db40179abeec4563821",
+      "size": 345140
+    },
+    "data/geojson.day/moana-2-day-00008.geojson.gz": {
+      "sha256": "3694c07e74ab768ecfb877a3b22a8a286afbaac90ab7d6df19bb1fc613f67dce",
+      "size": 345761
+    },
+    "data/geojson.day/moana-2-day-00009.geojson.gz": {
+      "sha256": "a9fff851f9c004efb17588b6c6a958f62b146dab469bb4e87fd696df0cd13583",
+      "size": 344043
+    },
+    "data/geojson.day/moana-2-day-00010.geojson.gz": {
+      "sha256": "51bcb205bc001b2fe5188dccabc9009ba112ce3441d7fc25062124e9ec56a70f",
+      "size": 340831
+    },
+    "data/geojson.day/moana-2-day-00011.geojson.gz": {
+      "sha256": "5629d23fc20575484227666b84c86099fad9a947bcb7851864af652d6e3eb45f",
+      "size": 334088
+    },
+    "data/geojson.day/moana-2-day-00012.geojson.gz": {
+      "sha256": "2b7d44b4c16309b82a93cf2a33fc5786076bb17f887d681266cf7a1f140bc04c",
+      "size": 334239
+    },
+    "data/geojson.day/moana-2-day-00013.geojson.gz": {
+      "sha256": "973c24086a1fc12d418ed58bf6f460f384cb1ae8eff608c8b9d737367d259125",
+      "size": 335611
+    },
+    "data/geojson.day/moana-2-day-00014.geojson.gz": {
+      "sha256": "a0c1fd3df2d5a605d9e35dfb974d3c292d56c9d553787744125cb43c4e7815fa",
+      "size": 346273
+    },
+    "data/geojson.day/moana-2-day-00015.geojson.gz": {
+      "sha256": "45f250edd5d09d7b2fbab2064fb7b8972a6ca9b7d2dd855f9def49aa4b490ad3",
+      "size": 337823
+    },
+    "data/geojson.day/moana-2-day-00016.geojson.gz": {
+      "sha256": "adc9fa7cc9be9c770a659009d94c667bfd1bc7bf05b32c3bb3267528a1dc557c",
+      "size": 330412
+    },
+    "data/geojson.day/moana-2-day-00017.geojson.gz": {
+      "sha256": "96f8df2ab3410b41620d7c9ce11ecc6076ed29fa288518ce8371e801d009e566",
+      "size": 341800
+    },
+    "data/geojson.day/moana-2-day-00018.geojson.gz": {
+      "sha256": "581bc577084322ad92b7413605f6cad342a3a677577dbd748f1b95c258de318c",
+      "size": 341398
+    },
+    "data/geojson.day/moana-2-day-00019.geojson.gz": {
+      "sha256": "fa1d96e673340717926a49dd908a652c820c0253cafb897e933964ba7aa4de2a",
+      "size": 317963
+    },
+    "data/geojson.day/moana-2-day-00020.geojson.gz": {
+      "sha256": "73752389d67ae99d8bb16a263ea4dbc13827f8b8a094ea021141a0fccf692cb1",
+      "size": 332304
+    },
+    "data/geojson.day/moana-2-day-00021.geojson.gz": {
+      "sha256": "99d018dd36beda2d0fa1ddc866d9ecc5d2ab328df55c411bcd54ebad71dda645",
+      "size": 353601
+    },
+    "data/geojson.day/moana-2-day-00022.geojson.gz": {
+      "sha256": "b0e28750fd2d4d594a971a01d2b50b5a3e5bd4d1a7acaa031ab9aab589c710c3",
+      "size": 359366
+    },
+    "data/geojson.day/moana-2-day-00023.geojson.gz": {
+      "sha256": "0b47ebdcc2ad6b5d440e5763222306ec90cf59334ccc95f9ed9d996e936ca7ee",
+      "size": 353468
+    },
+    "data/geojson.day/moana-2-day-00024.geojson.gz": {
+      "sha256": "8088a79e98c6e6ed0269931e6caa4521a5f48b0a9529a2fad32a76192f531b32",
+      "size": 355795
+    },
+    "data/geojson.day/moana-2-day-00025.geojson.gz": {
+      "sha256": "b510a59c37fa4e63c7aaab78821d38538395791d1dd418af82cb983c25d70242",
+      "size": 345642
+    },
+    "data/geojson.day/moana-2-day-00026.geojson.gz": {
+      "sha256": "f1e6b43e792fa9ece99868235fb7448f13060637d033436c240a90051371bd29",
+      "size": 319656
+    },
+    "data/geojson.day/moana-2-day-00027.geojson.gz": {
+      "sha256": "6308f84ebee06992279a7e36610ef475fced296065fe569dd1379b8264a538cd",
+      "size": 325207
+    },
+    "data/geojson.day/moana-2-day-00028.geojson.gz": {
+      "sha256": "2c482b07d4783e0d2d39a0d615becfa4156970bfe1384bd468761a0e679beb7a",
+      "size": 331992
+    },
+    "data/geojson.day/moana-2-day-00029.geojson.gz": {
+      "sha256": "d003ccdcc8c82dd1fbb679e527bb04248b17cfcd54d4328394d41b7435bb6b10",
+      "size": 331929
+    },
+    "data/geojson.day/moana-2-day-00030.geojson.gz": {
+      "sha256": "0cb36a7d5b2cb05c030e887fbbaabcb1199d85ce6ecd93c74bdcddee7b5cf5e2",
+      "size": 320221
+    },
+    "data/geojson.day/moana-2-day-00031.geojson.gz": {
+      "sha256": "4d9c109cadd9478fb5efd5b12f91512f15e79615223a7103fc611c7e6c4f565e",
+      "size": 322232
+    },
+    "data/geojson.day/moana-2-day-00032.geojson.gz": {
+      "sha256": "c9a73d44e8593c2c5fe8042269848b9fbb8032a9a1979118f00c3c92551bcdb5",
+      "size": 324536
+    },
+    "data/geojson.day/moana-2-day-00033.geojson.gz": {
+      "sha256": "afe834bf34f9bff87184196cf4f0bec73e4c57539daeaf8ce5b6a1753195e326",
+      "size": 313320
+    },
+    "data/geojson.day/moana-2-day-00034.geojson.gz": {
+      "sha256": "ab49d7560fc6bdbc0ce936d047422a0fa1861c4e4fdb294c90d1be692e211e93",
+      "size": 318961
+    },
+    "data/geojson.day/moana-2-day-00035.geojson.gz": {
+      "sha256": "ad28643faa40c51b46c571bb1326aff7603a06f4404dfb1168dce905afb72573",
+      "size": 343324
+    },
+    "data/geojson.day/moana-2-day-00036.geojson.gz": {
+      "sha256": "2c9d8d3558585422db369707fa20dc35b2018d5550c58de9d9039255c820ccba",
+      "size": 332351
+    },
+    "data/geojson.day/moana-2-day-00037.geojson.gz": {
+      "sha256": "912461f64d2a97ac4f6cda20bd164f72572f3c4f7b7917c04cf20c0ff181d2e9",
+      "size": 327898
+    },
+    "data/geojson.day/moana-2-day-00038.geojson.gz": {
+      "sha256": "801b16dab00d2af785e51f9a6fd1f57cc0ea1ef559278580d15011b849c5bd6e",
+      "size": 321011
+    },
+    "data/geojson.day/moana-2-day-00039.geojson.gz": {
+      "sha256": "f034539e5e01722b8edae47612a1f828686e1e53564d83d7c15d4df82a5a1b84",
+      "size": 320109
+    },
+    "data/geojson.day/moana-2-day-00040.geojson.gz": {
+      "sha256": "e1850ad9cee8d2d68c03fa69239f9850c5205be2af4a791e4519026391df2ddf",
+      "size": 301531
+    },
+    "data/geojson.day/moana-2-day-00041.geojson.gz": {
+      "sha256": "71b4f082b5b4c5e77fe87ad6065f7b2189f5313988c0d10a3814f9b0d4cbb23f",
+      "size": 315144
+    },
+    "data/geojson.day/moana-2-day-00042.geojson.gz": {
+      "sha256": "fb5c20f1943dd6b5c331cc4514d0029732d019882f9453f6b0a1bb66c3afff5b",
+      "size": 346936
+    },
+    "data/geojson.day/moana-2-day-00043.geojson.gz": {
+      "sha256": "190589f7b9fe0da586b02085db8858c62f16e9507848618dc11f0cc80575dae8",
+      "size": 333811
+    },
+    "data/geojson.day/moana-2-day-00044.geojson.gz": {
+      "sha256": "fffdb570d2cd1f7eb6d65717b1a67211197ca73dba62929e6a7041f6bbdf6546",
+      "size": 344575
+    },
+    "data/geojson.day/moana-2-day-00045.geojson.gz": {
+      "sha256": "feb915db398d37de87d3a0ef552bec0de22c47e3d77180039cd5315c970cf9a7",
+      "size": 333007
+    },
+    "data/geojson.day/moana-2-day-00046.geojson.gz": {
+      "sha256": "11a40ce16a9dd1271e04cd85a5419289965a73415a7f9fa987fcdd844f78437f",
+      "size": 342926
+    },
+    "data/geojson.day/moana-2-day-00047.geojson.gz": {
+      "sha256": "6d4b40fe323930279ab0a887cc91ae4069c43a866e083331d609ac3cd3f82506",
+      "size": 339148
+    },
+    "data/geojson.day/moana-2-day-00048.geojson.gz": {
+      "sha256": "59ba15ae06808c4af7cd5e85751f767c8a723bc2d625fde1bfb6670cc84be3dc",
+      "size": 311974
+    },
+    "data/geojson.day/moana-2-day-00049.geojson.gz": {
+      "sha256": "a606f3066d039d4a00e429ba07d881910f969a8dbfe95d2ed6dfd76a8ede6f34",
+      "size": 355986
+    },
+    "data/geojson.day/moana-2-day-00050.geojson.gz": {
+      "sha256": "d0c064ee772765f3aebc0226037ef6a9638c8c94447a89554356b1385d7bdd71",
+      "size": 347376
+    },
+    "data/geojson.day/moana-2-day-00051.geojson.gz": {
+      "sha256": "2b6cb0145013c669b8631b8db1f5b167cecc9c225ee083c09faf588b8985ab17",
+      "size": 355151
+    },
+    "data/geojson.day/moana-2-day-00052.geojson.gz": {
+      "sha256": "d30f11af3a975de9d63a172cc2bebaf3488a164a6d8184a710b6ff7da492566f",
+      "size": 354628
+    },
+    "data/geojson.day/moana-2-day-00053.geojson.gz": {
+      "sha256": "3597d4c06a048d6dc71f9b7c9d40ad9a061a8d2fe153c2f5b0e90f8ac899aae6",
+      "size": 353598
+    },
+    "data/geojson.day/moana-2-day-00054.geojson.gz": {
+      "sha256": "66849f1b15fac9b8b651cd6b9bd2aaff5ada976a4291cb8512d61fbf38988a2c",
+      "size": 345478
+    },
+    "data/geojson.day/moana-2-day-00055.geojson.gz": {
+      "sha256": "26800807fe4f20efdd0d7c03cfba4cf6751a56e05c963c1a8e56674e174c45b7",
+      "size": 343280
+    },
+    "data/geojson.day/moana-2-day-00056.geojson.gz": {
+      "sha256": "e2a8ead9b48e0670b5b91c4ebe4abae43a5fb87ca3a2adb3cbbf7bdcc2f00f24",
+      "size": 377194
+    },
+    "data/geojson.day/moana-2-day-00057.geojson.gz": {
+      "sha256": "50cf3058bfe73afbdab097c074d2ff5f2541787b98ea573bffb42bd07e6adf78",
+      "size": 352337
+    },
+    "data/geojson.day/moana-2-day-00058.geojson.gz": {
+      "sha256": "0e25fb58117d85a3e209e694b6567093d7a6d9e2dd6718d7ad3bb72a6a505c8d",
+      "size": 310084
+    },
+    "data/geojson.day/moana-2-day-00059.geojson.gz": {
+      "sha256": "2e4b6e5da25d0ce7eb3f380649cc3764a7696f1cc957d355a05e7ab1ffc48a79",
+      "size": 332333
+    },
+    "data/geojson.day/moana-2-day-00060.geojson.gz": {
+      "sha256": "393ab1dfb61a6f503ea3d570aec9b19b84bba9a401e2b94aef001044e51e9ebe",
+      "size": 325411
+    },
+    "data/geojson.day/moana-2-day-00061.geojson.gz": {
+      "sha256": "8512a0806fdbca9b304f35a1a21fbc08ed22a2e45a2a409ae3d65e87dd50207a",
+      "size": 310618
+    },
+    "data/geojson.day/moana-2-day-00062.geojson.gz": {
+      "sha256": "2ec5edca01fb7e1d38c5a27f0803e153e91c32bd14e834a26e611db4bab60174",
+      "size": 316266
+    },
+    "data/geojson.day/moana-2-day-00063.geojson.gz": {
+      "sha256": "6cd0b64e251b62eef28ea2fd154f1fcc7450e5c9afc51a28998c255b5352314f",
+      "size": 352508
+    },
+    "data/geojson.day/moana-2-day-00064.geojson.gz": {
+      "sha256": "067ce1aa19975e8565377f6b2eb17a1f37f90c0e773de1edf03b13831fe49dc6",
+      "size": 359346
+    },
+    "data/geojson.day/moana-2-day-00065.geojson.gz": {
+      "sha256": "cbb5e31d53459c1230c492b546f98c5ae2e62beecd5fe789c4b61cd70393379f",
+      "size": 345092
+    },
+    "data/geojson.day/moana-2-day-00066.geojson.gz": {
+      "sha256": "2d0eab701571e3bce8480f122781f1f9f6f665244448499e3280976a5d88ca8c",
+      "size": 349086
+    },
+    "data/geojson.day/moana-2-day-00067.geojson.gz": {
+      "sha256": "ae73005153cc6c59fe2abbe01071403e14df86c22902bf3a1494165edb2a68b3",
+      "size": 337156
+    },
+    "data/geojson.day/moana-2-day-00068.geojson.gz": {
+      "sha256": "0bf2372f14f36f315a1724f9ac30cfb0fd5a43789074e0a8e0ac715330efdad0",
+      "size": 311050
+    },
+    "data/geojson.day/moana-2-day-00069.geojson.gz": {
+      "sha256": "4d06c5d564e13b736b7e96350f4838f1541c46ae2ebd145fffa3fa7da49c7441",
+      "size": 327164
+    },
+    "data/geojson.day/moana-2-day-00070.geojson.gz": {
+      "sha256": "275c532b8c416c3be9a4374336c35ca1ae0e8d03fbacba48734f14879633ade2",
+      "size": 349192
+    },
+    "data/geojson.day/moana-2-day-00071.geojson.gz": {
+      "sha256": "3baf85d73ffb4285c6d34cfc7efe94b60744b41dc9a0b986d8f8ae638980f1d7",
+      "size": 344164
+    },
+    "data/geojson.day/moana-2-day-00072.geojson.gz": {
+      "sha256": "06b77e9295189b07f8da5e27f70c1eb4469bf8ba8e50477befa02c237009890d",
+      "size": 346962
+    },
+    "data/geojson.day/moana-2-day-00073.geojson.gz": {
+      "sha256": "83f29b8ce1ea92d5c4c984312c0c844bfc06520c24beeb0b601cc55a74227e3f",
+      "size": 342075
+    },
+    "data/geojson.day/moana-2-day-00074.geojson.gz": {
+      "sha256": "57092663105376d1fde805328307d0ccf74649669243b21832f770fa80cfda03",
+      "size": 336875
+    },
+    "data/geojson.day/moana-2-day-00075.geojson.gz": {
+      "sha256": "bfd4ab7c13217e7348f4f3f62105a0553ff44e8c8e23e812ce46691b0d793990",
+      "size": 321173
+    },
+    "data/geojson.day/moana-2-day-00076.geojson.gz": {
+      "sha256": "e2d2399994f7553c30c9891e62957ae2a5aae8782e4ee320ffd27b9118a2b609",
+      "size": 321401
+    },
+    "data/geojson.day/moana-2-day-00077.geojson.gz": {
+      "sha256": "9a4705f3ae8ea6fe7e9785172eaffcc0c14246aed51b3e3005fe97800d77e2a6",
+      "size": 335396
+    },
+    "data/geojson.day/moana-2-day-00078.geojson.gz": {
+      "sha256": "0fe7b856d01cfa05677aa27d516b77a4dded38c7737faa9dcb5bd3c3ddcf9dc6",
+      "size": 319775
+    },
+    "data/geojson.day/moana-2-day-00079.geojson.gz": {
+      "sha256": "70afb62a8b0aad917328be4a157e27b07a2837ee33dfcb6b619c96b864cdc2e8",
+      "size": 321908
+    },
+    "data/geojson.day/moana-2-day-00080.geojson.gz": {
+      "sha256": "7912ea76e2fcd324809c94062a2e392a450be8e66721f43fbc625cdd8f58a116",
+      "size": 297605
+    },
+    "data/geojson.day/moana-2-day-00081.geojson.gz": {
+      "sha256": "323b8b385d2767c162b0903986456910f17bbf27426f06da8ea8706889897bbe",
+      "size": 296864
+    },
+    "data/geojson.day/moana-2-day-00082.geojson.gz": {
+      "sha256": "8706324f87f734be2b0d68bfab950bb514c400e4178dbeca8d92192466d7cf4a",
+      "size": 302669
+    },
+    "data/geojson.day/moana-2-day-00083.geojson.gz": {
+      "sha256": "d612731d64d1f3ebcc87c9680ea5ffff4c384040ea170c40435360057e898289",
+      "size": 305672
+    },
+    "data/geojson.day/moana-2-day-00084.geojson.gz": {
+      "sha256": "ddab3e003ffb536e14bcde7922980f9bc84de04840a5d78efdee2538685e6510",
+      "size": 338869
+    },
+    "data/geojson.day/moana-2-day-00085.geojson.gz": {
+      "sha256": "90b447870a20c7c02790bfee67abd01ed675ba54d1d4179b0637a1d2fcd41b39",
+      "size": 338332
+    },
+    "data/geojson.day/moana-2-day-00086.geojson.gz": {
+      "sha256": "3acead21b639021a5edd00f8f6d41a664f22636230082846acfad377e882cdba",
+      "size": 327411
+    },
+    "data/geojson.day/moana-2-day-00087.geojson.gz": {
+      "sha256": "ba8734acda80f2506990e4c8b0275f3952019f5004761b6cbf3095093d794ec9",
+      "size": 333705
+    },
+    "data/geojson.day/moana-2-day-00088.geojson.gz": {
+      "sha256": "8029049f2f9eebbf8cc0d51166cc8827b3b2a32259a20948ba87d41d650334a2",
+      "size": 320558
+    },
+    "data/geojson.day/moana-2-day-00089.geojson.gz": {
+      "sha256": "e0ec6f4ecffc4b929fb8da30ef27ce2ca25d7da4afeb0a160aa086db050ad39c",
+      "size": 309049
+    },
+    "data/geojson.day/moana-2-day-00090.geojson.gz": {
+      "sha256": "9556145efbcdebf87ab35e9f7a5c9a54710860fa7b52ef061dfc907881ad8bb2",
+      "size": 310081
+    },
+    "data/geojson.day/moana-2-day-00091.geojson.gz": {
+      "sha256": "6094c596ae5fcf6a2f43f4e4797474c9f2c035625eda3a73853341a38a6359a3",
+      "size": 341284
+    },
+    "data/geojson.day/moana-2-day-00092.geojson.gz": {
+      "sha256": "a685f4ac9b914df48c350fe82eaab677c7012b4b0958d9ddc6c61aebcdb73479",
+      "size": 342528
+    },
+    "data/geojson.day/moana-2-day-00093.geojson.gz": {
+      "sha256": "49f6de473c11731bf67e69470c6fe063b19fc729e1fcd8cb4596ea0533909329",
+      "size": 323718
+    },
+    "data/geojson.day/moana-2-day-00094.geojson.gz": {
+      "sha256": "a8e90c5807131608503f091514c48063d9451a7d1a0d6c484da3d3e815db496b",
+      "size": 309620
+    },
+    "data/geojson.day/moana-2-day-00095.geojson.gz": {
+      "sha256": "659ab77303b6cbb8a143b28a8b0727d268a809cbdf61c80e21635e8e4d3f0a7b",
+      "size": 323708
+    },
+    "data/geojson.day/moana-2-day-00096.geojson.gz": {
+      "sha256": "9b5011f44ca76437c46552e777892008c9137faa0778683944d45cc1e288434f",
+      "size": 312223
+    },
+    "data/geojson.day/moana-2-day-00097.geojson.gz": {
+      "sha256": "edbf196e44d93536fbced73cbc197c81abeb744d74a68ebedea34ed05660adf0",
+      "size": 312041
+    },
+    "data/geojson.day/moana-2-day-00098.geojson.gz": {
+      "sha256": "c31edf8d35dcdea932b5bcae24de92439d5bdf39a200006ff23feae83660744b",
+      "size": 337570
+    },
+    "data/geojson.day/moana-2-day-00099.geojson.gz": {
+      "sha256": "c631591ab6cba72ca04a04e3fda0f86d173c307bdd14d93698c786861ce35d44",
+      "size": 335090
+    },
+    "data/geojson.day/moana-2-day-00100.geojson.gz": {
+      "sha256": "35d0c3fba62fd67ce9cd12173284a8b19d2d4f2c5acc6569809d6ab5972bc853",
+      "size": 332322
+    },
+    "data/geojson.day/moana-2-day-00101.geojson.gz": {
+      "sha256": "4838b29d599e71f2efc0d95aed97e2f7e9ad11fce913e2edb5ea21006e784b41",
+      "size": 314886
+    },
+    "data/geojson.day/moana-2-day-00102.geojson.gz": {
+      "sha256": "45ba210fee9d65efdf7002989e5dde22d3d3e3892baebdc5eb025f38de9b5f84",
+      "size": 307582
+    },
+    "data/geojson.day/moana-2-day-00103.geojson.gz": {
+      "sha256": "c33b51f8d02d90855dfef7eee1571c0519301d189a6cd7ea66d88c00af2966af",
+      "size": 288504
+    },
+    "data/geojson.day/moana-2-day-00104.geojson.gz": {
+      "sha256": "142c162c764d832287db841949ffa1638c4fa84352aaf57e8f0509aa4bb608c5",
+      "size": 302578
+    },
+    "data/geojson.day/moana-2-day-00105.geojson.gz": {
+      "sha256": "1ed2ae9c6e58eaa2568e694c5a824463fcb760ebf5739ae1db7b8a06a0dddb54",
+      "size": 331633
+    },
+    "data/geojson.day/moana-2-day-00106.geojson.gz": {
+      "sha256": "b49ed1c9d8c830a4e4809ec2c4a1611a172432696b8362fa1ad085c515e35e03",
+      "size": 333092
+    },
+    "data/geojson.day/moana-2-day-00107.geojson.gz": {
+      "sha256": "8716842228ba57e305ac2f5890247ad398e885d1e66f624ed7b4d9fe929db3f1",
+      "size": 324951
+    },
+    "data/geojson.day/moana-2-day-00108.geojson.gz": {
+      "sha256": "a68b23f260d6c41262259de359b1e2d59b5d6500f29c5af16b8aa247aa3a98a1",
+      "size": 330288
+    },
+    "data/geojson.day/moana-2-day-00109.geojson.gz": {
+      "sha256": "15fe8e2d51467efd67189883424e1f5956c453b8dfc0d893bbf6aa1cc90902d5",
+      "size": 314164
+    },
+    "data/geojson.day/moana-2-day-00110.geojson.gz": {
+      "sha256": "44be97766e79f4a8fe12b1081687c09e2831c70d7ab2d9d9294a2e41ad46fd62",
+      "size": 296499
+    },
+    "data/geojson.day/moana-2-day-00111.geojson.gz": {
+      "sha256": "d63553ec2accfdea70ba918fbb0f342cfe3a9c2b14cf15c66981dfd75bbc3b1d",
+      "size": 302730
+    },
+    "data/geojson.day/moana-2-day-00112.geojson.gz": {
+      "sha256": "d49957a54c8766327e81cd1516509b5f5a8d772d6b4f540d11cafce4d00a86ea",
+      "size": 356453
+    },
+    "data/geojson.day/moana-2-day-00113.geojson.gz": {
+      "sha256": "4b0fa0275005cff395848c7f43b9340177a27a7fbf1851bb06129e185672f0e2",
+      "size": 308332
+    },
+    "data/geojson.day/moana-2-day-00114.geojson.gz": {
+      "sha256": "b01ab2fec4857e0ca4e3edacf17dcf94496738c258404a3ccc41b087fe1a3884",
+      "size": 295599
+    },
+    "data/geojson.day/moana-2-day-00115.geojson.gz": {
+      "sha256": "0c056de2f9988be910ee2dd99211070b3d19754569241052fd39ef62ba163ff4",
+      "size": 300800
+    },
+    "data/geojson.day/moana-2-day-00116.geojson.gz": {
+      "sha256": "09ace1e7c25b9e1f38099c8b658c6898158e24d802ec71310335740b086113f7",
+      "size": 298437
+    },
+    "data/geojson.day/moana-2-day-00117.geojson.gz": {
+      "sha256": "62575eb39844d78427e4671a8137b30589c4e1317cd2a689752483791ce273ef",
+      "size": 290177
+    },
+    "data/geojson.day/moana-2-day-00118.geojson.gz": {
+      "sha256": "83cb83fdc79479e208ef864659dde2ec1d751267bb60d1f3e5e44a01c505e3c9",
+      "size": 287033
+    },
+    "data/geojson.day/moana-2-day-00119.geojson.gz": {
+      "sha256": "efb822a25922d4ea5290deb3b14183b6b97b822744ed534a7ed7e83fff2a1d1b",
+      "size": 310725
+    },
+    "data/geojson.day/moana-2-day-00120.geojson.gz": {
+      "sha256": "2f76223ca235f56ea020c20ffcca731d6eb33ac72d00f230a79831d44c77bf8c",
+      "size": 308971
+    },
+    "data/geojson.day/moana-2-day-00121.geojson.gz": {
+      "sha256": "eb638a12270df707c5e84875c8c2d63ea6924b4e59e189b2ae126406261b28b4",
+      "size": 302649
+    },
+    "data/geojson.day/moana-2-day-00122.geojson.gz": {
+      "sha256": "14e2d5b689fcec108d6e4a58caec068ec13ce055290f00f97378681e3091ee88",
+      "size": 290096
+    },
+    "data/geojson.day/moana-2-day-00123.geojson.gz": {
+      "sha256": "263cd821d86c802a3d4948c484897361d0873d108e9c948d321fff703fc65fa0",
+      "size": 279963
+    },
+    "data/geojson.day/moana-2-day-00124.geojson.gz": {
+      "sha256": "0788f84ccac287b04020217775c00c67c62f65c1e971ce936661c87ab9637a6b",
+      "size": 274926
+    },
+    "data/geojson.day/moana-2-day-00125.geojson.gz": {
+      "sha256": "263217ef56785687249e9b037e307a06313196a61ec17c91145d73ba939e1ede",
+      "size": 290366
+    },
+    "data/geojson.day/moana-2-day-00126.geojson.gz": {
+      "sha256": "9aef5d95d13135fbb1e7ed067ef800088fb9a77d6c6f66ba5da549c08394d401",
+      "size": 320776
+    },
+    "data/geojson.day/moana-2-day-00127.geojson.gz": {
+      "sha256": "d1530e2b5bfb2056eb22ba6218073bc7e63ff1f38dabad5057833f623282f894",
+      "size": 316648
+    },
+    "data/geojson.day/moana-2-day-00128.geojson.gz": {
+      "sha256": "fe699f6ddda23ae0ccedaec27ad61ca940247114b631a0cf1fe9d81b85cba281",
+      "size": 320923
+    },
+    "data/geojson.day/moana-2-day-00129.geojson.gz": {
+      "sha256": "4bd23d11451359ea971f1abbe539842e371a7b60c78ce89e73cac3379bcaa628",
+      "size": 332199
+    },
+    "data/geojson.day/moana-2-day-00130.geojson.gz": {
+      "sha256": "e4a6d81db25b6907ff404d965f37b636bc3daf3e26ef055827fbdfc6ce66dd67",
+      "size": 311592
+    },
+    "data/geojson.day/moana-2-day-00131.geojson.gz": {
+      "sha256": "d64e59ec0456ff9117342759aeab3c9ba6e0ba5dfd62a50e759a12c5efff5378",
+      "size": 299851
+    },
+    "data/geojson.day/moana-2-day-00132.geojson.gz": {
+      "sha256": "f219f524bc330f9a5fc5cac99a3437fa782be38b073305f1f803b329b896fe16",
+      "size": 302117
+    },
+    "data/geojson.day/moana-2-day-00133.geojson.gz": {
+      "sha256": "e72ba467ec542699aa72839df9aa33742fd86ef0bdcae93c19149f800863462a",
+      "size": 327044
+    },
+    "data/geojson.day/moana-2-day-00134.geojson.gz": {
+      "sha256": "461560aa6627bfd797fdbe6116aeba8de115564996251429cd6f83d7c3884ee3",
+      "size": 324816
+    },
+    "data/geojson.day/moana-2-day-00135.geojson.gz": {
+      "sha256": "8cbbaf0238eb06d939e50c419ec9a7de869dfe1c9a53efe65fbdbe1e0348750d",
+      "size": 327184
+    },
+    "data/geojson.day/moana-2-day-00136.geojson.gz": {
+      "sha256": "a529e4a0ff5f4b7b2eda98a60cf95f05f334e69afc88c5ce359d827ae3a7ca07",
+      "size": 307965
+    },
+    "data/geojson.day/moana-2-day-00137.geojson.gz": {
+      "sha256": "f43c2ed79bf114c206dd149aef3cc2946de49df8938e208ff7f27bedf3ea58e6",
+      "size": 281046
+    },
+    "data/geojson.day/moana-2-day-00138.geojson.gz": {
+      "sha256": "f265e03de7d96234c74e91b390d6dddd95bf053d32b440ff657288abcbf85d81",
+      "size": 276483
+    },
+    "data/geojson.day/moana-2-day-00139.geojson.gz": {
+      "sha256": "8a8fe21a3055b672e5a5df6eae7d712cf9e471d2211f027a157aea8c905f5fa6",
+      "size": 286447
+    },
+    "data/geojson.day/moana-2-day-00140.geojson.gz": {
+      "sha256": "0d5a907d593ad4365325d03de43eecf1c332b6e6d6b1e78c2df596341bda097e",
+      "size": 317412
+    },
+    "data/geojson.day/moana-2-day-00141.geojson.gz": {
+      "sha256": "d6fb1349cc0221b3b1e07135389f621d5edc7cf776a7fd67aadc9f3a027d7b5f",
+      "size": 327706
+    },
+    "data/geojson.day/moana-2-day-00142.geojson.gz": {
+      "sha256": "a5c8f227506b9402c786426656863bcdf9e3624b25012b1e6feebcfbc2f0aaef",
+      "size": 296630
+    },
+    "data/geojson.day/moana-2-day-00143.geojson.gz": {
+      "sha256": "7be8a1fb9b6e75a6469e731e586168cbb8ff6c83e0ad309aaad6094678c3caea",
+      "size": 296006
+    },
+    "data/geojson.day/moana-2-day-00144.geojson.gz": {
+      "sha256": "5d0eb22da1f7ddc3618bc138906c640498284ef38ae179cb34a2292fa1f67b23",
+      "size": 294948
+    },
+    "data/geojson.day/moana-2-day-00145.geojson.gz": {
+      "sha256": "983824f4959b8d0d4d5a8778be265c7c47f1dd257c31cd17ae851adc0519aa98",
+      "size": 285990
+    },
+    "data/geojson.day/moana-2-day-00146.geojson.gz": {
+      "sha256": "14bb771b327e8f70c43d8eed10249cf303a96a153df5ae5a75815860f95260e9",
+      "size": 281027
+    },
+    "data/geojson.day/moana-2-day-00147.geojson.gz": {
+      "sha256": "f0d04bbdc4980fafc9213fac537d8d84aee0edc0277b875b005e19623e30994f",
+      "size": 307040
+    },
+    "data/geojson.day/moana-2-day-00148.geojson.gz": {
+      "sha256": "4f21e3c49ebcb7622aa0e9455845fb55d4b252f6519a7ec264dc4053ebb6abcd",
+      "size": 304426
+    },
+    "data/geojson.day/moana-2-day-00149.geojson.gz": {
+      "sha256": "d574bdfd540802d3ff7b4af908b0a42a23b651af933dde81da75f60b3ff4899a",
+      "size": 308653
+    },
+    "data/geojson.day/moana-2-day-00150.geojson.gz": {
+      "sha256": "a1d7167e16932032ced2e960b2ccbfb71c374dd8fe8de0d828b1ad95834c270d",
+      "size": 300746
+    },
+    "data/geojson.day/moana-2-day-00151.geojson.gz": {
+      "sha256": "7ba99fce4652b10807851ca6b76f9d3d904904334081d1cdeae915d6b5c17a81",
+      "size": 314443
+    },
+    "data/geojson.day/moana-2-day-00152.geojson.gz": {
+      "sha256": "1f928634087b7ef2427622423b2b99798179e405e823593b2ac5fdb70f6f827d",
+      "size": 301605
+    },
+    "data/geojson.day/moana-2-day-00153.geojson.gz": {
+      "sha256": "14e66301799bc781e59e202d67439deead7be2e049c430757076fe29709b1dbe",
+      "size": 285521
+    },
+    "data/geojson.day/moana-2-day-00154.geojson.gz": {
+      "sha256": "5a2ac75375cdb1401da2ce5264815956686e9282a2a264799204892573beceac",
+      "size": 312411
+    },
+    "data/geojson.day/moana-2-day-00155.geojson.gz": {
+      "sha256": "daa10991be9ba521889b86dfb1ed09845b62b037342757ac2175a5af4a0f9201",
+      "size": 306161
+    },
+    "data/geojson.day/moana-2-day-00156.geojson.gz": {
+      "sha256": "253f10ff35516676344ad875375e2d9428470f32c3174da57d090ba59a4daf7f",
+      "size": 285646
+    },
+    "data/geojson.day/moana-2-day-00157.geojson.gz": {
+      "sha256": "04604eeae8db919d860eb3af744ac008601864d65774da129a2d1982ed49d857",
+      "size": 304015
+    },
+    "data/geojson.day/moana-2-day-00158.geojson.gz": {
+      "sha256": "7da10b4e8037b381a5c9df64e23ecb1de9a2e1c7ed776fd9e43a6813cf230889",
+      "size": 341540
+    },
+    "data/geojson.day/moana-2-day-00159.geojson.gz": {
+      "sha256": "a5b63dd6426e9ef6f5c890a914940a6bd00dd21d68a3d253a55462bb7679e11b",
+      "size": 298694
+    },
+    "data/geojson.day/moana-2-day-00160.geojson.gz": {
+      "sha256": "99840bd878c29d8f8c7125cdee69b0b3677301b35b27b9830176612ee350b298",
+      "size": 300239
+    },
+    "data/geojson.day/moana-2-day-00161.geojson.gz": {
+      "sha256": "de97c4dbf2d2f53c10af62a5aec43e8214160c74e0c09ddf4a19237c9641de4e",
+      "size": 308077
+    },
+    "data/geojson.day/moana-2-day-00162.geojson.gz": {
+      "sha256": "2b7e0669834e2f52b6adf77551ae2794df6983486f57ad38c2722790e70590b3",
+      "size": 301829
+    },
+    "data/geojson.day/moana-2-day-00163.geojson.gz": {
+      "sha256": "294270bb702079306fa7645115cc9d61fa92eb639c6377675cbfeb7fe7b7a265",
+      "size": 310318
+    },
+    "data/geojson.day/moana-2-day-00164.geojson.gz": {
+      "sha256": "57f09ae53ceaeae88850bdeb1f2382a451445a2f674dc11314b88ce4142be39b",
+      "size": 323160
+    },
+    "data/geojson.day/moana-2-day-00165.geojson.gz": {
+      "sha256": "3e0582e0eaa823a76d983b4ebf627ab2720fe089f6db0a33ff57f6217ecede75",
+      "size": 311002
+    },
+    "data/geojson.day/moana-2-day-00166.geojson.gz": {
+      "sha256": "860cf5f1a6bcc86432ba9f9236995736819c4536bc60b7e3541c82c0cd4a25e5",
+      "size": 300703
+    },
+    "data/geojson.day/moana-2-day-00167.geojson.gz": {
+      "sha256": "ee75706070087440bddb22bda108713fa25d1e79e98b05338fe57f92f9f74f15",
+      "size": 297075
+    },
+    "data/geojson.day/moana-2-day-00168.geojson.gz": {
+      "sha256": "0de330fe73cec59a861ddcef92cb7acabe35cc2ce1b704e4c99492324c6fb45b",
+      "size": 294100
+    },
+    "data/geojson.day/moana-2-day-00169.geojson.gz": {
+      "sha256": "224c539c47ef02613a8b37df296a1ea792b73e3b3a279ebb869186f5e84dc112",
+      "size": 260184
+    },
+    "data/geojson.day/moana-2-day-00170.geojson.gz": {
+      "sha256": "b5089c14aedd10b6026caf99ac90af845be286fb5de558ca31f035f99a9fc279",
+      "size": 274630
+    },
+    "data/geojson.day/moana-2-day-00171.geojson.gz": {
+      "sha256": "bbdc2f314fa069d8fe261a47fdbdd4ea93a77abb50044a3fdef7a370dbdeb7bc",
+      "size": 272041
+    },
+    "data/geojson.day/moana-2-day-00172.geojson.gz": {
+      "sha256": "7368ab3f64520f20eab603e71c3f9eaad7fbca0adec3f7b5fda81831e3d90d6e",
+      "size": 294396
+    },
+    "data/geojson.day/moana-2-day-00173.geojson.gz": {
+      "sha256": "9af0a564e5de7f147c602ec169c44108c035b9bb0d16c38a89cceb2c6ea25268",
+      "size": 255105
+    },
+    "data/geojson.day/moana-2-day-00174.geojson.gz": {
+      "sha256": "3fb8a7d43771439acbfc9e6ccbd353563e36e606c16d4ce711439cfc28689e5b",
+      "size": 269271
+    },
+    "data/geojson.day/moana-2-day-00175.geojson.gz": {
+      "sha256": "441d8f34f7d234ebed8bbe183f1033d4329b8f2f19eed62855aa5a50fc9c16e5",
+      "size": 318165
+    },
+    "data/geojson.day/moana-2-day-00176.geojson.gz": {
+      "sha256": "00a89ccd8f6b3638676b0b21f32c4769ed3ba3061464ffc1a97d35c6726600e2",
+      "size": 266801
+    },
+    "data/geojson.day/moana-2-day-00177.geojson.gz": {
+      "sha256": "b0b3e4bba05655c9f2ce43fa76a153fbaf98e3af5e752023228ef8b40afde162",
+      "size": 284060
+    },
+    "data/geojson.day/moana-2-day-00178.geojson.gz": {
+      "sha256": "1b4263332467e5ade8413886789970f104ccba43870a4b517ee56bdd02690b09",
+      "size": 291274
+    },
+    "data/geojson.day/moana-2-day-00179.geojson.gz": {
+      "sha256": "993ed22f450d3b0098b18956d53767d7ffc277db530399df3de3c7dbfb5c195f",
+      "size": 267458
+    },
+    "data/geojson.day/moana-2-day-00180.geojson.gz": {
+      "sha256": "9f5d7f910747bdd864b937af9ad7ce1dcd1af6ec4f3a014a0e3885f99c096c86",
+      "size": 259135
+    },
+    "data/geojson.day/moana-2-day-00181.geojson.gz": {
+      "sha256": "6f0dedcf5b956f7e7ad53de92c2d8c1b7ffdb2f646498e6c6e6a41b419a532ea",
+      "size": 291709
+    },
+    "data/geojson.day/moana-2-day-00182.geojson.gz": {
+      "sha256": "b387628123edb7da09d06051b19260b925ff0e8a4af6dcf12cb425c34367bc45",
+      "size": 336399
+    },
+    "data/json/moana-2-swarm-day-00001-2025-01-28.json": {
+      "sha256": "1f74fd55efcf1cd6df6007652035fa9215680ed623abc8fc97fbe323937ee6e2",
+      "size": 429
+    },
+    "data/json/moana-2-swarm-day-00002-2025-01-29.json": {
+      "sha256": "0cfc43c87b14dc9cccd9601d2ba5045fd70910c33a27c2064b2a633338d21cc3",
+      "size": 431
+    },
+    "data/json/moana-2-swarm-day-00003-2025-01-30.json": {
+      "sha256": "8aa56819ba84be48712190013fece6824ee4741f3fc8c2d6d9937736e1fd5ac9",
+      "size": 431
+    },
+    "data/json/moana-2-swarm-day-00004-2025-01-31.json": {
+      "sha256": "eaaa8db79475940cff24bd12a3c411991938f3182cd3e87bfea2d86219371e6d",
+      "size": 431
+    },
+    "data/json/moana-2-swarm-day-00005-2025-02-01.json": {
+      "sha256": "f2076ca637aab97b69376f9fc3ff676e7c6869c02034b88847ca39a62e56a141",
+      "size": 431
+    },
+    "data/json/moana-2-swarm-day-00006-2025-02-02.json": {
+      "sha256": "9c0c1276e7c211168a215b66dd6b4501960cda8e7a1a339498bdf954ef52f396",
+      "size": 431
+    },
+    "data/json/moana-2-swarm-day-00007-2025-02-03.json": {
+      "sha256": "d8cf5ceae178b54d0046853ab314e0ca9dbde6ab447832e84fd3e2e7b7c7c30f",
+      "size": 431
+    },
+    "data/json/moana-2-swarm-day-00008-2025-02-04.json": {
+      "sha256": "0960dd5a7a792299d7bf708b3ed04588e6dd3fdfc2fdcdca9ebb17597ad01ca4",
+      "size": 431
+    },
+    "data/json/moana-2-swarm-day-00009-2025-02-05.json": {
+      "sha256": "b8bb576825c76e76b9b6cd93ad7623af9175184034734dd1f590f35b0bf83eeb",
+      "size": 431
+    },
+    "data/json/moana-2-swarm-day-00010-2025-02-06.json": {
+      "sha256": "86e2d9068cb10c88624087595a2479560fbeb5f452b061c31ec6c39824082a4f",
+      "size": 432
+    },
+    "data/json/moana-2-swarm-day-00011-2025-02-07.json": {
+      "sha256": "7e9fac24347c427dee9d862f1b72e9c8da0dfdb2bd4f251fe2c399b8af3b6ead",
+      "size": 432
+    },
+    "data/json/moana-2-swarm-day-00012-2025-02-08.json": {
+      "sha256": "a3875b719ba1c6d319ccac60472dd34fd54300b28cacf937482f42e4aa344deb",
+      "size": 432
+    },
+    "data/json/moana-2-swarm-day-00013-2025-02-09.json": {
+      "sha256": "b06b06a4bbe84a860db7c5e302d6b21ac7cdce2957d7e105907bb8744eb89ac6",
+      "size": 432
+    },
+    "data/json/moana-2-swarm-day-00014-2025-02-10.json": {
+      "sha256": "8a9b2fe3cd59a72a2d301f658391a37e5741f1cb919e1bcac0ffc6c56001747c",
+      "size": 432
+    },
+    "data/json/moana-2-swarm-day-00015-2025-02-11.json": {
+      "sha256": "dbebe189b4f178bba090b6c45513eb73e3ead9e4a36c660edf11d95d47126b8c",
+      "size": 432
+    },
+    "data/json/moana-2-swarm-day-00016-2025-02-12.json": {
+      "sha256": "1b5a2a90f9cb8985a64fdf14bce6fd4a82932d76ca1a06c9b4cd54a8de7386b4",
+      "size": 432
+    },
+    "data/json/moana-2-swarm-day-00017-2025-02-13.json": {
+      "sha256": "de54fa41fbf74356d9504ec0631c586e6beeb8fa0521c1726f23433f557a3e2d",
+      "size": 432
+    },
+    "data/json/moana-2-swarm-day-00018-2025-02-14.json": {
+      "sha256": "d8ca36941cedfa507ccaca06a0dc797e4a6289465e2655957d4cbec340a903f8",
+      "size": 432
+    },
+    "data/json/moana-2-swarm-day-00019-2025-02-15.json": {
+      "sha256": "51290ac29ed8bdd863d4c921a3f7a8fa5a6de78eadc25d46c98543629326895e",
+      "size": 432
+    },
+    "data/json/moana-2-swarm-day-00020-2025-02-16.json": {
+      "sha256": "e5a3f2522d2837a454ab7659b14d68a54370b0d39eb5e0d372f252d935a69b5c",
+      "size": 432
+    },
+    "data/json/moana-2-swarm-day-00021-2025-02-17.json": {
+      "sha256": "f63d84a1c1d5c588d8bc0d0f30b4f775349529f40dfc9fc9f58b0b885dfa3d2b",
+      "size": 432
+    },
+    "data/json/moana-2-swarm-day-00022-2025-02-18.json": {
+      "sha256": "2a89f00464cb510e78ae4858c0179d9b4ea743c2445be90fe9c05bffecebe318",
+      "size": 432
+    },
+    "data/json/moana-2-swarm-day-00023-2025-02-19.json": {
+      "sha256": "d7aa4d9775cddd2bb5b4b74c2d3ed26dc4101ced1e47c97cf5c319d37c58b455",
+      "size": 432
+    },
+    "data/json/moana-2-swarm-day-00024-2025-02-20.json": {
+      "sha256": "aaf1b49165223df6a779ee204222e101d4c624487fe2c4a441c4fbcead363eff",
+      "size": 432
+    },
+    "data/json/moana-2-swarm-day-00025-2025-02-21.json": {
+      "sha256": "9f803a32f2d6314bd7c836dc01a0833bbd17b1efe7fedd53247d934a81c26b67",
+      "size": 432
+    },
+    "data/json/moana-2-swarm-day-00026-2025-02-22.json": {
+      "sha256": "fd923eb439a1410836d45065a99c5f6bc74a3afb053232ebd179ef6d5379b8f8",
+      "size": 432
+    },
+    "data/json/moana-2-swarm-day-00027-2025-02-23.json": {
+      "sha256": "084d526d18978ab2a9bb34016977feb35ffd53008423c605f1fa2d8c206658b7",
+      "size": 432
+    },
+    "data/json/moana-2-swarm-day-00028-2025-02-24.json": {
+      "sha256": "5d1c16ffbf4c0b08ba875cd738c4d513d1ee836e797427766c5aa2f36cf0fbcc",
+      "size": 431
+    },
+    "data/json/moana-2-swarm-day-00029-2025-02-25.json": {
+      "sha256": "867714db3526728762bc52e30a93ed3c00e64a1f3c077647dbceec859a210f00",
+      "size": 431
+    },
+    "data/json/moana-2-swarm-day-00030-2025-02-26.json": {
+      "sha256": "4cd645c78d4bf907a5d6e315c6a0dda5bd189c8514bdc97425f001444761c8e7",
+      "size": 431
+    },
+    "data/json/moana-2-swarm-day-00031-2025-02-27.json": {
+      "sha256": "24c7585ffcc400711eab4de55ecf8f9a0a11af5f6571b33e319c24fe622903cc",
+      "size": 431
+    },
+    "data/json/moana-2-swarm-day-00032-2025-02-28.json": {
+      "sha256": "820d7b3256da9079ac448187d3ca7971492561959d860c328057fdac29a78e20",
+      "size": 431
+    },
+    "data/json/moana-2-swarm-day-00033-2025-03-01.json": {
+      "sha256": "063d59b949adb13c016604421c9b8675a5b8d737e05342502d382d971e8082e7",
+      "size": 431
+    },
+    "data/json/moana-2-swarm-day-00034-2025-03-02.json": {
+      "sha256": "5cf02fb452f9a46a267f51d55a0bc44f4a21172ca83f17d1a968542ac6b4ee57",
+      "size": 431
+    },
+    "data/json/moana-2-swarm-day-00035-2025-03-03.json": {
+      "sha256": "24f15dbccbc6e0b29728463e4b10416383fa10407604af4a9d5c343c8d34ae66",
+      "size": 431
+    },
+    "data/json/moana-2-swarm-day-00036-2025-03-04.json": {
+      "sha256": "d40f157dab64678ccb3e4069a45187f90ee641cf11362613e656f13734aa7db2",
+      "size": 431
+    },
+    "data/json/moana-2-swarm-day-00037-2025-03-05.json": {
+      "sha256": "18f5ddbcb5d9aa33f599cbbd0a2a10693b480eb1db9544a30437d00f1e4beb7f",
+      "size": 431
+    },
+    "data/json/moana-2-swarm-day-00038-2025-03-06.json": {
+      "sha256": "2e5903e5eb83d756fd76b2c6a93574f4cdffd1968eed8394225bda7a084f4c3b",
+      "size": 431
+    },
+    "data/json/moana-2-swarm-day-00039-2025-03-07.json": {
+      "sha256": "535c6bbe43d06fd56814bbae36d0a055eac34bf6da9838ffb6157fa68bd5a0e1",
+      "size": 431
+    },
+    "data/json/moana-2-swarm-day-00040-2025-03-08.json": {
+      "sha256": "09fe4256788deec49e72b9de8b319c4aae795b7cba11239f9c17ea8288113586",
+      "size": 431
+    },
+    "data/json/moana-2-swarm-day-00041-2025-03-09.json": {
+      "sha256": "6652ca7c1e3304fa45b439c7fedc043c511a10b58837f89e49588f0583f13009",
+      "size": 431
+    },
+    "data/json/moana-2-swarm-day-00042-2025-03-10.json": {
+      "sha256": "ebb1797e05cdca6ef4caf61041d0f78ae0ba8feeb3eb273863b0f1860d26a9bd",
+      "size": 431
+    },
+    "data/json/moana-2-swarm-day-00043-2025-03-11.json": {
+      "sha256": "20b914881ebbfcec835ebc64c8c611be7492b66656a3b782751625b02903ce26",
+      "size": 431
+    },
+    "data/json/moana-2-swarm-day-00044-2025-03-12.json": {
+      "sha256": "da3140c8b836550955b02b3d55b4c40774c2ce563512971e50ded45f8690ee78",
+      "size": 431
+    },
+    "data/json/moana-2-swarm-day-00045-2025-03-13.json": {
+      "sha256": "08aa2be8bdf4c0fa2e3248b725da4827026ad3ee5136ab7ba036383145668ad8",
+      "size": 431
+    },
+    "data/json/moana-2-swarm-day-00046-2025-03-14.json": {
+      "sha256": "fca39882a1d275b283aa59fd9564fe0e6abaa3029805fb7266a02b6e39f000b0",
+      "size": 431
+    },
+    "data/json/moana-2-swarm-day-00047-2025-03-15.json": {
+      "sha256": "541680e7859cbe68a13d6ea72d3f469ae6bbaa0a10be1a3d7c976b6d4cd82f4a",
+      "size": 431
+    },
+    "data/json/moana-2-swarm-day-00048-2025-03-16.json": {
+      "sha256": "c71d8c3dc272765e08af9092b5a13ba6fe0182d5c9c5139c623eb81f4a7339dd",
+      "size": 431
+    },
+    "data/json/moana-2-swarm-day-00049-2025-03-17.json": {
+      "sha256": "ab1ac809f812cd6ecfe9cd251716105bf747f76794c728fbda2eaa18778b27ad",
+      "size": 431
+    },
+    "data/json/moana-2-swarm-day-00050-2025-03-18.json": {
+      "sha256": "92a35a0826e668cc3dc9ecb7a228588a86993fed7f54de0e88a43f72ee983188",
+      "size": 431
+    },
+    "data/json/moana-2-swarm-day-00051-2025-03-19.json": {
+      "sha256": "7817a4f7f092e5b82855eb95d13e0f9beec57d37bf374ffe23d9698309f4e8ae",
+      "size": 431
+    },
+    "data/json/moana-2-swarm-day-00052-2025-03-20.json": {
+      "sha256": "f2d5aa4b0c639484b52037ae2aec933daf580920c46063961333537eec5ef6e2",
+      "size": 431
+    },
+    "data/json/moana-2-swarm-day-00053-2025-03-21.json": {
+      "sha256": "768a6248eaa5a02b7716b7a5ca2afdeb2201f646a114117df8f429c613accabc",
+      "size": 431
+    },
+    "data/json/moana-2-swarm-day-00054-2025-03-22.json": {
+      "sha256": "eced1eedf2d5de7be2afa7b2d94463f426c1d4688fc5cd8960d25626cf227c9c",
+      "size": 431
+    },
+    "data/json/moana-2-swarm-day-00055-2025-03-23.json": {
+      "sha256": "90dd68ff8089236bb56850a171b078d823febbeffe2497235287879606141346",
+      "size": 431
+    },
+    "data/json/moana-2-swarm-day-00056-2025-03-24.json": {
+      "sha256": "533f64c572b6074947fb95b892720adc4103edd00f8b110cbd969c8ca936b846",
+      "size": 431
+    },
+    "data/json/moana-2-swarm-day-00057-2025-03-25.json": {
+      "sha256": "9d93d9dc3ade9ccac8c8c87f0026c9ee72242c4750878782a6245dbbe9645496",
+      "size": 431
+    },
+    "data/json/moana-2-swarm-day-00058-2025-03-26.json": {
+      "sha256": "5c91b7bd790863a894a2fbad0fca8af3a3ca6b36f30907d6d866299b4c0ed0a7",
+      "size": 431
+    },
+    "data/json/moana-2-swarm-day-00059-2025-03-27.json": {
+      "sha256": "f7612b835de2dc2c65ecd58b661d354283abea97325be43722dfc0f3a43727ca",
+      "size": 431
+    },
+    "data/json/moana-2-swarm-day-00060-2025-03-28.json": {
+      "sha256": "70321cc1cd2a8ef0dc8f2d9ad726ab4dc2da635169a5e2168f86c5521f265191",
+      "size": 431
+    },
+    "data/json/moana-2-swarm-day-00061-2025-03-29.json": {
+      "sha256": "10409d857875e6ad911c1d0f3135fe549eb7653ace7b48d3c143d106634c190d",
+      "size": 431
+    },
+    "data/json/moana-2-swarm-day-00062-2025-03-30.json": {
+      "sha256": "b3d8b91ddc0a5b2969e416cada1a2fb0906b13cf28c7e4aba458f0b5ac4a50ff",
+      "size": 431
+    },
+    "data/json/moana-2-swarm-day-00063-2025-03-31.json": {
+      "sha256": "8ac49a750638937f49d7d2476f6f2e304df8ca940693841055d6246649c1e337",
+      "size": 431
+    },
+    "data/json/moana-2-swarm-day-00064-2025-04-01.json": {
+      "sha256": "f83e2f40cd67c190739c9ba1c3aa648c72c0b388916040206577650c84c63b57",
+      "size": 431
+    },
+    "data/json/moana-2-swarm-day-00065-2025-04-02.json": {
+      "sha256": "a98e439a17f93dcad4a5bdc4b55ebaa40d73e17122b538c22c9918f6407c434a",
+      "size": 431
+    },
+    "data/json/moana-2-swarm-day-00066-2025-04-03.json": {
+      "sha256": "a7ca741be360183988d5a13c60eaea89b3f43b488a8e45d0b0f16a0daed512c1",
+      "size": 431
+    },
+    "data/json/moana-2-swarm-day-00067-2025-04-04.json": {
+      "sha256": "b798d47fdc73ee7b84231bd813baa764052f42043338c74af2d9da37437f20d6",
+      "size": 431
+    },
+    "data/json/moana-2-swarm-day-00068-2025-04-05.json": {
+      "sha256": "2ac61428e5e45dd906f7cf1f201f7d832319277da497ff2db911125d490f314a",
+      "size": 431
+    },
+    "data/json/moana-2-swarm-day-00069-2025-04-06.json": {
+      "sha256": "bddeb33b04d337e050eed252818f016746bf57edba0f9155e513b03f7ce0ef49",
+      "size": 431
+    },
+    "data/json/moana-2-swarm-day-00070-2025-04-07.json": {
+      "sha256": "ff6b6eee301e59e0e89ce1fe622b98cec0b51ace8db715270014be142fff63c8",
+      "size": 431
+    },
+    "data/json/moana-2-swarm-day-00071-2025-04-08.json": {
+      "sha256": "214b837256fde113b6903f99086b5f505a0a0dc93055aecc1d15a8a8aa79c75a",
+      "size": 431
+    },
+    "data/json/moana-2-swarm-day-00072-2025-04-09.json": {
+      "sha256": "4735d0f82b50feefa60ed0dedd9675e3cb2a203e72bcc0f1a1c582a3c442b2b0",
+      "size": 431
+    },
+    "data/json/moana-2-swarm-day-00073-2025-04-10.json": {
+      "sha256": "773d17d82c6fa8dd1ab3c4d2fd8d087cb4911778ef014168c7bbdb8f7c4dce8a",
+      "size": 431
+    },
+    "data/json/moana-2-swarm-day-00074-2025-04-11.json": {
+      "sha256": "2b872d356acab2a762dea2576f46453526d5338ca230b84aa6377bf3e59c3bd3",
+      "size": 431
+    },
+    "data/json/moana-2-swarm-day-00075-2025-04-12.json": {
+      "sha256": "8f11cdb51c972d938ce664fcd63a9ccaf73a708523f9ef5c061414422bd0ae17",
+      "size": 431
+    },
+    "data/json/moana-2-swarm-day-00076-2025-04-13.json": {
+      "sha256": "b8cd36c87dcfead41263d423ee932aa59e8da58f5af9a6492829a6c361504d5a",
+      "size": 431
+    },
+    "data/json/moana-2-swarm-day-00077-2025-04-14.json": {
+      "sha256": "5ecf1562766bf0be2ce97d046a769a8eb63ea57b91f8e493cdb7dcc4e6cf41f0",
+      "size": 431
+    },
+    "data/json/moana-2-swarm-day-00078-2025-04-15.json": {
+      "sha256": "2425e3db72a44b2be16157e6328ac7cc013a4cedf000bccf3bf98c96885aed23",
+      "size": 431
+    },
+    "data/json/moana-2-swarm-day-00079-2025-04-16.json": {
+      "sha256": "59d313d554344211dd807f7c46dac32046bd5b67940001f3492af20c11537f22",
+      "size": 431
+    },
+    "data/json/moana-2-swarm-day-00080-2025-04-17.json": {
+      "sha256": "7de64bcfd1a4aa9956b145c8afb0c0371b8aec809e7d1a8cb7dd8df6ce79668b",
+      "size": 431
+    },
+    "data/json/moana-2-swarm-day-00081-2025-04-18.json": {
+      "sha256": "5fa2cd180f19b057c0ea1e78d6be80044e26c7aed460ed7abb0657d8832dedf5",
+      "size": 431
+    },
+    "data/json/moana-2-swarm-day-00082-2025-04-19.json": {
+      "sha256": "9b0e4bacef67bfa341409a76d39663f92862f4ee755eab2d1dfe11c19d816707",
+      "size": 431
+    },
+    "data/json/moana-2-swarm-day-00083-2025-04-20.json": {
+      "sha256": "4801ed5b2d935086cd0d7427c904fa5dc31a3b6dbc720fbfe8be38c3849cf8eb",
+      "size": 431
+    },
+    "data/json/moana-2-swarm-day-00084-2025-04-21.json": {
+      "sha256": "dd6095b7e8caf711904bbcafc38da9cf8039dcbed494deb6f7621f0d2b5e7e71",
+      "size": 431
+    },
+    "data/json/moana-2-swarm-day-00085-2025-04-22.json": {
+      "sha256": "0e25dcc56f0668fe3987de3b033b5ca7f68dad7cf104bbbac7c07ca4a68cdf08",
+      "size": 431
+    },
+    "data/json/moana-2-swarm-day-00086-2025-04-23.json": {
+      "sha256": "c3c21dde9493a0415161df819269a4d1841972d4d980713c42d3d68963c2bc63",
+      "size": 431
+    },
+    "data/json/moana-2-swarm-day-00087-2025-04-24.json": {
+      "sha256": "619b16e65826c13e85b14d45263dd44bdbe0fecf45e3a886cfdf86b0c2eb39d7",
+      "size": 431
+    },
+    "data/json/moana-2-swarm-day-00088-2025-04-25.json": {
+      "sha256": "96210712a497c7b965fd3579968d232799bea2c68420b84f0f98ca1f8c291f92",
+      "size": 431
+    },
+    "data/json/moana-2-swarm-day-00089-2025-04-26.json": {
+      "sha256": "e56263100cdfe7acf089e6aadab31512df08c88ea2b0d5e79a4bbc653823cf21",
+      "size": 431
+    },
+    "data/json/moana-2-swarm-day-00090-2025-04-27.json": {
+      "sha256": "b40aea2e654c83e9ed9040bd36c624b5ca5779aaec817e35b5fbd01025f54f56",
+      "size": 431
+    },
+    "data/json/moana-2-swarm-day-00091-2025-04-28.json": {
+      "sha256": "35cdefbeca67d0b51863513a33d2b5e5210a33fd5d9131f19fcc45ef2f925443",
+      "size": 431
+    },
+    "data/json/moana-2-swarm-day-00092-2025-04-29.json": {
+      "sha256": "5a0e70ff467632f14f1cbdc9fb5322ec456973580226739fa299ce6e0d6813ff",
+      "size": 431
+    },
+    "data/json/moana-2-swarm-day-00093-2025-04-30.json": {
+      "sha256": "c013f487ae29cdaab849b21725f95525f32749f7cf0e4529d8f39f2a0ed24de4",
+      "size": 431
+    },
+    "data/json/moana-2-swarm-day-00094-2025-05-01.json": {
+      "sha256": "514ed44a6d3f283bae2a017835d08521175bc4210150ca3098d3b555cf5574a1",
+      "size": 431
+    },
+    "data/json/moana-2-swarm-day-00095-2025-05-02.json": {
+      "sha256": "7e059cd8b484c5d07ebf14f19c3b69411ba1e9c96b3e51d9b13bd3c24081724b",
+      "size": 431
+    },
+    "data/json/moana-2-swarm-day-00096-2025-05-03.json": {
+      "sha256": "6def651129208823dde9dea0f75880a79e4bb816cd38e395105b84f4d17acfec",
+      "size": 431
+    },
+    "data/json/moana-2-swarm-day-00097-2025-05-04.json": {
+      "sha256": "2b49f71d462ab74600d2410bb7e1617b979fb5e135bc828094451f8a4ce03b81",
+      "size": 431
+    },
+    "data/json/moana-2-swarm-day-00098-2025-05-05.json": {
+      "sha256": "43254dcb17ba91e545456f7cc7b8195fa16c916f084f540310574d1b005c6568",
+      "size": 431
+    },
+    "data/json/moana-2-swarm-day-00099-2025-05-06.json": {
+      "sha256": "3e142439dec6dee1979b9a6c31f433959ec54809da2e7367324aeac6bf6ef2f7",
+      "size": 431
+    },
+    "data/json/moana-2-swarm-day-00100-2025-05-07.json": {
+      "sha256": "1ce06009e55e61e021862a6acd5ca721c72ef52f7872ec0cebb8da7d183a14e1",
+      "size": 432
+    },
+    "data/json/moana-2-swarm-day-00101-2025-05-08.json": {
+      "sha256": "8204355bb75486739d4a175d1cad23b814cad06acc079eb40986346befc95d0b",
+      "size": 432
+    },
+    "data/json/moana-2-swarm-day-00102-2025-05-09.json": {
+      "sha256": "2995fc5f6182a2e4d642ece356cf47190ff691bfa186cf547fff7af6607effc5",
+      "size": 432
+    },
+    "data/json/moana-2-swarm-day-00103-2025-05-10.json": {
+      "sha256": "c9e82dfcca1ad021dd8302e046211130f0684751d9a7373374cf10675da0dfbd",
+      "size": 432
+    },
+    "data/json/moana-2-swarm-day-00104-2025-05-11.json": {
+      "sha256": "8167fa16b8a2854ec90ab30702ae9977365a2a03c7a1cebaddced8d38c7d07cf",
+      "size": 432
+    },
+    "data/json/moana-2-swarm-day-00105-2025-05-12.json": {
+      "sha256": "9c922eadda5d4a658fc6497f6c1d1db9b6a3d97af4978953a4287ea1f9e53958",
+      "size": 432
+    },
+    "data/json/moana-2-swarm-day-00106-2025-05-13.json": {
+      "sha256": "007460f4f6a970d5b6f3eeeb4aabf8aef9a8b8655d727506c60e35c4218139e1",
+      "size": 432
+    },
+    "data/json/moana-2-swarm-day-00107-2025-05-14.json": {
+      "sha256": "e2a2a06f388717673c383d2bd6a08b2b009c27a2da06aed62e4e0d9f5b45d829",
+      "size": 432
+    },
+    "data/json/moana-2-swarm-day-00108-2025-05-15.json": {
+      "sha256": "2cdfbdc1ec68465275177b60b03408d09b7a740b64f086bc6a7706d7188b493d",
+      "size": 432
+    },
+    "data/json/moana-2-swarm-day-00109-2025-05-16.json": {
+      "sha256": "7ed29543295808a150ee0d2571e85186bafb1f227f1bfe4c37f68b6e940062dd",
+      "size": 432
+    },
+    "data/json/moana-2-swarm-day-00110-2025-05-17.json": {
+      "sha256": "29621f39dea0f114e67fee7ec2532643f12f7be57ca2206004e6e7f5d067b5f9",
+      "size": 432
+    },
+    "data/json/moana-2-swarm-day-00111-2025-05-18.json": {
+      "sha256": "22f07255283addef9486c8e5cbaa33641b345e3abf5e6b0672721b470423c50e",
+      "size": 432
+    },
+    "data/json/moana-2-swarm-day-00112-2025-05-19.json": {
+      "sha256": "57ba5567cf3e5038679230bab6d8d2bff019c7b1d849661f9746dc0aaf281900",
+      "size": 433
+    },
+    "data/json/moana-2-swarm-day-00113-2025-05-20.json": {
+      "sha256": "40236cc1074d0a82e19aa8ea9484d42edca0839e8da6b785d5d96cf7e2df5a54",
+      "size": 432
+    },
+    "data/json/moana-2-swarm-day-00114-2025-05-21.json": {
+      "sha256": "576f56e2fa3f46ef1596237342465ab73b0ec72de33b78d2b0ea7e582ddf1dbf",
+      "size": 432
+    },
+    "data/json/moana-2-swarm-day-00115-2025-05-22.json": {
+      "sha256": "61dad2665285781c156762dd0ca4229624a7c94d62b4cbf6aac0abd5c57feb87",
+      "size": 432
+    },
+    "data/json/moana-2-swarm-day-00116-2025-05-23.json": {
+      "sha256": "5a50af56cd6469f09e0f5dc275a89a040555b5aaff9eb09b6fe7efbb8136327b",
+      "size": 432
+    },
+    "data/json/moana-2-swarm-day-00117-2025-05-24.json": {
+      "sha256": "d7bc09a74ce07e3e1b6130b3146481a1d0c958b8a497c4e9f94682b92d79133e",
+      "size": 432
+    },
+    "data/json/moana-2-swarm-day-00118-2025-05-25.json": {
+      "sha256": "10934683d12a1d002e076c76d09ee672486f748520770f41c77d24ae76e3cd5a",
+      "size": 432
+    },
+    "data/json/moana-2-swarm-day-00119-2025-05-26.json": {
+      "sha256": "f42d25d8cbb14c8f514a5c1e274cb29c19724101bd414fdd3f98318f4f77bf0d",
+      "size": 432
+    },
+    "data/json/moana-2-swarm-day-00120-2025-05-27.json": {
+      "sha256": "61729308d7a59954c98c5fcb68baef1aba0287bf7e5b066c3d8e4f755f6736c0",
+      "size": 432
+    },
+    "data/json/moana-2-swarm-day-00121-2025-05-28.json": {
+      "sha256": "e32989c6bb20bf5881b05a5745c0d4114173df27dcd5628419e0c197506d49c9",
+      "size": 432
+    },
+    "data/json/moana-2-swarm-day-00122-2025-05-29.json": {
+      "sha256": "46c5bc1688721d516c214bb2eeddde0fcbde4a4e7dbc5344a04cb2110a86f839",
+      "size": 432
+    },
+    "data/json/moana-2-swarm-day-00123-2025-05-30.json": {
+      "sha256": "7b07f8be08412b316feeaf4e0d7ed0701a987ce3f795c93fc0983cdfd0924f1d",
+      "size": 432
+    },
+    "data/json/moana-2-swarm-day-00124-2025-05-31.json": {
+      "sha256": "f8fc71c17f775bfcc0e44f1a3f16e72954ed10184d040d36d83481f5c4ae770a",
+      "size": 432
+    },
+    "data/json/moana-2-swarm-day-00125-2025-06-01.json": {
+      "sha256": "6c65a2bf587a07a079097a658c378ba3fdbfafd411e5b0aaa2f6498bd5917503",
+      "size": 432
+    },
+    "data/json/moana-2-swarm-day-00126-2025-06-02.json": {
+      "sha256": "f07fe2c5593805b6d3e6156633348cc07aae8482c8b9fd0f0061c4cd6717818b",
+      "size": 432
+    },
+    "data/json/moana-2-swarm-day-00127-2025-06-03.json": {
+      "sha256": "eb09a786b3fcb176213c592975c3ffb8f071700765291c0d113999b0e4e76d05",
+      "size": 432
+    },
+    "data/json/moana-2-swarm-day-00128-2025-06-04.json": {
+      "sha256": "80705bb1aba84b95e57bb45a3e56c2fec256608f6720b5a713ca82ddd5ba2c59",
+      "size": 432
+    },
+    "data/json/moana-2-swarm-day-00129-2025-06-05.json": {
+      "sha256": "8c7925e5eb6cc9469c7a6008acd9a947a6aaa8a63357b1bcb3bb05d4f402580f",
+      "size": 432
+    },
+    "data/json/moana-2-swarm-day-00130-2025-06-06.json": {
+      "sha256": "e5b2600a3d6e1328c12ba20cf473aac1d444906806f9bf65c9a2dbe83df10a92",
+      "size": 432
+    },
+    "data/json/moana-2-swarm-day-00131-2025-06-07.json": {
+      "sha256": "1cee6e4d53efad6928a0f1f2cc526c0eb447f5937f1e271c0362157668e1591b",
+      "size": 432
+    },
+    "data/json/moana-2-swarm-day-00132-2025-06-08.json": {
+      "sha256": "a9519760f59cfb97cad734ed923157b1458b9c1934dafc70ad8cb895dca94050",
+      "size": 432
+    },
+    "data/json/moana-2-swarm-day-00133-2025-06-09.json": {
+      "sha256": "389f283fae9ae31b510985ff29eb653d44fb7fb03265f1931c739379db9f7140",
+      "size": 432
+    },
+    "data/json/moana-2-swarm-day-00134-2025-06-10.json": {
+      "sha256": "4248e74b72552ee9caa4c4587b71286c6bb10ad7cb1783ac5172ca818ed128f6",
+      "size": 432
+    },
+    "data/json/moana-2-swarm-day-00135-2025-06-11.json": {
+      "sha256": "b67f39f1af133b06595004b3e06086f8e61d74a85c237292996b5eaf00476553",
+      "size": 432
+    },
+    "data/json/moana-2-swarm-day-00136-2025-06-12.json": {
+      "sha256": "879fb9d381ed43f4b68c1c1b0899fee9c17a6cdf5ef430ef8ea5625c44e7a380",
+      "size": 432
+    },
+    "data/json/moana-2-swarm-day-00137-2025-06-13.json": {
+      "sha256": "62d0be9d6474a3bb654f83180332fe605793852e1442c5b9275efc7d28ed1379",
+      "size": 432
+    },
+    "data/json/moana-2-swarm-day-00138-2025-06-14.json": {
+      "sha256": "e6fa11468cd6ba2aca34b61f8602375fa67de3eef70410ebb369d0930fcf0140",
+      "size": 432
+    },
+    "data/json/moana-2-swarm-day-00139-2025-06-15.json": {
+      "sha256": "27ecc906350fb59a8296a40ce589f85d7b824bec354d3af51095d6fd4da10fee",
+      "size": 432
+    },
+    "data/json/moana-2-swarm-day-00140-2025-06-16.json": {
+      "sha256": "624d2a59d94cd8ecab3c9eaef078f2c2af181e211d40028fad193a7548438bfd",
+      "size": 432
+    },
+    "data/json/moana-2-swarm-day-00141-2025-06-17.json": {
+      "sha256": "46fc1a0af6dc7e7a95ed0fad07d7ba05ab00b3fc6147851feadd1ff4922b945f",
+      "size": 432
+    },
+    "data/json/moana-2-swarm-day-00142-2025-06-18.json": {
+      "sha256": "9aeb227533cfdd507bec48d71843176af6a7e27387ac37ce6ae9a19fbef2591c",
+      "size": 432
+    },
+    "data/json/moana-2-swarm-day-00143-2025-06-19.json": {
+      "sha256": "8355dd0583ae9463352269fcd7ffacfd75930410ca8d04ded48b0028104f5eb8",
+      "size": 432
+    },
+    "data/json/moana-2-swarm-day-00144-2025-06-20.json": {
+      "sha256": "1180ae7cb0c1368fc12bc7747db423424c7803ccf39af527910dab7f2421e80f",
+      "size": 432
+    },
+    "data/json/moana-2-swarm-day-00145-2025-06-21.json": {
+      "sha256": "f587a0427af4e6b104ad21393772efcb9608400653ef4f5cbe8d5b8d6709c692",
+      "size": 432
+    },
+    "data/json/moana-2-swarm-day-00146-2025-06-22.json": {
+      "sha256": "54c6277a8f2824d347d8358bedd49aeb065dbd781257d56ffa0b63c46932f235",
+      "size": 432
+    },
+    "data/json/moana-2-swarm-day-00147-2025-06-23.json": {
+      "sha256": "7758f3f0a7ed013172020441fbe3718ee819976ff107c0f7c663efe4d0785599",
+      "size": 432
+    },
+    "data/json/moana-2-swarm-day-00148-2025-06-24.json": {
+      "sha256": "2cdf09adf0a012b19b34bd6286713ef13f42b5970964b83bc30917fc698f70bc",
+      "size": 432
+    },
+    "data/json/moana-2-swarm-day-00149-2025-06-25.json": {
+      "sha256": "cbf62f38ff34d8cf1e6263e4c4eb242f768959105ef162448a1e8cff6409499b",
+      "size": 432
+    },
+    "data/json/moana-2-swarm-day-00150-2025-06-26.json": {
+      "sha256": "f4361f00a0af49f0825c783f5f22b88f118e111873cf0acaa030c4a710f498ab",
+      "size": 432
+    },
+    "data/json/moana-2-swarm-day-00151-2025-06-27.json": {
+      "sha256": "302e1ec687ad16fc9d6395c5442f09e12305493cff74c6c9db608192c9bc9f49",
+      "size": 432
+    },
+    "data/json/moana-2-swarm-day-00152-2025-06-28.json": {
+      "sha256": "943ed2cd8de758144f04be11b5b1cce28cfedb05d3613eb0c967a996ca8b532b",
+      "size": 432
+    },
+    "data/json/moana-2-swarm-day-00153-2025-06-29.json": {
+      "sha256": "5341be8643c4ec48a42dc5ac2345b74b2c60d8bb4d67ae84ee3b88b1d8b69d85",
+      "size": 432
+    },
+    "data/json/moana-2-swarm-day-00154-2025-06-30.json": {
+      "sha256": "4dee06ed084caaa03e8de1c5c391756eb13cf0b62a99748abf74b51509bd08aa",
+      "size": 432
+    },
+    "data/json/moana-2-swarm-day-00155-2025-07-01.json": {
+      "sha256": "a0022553404b2c33d1ee24d83c417c682bae742338c8079b7e8a1627b74025b3",
+      "size": 432
+    },
+    "data/json/moana-2-swarm-day-00156-2025-07-02.json": {
+      "sha256": "f868be5b2e5a156fb6b3131f0995606310ac6e3025657b66c9c7c7c0117b44f7",
+      "size": 432
+    },
+    "data/json/moana-2-swarm-day-00157-2025-07-03.json": {
+      "sha256": "f39abc1e14f7590bf0d9b3c6146dcd29b5b32625a608a5c6fcfef2ecbdf71678",
+      "size": 432
+    },
+    "data/json/moana-2-swarm-day-00158-2025-07-04.json": {
+      "sha256": "40c8895d37306353ef479f84c45b38894a639a6159ee209f20d80b6da4e7d966",
+      "size": 432
+    },
+    "data/json/moana-2-swarm-day-00159-2025-07-05.json": {
+      "sha256": "67b92cdbe05eb96115deb8ed5507d2290d0bf61940c4b74e78f93c0c2627c340",
+      "size": 432
+    },
+    "data/json/moana-2-swarm-day-00160-2025-07-06.json": {
+      "sha256": "5ca1613d5ab79a7a9e5a5d3a455a892bdf378890e9b53d0b5798e9bffa84d14e",
+      "size": 432
+    },
+    "data/json/moana-2-swarm-day-00161-2025-07-07.json": {
+      "sha256": "1f6e21fecfd2401bf4ff2a0de4d78539675ed69dbfb628a184c9eb93110e285f",
+      "size": 432
+    },
+    "data/json/moana-2-swarm-day-00162-2025-07-08.json": {
+      "sha256": "a1b5001bd9b929cc156ce84aca31445d35d1380d70ba909d2b1d30c367b1e160",
+      "size": 432
+    },
+    "data/json/moana-2-swarm-day-00163-2025-07-09.json": {
+      "sha256": "e895170ed647ccd695bb0758938572160c0d50c094b07382d77acb43b01b54fd",
+      "size": 432
+    },
+    "data/json/moana-2-swarm-day-00164-2025-07-10.json": {
+      "sha256": "a18be211c69d15ec3434b7e596b73fbde4ef2481d7c3732a0d946cd51723bd28",
+      "size": 432
+    },
+    "data/json/moana-2-swarm-day-00165-2025-07-11.json": {
+      "sha256": "f181094f8ea9c1aecb0937982df4c3b11e46ab0916d6055cb6002337689bc0b5",
+      "size": 432
+    },
+    "data/json/moana-2-swarm-day-00166-2025-07-12.json": {
+      "sha256": "3a962663cdd79d43723b7a73717337afdce2812a339b8ae5b5f5500c9c87ee12",
+      "size": 432
+    },
+    "data/json/moana-2-swarm-day-00167-2025-07-13.json": {
+      "sha256": "66177005b18d79e4b5a99e7578d2288f9e70e3ecdcfe7cec1bd6decfbc609337",
+      "size": 432
+    },
+    "data/json/moana-2-swarm-day-00168-2025-07-14.json": {
+      "sha256": "81138061b85afe365834f62ef9a846029757aa36dd6b99c5664a3faaacd548b3",
+      "size": 432
+    },
+    "data/json/moana-2-swarm-day-00169-2025-07-15.json": {
+      "sha256": "8fa00ff3344ea270399f7a3231a42390c125ef308bfbf2d832bf44f445b051dd",
+      "size": 432
+    },
+    "data/json/moana-2-swarm-day-00170-2025-07-16.json": {
+      "sha256": "ac7d0f9a316fde1b439cfe3a7349319e93c1f24a6b2599ecb9292fc469181e30",
+      "size": 432
+    },
+    "data/json/moana-2-swarm-day-00171-2025-07-17.json": {
+      "sha256": "c40d283da4754fc4cdd4a1803801fe91ab0ba63fe5b14a55b9e3d72ffcb55d1d",
+      "size": 432
+    },
+    "data/json/moana-2-swarm-day-00172-2025-07-18.json": {
+      "sha256": "d2c82a775cb2527faf8676988e6c77326a5792e81d55d1b12f6d0e0b3c6cafe3",
+      "size": 432
+    },
+    "data/json/moana-2-swarm-day-00173-2025-07-19.json": {
+      "sha256": "f03509add8e7cfb3d7f92bf06a689173ec8a7c562ff8d1f730cf854c3a2cdb89",
+      "size": 432
+    },
+    "data/json/moana-2-swarm-day-00174-2025-07-20.json": {
+      "sha256": "e2758ad83845eb6477658c02972ab017741ea6ed8ae723184047a1815cc44da7",
+      "size": 432
+    },
+    "data/json/moana-2-swarm-day-00175-2025-07-21.json": {
+      "sha256": "596ed4023a83dac5590f150883a270e2d0d779585f3a7b5d5c5741a97b617cb7",
+      "size": 432
+    },
+    "data/json/moana-2-swarm-day-00176-2025-07-22.json": {
+      "sha256": "8d939e704bbb7f601b6e9c0ddb53db165dd555e5cd92c39d0dc1a861197104ee",
+      "size": 432
+    },
+    "data/json/moana-2-swarm-day-00177-2025-07-23.json": {
+      "sha256": "478770ee0140a4d4e7e21d9c9614dfb8216f21bbf25e3bd4e482da79d46ac910",
+      "size": 432
+    },
+    "data/json/moana-2-swarm-day-00178-2025-07-24.json": {
+      "sha256": "de80039bd73a653996c8e4535b7ff8b3678864f1d7b0683d8278d273f2d8334d",
+      "size": 432
+    },
+    "data/json/moana-2-swarm-day-00179-2025-07-25.json": {
+      "sha256": "12e83a82d59b0d2165eb50faa76569d6c47b1beff73f8bd63aa7d793d807ac6d",
+      "size": 432
+    },
+    "data/json/moana-2-swarm-day-00180-2025-07-26.json": {
+      "sha256": "ff6094e1851284ebd2a3c41d4316a599c02c8bd594daea27f7b9ca0bf66f485f",
+      "size": 432
+    },
+    "data/json/moana-2-swarm-day-00181-2025-07-27.json": {
+      "sha256": "7f35ee50f8d932917d6f8b07faff075e62761bd08d0bc1292a6b56c80b7c91cc",
+      "size": 432
+    },
+    "data/json/moana-2-swarm-day-00182-2025-07-28.json": {
+      "sha256": "7aa779cd40c312a9c0e9be3f48f4affea8a83b0d63bd4dece6fb1d2a2d62ed36",
+      "size": 432
+    }
+  },
+  "schema": "alpha60-year-day-product-bundle/1",
+  "source_revisions": {
+    "aggregate_binary": {
+      "sha256": "7408569641f7247fbd00969cffddaf1bb0cf2768c7fc1529f4cc6191ccfeae05",
+      "size": 38582648
+    },
+    "alpha60": "eba8537ed9a6e7a09ae3de163b01460f5ad1ad7e",
+    "alpha60_data": "8faeae67a5d274d1fc00bffe9fc9318329163b20",
+    "day_product_contract": {
+      "sha256": "0aa0bee3ac14b512c786d3496ab5218a46aff11786ffa6aa9ea85e762fbd6370",
+      "size": 9897
+    },
+    "generate_cache_aggregates": {
+      "sha256": "504078e192d9c8182df74e41b98cec08123c5a8b7d0eb7f812d09c1fe5d07010",
+      "size": 17151
+    },
+    "metadata": "fbeb53a0b523f937fae2f23d14689d8c5c84dd5a",
+    "package_script": {
+      "sha256": "516d6ecdccd24b1b66cf80c185219fa47d52af22f672b836773896df621b1666",
+      "size": 14724
+    },
+    "year_day_contract": {
+      "sha256": "f1c07d6f2fdc19475a6f25ddaee5923957447a6f49a8009d8b4c9984a63bd883",
+      "size": 9356
+    }
+  },
+  "status": "pass"
+}
