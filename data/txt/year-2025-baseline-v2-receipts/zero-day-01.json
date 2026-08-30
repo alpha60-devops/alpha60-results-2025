@@ -1,0 +1,258 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt23872886",
+    "imdb_id": "tt23872886",
+    "revision": "fbeb53a0b523f937fae2f23d14689d8c5c84dd5a",
+    "wikidata_id": "Q120142655",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Zero_Day_(American_TV_series)"
+  },
+  "coverage_sha256": "8460b828318ac4fd37061592100e0e32a985d2ec331a8271235d67f955abb162",
+  "generated_at": "2026-08-30T06:57:06.587876+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "aao-checksum-manifest": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/SHA256SUMS",
+      "sha256": "4a4818facd85b709f0321b0a6de31b4a3eff6f108f3b9354c75632926e6baa48",
+      "size": 266728
+    },
+    "aao-release": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/release.json",
+      "sha256": "3ce0984da2d12b0e3697e76c02608bd9d1a955ee3d00e0a7054bdd297b8f18c8",
+      "size": 1342
+    },
+    "aao-verification": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-aao-verification.json",
+      "sha256": "e01294ebce8e54b65e16ab83017fa5585efe6f7a0a0f1a5e0f734e08d8e223fd",
+      "size": 854
+    },
+    "archive-map": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-cache-archive-map.json",
+      "sha256": "8d4d506f23cd80f46baf010bd17509c916083e75eb8b43b052641138c3f308f1",
+      "size": 125170
+    },
+    "btiha-metadata-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/zero-day-01-cumulative-btiha-media-objects.json",
+      "sha256": "2b9b8e298e22ad97cbb1ee40804043cb6414c31151b933ff21214abe277044a7",
+      "size": 572206
+    },
+    "canonical-metadata": {
+      "path": "/home/bkoz/src/alpha60-swarm-metadata/metadata/zero-day-01.json",
+      "sha256": "96848832099d86284ae14a9bcc59612244f60bb284f50c06ce153d965ddfc23e",
+      "size": 12284
+    },
+    "coverage-evidence-source": {
+      "path": "/tmp/year-2025-coverage-overrides/zero-day-01.md",
+      "sha256": "eb24ab7c681831628bba9aed95e327392356e5b0ef5c433944c68a6cb2aef293",
+      "size": 138543
+    },
+    "coverage-report": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-coverage-evidence/zero-day-01.md",
+      "sha256": "eb24ab7c681831628bba9aed95e327392356e5b0ef5c433944c68a6cb2aef293",
+      "size": 138543
+    },
+    "cumulative-aggregate-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.cumulative/zero-day-01-cumulative-aggregate.geojson.gz",
+      "sha256": "a2a58fa995c72ac55b1a888ad8b1c788bc59687ddf14dd951e14563b49418112",
+      "size": 1085508
+    },
+    "cumulative-btiha-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.cumulative/zero-day-01-cumulative-btiha.geojson.gz",
+      "sha256": "c1f64b99c63ec6bfddba4bb74378a7b0cd42f22dff16bbb94f13961d5525b6fa",
+      "size": 22578844
+    },
+    "cumulative-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/zero-day-01-cumulative.json",
+      "sha256": "c06d1fa0ad09b12ff29239a49fde6c7f3b22d039d41f0eae3483d67f703afbf9",
+      "size": 15710
+    },
+    "day-bundle-receipt": {
+      "path": "/tmp/year-2025-day-bundles/zero-day-01/receipt.json",
+      "sha256": "d48a6e09249f7a4b3efc2c3e1f5c659fa6241d8241eddc705de2dbef1fd424f9",
+      "size": 37242
+    },
+    "ip-swarm-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/zero-day-01-cumulative-ip-swarm.json",
+      "sha256": "a10e293d510601080252dd9a9e3c76044aeb3f0d91823f4a4753026d25796c7c",
+      "size": 41746
+    },
+    "published-day-bundle-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-day-product-receipts/zero-day-01.json",
+      "sha256": "d48a6e09249f7a4b3efc2c3e1f5c659fa6241d8241eddc705de2dbef1fd424f9",
+      "size": 37242
+    },
+    "week-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/zero-day-01-week.json",
+      "sha256": "04e2adfb51bea7e75ffc9c8bee78f12cd1bc03d73a8fb342717796c61cdbcc49",
+      "size": 2327831
+    }
+  },
+  "media_object": "zero-day-01",
+  "published_files": {
+    "data/csv/bytes/zero-day-01-cumulative-detail.2025-btiha-itemized-by-bytes.csv": "688f35d80be6b5e340b0fa62c3edaded2761c16d25e7f68aed6b423c8e2a3c79",
+    "docs/itemized/figures/zero-day-01-carto-4k.webp": "3039db0be4bcf0f4ab427f5afd3b43c8f8d1dfbf0e2172a711dec478c316a6be",
+    "docs/itemized/figures/zero-day-01-carto.png": "22e6094c622e839adc751d94844ce59ce88c9a15ba19e080f0b15978842dcdb1",
+    "docs/itemized/figures/zero-day-01-cumulative-detail-btiha-itemized-by-bytes.svg": "b6891d3de375f1bcae80975b6658d0cf30ca7b8df4f0bc4b81a005cc62667c30",
+    "docs/itemized/figures/zero-day-01-data-ge-1080p-4k.webp": "eaca59b514b098685ff05f3cb26b701ac19446a6295ada727975a6aaadd4e85a",
+    "docs/itemized/figures/zero-day-01-data-ge-1080p.webp": "3dd71f0fcd3ebf808c66e34fa5017f12214651e3f83754706f52b61b9db3fed1",
+    "docs/itemized/figures/zero-day-01-data-lt-1080p-4k.webp": "5da08c4a5eda081cf2641d7930d8d7f2d03db9bc2965ff2e96b55cdca228ddfc",
+    "docs/itemized/figures/zero-day-01-data-lt-1080p.webp": "e1da642c3d512bac75026038a095360361cfa172bda1aeaa60c6d5dc35510791",
+    "docs/itemized/figures/zero-day-01-downloads-by-day-day.svg": "aac99a01e0767240ef5422274eba99d28380e917dc8db72f2cb3916f6ae6d51c",
+    "docs/itemized/figures/zero-day-01-downloads-by-week-zero-day-01-week.svg": "a2a9acde82e1f1ea0e517230294682b9d01bbc744f3d6600d857b1cfebf00f65",
+    "docs/itemized/zero-day-01-sample-cache-audit.md": "4f513f30636f06d985373fe50c3dd562f464260589c470567390ce0ed6d4295a",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "c606d5b0949fc4335e5cca41e1be6edd08e81223",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "b5732bc916a52afce45790bf7005569f9cdebbb759447c374ec08d1f5222ed12",
+      "size": 36994160
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.cumulative/zero-day-01-cumulative-btiha.geojson.gz",
+        "sha256": "c1f64b99c63ec6bfddba4bb74378a7b0cd42f22dff16bbb94f13961d5525b6fa",
+        "size": 22578844
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/json/zero-day-01-cumulative-btiha-media-objects.json",
+        "sha256": "2b9b8e298e22ad97cbb1ee40804043cb6414c31151b933ff21214abe277044a7",
+        "size": 572206
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/izzi",
+      "revision": "b988ee7fd690a74a696c27c9aadf40c204a4c780",
+      "untracked": false
+    },
+    "media_object": "zero-day-01",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60-results-2025/bin/a60-meta-collection.exe",
+      "sha256": "e71f9def936a6868d5282a5ff7dece07ade360eefa07abebde75434a927220f7",
+      "size": 8743680
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          81.0,
+          61.0,
+          54.0,
+          35.0,
+          30.0,
+          29.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "Seoul",
+          "Istanbul",
+          "Saint Petersburg",
+          "London",
+          "Amsterdam",
+          "Lelystad",
+          "Budapest",
+          "Shanghai",
+          "Ashburn"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          77.0,
+          54.0,
+          52.0,
+          29.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "Seoul",
+          "Istanbul",
+          "Saint Petersburg",
+          "London",
+          "Lelystad",
+          "Amsterdam",
+          "Budapest",
+          "Shanghai",
+          "Yekaterinburg"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 21,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 33,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 15,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "c606d5b0949fc4335e5cca41e1be6edd08e81223",
+    "cartofreako": "fc58111b5bfa7667b12f6ade522ae5e566b464d1",
+    "izzi": "b988ee7fd690a74a696c27c9aadf40c204a4c780",
+    "metadata": "fbeb53a0b523f937fae2f23d14689d8c5c84dd5a",
+    "results_aao_adoption": "9cd9d91a6fbb560ac2a96beadf4c83b94daf6a88"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2025"
+}

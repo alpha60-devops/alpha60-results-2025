@@ -1,0 +1,944 @@
+# Coverage
+
+- Generated: 2026-08-20T23:40:30Z
+- Sample directory: `/home/bkoz/src/alpha60-samples/zero-day-01`
+- Hour directories: 2474
+- Zero-length sample files: 923
+- Other unparsable sample files: 0
+- Hourly discontinuities: 2 (30 missing hours)
+- Missing days: 0
+
+Zero-length files are sampler-failure evidence: a sampler killed
+before writing the file, or a sampling host whose disk filled before
+the write completed. Caching proceeded past every file listed here.
+
+## Zero-length sample files
+
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Jeff Russo - Zero Day (Soundtrack from the Netflix Series) (2025) [24Bit-48kHz] FLAC [PMEDIA] ⭐️-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Jeff Russo - Zero Day (Soundtrack from the Netflix Series) (2025) [24Bit-48kHz] FLAC [PMEDIA] ⭐️-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Jeff Russo-Zero Day (Soundtrack from the Netflix Series)-(2025)-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Jeff Russo-Zero Day (Soundtrack from the Netflix Series)-(2025)-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Jeff Russo-Zero Day (Soundtrack from the Netflix Series)-(2025)-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Jeff Russo-Zero Day (Soundtrack from the Netflix Series)-(2025)-2025-04-25-at-04-48.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Reacher.S03E01.400p.Kerob-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Reacher.S03E01.400p.Kerob-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Reacher.S03E01.400p.Kerob-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Reacher.S03E01.400p.Kerob-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Reacher.S03E01.400p.Kerob-2025-04-25-at-04-48.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Reacher.S03E01.400p.Kerob-2025-04-25-at-04-52.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day (2025) (S01) (1080p)-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day (2025) (S01) (1080p)-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day (2025) (S01) (1080p)-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day (2025) (S01) (720p)-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day (2025) (S01) (720p)-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day (2025) (S01) (720p)-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day (2025) [tmdbid=216082]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day (2025) [tmdbid=216082]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day (2025) [tmdbid=216082]-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day (2025) [tmdbid=216082]-2025-04-25-at-04-52.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day (Season 1) (2025) WEB-DL 1080p [Ukr_Eng] [Hurtom]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day (Season 1) (2025) WEB-DL 1080p [Ukr_Eng] [Hurtom]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day (Season 1) (2025) WEB-DL 1080p [Ukr_Eng] [Hurtom]-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day (Season 1) (2025) WEB-DL 1080p [Ukr_Eng] [Hurtom]-2025-04-25-at-04-48.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day (Season 1) WEB-DL 1080p-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day (Season 1) WEB-DL 1080p-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day (Season 1) WEB-DL 1080p-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day 1  - LostFilm.TV [1080p]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day 1  - LostFilm.TV [1080p]-2025-04-25-at-04-52.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day 1 - LostFilm.TV [MP4]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day 1 - LostFilm.TV [MP4]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day 1 - LostFilm.TV [MP4]-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day 1 - LostFilm.TV [MP4]-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day 1 - LostFilm.TV [MP4]-2025-04-25-at-04-48.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day 1 - LostFilm.TV-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day 1 - LostFilm.TV-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day 2025 S01 COMPLETE 1080p 10bit WEBRip 6CH x265 HEVC-PSA [IPT]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day 2025 S01 COMPLETE 1080p 10bit WEBRip 6CH x265 HEVC-PSA [IPT]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day 2025 S01 COMPLETE 1080p 10bit WEBRip 6CH x265 HEVC-PSA [IPT]-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day 2025 S01 COMPLETE 1080p 10bit WEBRip 6CH x265 HEVC-PSA [IPT]-2025-04-25-at-04-48.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day 2025 S01 COMPLETE 1080p NF WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day 2025 S01 COMPLETE 1080p NF WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day 2025 S01 COMPLETE 1080p NF WEB-DL DDP5 1 Atmos H 264-FLUX-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day 2025 S01 COMPLETE 1080p NF WEB-DL DDP5 1 Atmos H 264-FLUX-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day 2025 S01 COMPLETE 1080p NF WEB-DL DDP5 1 Atmos H 264-FLUX-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day 2025 S01 COMPLETE 1080p NF WEB-DL DDP5 1 Atmos H 264-FLUX-2025-04-25-at-04-48.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day 2025 S01 COMPLETE 720p 10bit WEBRip 2CH x265 HEVC-PSA [IPT]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day 2025 S01 COMPLETE 720p 10bit WEBRip 2CH x265 HEVC-PSA [IPT]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day 2025 S01 COMPLETE 720p 10bit WEBRip 2CH x265 HEVC-PSA [IPT]-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day 2025 S01 COMPLETE 720p 10bit WEBRip 2CH x265 HEVC-PSA [IPT]-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day 2025 S01 Complete Hindi Dual Audio www.DownloadHub.us 480p Web-DL ESubs-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day 2025 S01 Complete Hindi Dual Audio www.DownloadHub.us 480p Web-DL ESubs-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day 2025 S01E03 1080p WEB h264-ETHEL.zipx-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day 2025 S01E03 1080p WEB h264-ETHEL.zipx-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day 2025 S01E03 1080p WEB h264-ETHEL.zipx-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day 2025 S01E03 1080p WEB h264-ETHEL.zipx-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day 2025 S01E03 1080p WEB h264-ETHEL.zipx-2025-04-25-at-04-48.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day 2025 S01E03 1080p WEB h264-ETHEL.zipx-2025-04-25-at-04-56.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01 1080p NF WEB-DL DDP5 1 Atmos H 264-FLUX-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01 1080p NF WEB-DL DDP5 1 Atmos H 264-FLUX-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01 2160p NF WEB-DL DDP5 1 Atmos DoVi H 265-HHWEB [IPT]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01 2160p NF WEB-DL DDP5 1 Atmos DoVi H 265-HHWEB [IPT]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01 2160p NF WEB-DL DDP5 1 Atmos DoVi H 265-HHWEB [IPT]-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E01 1080p NF WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E01 1080p NF WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E01 1080p NF WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E01 2025 2160p NF WEB-DL DDP5 1 Atmos DV H 265-HHWEB [IPT]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E01 2025 2160p NF WEB-DL DDP5 1 Atmos DV H 265-HHWEB [IPT]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E01 2025 2160p NF WEB-DL DDP5 1 Atmos DV H 265-HHWEB [IPT]-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E01 2025 2160p NF WEB-DL DDP5 1 Atmos DV H 265-HHWEB [IPT]-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E01 2025 2160p NF WEB-DL DDP5 1 Atmos DV H 265-HHWEB [IPT]-2025-04-25-at-04-48.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E01 720p NF WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E01 720p NF WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E01 720p NF WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E01 720p NF WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E01 720p NF WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2025-04-25-at-04-48.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E01 720p NF WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2025-04-25-at-04-56.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E01 Episode 1 1080p NF WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E01 Episode 1 1080p NF WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E01 Episode 1 1080p NF WEB-DL DDP5 1 Atmos H 264-FLUX[EZTVx.to].mkv-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E01 Episode 1 1080p NF WEB-DL DDP5 1 Atmos H 264-FLUX[EZTVx.to].mkv-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E01 Episode 1 720p NF WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E01 Episode 1 720p NF WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E01 Episode 1 720p NF WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E01 Episode 1 720p NF WEB-DL DDP5 1 Atmos H 264-FLUX[EZTVx.to].mkv-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E01 Episode 1 720p NF WEB-DL DDP5 1 Atmos H 264-FLUX[EZTVx.to].mkv-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E01 Episode 1 720p NF WEB-DL DDP5 1 Atmos H 264-FLUX[EZTVx.to].mkv-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E01 Episode 1 720p NF WEB-DL DDP5 1 Atmos H 264-FLUX[EZTVx.to].mkv-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E01 Episode 1 720p NF WEB-DL DDP5 1 Atmos H 264-FLUX[EZTVx.to].mkv-2025-04-25-at-04-48.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E01 Episode 1 720p NF WEB-DL DDP5 1 Atmos H 264-FLUX[EZTVx.to].mkv-2025-04-25-at-04-52.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E02 1080p NF WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E02 1080p NF WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E02 1080p NF WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E02 2025 2160p NF WEB-DL DDP5 1 Atmos DV H 265-HHWEB [IPT]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E02 2025 2160p NF WEB-DL DDP5 1 Atmos DV H 265-HHWEB [IPT]-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E02 2025 2160p NF WEB-DL DDP5 1 Atmos DV H 265-HHWEB [IPT]-2025-04-25-at-04-52.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E02 Episode 2 1080p NF WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E02 Episode 2 1080p NF WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E02 Episode 2 1080p NF WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E02 Episode 2 1080p NF WEB-DL DDP5 1 Atmos H 264-FLUX[EZTVx.to].mkv-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E02 Episode 2 1080p NF WEB-DL DDP5 1 Atmos H 264-FLUX[EZTVx.to].mkv-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E02 Episode 2 1080p NF WEB-DL DDP5 1 Atmos H 264-FLUX[EZTVx.to].mkv-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E02 Episode 2 1080p NF WEB-DL DDP5 1 Atmos H 264-FLUX[EZTVx.to].mkv-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E02 Episode 2 720p NF WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E02 Episode 2 720p NF WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]-2025-04-25-at-04-48.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E02 Episode 2 720p NF WEB-DL DDP5 1 Atmos H 264-FLUX[EZTVx.to].mkv-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E02 Episode 2 720p NF WEB-DL DDP5 1 Atmos H 264-FLUX[EZTVx.to].mkv-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E02 Episode 2 720p NF WEB-DL DDP5 1 Atmos H 264-FLUX[EZTVx.to].mkv-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E02 Episode 2 720p NF WEB-DL DDP5 1 Atmos H 264-FLUX[EZTVx.to].mkv-2025-04-25-at-04-48.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E02 Episode 2 720p NF WEB-DL DDP5 1 Atmos H 264-FLUX[EZTVx.to].mkv-2025-04-25-at-04-52.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E02 Episode 2 720p NF WEB-DL DDP5 1 Atmos H 264-FLUX[EZTVx.to].mkv-2025-04-25-at-04-56.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E03 1080p NF WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E03 1080p NF WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E03 1080p NF WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E03 1080p NF WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2025-04-25-at-04-48.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E03 2025 2160p NF WEB-DL DDP5 1 Atmos DV H 265-HHWEB [IPT]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E03 2025 2160p NF WEB-DL DDP5 1 Atmos DV H 265-HHWEB [IPT]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E03 2025 2160p NF WEB-DL DDP5 1 Atmos DV H 265-HHWEB [IPT]-2025-04-25-at-04-48.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E03 2025 2160p NF WEB-DL DDP5 1 Atmos DV H 265-HHWEB [IPT]-2025-04-25-at-04-52.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E03 720p NF WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E03 720p NF WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E03 720p NF WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E03 720p NF WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2025-04-25-at-04-52.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E03 Episode 3 1080p NF WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E03 Episode 3 1080p NF WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E03 Episode 3 1080p NF WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]-2025-04-25-at-04-48.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E03 Episode 3 1080p NF WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]-2025-04-25-at-04-52.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E03 Episode 3 1080p NF WEB-DL DDP5 1 Atmos H 264-FLUX[EZTVx.to].mkv-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E03 Episode 3 1080p NF WEB-DL DDP5 1 Atmos H 264-FLUX[EZTVx.to].mkv-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E03 Episode 3 1080p NF WEB-DL DDP5 1 Atmos H 264-FLUX[EZTVx.to].mkv-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E03 Episode 3 1080p NF WEB-DL DDP5 1 Atmos H 264-FLUX[EZTVx.to].mkv-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E03 Episode 3 720p NF WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E03 Episode 3 720p NF WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E03 Episode 3 720p NF WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]-2025-04-25-at-04-48.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E03 Episode 3 720p NF WEB-DL DDP5 1 Atmos H 264-FLUX[EZTVx.to].mkv-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E03 Episode 3 720p NF WEB-DL DDP5 1 Atmos H 264-FLUX[EZTVx.to].mkv-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E03 Episode 3 720p NF WEB-DL DDP5 1 Atmos H 264-FLUX[EZTVx.to].mkv-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E04 1080p NF WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E04 1080p NF WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E04 1080p NF WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2025-04-25-at-04-48.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E04 1080p NF WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2025-04-25-at-04-56.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E04 2025 2160p NF WEB-DL DDP5 1 Atmos DV H 265-HHWEB [IPT]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E04 2025 2160p NF WEB-DL DDP5 1 Atmos DV H 265-HHWEB [IPT]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E04 2025 2160p NF WEB-DL DDP5 1 Atmos DV H 265-HHWEB [IPT]-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E04 2025 2160p NF WEB-DL DDP5 1 Atmos DV H 265-HHWEB [IPT]-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E04 2025 2160p NF WEB-DL DDP5 1 Atmos DV H 265-HHWEB [IPT]-2025-04-25-at-04-48.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E04 2025 2160p NF WEB-DL DDP5 1 Atmos DV H 265-HHWEB [IPT]-2025-04-25-at-04-56.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E04 720p NF WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E04 720p NF WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E04 720p NF WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E04 720p NF WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E04 Episode 4 1080p NF WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E04 Episode 4 1080p NF WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E04 Episode 4 1080p NF WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E04 Episode 4 1080p NF WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]-2025-04-25-at-04-52.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E04 Episode 4 1080p NF WEB-DL DDP5 1 Atmos H 264-FLUX[EZTVx.to].mkv-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E04 Episode 4 1080p NF WEB-DL DDP5 1 Atmos H 264-FLUX[EZTVx.to].mkv-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E04 Episode 4 1080p NF WEB-DL DDP5 1 Atmos H 264-FLUX[EZTVx.to].mkv-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E04 Episode 4 1080p NF WEB-DL DDP5 1 Atmos H 264-FLUX[EZTVx.to].mkv-2025-04-25-at-04-48.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E04 Episode 4 720p NF WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E04 Episode 4 720p NF WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E04 Episode 4 720p NF WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E04 Episode 4 720p NF WEB-DL DDP5 1 Atmos H 264-FLUX[EZTVx.to].mkv-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E04 Episode 4 720p NF WEB-DL DDP5 1 Atmos H 264-FLUX[EZTVx.to].mkv-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E04 Episode 4 720p NF WEB-DL DDP5 1 Atmos H 264-FLUX[EZTVx.to].mkv-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E04 Episode 4 720p NF WEB-DL DDP5 1 Atmos H 264-FLUX[EZTVx.to].mkv-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E05 1080p NF WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E05 1080p NF WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E05 1080p NF WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E05 1080p NF WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E05 2025 2160p NF WEB-DL DDP5 1 Atmos DV H 265-HHWEB [IPT]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E05 2025 2160p NF WEB-DL DDP5 1 Atmos DV H 265-HHWEB [IPT]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E05 720p NF WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E05 720p NF WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E05 720p NF WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2025-04-25-at-04-56.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E05 Episode 5 1080p NF WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E05 Episode 5 1080p NF WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E05 Episode 5 1080p NF WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E05 Episode 5 1080p NF WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]-2025-04-25-at-04-48.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E05 Episode 5 1080p NF WEB-DL DDP5 1 Atmos H 264-FLUX[EZTVx.to].mkv-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E05 Episode 5 1080p NF WEB-DL DDP5 1 Atmos H 264-FLUX[EZTVx.to].mkv-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E05 Episode 5 1080p NF WEB-DL DDP5 1 Atmos H 264-FLUX[EZTVx.to].mkv-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E05 Episode 5 720p NF WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E05 Episode 5 720p NF WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E05 Episode 5 720p NF WEB-DL DDP5 1 Atmos H 264-FLUX[EZTVx.to].mkv-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E05 Episode 5 720p NF WEB-DL DDP5 1 Atmos H 264-FLUX[EZTVx.to].mkv-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E05 Episode 5 720p NF WEB-DL DDP5 1 Atmos H 264-FLUX[EZTVx.to].mkv-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E05 Episode 5 720p NF WEB-DL DDP5 1 Atmos H 264-FLUX[EZTVx.to].mkv-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E05 Episode 5 720p NF WEB-DL DDP5 1 Atmos H 264-FLUX[EZTVx.to].mkv-2025-04-25-at-04-48.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E06 1080p NF WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E06 1080p NF WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2025-04-25-at-04-48.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E06 2025 2160p NF WEB-DL DDP5 1 Atmos DV H 265-HHWEB [IPT]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E06 2025 2160p NF WEB-DL DDP5 1 Atmos DV H 265-HHWEB [IPT]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E06 720p NF WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E06 720p NF WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E06 720p NF WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E06 720p NF WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E06 Episode 6 1080p NF WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E06 Episode 6 1080p NF WEB-DL DDP5 1 Atmos H 264-FLUX[EZTVx.to].mkv-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E06 Episode 6 1080p NF WEB-DL DDP5 1 Atmos H 264-FLUX[EZTVx.to].mkv-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E06 Episode 6 720p NF WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E06 Episode 6 720p NF WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E06 Episode 6 720p NF WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E06 Episode 6 720p NF WEB-DL DDP5 1 Atmos H 264-FLUX[EZTVx.to].mkv-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E06 Episode 6 720p NF WEB-DL DDP5 1 Atmos H 264-FLUX[EZTVx.to].mkv-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E06 Episode 6 720p NF WEB-DL DDP5 1 Atmos H 264-FLUX[EZTVx.to].mkv-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E06 Episode 6 720p NF WEB-DL DDP5 1 Atmos H 264-FLUX[EZTVx.to].mkv-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day S01E06 Episode 6 720p NF WEB-DL DDP5 1 Atmos H 264-FLUX[EZTVx.to].mkv-2025-04-25-at-04-48.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day Season 1 Mp4 1080p-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day Season 1 Mp4 1080p-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day Season 1 Mp4 1080p-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day-2025-04-25-at-04-48.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day-2025-04-25-at-04-52.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day. 2025. S01E01. Pilot. 1080P. WEBDl. HEVC-X265. POOTLED.mkv-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day. 2025. S01E01. Pilot. 1080P. WEBDl. HEVC-X265. POOTLED.mkv-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day. 2025. S01E01. Pilot. 1080P. WEBDl. HEVC-X265. POOTLED.mkv-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day. 2025. S01E02. 1080P. WEBDl. HEVC-X265. POOTLED.mkv-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day. 2025. S01E02. 1080P. WEBDl. HEVC-X265. POOTLED.mkv-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day. 2025. S01E02. 1080P. WEBDl. HEVC-X265. POOTLED.mkv-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day. 2025. S01E02. 1080P. WEBDl. HEVC-X265. POOTLED.mkv-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day. 2025. S01E02. 1080P. WEBDl. HEVC-X265. POOTLED.mkv-2025-04-25-at-04-48.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day. 2025. S01E03. 1080P. WEBDl. HEVC-X265. POOTLED.mkv-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day. 2025. S01E04. Episode 4. 1080P. WEBDl. HEVC-X265. POOTLED.mkv-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day. 2025. S01E05. Episode 5. 1080P. WEBDl. HEVC-X265. POOTLED.mkv-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day. 2025. S01E05. Episode 5. 1080P. WEBDl. HEVC-X265. POOTLED.mkv-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day. 2025. S01E05. Episode 5. 1080P. WEBDl. HEVC-X265. POOTLED.mkv-2025-04-25-at-04-48.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day. 2025. S01E06. Episode 6. 1080P. WebDl. HEVC-X265. POOTLED.mkv-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day. 2025. S01E06. Episode 6. 1080P. WebDl. HEVC-X265. POOTLED.mkv-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero Day. 2025. S01E06. Episode 6. 1080P. WebDl. HEVC-X265. POOTLED.mkv-2025-04-25-at-04-56.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.(2025).S01.720p.NF.Web-DL.[TR-EN-DE].DDP5.1.Atmos.H.264-TURG-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.(2025).S01.720p.NF.Web-DL.[TR-EN-DE].DDP5.1.Atmos.H.264-TURG-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.(2025).S01.720p.NF.Web-DL.[TR-EN-DE].DDP5.1.Atmos.H.264-TURG-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.(2025).S01.720p.NF.Web-DL.[TR-EN-DE].DDP5.1.Atmos.H.264-TURG-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.MiniSerie.1080p.WEBRip.x264.TRIAL.YG-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.MiniSerie.1080p.WEBRip.x264.TRIAL.YG-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.MiniSerie.1080p.WEBRip.x264.TRIAL.YG-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01.1080p.WEB-DL.eLDeR-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01.1080p.WEB-DL.eLDeR-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01.1080p.WEB-DL.eLDeR-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01.1080p.WEB-DL.eLDeR-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01.480p.Hindi.Dual.WEB.HDRip.DDP.2.0.x264.ESubs.Full4Movies-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01.720p.10bit.WEBRip.2CH.x265.HEVC-PSA-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01.720p.10bit.WEBRip.2CH.x265.HEVC-PSA-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01.720p.10bit.WEBRip.2CH.x265.HEVC-PSA-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01.720p.Hindi.Dual.WEB.HDRip.DDP.5.1.x264.ESubs.Full4Movies-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01.720p.Hindi.Dual.WEB.HDRip.DDP.5.1.x264.ESubs.Full4Movies-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01.720p.Hindi.Dual.WEB.HDRip.DDP.5.1.x264.ESubs.Full4Movies-2025-04-25-at-04-48.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01.720p.Hindi.Dual.WEB.HDRip.DDP.5.1.x264.ESubs.Full4Movies-2025-04-25-at-04-52.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01.FRENCH.WEBRip.x264-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01.FRENCH.WEBRip.x264-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01.FRENCH.WEBRip.x264-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01.FRENCH.WEBRip.x264-2025-04-25-at-04-56.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01.NF.DUB.WEB-DLRip-AVC.seleZen-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01.NF.DUB.WEB-DLRip-AVC.seleZen-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01.NF.DUB.WEB-DLRip-AVC.seleZen-2025-04-25-at-04-48.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01.NF.DUB.WEB-DLRip-AVC.seleZen-2025-04-25-at-04-56.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01.VOSTFR.WEBRip.x264-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01.VOSTFR.WEBRip.x264-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01.VOSTFR.WEBRip.x264-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01.VOSTFR.WEBRip.x264-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E01.1080p.AV1.10bit-MeGusta [IPT]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E01.1080p.AV1.10bit-MeGusta [IPT]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E01.1080p.AV1.10bit-MeGusta [IPT]-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E01.1080p.AV1.10bit-MeGusta [IPT]-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E01.1080p.WEB.h264-ETHEL [IPT]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E01.1080p.WEB.h264-ETHEL [IPT]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E01.1080p.WEB.h264-ETHEL [IPT]-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E01.1080p.WEB.h264-ETHEL [IPT]-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E01.480p.x264-mSD [IPT]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E01.480p.x264-mSD [IPT]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E01.480p.x264-mSD [IPT]-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E01.480p.x264-mSD [IPT]-2025-04-25-at-04-52.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E01.480p.x264-mSD [IPT]-2025-04-25-at-04-56.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E01.720p.HEVC.x265-MeGusta [IPT]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E01.720p.HEVC.x265-MeGusta [IPT]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E01.720p.HEVC.x265-MeGusta [IPT]-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E01.720p.HEVC.x265-MeGusta [IPT]-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E01.AAC.MP4-Mobile [IPT]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E01.AAC.MP4-Mobile [IPT]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E01.AAC.MP4-Mobile [IPT]-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E01.AAC.MP4-Mobile [IPT]-2025-04-25-at-04-52.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E01.XviD-AFG [IPT]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E01.XviD-AFG [IPT]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E01.XviD-AFG [IPT]-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E01.XviD-AFG [IPT]-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E01.XviD-AFG [IPT]-2025-04-25-at-04-48.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E02.1080p.AV1.10bit-MeGusta [IPT]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E02.1080p.AV1.10bit-MeGusta [IPT]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E02.1080p.AV1.10bit-MeGusta [IPT]-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E02.1080p.HEVC.x265-MeGusta [IPT]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E02.1080p.HEVC.x265-MeGusta [IPT]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E02.1080p.HEVC.x265-MeGusta [IPT]-2025-04-25-at-04-52.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E02.1080p.WEB.h264-ETHEL [IPT]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E02.1080p.WEB.h264-ETHEL [IPT]-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E02.1080p.WEB.h264-ETHEL [IPT]-2025-04-25-at-04-52.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E02.720p.HEVC.x265-MeGusta [IPT]-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E02.720p.HEVC.x265-MeGusta [IPT]-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E02.720p.HEVC.x265-MeGusta [IPT]-2025-04-25-at-04-48.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E02.AAC.MP4-Mobile [IPT]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E02.XviD-AFG [IPT]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E02.XviD-AFG [IPT]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E02.XviD-AFG [IPT]-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E03.1080p.AV1.10bit-MeGusta [IPT]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E03.1080p.AV1.10bit-MeGusta [IPT]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E03.1080p.AV1.10bit-MeGusta [IPT]-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E03.1080p.AV1.10bit-MeGusta [IPT]-2025-04-25-at-04-48.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E03.1080p.HEVC.x265-MeGusta [IPT]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E03.1080p.HEVC.x265-MeGusta [IPT]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E03.1080p.HEVC.x265-MeGusta [IPT]-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E03.1080p.WEB.h264-ETHEL [IPT]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E03.1080p.WEB.h264-ETHEL [IPT]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E03.1080p.WEB.h264-ETHEL [IPT]-2025-04-25-at-04-48.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E03.480p.x264-mSD [IPT]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E03.480p.x264-mSD [IPT]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E03.480p.x264-mSD [IPT]-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E03.720p.HEVC.x265-MeGusta [IPT](1)-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E03.720p.HEVC.x265-MeGusta [IPT](1)-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E03.720p.HEVC.x265-MeGusta [IPT](1)-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E03.720p.HEVC.x265-MeGusta [IPT]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E03.720p.HEVC.x265-MeGusta [IPT]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E03.720p.HEVC.x265-MeGusta [IPT]-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E03.720p.HEVC.x265-MeGusta [IPT]-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E03.AAC.MP4-Mobile [IPT]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E03.AAC.MP4-Mobile [IPT]-2025-04-25-at-04-48.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E03.AAC.MP4-Mobile [IPT]-2025-04-25-at-04-52.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E03.XviD-AFG [IPT]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E03.XviD-AFG [IPT]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E03.XviD-AFG [IPT]-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E04.1080p.AV1.10bit-MeGusta [IPT]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E04.1080p.AV1.10bit-MeGusta [IPT]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E04.1080p.AV1.10bit-MeGusta [IPT]-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E04.1080p.HEVC.x265-MeGusta [IPT]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E04.1080p.HEVC.x265-MeGusta [IPT]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E04.1080p.HEVC.x265-MeGusta [IPT]-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E04.1080p.HEVC.x265-MeGusta [IPT]-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E04.1080p.WEB.h264-ETHEL [IPT]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E04.1080p.WEB.h264-ETHEL [IPT]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E04.1080p.WEB.h264-ETHEL [IPT]-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E04.480p.x264-mSD [IPT]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E04.480p.x264-mSD [IPT]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E04.480p.x264-mSD [IPT]-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E04.480p.x264-mSD [IPT]-2025-04-25-at-04-48.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E04.480p.x264-mSD [IPT]-2025-04-25-at-04-52.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E04.720p.HEVC.x265-MeGusta [IPT]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E04.720p.HEVC.x265-MeGusta [IPT]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E04.720p.HEVC.x265-MeGusta [IPT]-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E04.720p.HEVC.x265-MeGusta [IPT]-2025-04-25-at-04-52.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E04.AAC.MP4-Mobile [IPT]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E04.AAC.MP4-Mobile [IPT]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E04.AAC.MP4-Mobile [IPT]-2025-04-25-at-04-48.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E04.AAC.MP4-Mobile [IPT]-2025-04-25-at-04-52.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E04.XviD-AFG [IPT]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E04.XviD-AFG [IPT]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E04.XviD-AFG [IPT]-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E04.XviD-AFG [IPT]-2025-04-25-at-04-48.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E05.1080p.AV1.10bit-MeGusta [IPT]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E05.1080p.AV1.10bit-MeGusta [IPT]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E05.1080p.AV1.10bit-MeGusta [IPT]-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E05.1080p.HEVC.x265-MeGusta [IPT]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E05.1080p.HEVC.x265-MeGusta [IPT]-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E05.1080p.HEVC.x265-MeGusta [IPT]-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E05.1080p.HEVC.x265-MeGusta [IPT]-2025-04-25-at-04-52.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E05.1080p.WEB.h264-ETHEL [IPT]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E05.1080p.WEB.h264-ETHEL [IPT]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E05.1080p.WEB.h264-ETHEL [IPT]-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E05.1080p.WEB.h264-ETHEL [IPT]-2025-04-25-at-04-52.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E05.1080p.WEB.h264-ETHEL [IPT]-2025-04-25-at-04-56.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E05.480p.x264-mSD [IPT]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E05.480p.x264-mSD [IPT]-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E05.480p.x264-mSD [IPT]-2025-04-25-at-04-56.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E05.720p.HEVC.x265-MeGusta [IPT]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E05.720p.HEVC.x265-MeGusta [IPT]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E05.720p.HEVC.x265-MeGusta [IPT]-2025-04-25-at-04-48.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E05.AAC.MP4-Mobile [IPT]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E05.AAC.MP4-Mobile [IPT]-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E05.AAC.MP4-Mobile [IPT]-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E05.AAC.MP4-Mobile [IPT]-2025-04-25-at-04-52.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E05.XviD-AFG [IPT]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E05.XviD-AFG [IPT]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E05.XviD-AFG [IPT]-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E06.1080p.AV1.10bit-MeGusta [IPT]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E06.1080p.AV1.10bit-MeGusta [IPT]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E06.1080p.AV1.10bit-MeGusta [IPT]-2025-04-25-at-04-48.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E06.1080p.AV1.10bit-MeGusta [IPT]-2025-04-25-at-04-56.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E06.1080p.HEVC.x265-MeGusta [IPT]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E06.1080p.HEVC.x265-MeGusta [IPT]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E06.1080p.HEVC.x265-MeGusta [IPT]-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E06.1080p.WEB.H264-SuccessfulCrab [IPT]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E06.1080p.WEB.H264-SuccessfulCrab [IPT]-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E06.480p.x264-mSD [IPT]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E06.480p.x264-mSD [IPT]-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E06.480p.x264-mSD [IPT]-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E06.480p.x264-mSD [IPT]-2025-04-25-at-04-48.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E06.720p.HEVC.x265-MeGusta [IPT]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E06.720p.HEVC.x265-MeGusta [IPT]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E06.720p.HEVC.x265-MeGusta [IPT]-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E06.AAC.MP4-Mobile [IPT]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E06.AAC.MP4-Mobile [IPT]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E06.AAC.MP4-Mobile [IPT]-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E06.AAC.MP4-Mobile [IPT]-2025-04-25-at-04-48.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E06.XviD-AFG [IPT]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E06.XviD-AFG [IPT]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.2025.S01E06.XviD-AFG [IPT]-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.1080p.ColdFilm-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.1080p.ColdFilm-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.1080p.ENG.ITA.H264-TheBlackKing-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.1080p.ENG.ITA.H264-TheBlackKing-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.1080p.ENG.ITA.H264-TheBlackKing-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.1080p.ITA-ENG.MULTI.WEBRip.x265.AAC-V3SP4EV3R-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.1080p.ITA-ENG.MULTI.WEBRip.x265.AAC-V3SP4EV3R-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.1080p.ITA-ENG.MULTI.WEBRip.x265.AAC-V3SP4EV3R-2025-04-25-at-04-48.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.1080p.Kerob-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.1080p.Kerob-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.1080p.Kerob-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.1080p.Kerob-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.1080p.Kerob-2025-04-25-at-04-48.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.1080p.Kerob-2025-04-25-at-04-52.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.1080p.NF.WEB-DL.DD+5.1 Atmos.x264-KIN-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.1080p.NF.WEB-DL.DD+5.1 Atmos.x264-KIN-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.1080p.NF.WEB-DL.DDP5.1.Atmos.H.264-FLUX [IPT]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.1080p.NF.WEB-DL.DDP5.1.Atmos.H.264-FLUX [IPT]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.1080p.NF.WEB-DL.DDP5.1.Atmos.H.264-MGHW [IPT]-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.1080p.NF.WEB-DL.DDP5.1.Atmos.H.264-MGHW-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.1080p.NF.WEB-DL.DDP5.1.Atmos.H.264-MGHW-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.1080p.NF.WEB-DL.DDP5.1.Atmos.H.264-MGHW-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.1080p.NF.WEB-DL.DDP5.1.Atmos.H.264-TURG-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.1080p.NF.WEB-DL.DDP5.1.Atmos.H.264-TURG-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.1080p.NF.WEB-DL.DDP5.1.Atmos.H.264-TURG-2025-04-25-at-04-48.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.1080p.NF.WEB-DL.DDP5.1.Atmos.H.264-TURG-2025-04-25-at-04-56.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.1080p.NF.WEB-DL.DDP5.1.Atmos.H.264.DUAL-C76-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.1080p.NF.WEB-DL.DDP5.1.Atmos.H.264.DUAL-C76-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.1080p.NF.WEB-DL.DDP5.1.Atmos.H.264.DUAL-C76-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.1080p.NF.WEB-DL.H.264-EniaHD-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.1080p.NF.WEB-DL.H.264-EniaHD-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.1080p.ViruseProject-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.1080p.ViruseProject-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.1080p.ViruseProject-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.1080p.ViruseProject-2025-04-25-at-04-48.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.1080p.WEB-DL.DUAL.5.1-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.1080p.WEB-DL.DUAL.5.1-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.1080p.WEB-DL.DUAL.5.1-2025-04-25-at-04-48.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.1080p.WEBRip.10bit.AAC5.1.x265-HODL-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.1080p.WEBRip.10bit.AAC5.1.x265-HODL-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.1080p.WEBRip.x265-KONTRAST-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.1080p.WEBRip.x265-KONTRAST-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.1080p.WEBRip.x265-KONTRAST-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.2025.720p-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.2025.720p-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.2025.720p-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.2025.720p-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.2160p.NF.WEB-DL.H.265-Rutracker-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.2160p.NF.WEB-DL.H.265-Rutracker-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.2160p.NF.WEB-DL.H.265-Rutracker-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.400p.1WinExpress-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.400p.1WinExpress-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.400p.1WinExpress-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.400p.1WinExpress-2025-04-25-at-04-48.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.400p.ColdFilm-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.400p.ColdFilm-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.400p.ColdFilm-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.400p.ColdFilm-2025-04-25-at-04-48.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.400p.ViruseProject-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.400p.ViruseProject-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.400p.ViruseProject-2025-04-25-at-04-48.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.720p.ColdFilm-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.720p.ColdFilm-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.720p.ColdFilm-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.720p.NF.WEB-DL.DDP5.1.Atmos.H.264-FLUX [IPT]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.720p.NF.WEB-DL.DDP5.1.Atmos.H.264-FLUX [IPT]-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.720p.NF.WEB-DL.DDP5.1.Atmos.H.264.DUAL-C76-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.720p.NF.WEB-DL.DDP5.1.Atmos.H.264.DUAL-C76-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.720p.NF.WEB-DL.H264-FLUX-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.720p.NF.WEB-DL.H264-FLUX-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.720p.NF.WEB-DL.H264-FLUX-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.720p.NF.WEB-DL.H264-FLUX-2025-04-25-at-04-48.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.720p.Ultradox-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.720p.Ultradox-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.720p.Ultradox-2025-04-25-at-04-48.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.720p.Ultradox-2025-04-25-at-04-56.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.720p.sbor-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.ITA.ENG.1080p.NF.WEB-DL.DDP5.1.Atmos.H.264-MeM.GP-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.ITA.ENG.1080p.NF.WEB-DL.DDP5.1.Atmos.H.264-MeM.GP-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.ITA.ENG.1080p.NF.WEB-DL.DDP5.1.Atmos.H.264-MeM.GP-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.ITA.ENG.1080p.NF.WEB-DL.DDP5.1.Atmos.H.264-MeM.GP-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.ITA.ENG.1080p.NF.WEB-DL.DDP5.1.Atmos.H.264-MeM.GP-2025-04-25-at-04-52.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.ITA.ENG.1080p.NFRip.AAC.x265-Pir8-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.ITA.ENG.1080p.NFRip.AAC.x265-Pir8-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.ITA.ENG.NFRip.XviD-Pir8-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.ITA.ENG.NFRip.XviD-Pir8-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.ITA.ENG.NFRip.XviD-Pir8-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.ITA.WEBRIP.x264-mkeagle3-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.ITA.WEBRIP.x264-mkeagle3-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.ITA.WEBRIP.x264-mkeagle3-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.ITA.WEBRIP.x264-mkeagle3-2025-04-25-at-04-52.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.MovieDubbing.WEB-DLRip.XviD.AC3.-Hqh-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.MovieDubbing.WEB-DLRip.XviD.AC3.-Hqh-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.MovieDubbing.WEB-DLRip.XviD.AC3.-Hqh-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.MovieDubbing.WEB-DLRip.XviD.AC3.-Hqh-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.NF.WEBRiP.AAC2.0.x264.HuN.EnG-B9R-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.NF.WEBRiP.AAC2.0.x264.HuN.EnG-B9R-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.NF.WEBRiP.AAC2.0.x264.HuN.EnG-B9R-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.WEB-DL.1080p.1WinStudio-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.WEB-DL.1080p.1WinStudio-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.WEB-DL.1080p.1WinStudio-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.WEB-DLRip.LF-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.WEB-DLRip.LF-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.WEB-DLRip.LF-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.WEB-DLRip.Movie.Dubbing-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.WEB-DLRip.Movie.Dubbing-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.WEB-DLRip.Movie.Dubbing-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.WEBDL.720p-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.WEBDL.720p-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.WEBDL.720p-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.WEBDL.720p-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.WEBDL.720p-2025-04-25-at-04-48.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.WEBDL.720p-2025-04-25-at-04-52.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.WEBDL.720p-2025-04-25-at-04-56.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.[Bolly4u.org] WEB-DL Dual Audio 480p 1GB.mkv-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.[Bolly4u.org] WEB-DL Dual Audio 480p 1GB.mkv-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.[Bolly4u.org] WEB-DL Dual Audio 480p 1GB.mkv-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.[Bolly4u.org] WEB-DL Dual Audio 720p 2.2GB.mkv-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.[Bolly4u.org] WEB-DL Dual Audio 720p 2.2GB.mkv-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01.[Bolly4u.org] WEB-DL Dual Audio 720p 2.2GB.mkv-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E01-06.1080p.NF.WEB-DL.ITA-ENG.DDP5.1.Atmos.DV.HDR.H265-G66-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E01-06.1080p.NF.WEB-DL.ITA-ENG.DDP5.1.Atmos.DV.HDR.H265-G66-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E01-06.1080p.NF.WEB-DL.ITA-ENG.DDP5.1.Atmos.H264-G66-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E01-06.1080p.NF.WEB-DL.ITA-ENG.DDP5.1.Atmos.H264-G66-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E01-06.1080p.NF.WEB-DL.ITA-ENG.DDP5.1.Atmos.H264-G66-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E01-06.1080p.NF.WEB-DL.ITA-ENG.DDP5.1.Atmos.H265-G66-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E01-06.1080p.NF.WEB-DL.ITA-ENG.DDP5.1.Atmos.H265-G66-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E01-06.1080p.NF.WEB-DL.ITA-ENG.DDP5.1.Atmos.H265-G66-2025-04-25-at-04-48.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E01-06.1080p.NF.WEB-DL.ITA-ENG.DDP5.1.Atmos.H265-G66-2025-04-25-at-04-52.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E01.1080p.HDTV.Subtitulado.Esp.SC.mp4-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E01.1080p.HDTV.Subtitulado.Esp.SC.mp4-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E01.1080p.HDTV.Subtitulado.Esp.SC.mp4-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E01.1080p.HDTV.Subtitulado.Esp.SC.mp4-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E01.1080p.HDTV.Subtitulado.Esp.SC.mp4-2025-04-25-at-04-48.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E01.1080p.HDTV.Subtitulado.Esp.SC.mp4-2025-04-25-at-04-52.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E01.1080p.HEVC.x265-MeGusta [IPT]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E01.1080p.HEVC.x265-MeGusta [IPT]-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E01.1080p.HEVC.x265-MeGusta [IPT]-2025-04-25-at-04-48.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E01.1080p.WEB-DL-[Feranki1980].mp4-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E01.1080p.rus.LostFilm.TV.mkv-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E01.1080p.rus.LostFilm.TV.mkv-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E01.1080p.rus.LostFilm.TV.mkv-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E01.1080p.rus.LostFilm.TV.mkv-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E01.480p.x264-mSD [IPT]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E01.480p.x264-mSD [IPT]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E01.480p.x264-mSD [IPT]-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E01.480p.x264-mSD [IPT]-2025-04-25-at-04-48.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E01.720p.HEVC.x265-MeGusta [IPT]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E01.720p.HEVC.x265-MeGusta [IPT]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E01.720p.HEVC.x265-MeGusta [IPT]-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E01.720p.HEVC.x265-MeGusta [IPT]-2025-04-25-at-04-56.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E01.720p.HEVC.x265-MeGusta[EZTVx.to].mkv-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E01.720p.HEVC.x265-MeGusta[EZTVx.to].mkv-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E01.720p.HEVC.x265-MeGusta[EZTVx.to].mkv-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E01.720p.WEB-DL-[Feranki1980].mp4-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E01.720p.WEB-DL-[Feranki1980].mp4-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E01.720p.WEB-DL-[Feranki1980].mp4-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E01.720p.rus.LostFilm.TV.mp4-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E01.720p.rus.LostFilm.TV.mp4-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E01.720p.rus.LostFilm.TV.mp4-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E01.720p.rus.LostFilm.TV.mp4-2025-04-25-at-04-48.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E01.720p.rus.LostFilm.TV.mp4-2025-04-25-at-04-52.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E01.AAC.MP4-Mobile [IPT]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E01.AAC.MP4-Mobile [IPT]-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E01.Episode.1.1080p.HEVC.x265-MeGusta [IPT]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E01.Episode.1.1080p.HEVC.x265-MeGusta [IPT]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E01.Episode.1.1080p.HEVC.x265-MeGusta [IPT]-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E01.Episode.1.480p.x264-mSD [IPT]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E01.Episode.1.480p.x264-mSD [IPT]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E01.Episode.1.720p.HEVC.x265-MeGusta [IPT](1)-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E01.Episode.1.720p.HEVC.x265-MeGusta [IPT](1)-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E01.Episode.1.720p.HEVC.x265-MeGusta [IPT]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E01.Episode.1.720p.HEVC.x265-MeGusta [IPT]-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E01.Episode.1.AAC.MP4-Mobile [IPT]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E01.Episode.1.AAC.MP4-Mobile [IPT]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E01.Episode.1.AAC.MP4-Mobile [IPT]-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E01.Episode.1.AAC.MP4-Mobile [IPT]-2025-04-25-at-04-52.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E01.Episode.1.XviD-AFG [IPT](1)-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E01.Episode.1.XviD-AFG [IPT](1)-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E01.Episode.1.XviD-AFG [IPT](1)-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E01.Episode.1.XviD-AFG [IPT](1)-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E01.Episode.1.XviD-AFG [IPT]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E01.Episode.1.XviD-AFG [IPT]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E01.Episode.1.XviD-AFG [IPT]-2025-04-25-at-04-48.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E01.XviD-AFG [IPT]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E01.XviD-AFG [IPT]-2025-04-25-at-04-48.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E01.rus.LostFilm.TV.avi-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E01.rus.LostFilm.TV.avi-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E01.rus.LostFilm.TV.avi-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E01.rus.LostFilm.TV.avi-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E02.1080p.HDTV.Subtitulado.Esp.SC.mp4-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E02.1080p.HDTV.Subtitulado.Esp.SC.mp4-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E02.1080p.WEB-DL-[Feranki1980].mp4-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E02.1080p.WEB-DL-[Feranki1980].mp4-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E02.1080p.WEB-DL-[Feranki1980].mp4-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E02.1080p.WEB-DL-[Feranki1980].mp4-2025-04-25-at-04-56.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E02.1080p.rus.LostFilm.TV.mkv-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E02.720p.WEB-DL-[Feranki1980].mp4-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E02.720p.WEB-DL-[Feranki1980].mp4-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E02.720p.WEB-DL-[Feranki1980].mp4-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E02.720p.WEB-DL-[Feranki1980].mp4-2025-04-25-at-04-48.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E02.720p.rus.LostFilm.TV.mp4-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E02.720p.rus.LostFilm.TV.mp4-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E02.Episode.2.1080p.HEVC.x265-MeGusta [IPT]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E02.Episode.2.1080p.HEVC.x265-MeGusta [IPT]-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E02.Episode.2.480p.x264-mSD [IPT]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E02.Episode.2.480p.x264-mSD [IPT]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E02.Episode.2.720p.HEVC.x265-MeGusta [IPT]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E02.Episode.2.720p.HEVC.x265-MeGusta [IPT]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E02.Episode.2.720p.HEVC.x265-MeGusta [IPT]-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E02.Episode.2.AAC.MP4-Mobile [IPT]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E02.Episode.2.AAC.MP4-Mobile [IPT]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E02.Episode.2.AAC.MP4-Mobile [IPT]-2025-04-25-at-04-48.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E02.Episode.2.XviD-AFG [IPT]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E02.Episode.2.XviD-AFG [IPT]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E02.rus.LostFilm.TV.avi-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E02.rus.LostFilm.TV.avi-2025-04-25-at-04-48.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E03.1080p.HDTV.Subtitulado.Esp.SC.mp4-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E03.1080p.HDTV.Subtitulado.Esp.SC.mp4-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E03.1080p.HDTV.Subtitulado.Esp.SC.mp4-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E03.1080p.WEB-DL-[Feranki1980].mp4-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E03.1080p.rus.LostFilm.TV.mkv-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E03.1080p.rus.LostFilm.TV.mkv-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E03.720p.WEB-DL-[Feranki1980].mp4-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E03.720p.WEB-DL-[Feranki1980].mp4-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E03.720p.WEB-DL-[Feranki1980].mp4-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E03.720p.WEB-DL-[Feranki1980].mp4-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E03.720p.WEB-DL-[Feranki1980].mp4-2025-04-25-at-04-48.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E03.720p.rus.LostFilm.TV.mp4-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E03.720p.rus.LostFilm.TV.mp4-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E03.720p.rus.LostFilm.TV.mp4-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E03.720p.rus.LostFilm.TV.mp4-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E03.720p.rus.LostFilm.TV.mp4-2025-04-25-at-04-48.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E03.Episode.3.1080p.HEVC.x265-MeGusta [IPT]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E03.Episode.3.1080p.HEVC.x265-MeGusta [IPT]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E03.Episode.3.720p.HEVC.x265-MeGusta [IPT]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E03.Episode.3.AAC.MP4-Mobile [IPT]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E03.Episode.3.AAC.MP4-Mobile [IPT]-2025-04-25-at-04-52.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E03.Episode.3.XviD-AFG [IPT]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E03.Episode.3.XviD-AFG [IPT]-2025-04-25-at-04-48.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E03.rus.LostFilm.TV.avi-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E03.rus.LostFilm.TV.avi-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E03.rus.LostFilm.TV.avi-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E03.rus.LostFilm.TV.avi-2025-04-25-at-04-56.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E04.1080p.HDTV.Subtitulado.Esp.SC.mp4-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E04.1080p.HDTV.Subtitulado.Esp.SC.mp4-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E04.1080p.WEB-DL-[Feranki1980].mp4-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E04.1080p.WEB-DL-[Feranki1980].mp4-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E04.1080p.WEB-DL-[Feranki1980].mp4-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E04.1080p.rus.LostFilm.TV.mkv-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E04.720p.WEB-DL-[Feranki1980].mp4-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E04.720p.WEB-DL-[Feranki1980].mp4-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E04.720p.WEB-DL-[Feranki1980].mp4-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E04.720p.WEB-DL-[Feranki1980].mp4-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E04.720p.rus.LostFilm.TV.mp4-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E04.Episode.4.480p.x264-mSD [IPT]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E04.Episode.4.480p.x264-mSD [IPT]-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E04.Episode.4.480p.x264-mSD [IPT]-2025-04-25-at-04-52.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E04.Episode.4.720p.HEVC.x265-MeGusta [IPT]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E04.Episode.4.720p.HEVC.x265-MeGusta [IPT]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E04.Episode.4.720p.HEVC.x265-MeGusta [IPT]-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E04.Episode.4.720p.HEVC.x265-MeGusta [IPT]-2025-04-25-at-04-48.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E04.Episode.4.AAC.MP4-Mobile [IPT]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E04.Episode.4.AAC.MP4-Mobile [IPT]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E04.Episode.4.AAC.MP4-Mobile [IPT]-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E04.Episode.4.AAC.MP4-Mobile [IPT]-2025-04-25-at-04-52.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E04.Episode.4.AAC.MP4-Mobile [IPT]-2025-04-25-at-04-56.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E04.Episode.4.XviD-AFG [IPT]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E04.Episode.4.XviD-AFG [IPT]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E04.Episode.4.XviD-AFG [IPT]-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E04.rus.LostFilm.TV.avi-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E04.rus.LostFilm.TV.avi-2025-04-25-at-04-48.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E05.1080p.HDTV.Subtitulado.Esp.SC.mp4-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E05.1080p.HDTV.Subtitulado.Esp.SC.mp4-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E05.1080p.WEB-DL-[Feranki1980].mp4-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E05.1080p.WEB-DL-[Feranki1980].mp4-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E05.1080p.rus.LostFilm.TV.mkv-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E05.1080p.rus.LostFilm.TV.mkv-2025-04-25-at-04-48.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E05.1080p.rus.LostFilm.TV.mkv-2025-04-25-at-04-52.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E05.720p.WEB-DL-[Feranki1980].mp4-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E05.720p.WEB-DL-[Feranki1980].mp4-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E05.720p.WEB-DL-[Feranki1980].mp4-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E05.720p.rus.LostFilm.TV.mp4-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E05.720p.rus.LostFilm.TV.mp4-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E05.720p.rus.LostFilm.TV.mp4-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E05.Episode.5.1080p.HEVC.x265-MeGusta [IPT]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E05.Episode.5.1080p.HEVC.x265-MeGusta [IPT]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E05.Episode.5.1080p.HEVC.x265-MeGusta [IPT]-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E05.Episode.5.1080p.HEVC.x265-MeGusta [IPT]-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E05.Episode.5.480p.x264-mSD [IPT]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E05.Episode.5.720p.HEVC.x265-MeGusta [IPT]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E05.Episode.5.720p.HEVC.x265-MeGusta [IPT]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E05.Episode.5.720p.HEVC.x265-MeGusta [IPT]-2025-04-25-at-04-48.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E05.Episode.5.720p.HEVC.x265-MeGusta [IPT]-2025-04-25-at-04-52.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E05.Episode.5.AAC.MP4-Mobile [IPT]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E05.Episode.5.AAC.MP4-Mobile [IPT]-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E05.Episode.5.XviD-AFG [IPT]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E05.Episode.5.XviD-AFG [IPT]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E05.Episode.5.XviD-AFG [IPT]-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E05.Episode.5.XviD-AFG [IPT]-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E05.Episode.5.XviD-AFG [IPT]-2025-04-25-at-04-48.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E05.rus.LostFilm.TV.avi-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E05.rus.LostFilm.TV.avi-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E05.rus.LostFilm.TV.avi-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E06.1080p.HDTV.Subtitulado.Esp.SC.mp4-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E06.1080p.HDTV.Subtitulado.Esp.SC.mp4-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E06.1080p.WEB-DL-[Feranki1980].mp4-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E06.1080p.WEB-DL-[Feranki1980].mp4-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E06.1080p.rus.LostFilm.TV.mkv-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E06.1080p.rus.LostFilm.TV.mkv-2025-04-25-at-04-52.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E06.720p.WEB-DL-[Feranki1980].mp4-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E06.720p.WEB-DL-[Feranki1980].mp4-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E06.720p.WEB-DL-[Feranki1980].mp4-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E06.720p.WEB-DL-[Feranki1980].mp4-2025-04-25-at-04-56.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E06.720p.rus.LostFilm.TV.mp4-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E06.720p.rus.LostFilm.TV.mp4-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E06.Episode.6.1080p.HEVC.x265-MeGusta [IPT]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E06.Episode.6.1080p.HEVC.x265-MeGusta [IPT]-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E06.Episode.6.1080p.HEVC.x265-MeGusta [IPT]-2025-04-25-at-04-52.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E06.Episode.6.480p.x264-mSD [IPT]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E06.Episode.6.720p.HEVC.x265-MeGusta [IPT]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E06.Episode.6.720p.HEVC.x265-MeGusta [IPT]-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E06.Episode.6.720p.HEVC.x265-MeGusta [IPT]-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E06.Episode.6.AAC.MP4-Mobile [IPT]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E06.Episode.6.XviD-AFG [IPT]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E06.Episode.6.XviD-AFG [IPT]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E06.Episode.6.XviD-AFG [IPT]-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E06.Episode.6.XviD-AFG [IPT]-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.S01E06.Episode.6.XviD-AFG [IPT]-2025-04-25-at-04-48.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.Season.1.COMPLETE.1080p.NF.WEB-DL.x264.ESubs.[4.3GB].[MP4].[S01.Full]-[y2flix]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.Season.1.COMPLETE.1080p.NF.WEB-DL.x264.ESubs.[4.3GB].[MP4].[S01.Full]-[y2flix]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.Season.1.COMPLETE.1080p.NF.WEB-DL.x264.ESubs.[4.3GB].[MP4].[S01.Full]-[y2flix]-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.Season.1.COMPLETE.720p.NF.WEB-DL.x264.ESubs.[2.5GB].[MP4].[S01.Full]-[y2flix]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.Season.1.COMPLETE.720p.NF.WEB-DL.x264.ESubs.[2.5GB].[MP4].[S01.Full]-[y2flix]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.Season.1.COMPLETE.720p.NF.WEB-DL.x264.ESubs.[2.5GB].[MP4].[S01.Full]-[y2flix]-2025-04-25-at-04-48.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.Season.1.COMPLETE.720p.NF.WEB-DL.x264.ESubs.[2.5GB].[MP4].[S01.Full]-[y2flix]-2025-04-25-at-04-56.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.s01.HD1080p.WEBRip.Rus.RuDub.tv-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.s01.HD1080p.WEBRip.Rus.RuDub.tv-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.s01.HD1080p.WEBRip.Rus.RuDub.tv-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.s01.HD1080p.WEBRip.Rus.RuDub.tv-2025-04-25-at-04-48.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.s01.HD720p.WEBRip.Rus.RuDub.tv-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.s01.HD720p.WEBRip.Rus.RuDub.tv-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.s01.HD720p.WEBRip.Rus.RuDub.tv-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.s01.HD720p.WEBRip.Rus.RuDub.tv-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.s01.WEBRip.XviD.Rus.RuDub.tv-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.s01.WEBRip.XviD.Rus.RuDub.tv-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.s01.WEBRip.XviD.Rus.RuDub.tv-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.s01.WEBRip.XviD.Rus.RuDub.tv-2025-04-25-at-04-52.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.s01.WEBRip.x264.Rus.RuDub.tv-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Zero.Day.s01.WEBRip.x264.Rus.RuDub.tv-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/[BEST-TORRENTS.COM] Zero.Day.Sezon01.MULTi.1080p.NF.WEB-DL.H264.DDP5.1.Atmos-K83-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/[BEST-TORRENTS.COM] Zero.Day.Sezon01.MULTi.1080p.NF.WEB-DL.H264.DDP5.1.Atmos-K83-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/[BEST-TORRENTS.COM] Zero.Day.Sezon01.MULTi.1080p.NF.WEB-DL.H264.DDP5.1.Atmos-K83-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/[DEVIL-TORRENTS.PL] Zero.Day.Sezon01.MULTi.1080p.NF.WEB-DL.H264.DDP5.1.Atmos-K83-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/[DEVIL-TORRENTS.PL] Zero.Day.Sezon01.MULTi.1080p.NF.WEB-DL.H264.DDP5.1.Atmos-K83-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/[TR24][OF][FM] Jeff Russo - Zero Day (Soundtrack from the Netflix Series) - 2025 (Soundtracks) [rutracker-6649857]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/[TR24][OF][FM] Jeff Russo - Zero Day (Soundtrack from the Netflix Series) - 2025 (Soundtracks) [rutracker-6649857]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/[TR24][OF][FM] Jeff Russo - Zero Day (Soundtrack from the Netflix Series) - 2025 (Soundtracks) [rutracker-6649857]-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/[XTORRENTY.ORG] Zero.Day.2025.S01.NF.1080p.MULTi.WEB-DL.H264.DD5.1-RX-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/[XTORRENTY.ORG] Zero.Day.2025.S01.NF.1080p.MULTi.WEB-DL.H264.DD5.1-RX-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/[XTORRENTY.ORG] Zero.Day.2025.S01.NF.1080p.MULTi.WEB-DL.H264.DD5.1-RX-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/[XTORRENTY.ORG] Zero.Day.2025.S01.NF.1080p.MULTi.WEB-DL.H264.DD5.1-RX-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/[crime-thriller] Zero Days by Ruth Ware AZW3-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/[crime-thriller] Zero Days by Ruth Ware AZW3-2025-04-25-at-04-52.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/[crime-thriller] Zero Days by Ruth Ware AZW3-2025-04-25-at-04-56.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/[rutor.is]Jeff_Russo_-_Zero_Day_Soundtrack_from_the_Netfl-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/[rutor.is]Jeff_Russo_-_Zero_Day_Soundtrack_from_the_Netfl-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/[rutor.is]Jeff_Russo_-_Zero_Day_Soundtrack_from_the_Netfl-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/[rutor.is]Jeff_Russo_-_Zero_Day_Soundtrack_from_the_Netfl-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/[rutor.is]Zero.Day.2025.S01.NF.DUB.WEB-DLRip-AVC.seleZen-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/[rutor.is]Zero.Day.2025.S01.NF.DUB.WEB-DLRip-AVC.seleZen-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/[rutor.is]Zero.Day.2025.S01.NF.DUB.WEB-DLRip-AVC.seleZen-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/[rutor.is]Zero.Day.DVDRip.avi-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/[rutor.is]Zero.Day.DVDRip.avi-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/[rutor.is]Zero.Day.DVDRip.avi-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/[rutor.is]Zero.Day.S01.1080p.NF.WEB-DL.H.264-EniaHD-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/[rutor.is]Zero.Day.S01.1080p.NF.WEB-DL.H.264-EniaHD-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/[rutor.is]Zero.Day.S01.1080p.NF.WEB-DL.H.264-EniaHD-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/[rutor.is]Zero.Day.S01.1080p.NF.WEB-DL.H.264-EniaHD-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/[rutor.is]Zero.Day.S01.1080p.ViruseProject-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/[rutor.is]Zero.Day.S01.1080p.ViruseProject-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/[rutor.is]Zero.Day.S01.1080p.ViruseProject-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/[rutor.is]Zero.Day.S01.400p.ViruseProject-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/[rutor.is]Zero.Day.S01.400p.ViruseProject-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/[rutor.is]Zero.Day.S01.400p.ViruseProject-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/[rutor.is]Zero.Day.S01.400p.ViruseProject-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/[rutor.is]Zero_Day.2002.DVDRip.XviD.VO.DD.2.0.avi-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/[rutor.is]Zero_Day.2002.DVDRip.XviD.VO.DD.2.0.avi-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/[rutor.is]Zero_Day.2002.DVDRip.XviD.VO.DD.2.0.avi-2025-04-25-at-04-52.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.1TamilBlasters.rodeo - Zero Day (2025) S01EP(01-06) [1080p HQ HDRip - x264 - [Tam + Tel + Hin + Eng] - DDP5.1(192Kbps) - 4.6GB - ESub]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.1TamilBlasters.rodeo - Zero Day (2025) S01EP(01-06) [1080p HQ HDRip - x264 - [Tam + Tel + Hin + Eng] - DDP5.1(192Kbps) - 4.6GB - ESub]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.1TamilBlasters.rodeo - Zero Day (2025) S01EP(01-06) [1080p HQ HDRip - x264 - [Tam + Tel + Hin + Eng] - DDP5.1(192Kbps) - 4.6GB - ESub]-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.1TamilBlasters.rodeo - Zero Day (2025) S01EP(01-06) [1080p HQ HDRip - x264 - [Tam + Tel + Hin + Eng] - DDP5.1(192Kbps) - 4.6GB - ESub]-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.1TamilBlasters.rodeo - Zero Day (2025) S01EP(01-06) [720p HQ HDRip - x264 - [Tam + Tel + Hin + Eng] - AAC - 2.5GB - ESub]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.1TamilBlasters.rodeo - Zero Day (2025) S01EP(01-06) [720p HQ HDRip - x264 - [Tam + Tel + Hin + Eng] - AAC - 2.5GB - ESub]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.1TamilBlasters.rodeo - Zero Day (2025) S01EP(01-06) [720p HQ HDRip - x264 - [Tam + Tel + Hin + Eng] - AAC - 2.5GB - ESub]-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.1TamilMV.gold - Zero Day (2025) S01 EP (01-06) - 1080p - HQ HDRip - [Tam + Tel + Hin + Eng] - AAC - 5GB - ESub-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.1TamilMV.gold - Zero Day (2025) S01 EP (01-06) - HQ HDRip - [Tam + Tel + Hin] - AAC - 1GB - ESub-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.1TamilMV.gold - Zero Day (2025) S01 EP (01-06) - HQ HDRip - [Tam + Tel + Hin] - AAC - 1GB - ESub-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.1TamilMV.gold - Zero Day (2025) S01 EP (01-06) - HQ HDRip - [Tam + Tel + Hin] - AAC - 1GB - ESub-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.Torrenting.com - Zero Day 2025 S01 COMPLETE 1080p 10bit WEBRip 6CH x265 HEVC-PSA-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.Torrenting.com - Zero Day 2025 S01 COMPLETE 1080p 10bit WEBRip 6CH x265 HEVC-PSA-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.Torrenting.com - Zero Day 2025 S01 COMPLETE 720p 10bit WEBRip 2CH x265 HEVC-PSA-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.Torrenting.com - Zero Day 2025 S01 COMPLETE 720p 10bit WEBRip 2CH x265 HEVC-PSA-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.Torrenting.com - Zero Day 2025 S01 COMPLETE 720p 10bit WEBRip 2CH x265 HEVC-PSA-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.Torrenting.com - Zero Day S01E01 2025 2160p NF WEB-DL DDP5 1 Atmos DV H 265-HHWEB-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.Torrenting.com - Zero Day S01E01 2025 2160p NF WEB-DL DDP5 1 Atmos DV H 265-HHWEB-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.Torrenting.com - Zero Day S01E01 Episode 1 720p NF WEB-DL DDP5 1 Atmos H 264-FLUX-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.Torrenting.com - Zero Day S01E01 Episode 1 720p NF WEB-DL DDP5 1 Atmos H 264-FLUX-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.Torrenting.com - Zero Day S01E01 Episode 1 720p NF WEB-DL DDP5 1 Atmos H 264-FLUX-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.Torrenting.com - Zero Day S01E01 Episode 1 720p NF WEB-DL DDP5 1 Atmos H 264-FLUX-2025-04-25-at-04-52.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.Torrenting.com - Zero Day S01E02 2025 2160p NF WEB-DL DDP5 1 Atmos DV H 265-HHWEB-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.Torrenting.com - Zero Day S01E02 2025 2160p NF WEB-DL DDP5 1 Atmos DV H 265-HHWEB-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.Torrenting.com - Zero Day S01E02 2025 2160p NF WEB-DL DDP5 1 Atmos DV H 265-HHWEB-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.Torrenting.com - Zero Day S01E02 2025 2160p NF WEB-DL DDP5 1 Atmos DV H 265-HHWEB-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.Torrenting.com - Zero Day S01E03 2025 2160p NF WEB-DL DDP5 1 Atmos DV H 265-HHWEB-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.Torrenting.com - Zero Day S01E03 2025 2160p NF WEB-DL DDP5 1 Atmos DV H 265-HHWEB-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.Torrenting.com - Zero Day S01E03 2025 2160p NF WEB-DL DDP5 1 Atmos DV H 265-HHWEB-2025-04-25-at-04-48.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.Torrenting.com - Zero Day S01E03 Episode 3 720p NF WEB-DL DDP5 1 Atmos H 264-FLUX-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.Torrenting.com - Zero Day S01E03 Episode 3 720p NF WEB-DL DDP5 1 Atmos H 264-FLUX-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.Torrenting.com - Zero Day S01E03 Episode 3 720p NF WEB-DL DDP5 1 Atmos H 264-FLUX-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.Torrenting.com - Zero Day S01E03 Episode 3 720p NF WEB-DL DDP5 1 Atmos H 264-FLUX-2025-04-25-at-04-52.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.Torrenting.com - Zero Day S01E04 2025 2160p NF WEB-DL DDP5 1 Atmos DV H 265-HHWEB-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.Torrenting.com - Zero Day S01E04 2025 2160p NF WEB-DL DDP5 1 Atmos DV H 265-HHWEB-2025-04-25-at-04-52.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.Torrenting.com - Zero Day S01E04 Episode 4 720p NF WEB-DL DDP5 1 Atmos H 264-FLUX-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.Torrenting.com - Zero Day S01E04 Episode 4 720p NF WEB-DL DDP5 1 Atmos H 264-FLUX-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.Torrenting.com - Zero Day S01E04 Episode 4 720p NF WEB-DL DDP5 1 Atmos H 264-FLUX-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.Torrenting.com - Zero Day S01E05 2025 2160p NF WEB-DL DDP5 1 Atmos DV H 265-HHWEB-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.Torrenting.com - Zero Day S01E05 2025 2160p NF WEB-DL DDP5 1 Atmos DV H 265-HHWEB-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.Torrenting.com - Zero Day S01E05 2025 2160p NF WEB-DL DDP5 1 Atmos DV H 265-HHWEB-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.Torrenting.com - Zero Day S01E05 Episode 5 720p NF WEB-DL DDP5 1 Atmos H 264-FLUX-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.Torrenting.com - Zero Day S01E05 Episode 5 720p NF WEB-DL DDP5 1 Atmos H 264-FLUX-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.Torrenting.com - Zero Day S01E05 Episode 5 720p NF WEB-DL DDP5 1 Atmos H 264-FLUX-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.Torrenting.com - Zero Day S01E05 Episode 5 720p NF WEB-DL DDP5 1 Atmos H 264-FLUX-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.Torrenting.com - Zero Day S01E06 Episode 6 720p NF WEB-DL DDP5 1 Atmos H 264-FLUX-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.Torrenting.com - Zero Day S01E06 Episode 6 720p NF WEB-DL DDP5 1 Atmos H 264-FLUX-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.Torrenting.com - Zero Day S01E06 Episode 6 720p NF WEB-DL DDP5 1 Atmos H 264-FLUX-2025-04-25-at-04-56.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.Torrenting.com - Zero.Day.2025.S01E01.1080p.WEB.h264-ETHEL-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.Torrenting.com - Zero.Day.2025.S01E01.1080p.WEB.h264-ETHEL-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.Torrenting.com - Zero.Day.2025.S01E01.1080p.WEB.h264-ETHEL-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.Torrenting.com - Zero.Day.2025.S01E01.720p.HEVC.x265-MeGusta-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.Torrenting.com - Zero.Day.2025.S01E01.720p.HEVC.x265-MeGusta-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.Torrenting.com - Zero.Day.2025.S01E01.720p.HEVC.x265-MeGusta-2025-04-25-at-04-48.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.Torrenting.com - Zero.Day.2025.S01E02.1080p.WEB.h264-ETHEL-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.Torrenting.com - Zero.Day.2025.S01E02.1080p.WEB.h264-ETHEL-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.Torrenting.com - Zero.Day.2025.S01E02.1080p.WEB.h264-ETHEL-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.Torrenting.com - Zero.Day.2025.S01E02.1080p.WEB.h264-ETHEL-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.Torrenting.com - Zero.Day.2025.S01E02.720p.HEVC.x265-MeGusta-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.Torrenting.com - Zero.Day.2025.S01E03.1080p.WEB.h264-ETHEL-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.Torrenting.com - Zero.Day.2025.S01E03.1080p.WEB.h264-ETHEL-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.Torrenting.com - Zero.Day.2025.S01E03.1080p.WEB.h264-ETHEL-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.Torrenting.com - Zero.Day.2025.S01E03.720p.HEVC.x265-MeGusta-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.Torrenting.com - Zero.Day.2025.S01E03.720p.HEVC.x265-MeGusta-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.Torrenting.com - Zero.Day.2025.S01E03.720p.HEVC.x265-MeGusta-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.Torrenting.com - Zero.Day.2025.S01E04.1080p.HEVC.x265-MeGusta-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.Torrenting.com - Zero.Day.2025.S01E04.1080p.HEVC.x265-MeGusta-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.Torrenting.com - Zero.Day.2025.S01E04.1080p.HEVC.x265-MeGusta-2025-04-25-at-04-48.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.Torrenting.com - Zero.Day.2025.S01E04.1080p.HEVC.x265-MeGusta-2025-04-25-at-04-52.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.Torrenting.com - Zero.Day.2025.S01E04.1080p.WEB.h264-ETHEL-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.Torrenting.com - Zero.Day.2025.S01E04.1080p.WEB.h264-ETHEL-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.Torrenting.com - Zero.Day.2025.S01E04.1080p.WEB.h264-ETHEL-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.Torrenting.com - Zero.Day.2025.S01E04.720p.HEVC.x265-MeGusta-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.Torrenting.com - Zero.Day.2025.S01E05.1080p.WEB.h264-ETHEL-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.Torrenting.com - Zero.Day.2025.S01E05.1080p.WEB.h264-ETHEL-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.Torrenting.com - Zero.Day.2025.S01E05.1080p.WEB.h264-ETHEL-2025-04-25-at-04-48.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.Torrenting.com - Zero.Day.2025.S01E05.720p.HEVC.x265-MeGusta-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.Torrenting.com - Zero.Day.2025.S01E05.720p.HEVC.x265-MeGusta-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.Torrenting.com - Zero.Day.2025.S01E05.720p.HEVC.x265-MeGusta-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.Torrenting.com - Zero.Day.2025.S01E05.720p.HEVC.x265-MeGusta-2025-04-25-at-04-48.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.Torrenting.com - Zero.Day.2025.S01E06.1080p.HEVC.x265-MeGusta-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.Torrenting.com - Zero.Day.2025.S01E06.1080p.HEVC.x265-MeGusta-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.Torrenting.com - Zero.Day.2025.S01E06.1080p.WEB.H264-SuccessfulCrab-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.Torrenting.com - Zero.Day.2025.S01E06.1080p.WEB.H264-SuccessfulCrab-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.Torrenting.com - Zero.Day.2025.S01E06.1080p.WEB.H264-SuccessfulCrab-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.Torrenting.com - Zero.Day.2025.S01E06.1080p.WEB.H264-SuccessfulCrab-2025-04-25-at-04-48.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.Torrenting.com - Zero.Day.2025.S01E06.720p.HEVC.x265-MeGusta-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.Torrenting.com - Zero.Day.2025.S01E06.720p.HEVC.x265-MeGusta-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.Torrenting.com - Zero.Day.2025.S01E06.720p.HEVC.x265-MeGusta-2025-04-25-at-04-48.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.Torrenting.com - Zero.Day.S01E01.720p.HEVC.x265-MeGusta-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.Torrenting.com - Zero.Day.S01E01.720p.HEVC.x265-MeGusta-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.Torrenting.com - Zero.Day.S01E01.720p.HEVC.x265-MeGusta-2025-04-25-at-04-48.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.Torrenting.com - Zero.Day.S01E01.Episode.1.1080p.HEVC.x265-MeGusta-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.Torrenting.com - Zero.Day.S01E01.Episode.1.1080p.HEVC.x265-MeGusta-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.Torrenting.com - Zero.Day.S01E01.Episode.1.1080p.HEVC.x265-MeGusta-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.Torrenting.com - Zero.Day.S01E02.Episode.2.1080p.HEVC.x265-MeGusta-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.Torrenting.com - Zero.Day.S01E03.Episode.3.1080p.HEVC.x265-MeGusta-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.Torrenting.com - Zero.Day.S01E03.Episode.3.1080p.HEVC.x265-MeGusta-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.Torrenting.com - Zero.Day.S01E03.Episode.3.1080p.HEVC.x265-MeGusta-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.Torrenting.com - Zero.Day.S01E04.Episode.4.1080p.HEVC.x265-MeGusta-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.Torrenting.com - Zero.Day.S01E04.Episode.4.1080p.HEVC.x265-MeGusta-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.Torrenting.com - Zero.Day.S01E04.Episode.4.1080p.HEVC.x265-MeGusta-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.Torrenting.com - Zero.Day.S01E05.Episode.5.1080p.HEVC.x265-MeGusta-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.Torrenting.com - Zero.Day.S01E06.Episode.6.1080p.HEVC.x265-MeGusta-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.Torrenting.com - Zero.Day.S01E06.Episode.6.1080p.HEVC.x265-MeGusta-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/www.Torrenting.com - Zero.Day.S01E06.Episode.6.1080p.HEVC.x265-MeGusta-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Нулевой день Zero Day Сезон 1 Серии 1-6 из 6 (Лесли Линка Глаттер) [2025 США триллер, драма WEB-DLRip] MVO (LostFilm [rutracker-6653184]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Нулевой день Zero Day Сезон 1 Серии 1-6 из 6 (Лесли Линка Глаттер) [2025, США, Триллер, драма, WEB-DLRip-AVC] Dub (Movie D [rutracker-6650860]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Нулевой день Zero Day Сезон 1 Серии 1-6 из 6 (Лесли Линка Глаттер) [2025, США, Триллер, драма, WEB-DLRip-AVC] Dub (Movie D [rutracker-6650860]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Нулевой день Zero Day Сезон 1 Серии 1-6 из 6 (Лесли Линка Глаттер) [2025, США, Триллер, драма, WEB-DLRip-AVC] Dub (Movie D [rutracker-6650860]-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Нулевой день Zero Day Сезон 1 Серии 1-6 из 6 (Лесли Линка Глаттер) [2025, США, Триллер, драма, WEB-DLRip-AVC] Dub (Movie D [rutracker-6650860]-2025-04-25-at-04-48.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Нулевой день Zero Day Сезон 1 Серии 1-6 из 6 (Лесли Линка Глаттер) [2025, США, триллер, драма, Dolby Vision, WEB-DL 2160p, [rutracker-6651740]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Нулевой день Zero Day Сезон 1 Серии 1-6 из 6 (Лесли Линка Глаттер) [2025, США, триллер, драма, Dolby Vision, WEB-DL 2160p, [rutracker-6651740]-2025-04-25-at-04-48.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Нулевой день Zero Day Сезон 1 Серии 1-6 из 6 (Лесли Линка Глаттер) [2025, США, триллер, драма, WEB-DL 1080p] Dub (Movie Du [rutracker-6649817]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Нулевой день Zero Day Сезон 1 Серии 1-6 из 6 (Лесли Линка Глаттер) [2025, США, триллер, драма, WEB-DL 1080p] Dub (Movie Du [rutracker-6649817]-2025-04-25-at-04-48.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Нулевой день Zero Day Сезон 1 Серии 1-6 из 6 (Лесли Линка Глаттер) [2025, США, триллер, драма, WEB-DL 2160p, Dolby Vision] [rutracker-6651740]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Нулевой день Zero Day Сезон 1 Серии 1-6 из 6 (Лесли Линка Глаттер) [2025, США, триллер, драма, WEB-DL 2160p, Dolby Vision] [rutracker-6651740]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Нулевой день Zero Day Сезон 1 Серии 1-6 из 6 (Лесли Линка Глаттер) [2025, США, триллер, драма, WEB-DL 2160p, Dolby Vision] [rutracker-6651740]-2025-04-25-at-04-40.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Нулевой день Zero Day Сезон 1 Серии 1-6 из 6 (Лесли Линка Глаттер) [2025, США, триллер, драма, WEB-DL 2160p, Dolby Vision] [rutracker-6651740]-2025-04-25-at-04-44.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Нулевой день Zero Day Сезон 1 Серии 1-6 из 6 (Лесли Линка Глаттер) [2025, США, триллер, драма, WEB-DL 720p] MVO (LostFilm) [rutracker-6652970]-2025-04-25-at-04-31.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Нулевой день Zero Day Сезон 1 Серии 1-6 из 6 (Лесли Линка Глаттер) [2025, США, триллер, драма, WEB-DL 720p] MVO (LostFilm) [rutracker-6652970]-2025-04-25-at-04-35.json`
+- `/home/bkoz/src/alpha60-samples/zero-day-01/2025-04-25-at-04-03/Нулевой день Zero Day Сезон 1 Серии 1-6 из 6 (Лесли Линка Глаттер) [2025, США, триллер, драма, WEB-DLRip] Dub (Movie Dubbi [rutracker-6650798]-2025-04-25-at-04-56.json`
+
+## Sample archive discontinuities
+
+- hourly gap: last `2025-03-30 01:03`, resumed `2025-03-30 03:03` — missing 1 hour(s)
+- hourly gap: last `2025-04-25 04:03`, resumed `2025-04-26 10:03` — missing 29 hour(s)

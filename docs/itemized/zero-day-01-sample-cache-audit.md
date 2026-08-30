@@ -13,16 +13,18 @@ description: "Cache coverage and visualization audit for one media object."
 | --- | --- |
 | Media object | Zero Day |
 | Collection key | `zero-day-01` |
+| imdb_id | [tt23872886](https://www.imdb.com/title/tt23872886/) |
+| wikipedia_url | [Zero Day (American TV series)](https://en.wikipedia.org/wiki/Zero_Day_(American_TV_series)) |
 | Sample dates | 2025-02-20-to-2025-06-04 |
-| Sample days | 105 (2025–2025) |
+| Sample days | 105 |
 | BTIH count | 296 |
 | Unique BTIH count | 280 |
-| Downloaders total | 19,866,806 |
-| Uploaders total | 1,363,442 |
-| Data version | `2026-08-05` |
+| Downloaders total | 20,355,013 |
+| Uploaders total | 1,475,855 |
+| Data version | `2026-06-18` |
 | IP geolocation version | `6:1777968300` |
 
-## 2. Cache coverage report
+## 2. Sample coverage report
 
 - Generated: 2026-08-20T23:40:30Z
 - Sample directory: `/home/bkoz/src/alpha60-samples/zero-day-01`
@@ -967,17 +969,40 @@ the write completed. Caching proceeded past every file listed here.
 - hourly gap: last `2025-03-30 01:03`, resumed `2025-03-30 03:03` — missing 1 hour(s)
 - hourly gap: last `2025-04-25 04:03`, resumed `2025-04-26 10:03` — missing 29 hour(s)
 
-## 3. Visualization pass — graphs
+## 3. Media objects file size histogram
+
+![Zero Day collection size histogram](figures/zero-day-01-cumulative-detail-btiha-itemized-by-bytes.svg)
+
+## 4. Visualization pass — graphs
 
 ### Downloads by week cumulative (normalized start)
 
-![zero-day-01 downloads by week](figures/zero-day-01-downloads-by-week-zero-day-01-week.svg)
+<script type="text/javascript" crossorigin="anonymous" id="graph-hover"
+	src="../../resources/izzi-graph-hover-txt-polyline-red.js">
+</script>
+
+<div class="media-object-audit-week-graph" style="max-width: 100%;">
+{% include_relative figures/zero-day-01-downloads-by-week-zero-day-01-week.svg %}
+</div>
+<style>
+.media-object-audit-week-graph svg {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+</style>
 
 ### Downloads by day, Saturday and Sunday in gray
 
 ![zero-day-01 downloads by day](figures/zero-day-01-downloads-by-day-day.svg)
 
-## 4. Visualization pass — maps
+## 5. Visualization pass — maps
+
+### Cumulative geographic slices
+
+| Africa | Americas | Asia | Europe | Oceania | Unknown |
+| --- | --- | --- | --- | --- | --- |
+| 1.83 | 14.32 | 26.41 | 52.92 | 0.95 | 0.60 |
 
 ### Cumulative network infrastructure
 
