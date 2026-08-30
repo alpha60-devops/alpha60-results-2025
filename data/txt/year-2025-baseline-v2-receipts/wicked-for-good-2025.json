@@ -1,0 +1,253 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt19847976",
+    "imdb_id": "tt19847976",
+    "revision": "fbeb53a0b523f937fae2f23d14689d8c5c84dd5a",
+    "wikidata_id": "Q114817050",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Wicked:_For_Good"
+  },
+  "coverage_sha256": "9b28fc786dc1a43fa1f41796df448ea83a31a159f9626cd56fab5a8e82d21c03",
+  "generated_at": "2026-08-30T17:28:42.727475+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "aao-checksum-manifest": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/SHA256SUMS",
+      "sha256": "4a4818facd85b709f0321b0a6de31b4a3eff6f108f3b9354c75632926e6baa48",
+      "size": 266728
+    },
+    "aao-release": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/release.json",
+      "sha256": "3ce0984da2d12b0e3697e76c02608bd9d1a955ee3d00e0a7054bdd297b8f18c8",
+      "size": 1342
+    },
+    "aao-verification": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-aao-verification.json",
+      "sha256": "e01294ebce8e54b65e16ab83017fa5585efe6f7a0a0f1a5e0f734e08d8e223fd",
+      "size": 854
+    },
+    "archive-map": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-cache-archive-map.json",
+      "sha256": "8d4d506f23cd80f46baf010bd17509c916083e75eb8b43b052641138c3f308f1",
+      "size": 125170
+    },
+    "btiha-metadata-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/wicked-for-good-2025-cumulative-btiha-media-objects.json",
+      "sha256": "8ac0fede1b7554d1b6c8ff43da43ac8f65e0745871cfc4cceb3fde9d41ba0351",
+      "size": 311494
+    },
+    "canonical-metadata": {
+      "path": "/tmp/alpha60-swarm-metadata-2025/metadata/wicked-for-good-2025.json",
+      "sha256": "dc32bf6dc139634b2599604825ff7f875de7850bf7fb3c107b5623d45532eac7",
+      "size": 9267
+    },
+    "coverage-report": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-coverage-evidence/wicked-for-good-2025.md",
+      "sha256": "6470adad80f2dd5ce300799c0cc3f7110742e28fb2af991e52d0ce5aaebf023f",
+      "size": 746
+    },
+    "cumulative-aggregate-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.cumulative/wicked-for-good-2025-cumulative-aggregate.geojson.gz",
+      "sha256": "eca2e6910d9955578dc650562b54994bd3a41a16ac9caaca43a9c81c8b7e7071",
+      "size": 1118409
+    },
+    "cumulative-btiha-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.cumulative/wicked-for-good-2025-cumulative-btiha.geojson.gz",
+      "sha256": "ad5a79a330a7cab1156ec4c13fc656cc07b71251638cdafc48111f0ac2ea5c86",
+      "size": 21289840
+    },
+    "cumulative-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/wicked-for-good-2025-cumulative.json",
+      "sha256": "0a92b76ed840cb994a3a445f4fd36c6d511709b4c903364f08660ccd427bd50f",
+      "size": 15728
+    },
+    "day-bundle-receipt": {
+      "path": "/tmp/year-2025-day-bundles/wicked-for-good-2025/receipt.json",
+      "sha256": "041d4f6d12800766c032943a03dd7be11999b1be83c7885babfb44154bef633c",
+      "size": 41594
+    },
+    "ip-swarm-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/wicked-for-good-2025-cumulative-ip-swarm.json",
+      "sha256": "2b7369f38688deee9ae1bf332e071bf369dfc2e3d6e774001df92b70b8300469",
+      "size": 42344
+    },
+    "published-day-bundle-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-day-product-receipts/wicked-for-good-2025.json",
+      "sha256": "041d4f6d12800766c032943a03dd7be11999b1be83c7885babfb44154bef633c",
+      "size": 41594
+    },
+    "week-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/wicked-for-good-2025-week.json",
+      "sha256": "15ad95168fcde06ac7ad36fb5c7aa895f2e316072a865bd6e6f6e09f7c4c1f13",
+      "size": 1374800
+    }
+  },
+  "media_object": "wicked-for-good-2025",
+  "published_files": {
+    "data/csv/bytes/wicked-for-good-2025-cumulative-detail.2025-btiha-itemized-by-bytes.csv": "215c3e9b5a63320f7c5d9104efd8516a9546fd5aac711abe1710ddd361b73e80",
+    "docs/itemized/figures/wicked-for-good-2025-carto-4k.webp": "6d6ffc89f4e5a4a5942073a5bc6902475b659b9040baaf03699e456f3ad3571a",
+    "docs/itemized/figures/wicked-for-good-2025-carto.png": "cd3d30286b17b2f7d1f8f84c4b8e190b7d3774e80e541986e23cc7ec87e01e64",
+    "docs/itemized/figures/wicked-for-good-2025-cumulative-detail-btiha-itemized-by-bytes.svg": "85f60ae4df31198cda03ab3c9e4e29a2e0f15af6355d73d0b75a48bbb4090abb",
+    "docs/itemized/figures/wicked-for-good-2025-data-ge-1080p-4k.webp": "0a064007b84c80628d73855de4202ee0f47dcde41b4ec64c7b94ded2c802b0f5",
+    "docs/itemized/figures/wicked-for-good-2025-data-ge-1080p.webp": "127cdbd76ea967c4026f13208e1f7ab17fed221959b8554ce09cd20653466c89",
+    "docs/itemized/figures/wicked-for-good-2025-data-lt-1080p-4k.webp": "69216a84fb9873648d7537a32d94678035a1b20ba0de40c1c4c76c0beac2d0a0",
+    "docs/itemized/figures/wicked-for-good-2025-data-lt-1080p.webp": "cc6b18e5cea94c5cd106583bf7df3f3a8d7d36e8e45e3908218c4f27518f8ce6",
+    "docs/itemized/figures/wicked-for-good-2025-downloads-by-day-day.svg": "4167f0d99f8267d0cb314f9878ca957d34c01cf1cd2c71bd3b51a54596fb0b50",
+    "docs/itemized/figures/wicked-for-good-2025-downloads-by-week-wicked-for-good-2025-week.svg": "01e972cf4378b6f8301e017f9405da8cba9bb5d4f19ca50bd4bfd472b34b37bf",
+    "docs/itemized/wicked-for-good-2025-sample-cache-audit.md": "fbe8152ddade3b04560c289c39955e33822658d6b0c7f9bbbea0211e90c5e56e",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-year-2025-render",
+      "revision": "c520555c40beece2e38f62878e2d4cc1b312c505",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "c192c54f882171dafc74c038ec769f1e68bf8020d12a342d2334086b5b5ee5ea",
+      "size": 36998168
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.cumulative/wicked-for-good-2025-cumulative-btiha.geojson.gz",
+        "sha256": "ad5a79a330a7cab1156ec4c13fc656cc07b71251638cdafc48111f0ac2ea5c86",
+        "size": 21289840
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/json/wicked-for-good-2025-cumulative-btiha-media-objects.json",
+        "sha256": "8ac0fede1b7554d1b6c8ff43da43ac8f65e0745871cfc4cceb3fde9d41ba0351",
+        "size": 311494
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/izzi",
+      "revision": "b988ee7fd690a74a696c27c9aadf40c204a4c780",
+      "untracked": false
+    },
+    "media_object": "wicked-for-good-2025",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60-results-2025/bin/a60-meta-collection.exe",
+      "sha256": "e71f9def936a6868d5282a5ff7dece07ade360eefa07abebde75434a927220f7",
+      "size": 8743680
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          58.0,
+          54.0,
+          34.0,
+          34.0,
+          30.0,
+          29.0,
+          28.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Seoul",
+          "Moscow",
+          "Nanjing",
+          "Istanbul",
+          "Saint Petersburg",
+          "London",
+          "Shanghai",
+          "Amsterdam",
+          "Hangzhou",
+          "Incheon"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          57.0,
+          38.0,
+          33.0,
+          33.0,
+          27.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Seoul",
+          "Moscow",
+          "Nanjing",
+          "Istanbul",
+          "Saint Petersburg",
+          "Shanghai",
+          "Amsterdam",
+          "Hangzhou",
+          "London",
+          "Incheon"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 21,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 25,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 15,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "c520555c40beece2e38f62878e2d4cc1b312c505",
+    "cartofreako": "fc58111b5bfa7667b12f6ade522ae5e566b464d1",
+    "izzi": "b988ee7fd690a74a696c27c9aadf40c204a4c780",
+    "metadata": "fbeb53a0b523f937fae2f23d14689d8c5c84dd5a",
+    "results_aao_adoption": "9cd9d91a6fbb560ac2a96beadf4c83b94daf6a88"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2025"
+}
