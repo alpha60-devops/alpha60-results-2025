@@ -1,0 +1,1725 @@
+{
+  "archive": {
+    "path": "/home/bkoz/src/alpha60-xperiments/year-2025-archives/severance-201.cache/cache.20250717.tar.xz",
+    "sha256": "a5ebbb173507d488347adc3ac23582bef8798ad5f95ed7516400ac6aa86bcb39",
+    "size": 3591874788
+  },
+  "authorization": {
+    "archive_mutated": false,
+    "excluded_member_classes": [
+      "hour",
+      "week",
+      "cumulative"
+    ],
+    "raw_samples_opened": false,
+    "scope": "read only streaming of per-torrent day records"
+  },
+  "collection_key": "severance-201",
+  "day_cache_stream_contract": {
+    "authorization": {
+      "archive_mutated": false,
+      "excluded_member_classes": [
+        "hour",
+        "week",
+        "cumulative"
+      ],
+      "raw_samples_opened": false,
+      "scope": "read only streaming of per-torrent day records"
+    },
+    "available_day_products": 182,
+    "cache_members": 48948,
+    "collection_key": "severance-201",
+    "first_date": "2025-01-17",
+    "first_index": 1,
+    "indices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144,
+      145,
+      146,
+      147,
+      148,
+      149,
+      150,
+      151,
+      152,
+      153,
+      154,
+      155,
+      156,
+      157,
+      158,
+      159,
+      160,
+      161,
+      162,
+      163,
+      164,
+      165,
+      166,
+      167,
+      168,
+      169,
+      170,
+      171,
+      172,
+      173,
+      174,
+      175,
+      176,
+      177,
+      178,
+      179,
+      180,
+      181,
+      182
+    ],
+    "last_date": "2025-07-17",
+    "last_index": 182,
+    "missing_indices": [],
+    "sample_span_days": 182,
+    "schema": "alpha60-day-cache-stream-contract/1",
+    "sparse": false,
+    "status": "pass"
+  },
+  "day_product_contract": {
+    "collection_key": "severance-201",
+    "day_products": 182,
+    "first_date": "2025-01-17",
+    "first_index": 1,
+    "geojson_data_version": "20260701",
+    "ip_geolocation_version": "6:1777968300",
+    "json_data_version": "2026-08-05",
+    "last_date": "2025-07-17",
+    "last_index": 182,
+    "schema": "alpha60-day-product-contract/1",
+    "sparse": false,
+    "status": "pass"
+  },
+  "publications": {
+    "data/geojson.day/severance-201-day-00001.geojson.gz": {
+      "sha256": "394a2292acec8dee540e870b080f11b957c78b72d2add6d77e514b4cd53351b4",
+      "size": 86395
+    },
+    "data/geojson.day/severance-201-day-00002.geojson.gz": {
+      "sha256": "13b6eb946002ce03a182e8722cb9839cf391f1b70422a99f2c8a1d8ead4d30af",
+      "size": 228079
+    },
+    "data/geojson.day/severance-201-day-00003.geojson.gz": {
+      "sha256": "17be39a618b44e7993227ac6dcf95c20bc91803ded5c9933d89ee75b9716ed1e",
+      "size": 241638
+    },
+    "data/geojson.day/severance-201-day-00004.geojson.gz": {
+      "sha256": "485a0361f5ba92228ea7fcc6184b4f16fc28ec03f6a2c983a6c04cd9ff29d5e0",
+      "size": 261131
+    },
+    "data/geojson.day/severance-201-day-00005.geojson.gz": {
+      "sha256": "a9484af710b84b02e5acfb7aac1d22cdf0416c2cfa71b596aaf36657dd6d0e28",
+      "size": 263362
+    },
+    "data/geojson.day/severance-201-day-00006.geojson.gz": {
+      "sha256": "afa595a86cfae5ef1906aa2a6cdd03a7e3f4c4cafeaa73f10cbf618e45f75058",
+      "size": 248288
+    },
+    "data/geojson.day/severance-201-day-00007.geojson.gz": {
+      "sha256": "9b8207926987671567dfc5154a13f6af4908e7b6160613e6fa5c6a66ab9412aa",
+      "size": 253392
+    },
+    "data/geojson.day/severance-201-day-00008.geojson.gz": {
+      "sha256": "46d8a20635af8faef47f5fcd4715005c24084ece16d9a1e0ba778ceb1581ab5d",
+      "size": 264581
+    },
+    "data/geojson.day/severance-201-day-00009.geojson.gz": {
+      "sha256": "0e6c2a9e4673ddb113d4ec79db705de233322dc6e77e2d1401fd0be930af85b3",
+      "size": 319584
+    },
+    "data/geojson.day/severance-201-day-00010.geojson.gz": {
+      "sha256": "a029b41ece2f20cd79e17a8c72963519e599e43112300576d456b83c249046e8",
+      "size": 345647
+    },
+    "data/geojson.day/severance-201-day-00011.geojson.gz": {
+      "sha256": "80a6293b1344c3f69675b735bcea23e1f984965a57caf33f45eb5b01c9e87b2c",
+      "size": 347655
+    },
+    "data/geojson.day/severance-201-day-00012.geojson.gz": {
+      "sha256": "03d96879488bab5d44821b2bb294de48029577900f65d11e4d7cc200b6e2a274",
+      "size": 337286
+    },
+    "data/geojson.day/severance-201-day-00013.geojson.gz": {
+      "sha256": "e78b9c43f640907607ce6e2de41a28eab4c18bfdcf41f7620dfddfeb6a06c3f0",
+      "size": 317055
+    },
+    "data/geojson.day/severance-201-day-00014.geojson.gz": {
+      "sha256": "1d63f7f4cc196f447b074794e28fd8eb1bc5de8e87edef39709fcef704a76d78",
+      "size": 303343
+    },
+    "data/geojson.day/severance-201-day-00015.geojson.gz": {
+      "sha256": "4989a0e5c700007365a26c4f3b2323dfa70480cbb5f5c7656304ad1a7202d5d5",
+      "size": 346105
+    },
+    "data/geojson.day/severance-201-day-00016.geojson.gz": {
+      "sha256": "1e74ff73e422357d4ec7100fcc504b35d8998b255b02051b0edcdb54634fc9c8",
+      "size": 327483
+    },
+    "data/geojson.day/severance-201-day-00017.geojson.gz": {
+      "sha256": "f144fb627bdd674e65cc3faf2ee6659eae3a48314ca3842c2e4a770dbecce545",
+      "size": 323099
+    },
+    "data/geojson.day/severance-201-day-00018.geojson.gz": {
+      "sha256": "bdc61a95ca4983d1373b661751148666030451d687c903b1f9d34a09894c1962",
+      "size": 330976
+    },
+    "data/geojson.day/severance-201-day-00019.geojson.gz": {
+      "sha256": "4de731fc10c78fa09938320c763bd93bb7f954e404f71dec54036064dcf74745",
+      "size": 331274
+    },
+    "data/geojson.day/severance-201-day-00020.geojson.gz": {
+      "sha256": "2083ff519a51607b77e21731a94568e84176d8b5c516a71c6807b1b1f420bf8c",
+      "size": 333992
+    },
+    "data/geojson.day/severance-201-day-00021.geojson.gz": {
+      "sha256": "c559b2556d37d908fc32a8cce701ceafeee77ad26373af532128f26303b0d349",
+      "size": 322166
+    },
+    "data/geojson.day/severance-201-day-00022.geojson.gz": {
+      "sha256": "a07856ce3a6305b34aa4c9b7f9d4e8f611df2ac361ae07ffb647e1cf35f77f8a",
+      "size": 314401
+    },
+    "data/geojson.day/severance-201-day-00023.geojson.gz": {
+      "sha256": "c9a6a558da36051f49fd366a8d97dc93a78937e87b6a5f312624025c041e7ac6",
+      "size": 305763
+    },
+    "data/geojson.day/severance-201-day-00024.geojson.gz": {
+      "sha256": "d70610ac84d4b845bd25fb56a54c99e04e5968dfba5dc7c9ae45d26dda285a41",
+      "size": 298235
+    },
+    "data/geojson.day/severance-201-day-00025.geojson.gz": {
+      "sha256": "1bdca248088604d4e7d247674a86437c4116fb0c9ac893aa197f6da4c31726be",
+      "size": 317468
+    },
+    "data/geojson.day/severance-201-day-00026.geojson.gz": {
+      "sha256": "d4cd233af2e23c53cdcf3e4287b47a764e1f485f270532eef7e68b4b86b96fde",
+      "size": 313656
+    },
+    "data/geojson.day/severance-201-day-00027.geojson.gz": {
+      "sha256": "faae6502a81d881ebeeee5b7dabb320cf9a18e477567ad2129c84fa7e1ddee51",
+      "size": 306347
+    },
+    "data/geojson.day/severance-201-day-00028.geojson.gz": {
+      "sha256": "5f710cef15e9070dc8681934368b4fb686573ec3800eac1042930ff7387c48be",
+      "size": 310250
+    },
+    "data/geojson.day/severance-201-day-00029.geojson.gz": {
+      "sha256": "b43f1c1f789d7a488f68e844f12d9babc06d796b68d15d003203b446296877ae",
+      "size": 302394
+    },
+    "data/geojson.day/severance-201-day-00030.geojson.gz": {
+      "sha256": "a40f416f8475e76e2b8afd38531eafc65235834b8ce7c826d6d8fde13a6f32c9",
+      "size": 278385
+    },
+    "data/geojson.day/severance-201-day-00031.geojson.gz": {
+      "sha256": "df9df851a70fe5d3632cf681cfae3c46540645e585268eaddda197f492aa18ef",
+      "size": 292912
+    },
+    "data/geojson.day/severance-201-day-00032.geojson.gz": {
+      "sha256": "69884054569c5af96ada31fc2cad58d7e9d066fcb64a39bcaedb99548d2e692d",
+      "size": 308822
+    },
+    "data/geojson.day/severance-201-day-00033.geojson.gz": {
+      "sha256": "214edc17c0b5184847074376cc1cb3de32588c57044ac7e09a2fe54631aabbb3",
+      "size": 310013
+    },
+    "data/geojson.day/severance-201-day-00034.geojson.gz": {
+      "sha256": "ae95ac3af3229ebeb46ee17c2acdf8cc57e424e1d8ef62d11eb7f113c8914441",
+      "size": 311557
+    },
+    "data/geojson.day/severance-201-day-00035.geojson.gz": {
+      "sha256": "49f9064e4cab10dccf4f03f82842020712693c723d862e6ec3918d047cfa7a26",
+      "size": 311133
+    },
+    "data/geojson.day/severance-201-day-00036.geojson.gz": {
+      "sha256": "d68dbbcb02005e42aaf44a85be61d3a8be219a5f760dadbf8367fa158e96cacb",
+      "size": 305300
+    },
+    "data/geojson.day/severance-201-day-00037.geojson.gz": {
+      "sha256": "7b9eb60abf39b178b05c02fa809af6be6da8a7f8346c749e4f48579219e9d646",
+      "size": 295481
+    },
+    "data/geojson.day/severance-201-day-00038.geojson.gz": {
+      "sha256": "678981bc0f535fe7ed87242c4f133a28e15896d229d69312586d2c814a16cc9a",
+      "size": 305160
+    },
+    "data/geojson.day/severance-201-day-00039.geojson.gz": {
+      "sha256": "d1e5062cf5fb6fa66de1645e4bc85ec8691271a7e3fda35acf45ab821ca39e0a",
+      "size": 314905
+    },
+    "data/geojson.day/severance-201-day-00040.geojson.gz": {
+      "sha256": "c0688f1c5000662759bce3c5b39b1190d8c9b5a13bd4569817792a255bbe1685",
+      "size": 310065
+    },
+    "data/geojson.day/severance-201-day-00041.geojson.gz": {
+      "sha256": "cdbc1e117a3d265e6473de630c76e35edaf907130cd511c93e2cc2491876daa3",
+      "size": 300465
+    },
+    "data/geojson.day/severance-201-day-00042.geojson.gz": {
+      "sha256": "9a36c41d257fe8313ddfab9d24fde6bdeb9858f99d96f02f2d5e8de3c1a14582",
+      "size": 288320
+    },
+    "data/geojson.day/severance-201-day-00043.geojson.gz": {
+      "sha256": "f36b5344ec08ed666b4c37c7d8a0dd34308e5013e5d117b41146815381a818d8",
+      "size": 299394
+    },
+    "data/geojson.day/severance-201-day-00044.geojson.gz": {
+      "sha256": "5ccfeb38b8ea1302a7d7d3ad5a5a4dc0d9ebf680e4a6bdcf8e7f4098f9b1d3de",
+      "size": 284789
+    },
+    "data/geojson.day/severance-201-day-00045.geojson.gz": {
+      "sha256": "c6ef869f706a0d769c8affa868dfd9a33b516d5912cc34d310afcea9cef070ad",
+      "size": 303344
+    },
+    "data/geojson.day/severance-201-day-00046.geojson.gz": {
+      "sha256": "e97ca5391b36933239e4c7ba36085e95bd4ffff5322615911dbb7d9317aa63b0",
+      "size": 315282
+    },
+    "data/geojson.day/severance-201-day-00047.geojson.gz": {
+      "sha256": "9b0d51383538703c7510ef980d9b5150b69d6445bb96897c9b6769427f0c4cd6",
+      "size": 309276
+    },
+    "data/geojson.day/severance-201-day-00048.geojson.gz": {
+      "sha256": "f26403f99e37495f228d1c1a006881143dfed56bdab30c343469de212fbb0ae7",
+      "size": 314456
+    },
+    "data/geojson.day/severance-201-day-00049.geojson.gz": {
+      "sha256": "148d67406bd26b3950ea6680a953f487d5b0ec13a77bf82763bb6b61c20f437e",
+      "size": 313470
+    },
+    "data/geojson.day/severance-201-day-00050.geojson.gz": {
+      "sha256": "34bddcc9c81c1ed43b695c97d5c514bef02eedb297d99ec8141d0466b6cc43f1",
+      "size": 295149
+    },
+    "data/geojson.day/severance-201-day-00051.geojson.gz": {
+      "sha256": "e8281bd568062579e4d07150cdbbe79ce3280e919bf8a148b118ad657fe208e6",
+      "size": 283044
+    },
+    "data/geojson.day/severance-201-day-00052.geojson.gz": {
+      "sha256": "b8ac0fec9826e1ab024348764e43c32155ea4bafedc0cf1fca85cc52b5e0b8ef",
+      "size": 297914
+    },
+    "data/geojson.day/severance-201-day-00053.geojson.gz": {
+      "sha256": "83a714a4ade0778749cdb4dda4947928933f5efebf5ec62e7d4f58abe7a0d666",
+      "size": 314004
+    },
+    "data/geojson.day/severance-201-day-00054.geojson.gz": {
+      "sha256": "3d9d16501f51760bff7ca790b423a433370913343c372b7e37995d82475f0981",
+      "size": 306906
+    },
+    "data/geojson.day/severance-201-day-00055.geojson.gz": {
+      "sha256": "506ff98f72f9c222ab2adeb09b7c44cb5268c30f5bb9fd77dee6c46281b20062",
+      "size": 305516
+    },
+    "data/geojson.day/severance-201-day-00056.geojson.gz": {
+      "sha256": "d26565cb49f80b2314f46ec27116783c8767b63588b3d0d0b2a1ecb6550f3d65",
+      "size": 288080
+    },
+    "data/geojson.day/severance-201-day-00057.geojson.gz": {
+      "sha256": "ffe726deae18c4efcdbf16cc20cb6970f622519d8e0462ab33c1255ff8210656",
+      "size": 290451
+    },
+    "data/geojson.day/severance-201-day-00058.geojson.gz": {
+      "sha256": "b5de08a60a00ea601bf681b6726aef1f90d4f6bcf06a3db63d4f5d5008730956",
+      "size": 275469
+    },
+    "data/geojson.day/severance-201-day-00059.geojson.gz": {
+      "sha256": "299dd72e500e473f28f7c630ef8913143a52d20f70064fe6cd9c66a1a81f4c05",
+      "size": 268230
+    },
+    "data/geojson.day/severance-201-day-00060.geojson.gz": {
+      "sha256": "d07d324dfc4db62724d5e2b992ed9c57e17b3adc35f5bd04b43723dbf28c691c",
+      "size": 303667
+    },
+    "data/geojson.day/severance-201-day-00061.geojson.gz": {
+      "sha256": "dbc46583d432cf7a6477c934df4373010fb06ee9bc3ea8e66aec011b88408d1a",
+      "size": 301200
+    },
+    "data/geojson.day/severance-201-day-00062.geojson.gz": {
+      "sha256": "29308f01d3acbf8c010feb042ee9df13cdb6336c62e4a1af1e71ba6ff91e4ddb",
+      "size": 293606
+    },
+    "data/geojson.day/severance-201-day-00063.geojson.gz": {
+      "sha256": "7944c022f1bd6edf119df0713827918cd3a09a91831f0c29aac7214c2ce87dbd",
+      "size": 300565
+    },
+    "data/geojson.day/severance-201-day-00064.geojson.gz": {
+      "sha256": "a31b917ae4d4ee7a454f13799d16f0145e6f6007ecc73aea456b6c03d4b0148b",
+      "size": 296101
+    },
+    "data/geojson.day/severance-201-day-00065.geojson.gz": {
+      "sha256": "275aacb32ddd38be189f701940ebbea038774ec6d63cbb7d5899c3701b6a0bdb",
+      "size": 286470
+    },
+    "data/geojson.day/severance-201-day-00066.geojson.gz": {
+      "sha256": "a4cd2eec57a909919a44e626298f32b0027d8f90a154c547bc43cd27834acf40",
+      "size": 289340
+    },
+    "data/geojson.day/severance-201-day-00067.geojson.gz": {
+      "sha256": "94ecef96ef1d774189096d297a282c25839e0e1315729ac9dc61a2e1efb2cc26",
+      "size": 318457
+    },
+    "data/geojson.day/severance-201-day-00068.geojson.gz": {
+      "sha256": "cf022e49c99d7e24686dca2002afb185a4836ff671ad546b573a0a1fac5a9518",
+      "size": 294824
+    },
+    "data/geojson.day/severance-201-day-00069.geojson.gz": {
+      "sha256": "bb2f5e581b57fa853f372eec2b7e9e081e055d80468ec2e4e065f8ae4652c986",
+      "size": 257838
+    },
+    "data/geojson.day/severance-201-day-00070.geojson.gz": {
+      "sha256": "e80e70226fcd067f2df2973c9bb6a42b0f9caec21f3f30d910f3b344a34cdf21",
+      "size": 269470
+    },
+    "data/geojson.day/severance-201-day-00071.geojson.gz": {
+      "sha256": "6aa75a2801be73b5332bb7ca109691c4458d3ea1dc4c4b53d2f0794b3699de22",
+      "size": 253378
+    },
+    "data/geojson.day/severance-201-day-00072.geojson.gz": {
+      "sha256": "7b85cad46f6608963f44ab17d8d335ca8bee8a5347a2ccd950386b820e464ce8",
+      "size": 244475
+    },
+    "data/geojson.day/severance-201-day-00073.geojson.gz": {
+      "sha256": "dafd2216d69365d00de6ac09cbd14826a98ca2f598e9cb58f07ddc3b15a9ae9d",
+      "size": 252083
+    },
+    "data/geojson.day/severance-201-day-00074.geojson.gz": {
+      "sha256": "bd2cdfa7efd6e1abbbff783627cdfa7b0580b603ccb7869f7368626fb197518a",
+      "size": 283552
+    },
+    "data/geojson.day/severance-201-day-00075.geojson.gz": {
+      "sha256": "8992b22f0ef3c2d43f1cc7a89da0386fcc61a7ccb492ec82b856c77220bbc1fe",
+      "size": 286678
+    },
+    "data/geojson.day/severance-201-day-00076.geojson.gz": {
+      "sha256": "2cb01ce733f2fd4519a990736ffaf42b570aeca756fae4ab7ebfe8d01c3a137c",
+      "size": 285612
+    },
+    "data/geojson.day/severance-201-day-00077.geojson.gz": {
+      "sha256": "9827b3bc6269306e04b2ee65648a53b6b2a368eb362b8dd29aab63378c9b1787",
+      "size": 283960
+    },
+    "data/geojson.day/severance-201-day-00078.geojson.gz": {
+      "sha256": "15a4bdaca4957e39b77dd07a9000bfbb9dc5790aa430547811594fac79f9e9c2",
+      "size": 263575
+    },
+    "data/geojson.day/severance-201-day-00079.geojson.gz": {
+      "sha256": "6e3170169c6f72a09d8b12841207b3e33448cd359e20486cf7a6fbd13f174dd4",
+      "size": 244209
+    },
+    "data/geojson.day/severance-201-day-00080.geojson.gz": {
+      "sha256": "e119f024a7449b2bbfccfb925fd61379eb7bfcf035a69aaced3631341a643616",
+      "size": 258608
+    },
+    "data/geojson.day/severance-201-day-00081.geojson.gz": {
+      "sha256": "2ef0c8fd50485bd08aa53b7a93b6fc6a20decfd75f011f2d835c132713b2f1cf",
+      "size": 276708
+    },
+    "data/geojson.day/severance-201-day-00082.geojson.gz": {
+      "sha256": "1c9f5c459fbfe126fc3c8dac2ce8cfc2be11f534bc1117bfe124e445a4818c12",
+      "size": 275355
+    },
+    "data/geojson.day/severance-201-day-00083.geojson.gz": {
+      "sha256": "26ff0a6ae37c54f768b9d1362fd102ae32610561f9f614e67a56a0ffdcdb516a",
+      "size": 276766
+    },
+    "data/geojson.day/severance-201-day-00084.geojson.gz": {
+      "sha256": "6134808b3a12ff75f0b25a72711d1a10d6a9f2ed4516b77774379b25acef49d9",
+      "size": 265977
+    },
+    "data/geojson.day/severance-201-day-00085.geojson.gz": {
+      "sha256": "dcb5f1cbdecd2d586bb775bc36020fb86301c6d6150542d7bf47f4105c15e639",
+      "size": 261298
+    },
+    "data/geojson.day/severance-201-day-00086.geojson.gz": {
+      "sha256": "132d48e9b065aef2889ab7c331ef04e23dce0468cb6afdd25af828c1af1b4454",
+      "size": 252318
+    },
+    "data/geojson.day/severance-201-day-00087.geojson.gz": {
+      "sha256": "8c698a02de7273d871524658e9721334289646ad99e45e79e5d8a5e2af1491ed",
+      "size": 257063
+    },
+    "data/geojson.day/severance-201-day-00088.geojson.gz": {
+      "sha256": "4d8c85cdab7634960c02df18f004e29f4acee0b48c863262d925c5a41025aae9",
+      "size": 270658
+    },
+    "data/geojson.day/severance-201-day-00089.geojson.gz": {
+      "sha256": "b18b39219925dafdd37b77961e78ad7ebdf783f6dcf652e8c6c9e36fcc6d1075",
+      "size": 258268
+    },
+    "data/geojson.day/severance-201-day-00090.geojson.gz": {
+      "sha256": "3e6324eff7ecee91be017fb2ce1d7acc7490cd4b9eddeda16df080068b2e20a9",
+      "size": 242834
+    },
+    "data/geojson.day/severance-201-day-00091.geojson.gz": {
+      "sha256": "4c89dfc8b960c8e3e9b9b75b011cbccc8d4c9f9e02e0c2697e58ba4ea387ae2e",
+      "size": 217949
+    },
+    "data/geojson.day/severance-201-day-00092.geojson.gz": {
+      "sha256": "2b4e597ffa3bbcc556af7225d83be15318177987aec6011e38733d5123bca094",
+      "size": 220675
+    },
+    "data/geojson.day/severance-201-day-00093.geojson.gz": {
+      "sha256": "5f722a292809d3ddca97a8fd6326212f7ce2f98f4d00dfd9733433feaa430513",
+      "size": 229178
+    },
+    "data/geojson.day/severance-201-day-00094.geojson.gz": {
+      "sha256": "f396de38692cc2ba3de2bc5aa285de3da5f5dd109c38e6086269472807926f77",
+      "size": 226559
+    },
+    "data/geojson.day/severance-201-day-00095.geojson.gz": {
+      "sha256": "9c1e01bfdb64710aef17f3d4c8ecfe2748f02236fa4af29acda2ad26b96620c3",
+      "size": 260302
+    },
+    "data/geojson.day/severance-201-day-00096.geojson.gz": {
+      "sha256": "0fed4e6dcf5987fe85dbe526d5ab485e349991e2534b2ae102c9e25290e2cb9f",
+      "size": 251815
+    },
+    "data/geojson.day/severance-201-day-00097.geojson.gz": {
+      "sha256": "19e6a1d5226b52fb622bd939a9fdfa2d6623b34021226ffedd568eca673e81b8",
+      "size": 247789
+    },
+    "data/geojson.day/severance-201-day-00098.geojson.gz": {
+      "sha256": "d0707933eefb07227cdd808c7be8ad67cf17bf050eb5df44e0d2143400fa93c4",
+      "size": 255495
+    },
+    "data/geojson.day/severance-201-day-00099.geojson.gz": {
+      "sha256": "96bdbdaa8a7d4cd3c929cd34c4a40f0aa96c5f2fb7a98045b1f3666793b4aebc",
+      "size": 243837
+    },
+    "data/geojson.day/severance-201-day-00100.geojson.gz": {
+      "sha256": "51c58d0f3473726cdf65bb732877ef7064b8e522dee87bcab8e99d5fd0b41a76",
+      "size": 232888
+    },
+    "data/geojson.day/severance-201-day-00101.geojson.gz": {
+      "sha256": "450383e37294fd20386bca10b4f9dc3513b794dc35df705c3bde90e2ce1178c5",
+      "size": 237242
+    },
+    "data/geojson.day/severance-201-day-00102.geojson.gz": {
+      "sha256": "21c83537a153579e8ac954b8685a12fe479c390bcfd56592c5ebdf43eb747715",
+      "size": 257500
+    },
+    "data/geojson.day/severance-201-day-00103.geojson.gz": {
+      "sha256": "83e2a7f8f7e02e3ab3501cfb3856aa85655e61ff2971544d23eb17a0f8755535",
+      "size": 264930
+    },
+    "data/geojson.day/severance-201-day-00104.geojson.gz": {
+      "sha256": "03f69388dc1320bf97c5b6e85e53599422ebd58222a52d9ba19ca38946a120e2",
+      "size": 239422
+    },
+    "data/geojson.day/severance-201-day-00105.geojson.gz": {
+      "sha256": "6ed73ebd34b9423066f8de45c91e44f5e747f5456b4b507dafc812a81ff16418",
+      "size": 237739
+    },
+    "data/geojson.day/severance-201-day-00106.geojson.gz": {
+      "sha256": "bf7411655c17b02fa5edc1a6b3e9f8f8ae01cfe6d9dee9c6f2faaa2a37e357be",
+      "size": 234916
+    },
+    "data/geojson.day/severance-201-day-00107.geojson.gz": {
+      "sha256": "e9090bcc4320ce6c9ac7b12e99cb9b2736e67b0b7b938cd1fb6c21c35c0b0750",
+      "size": 228230
+    },
+    "data/geojson.day/severance-201-day-00108.geojson.gz": {
+      "sha256": "b2a0ffb939875c0039056ffec8933cf6f391b4034e7e3fd47a7591c244c01f5d",
+      "size": 232398
+    },
+    "data/geojson.day/severance-201-day-00109.geojson.gz": {
+      "sha256": "16a8e5b222ae790421886cb691640b6216bc06478aab0108e6e29b742d6b33e1",
+      "size": 253694
+    },
+    "data/geojson.day/severance-201-day-00110.geojson.gz": {
+      "sha256": "70a55b88eb3cd82ce264d3dc223456925111fa3e907ac9a726e701398893b0b7",
+      "size": 241137
+    },
+    "data/geojson.day/severance-201-day-00111.geojson.gz": {
+      "sha256": "910ab735db37e0edd57885a6684c112f78c40c4361d0bc70f671b29964610d50",
+      "size": 242364
+    },
+    "data/geojson.day/severance-201-day-00112.geojson.gz": {
+      "sha256": "f50a79b40cd78a0d98b829b7bfc50acc6747278cc979bccc2bd81b23d3889cac",
+      "size": 232291
+    },
+    "data/geojson.day/severance-201-day-00113.geojson.gz": {
+      "sha256": "f937a639da6eb92ee75802adb8393196ba16044f3e0db9efd1aa1c467031f7e3",
+      "size": 227016
+    },
+    "data/geojson.day/severance-201-day-00114.geojson.gz": {
+      "sha256": "4e4e5a52ee2c28141c55bd894e32904bbd192e63be5b075a67d759e6d6403ee4",
+      "size": 217675
+    },
+    "data/geojson.day/severance-201-day-00115.geojson.gz": {
+      "sha256": "ac319dfed37116036b8ed889ae69eb6c3bbef72ae091804c293b47af8d6f93f5",
+      "size": 222959
+    },
+    "data/geojson.day/severance-201-day-00116.geojson.gz": {
+      "sha256": "db54d1fb027604cba85d0ff64897b1b080e00c93259befa0a36cd52825343941",
+      "size": 248933
+    },
+    "data/geojson.day/severance-201-day-00117.geojson.gz": {
+      "sha256": "be1abb92c1f705bfa0a003c8d9c532e6b27034f43b8af6bcf7ff0d990f625a13",
+      "size": 250519
+    },
+    "data/geojson.day/severance-201-day-00118.geojson.gz": {
+      "sha256": "24eca6b954d838bafaa9ddba426fb90d9b4d69f557251ef77c8885a6c3c67058",
+      "size": 249641
+    },
+    "data/geojson.day/severance-201-day-00119.geojson.gz": {
+      "sha256": "fd9e69148aace39ce82ae68cfbe4be94e0410dc679246f6665afdab0792b239a",
+      "size": 211993
+    },
+    "data/geojson.day/severance-201-day-00120.geojson.gz": {
+      "sha256": "11c9491f62b5dd7363742523ed477f932cd1c383875b2e6611ce88ebc17d4cb9",
+      "size": 243598
+    },
+    "data/geojson.day/severance-201-day-00121.geojson.gz": {
+      "sha256": "830347f96f402174b525873f15a91b314266a4bffb26ffa80a0e2a399a7c8be4",
+      "size": 234783
+    },
+    "data/geojson.day/severance-201-day-00122.geojson.gz": {
+      "sha256": "68094d1c7a4309d5342093fb42365dd5e1c7b681e21a1a3323f60b3be717ff20",
+      "size": 232898
+    },
+    "data/geojson.day/severance-201-day-00123.geojson.gz": {
+      "sha256": "2997f16ff928acb2ae714729e698d3df0621757905e62539d04a857049414ae1",
+      "size": 256945
+    },
+    "data/geojson.day/severance-201-day-00124.geojson.gz": {
+      "sha256": "3e2986fdd3662bac60c6e52c1f557a66ee4c551f3bcff091914714d9fb28df1b",
+      "size": 239166
+    },
+    "data/geojson.day/severance-201-day-00125.geojson.gz": {
+      "sha256": "3789990c8fc77f2687a1ad59fb934a6932ef107c7979ffe00a285a5770c715c7",
+      "size": 231027
+    },
+    "data/geojson.day/severance-201-day-00126.geojson.gz": {
+      "sha256": "8b8095c3770b2986bc45dbd5208e0dc3ade544813351f9492e00518b6ff505cd",
+      "size": 229618
+    },
+    "data/geojson.day/severance-201-day-00127.geojson.gz": {
+      "sha256": "1d1b30fedaf3b166fc7a7c3f30c7f9dd30d7f7d7a71e0546af407b0c3a086ba0",
+      "size": 230099
+    },
+    "data/geojson.day/severance-201-day-00128.geojson.gz": {
+      "sha256": "1a1510ef8fa3dc97268ae6deaab8ae0caead7a2afd19c685868db3003aa2a9d4",
+      "size": 211579
+    },
+    "data/geojson.day/severance-201-day-00129.geojson.gz": {
+      "sha256": "44f8e06630f66d0984d65df2eea2ca12f2c73ae42a06e5c7ce3d6ec974c8dcd7",
+      "size": 208672
+    },
+    "data/geojson.day/severance-201-day-00130.geojson.gz": {
+      "sha256": "4dbdffb676de74dc9a61f4cc7ec7343dd09217c729ad346db3296049e3c8ccbb",
+      "size": 232488
+    },
+    "data/geojson.day/severance-201-day-00131.geojson.gz": {
+      "sha256": "9f4deeff50bc2f3167f51462ec705ff2ee85befd43fbc9a50812f24df64ab4e3",
+      "size": 224278
+    },
+    "data/geojson.day/severance-201-day-00132.geojson.gz": {
+      "sha256": "7d891a36a3df9de88fb9d0d661a9ff9fe052e014d7af19c2cdb809e7cfc8992f",
+      "size": 211234
+    },
+    "data/geojson.day/severance-201-day-00133.geojson.gz": {
+      "sha256": "7f9221bb93cfbc0076499935499d3fa3bb16404d470b2abf5437ef5e749267c6",
+      "size": 213390
+    },
+    "data/geojson.day/severance-201-day-00134.geojson.gz": {
+      "sha256": "f8713ef6975e91bacd5b004933dbc0f42ea9197db53b143f002cf53d7216910a",
+      "size": 204760
+    },
+    "data/geojson.day/severance-201-day-00135.geojson.gz": {
+      "sha256": "1d9863cd7648a09a8225c7d269f141a91453d6778d645d7a955ef7b4f1931a17",
+      "size": 212123
+    },
+    "data/geojson.day/severance-201-day-00136.geojson.gz": {
+      "sha256": "0e576c91fa2cc317c3973d016692e2e322c16a3d56f18cb7876e79b0f6237be3",
+      "size": 213487
+    },
+    "data/geojson.day/severance-201-day-00137.geojson.gz": {
+      "sha256": "640860dcae621c8e6ab24894acfefc88323f80d14c965fe243248f97a2c8692e",
+      "size": 245507
+    },
+    "data/geojson.day/severance-201-day-00138.geojson.gz": {
+      "sha256": "a91559dc95f9663721eced7af00c2883610165f97127a24499fbf0625f05be49",
+      "size": 239397
+    },
+    "data/geojson.day/severance-201-day-00139.geojson.gz": {
+      "sha256": "30763848ebdc6e5ed4dd24f82a050c384e6d7afaac047cb2d31dddfae4e6b6a6",
+      "size": 238766
+    },
+    "data/geojson.day/severance-201-day-00140.geojson.gz": {
+      "sha256": "9b862dc2a81cf4777a2a2c8c58d060e4586c2a32a4e6353792c280ea025be450",
+      "size": 242503
+    },
+    "data/geojson.day/severance-201-day-00141.geojson.gz": {
+      "sha256": "a70291934efbe35f1620728fe64c957779256e23420e962b358edc273f19d0ce",
+      "size": 233652
+    },
+    "data/geojson.day/severance-201-day-00142.geojson.gz": {
+      "sha256": "0ccd02b241d3d4c9318932b9c19f202a7708b45c91cd0f9c5f5076199b7c9850",
+      "size": 228635
+    },
+    "data/geojson.day/severance-201-day-00143.geojson.gz": {
+      "sha256": "b5ab9c93f3fac36fc8f1d12098a086e40e4d2b9373a1b1aba0d738496ad729b9",
+      "size": 214756
+    },
+    "data/geojson.day/severance-201-day-00144.geojson.gz": {
+      "sha256": "731bd02de0a290bc7d9e7971f4fe7dd7252bcd1e2e1cc20c8e6199f632552ab3",
+      "size": 237026
+    },
+    "data/geojson.day/severance-201-day-00145.geojson.gz": {
+      "sha256": "8aeed2d018d160c1f932396181aa74848801fcd34925672f0a6a05bc05627e12",
+      "size": 229737
+    },
+    "data/geojson.day/severance-201-day-00146.geojson.gz": {
+      "sha256": "5f3e9bfbdd7922b74047d1c427d326068bb25c7fa3002902d16232918320b503",
+      "size": 227545
+    },
+    "data/geojson.day/severance-201-day-00147.geojson.gz": {
+      "sha256": "0ad6d08fc143e4a27fa54356a64d7cb7a71105b5d6ab725f617a526ab2cc7067",
+      "size": 223390
+    },
+    "data/geojson.day/severance-201-day-00148.geojson.gz": {
+      "sha256": "4f39a3747742b2a27caa87014c6f8e468151c2f11ac2d2a737d1d7e049ca1046",
+      "size": 216682
+    },
+    "data/geojson.day/severance-201-day-00149.geojson.gz": {
+      "sha256": "e3b4928a4bca30aa4327689498f6301b49290271222913bea7a6a5ce83f467aa",
+      "size": 203787
+    },
+    "data/geojson.day/severance-201-day-00150.geojson.gz": {
+      "sha256": "191227029941ec572d5a73bda061b27031eed53b9b5e1e29097485f9e134a093",
+      "size": 203269
+    },
+    "data/geojson.day/severance-201-day-00151.geojson.gz": {
+      "sha256": "9dbdb2e6c0a6af1abcd7702f5ca08a69825ac802a20375e94ee900aedcc053bb",
+      "size": 228623
+    },
+    "data/geojson.day/severance-201-day-00152.geojson.gz": {
+      "sha256": "9a31751452aaa02d8a6fbd13781f862e12700beece8b5e38202adcfa2da1e118",
+      "size": 234664
+    },
+    "data/geojson.day/severance-201-day-00153.geojson.gz": {
+      "sha256": "46cc3a345221723bef8d11ec6448cd3d048f14ce73fd30b19793741866389ffc",
+      "size": 213423
+    },
+    "data/geojson.day/severance-201-day-00154.geojson.gz": {
+      "sha256": "d66482143d3ef2383ef911e0865dca9ed68f3c35ab39bc03872d450c03bd2f05",
+      "size": 214671
+    },
+    "data/geojson.day/severance-201-day-00155.geojson.gz": {
+      "sha256": "45081f6266b4e9c82eb701a8ad9dbf68219de41d7aa5a76447730402e1f15c9a",
+      "size": 215487
+    },
+    "data/geojson.day/severance-201-day-00156.geojson.gz": {
+      "sha256": "8483e2f8e6fb1d8afdf394cec6ff9fb34b3dce0a4432349a2dd9a53f1ee7b932",
+      "size": 214523
+    },
+    "data/geojson.day/severance-201-day-00157.geojson.gz": {
+      "sha256": "da5a0cd4f837fefed461ba43ce737e680c58ffd349929c8262705f24aa130c77",
+      "size": 217400
+    },
+    "data/geojson.day/severance-201-day-00158.geojson.gz": {
+      "sha256": "59f1a9add4c90462a4a8b2f2c8f62b75892c6676c835ef6adcf4f5fe197fda06",
+      "size": 235370
+    },
+    "data/geojson.day/severance-201-day-00159.geojson.gz": {
+      "sha256": "7389a09722395609d0061694e940d5c10d37cd356c19f75e5d19766233c9b648",
+      "size": 237505
+    },
+    "data/geojson.day/severance-201-day-00160.geojson.gz": {
+      "sha256": "8be3608c6f51d2c4ea25fc996de0a31048d118113d15857268735fe15bae9816",
+      "size": 239051
+    },
+    "data/geojson.day/severance-201-day-00161.geojson.gz": {
+      "sha256": "fb0e179fa922cf747928071fd5b4a9e146a27523b73d55d39dbd8b75742592d5",
+      "size": 225210
+    },
+    "data/geojson.day/severance-201-day-00162.geojson.gz": {
+      "sha256": "21a42fb99b1a582218f8a1c19e65b9469f26e05f1b9455e925363a1a0a2b3bfe",
+      "size": 240517
+    },
+    "data/geojson.day/severance-201-day-00163.geojson.gz": {
+      "sha256": "198fb6fad8f4d894fce22d65a3f031c32bfb3769b38e178c60a794c558eae4e6",
+      "size": 229327
+    },
+    "data/geojson.day/severance-201-day-00164.geojson.gz": {
+      "sha256": "21a0404894331ec8eb94ca987a54214c556d0cc2c8f486465666c1d542ef05a5",
+      "size": 217671
+    },
+    "data/geojson.day/severance-201-day-00165.geojson.gz": {
+      "sha256": "527ba246ccff5497af095b6a9c386453191d99c347f7b26263f6189c0a3d656a",
+      "size": 240444
+    },
+    "data/geojson.day/severance-201-day-00166.geojson.gz": {
+      "sha256": "c69645858fa2666093425be56f7cab967cf5ac340335bb21db0f1296950576da",
+      "size": 237123
+    },
+    "data/geojson.day/severance-201-day-00167.geojson.gz": {
+      "sha256": "d385e0e535c54d4a4617d24415ca8caa19b16ca478ed161ca752cd7a944623a1",
+      "size": 216162
+    },
+    "data/geojson.day/severance-201-day-00168.geojson.gz": {
+      "sha256": "c05ced7b5e3faff3fd8c90e584c2e644d58b83fe7eb8f916fb317d3ef65df93f",
+      "size": 227855
+    },
+    "data/geojson.day/severance-201-day-00169.geojson.gz": {
+      "sha256": "6e6eda8d528100160284a591919001cdf2958f2f549a13e40a3ad83cebfb91d1",
+      "size": 249936
+    },
+    "data/geojson.day/severance-201-day-00170.geojson.gz": {
+      "sha256": "889ce127f3a320585d79a352b72944dee4f5794b1c235f37a6a4a9fe9caeef9e",
+      "size": 223625
+    },
+    "data/geojson.day/severance-201-day-00171.geojson.gz": {
+      "sha256": "cd6791fe46845cc3fc531b7c1e936dda9a3de45bf06b98c2a521d9f90ac55ebf",
+      "size": 231680
+    },
+    "data/geojson.day/severance-201-day-00172.geojson.gz": {
+      "sha256": "959036545c2b5804ef9bdded217cd0fc4f90404d4ac36539a478e31684d796ea",
+      "size": 235322
+    },
+    "data/geojson.day/severance-201-day-00173.geojson.gz": {
+      "sha256": "d4421b4cf784aa015f5c50725ea44415746de81769b2ef98ddf8b16e792de5c2",
+      "size": 234926
+    },
+    "data/geojson.day/severance-201-day-00174.geojson.gz": {
+      "sha256": "a38829eb5de8391b106c9688b7cfb6914652ba01b533b1016cf4b09353990e16",
+      "size": 231305
+    },
+    "data/geojson.day/severance-201-day-00175.geojson.gz": {
+      "sha256": "33ecc9d7854331c11104e6aaa7c5cb0bdd27d88cbf4e0e674b845784019b89a8",
+      "size": 240425
+    },
+    "data/geojson.day/severance-201-day-00176.geojson.gz": {
+      "sha256": "91031a53df08973ebcd8f7000b1543bbf0cbfb274ed3567db77a4f4bd3bd1df3",
+      "size": 224293
+    },
+    "data/geojson.day/severance-201-day-00177.geojson.gz": {
+      "sha256": "5e279f82c1c1433db424e83bb81de3ac6f9434707098b8b54fc5c28f82d698d8",
+      "size": 223951
+    },
+    "data/geojson.day/severance-201-day-00178.geojson.gz": {
+      "sha256": "3ec0555f0e6b82cca723e9e0da778ef371dfb0119f3ef62ff8bb3e6287e028d8",
+      "size": 224892
+    },
+    "data/geojson.day/severance-201-day-00179.geojson.gz": {
+      "sha256": "5228618b8c284ca8bc5344ee9ef2eb941c9ed67cb0af82f21029d2af9421c8f8",
+      "size": 216345
+    },
+    "data/geojson.day/severance-201-day-00180.geojson.gz": {
+      "sha256": "90377c66d9e76d09acd0aeed195fa8ecf5ee723a8975166d4772a7379a540d63",
+      "size": 180430
+    },
+    "data/geojson.day/severance-201-day-00181.geojson.gz": {
+      "sha256": "fea20a5b8a52edec2eb31ec9666199442dac1cdc952fde05ed55809328191f0b",
+      "size": 192389
+    },
+    "data/geojson.day/severance-201-day-00182.geojson.gz": {
+      "sha256": "ffb43decabe84f8a213e6d080eb670fc7e8adb1cf268ed1d117b91d270db32c3",
+      "size": 191843
+    },
+    "data/json/severance-201-swarm-day-00001-2025-01-17.json": {
+      "sha256": "a3fca9500017f7a7c6e144aea2636c2f244b553eac484c910cad30603cb8dd4d",
+      "size": 444
+    },
+    "data/json/severance-201-swarm-day-00002-2025-01-18.json": {
+      "sha256": "6b6118b6ef0659e9dc99caedd12e0b4fe9f48e625a317360910278f5dc5ea6b3",
+      "size": 445
+    },
+    "data/json/severance-201-swarm-day-00003-2025-01-19.json": {
+      "sha256": "4c2c3889b7faba7f72029ed19a215034b8e2ba6e5b570edb945f5b793ee616de",
+      "size": 446
+    },
+    "data/json/severance-201-swarm-day-00004-2025-01-20.json": {
+      "sha256": "122ab2467130fb4a90066c7fbb92fd65b735709409aef83f232fd60bc1ae3e27",
+      "size": 446
+    },
+    "data/json/severance-201-swarm-day-00005-2025-01-21.json": {
+      "sha256": "5d0ea01f02072a916c7e18a0a8bf180667450978e43ed1e6b13c4261b6d64c27",
+      "size": 446
+    },
+    "data/json/severance-201-swarm-day-00006-2025-01-22.json": {
+      "sha256": "d265ca218db57b6482c12787bd09248dc3647c9a37719267d29cb13f69f6d6a3",
+      "size": 446
+    },
+    "data/json/severance-201-swarm-day-00007-2025-01-23.json": {
+      "sha256": "c70143da86dc28270469e28feaabc1282830a242ccf7571be6865cf9ed8d954d",
+      "size": 446
+    },
+    "data/json/severance-201-swarm-day-00008-2025-01-24.json": {
+      "sha256": "d016ba54ef89e746f6f2c920655b53095dae8e49714d33cee9e191c04da8de23",
+      "size": 446
+    },
+    "data/json/severance-201-swarm-day-00009-2025-01-25.json": {
+      "sha256": "18291c27c0f4cf14edb5821eda8018233285d8da18384f4bc0b3df76eace7cbd",
+      "size": 447
+    },
+    "data/json/severance-201-swarm-day-00010-2025-01-26.json": {
+      "sha256": "9aa02b37323b85e4ebe2d3ef1cb2ffdb68a1b1dacb0c8defd1e7fdeafea91e09",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00011-2025-01-27.json": {
+      "sha256": "8ee5234ff657eedd788846acba09416b8f764221642f1ef6cce0adeda5dd828f",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00012-2025-01-28.json": {
+      "sha256": "092306f5549527fbba6bf337b602a9fd0ea2b23f8813efb7f80d6496ee16284a",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00013-2025-01-29.json": {
+      "sha256": "464b4d4c448233171add971c4d11d2eceec47119e64d52fbd69d9c06141a077e",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00014-2025-01-30.json": {
+      "sha256": "16147992889290f56187ca477932b8f22ac462bd12724d6b711d8c25260fbd42",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00015-2025-01-31.json": {
+      "sha256": "ad64ce8723bdc71d1eb11fa13ca170cd90c4f98adf608a6ac514b4f3f0f37e0d",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00016-2025-02-01.json": {
+      "sha256": "8de24e836e634b7de58a24ab139a93d8398875a40ca13a84e687d1f828184a82",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00017-2025-02-02.json": {
+      "sha256": "ea396e5ff21912e61f981f368a766710c7a8dc64129756ea036a4494d8f74260",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00018-2025-02-03.json": {
+      "sha256": "8e7e50b3e3d80a88833e2114ababfdc73290c17fcfa4cee12d6404391c241905",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00019-2025-02-04.json": {
+      "sha256": "9066801e79ea0225f3d6d145c2b04f968ede2619d8e95f718eecbcf59581d2ff",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00020-2025-02-05.json": {
+      "sha256": "e5e3411e9ea907fb15b2697e0d33feea67b0c27a8b23e8bdcae6b2e1a8d84027",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00021-2025-02-06.json": {
+      "sha256": "f8883a73e9a8a91a11ee11a5e621dd4f3b57330355dcc0eddaef107cde1becdb",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00022-2025-02-07.json": {
+      "sha256": "7796c54dd18dd112acd7ecc6049f5490c1fe58ce52cb88a78e70bba6f20b9c99",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00023-2025-02-08.json": {
+      "sha256": "ee4fa245f94fbd73c81ed20e47587cdc78303e6e50457407993c4ab62604670c",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00024-2025-02-09.json": {
+      "sha256": "0051a3b9c48328d044e89dd6d163eb3f74adf402500aff53997901487d85913a",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00025-2025-02-10.json": {
+      "sha256": "5fde469cfa6057103a9a1c482e63137bd145b81e5a90900817cf38e348c2cf99",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00026-2025-02-11.json": {
+      "sha256": "905e09fb41e88566de0320bbdbc9bdd6d30937830f62b7e3e5f43d43c86027a2",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00027-2025-02-12.json": {
+      "sha256": "1a0e94e4a6f6e0ae65c499476e968595c7637589a0ac8e35dce7895a78a394c8",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00028-2025-02-13.json": {
+      "sha256": "374e6ec8183e419e7351569b9ecf95b285e51089ca0fb66f5180d918c8b6f1ac",
+      "size": 447
+    },
+    "data/json/severance-201-swarm-day-00029-2025-02-14.json": {
+      "sha256": "67a71e6123e172a1dadb5efd3d5133b90d61b05cc54f3b3d53e1d9b1357740b9",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00030-2025-02-15.json": {
+      "sha256": "7fcdde4be990c1a8955e730b40cea4756c8e3101dab3f808fc6a81c81bdb603f",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00031-2025-02-16.json": {
+      "sha256": "3e8cfc2084c83cedc161220ad08836652eaab879495928d685ccfd64748577e4",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00032-2025-02-17.json": {
+      "sha256": "8f0f5c99845d8a15bea1423545fc06d5c99328cbbac5195ab57dce40d0a09e20",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00033-2025-02-18.json": {
+      "sha256": "2e4461ba540b844d4990c5619dfc7ea4cb1cd640de2ec7179ba06d78aa87c292",
+      "size": 447
+    },
+    "data/json/severance-201-swarm-day-00034-2025-02-19.json": {
+      "sha256": "5e19be00cfec2f7597c581ee62f2d686e6846681a483343c0aae36fbe2dae4d3",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00035-2025-02-20.json": {
+      "sha256": "0db88ebf24f96eeb07ead173348b1d000861cf18ce3dd955de1a41123d757176",
+      "size": 447
+    },
+    "data/json/severance-201-swarm-day-00036-2025-02-21.json": {
+      "sha256": "e112ed2b5755e4fbb82c052254766366d58ba0b63a4604a728eaa1ec400b7249",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00037-2025-02-22.json": {
+      "sha256": "570a60a9b205604622d71e82ac5e7a93196adf60c82dfee2175733a4cd780d38",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00038-2025-02-23.json": {
+      "sha256": "37353d371c45a363ef29d6c0c5a3cb743d4e2200861376051c28656e0e2c7d96",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00039-2025-02-24.json": {
+      "sha256": "ea8c00a8e40cdd484978c18e923455a061033aff0d155e1c31e2839aed5ace2c",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00040-2025-02-25.json": {
+      "sha256": "af2b0c77996705bd09c271f6f974d139a94cd0a3237799b96a91e866a58a5135",
+      "size": 447
+    },
+    "data/json/severance-201-swarm-day-00041-2025-02-26.json": {
+      "sha256": "3750a6d9ad05815c07dd0768114934210c6c3a43629150a347e33b74d6e6248c",
+      "size": 447
+    },
+    "data/json/severance-201-swarm-day-00042-2025-02-27.json": {
+      "sha256": "3b54569a611e49841e6dfa04aa867e37a29378e0898edab2e40edc17d564caeb",
+      "size": 447
+    },
+    "data/json/severance-201-swarm-day-00043-2025-02-28.json": {
+      "sha256": "98afd42f6f87d9bc02418fde8e6217f164cc742fdcc79045d972f2b6fd26ea85",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00044-2025-03-01.json": {
+      "sha256": "49eadf0ebc77a058b81e2ffa96d60d597dfadd7f15e7b3001d9262fa68db0b45",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00045-2025-03-02.json": {
+      "sha256": "f3bd431d2c5d5f40773894168ae2a852211c738464a601c691f1a8f3f8fae27c",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00046-2025-03-03.json": {
+      "sha256": "3762f00d2f0fe88b20d181a49354c6d102407f4a7d3a2390c7fdce086b2b8905",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00047-2025-03-04.json": {
+      "sha256": "ca6d24d1ce81fc5b2b1259a9c4c6d3fba810e5365378e5a715eb04948f8419ec",
+      "size": 447
+    },
+    "data/json/severance-201-swarm-day-00048-2025-03-05.json": {
+      "sha256": "d3b94510479ed8a79bb090ec982d7461980642fb632da643b965dc4ef0d5087d",
+      "size": 447
+    },
+    "data/json/severance-201-swarm-day-00049-2025-03-06.json": {
+      "sha256": "c01280c41d2f0e8768fb72fdb62ad0e92661bb9c0954d1910294083ac8edb645",
+      "size": 447
+    },
+    "data/json/severance-201-swarm-day-00050-2025-03-07.json": {
+      "sha256": "fa647c2ae14749327b1dfa5f257355ba070d25efec70ed2c9db04de9c097446e",
+      "size": 447
+    },
+    "data/json/severance-201-swarm-day-00051-2025-03-08.json": {
+      "sha256": "5177a15e70b38a50a981e65739cd94ccc33101a602bf3abb22b038ba4a2d3780",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00052-2025-03-09.json": {
+      "sha256": "7ad9b1d7b2a3939eb259edd08f35031d38baced2f9f24653f19a1204a3e1de21",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00053-2025-03-10.json": {
+      "sha256": "2ea76e6d81f2f7b4132757ebba3988e283bb824596c3fc0f0c43ed6fed0cea7c",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00054-2025-03-11.json": {
+      "sha256": "d7a170122f7375077d09ff270073b6ba17f9b3d371458073ef8ab721cd0c0fab",
+      "size": 447
+    },
+    "data/json/severance-201-swarm-day-00055-2025-03-12.json": {
+      "sha256": "7b3ada29bc1eb89e5bf5fbdcc5f0a9ad62d3696b40053b13445951178043b63d",
+      "size": 447
+    },
+    "data/json/severance-201-swarm-day-00056-2025-03-13.json": {
+      "sha256": "b02b163ce7269f9325e5d211e9ac9fd9eab1b887e33fb892cea175dbb4dc2c59",
+      "size": 447
+    },
+    "data/json/severance-201-swarm-day-00057-2025-03-14.json": {
+      "sha256": "5862f39d29b599915bb510a81fd39bd5b6afc8059b16528c338bd20aa0611200",
+      "size": 447
+    },
+    "data/json/severance-201-swarm-day-00058-2025-03-15.json": {
+      "sha256": "889786beff43d185a515efb33774e9e65289ad15b6ee0235e703f47b38765883",
+      "size": 447
+    },
+    "data/json/severance-201-swarm-day-00059-2025-03-16.json": {
+      "sha256": "5c6c0e2306bc39a828442aa3f4644cc788e3fa811b21317a1bd387fafbcd7316",
+      "size": 447
+    },
+    "data/json/severance-201-swarm-day-00060-2025-03-17.json": {
+      "sha256": "818c59b5844b6de63c54f2d86f27eb4c3e48e917968964ab92752b3155f78a58",
+      "size": 447
+    },
+    "data/json/severance-201-swarm-day-00061-2025-03-18.json": {
+      "sha256": "846cb57f95c328801c877cf59f7c263b7450f9e4ffd90d2d2f063dc0fc76c84d",
+      "size": 447
+    },
+    "data/json/severance-201-swarm-day-00062-2025-03-19.json": {
+      "sha256": "6fd5821b75b4e03aaf780304a155374d4bff2a5bb7d6dd134fc6c783c6ed4ead",
+      "size": 447
+    },
+    "data/json/severance-201-swarm-day-00063-2025-03-20.json": {
+      "sha256": "6a2f1deec557ba5fd1e1eae183dce317fc8bef3db45b83816f3cec72289692fe",
+      "size": 447
+    },
+    "data/json/severance-201-swarm-day-00064-2025-03-21.json": {
+      "sha256": "a79a18792500303d2527903831123cd3a57696e1de0dc95f7a34cca0c04036f5",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00065-2025-03-22.json": {
+      "sha256": "1a485ff890e062aaee5068b6d93db92370195430dc7fcdda03b2a4be27e4c9ee",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00066-2025-03-23.json": {
+      "sha256": "2e6efc1a3d212f364ee3a6b00af8ea386daf0774b4b574e78b366acaf1d53aac",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00067-2025-03-24.json": {
+      "sha256": "73397a8551ce2b437ab6cdb6b0cc7526b3334be6bfd05523a20c637c89751650",
+      "size": 447
+    },
+    "data/json/severance-201-swarm-day-00068-2025-03-25.json": {
+      "sha256": "7ba7ea1e1f05ffd646c196f5ae543614b493836e919f40320660cdae5a1812ad",
+      "size": 447
+    },
+    "data/json/severance-201-swarm-day-00069-2025-03-26.json": {
+      "sha256": "60d998b323eddae2c92cd7383676b63ffb1b67fc2d35c7feb0667cf1b3fa6280",
+      "size": 447
+    },
+    "data/json/severance-201-swarm-day-00070-2025-03-27.json": {
+      "sha256": "1ae48de4624fc5c014476d0176def11ce758f0a198bbbf2a5a77a5d0bc27924c",
+      "size": 447
+    },
+    "data/json/severance-201-swarm-day-00071-2025-03-28.json": {
+      "sha256": "2c90eeacc58bf084c4d68375a2df7c29ce0a55c77504cda8c03737fbfd10545d",
+      "size": 447
+    },
+    "data/json/severance-201-swarm-day-00072-2025-03-29.json": {
+      "sha256": "d8796f5b229c1cb8bd08637a597bbf5e55beaa9dd4c5d9c9b72989d38f175c53",
+      "size": 447
+    },
+    "data/json/severance-201-swarm-day-00073-2025-03-30.json": {
+      "sha256": "ad142eb022e6a887a655c28d76b769678d14eb408b2425a61ecd799cbfd8f635",
+      "size": 447
+    },
+    "data/json/severance-201-swarm-day-00074-2025-03-31.json": {
+      "sha256": "bc706d820519a10451c490a2fd22847418700839c9aac69069412747ff63e65a",
+      "size": 447
+    },
+    "data/json/severance-201-swarm-day-00075-2025-04-01.json": {
+      "sha256": "a7881fb73a6802865ebd6483148ba1aec9ea17edd78783f7b619de54e211f977",
+      "size": 447
+    },
+    "data/json/severance-201-swarm-day-00076-2025-04-02.json": {
+      "sha256": "b0b209d5b146b4e55bf490261d0cb39a67b26c5b9eaf159f67af9ec53f6b356a",
+      "size": 447
+    },
+    "data/json/severance-201-swarm-day-00077-2025-04-03.json": {
+      "sha256": "fffe4b9d9bd51403b1edbc853fafe1bc50f8c06d70dde2da03a09cf4a5230f06",
+      "size": 447
+    },
+    "data/json/severance-201-swarm-day-00078-2025-04-04.json": {
+      "sha256": "adfd90cc08e5357bf406ebe69ba786b587a6c3f50b9e806006eda8ff7b7fb8e4",
+      "size": 447
+    },
+    "data/json/severance-201-swarm-day-00079-2025-04-05.json": {
+      "sha256": "4cdb8d9fd77c18e81073bb833890d099e539649cda4def34371447f4bd29cdeb",
+      "size": 447
+    },
+    "data/json/severance-201-swarm-day-00080-2025-04-06.json": {
+      "sha256": "eb5b4b788cd3414fd6b5cedbb16efba4213bddb2cf2b69480b932310afb4ee1e",
+      "size": 447
+    },
+    "data/json/severance-201-swarm-day-00081-2025-04-07.json": {
+      "sha256": "99aea9678c45bc8f1b8989a4fdd0dabdf8c22cc0f5dcf0ea9c23238ad797bea8",
+      "size": 447
+    },
+    "data/json/severance-201-swarm-day-00082-2025-04-08.json": {
+      "sha256": "61fdfd5766a9247eb7a1bddb63d751e0755d4b8ff69ca5c3f05592aa9cad1fb2",
+      "size": 447
+    },
+    "data/json/severance-201-swarm-day-00083-2025-04-09.json": {
+      "sha256": "d94bc9654ad56bc82cac4bb0d3804c49f6a045b9e56d730fc94ef23ca0ec47ef",
+      "size": 447
+    },
+    "data/json/severance-201-swarm-day-00084-2025-04-10.json": {
+      "sha256": "45a0ae44a4758a0f0fc5eeb694215592c1be5f1509ee6f6d87ad37cb7fbd810f",
+      "size": 447
+    },
+    "data/json/severance-201-swarm-day-00085-2025-04-11.json": {
+      "sha256": "dcf037df200d8afd3f29ac049bf9e3a280a1d941c9773a5cda147a8012c085b9",
+      "size": 447
+    },
+    "data/json/severance-201-swarm-day-00086-2025-04-12.json": {
+      "sha256": "fb4f0ec1e32c4acc2d748f62d3b99d55f67e48f6ca5066e769cdbe9dd52770e5",
+      "size": 447
+    },
+    "data/json/severance-201-swarm-day-00087-2025-04-13.json": {
+      "sha256": "7affc4d505733fdfa8f70006bdc1995ae5158a59ad1eba58ae627126782d85f3",
+      "size": 447
+    },
+    "data/json/severance-201-swarm-day-00088-2025-04-14.json": {
+      "sha256": "a7eedee98b2d64cba406baf76d73eeb1f53cd5bceb290a05117ec08650284a26",
+      "size": 447
+    },
+    "data/json/severance-201-swarm-day-00089-2025-04-15.json": {
+      "sha256": "f083d904cfd018300a25df45909bc2093a2cde345e8c75722334ede8fd9944e0",
+      "size": 447
+    },
+    "data/json/severance-201-swarm-day-00090-2025-04-16.json": {
+      "sha256": "f1b70b41d905f724b867d6dc57e4095e5d47beb1d95ba835ff9e69c53b9f69f6",
+      "size": 447
+    },
+    "data/json/severance-201-swarm-day-00091-2025-04-17.json": {
+      "sha256": "454e278087276a985f4c6d2dc335b76c472036e0e4168d0c187fd1fd18f3d61a",
+      "size": 447
+    },
+    "data/json/severance-201-swarm-day-00092-2025-04-18.json": {
+      "sha256": "6ad6c2e2f872e9d01f5f4ae7909a7efdc625f48e58b40f10b4d256fd2e05eed7",
+      "size": 447
+    },
+    "data/json/severance-201-swarm-day-00093-2025-04-19.json": {
+      "sha256": "9e7076222d066ef5999115d1d01f1065d45917c419d5e0c95622877d544c4478",
+      "size": 447
+    },
+    "data/json/severance-201-swarm-day-00094-2025-04-20.json": {
+      "sha256": "8a86a8588cfaf5963473694f787e14a14021328d5ceac51bc754dd0f7f3dbf37",
+      "size": 447
+    },
+    "data/json/severance-201-swarm-day-00095-2025-04-21.json": {
+      "sha256": "ce06635e716cd5ab5bb3340fb4675fee49db66bd88ca121ea688a11cec61c888",
+      "size": 447
+    },
+    "data/json/severance-201-swarm-day-00096-2025-04-22.json": {
+      "sha256": "f764abc34ff50d81fba70b2402f5f559d0415ebd2c680761f5cd1dbd553b1197",
+      "size": 447
+    },
+    "data/json/severance-201-swarm-day-00097-2025-04-23.json": {
+      "sha256": "482688a5f2b2a99a020450218a626a0705f473e40e8e8955daa49c138d702ab2",
+      "size": 447
+    },
+    "data/json/severance-201-swarm-day-00098-2025-04-24.json": {
+      "sha256": "c124323021a637ce22be55932f425125315e0b9d199d7116d4c452d886d7e721",
+      "size": 447
+    },
+    "data/json/severance-201-swarm-day-00099-2025-04-25.json": {
+      "sha256": "5086f7c77c004c87b66d967e427a6eae067649b1753a6caf3260a0d00bfad038",
+      "size": 447
+    },
+    "data/json/severance-201-swarm-day-00100-2025-04-26.json": {
+      "sha256": "af80f3552ff543ac0f5965313ff9c5a7d22e3e072fef697925bf0da2937bd0e8",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00101-2025-04-27.json": {
+      "sha256": "ca87a990b003a095be9e07362151142efc4fe9de67b0a8f07d274df03c15e215",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00102-2025-04-28.json": {
+      "sha256": "608aaaa2749dfd72434f947d8f226e16fa9603d96a9ee686bd2b2f9df49fa7c7",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00103-2025-04-29.json": {
+      "sha256": "29097900f6967763fc977f883b035a1017fac08872ac1754ef9a401461a1f485",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00104-2025-04-30.json": {
+      "sha256": "47c67fbb1aa9cf8f5b06068f9b6bb19777104c487a87d907ef5198222671182c",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00105-2025-05-01.json": {
+      "sha256": "9ebcb1145afa028f3e5fd1525b1cfc8fc51928877999427eea5a494721df311b",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00106-2025-05-02.json": {
+      "sha256": "c651b2c104b76577a4a2a60297cf0090b3e34cf346445fb69bd66aec6c065847",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00107-2025-05-03.json": {
+      "sha256": "ffd08f317ce5bec5373e5f1b2e2aee11e64a1a295039b461b40656c7bb259006",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00108-2025-05-04.json": {
+      "sha256": "f3ff23769cf5a1ea993785225f1cbafec1356351077ed0c2ef4e36a986d4a74e",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00109-2025-05-05.json": {
+      "sha256": "4f00bd880d10ca0747901c3d53c8a8f799a05021692d00199d7459a76bde6a43",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00110-2025-05-06.json": {
+      "sha256": "fd09e8d5e4441a93efb59ce0aab66b7a362fdac339279cde2c23a34da549c17e",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00111-2025-05-07.json": {
+      "sha256": "7c4782313f1c3d2aa3394dae0e7b7942119c14eb5c23404505a5e778fc4f2e9f",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00112-2025-05-08.json": {
+      "sha256": "18e44265e62048a5f43c38f3c83b4302e2f91a0d6979a95b97725952090847af",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00113-2025-05-09.json": {
+      "sha256": "dab786ccf0b421392655ad46b10958921d21d2f322ed77d3ecb38e421ffa1f14",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00114-2025-05-10.json": {
+      "sha256": "c2479aaadcf2c45707c062fcc0a0846a1f210cc47ff26f8f3fc8554608814436",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00115-2025-05-11.json": {
+      "sha256": "541e50f3fe7371438d0ea3aa51cf2c6e94ff457148f90aa2916b7e061df0d561",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00116-2025-05-12.json": {
+      "sha256": "ed9342d4584570fa303f6a3b3e0a2f9ba7ba1dfd6d07e862ce2bf613be181384",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00117-2025-05-13.json": {
+      "sha256": "0a5c3820cff93a4c3eccf423b114f1dd5cc6bc0d14e8f84ec0a6d2d638f94955",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00118-2025-05-14.json": {
+      "sha256": "f83152de6003c78edbd08f2f1a391fffa46f953f47d8db15434d1f25917456ba",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00119-2025-05-15.json": {
+      "sha256": "948b06fdd90abac208491f23a7412eebae936d0193c6eba699f7954f96aa5244",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00120-2025-05-16.json": {
+      "sha256": "311f0d32974a8f2b29d74f273adbda6c299d188371e62d2f17abdbe13befac51",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00121-2025-05-17.json": {
+      "sha256": "c2884ba859eeeefa8b8de550e812d3590c6df792e67b2214ec30a43114a7eb41",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00122-2025-05-18.json": {
+      "sha256": "d18c498a2c0e617fb09a1cc2482cae2723b8aa07b1f08e1c1c7dbb6061d5f4c8",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00123-2025-05-19.json": {
+      "sha256": "2909027c1b2a87a3abdf669e0676f5488426bff649bfcd7e28e6aca2a62b02b3",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00124-2025-05-20.json": {
+      "sha256": "4c360c9736eff92f97cf9635903c0f8c22a510172a5de888f669837985f0fd2f",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00125-2025-05-21.json": {
+      "sha256": "18800e4e6651dc31f93c122fd0e32c846ef121bb27978acdf38d6427368630db",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00126-2025-05-22.json": {
+      "sha256": "c8be181a393f3a1b195a299eb145830b902791b5f18929c2cee36b5a456aac53",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00127-2025-05-23.json": {
+      "sha256": "e15d64922bce7a6b3da382cf3d4a1898ed0058c4db35d9f07bafb1f8a16bd538",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00128-2025-05-24.json": {
+      "sha256": "38de07674196f1b95f1629cd25d6a09eb3e49950a5669fa7790c49d63a241027",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00129-2025-05-25.json": {
+      "sha256": "bc1074046b259eb94088dbbf7944533e5816252970ff68b935bc591d128838d6",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00130-2025-05-26.json": {
+      "sha256": "3a058c72c58658658fa239b9f843b6101a51a3b2631bd530b79d82188a471d47",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00131-2025-05-27.json": {
+      "sha256": "6a5e882153576b5e88e173cd06a8bf78d0f88b26be246d6d93faa42ec6c8be7b",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00132-2025-05-28.json": {
+      "sha256": "6c77a51766296546a79abdcf5fc43b764779bd6e8f42af2bb4588abb3f6de4af",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00133-2025-05-29.json": {
+      "sha256": "3ac981d3110541e2e4fb86daddd6f3a55be4522e5764371e240d49442879f00d",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00134-2025-05-30.json": {
+      "sha256": "a665da6bc0b7f2cf37976294057fd631a72f5d6fcc456ea5865b012f267b475f",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00135-2025-05-31.json": {
+      "sha256": "504104228e2ae1d03dad0db2ca25109e13dab79dcb544b9ae8de73d22a56fa22",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00136-2025-06-01.json": {
+      "sha256": "cfab5319301af3d21ab36334fcc1b19f444eda60460c8b5c4f03246b361abb0d",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00137-2025-06-02.json": {
+      "sha256": "9490da4700a1a2a768859a78386c89df3ef3ba82277a63d35f4af92030ec53aa",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00138-2025-06-03.json": {
+      "sha256": "6f88e3bdc8c003d30f80553d7ba1481223ef5565c7602de0c6da26169cf46f71",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00139-2025-06-04.json": {
+      "sha256": "e60960c05b3d8e8efa74979a2e066cba5e8fdf7242278abebf83b679d1331669",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00140-2025-06-05.json": {
+      "sha256": "07671d29205d7b8b3811db7f11abe93b42e975a1a4a5bee057978492e4b0cd43",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00141-2025-06-06.json": {
+      "sha256": "7eb5260ff07d7b42811fb173f0567a90e77c6a2072f342b9f8d0fe019fa2b929",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00142-2025-06-07.json": {
+      "sha256": "0a302ae7618650b1650af0a25d5212ed1187c762f19326a75e39c8064f59e573",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00143-2025-06-08.json": {
+      "sha256": "e659fc16137cdb2b90d5c7dd62148f2647db0a38c028b5d79cdafcadcb86d966",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00144-2025-06-09.json": {
+      "sha256": "cfc0012c7ccb2e268f673685e5afad64dc9228f137cd50ae0679ffba22524ef3",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00145-2025-06-10.json": {
+      "sha256": "8f38c22db0b3759fc16821cd764d71b52991de99e9ce41642d525bc726ee1025",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00146-2025-06-11.json": {
+      "sha256": "f5ef315055aba880a17190259d5885d9aa937536cda76e41f6f2ff16d7da1033",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00147-2025-06-12.json": {
+      "sha256": "b4931151db39cd9134b1efd3e54aa15021b4fb05302597a880569faf31f33e9b",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00148-2025-06-13.json": {
+      "sha256": "a131ca4ee661fabcfbd68de498ea23db0059a0d2963f226a3328c4a79c2e4adc",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00149-2025-06-14.json": {
+      "sha256": "e4ed08cf6198b34cb02c25bbb5783af041a1ae7b166854af85f912294e750863",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00150-2025-06-15.json": {
+      "sha256": "eb97c94de645c1766b79fcae4fa8c5682203640f2e539f891d3cca87a2dedb57",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00151-2025-06-16.json": {
+      "sha256": "be2252059f690d409f7838eaa477253888b35173d9d5d78b58526faa550ff723",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00152-2025-06-17.json": {
+      "sha256": "9a401cd461a4d5a9f1db6cb58e3f6a112c7286cb3b24a9e406f0a57ddb40223e",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00153-2025-06-18.json": {
+      "sha256": "cbb70a931fe7f9549e899360d32b9271352e1cdb874ecc89408ee6dced607284",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00154-2025-06-19.json": {
+      "sha256": "f3f184615bc1b55533d01f5ff02578ffeb04c7c4399ff224248814314e7720c7",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00155-2025-06-20.json": {
+      "sha256": "8381777cc70ecad829a4efe630c7940ebd7452228d6b398fcb9a631ed3f1a5f8",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00156-2025-06-21.json": {
+      "sha256": "714cec599a742239f2bbadf66d3a28513fd75082a005817db49f97fb74e84692",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00157-2025-06-22.json": {
+      "sha256": "59f0cd6e7123ba0f30f6794ffb3f3e8df1d9f58a521c29aaec4c9c96124c8e18",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00158-2025-06-23.json": {
+      "sha256": "19851686f15ec79596aad915b31c2ee0658f22cf75a9320490b5c36c9f47e7bb",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00159-2025-06-24.json": {
+      "sha256": "5f9c8bfa23bf713754644b81d00fa0117218c75989bde17c39d0ea36623326b3",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00160-2025-06-25.json": {
+      "sha256": "ac17a748996fde82eba4f58a5960fa4f03e155c1585e7db7fe83c848d55e07bd",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00161-2025-06-26.json": {
+      "sha256": "898e425e457fa3c06d0bcd7e5d245482b55af43d8a3dd479f525530112ece600",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00162-2025-06-27.json": {
+      "sha256": "8ce6e14bcc616ac7ceac90aff440c49b5f97db8201ff2902cd5daf8b1eb86ea3",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00163-2025-06-28.json": {
+      "sha256": "61bfb795885d5e732a759bfe35c24a970a6468d61fd5ec9cc3335ebd2d77bee6",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00164-2025-06-29.json": {
+      "sha256": "6e34ab433216073f07af849b2f183178214b80c03063fa3ad42796cfdba88b2b",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00165-2025-06-30.json": {
+      "sha256": "98313105677fadefc50ecfbfd3314d0437a595116649eec54c6d569e991b09be",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00166-2025-07-01.json": {
+      "sha256": "580b0d6c4aeee1af073569370c90bed2fbd5886d1777a177907eca749fc4e256",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00167-2025-07-02.json": {
+      "sha256": "50f662c35215e0b1614f35303f88b005462988b70b2e7e27fb069d8586168295",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00168-2025-07-03.json": {
+      "sha256": "ef0bfc3a629343ff05a1f36d28de94b3b991911cbd5ed51697684499cd844fe7",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00169-2025-07-04.json": {
+      "sha256": "29bd63076e14163d4f9d612d09def2471d515d32c30f6fd534497938fed02553",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00170-2025-07-05.json": {
+      "sha256": "6c7411d58684bee62374c42ce2ebd844e9b2569c1fce966a5c9bf69922943830",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00171-2025-07-06.json": {
+      "sha256": "91b7167b2ae8087c28732abcf8f9ca00f13ced819c492c4531de17ffda3ec34d",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00172-2025-07-07.json": {
+      "sha256": "cf27d0f9e4041ecd3a4f8448f202eb842dbb0e4a837bf8db22fbb2df3576c5fb",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00173-2025-07-08.json": {
+      "sha256": "50f55378afd3e58b69bb7d0bfb767e4d1fcdf8924adc237d45807979de3a8e03",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00174-2025-07-09.json": {
+      "sha256": "e5d25e0b3fd182c6768a4208a29b9a6729ab4af64132b829178b6cdb10bb2c59",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00175-2025-07-10.json": {
+      "sha256": "f3ffb77889988cf0ea0cd3f0a876d7d947e865c8ebe95c6dad3a10aa5200cc60",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00176-2025-07-11.json": {
+      "sha256": "1b8fac6d19fddb12b9ae04d4b7c15184a21e0debe8d9e81f078515f015ea88ae",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00177-2025-07-12.json": {
+      "sha256": "efc166bdcb7505a036b972caa15c01ad4a62ef9808788454405d098a0b73cc7d",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00178-2025-07-13.json": {
+      "sha256": "123af66cde4ad532024bb3823a92c60d3e321fb951357d91aaf336ea950acb30",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00179-2025-07-14.json": {
+      "sha256": "94aab2094b46d501a6135ff4ee68be16c5489aa058f7b16673779011c448792e",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00180-2025-07-15.json": {
+      "sha256": "718d1d10c760a3f30fb7b1c272bc06e625181a3674de23433798df9031414aff",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00181-2025-07-16.json": {
+      "sha256": "bab1110a26c2b7d892d85bc9bc62070b124d685f627233c18aec42f9373c4fba",
+      "size": 448
+    },
+    "data/json/severance-201-swarm-day-00182-2025-07-17.json": {
+      "sha256": "a05c6e184b22e2f224b4fb8a420158390757ad88710a117ada2d2c9792aea899",
+      "size": 448
+    }
+  },
+  "schema": "alpha60-year-day-product-bundle/1",
+  "source_revisions": {
+    "aggregate_binary": {
+      "sha256": "7408569641f7247fbd00969cffddaf1bb0cf2768c7fc1529f4cc6191ccfeae05",
+      "size": 38582648
+    },
+    "alpha60": "34f34e5c6eaafebbe65d9dbe1ade7609e9e61b2b",
+    "alpha60_data": "8faeae67a5d274d1fc00bffe9fc9318329163b20",
+    "day_product_contract": {
+      "sha256": "0aa0bee3ac14b512c786d3496ab5218a46aff11786ffa6aa9ea85e762fbd6370",
+      "size": 9897
+    },
+    "generate_cache_aggregates": {
+      "sha256": "2e03ba2df36d70d6293d803880c67ae0f2c3afde1ea5837075e31855a258516b",
+      "size": 22934
+    },
+    "metadata": "fbeb53a0b523f937fae2f23d14689d8c5c84dd5a",
+    "package_script": {
+      "sha256": "21d85741346f2bb967f618a36825484d87b3b94cea93dac22781c103abae8a0e",
+      "size": 15384
+    },
+    "year_day_contract": {
+      "sha256": "f1c07d6f2fdc19475a6f25ddaee5923957447a6f49a8009d8b4c9984a63bd883",
+      "size": 9356
+    }
+  },
+  "status": "pass"
+}
