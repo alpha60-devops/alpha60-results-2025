@@ -1,0 +1,253 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt36463894",
+    "imdb_id": "tt36463894",
+    "revision": "fbeb53a0b523f937fae2f23d14689d8c5c84dd5a",
+    "wikidata_id": "Q130639284",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Predator:_Killer_of_Killers"
+  },
+  "coverage_sha256": "e28005dcda235e783dd465aaa09477a325653f7364c1996ab4a1e92e5f6b7fdb",
+  "generated_at": "2026-08-30T15:52:39.770099+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "aao-checksum-manifest": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/SHA256SUMS",
+      "sha256": "4a4818facd85b709f0321b0a6de31b4a3eff6f108f3b9354c75632926e6baa48",
+      "size": 266728
+    },
+    "aao-release": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/release.json",
+      "sha256": "3ce0984da2d12b0e3697e76c02608bd9d1a955ee3d00e0a7054bdd297b8f18c8",
+      "size": 1342
+    },
+    "aao-verification": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-aao-verification.json",
+      "sha256": "e01294ebce8e54b65e16ab83017fa5585efe6f7a0a0f1a5e0f734e08d8e223fd",
+      "size": 854
+    },
+    "archive-map": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-cache-archive-map.json",
+      "sha256": "8d4d506f23cd80f46baf010bd17509c916083e75eb8b43b052641138c3f308f1",
+      "size": 125170
+    },
+    "btiha-metadata-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/predator-killer-of-killers-cumulative-btiha-media-objects.json",
+      "sha256": "e3f7abbd8d773429b708e2e66ca0acefb51760fe48c172432f04fa85b6b66939",
+      "size": 268372
+    },
+    "canonical-metadata": {
+      "path": "/tmp/alpha60-swarm-metadata-2025/metadata/predator-killer-of-killers.json",
+      "sha256": "a95e5f945cd9af23065cbf189a6c625daa366fc8f5ba4b9f2267f167d2c07df1",
+      "size": 6896
+    },
+    "coverage-report": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-coverage-evidence/predator-killer-of-killers.md",
+      "sha256": "88a13dbd1e00e5dfc538259012e8d23594d60b1dfb237d43a2d7de439fb79584",
+      "size": 759
+    },
+    "cumulative-aggregate-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.cumulative/predator-killer-of-killers-cumulative-aggregate.geojson.gz",
+      "sha256": "1eaeff0bf8fc088abe1ead4a29eccd01d3288d7927a7706ba29a1d1eaf3b1ac9",
+      "size": 1128707
+    },
+    "cumulative-btiha-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.cumulative/predator-killer-of-killers-cumulative-btiha.geojson.gz",
+      "sha256": "d06504c12c1a227dfa1904af3e606f0b96a57b3b22b4b7c6affe9066acdd7b66",
+      "size": 17003448
+    },
+    "cumulative-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/predator-killer-of-killers-cumulative.json",
+      "sha256": "0917177c90bbcf1d93c5a29e6dfd972a9464ce3841e7ae5272adef3383781beb",
+      "size": 15734
+    },
+    "day-bundle-receipt": {
+      "path": "/tmp/year-2025-day-bundles/predator-killer-of-killers/receipt.json",
+      "sha256": "afdc09a61239d869e7db34c2cdaf4ea3237c6d46f7d5764befefb1a72f8b3e7a",
+      "size": 42584
+    },
+    "ip-swarm-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/predator-killer-of-killers-cumulative-ip-swarm.json",
+      "sha256": "b26280a8b5cef69da9d7f8541b66ec658d41135c6c8733ae8bad803f946d1c0f",
+      "size": 42337
+    },
+    "published-day-bundle-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-day-product-receipts/predator-killer-of-killers.json",
+      "sha256": "afdc09a61239d869e7db34c2cdaf4ea3237c6d46f7d5764befefb1a72f8b3e7a",
+      "size": 42584
+    },
+    "week-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/predator-killer-of-killers-week.json",
+      "sha256": "dd711f916b481ea2be91a9c25674ae99f95a0721600697101863d5fabc07cb4f",
+      "size": 1279745
+    }
+  },
+  "media_object": "predator-killer-of-killers",
+  "published_files": {
+    "data/csv/bytes/predator-killer-of-killers-cumulative-detail.2025-btiha-itemized-by-bytes.csv": "0086a7e1c553e0c4ad8f9b250563546f4f9c757e22bcb5fac2f808d1e15ed29d",
+    "docs/itemized/figures/predator-killer-of-killers-carto-4k.webp": "f94f4edc5703a6958ae2ae23d3163253690bb87b0d81be26541b991461923ddc",
+    "docs/itemized/figures/predator-killer-of-killers-carto.png": "40c95bd959b1d23932903f39849778f1e51f1f8cc5bc22caf2ddc3f4af43dcd1",
+    "docs/itemized/figures/predator-killer-of-killers-cumulative-detail-btiha-itemized-by-bytes.svg": "2e22ec2a7c188deeb9b5273899406f454f20a73dae41bef52347d353e0a10e19",
+    "docs/itemized/figures/predator-killer-of-killers-data-ge-1080p-4k.webp": "f072ba1a70e6c083f6d4fbd274fddc2add90fd774387306b6c2c91cc6dd05096",
+    "docs/itemized/figures/predator-killer-of-killers-data-ge-1080p.webp": "54a20479a3eeb3f7fa0b9b906a56fb6b6ba12464684737ae9c6f9f7258471dc8",
+    "docs/itemized/figures/predator-killer-of-killers-data-lt-1080p-4k.webp": "e4c8efab065dbbd5fd90e819fc7d0b2e52fdf403925b955b251ed42fc49dcbbb",
+    "docs/itemized/figures/predator-killer-of-killers-data-lt-1080p.webp": "ff8fa0215dd950d8d7169493c0ebff65045dd3f9cfc62aeeed4ba2a37d05ff31",
+    "docs/itemized/figures/predator-killer-of-killers-downloads-by-day-day.svg": "2efe324287c7630bd49c8da70434ebbd61681e42ebbbd7852098f8aa84cec7b7",
+    "docs/itemized/figures/predator-killer-of-killers-downloads-by-week-predator-killer-of-killers-week.svg": "7923224ad7f6b82621bbef21ed07fe1d7aba6dd0b4685d22fe1b870a1dbb5a38",
+    "docs/itemized/predator-killer-of-killers-sample-cache-audit.md": "6936f80cf665e5daa8bc33114bd932772a8ebb151b3e113f626b12b59fdee64d",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-year-2025-render",
+      "revision": "c520555c40beece2e38f62878e2d4cc1b312c505",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "c192c54f882171dafc74c038ec769f1e68bf8020d12a342d2334086b5b5ee5ea",
+      "size": 36998168
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.cumulative/predator-killer-of-killers-cumulative-btiha.geojson.gz",
+        "sha256": "d06504c12c1a227dfa1904af3e606f0b96a57b3b22b4b7c6affe9066acdd7b66",
+        "size": 17003448
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/json/predator-killer-of-killers-cumulative-btiha-media-objects.json",
+        "sha256": "e3f7abbd8d773429b708e2e66ca0acefb51760fe48c172432f04fa85b6b66939",
+        "size": 268372
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/izzi",
+      "revision": "b988ee7fd690a74a696c27c9aadf40c204a4c780",
+      "untracked": false
+    },
+    "media_object": "predator-killer-of-killers",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60-results-2025/bin/a60-meta-collection.exe",
+      "sha256": "e71f9def936a6868d5282a5ff7dece07ade360eefa07abebde75434a927220f7",
+      "size": 8743680
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          75.0,
+          45.0,
+          36.0,
+          33.0,
+          30.0,
+          29.0,
+          28.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Seoul",
+          "Moscow",
+          "Saint Petersburg",
+          "London",
+          "Istanbul",
+          "Shanghai",
+          "Nanjing",
+          "Amsterdam",
+          "Lelystad",
+          "Ashburn"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          87.0,
+          50.0,
+          36.0,
+          32.0,
+          31.0,
+          28.0,
+          27.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Seoul",
+          "Moscow",
+          "Saint Petersburg",
+          "Istanbul",
+          "Shanghai",
+          "Nanjing",
+          "London",
+          "Lelystad",
+          "Amsterdam",
+          "Incheon"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 21,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 43,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 15,
+        "y_tick_labels": 20
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "c520555c40beece2e38f62878e2d4cc1b312c505",
+    "cartofreako": "fc58111b5bfa7667b12f6ade522ae5e566b464d1",
+    "izzi": "b988ee7fd690a74a696c27c9aadf40c204a4c780",
+    "metadata": "fbeb53a0b523f937fae2f23d14689d8c5c84dd5a",
+    "results_aao_adoption": "9cd9d91a6fbb560ac2a96beadf4c83b94daf6a88"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2025"
+}
