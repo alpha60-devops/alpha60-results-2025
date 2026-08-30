@@ -1,0 +1,253 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt30988739",
+    "imdb_id": "tt30988739",
+    "revision": "fbeb53a0b523f937fae2f23d14689d8c5c84dd5a",
+    "wikidata_id": "Q124373035",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Black_Bag"
+  },
+  "coverage_sha256": "7f9113c20ac77742affd6e2d668e8747d50df44bd27dcb1ec1931a4f1e7c84ef",
+  "generated_at": "2026-08-30T12:33:22.507079+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "aao-checksum-manifest": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/SHA256SUMS",
+      "sha256": "4a4818facd85b709f0321b0a6de31b4a3eff6f108f3b9354c75632926e6baa48",
+      "size": 266728
+    },
+    "aao-release": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/release.json",
+      "sha256": "3ce0984da2d12b0e3697e76c02608bd9d1a955ee3d00e0a7054bdd297b8f18c8",
+      "size": 1342
+    },
+    "aao-verification": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-aao-verification.json",
+      "sha256": "e01294ebce8e54b65e16ab83017fa5585efe6f7a0a0f1a5e0f734e08d8e223fd",
+      "size": 854
+    },
+    "archive-map": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-cache-archive-map.json",
+      "sha256": "8d4d506f23cd80f46baf010bd17509c916083e75eb8b43b052641138c3f308f1",
+      "size": 125170
+    },
+    "btiha-metadata-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/black-bag-2025-cumulative-btiha-media-objects.json",
+      "sha256": "708f29148a21458e2896e4d6108335ba3cd8c4a58edd8422615bc32dd15c136f",
+      "size": 500873
+    },
+    "canonical-metadata": {
+      "path": "/tmp/alpha60-swarm-metadata-2025/metadata/black-bag-2025.json",
+      "sha256": "396903693c0e2ec2b6821a63f56fef17c08f216b47e940d70daa27f583f5273b",
+      "size": 9819
+    },
+    "coverage-report": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-coverage-evidence/black-bag-2025.md",
+      "sha256": "0c8e4b0425404e5579c7e4dfb5dfbd838f54f1b1d83ee15152a76c537ef267d5",
+      "size": 740
+    },
+    "cumulative-aggregate-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.cumulative/black-bag-2025-cumulative-aggregate.geojson.gz",
+      "sha256": "8e77d0dd9017e1eb9365ef13a77d71831f05a24bb7400e8a5ff188c7b347175b",
+      "size": 1135543
+    },
+    "cumulative-btiha-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.cumulative/black-bag-2025-cumulative-btiha.geojson.gz",
+      "sha256": "3e7cac707105c0d93b788ef7e4f4ede025b758bc75a2ee936345daa16d4d6f00",
+      "size": 22453279
+    },
+    "cumulative-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/black-bag-2025-cumulative.json",
+      "sha256": "58f245e9fa3b218e6ea5dc1e224407d6c0033f5abf5980167633a93b9e28de8e",
+      "size": 15736
+    },
+    "day-bundle-receipt": {
+      "path": "/tmp/year-2025-day-bundles/black-bag-2025/receipt.json",
+      "sha256": "a475cb70ed68584dc06a15d3871e7bf3b6712f813b673e58a23d879099f369c6",
+      "size": 38299
+    },
+    "ip-swarm-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/black-bag-2025-cumulative-ip-swarm.json",
+      "sha256": "81642a6bacd7dc2bdddbbf0ade472ffb304686f5fa3b6612d3e64cc2af5b4780",
+      "size": 42664
+    },
+    "published-day-bundle-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-day-product-receipts/black-bag-2025.json",
+      "sha256": "a475cb70ed68584dc06a15d3871e7bf3b6712f813b673e58a23d879099f369c6",
+      "size": 38299
+    },
+    "week-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/black-bag-2025-week.json",
+      "sha256": "9b6e7bd4204daf07308e7004f7240cda926e3fe7e84b440bc296e48e52dbfb49",
+      "size": 1607567
+    }
+  },
+  "media_object": "black-bag-2025",
+  "published_files": {
+    "data/csv/bytes/black-bag-2025-cumulative-detail.2025-btiha-itemized-by-bytes.csv": "60d0560153824e32117c0f5d802fc2fcae4d8b70f0b4335fb4519d97d8df09f9",
+    "docs/itemized/black-bag-2025-sample-cache-audit.md": "998e2ee011f70a37ed3beb4e8c2554d745eea049c8446fe2bdf4b6f356741616",
+    "docs/itemized/figures/black-bag-2025-carto-4k.webp": "11815640e2c740f15b0838955bcf621281464b6f6f4ec1ee2668c262f8939b2d",
+    "docs/itemized/figures/black-bag-2025-carto.png": "6be5c84849ee88f4e8578dedcba149af9bf6e1f20add59fcda65e3129451c780",
+    "docs/itemized/figures/black-bag-2025-cumulative-detail-btiha-itemized-by-bytes.svg": "8e3e9639880d5d71b1f85909ec00a1c2202a5f9df596ce09854f62fe5d40fde0",
+    "docs/itemized/figures/black-bag-2025-data-ge-1080p-4k.webp": "6946c836e4270328974c1669a844e3153386ea560a1c8c31e5fbfdb0dacebc64",
+    "docs/itemized/figures/black-bag-2025-data-ge-1080p.webp": "fa9ea4c2d57e8fafa2a1e66ba7cf7a3057c2cbb892b290b06a44d2542bb722f8",
+    "docs/itemized/figures/black-bag-2025-data-lt-1080p-4k.webp": "a6fd087c2277318b1e6363049b08e23f9ae2e33fb038ce500453bcf64e582fcd",
+    "docs/itemized/figures/black-bag-2025-data-lt-1080p.webp": "de0b1ecc2154a12c1b6553b7bfc9bb63b62952fb6a46bddee175d593e98d47a1",
+    "docs/itemized/figures/black-bag-2025-downloads-by-day-day.svg": "279b05376449c6c6e0f6a5904c5aadb020b34938ae026936fffeea9868523d06",
+    "docs/itemized/figures/black-bag-2025-downloads-by-week-black-bag-2025-week.svg": "537a65710b11915865971b5f0418f99ca0d84cf47a7815a64ae4938aedc03e6e",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-year-2025-render",
+      "revision": "c3fc4c8a7866bee5f6d5f26160c56b2cffb05cb1",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "b5732bc916a52afce45790bf7005569f9cdebbb759447c374ec08d1f5222ed12",
+      "size": 36994160
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.cumulative/black-bag-2025-cumulative-btiha.geojson.gz",
+        "sha256": "3e7cac707105c0d93b788ef7e4f4ede025b758bc75a2ee936345daa16d4d6f00",
+        "size": 22453279
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/json/black-bag-2025-cumulative-btiha-media-objects.json",
+        "sha256": "708f29148a21458e2896e4d6108335ba3cd8c4a58edd8422615bc32dd15c136f",
+        "size": 500873
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/izzi",
+      "revision": "b988ee7fd690a74a696c27c9aadf40c204a4c780",
+      "untracked": false
+    },
+    "media_object": "black-bag-2025",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60-results-2025/bin/a60-meta-collection.exe",
+      "sha256": "e71f9def936a6868d5282a5ff7dece07ade360eefa07abebde75434a927220f7",
+      "size": 8743680
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          86.0,
+          51.0,
+          48.0,
+          45.0,
+          32.0,
+          31.0,
+          29.0,
+          29.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Seoul",
+          "Moscow",
+          "Saint Petersburg",
+          "Istanbul",
+          "London",
+          "Amsterdam",
+          "Lelystad",
+          "Nanjing",
+          "Shanghai",
+          "Ashburn"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          80.0,
+          52.0,
+          46.0,
+          27.0,
+          27.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "Seoul",
+          "Saint Petersburg",
+          "Istanbul",
+          "London",
+          "Lelystad",
+          "Shanghai",
+          "Nanjing",
+          "Amsterdam",
+          "Budapest"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 21,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 34,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 15,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "c3fc4c8a7866bee5f6d5f26160c56b2cffb05cb1",
+    "cartofreako": "fc58111b5bfa7667b12f6ade522ae5e566b464d1",
+    "izzi": "b988ee7fd690a74a696c27c9aadf40c204a4c780",
+    "metadata": "fbeb53a0b523f937fae2f23d14689d8c5c84dd5a",
+    "results_aao_adoption": "9cd9d91a6fbb560ac2a96beadf4c83b94daf6a88"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2025"
+}
