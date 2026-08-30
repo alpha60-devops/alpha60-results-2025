@@ -1,0 +1,1734 @@
+{
+  "archive": {
+    "path": "/home/bkoz/src/alpha60-xperiments/year-2025-archives/squid-game-03.cache/cache.20251226.tar.xz",
+    "sha256": "e77c3098e9ede7d80b8adc9109d2894e1c23fd4c3cf07a2ace192eeb15a19009",
+    "size": 4205627952
+  },
+  "authorization": {
+    "archive_mutated": false,
+    "excluded_member_classes": [
+      "hour",
+      "week",
+      "cumulative"
+    ],
+    "raw_samples_opened": false,
+    "scope": "read only streaming of per-torrent day records"
+  },
+  "collection_key": "squid-game-03",
+  "day_cache_stream_contract": {
+    "authorization": {
+      "archive_mutated": false,
+      "excluded_member_classes": [
+        "hour",
+        "week",
+        "cumulative"
+      ],
+      "raw_samples_opened": false,
+      "scope": "read only streaming of per-torrent day records"
+    },
+    "available_day_products": 183,
+    "cache_members": 67012,
+    "collection_key": "squid-game-03",
+    "first_date": "2025-06-27",
+    "first_index": 1,
+    "indices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144,
+      145,
+      146,
+      147,
+      148,
+      149,
+      150,
+      151,
+      152,
+      153,
+      154,
+      155,
+      156,
+      157,
+      158,
+      159,
+      160,
+      161,
+      162,
+      163,
+      164,
+      165,
+      166,
+      167,
+      168,
+      169,
+      170,
+      171,
+      172,
+      173,
+      174,
+      175,
+      176,
+      177,
+      178,
+      179,
+      180,
+      181,
+      182,
+      183
+    ],
+    "last_date": "2025-12-26",
+    "last_index": 183,
+    "missing_indices": [],
+    "sample_span_days": 183,
+    "schema": "alpha60-day-cache-stream-contract/1",
+    "sparse": false,
+    "status": "pass"
+  },
+  "day_product_contract": {
+    "collection_key": "squid-game-03",
+    "day_products": 183,
+    "first_date": "2025-06-27",
+    "first_index": 1,
+    "geojson_data_version": "20260701",
+    "ip_geolocation_version": "6:1777968300",
+    "json_data_version": "2026-08-05",
+    "last_date": "2025-12-26",
+    "last_index": 183,
+    "schema": "alpha60-day-product-contract/1",
+    "sparse": false,
+    "status": "pass"
+  },
+  "publications": {
+    "data/geojson.day/squid-game-03-day-00001.geojson.gz": {
+      "sha256": "3bf8e20318112cb4041000f83b0a44a9db4cbb525a1b3badf0ac79723001a84e",
+      "size": 316007
+    },
+    "data/geojson.day/squid-game-03-day-00002.geojson.gz": {
+      "sha256": "455cf43c968f0b94b8eb247b7a7f30a817c21cca9270e7e82c54886a9d1c1032",
+      "size": 359526
+    },
+    "data/geojson.day/squid-game-03-day-00003.geojson.gz": {
+      "sha256": "9b016c239ec978bcf7283512cbf57168db18878b5172c8e0d1bc530aa5310a8a",
+      "size": 399251
+    },
+    "data/geojson.day/squid-game-03-day-00004.geojson.gz": {
+      "sha256": "780ede7429fbbc0e53657d2378466557d0c7dcc61ad6738a58779b0d2c9aed3a",
+      "size": 409819
+    },
+    "data/geojson.day/squid-game-03-day-00005.geojson.gz": {
+      "sha256": "0eef0a79ac0ed7c3a0bcd69c994a8282e75e689a25624715284c51243029daf4",
+      "size": 393135
+    },
+    "data/geojson.day/squid-game-03-day-00006.geojson.gz": {
+      "sha256": "b5cda6506f92c2c462e94b94ed8a0150698d91f13ed54a506e49cf2da11d1c1f",
+      "size": 383392
+    },
+    "data/geojson.day/squid-game-03-day-00007.geojson.gz": {
+      "sha256": "ada2947e33891b33e17fcd87f8aae386404268a9fe31225f3c1d3b04cc38379e",
+      "size": 384650
+    },
+    "data/geojson.day/squid-game-03-day-00008.geojson.gz": {
+      "sha256": "a882ad14412b322faa7bfac3903e8ea72c0202c0f2d60f262b5e281bdb6ecd3f",
+      "size": 396580
+    },
+    "data/geojson.day/squid-game-03-day-00009.geojson.gz": {
+      "sha256": "a7186314d78627ac3a992b57e9e547993ef476422297fa746e6078e1b2af7627",
+      "size": 366260
+    },
+    "data/geojson.day/squid-game-03-day-00010.geojson.gz": {
+      "sha256": "04a2f3c393b4691252a1dda2c88fbd6e71470ac5cfd85e71695d3cedc696f282",
+      "size": 367347
+    },
+    "data/geojson.day/squid-game-03-day-00011.geojson.gz": {
+      "sha256": "32a34ce3a24c7ce360ca93cbfbd90acf5f3db5dc9e4316de06da132727e795db",
+      "size": 369676
+    },
+    "data/geojson.day/squid-game-03-day-00012.geojson.gz": {
+      "sha256": "8a0eb33273a104fff76a8d580bcf6ca9ea0468d71806573e9a4211387a0a82f2",
+      "size": 356487
+    },
+    "data/geojson.day/squid-game-03-day-00013.geojson.gz": {
+      "sha256": "cf4bb48d598604446c4819dc478334b7c0a75e4da5025ea30f877eb7403465c2",
+      "size": 358935
+    },
+    "data/geojson.day/squid-game-03-day-00014.geojson.gz": {
+      "sha256": "745a61f7bc09d946f0a302f2f5a34615fd0e59314bd42708f1f4ddb13886a19d",
+      "size": 359725
+    },
+    "data/geojson.day/squid-game-03-day-00015.geojson.gz": {
+      "sha256": "cfb2363c499c468ebb4e78f1820883686cdfa918f987ed1f401d138202d64374",
+      "size": 344147
+    },
+    "data/geojson.day/squid-game-03-day-00016.geojson.gz": {
+      "sha256": "314fedabdd8705dca8eb03b2b14ec92853aa2ad2558f481dc4fb9e622063fa70",
+      "size": 340004
+    },
+    "data/geojson.day/squid-game-03-day-00017.geojson.gz": {
+      "sha256": "e0b51685716d3b92a6e29d0b4764bc39cd5e03a9a40c0d8401c53910ba92befd",
+      "size": 336697
+    },
+    "data/geojson.day/squid-game-03-day-00018.geojson.gz": {
+      "sha256": "702a94550a43111790d85a8f2a7280420fd1854faecd4461b86459c292486e88",
+      "size": 338327
+    },
+    "data/geojson.day/squid-game-03-day-00019.geojson.gz": {
+      "sha256": "4bb69a001e040b3a957cdb1bea385a5fa69eddd96bd5dec4d4680e6fde3dde92",
+      "size": 299187
+    },
+    "data/geojson.day/squid-game-03-day-00020.geojson.gz": {
+      "sha256": "c6c563648b8afab03fe01b41dfb5520ef828efda55a84f2141bbad7ffa39838b",
+      "size": 306111
+    },
+    "data/geojson.day/squid-game-03-day-00021.geojson.gz": {
+      "sha256": "532cabff40ee80accb6c7e695f3633a134dfa1ae90dafcf33c10a2eb2852ee73",
+      "size": 295100
+    },
+    "data/geojson.day/squid-game-03-day-00022.geojson.gz": {
+      "sha256": "c63d92082162be78df89db884420a8631bdd9b32596d7a15794d587e333801f9",
+      "size": 306485
+    },
+    "data/geojson.day/squid-game-03-day-00023.geojson.gz": {
+      "sha256": "8736d3ab8b7e154df95625de9e5c5666f56d55c899ad281e8fcda7bd03e31b1f",
+      "size": 277511
+    },
+    "data/geojson.day/squid-game-03-day-00024.geojson.gz": {
+      "sha256": "f45c4c79d00074fe0fc00aa033fab5486930a23d4ab83e581519f33c84b96526",
+      "size": 288892
+    },
+    "data/geojson.day/squid-game-03-day-00025.geojson.gz": {
+      "sha256": "321bf5b7925b7b0c59f1dc6594d92e6203b60f89c6cdae5732c004fcf3be45a7",
+      "size": 330834
+    },
+    "data/geojson.day/squid-game-03-day-00026.geojson.gz": {
+      "sha256": "fc39de7a5da37316c373f15f174391de2b632a4d2054afe5e033c6091abec465",
+      "size": 292246
+    },
+    "data/geojson.day/squid-game-03-day-00027.geojson.gz": {
+      "sha256": "75f6b7fddbc52f054825bc91cb90637ab1cf13c5251a50618e83916fa429b9b0",
+      "size": 289729
+    },
+    "data/geojson.day/squid-game-03-day-00028.geojson.gz": {
+      "sha256": "bfcf9d858027fd80841603018f799e66ad6d2a7a3452ef2aac9c62acdd78e787",
+      "size": 295707
+    },
+    "data/geojson.day/squid-game-03-day-00029.geojson.gz": {
+      "sha256": "71c908227e793f5c956433746f8bea35a3025e3b45445341839bda9f24ef5f08",
+      "size": 266926
+    },
+    "data/geojson.day/squid-game-03-day-00030.geojson.gz": {
+      "sha256": "35d946c64b621c56d1f740b20f61a1233cf97b661037b5f0aef3c70aeaa9b846",
+      "size": 257771
+    },
+    "data/geojson.day/squid-game-03-day-00031.geojson.gz": {
+      "sha256": "73a079d27ba86b3b4c0bfdf6e02031a7118824c2b008ac17e4c4f37fc2e6b617",
+      "size": 287227
+    },
+    "data/geojson.day/squid-game-03-day-00032.geojson.gz": {
+      "sha256": "8b3e7f771825e955a38bd67da20b3ab9e5d6891c4381b2ca75e05c167419c6ef",
+      "size": 324725
+    },
+    "data/geojson.day/squid-game-03-day-00033.geojson.gz": {
+      "sha256": "12ca6d3cd8f99f5c1b1e0ee0cef542e8361773fc8c8ad2ea427e22fcef021b0d",
+      "size": 320878
+    },
+    "data/geojson.day/squid-game-03-day-00034.geojson.gz": {
+      "sha256": "4ebfdb3fc0a79e9eea8ba3f593ad92b2b3d565b0714d3f876635fcb7d22a063d",
+      "size": 320579
+    },
+    "data/geojson.day/squid-game-03-day-00035.geojson.gz": {
+      "sha256": "5be2d65843d6e92e399f1270cbd7297cf2f8e791d224154efa4870b1214e7c9c",
+      "size": 315003
+    },
+    "data/geojson.day/squid-game-03-day-00036.geojson.gz": {
+      "sha256": "e946a2e06c06167bb4eb53ddc1c32e20e24ecf5ae60825655ec5563a25d6bef9",
+      "size": 364831
+    },
+    "data/geojson.day/squid-game-03-day-00037.geojson.gz": {
+      "sha256": "ce2ad90785a3c55f0d25329f96aff6b9d175484fc91b02624f5ad3cc89b200af",
+      "size": 272336
+    },
+    "data/geojson.day/squid-game-03-day-00038.geojson.gz": {
+      "sha256": "7c912f45880c60c427f59f65e181973f41cff498dabede5851c83c8c1192d7da",
+      "size": 305265
+    },
+    "data/geojson.day/squid-game-03-day-00039.geojson.gz": {
+      "sha256": "9c32a2b6ee2a5c2dc627ad96dadb101f73ca80be0254cfd55697449ef1817671",
+      "size": 291565
+    },
+    "data/geojson.day/squid-game-03-day-00040.geojson.gz": {
+      "sha256": "b50bf1dab2bd92d760e29aa9f11c3b0c10172be9a0b546db2ab0683fed9c486f",
+      "size": 156473
+    },
+    "data/geojson.day/squid-game-03-day-00041.geojson.gz": {
+      "sha256": "4b61e8127c81eed2a6bf45d8b26197e146772436ef0e31ce41b57fd517732392",
+      "size": 289832
+    },
+    "data/geojson.day/squid-game-03-day-00042.geojson.gz": {
+      "sha256": "e5ac1995f6a412ec50c03ec1d7831429b1f13321554631d19ab0c3379d011372",
+      "size": 298576
+    },
+    "data/geojson.day/squid-game-03-day-00043.geojson.gz": {
+      "sha256": "502c456ae73b9d752e262c4a932a72b38d27f74d8133c64cfafe0350e5be9cef",
+      "size": 300799
+    },
+    "data/geojson.day/squid-game-03-day-00044.geojson.gz": {
+      "sha256": "8693f355bd3516264b373363c594a1e2012af40c8c848c69d95c5480f150203d",
+      "size": 273038
+    },
+    "data/geojson.day/squid-game-03-day-00045.geojson.gz": {
+      "sha256": "69c63cdad27819a6b7379dc2e717ec9119f66447f1a91eb7d6247ee825d3145f",
+      "size": 275046
+    },
+    "data/geojson.day/squid-game-03-day-00046.geojson.gz": {
+      "sha256": "56dfc49b7163b14ef2432ee67984e38d4f6ae6be2b0e06c49d40a0171d387af1",
+      "size": 288484
+    },
+    "data/geojson.day/squid-game-03-day-00047.geojson.gz": {
+      "sha256": "93ffc81cfd6bd4c124ef0b5aa69bb12489dc7b79ea213c6f8be695cf34b8ae09",
+      "size": 284224
+    },
+    "data/geojson.day/squid-game-03-day-00048.geojson.gz": {
+      "sha256": "73adc2699b818407b0d8de5f559503a39a6ed3b746ee08c9c170051d846b9cb6",
+      "size": 280123
+    },
+    "data/geojson.day/squid-game-03-day-00049.geojson.gz": {
+      "sha256": "12b97afc0630dbfced3caa6b5231f303c2cef0dbbd2c1a5c8ba4cf19575c23d6",
+      "size": 278369
+    },
+    "data/geojson.day/squid-game-03-day-00050.geojson.gz": {
+      "sha256": "f5f50f3a15cfdc2671044fcb27994a9ba4441664f1bc25b72884332761336d3c",
+      "size": 260958
+    },
+    "data/geojson.day/squid-game-03-day-00051.geojson.gz": {
+      "sha256": "c5616b71f4a2d1e32829309b8f57a29c9a61e4601fc8096e17b15b0193386d0f",
+      "size": 256094
+    },
+    "data/geojson.day/squid-game-03-day-00052.geojson.gz": {
+      "sha256": "fb646dfe98ca3569009bdda16f19dd31fae1e1eb25b272beab39ba3b6050246c",
+      "size": 252991
+    },
+    "data/geojson.day/squid-game-03-day-00053.geojson.gz": {
+      "sha256": "37e79bc724d41934b10ade63ed28d3d8eb1c8fa1accf298e110a8fb9f7daf0ae",
+      "size": 272604
+    },
+    "data/geojson.day/squid-game-03-day-00054.geojson.gz": {
+      "sha256": "48ec15d89c597bcd6ddbde46b4fb9973219a3e9d6ff1d8fc5e8ef86c07971158",
+      "size": 264639
+    },
+    "data/geojson.day/squid-game-03-day-00055.geojson.gz": {
+      "sha256": "bfdb451e947e822647ef891d717d5053766d972e4aa87381a459f421d29e3631",
+      "size": 272106
+    },
+    "data/geojson.day/squid-game-03-day-00056.geojson.gz": {
+      "sha256": "a497cc40fc1e0accd29fa3096d59f019baa3157b5781864a3421feffe1c373d6",
+      "size": 266455
+    },
+    "data/geojson.day/squid-game-03-day-00057.geojson.gz": {
+      "sha256": "4d0427584a22134689dcda27309a659c3920f59fad8204e512d43197974f6683",
+      "size": 263774
+    },
+    "data/geojson.day/squid-game-03-day-00058.geojson.gz": {
+      "sha256": "c7bc6d9546fc67896b22e77712b63e508012047048c15235fd744a14fb7b69ff",
+      "size": 264326
+    },
+    "data/geojson.day/squid-game-03-day-00059.geojson.gz": {
+      "sha256": "6eb4141c4c79cd1aa6e3192f5e51ad0f30d2d562f9aed300300a4d000a888fc6",
+      "size": 253032
+    },
+    "data/geojson.day/squid-game-03-day-00060.geojson.gz": {
+      "sha256": "5f694afbd0872d1821a6944b62663bb436f24ae0e640249bda2e086c16bcfed4",
+      "size": 269968
+    },
+    "data/geojson.day/squid-game-03-day-00061.geojson.gz": {
+      "sha256": "85fd91fef45a904e018467cdb971e4d7fac5044704361557e32d46656e334653",
+      "size": 228657
+    },
+    "data/geojson.day/squid-game-03-day-00062.geojson.gz": {
+      "sha256": "4846385f0b7d8426a13f6f3cc47527c5788ed9e2664e7ad7032ecbfbc5a4a201",
+      "size": 178013
+    },
+    "data/geojson.day/squid-game-03-day-00063.geojson.gz": {
+      "sha256": "8688cbac1e42aaac8994edf42d3c3621be58eb0da1a68742a18a4b9ec7a58dcf",
+      "size": 263971
+    },
+    "data/geojson.day/squid-game-03-day-00064.geojson.gz": {
+      "sha256": "fd8ab8fad689c2bbaef2d870b9a0f77a8a570dccd6dc0f792e96878f4503c1a0",
+      "size": 304262
+    },
+    "data/geojson.day/squid-game-03-day-00065.geojson.gz": {
+      "sha256": "85d5de638a051fc55896961f240972f0e8f93b929602ee647bb1b51b0b2ce577",
+      "size": 314013
+    },
+    "data/geojson.day/squid-game-03-day-00066.geojson.gz": {
+      "sha256": "4d08746a0a8c098af2b545365a705f03aa942f737ca35d544e206b2940669080",
+      "size": 289970
+    },
+    "data/geojson.day/squid-game-03-day-00067.geojson.gz": {
+      "sha256": "d36b70bb199dd2542a300e34634273e70561af43f8c93217d8b65239054f1f21",
+      "size": 286006
+    },
+    "data/geojson.day/squid-game-03-day-00068.geojson.gz": {
+      "sha256": "408c60ebb7a2e1428f49d9720d22947e7e8f4394bb39d2f6028447bd32e40206",
+      "size": 288139
+    },
+    "data/geojson.day/squid-game-03-day-00069.geojson.gz": {
+      "sha256": "da1b87ae98be9077ef1a8b18a18f9f3137957e10a03a1e4b1821723402b9a793",
+      "size": 264734
+    },
+    "data/geojson.day/squid-game-03-day-00070.geojson.gz": {
+      "sha256": "f401c74b3c3476f1f2b156eb047e4a23dcd2739542eb48945879d70238feb600",
+      "size": 270991
+    },
+    "data/geojson.day/squid-game-03-day-00071.geojson.gz": {
+      "sha256": "c643a37f2a36c0277043c17adbc85da6d88634a2a9055fba51e95e6b77577632",
+      "size": 267784
+    },
+    "data/geojson.day/squid-game-03-day-00072.geojson.gz": {
+      "sha256": "bb3a9572086c58808fa200cb82974730aee5e2847b7ec6f4a9690fd39a558d5b",
+      "size": 253372
+    },
+    "data/geojson.day/squid-game-03-day-00073.geojson.gz": {
+      "sha256": "4d6af3bb497d335bc0f0737cd433a82ad1bf032de28156968cc73fe02fb701e1",
+      "size": 256181
+    },
+    "data/geojson.day/squid-game-03-day-00074.geojson.gz": {
+      "sha256": "b103f9da2285cb95e0e4a4762601cf30cddd02fa7da2ae52dc7d13c0bb138d19",
+      "size": 275584
+    },
+    "data/geojson.day/squid-game-03-day-00075.geojson.gz": {
+      "sha256": "3f807b7cd21e52a306afc7f3e091dc7d9ff3b4348f3d66057b6b07c8690379e2",
+      "size": 285789
+    },
+    "data/geojson.day/squid-game-03-day-00076.geojson.gz": {
+      "sha256": "38d861b707894bd51fbd0d59a6a9db14e081d8f13be0b0e107a44726e93739ce",
+      "size": 279630
+    },
+    "data/geojson.day/squid-game-03-day-00077.geojson.gz": {
+      "sha256": "d56f38e2d4d68f155ede8f7fc54d43946e065b0e1458c804d4b88c152be9cf4b",
+      "size": 250375
+    },
+    "data/geojson.day/squid-game-03-day-00078.geojson.gz": {
+      "sha256": "f1261f9fd390f7262a171f472ec3a98394d7348efeefe2ec358ed437b241d36f",
+      "size": 251924
+    },
+    "data/geojson.day/squid-game-03-day-00079.geojson.gz": {
+      "sha256": "f6482ad4c2daba56ed259a2aa89c5ce9a8d804ddcd54a61f2909ff6a93e022f0",
+      "size": 239837
+    },
+    "data/geojson.day/squid-game-03-day-00080.geojson.gz": {
+      "sha256": "8258e64bb4dd2b0939dc657682fc19f499b70dda7a2b6184ea1a64457e9d5360",
+      "size": 227203
+    },
+    "data/geojson.day/squid-game-03-day-00081.geojson.gz": {
+      "sha256": "d0491564636096dabbb45f430aca380e0581f99127939295b656ef4a5e17980f",
+      "size": 257917
+    },
+    "data/geojson.day/squid-game-03-day-00082.geojson.gz": {
+      "sha256": "61d716bc488431c19a947325677f927c0cc5a0fc580525a2b6088069fe5b2c68",
+      "size": 249661
+    },
+    "data/geojson.day/squid-game-03-day-00083.geojson.gz": {
+      "sha256": "e89b903099192077b83bc2b1866060f28711470430545a0affa804bdef5e7a9a",
+      "size": 254096
+    },
+    "data/geojson.day/squid-game-03-day-00084.geojson.gz": {
+      "sha256": "50f18f20d4c3d1d7d61eb1d7c7c9f0391e0209428efafdab6bd50d2d01604512",
+      "size": 262272
+    },
+    "data/geojson.day/squid-game-03-day-00085.geojson.gz": {
+      "sha256": "8077c3157f6df094ef9ceb953e4dbd3cd26137243a75ec92e32131868c6799e1",
+      "size": 244907
+    },
+    "data/geojson.day/squid-game-03-day-00086.geojson.gz": {
+      "sha256": "b750ca9ea1bc1e5b7f69774afd7e00f08c37e7f0f5fe830faffae5e93892d0db",
+      "size": 262561
+    },
+    "data/geojson.day/squid-game-03-day-00087.geojson.gz": {
+      "sha256": "bddb1a4885f2d7f4318c1a673ace6f12a2710eb682ad9b6bb2724548e82dd4a4",
+      "size": 275967
+    },
+    "data/geojson.day/squid-game-03-day-00088.geojson.gz": {
+      "sha256": "6fa991543f57f94baf11875dc09375ce2e310e85c71bc84c6cc80edc15cb2289",
+      "size": 283739
+    },
+    "data/geojson.day/squid-game-03-day-00089.geojson.gz": {
+      "sha256": "70022bf36aac0f0ee51f2babcfcce6af8e7739bf878cf8079bf73fe01381eb7b",
+      "size": 294923
+    },
+    "data/geojson.day/squid-game-03-day-00090.geojson.gz": {
+      "sha256": "eade5cee81eebec764c0479f89b0235b92f1bdba4c7cc10db84ffc00e0ce7e6b",
+      "size": 296558
+    },
+    "data/geojson.day/squid-game-03-day-00091.geojson.gz": {
+      "sha256": "2e536bdda5b5c3626182ee41a9b2085999b68a7d4f2148e818d791d22a778826",
+      "size": 286066
+    },
+    "data/geojson.day/squid-game-03-day-00092.geojson.gz": {
+      "sha256": "73b58353a12d16d5798cfec36b4ab5557767cd81752dd71d313e48dc15a8feaa",
+      "size": 309128
+    },
+    "data/geojson.day/squid-game-03-day-00093.geojson.gz": {
+      "sha256": "9f065777dd4730a3d9f8940e90c7a24a36f8e8e34023920e79524884ba79f66d",
+      "size": 283479
+    },
+    "data/geojson.day/squid-game-03-day-00094.geojson.gz": {
+      "sha256": "1b791f045769e43a31aeea98b6cf45774967d56a645bef7988b9abbd70bc9dbd",
+      "size": 235118
+    },
+    "data/geojson.day/squid-game-03-day-00095.geojson.gz": {
+      "sha256": "992c1a839a1785690ca5a23c03f498d6a5f69c7b936aebe13c6ae9e628248a97",
+      "size": 290615
+    },
+    "data/geojson.day/squid-game-03-day-00096.geojson.gz": {
+      "sha256": "c443c1dd3a12bb13ae6c69407b01000e7f68a4ef80dfb3e580453b4f43d26a1a",
+      "size": 283946
+    },
+    "data/geojson.day/squid-game-03-day-00097.geojson.gz": {
+      "sha256": "e881b260c241a4bcf8d72daf8d588bd54bbbd8c5e2b810009ed48f187e40eaf5",
+      "size": 269421
+    },
+    "data/geojson.day/squid-game-03-day-00098.geojson.gz": {
+      "sha256": "b5a9a0427ab6c345b290b1b39d50e716aa5fed6b17a786f8c10d70cc41b437c3",
+      "size": 278978
+    },
+    "data/geojson.day/squid-game-03-day-00099.geojson.gz": {
+      "sha256": "ff75818e4b9d77bdf8851343ad75544f3f0928238bf3346971f1425dce999edb",
+      "size": 273713
+    },
+    "data/geojson.day/squid-game-03-day-00100.geojson.gz": {
+      "sha256": "25281f43ec72021d8c19c9d3fb3a3ee51a68873c8b4fd65c2348ed60c623a13d",
+      "size": 260440
+    },
+    "data/geojson.day/squid-game-03-day-00101.geojson.gz": {
+      "sha256": "aba1ef4de062d486f27c1592bb0ec70cfb73d9d6ad423f5b41955f7d1e5e6710",
+      "size": 273200
+    },
+    "data/geojson.day/squid-game-03-day-00102.geojson.gz": {
+      "sha256": "54a927165e98b2ca7e105d6a745ae6e0ba0239e2abd4652eb9b72d81706cda4f",
+      "size": 290208
+    },
+    "data/geojson.day/squid-game-03-day-00103.geojson.gz": {
+      "sha256": "0e1d5ba234cbf61e36e4d7ad3847734823b3d8451786c571fedf1c720886f2b5",
+      "size": 265265
+    },
+    "data/geojson.day/squid-game-03-day-00104.geojson.gz": {
+      "sha256": "417ca18eaf4b9f9af33a57718cc873634435f438566617ceb41fffbecf6afead",
+      "size": 287451
+    },
+    "data/geojson.day/squid-game-03-day-00105.geojson.gz": {
+      "sha256": "6d25fbd9745305f7c9ef4badd8543423a64dc3231e6ee523e19ef7ce6ae54408",
+      "size": 298765
+    },
+    "data/geojson.day/squid-game-03-day-00106.geojson.gz": {
+      "sha256": "42afb2ff25694084e953b9e6103c9596ec0778ab4c9630c325f0e82c695a7c82",
+      "size": 293836
+    },
+    "data/geojson.day/squid-game-03-day-00107.geojson.gz": {
+      "sha256": "f1cd547f2b846a340e1843dc9ed335266662dbacb98733aaa3323defbb9bb175",
+      "size": 286920
+    },
+    "data/geojson.day/squid-game-03-day-00108.geojson.gz": {
+      "sha256": "aa7c3db258f25e554cb7697dc38506eeabdd71af163cba8cd3f48a91a64de573",
+      "size": 286602
+    },
+    "data/geojson.day/squid-game-03-day-00109.geojson.gz": {
+      "sha256": "e3e3597d44f18f11a97f7261373b796e6840bf178789d9e8de9bdeeca01c9e21",
+      "size": 295552
+    },
+    "data/geojson.day/squid-game-03-day-00110.geojson.gz": {
+      "sha256": "49e978b5327402ce8c0a0d99835911fe972b38807fd8d63c6fbc41581900b185",
+      "size": 283664
+    },
+    "data/geojson.day/squid-game-03-day-00111.geojson.gz": {
+      "sha256": "c717bdbe0c5230d9f6eacaee0b380805a67aa1a5b5d0cabf0022fce3ace58262",
+      "size": 290285
+    },
+    "data/geojson.day/squid-game-03-day-00112.geojson.gz": {
+      "sha256": "eb750e94d722a169daaf04544261fb6b539bf8f60f487ebf8fc558a889646603",
+      "size": 290482
+    },
+    "data/geojson.day/squid-game-03-day-00113.geojson.gz": {
+      "sha256": "328c10ac91f6d5f50cf38c419518f7750749440e7b140b49bdefd7845ba64baf",
+      "size": 291329
+    },
+    "data/geojson.day/squid-game-03-day-00114.geojson.gz": {
+      "sha256": "de7c0e0c2a6e37dbf72001f6430624681089532a1060df139f442473d578720b",
+      "size": 294970
+    },
+    "data/geojson.day/squid-game-03-day-00115.geojson.gz": {
+      "sha256": "016fd14b1774346d6e119902e55b4df0bd86f9328e1559f4276ef2c69e2bb1a7",
+      "size": 297005
+    },
+    "data/geojson.day/squid-game-03-day-00116.geojson.gz": {
+      "sha256": "4e950b579736bff46276b0fbb9f89307aeff2cf1345a02af002601acc2814c13",
+      "size": 308830
+    },
+    "data/geojson.day/squid-game-03-day-00117.geojson.gz": {
+      "sha256": "b50db7d7ecf4333f331502529304470dca5aa1aca9232f376df75c9126e171cb",
+      "size": 304540
+    },
+    "data/geojson.day/squid-game-03-day-00118.geojson.gz": {
+      "sha256": "e0ed5eb00ff78276e90e74f7be7ead1c25d0403a1925a19b200d89aed886f25e",
+      "size": 293233
+    },
+    "data/geojson.day/squid-game-03-day-00119.geojson.gz": {
+      "sha256": "4ff5f6992572db49004d0cf3b3eaf57787ef6436d45b427b8ba8082cf3cacfc2",
+      "size": 293949
+    },
+    "data/geojson.day/squid-game-03-day-00120.geojson.gz": {
+      "sha256": "d64ceac2eecfa8734738b3e4eea4c14abc3dd8825668171924a5a59b57b69d6a",
+      "size": 325340
+    },
+    "data/geojson.day/squid-game-03-day-00121.geojson.gz": {
+      "sha256": "3c770320c6cc533dfa1cae3e58382ad6e2702f07a72f18aa163ec413bd6898a1",
+      "size": 290975
+    },
+    "data/geojson.day/squid-game-03-day-00122.geojson.gz": {
+      "sha256": "eb7b5dfb1b6df1edfcade1e5148eb26f15b56eb5014aceeed1ec9a9cd86b0af3",
+      "size": 277152
+    },
+    "data/geojson.day/squid-game-03-day-00123.geojson.gz": {
+      "sha256": "8f23a4657fe86a7bd6751f3dcb63ef6c60a426c3275896058177999338594981",
+      "size": 292760
+    },
+    "data/geojson.day/squid-game-03-day-00124.geojson.gz": {
+      "sha256": "f8303248a05cdf268fc681b0c6e32ea102479c39d8c3e2d777fa3000c8212a34",
+      "size": 287547
+    },
+    "data/geojson.day/squid-game-03-day-00125.geojson.gz": {
+      "sha256": "a9a288bf2935eefbb12ede379f39c11eb23a59d469fd3b1bd591caffc1fa23fc",
+      "size": 282940
+    },
+    "data/geojson.day/squid-game-03-day-00126.geojson.gz": {
+      "sha256": "303131477d7fd4e5e1739ecb66a7ab262457ff68bd95417f324855ffbf5dc277",
+      "size": 288214
+    },
+    "data/geojson.day/squid-game-03-day-00127.geojson.gz": {
+      "sha256": "d5838b0c308a1013f6204ed8cc988a47961026a31c2171233a7286ceb7ea82fe",
+      "size": 284936
+    },
+    "data/geojson.day/squid-game-03-day-00128.geojson.gz": {
+      "sha256": "7b6205d44795fb585d016e406fa9afad78b254e76fc7b902638796700d8e4b30",
+      "size": 277761
+    },
+    "data/geojson.day/squid-game-03-day-00129.geojson.gz": {
+      "sha256": "72fe77e2db393c8eae95bcca539b8687ae31450d089c5fafee35382202541392",
+      "size": 276596
+    },
+    "data/geojson.day/squid-game-03-day-00130.geojson.gz": {
+      "sha256": "e93f5802338382e805d0cecd8979bee7bc0ab96581529c953d221a950f673a70",
+      "size": 279143
+    },
+    "data/geojson.day/squid-game-03-day-00131.geojson.gz": {
+      "sha256": "50df79bbff580c7e3fd2cab8fd0b531bdebf674cb983f07632e60a989a9bb600",
+      "size": 275101
+    },
+    "data/geojson.day/squid-game-03-day-00132.geojson.gz": {
+      "sha256": "963b1ed6f5f638667e910f2169b786ed77b32e984a6d160685128a0d75cab6a8",
+      "size": 273246
+    },
+    "data/geojson.day/squid-game-03-day-00133.geojson.gz": {
+      "sha256": "4dce9214ed1e8a02fff6e4600d24b9d3eb7271191162144b2a5902ad04e29c8e",
+      "size": 282291
+    },
+    "data/geojson.day/squid-game-03-day-00134.geojson.gz": {
+      "sha256": "bf08d26fed891871063bdcf79cc36de722014c619fc0f886c4703a011a5fb8a1",
+      "size": 277111
+    },
+    "data/geojson.day/squid-game-03-day-00135.geojson.gz": {
+      "sha256": "2d25943cfd65cd8e961d67dd2ddfe9243f7b597b0f579734481ae4c307f50186",
+      "size": 279472
+    },
+    "data/geojson.day/squid-game-03-day-00136.geojson.gz": {
+      "sha256": "7f6ee2c0e3b238895319f5171d7ba016881c96430ec8a6b9cc0ac07c5880564a",
+      "size": 278207
+    },
+    "data/geojson.day/squid-game-03-day-00137.geojson.gz": {
+      "sha256": "ef27868b92aba748267ac1e37157b609ae1179a68c01dd947468e7f97a2c1ed4",
+      "size": 286957
+    },
+    "data/geojson.day/squid-game-03-day-00138.geojson.gz": {
+      "sha256": "30acfee1adba45ff93adb5e3577735221276914869d86638439a4439dfc038fa",
+      "size": 285719
+    },
+    "data/geojson.day/squid-game-03-day-00139.geojson.gz": {
+      "sha256": "eb2dcb8e507057e23202de9d12427a2a10520f1133b648ac3c56d07c47f7a293",
+      "size": 280851
+    },
+    "data/geojson.day/squid-game-03-day-00140.geojson.gz": {
+      "sha256": "8435d6821c747cd7e59e29b66b771e12f42fb8dc54877b53c6d5255189c6bbd3",
+      "size": 278704
+    },
+    "data/geojson.day/squid-game-03-day-00141.geojson.gz": {
+      "sha256": "efcf487d5c7ab89bb920839376f5ecf6bde67dbcbeaa48b3a1d98a53e0477263",
+      "size": 278798
+    },
+    "data/geojson.day/squid-game-03-day-00142.geojson.gz": {
+      "sha256": "fa3d3078c190414c6633f0676f96bb54ad7fb637cf5092de093c83c0ba5fa4c2",
+      "size": 269442
+    },
+    "data/geojson.day/squid-game-03-day-00143.geojson.gz": {
+      "sha256": "53a53dac595a6bcb4272dfae13859c3640727701800824ffc78345bc260a1bf5",
+      "size": 259730
+    },
+    "data/geojson.day/squid-game-03-day-00144.geojson.gz": {
+      "sha256": "e79a51b86421556b638d35ba9bf0fa123c615f36ac66fb6686b142c559b56b81",
+      "size": 289801
+    },
+    "data/geojson.day/squid-game-03-day-00145.geojson.gz": {
+      "sha256": "359c4d405e46caa18e2a43a08696678c4890537a8036ccab2af19e2e181a3d79",
+      "size": 276636
+    },
+    "data/geojson.day/squid-game-03-day-00146.geojson.gz": {
+      "sha256": "751e1573598f5d06fd77740adaf6bf395cd36e139f70a78ba8b6378edbe972c8",
+      "size": 287515
+    },
+    "data/geojson.day/squid-game-03-day-00147.geojson.gz": {
+      "sha256": "72108fac6e1fe7d037884bea7d8b616c313cec303a921a155b607f385380b238",
+      "size": 284980
+    },
+    "data/geojson.day/squid-game-03-day-00148.geojson.gz": {
+      "sha256": "c7c34a786ccaa27caaf56e0c7c715e3627b4c9f8f34f999538a36f2613e5eea0",
+      "size": 349586
+    },
+    "data/geojson.day/squid-game-03-day-00149.geojson.gz": {
+      "sha256": "cfdbc159c575f5ab9fa7acfe7e0834ceb115f5cf6ef65040eb3a4a3bb6f65740",
+      "size": 285180
+    },
+    "data/geojson.day/squid-game-03-day-00150.geojson.gz": {
+      "sha256": "903316515c297f06f123e74eb24b9590604dd511ee075cd9dd0576d14f1cddc9",
+      "size": 268399
+    },
+    "data/geojson.day/squid-game-03-day-00151.geojson.gz": {
+      "sha256": "fb3689306839ae0fe8905b0b151de0c8debf62c3ae16e93c057e4a86fbc1c732",
+      "size": 283903
+    },
+    "data/geojson.day/squid-game-03-day-00152.geojson.gz": {
+      "sha256": "bb755a1277ec1d9a60664927af3d7498f9d3e70b575e869f6235255775124f31",
+      "size": 293438
+    },
+    "data/geojson.day/squid-game-03-day-00153.geojson.gz": {
+      "sha256": "35f88500e37b8c6393da164ed2293fff212f7cf0eb15576969ce42a0a376f4f6",
+      "size": 296811
+    },
+    "data/geojson.day/squid-game-03-day-00154.geojson.gz": {
+      "sha256": "be7b4e71002ad1adf0e71690049c3d126e3b8aef0df33deaad4e8958c179a6e9",
+      "size": 297644
+    },
+    "data/geojson.day/squid-game-03-day-00155.geojson.gz": {
+      "sha256": "e4449ddf77781356508f25f9a80278411697bfe2b914d0ff2d0aac67b7a1870b",
+      "size": 278555
+    },
+    "data/geojson.day/squid-game-03-day-00156.geojson.gz": {
+      "sha256": "51ce824705584ab9ce1ec831b6d490c62cf5faaf4510310baeebd97425be23a5",
+      "size": 287044
+    },
+    "data/geojson.day/squid-game-03-day-00157.geojson.gz": {
+      "sha256": "16f2003b60bd08d90341ad2845313f10a507534aa5d8b8bb9b5a71d0ada0b118",
+      "size": 290443
+    },
+    "data/geojson.day/squid-game-03-day-00158.geojson.gz": {
+      "sha256": "f286f2955c1c27f6a98736b5b58e7b366498cfe757b3888ebfc2ed117401c0b0",
+      "size": 308445
+    },
+    "data/geojson.day/squid-game-03-day-00159.geojson.gz": {
+      "sha256": "b9ac7dc2f3d4e42016c6c9e29c5b7d7df3562ef1f6d085db6b78fef9128caccd",
+      "size": 296232
+    },
+    "data/geojson.day/squid-game-03-day-00160.geojson.gz": {
+      "sha256": "75bfab843dc42370ce6eadfc75de0600242a2ea2e9ab5376e9914a4a754e7a14",
+      "size": 296025
+    },
+    "data/geojson.day/squid-game-03-day-00161.geojson.gz": {
+      "sha256": "d73eb1e544fe4350fee59922fd07f1a10759d37ab885811acaf0668c07aab066",
+      "size": 286669
+    },
+    "data/geojson.day/squid-game-03-day-00162.geojson.gz": {
+      "sha256": "6b52bb2032019d4fb8033c29cea5c1641c2e46605f8c548781caf8652ada6cae",
+      "size": 274052
+    },
+    "data/geojson.day/squid-game-03-day-00163.geojson.gz": {
+      "sha256": "8dd55cb32d3704106bd83236ddd0bb3c0120157e66d1acafeb93fd6542dba2e5",
+      "size": 265672
+    },
+    "data/geojson.day/squid-game-03-day-00164.geojson.gz": {
+      "sha256": "fcdeac70aa673d392084e3b44189435694484d309792e48781a2eb121d464bf7",
+      "size": 255184
+    },
+    "data/geojson.day/squid-game-03-day-00165.geojson.gz": {
+      "sha256": "d115b759e486ef268a35c3bcb5b100156a6209a2cb46338380759b833ff35a50",
+      "size": 294352
+    },
+    "data/geojson.day/squid-game-03-day-00166.geojson.gz": {
+      "sha256": "7293861d352aa72fa381c4fe1aef078359fd9b5cf2b17c6fb0371fd05dac538c",
+      "size": 288069
+    },
+    "data/geojson.day/squid-game-03-day-00167.geojson.gz": {
+      "sha256": "1a1b8686f1057542c413aaf4d7212fda02ae21c4d47ffc20cb40cbb6c98e743f",
+      "size": 285196
+    },
+    "data/geojson.day/squid-game-03-day-00168.geojson.gz": {
+      "sha256": "3b30413258bc253b85bf5b07122543d7d6bb47ed887f53616b7d4c4b63295b99",
+      "size": 288233
+    },
+    "data/geojson.day/squid-game-03-day-00169.geojson.gz": {
+      "sha256": "9abb85473236e11e4db58c96c4c4e7cdf64a969824d1e3c34effb37f6a3585ec",
+      "size": 273201
+    },
+    "data/geojson.day/squid-game-03-day-00170.geojson.gz": {
+      "sha256": "6e07da1a8592efed63a0e1c11a492b85ab4302d6c411bfb6eb3ac1a8f6efa24f",
+      "size": 255311
+    },
+    "data/geojson.day/squid-game-03-day-00171.geojson.gz": {
+      "sha256": "3f0586f765fa0ddda5ac50071f3243ff4b0d7e700babc6d85a2e4413d0280463",
+      "size": 240932
+    },
+    "data/geojson.day/squid-game-03-day-00172.geojson.gz": {
+      "sha256": "5805c03a1e61258a57565066e03e5905aa2e0fa19381d1aee92dc41cca0d4d35",
+      "size": 286848
+    },
+    "data/geojson.day/squid-game-03-day-00173.geojson.gz": {
+      "sha256": "86dce050943baea4fab26c651b065c34cb38bdeb5838ebaacaa71e3f7e0f8472",
+      "size": 291283
+    },
+    "data/geojson.day/squid-game-03-day-00174.geojson.gz": {
+      "sha256": "96b0a57bffebea2f20faa4cd0b8558cfe99c7d284b9d0e820a9d8109db8ad5d4",
+      "size": 286190
+    },
+    "data/geojson.day/squid-game-03-day-00175.geojson.gz": {
+      "sha256": "3498c719c542a9eefef7a64b00977bcb4b7e9fa1f4e24cf6e6f744b7651b054e",
+      "size": 287219
+    },
+    "data/geojson.day/squid-game-03-day-00176.geojson.gz": {
+      "sha256": "dfd5b192a49b63338bc5c0f71d1d0aaf57379009222c1e9375a13cf9716a472f",
+      "size": 278735
+    },
+    "data/geojson.day/squid-game-03-day-00177.geojson.gz": {
+      "sha256": "3d9dd528ec38f30bfa9002dd8787aaa42d004bcf4342e8adfb340c1f3a647311",
+      "size": 265900
+    },
+    "data/geojson.day/squid-game-03-day-00178.geojson.gz": {
+      "sha256": "20f2795a226538d2dfc7e6cb9f9d2421f8b35daf3ab3b57ed51169db8fc630e7",
+      "size": 270216
+    },
+    "data/geojson.day/squid-game-03-day-00179.geojson.gz": {
+      "sha256": "b1b915bf242469b17b00b8d9aa32ec282916225c74921d716b44a79280d4e32b",
+      "size": 218972
+    },
+    "data/geojson.day/squid-game-03-day-00180.geojson.gz": {
+      "sha256": "d61da2917ea96a413adc1db73cf2019b994db4e99b9627f06786ca119b544888",
+      "size": 156442
+    },
+    "data/geojson.day/squid-game-03-day-00181.geojson.gz": {
+      "sha256": "67fc5abc5efdbf735571fb4db546ab056f4958a8e1868d69854b5e708637a2f2",
+      "size": 269075
+    },
+    "data/geojson.day/squid-game-03-day-00182.geojson.gz": {
+      "sha256": "f26a8063b1e1b7820d91ca905b67fa3a01f966200d5a5a254a92b073adcc76cd",
+      "size": 259455
+    },
+    "data/geojson.day/squid-game-03-day-00183.geojson.gz": {
+      "sha256": "d07efb6c7f5fc6a31af1d31066d4773e684ec1d25d60c93686921634952b97ae",
+      "size": 257226
+    },
+    "data/json/squid-game-03-swarm-day-00001-2025-06-27.json": {
+      "sha256": "9b78aefb2020bdba32a0bbc1d9bb49265cd07c97509daea66814f7f7de715463",
+      "size": 468
+    },
+    "data/json/squid-game-03-swarm-day-00002-2025-06-28.json": {
+      "sha256": "2014f0089d02555a50f96260122b7cd2ca1281b4dbd2eca4cb24b29d65b1673a",
+      "size": 468
+    },
+    "data/json/squid-game-03-swarm-day-00003-2025-06-29.json": {
+      "sha256": "2a18cdf76c193c280759667cdef1555a361d4b33cfeaa204043d9ca2946f84b6",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00004-2025-06-30.json": {
+      "sha256": "caa4db8a5b5e630bd5c1bd3ae893e4f1c7687e0aab7fbe9983b90b09fceb8026",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00005-2025-07-01.json": {
+      "sha256": "4f0219686deef134eb7b88ec25293137e7029582919482a7e04b766514ddc17e",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00006-2025-07-02.json": {
+      "sha256": "6907d7749c913ee2b8afb72f2a0871790e97d73b4bcd0de838197ee480baa6e6",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00007-2025-07-03.json": {
+      "sha256": "7bee5c05501644dd7569ce44ad543c396dbcb7f5bed05db00d9ed07b7b1915aa",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00008-2025-07-04.json": {
+      "sha256": "5ee683c91d4b6cb703da18c61faf8178f9361692fce14fb92b41ab101a9f4dcc",
+      "size": 468
+    },
+    "data/json/squid-game-03-swarm-day-00009-2025-07-05.json": {
+      "sha256": "e95db789e40aa3beb631ebda333cd69627691d2b0976fcda4b21c3e534edc295",
+      "size": 468
+    },
+    "data/json/squid-game-03-swarm-day-00010-2025-07-06.json": {
+      "sha256": "80a59fda7c880c0095ea60c6d6eeabf969b1fdcee92666f181ae67d82fa8ff3a",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00011-2025-07-07.json": {
+      "sha256": "ea5a9d37b714a75068e671f846732f5cffc0cddc5b2974b42def124ce7960ff2",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00012-2025-07-08.json": {
+      "sha256": "80be50618bd132fee43302a39db9a20a326278fdcee1b279e645422118a14b3b",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00013-2025-07-09.json": {
+      "sha256": "6d28e73faf5abdb35f5ba5263a997687682d3cf38986af9327f393a0131664b3",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00014-2025-07-10.json": {
+      "sha256": "e3678470d64416677e9ec4cff8089006019f6a210342b19375548213629d308b",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00015-2025-07-11.json": {
+      "sha256": "c87df3bee9c8e672c8a91d6cf9dc83c7fd3f5aaeebe8007e54b726b84a1dbf32",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00016-2025-07-12.json": {
+      "sha256": "8e6003885fdaca901a28db47607a30d225f8412c42ad4b5c43a833b7dee5f7d1",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00017-2025-07-13.json": {
+      "sha256": "4dc64ead93eb9dde2f31478eff59605dca5889aa58f1249efb3a863954eb414e",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00018-2025-07-14.json": {
+      "sha256": "4c1846cff94d91f6e8d145b4ae6c44e28bc20e1ca8f986ed8aed21e18b90bf60",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00019-2025-07-15.json": {
+      "sha256": "ec9c2ddd5aa115382227b16962d5d6817055450ee0694a3834a0691151f3456f",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00020-2025-07-16.json": {
+      "sha256": "4e89976d1edeec66009d195335c320333a370cd7fb2033e7f593a4c6f80c99bd",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00021-2025-07-17.json": {
+      "sha256": "96d3a392a5ffd36d4c01f72c17b67e59da524d76c2d1888765e13578fa5a0c44",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00022-2025-07-18.json": {
+      "sha256": "938aec3a5d90c1159fdc4f62022b5491c10828e089306767507a14a1f244d1f6",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00023-2025-07-19.json": {
+      "sha256": "3b65673bb2017733353a5c8b52d7fe05d2d18c3dc49ea4edb4b4907a68638965",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00024-2025-07-20.json": {
+      "sha256": "11cb9d38384136216243b5129e8828e84675e26b6b07721b531156e5ff21582e",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00025-2025-07-21.json": {
+      "sha256": "0aa8fae56f6153933b1a340d15a6c2bbb7724fa7b72627f179346da9415b6611",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00026-2025-07-22.json": {
+      "sha256": "350bc762b773cce8f3f4dea2191097983d3ad80ed74bab9140cb36dc763e63ab",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00027-2025-07-23.json": {
+      "sha256": "bdb4cb82c12df3eea3871b14bb73aac68dd80e6d29ea4d0c7038b744782ec6e4",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00028-2025-07-24.json": {
+      "sha256": "fd3d6cb329539c0f80e12ab16019801888a308aa58b6486f6945022e70b45662",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00029-2025-07-25.json": {
+      "sha256": "05de38ff2ff6d3bfcc305c2e2735dac0345206fc3fd9fbbb07cb55a0c31f81ea",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00030-2025-07-26.json": {
+      "sha256": "77e0258d7aab1cc0a51f1efa9f892b42d2bf5c455b849dc72555335a3f7a4ce3",
+      "size": 468
+    },
+    "data/json/squid-game-03-swarm-day-00031-2025-07-27.json": {
+      "sha256": "aad2cd382bf64df76c8e9500bd015e50618fcac2af21736ad9166fffc33110c7",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00032-2025-07-28.json": {
+      "sha256": "50a15487a0072f4f7f08d9f7989b0f3fbe50bc2651d96ac18aa585ab960ed5e7",
+      "size": 468
+    },
+    "data/json/squid-game-03-swarm-day-00033-2025-07-29.json": {
+      "sha256": "fd4fd2c796f891bfd30993f50ed120386094f90c65f1dbd3fb309e52359389e1",
+      "size": 468
+    },
+    "data/json/squid-game-03-swarm-day-00034-2025-07-30.json": {
+      "sha256": "2cd1dba75a980e09e2a54f03ca1cc70746c2704639a81198b66e7ce0437895f6",
+      "size": 468
+    },
+    "data/json/squid-game-03-swarm-day-00035-2025-07-31.json": {
+      "sha256": "24bab5fbf5d6c06ac2875d010dd0005b8c2fbbb8a635975ca976acf6210fa0ba",
+      "size": 468
+    },
+    "data/json/squid-game-03-swarm-day-00036-2025-08-01.json": {
+      "sha256": "cf71367de8b081bd41935f4d1e0544cb57162245c9cc98c0e4615fae7ccd145c",
+      "size": 468
+    },
+    "data/json/squid-game-03-swarm-day-00037-2025-08-02.json": {
+      "sha256": "53778e0fed82f59c5f134548a10c09fa87b9fa9c4c779181d022fdcd65d5412c",
+      "size": 468
+    },
+    "data/json/squid-game-03-swarm-day-00038-2025-08-03.json": {
+      "sha256": "01f715c5cc767f110cccd13b1648c6394b9fddfdcbad59bf6eb4a51b8771e1d6",
+      "size": 468
+    },
+    "data/json/squid-game-03-swarm-day-00039-2025-08-04.json": {
+      "sha256": "5643c1f5f05d28294af9858ae93670f6654061d8dcfd1de6157ac843266276b1",
+      "size": 468
+    },
+    "data/json/squid-game-03-swarm-day-00040-2025-08-05.json": {
+      "sha256": "a95f5e63f84f947a08ed7b0a779826e0a56a25bfa6150eb91a60939c29a7e3c0",
+      "size": 468
+    },
+    "data/json/squid-game-03-swarm-day-00041-2025-08-06.json": {
+      "sha256": "2b3cacd29a2e156b4ab227b981457d3aec2a8eea426ebf048314c771990815f7",
+      "size": 468
+    },
+    "data/json/squid-game-03-swarm-day-00042-2025-08-07.json": {
+      "sha256": "d52702d7198146a2ea397c131ce2a31d0f7b971be854c19ef4e07f14f1882624",
+      "size": 468
+    },
+    "data/json/squid-game-03-swarm-day-00043-2025-08-08.json": {
+      "sha256": "2fe6380cb0b4c3a79b0803e01f5ca8c0092662d9d1dd98ccba9b816a666124af",
+      "size": 468
+    },
+    "data/json/squid-game-03-swarm-day-00044-2025-08-09.json": {
+      "sha256": "e140c54caf0ec10f6e781689554ecd002f5cc486957c73f29ac539dcae0bd250",
+      "size": 468
+    },
+    "data/json/squid-game-03-swarm-day-00045-2025-08-10.json": {
+      "sha256": "6070d2da86c12ef5bbba0b236318f30448225c5874765657d317eb930db08984",
+      "size": 468
+    },
+    "data/json/squid-game-03-swarm-day-00046-2025-08-11.json": {
+      "sha256": "bee0b5dc546b74f8c5d629021851d546a37d30b871c62946b46b821e7f0d3b08",
+      "size": 468
+    },
+    "data/json/squid-game-03-swarm-day-00047-2025-08-12.json": {
+      "sha256": "be3ef994ee1383d8eeee1cb0ee44891ff6e9709d16edc0846a4a61c45470aab5",
+      "size": 468
+    },
+    "data/json/squid-game-03-swarm-day-00048-2025-08-13.json": {
+      "sha256": "40edf8231eaeac1c09628370bbd49167d16b05aee1aac29f6b40f7edb40b1072",
+      "size": 468
+    },
+    "data/json/squid-game-03-swarm-day-00049-2025-08-14.json": {
+      "sha256": "4f747981849ccaebdb934a300cad229c615956fddcba726799a5a4a51c9fdac1",
+      "size": 468
+    },
+    "data/json/squid-game-03-swarm-day-00050-2025-08-15.json": {
+      "sha256": "fbf48c540ee875128516b03dec4891fd85e1f304cf0a8be1f31f7447904a26ad",
+      "size": 468
+    },
+    "data/json/squid-game-03-swarm-day-00051-2025-08-16.json": {
+      "sha256": "983d14fe4e1b5966942544c30132458ed573b413abba3f75d84279588dd0305c",
+      "size": 468
+    },
+    "data/json/squid-game-03-swarm-day-00052-2025-08-17.json": {
+      "sha256": "a7d4bca1ac1d8afa110b557eaf7f45fa0df7171acd2134408a9410dca1025d1b",
+      "size": 468
+    },
+    "data/json/squid-game-03-swarm-day-00053-2025-08-18.json": {
+      "sha256": "290f40311a16d3e9b542d478c8ec5268fe4cbd5010ba6410679bb9409115f5c0",
+      "size": 468
+    },
+    "data/json/squid-game-03-swarm-day-00054-2025-08-19.json": {
+      "sha256": "f5409afb6048c816bebcdaf1547d366c8d4d20bc3f4f790c460979af4e0b0c83",
+      "size": 468
+    },
+    "data/json/squid-game-03-swarm-day-00055-2025-08-20.json": {
+      "sha256": "93a666be1ae30bf62e3ea647af7fdc585871f9af5d9482dd2b862b99dee33973",
+      "size": 468
+    },
+    "data/json/squid-game-03-swarm-day-00056-2025-08-21.json": {
+      "sha256": "887a93c26181eddb235fbb0fe6bb7dd4dadd2b566b13ea588160db5ee349f282",
+      "size": 468
+    },
+    "data/json/squid-game-03-swarm-day-00057-2025-08-22.json": {
+      "sha256": "49656fbf355f8d7c5f2fd83549fe071309f436edc95f8baf613eafd055bc6b5a",
+      "size": 468
+    },
+    "data/json/squid-game-03-swarm-day-00058-2025-08-23.json": {
+      "sha256": "64e88a048091d0be074fa9b7d495116e8c59410c9cc7cb106113f91eee9d97cc",
+      "size": 468
+    },
+    "data/json/squid-game-03-swarm-day-00059-2025-08-24.json": {
+      "sha256": "ca07301f77593fdd47a0287efb1ab1d6b673da8d930d4f390f65fa4e7fbd9e52",
+      "size": 468
+    },
+    "data/json/squid-game-03-swarm-day-00060-2025-08-25.json": {
+      "sha256": "1e2876b8b48241cb53dae1ff6a9306c44c3e333318bcb232546a19da2328cd08",
+      "size": 468
+    },
+    "data/json/squid-game-03-swarm-day-00061-2025-08-26.json": {
+      "sha256": "f901ff0650bb3802a967269629409c8cd6d4450d0a748ad316f66a5ef709a8bd",
+      "size": 468
+    },
+    "data/json/squid-game-03-swarm-day-00062-2025-08-27.json": {
+      "sha256": "0f054cc527a6ecf95cc4c717acef4c34ffe3820f39f00e11bd3bda758fc24a88",
+      "size": 468
+    },
+    "data/json/squid-game-03-swarm-day-00063-2025-08-28.json": {
+      "sha256": "8232326b276f8533dfd9e05fbe8bff5942b496581f9804f779f86bcd3c83b951",
+      "size": 468
+    },
+    "data/json/squid-game-03-swarm-day-00064-2025-08-29.json": {
+      "sha256": "86a8692c0b22d45be1c5d6035d07d7728de016305e83c679ca2a4c97a91e244b",
+      "size": 468
+    },
+    "data/json/squid-game-03-swarm-day-00065-2025-08-30.json": {
+      "sha256": "f2a1fa4842ccf6918b6a9d347033b765bc1c9bd40f9733252a62d66ad087907b",
+      "size": 468
+    },
+    "data/json/squid-game-03-swarm-day-00066-2025-08-31.json": {
+      "sha256": "c13c3aedf47a2bbe8091b9365dded3ab070801a3279e4bec0ed783b48d08192d",
+      "size": 468
+    },
+    "data/json/squid-game-03-swarm-day-00067-2025-09-01.json": {
+      "sha256": "bf26ece2cb89a3709695aca27f61d0926fea450b702ab1404d9a6fda7021a76f",
+      "size": 468
+    },
+    "data/json/squid-game-03-swarm-day-00068-2025-09-02.json": {
+      "sha256": "f3246507da88416b5806ed58c46678050e8e8e8011f967ae943768d671db39df",
+      "size": 468
+    },
+    "data/json/squid-game-03-swarm-day-00069-2025-09-03.json": {
+      "sha256": "557b63510a5bd8771bb949156284864ecb62f41c82879498fefe4c1ac209af01",
+      "size": 468
+    },
+    "data/json/squid-game-03-swarm-day-00070-2025-09-04.json": {
+      "sha256": "30668d449774fdf7f3ba87922ad09764a66627c29d17e7ec1b94479d82ba1271",
+      "size": 468
+    },
+    "data/json/squid-game-03-swarm-day-00071-2025-09-05.json": {
+      "sha256": "fca41219227cba068aaabedaaba61e4553b8441edbce8c82626d98266911d8e7",
+      "size": 468
+    },
+    "data/json/squid-game-03-swarm-day-00072-2025-09-06.json": {
+      "sha256": "329a401575b46f4e424a692794ca6f01680b8651ce57f629a725ad81d67f0e62",
+      "size": 468
+    },
+    "data/json/squid-game-03-swarm-day-00073-2025-09-07.json": {
+      "sha256": "29b88b5bc200bfef393a4d2a9ac7a9966b98d05b0ca50e0dd0a2f2507bd4123c",
+      "size": 468
+    },
+    "data/json/squid-game-03-swarm-day-00074-2025-09-08.json": {
+      "sha256": "2bce3ca53c5ca0434adaa18cbd8d8ad339d39e123742e5358a266f3377933df2",
+      "size": 468
+    },
+    "data/json/squid-game-03-swarm-day-00075-2025-09-09.json": {
+      "sha256": "7045f0e4532defe23abfa984a2bd52406216f378d982c684afa78f0dd74a2742",
+      "size": 468
+    },
+    "data/json/squid-game-03-swarm-day-00076-2025-09-10.json": {
+      "sha256": "979c0b979a88a42107af9a61b744bb7fc918ac565813b7f33c676a8272c8f99b",
+      "size": 468
+    },
+    "data/json/squid-game-03-swarm-day-00077-2025-09-11.json": {
+      "sha256": "28e573588d2b0b5cc132b27079ecba04b13eb7cacbc361a66717998ba23e369b",
+      "size": 468
+    },
+    "data/json/squid-game-03-swarm-day-00078-2025-09-12.json": {
+      "sha256": "fa031d19a8df641ac587ac7e8d1108bd7ced9ac1c2ff2ad9a6a12dad514be23a",
+      "size": 468
+    },
+    "data/json/squid-game-03-swarm-day-00079-2025-09-13.json": {
+      "sha256": "1326cf16fd68c79c4a114f1da16721e9c8d2bf5bc0d65011bebfb5318c65b359",
+      "size": 468
+    },
+    "data/json/squid-game-03-swarm-day-00080-2025-09-14.json": {
+      "sha256": "8e38e390f834cf43511aba3eb14cd777ae99d6b8578f1e224b6fcfd16c14029a",
+      "size": 468
+    },
+    "data/json/squid-game-03-swarm-day-00081-2025-09-15.json": {
+      "sha256": "a95e44dcb9a6540e47748a472aabfc5e93b537b3ec115d86fb05c4d8c9e699ac",
+      "size": 468
+    },
+    "data/json/squid-game-03-swarm-day-00082-2025-09-16.json": {
+      "sha256": "c4eae4015397e1c5c6ad30c3a267c5ebad2cfdfaa32543e3eae57d5305ca243d",
+      "size": 468
+    },
+    "data/json/squid-game-03-swarm-day-00083-2025-09-17.json": {
+      "sha256": "47adb8bb2411c4c7ced20b1f386e0c78f507bb411e5bdf3b10d0d0194304b84a",
+      "size": 468
+    },
+    "data/json/squid-game-03-swarm-day-00084-2025-09-18.json": {
+      "sha256": "9fc6d5f074447d5cbe27bdc915ddec982b066dd95b9cab880d93d38210bffaa3",
+      "size": 468
+    },
+    "data/json/squid-game-03-swarm-day-00085-2025-09-19.json": {
+      "sha256": "f414735c5c05183640a50872bcada873805d567f25503fd3dac26f5982390010",
+      "size": 468
+    },
+    "data/json/squid-game-03-swarm-day-00086-2025-09-20.json": {
+      "sha256": "50b9fb9c6e210c9a6e853925904e991779c1c99728542787864f6148faa5be81",
+      "size": 468
+    },
+    "data/json/squid-game-03-swarm-day-00087-2025-09-21.json": {
+      "sha256": "24505e22670dfbc67ef28b6d10599618fbe61c9470fb4edb6e342d6c0c0805f8",
+      "size": 468
+    },
+    "data/json/squid-game-03-swarm-day-00088-2025-09-22.json": {
+      "sha256": "db212fad67d27ba9b730af7daf6c80dcc420b638b1e7bcd62ceefcdf2036678a",
+      "size": 468
+    },
+    "data/json/squid-game-03-swarm-day-00089-2025-09-23.json": {
+      "sha256": "dbe59905d24c220b2d5052cf6d2c1f4a38bb27523388caa92f0bc74cedff3553",
+      "size": 468
+    },
+    "data/json/squid-game-03-swarm-day-00090-2025-09-24.json": {
+      "sha256": "70db8c2babfeb589c3858a2255a5757763f6590036fb1a7e5dafe51cad0b83e8",
+      "size": 468
+    },
+    "data/json/squid-game-03-swarm-day-00091-2025-09-25.json": {
+      "sha256": "9c56a97217c6e6d424b3b6815e9452a8fbd8773c1c5f136cbe7a090b9bb99c29",
+      "size": 468
+    },
+    "data/json/squid-game-03-swarm-day-00092-2025-09-26.json": {
+      "sha256": "edaf491bfc3fd4e7fdb670340d584e1d8b8df5771c4ae903d7f47fd03c282385",
+      "size": 468
+    },
+    "data/json/squid-game-03-swarm-day-00093-2025-09-27.json": {
+      "sha256": "d36635e7db7fbce9336e223efb8d2d40e446b1753cd89bd2d6cbed8bfbcd2290",
+      "size": 468
+    },
+    "data/json/squid-game-03-swarm-day-00094-2025-09-28.json": {
+      "sha256": "5c916521d4d0ade2bf00b7cf7d00249b1fae9ca27461b51179598bedd30fb8d1",
+      "size": 468
+    },
+    "data/json/squid-game-03-swarm-day-00095-2025-09-29.json": {
+      "sha256": "0e04edf5087d686c3450486bd51b5a2e2fd4e489d5fc5bf62da36643a5a42b67",
+      "size": 468
+    },
+    "data/json/squid-game-03-swarm-day-00096-2025-09-30.json": {
+      "sha256": "7f08d7bef4e20ddd618af0e2d3590deefab74d2fe6285e8c71b0a5e430c13782",
+      "size": 468
+    },
+    "data/json/squid-game-03-swarm-day-00097-2025-10-01.json": {
+      "sha256": "24da637aa5111d625b358d109ae54a105520c2cb16ee3a011a4b0b000f26e71a",
+      "size": 468
+    },
+    "data/json/squid-game-03-swarm-day-00098-2025-10-02.json": {
+      "sha256": "1c23401a417447e70a3bee015782666d254ab87322ff8ab361ac80f713c14cdd",
+      "size": 468
+    },
+    "data/json/squid-game-03-swarm-day-00099-2025-10-03.json": {
+      "sha256": "b999ca78a0f40703414ccb99cf73185c70eaff53ea2c88653ef7cf0cd93f0510",
+      "size": 468
+    },
+    "data/json/squid-game-03-swarm-day-00100-2025-10-04.json": {
+      "sha256": "f94d496c7304195b22482cdf67c924a1abfe72e58cb64b913fe52d08264e30b4",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00101-2025-10-05.json": {
+      "sha256": "49868cd94ae7b02093f8f0f007bb93e91fefe2a20982f33a65d9d6fa3ca2b13d",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00102-2025-10-06.json": {
+      "sha256": "bd52692251f77cfccf9a14ce1d3f6ff93204f99859c174f397137937580fdc9a",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00103-2025-10-07.json": {
+      "sha256": "0cd194525a816f4f17c4ae1200da72a0b4eec3afece2c54ccf1473f4de869364",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00104-2025-10-08.json": {
+      "sha256": "889b8b889ca7e6b8e4d391ac1ff69fd019bb60d4d015497dda8be6a98f8afe92",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00105-2025-10-09.json": {
+      "sha256": "2b38dee701cfe519c110edb245da2047ca1f20b6a52f0b261dbd94d0683aedb8",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00106-2025-10-10.json": {
+      "sha256": "c5d6727aa695cdac3c2bc8a4b3ff52b18387d697cd40ee00873b30376a60321d",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00107-2025-10-11.json": {
+      "sha256": "bffcd54f6dd3fbda2a2f6b11e13108025123bb8a8e2da03fdc33937e3498ef05",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00108-2025-10-12.json": {
+      "sha256": "c74b659ce12bf75025a63f8c47321eb47cc7272ff819aa6b6da1497bd6f161cf",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00109-2025-10-13.json": {
+      "sha256": "e7b71961a80ccf29707bc3e2ea26216b2e3ea9e97e58d5b77de1532e17f3af7b",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00110-2025-10-14.json": {
+      "sha256": "f64ef9a7fbc81f57adfb9344f54cb590b3c736b13ad373e349c0d7c750277301",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00111-2025-10-15.json": {
+      "sha256": "93d402c087434c83b19351700bf9a9af623c96b5d98a53d11aa87c8c46857350",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00112-2025-10-16.json": {
+      "sha256": "111a8aa88b608e2988e49b15e996a6cb9f571903b2c8c00670869ff4d5013b1e",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00113-2025-10-17.json": {
+      "sha256": "21670625f3e90a79cb26e92861bd8177c6b5856a0cad192c43d5a178ab3cd5cd",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00114-2025-10-18.json": {
+      "sha256": "8bd2f8a29173854904f1f8503bd10fe9a6f601bd5e551776e39bc726a27931cc",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00115-2025-10-19.json": {
+      "sha256": "0c1bd92d7dcb0e11a96e4b7790c697bd9f76af57fa22e76ec8d223e4e8590c18",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00116-2025-10-20.json": {
+      "sha256": "dcb1e9079d2141f403e0ca176f910c42f009217d996deda396462cf0da1bf81d",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00117-2025-10-21.json": {
+      "sha256": "feee45d2bc4edb2ab1c36b8bff3a79eee594a40be9f15d40ee85affb6570cc17",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00118-2025-10-22.json": {
+      "sha256": "bca37b90797451c8569ba3e5e9c8421c346ea19787e05914e0cd7f230d2cdb38",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00119-2025-10-23.json": {
+      "sha256": "fcc93134bac38ebb84fe468b869a54b80b2f232c7a70510a03c90abebc2e89bf",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00120-2025-10-24.json": {
+      "sha256": "3d90622267373c71ffd5ecbb4fcecd4602a9c2b43bc572ff48c9194e562787a2",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00121-2025-10-25.json": {
+      "sha256": "9c3644efeda975f5d38545f496f8bfb57d81efcc669f4ac04fded4bdd3cd5646",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00122-2025-10-26.json": {
+      "sha256": "5738a36ebd571fdae760496161f9c65ecae57c6330870ea7435e92b6f475b5ab",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00123-2025-10-27.json": {
+      "sha256": "93fb054a28be6f1750545b598b5cdcfc7082de5e8a59170e31b60f3138574b8c",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00124-2025-10-28.json": {
+      "sha256": "09bd211113719feb64323ffcccf80387132f138c5b4bede564723af9358c959b",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00125-2025-10-29.json": {
+      "sha256": "9e76d7a5ea08ee5b41ff978f368904f96d1e8fe9b6d406f57230b11de9185a91",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00126-2025-10-30.json": {
+      "sha256": "871465c5af0b8278086c0cf2723718644ec1044ff2fe00a6d479111f56345aaf",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00127-2025-10-31.json": {
+      "sha256": "4056d9f473f63daf27dd6ec04e69ed25568e0f45ba06718b7397da5c646590e7",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00128-2025-11-01.json": {
+      "sha256": "4dfcbff0e86621a6a05964958119dff312e3fa7d984829c3a4d373b7658e2837",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00129-2025-11-02.json": {
+      "sha256": "5d43309e8ec820c3187aa8a95ad96068fbda8af655f96e66dae12a33d3660564",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00130-2025-11-03.json": {
+      "sha256": "9a10d7db5521814cb64775fb417bb023b85ca6c77721d63fa0d11ff897d31f81",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00131-2025-11-04.json": {
+      "sha256": "7f9b1a2e977fba918cae20a7d1dce64df5a932b56ed3852d093e1a7936f388e1",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00132-2025-11-05.json": {
+      "sha256": "33d94d5fd9f6de82cdaec042183afe241ceed3942ab749c93ab2404fdc00bc31",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00133-2025-11-06.json": {
+      "sha256": "c4fdfb680e42dda51758b8c54071defd70562aa0d4d7f96944760caa4d2df2be",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00134-2025-11-07.json": {
+      "sha256": "bb04334f3cc24270fa07433b79c6a94260683f826bfb753a8bdfd1ca5a617cd1",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00135-2025-11-08.json": {
+      "sha256": "03828b7b0f5685517f04406959dd4506c1f88878089a67c682f6689040fd1cdd",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00136-2025-11-09.json": {
+      "sha256": "8fb58fc80d711e80c11a8e23f533bdcb9948d6eee5b97a7fb7cab139a6d69903",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00137-2025-11-10.json": {
+      "sha256": "8d0b6f2cdef61c72a4edb87fd2435cf116333a313d023bdf6fb80cd5cc7fdbc7",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00138-2025-11-11.json": {
+      "sha256": "1d53c3e820b750d15f5d4676ac67d70c4446de964cc49fa46679b882415fc3e3",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00139-2025-11-12.json": {
+      "sha256": "71e049d8e366c6cad5b399afb1466b10315eb32116cbc566e0127dd3c60b08eb",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00140-2025-11-13.json": {
+      "sha256": "5a2c8b2b8f5b0218c6583151c16e57b910a9018ee3cafa57470e7db900fe9523",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00141-2025-11-14.json": {
+      "sha256": "59bae7ab46487b860899dc04c05d2f6865cf4ce82d020644bcc6815be2e6ba3c",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00142-2025-11-15.json": {
+      "sha256": "450da891125f8e60f269c94a3140b9ef9a4da492ad2995082980200c143bb47a",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00143-2025-11-16.json": {
+      "sha256": "6f365d9d9923e526c241842dc517ddb1bbd52a3b9d4501919c77c4307749165f",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00144-2025-11-17.json": {
+      "sha256": "4fab680d5681842faba525f1229850b81117fc34c621044d3be6599b1fe8e2af",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00145-2025-11-18.json": {
+      "sha256": "e46d96a2b9bdcef5e1ca33af46de9edf8118922494e5445b2c4092450a9bcc56",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00146-2025-11-19.json": {
+      "sha256": "38b767800e185deaa4136fb3889a8fb1f7ff585405c8456327031cd8ba256306",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00147-2025-11-20.json": {
+      "sha256": "57aa38f04b5e80e040bef2b1013837148d2a962254bd69236c463072dcfdfc1d",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00148-2025-11-21.json": {
+      "sha256": "832bf421386cfe9dc8cb7820b63f1e5eaf9598d45a6ad374c8880f43b873f305",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00149-2025-11-22.json": {
+      "sha256": "1498a4c841072433ff381eae35aca0b9661a55c43fd06d97b453e1482fa16223",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00150-2025-11-23.json": {
+      "sha256": "4a26e980419a4c10d809d00b4c5ffe81b67e5a05913a95beff82330159dfbeae",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00151-2025-11-24.json": {
+      "sha256": "898210c150f7ee8ca0f8bd0f93f2dd64954b16d6b2a76e3e6270d23e79a16070",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00152-2025-11-25.json": {
+      "sha256": "b8e5975c9bc682e33a9c03b9eb40d22019a12381c40cd9ba3c2058d5ed069021",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00153-2025-11-26.json": {
+      "sha256": "061a3b4c9ab71f538a8280bc39aa6bdea5dd00053e9d21d9a0b7be6eea140ad2",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00154-2025-11-27.json": {
+      "sha256": "1d9d24423804a97697d68599e5d077bf7abbb7b8c1ff081f60bfc8b6bea2b9f0",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00155-2025-11-28.json": {
+      "sha256": "827d3c8ef077685f2cd4140ecdc3e23a5a135c4949e9be22887d6faf4bd7fdd6",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00156-2025-11-29.json": {
+      "sha256": "99fb07a520b833efb2e8fec14c8eb82e03383e8771dac9768e496ac1ecb9c9ff",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00157-2025-11-30.json": {
+      "sha256": "f71116355da1608bb8f33433042a7af5b21cec1c82a6583dfe46a9a0ed3fa3d0",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00158-2025-12-01.json": {
+      "sha256": "49c7e75a925562b9d762b1ca2492b84073d233c9e067e92d0bdcf1b128b76f06",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00159-2025-12-02.json": {
+      "sha256": "385318282d653c1fafa4dac8494b3a8ae6dbae3d5ff8de0842d38c178a0daaf5",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00160-2025-12-03.json": {
+      "sha256": "29f9d9502630037dedb153d48e4f7f11a0c03b1671534dc108bd5127284d22b8",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00161-2025-12-04.json": {
+      "sha256": "b607fd518f781725b4ecf594a4a896fd8cbaf02662b50fc7482361afd3b8f3fe",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00162-2025-12-05.json": {
+      "sha256": "963877990eefea17ce846539404014e70f98cc51aafd9e8d3a8e5ba1330e35c5",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00163-2025-12-06.json": {
+      "sha256": "b894fab8684194514aa09fa47af8b0e5d20d533830d6c4f1725b5ac79dce6fd0",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00164-2025-12-07.json": {
+      "sha256": "a63778e9c270c58b95cca9100445a7e18ce4d8f29d4127c07b65c0991a574b49",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00165-2025-12-08.json": {
+      "sha256": "b65c2aeade70dd73375da91fb7eb972c9375f83a742b7e5bd825877183a884d4",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00166-2025-12-09.json": {
+      "sha256": "eb3df69cf45a1a47e97c27afb662d05f45920c180c3cbe7643d2339485027712",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00167-2025-12-10.json": {
+      "sha256": "d6acf4d21496eac535d5a995baa345703ddae599fa26cab9a536c2bb4808c1f7",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00168-2025-12-11.json": {
+      "sha256": "8a36714bb1fb33385c189a5e74f2d706da68294a3731e0a213f15069b7c17353",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00169-2025-12-12.json": {
+      "sha256": "f325241fa746669660c60be65998114cdc0f9d583fdbd8e7cd1b60d1c3ffb430",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00170-2025-12-13.json": {
+      "sha256": "93086d1ab1689c519a28143c5574ca7dd23b58870dcf44a621a4aab7b6ff90fd",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00171-2025-12-14.json": {
+      "sha256": "db31974949ab04a3b91c71af16f2776e39330f2c33345aa9165e288b30fc7a5c",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00172-2025-12-15.json": {
+      "sha256": "a66b07b0ccf58a281afa677163559b1c375f70b8f07d45097f9a7fea8eb8a221",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00173-2025-12-16.json": {
+      "sha256": "fb06d4177b3492bbe9d5d3b63b7bab3aee414e0b93adbc51a879f0f544afba1b",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00174-2025-12-17.json": {
+      "sha256": "646246addc1a1fd590a6589a719fdbb0edaa78d68af0276c49bae60fce0ec99a",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00175-2025-12-18.json": {
+      "sha256": "a54beab7e969bb5fb0b7d86060a11d9a10482ec32756f013a3d37ae7c1e72731",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00176-2025-12-19.json": {
+      "sha256": "ed569b1872c32c1e5c3c56c8ed995f99f5cff8e3b7426b20345326fb2730303c",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00177-2025-12-20.json": {
+      "sha256": "2b8687fabbe6952fb7ebeaa271dd98bc1539766d75c69ec3aba5d935166efafe",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00178-2025-12-21.json": {
+      "sha256": "51da5e8fc6276b5c967daae1b92c3f3ab2e0ec33315247de12fb86e82107c1e0",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00179-2025-12-22.json": {
+      "sha256": "0454bc1c82b2e65bce65d5ea967551fefbd1485191e58c3df9beb52dc18fc465",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00180-2025-12-23.json": {
+      "sha256": "14ee98a33d7d35ab599dece52b97b8bb8a28353722766bda54f5143f627ae453",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00181-2025-12-24.json": {
+      "sha256": "2cf5da43a1a521a7fc0d4be50b5a1ba756ea06fa3d3e9fc6fa762e374ada78b6",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00182-2025-12-25.json": {
+      "sha256": "6950a57bde82521443e4c17225df3952969d742defbdc27810463a9c9f30f864",
+      "size": 469
+    },
+    "data/json/squid-game-03-swarm-day-00183-2025-12-26.json": {
+      "sha256": "c2f28048a626cf1050bec49ec5329d4f45a63b1ca50b3142db584fe4c39ed6ec",
+      "size": 469
+    }
+  },
+  "schema": "alpha60-year-day-product-bundle/1",
+  "source_revisions": {
+    "aggregate_binary": {
+      "sha256": "7408569641f7247fbd00969cffddaf1bb0cf2768c7fc1529f4cc6191ccfeae05",
+      "size": 38582648
+    },
+    "alpha60": "34f34e5c6eaafebbe65d9dbe1ade7609e9e61b2b",
+    "alpha60_data": "8faeae67a5d274d1fc00bffe9fc9318329163b20",
+    "day_product_contract": {
+      "sha256": "0aa0bee3ac14b512c786d3496ab5218a46aff11786ffa6aa9ea85e762fbd6370",
+      "size": 9897
+    },
+    "generate_cache_aggregates": {
+      "sha256": "2e03ba2df36d70d6293d803880c67ae0f2c3afde1ea5837075e31855a258516b",
+      "size": 22934
+    },
+    "metadata": "fbeb53a0b523f937fae2f23d14689d8c5c84dd5a",
+    "package_script": {
+      "sha256": "21d85741346f2bb967f618a36825484d87b3b94cea93dac22781c103abae8a0e",
+      "size": 15384
+    },
+    "year_day_contract": {
+      "sha256": "f1c07d6f2fdc19475a6f25ddaee5923957447a6f49a8009d8b4c9984a63bd883",
+      "size": 9356
+    }
+  },
+  "status": "pass"
+}
