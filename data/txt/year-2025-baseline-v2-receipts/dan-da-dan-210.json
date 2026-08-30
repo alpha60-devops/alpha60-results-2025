@@ -1,0 +1,253 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt30217403",
+    "imdb_id": "tt30217403",
+    "revision": "fbeb53a0b523f937fae2f23d14689d8c5c84dd5a",
+    "wikidata_id": "Q123564285",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dandadan_(TV_series)"
+  },
+  "coverage_sha256": "52f03c31bbb1f0e6c6e7426381d07cb49c73d96267a9ca7724534647235c857e",
+  "generated_at": "2026-08-30T13:48:46.603236+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "aao-checksum-manifest": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/SHA256SUMS",
+      "sha256": "4a4818facd85b709f0321b0a6de31b4a3eff6f108f3b9354c75632926e6baa48",
+      "size": 266728
+    },
+    "aao-release": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/release.json",
+      "sha256": "3ce0984da2d12b0e3697e76c02608bd9d1a955ee3d00e0a7054bdd297b8f18c8",
+      "size": 1342
+    },
+    "aao-verification": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-aao-verification.json",
+      "sha256": "e01294ebce8e54b65e16ab83017fa5585efe6f7a0a0f1a5e0f734e08d8e223fd",
+      "size": 854
+    },
+    "archive-map": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-cache-archive-map.json",
+      "sha256": "8d4d506f23cd80f46baf010bd17509c916083e75eb8b43b052641138c3f308f1",
+      "size": 125170
+    },
+    "btiha-metadata-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/dan-da-dan-210-cumulative-btiha-media-objects.json",
+      "sha256": "d978a3381edc39e4a78a43b02d3d910844219037e75cea26f01baa7c87d5343d",
+      "size": 651055
+    },
+    "canonical-metadata": {
+      "path": "/tmp/alpha60-swarm-metadata-2025/metadata/dan-da-dan-210.json",
+      "sha256": "2d3cdd402418eee86be78e529a0271bb9e1fd37f5699c8f02a7be20a6219b9f5",
+      "size": 9265
+    },
+    "coverage-report": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-coverage-evidence/dan-da-dan-210.md",
+      "sha256": "9eb5b5f5ca607fa862809eee24ad651bc4d500562dd8f729c8bdc5d4d5b702b3",
+      "size": 740
+    },
+    "cumulative-aggregate-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.cumulative/dan-da-dan-210-cumulative-aggregate.geojson.gz",
+      "sha256": "4c1fa4e535cf175e16b402d056232335a520de32ce4d3c9687749aeb88d089a7",
+      "size": 1359759
+    },
+    "cumulative-btiha-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.cumulative/dan-da-dan-210-cumulative-btiha.geojson.gz",
+      "sha256": "bd25375fa2643b0d1f3f175120db18280092d42bd5b9755261f4ec3628240995",
+      "size": 59335012
+    },
+    "cumulative-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/dan-da-dan-210-cumulative.json",
+      "sha256": "76d24accceeb8b15e2551604055e0b7417b7ec4284fe461f4c0a63930ef8f936",
+      "size": 15687
+    },
+    "day-bundle-receipt": {
+      "path": "/tmp/year-2025-day-bundles/dan-da-dan-210/receipt.json",
+      "sha256": "862d94c1042863e82c85e12e036106d8c986c58ae5c92d4e3a0bee75518cd105",
+      "size": 68029
+    },
+    "ip-swarm-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/dan-da-dan-210-cumulative-ip-swarm.json",
+      "sha256": "d328bdfba456726b9d8a7bd4f6a84b267e2cf4c61f723eb01a62173badb7c4e7",
+      "size": 43333
+    },
+    "published-day-bundle-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-day-product-receipts/dan-da-dan-210.json",
+      "sha256": "862d94c1042863e82c85e12e036106d8c986c58ae5c92d4e3a0bee75518cd105",
+      "size": 68029
+    },
+    "week-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/dan-da-dan-210-week.json",
+      "sha256": "48fc34f3ec8b7bead097657e1c991ed0f0650f70cd522163ba22aee37130fd3e",
+      "size": 4417959
+    }
+  },
+  "media_object": "dan-da-dan-210",
+  "published_files": {
+    "data/csv/bytes/dan-da-dan-210-cumulative-detail.2025-btiha-itemized-by-bytes.csv": "4a03a06c31349298842db4c0bd28f2874edf6b8809ce514b9b3017a3472a4a26",
+    "docs/itemized/dan-da-dan-210-sample-cache-audit.md": "637e8e83b8c07eacdb86a466adcb5fcf60d23b0deeaa5da77ad4210fffc684bf",
+    "docs/itemized/figures/dan-da-dan-210-carto-4k.webp": "36e71f0c2461de2b2643f41ee568877e273eb14042d09e63b6d7486116303fdb",
+    "docs/itemized/figures/dan-da-dan-210-carto.png": "0b5a0d72478930627ac332f0671d4984ea1cc7b0ff1a8fcfeea486c1d44101e2",
+    "docs/itemized/figures/dan-da-dan-210-cumulative-detail-btiha-itemized-by-bytes.svg": "79fab6b413b4a9b0285ebb50d5813fe501f3b6b4908a00531d2f89a1a5e9675a",
+    "docs/itemized/figures/dan-da-dan-210-data-ge-1080p-4k.webp": "e9dcda4560d95936697ec365ecfe8f51543d101a7f54d1281ead8491299e6b22",
+    "docs/itemized/figures/dan-da-dan-210-data-ge-1080p.webp": "e14d63c52b465e07211da88fb4ce5d3834b41ff8ebbc583faa38fbec1133957a",
+    "docs/itemized/figures/dan-da-dan-210-data-lt-1080p-4k.webp": "cd86729da87c90cd28e3a49cbbc9c6738b38caa393d377f00f8a649529e7bd84",
+    "docs/itemized/figures/dan-da-dan-210-data-lt-1080p.webp": "0c9dc6e1be51e4e34ab92e01bef37cd71c01234b478f5d41935c43bd95cd8b6f",
+    "docs/itemized/figures/dan-da-dan-210-downloads-by-day-day.svg": "636290c5f12c2129048e99f32e2ba43e46d11e846401b1f098e81cf7675b74be",
+    "docs/itemized/figures/dan-da-dan-210-downloads-by-week-dan-da-dan-210-week.svg": "518d3c7ec12e7d70f772bcc24011a064cddacbbbb9897dade45f32769baa4605",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-year-2025-render",
+      "revision": "c520555c40beece2e38f62878e2d4cc1b312c505",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "c192c54f882171dafc74c038ec769f1e68bf8020d12a342d2334086b5b5ee5ea",
+      "size": 36998168
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.cumulative/dan-da-dan-210-cumulative-btiha.geojson.gz",
+        "sha256": "bd25375fa2643b0d1f3f175120db18280092d42bd5b9755261f4ec3628240995",
+        "size": 59335012
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/json/dan-da-dan-210-cumulative-btiha-media-objects.json",
+        "sha256": "d978a3381edc39e4a78a43b02d3d910844219037e75cea26f01baa7c87d5343d",
+        "size": 651055
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/izzi",
+      "revision": "b988ee7fd690a74a696c27c9aadf40c204a4c780",
+      "untracked": false
+    },
+    "media_object": "dan-da-dan-210",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60-results-2025/bin/a60-meta-collection.exe",
+      "sha256": "e71f9def936a6868d5282a5ff7dece07ade360eefa07abebde75434a927220f7",
+      "size": 8743680
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          65.0,
+          47.0,
+          38.0,
+          36.0,
+          33.0,
+          29.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Seoul",
+          "Moscow",
+          "Istanbul",
+          "Saint Petersburg",
+          "Nanjing",
+          "Shanghai",
+          "London",
+          "Hangzhou",
+          "Amsterdam",
+          "Budapest"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          64.0,
+          47.0,
+          37.0,
+          30.0,
+          30.0,
+          28.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Seoul",
+          "Moscow",
+          "Istanbul",
+          "Saint Petersburg",
+          "Nanjing",
+          "Shanghai",
+          "London",
+          "Budapest",
+          "Hangzhou",
+          "Incheon"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 21,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 21,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 26,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "c520555c40beece2e38f62878e2d4cc1b312c505",
+    "cartofreako": "fc58111b5bfa7667b12f6ade522ae5e566b464d1",
+    "izzi": "b988ee7fd690a74a696c27c9aadf40c204a4c780",
+    "metadata": "fbeb53a0b523f937fae2f23d14689d8c5c84dd5a",
+    "results_aao_adoption": "9cd9d91a6fbb560ac2a96beadf4c83b94daf6a88"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2025"
+}

@@ -1,0 +1,1725 @@
+{
+  "archive": {
+    "path": "/home/bkoz/src/alpha60-xperiments/year-2025-archives/dan-da-dan-210.cache/cache.20260304.tar.xz",
+    "sha256": "2ec21e71f08a201485ff4644c197e5e2e7eb997ef4c482a6058f1bd9ca3a6d32",
+    "size": 3294561980
+  },
+  "authorization": {
+    "archive_mutated": false,
+    "excluded_member_classes": [
+      "hour",
+      "week",
+      "cumulative"
+    ],
+    "raw_samples_opened": false,
+    "scope": "read only streaming of per-torrent day records"
+  },
+  "collection_key": "dan-da-dan-210",
+  "day_cache_stream_contract": {
+    "authorization": {
+      "archive_mutated": false,
+      "excluded_member_classes": [
+        "hour",
+        "week",
+        "cumulative"
+      ],
+      "raw_samples_opened": false,
+      "scope": "read only streaming of per-torrent day records"
+    },
+    "available_day_products": 182,
+    "cache_members": 64452,
+    "collection_key": "dan-da-dan-210",
+    "first_date": "2025-09-04",
+    "first_index": 1,
+    "indices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144,
+      145,
+      146,
+      147,
+      148,
+      149,
+      150,
+      151,
+      152,
+      153,
+      154,
+      155,
+      156,
+      157,
+      158,
+      159,
+      160,
+      161,
+      162,
+      163,
+      164,
+      165,
+      166,
+      167,
+      168,
+      169,
+      170,
+      171,
+      172,
+      173,
+      174,
+      175,
+      176,
+      177,
+      178,
+      179,
+      180,
+      181,
+      182
+    ],
+    "last_date": "2026-03-04",
+    "last_index": 182,
+    "missing_indices": [],
+    "sample_span_days": 182,
+    "schema": "alpha60-day-cache-stream-contract/1",
+    "sparse": false,
+    "status": "pass"
+  },
+  "day_product_contract": {
+    "collection_key": "dan-da-dan-210",
+    "day_products": 182,
+    "first_date": "2025-09-04",
+    "first_index": 1,
+    "geojson_data_version": "20260701",
+    "ip_geolocation_version": "6:1777968300",
+    "json_data_version": "2026-08-05",
+    "last_date": "2026-03-04",
+    "last_index": 182,
+    "schema": "alpha60-day-product-contract/1",
+    "sparse": false,
+    "status": "pass"
+  },
+  "publications": {
+    "data/geojson.day/dan-da-dan-210-day-00001.geojson.gz": {
+      "sha256": "08c3c3e15fd3836e979d0265645c9687cebda2dd155e135ea2c0f4b03bf1cd5c",
+      "size": 19761
+    },
+    "data/geojson.day/dan-da-dan-210-day-00002.geojson.gz": {
+      "sha256": "97f44a21cef2c2dab6b3f1f4233099d2996ec6e07503293c3ca63ff1d8867d44",
+      "size": 84252
+    },
+    "data/geojson.day/dan-da-dan-210-day-00003.geojson.gz": {
+      "sha256": "de09e1b2e617b4a616ead6443c6e8c455014343da558aa9777e9574a664fbcd7",
+      "size": 112876
+    },
+    "data/geojson.day/dan-da-dan-210-day-00004.geojson.gz": {
+      "sha256": "2cb449082f417d1a92f051c47af5dbffba14c631cbf5354e63868bc8ab484600",
+      "size": 107181
+    },
+    "data/geojson.day/dan-da-dan-210-day-00005.geojson.gz": {
+      "sha256": "35caee33ffe7fa7b45b5be7cec84c0e4fc8e91445940aaf23d6ebc9cd4adbb1e",
+      "size": 136094
+    },
+    "data/geojson.day/dan-da-dan-210-day-00006.geojson.gz": {
+      "sha256": "ec3451e3d9174b31f14efebc5ef0c5e06a6ee554e5a19881e63bd6b7d5fef067",
+      "size": 139729
+    },
+    "data/geojson.day/dan-da-dan-210-day-00007.geojson.gz": {
+      "sha256": "9bffefd11185d54161be173c49ebc8d01cf64697fd3b2bb0f81865cdbc8764c0",
+      "size": 122161
+    },
+    "data/geojson.day/dan-da-dan-210-day-00008.geojson.gz": {
+      "sha256": "2a455734513dcbd1ff6f316aa5493c319a74ab577cfe27e98bf88bee36c1436a",
+      "size": 148404
+    },
+    "data/geojson.day/dan-da-dan-210-day-00009.geojson.gz": {
+      "sha256": "b5cc8670606095d1e2d1815db0cd27789bb5b02b8768b6bcbb4db37d48454c22",
+      "size": 214420
+    },
+    "data/geojson.day/dan-da-dan-210-day-00010.geojson.gz": {
+      "sha256": "d2dae22484f479bdc62266b2049b5ae3daea6376303742d86851d84ca3d366c4",
+      "size": 189846
+    },
+    "data/geojson.day/dan-da-dan-210-day-00011.geojson.gz": {
+      "sha256": "e4dabc24ad6b05b0475525682b8e5a75b23a1bfe580ca3c08bcc09d2f9eeda11",
+      "size": 199301
+    },
+    "data/geojson.day/dan-da-dan-210-day-00012.geojson.gz": {
+      "sha256": "3e3482f38f7a7afd4f6cc3b2696d348d6b471716ff1590db5457a24846be4bba",
+      "size": 214420
+    },
+    "data/geojson.day/dan-da-dan-210-day-00013.geojson.gz": {
+      "sha256": "253a6e7ddb1c98ea5f733ea53d1a2533550156b502f26a584ec2cedc77eeaf63",
+      "size": 203971
+    },
+    "data/geojson.day/dan-da-dan-210-day-00014.geojson.gz": {
+      "sha256": "c65a6e2d6fee10ec7053b934d986ffb47cbca09041258cae37e697145eb3d7c0",
+      "size": 208421
+    },
+    "data/geojson.day/dan-da-dan-210-day-00015.geojson.gz": {
+      "sha256": "1b9dee7d4cf9603f7e495c4d9bd0ea4fd79c3ee13a187a61bc3e68d9da40a4e8",
+      "size": 245985
+    },
+    "data/geojson.day/dan-da-dan-210-day-00016.geojson.gz": {
+      "sha256": "952cd88c1dd30d368f0efdd3ab239f41a6580776b3a53106e7069cf7ec5f92fc",
+      "size": 279057
+    },
+    "data/geojson.day/dan-da-dan-210-day-00017.geojson.gz": {
+      "sha256": "801c075dfd071b48a605a8bcda5a2a14612054a012497d44016763ee400587b6",
+      "size": 293565
+    },
+    "data/geojson.day/dan-da-dan-210-day-00018.geojson.gz": {
+      "sha256": "0bb81f891f304f0f4704044d603797cae659c664ba9f91b4c30659c99f87f21d",
+      "size": 294605
+    },
+    "data/geojson.day/dan-da-dan-210-day-00019.geojson.gz": {
+      "sha256": "08802c6b7a6c7bc76d82beddd69457cb6794a69f31d79db8db3f21c64cf8251b",
+      "size": 295800
+    },
+    "data/geojson.day/dan-da-dan-210-day-00020.geojson.gz": {
+      "sha256": "c59d4ad42cf8a45d24b0e17d02eae18c14582aa0c14d89082eb7fdbb5b6ba96b",
+      "size": 304743
+    },
+    "data/geojson.day/dan-da-dan-210-day-00021.geojson.gz": {
+      "sha256": "6cd1f889133864c46de282fd78fae48d894b396c911223d2328fafd033ada65e",
+      "size": 301377
+    },
+    "data/geojson.day/dan-da-dan-210-day-00022.geojson.gz": {
+      "sha256": "399f0b0bff4d4b7c5a8884faefedae3de9eeb99732eee0bd95539e5f95d1e38d",
+      "size": 294220
+    },
+    "data/geojson.day/dan-da-dan-210-day-00023.geojson.gz": {
+      "sha256": "4afeeab0e15f16f5017e723a8d5d9e55dd03526f68bf68418c7f245d9e44725a",
+      "size": 321940
+    },
+    "data/geojson.day/dan-da-dan-210-day-00024.geojson.gz": {
+      "sha256": "38ca4282f9b3cd3695605898cace140ae9c73de9762ff77c60b2a3e4925ee50b",
+      "size": 296035
+    },
+    "data/geojson.day/dan-da-dan-210-day-00025.geojson.gz": {
+      "sha256": "621d176fcfc1d2164d2671e8451985a74537bb7724d8bd6b0d507e61f53fbfbe",
+      "size": 249411
+    },
+    "data/geojson.day/dan-da-dan-210-day-00026.geojson.gz": {
+      "sha256": "31f3dc99f0caa3561eddb069f2f8074833f50a5c29fd113494c1dd8268ef284b",
+      "size": 292864
+    },
+    "data/geojson.day/dan-da-dan-210-day-00027.geojson.gz": {
+      "sha256": "4b5809b97d118f616cd434150febc8be5a1723228bb0570df865f5c3befb50bc",
+      "size": 298274
+    },
+    "data/geojson.day/dan-da-dan-210-day-00028.geojson.gz": {
+      "sha256": "a18c118c39692864e1bf534f2251332b32c8f1a5b4e3629bd3dc2d6fb7a2d35e",
+      "size": 282930
+    },
+    "data/geojson.day/dan-da-dan-210-day-00029.geojson.gz": {
+      "sha256": "8bfb11a5f0da66048b7480968abe1ffdce0f9297d10d2e53c0ef55c46de16967",
+      "size": 279367
+    },
+    "data/geojson.day/dan-da-dan-210-day-00030.geojson.gz": {
+      "sha256": "6a015c35950946a56638e6125e0f958b693af3d9773637b7fa99f244c31b23ff",
+      "size": 272826
+    },
+    "data/geojson.day/dan-da-dan-210-day-00031.geojson.gz": {
+      "sha256": "47b89a83a743853cc8142bc39faecbf418166b6eb242aea7e52d7c717aba84aa",
+      "size": 270169
+    },
+    "data/geojson.day/dan-da-dan-210-day-00032.geojson.gz": {
+      "sha256": "162359744e9f99979fa524f53079eb19a99d2814e7c123fda10d7e59fca73471",
+      "size": 278795
+    },
+    "data/geojson.day/dan-da-dan-210-day-00033.geojson.gz": {
+      "sha256": "bb9616ca659eb4cbb5feeed02ba1af05aff0901e292adc61d32ee0a1a7d0b40f",
+      "size": 294176
+    },
+    "data/geojson.day/dan-da-dan-210-day-00034.geojson.gz": {
+      "sha256": "997706547b0047cbf7b99cc7d15b054ed519fdb8026caaa9ae21f0c25feb2c5d",
+      "size": 276578
+    },
+    "data/geojson.day/dan-da-dan-210-day-00035.geojson.gz": {
+      "sha256": "2f76f65084c8f9c95b6ef94e058e393d23c4966f37afe7f7d9ba8ed25b74242b",
+      "size": 291467
+    },
+    "data/geojson.day/dan-da-dan-210-day-00036.geojson.gz": {
+      "sha256": "a0c8603ef58de746724ac38710e02e4979ee44eda23d20d8a04ee8309ec28dde",
+      "size": 310693
+    },
+    "data/geojson.day/dan-da-dan-210-day-00037.geojson.gz": {
+      "sha256": "5aa29b77ab679f69369978621575aceaeeef3f07bee85992c6b233f20f6f23db",
+      "size": 307294
+    },
+    "data/geojson.day/dan-da-dan-210-day-00038.geojson.gz": {
+      "sha256": "0b0402e58f6708e48b17eb54321a890040ae44c4e64e825a44a5feff1f99e368",
+      "size": 304932
+    },
+    "data/geojson.day/dan-da-dan-210-day-00039.geojson.gz": {
+      "sha256": "27d7342d2a0d9c9773a109d6f9d3afed6665fe62e4a34683e4eeae87c547f5c6",
+      "size": 306980
+    },
+    "data/geojson.day/dan-da-dan-210-day-00040.geojson.gz": {
+      "sha256": "60ff34a43a05c36cbd89ca2bb1cf0fa63b5b389e95b67900c86b8dcc4255b430",
+      "size": 303897
+    },
+    "data/geojson.day/dan-da-dan-210-day-00041.geojson.gz": {
+      "sha256": "3527c36d85dd85703959e63db4f073cc9f79c745c0091e4494f23554145b4a0b",
+      "size": 297413
+    },
+    "data/geojson.day/dan-da-dan-210-day-00042.geojson.gz": {
+      "sha256": "4fca2d341b2d88ff56f36bed1d35800b71251d89e2eeb0d389b57ac65e86943d",
+      "size": 297138
+    },
+    "data/geojson.day/dan-da-dan-210-day-00043.geojson.gz": {
+      "sha256": "659164f474cdf77c1d0b544c4536d5de0a900c551367862fdc4533fbe25c0bc6",
+      "size": 289834
+    },
+    "data/geojson.day/dan-da-dan-210-day-00044.geojson.gz": {
+      "sha256": "648757d65604ac26d82c6e60d8921503c53290f0ba0a5d7d9dd5e3a20092431b",
+      "size": 285832
+    },
+    "data/geojson.day/dan-da-dan-210-day-00045.geojson.gz": {
+      "sha256": "ac2d8827d0f42b6bb8814f02e75514e3c2e79eae6ea9264574f4d15e628cdf3e",
+      "size": 298834
+    },
+    "data/geojson.day/dan-da-dan-210-day-00046.geojson.gz": {
+      "sha256": "bbe8a1b5f61cd8ca93af6fb6c92e56e5c157b1c4e4de34bc3b1d1aa047405d2c",
+      "size": 305343
+    },
+    "data/geojson.day/dan-da-dan-210-day-00047.geojson.gz": {
+      "sha256": "60fbae84d68005de92a5cc30b2cb07710f2df975c384d0b7d3bfd4dced77f1b6",
+      "size": 311705
+    },
+    "data/geojson.day/dan-da-dan-210-day-00048.geojson.gz": {
+      "sha256": "a1e686a56e97dd9007fdfa286d24404e7b5f67f7e1ecc2bcf9233078bc239a09",
+      "size": 303087
+    },
+    "data/geojson.day/dan-da-dan-210-day-00049.geojson.gz": {
+      "sha256": "d72bf63bb4e7bacbb1d2d39b9d8edb0a98e3ed2aafc5f0ff8433ad145fc12a95",
+      "size": 291177
+    },
+    "data/geojson.day/dan-da-dan-210-day-00050.geojson.gz": {
+      "sha256": "8fd48146ce98f4d98c9cf32f285dbd1b8df9fe12c03de8b45f483b81688f448e",
+      "size": 304303
+    },
+    "data/geojson.day/dan-da-dan-210-day-00051.geojson.gz": {
+      "sha256": "cc940ddf438a92790c9a981029429a5cb58e6cc15b3f40c59ad641bb9ccac74c",
+      "size": 331776
+    },
+    "data/geojson.day/dan-da-dan-210-day-00052.geojson.gz": {
+      "sha256": "68945b1d961199684d59b85e5e183fd0730145be464cde4677d47d78b166fc74",
+      "size": 293897
+    },
+    "data/geojson.day/dan-da-dan-210-day-00053.geojson.gz": {
+      "sha256": "318773e4cd03414bcb3fc45e5b8f570079bfd1773fe1074b660b2c45d6da1256",
+      "size": 286054
+    },
+    "data/geojson.day/dan-da-dan-210-day-00054.geojson.gz": {
+      "sha256": "f19d028e9ff5af3d1c4059e7f4ac8c14c6a5566fcc54eaf1b3b47d7a6c632356",
+      "size": 302797
+    },
+    "data/geojson.day/dan-da-dan-210-day-00055.geojson.gz": {
+      "sha256": "bb48ead55cd0b4bdf797dfa42f4534d893c4e9d192dd2bc915d196d25b7b5693",
+      "size": 300342
+    },
+    "data/geojson.day/dan-da-dan-210-day-00056.geojson.gz": {
+      "sha256": "e6cf92aaa8cf5d09559c54d24e597a2b122a9e6dbe496228fd6a6dfe1184d4b2",
+      "size": 294542
+    },
+    "data/geojson.day/dan-da-dan-210-day-00057.geojson.gz": {
+      "sha256": "97b103d29063c4d16932f1ad4f81013dc96f96e15c1f17dc9288f7cf816b5161",
+      "size": 300740
+    },
+    "data/geojson.day/dan-da-dan-210-day-00058.geojson.gz": {
+      "sha256": "6530c0800b636e35b1fbba3a419ca1b5285a24274fe1071999990a7f203a9bdb",
+      "size": 302390
+    },
+    "data/geojson.day/dan-da-dan-210-day-00059.geojson.gz": {
+      "sha256": "73bd3fe32a6ff4b24d7ebfe179db2d747d54d44cc1b0f9b0e43026859befe3ea",
+      "size": 294917
+    },
+    "data/geojson.day/dan-da-dan-210-day-00060.geojson.gz": {
+      "sha256": "fbaf5a0b198ac45726e50b9a1c35f9b213092a87463723a839c1a4bba8ddef4d",
+      "size": 300570
+    },
+    "data/geojson.day/dan-da-dan-210-day-00061.geojson.gz": {
+      "sha256": "8b4f197b789a1723ace8c066ca8044d8175f9e606b8519ee09972eff09199174",
+      "size": 297134
+    },
+    "data/geojson.day/dan-da-dan-210-day-00062.geojson.gz": {
+      "sha256": "cb609f6be860d39a949dbabd41974e2e5b96378c46da6ff5bcfc360bab748201",
+      "size": 295851
+    },
+    "data/geojson.day/dan-da-dan-210-day-00063.geojson.gz": {
+      "sha256": "b169a6578aad3ff29837817bb9e868543b914a3d3aa380491f07651070a38261",
+      "size": 285331
+    },
+    "data/geojson.day/dan-da-dan-210-day-00064.geojson.gz": {
+      "sha256": "851713246cd1a02081a2d4738bcf010de84a8f254bbfc68ba8692a3028791c24",
+      "size": 299183
+    },
+    "data/geojson.day/dan-da-dan-210-day-00065.geojson.gz": {
+      "sha256": "2e037dfd5b98861a0aa04151d52a21d1dfc991a7cf75813a8f237763c0f90b76",
+      "size": 299061
+    },
+    "data/geojson.day/dan-da-dan-210-day-00066.geojson.gz": {
+      "sha256": "27b6f9625775906d03a21cebb09af823992061a3db675245edd0b47185fb7c8e",
+      "size": 306732
+    },
+    "data/geojson.day/dan-da-dan-210-day-00067.geojson.gz": {
+      "sha256": "408894cc204f5d75f6668fde43bd8ded6111cbb08e44b46b8e61b7151a0d6835",
+      "size": 301016
+    },
+    "data/geojson.day/dan-da-dan-210-day-00068.geojson.gz": {
+      "sha256": "7240e0146a5b3246912d3b7a1f4e3f1410030e7d537e98f4764933dcf86bce08",
+      "size": 306000
+    },
+    "data/geojson.day/dan-da-dan-210-day-00069.geojson.gz": {
+      "sha256": "6c240c123d39a82e8b9e2e7d53db9a721b0952a84c4d263d437e5c718f5f3722",
+      "size": 296061
+    },
+    "data/geojson.day/dan-da-dan-210-day-00070.geojson.gz": {
+      "sha256": "abad2e0a8be0a332425c5c2514248d7ab12b4b5a6b125f90332de4bc842c3ce5",
+      "size": 295120
+    },
+    "data/geojson.day/dan-da-dan-210-day-00071.geojson.gz": {
+      "sha256": "a4664cba90694e884632408632280413292ac043ebdbd9f9eb219935f79f6fba",
+      "size": 289353
+    },
+    "data/geojson.day/dan-da-dan-210-day-00072.geojson.gz": {
+      "sha256": "9ba9e43b820d9bc2e892c8699161f7b94034e2deb80bea13af0304f9a566290a",
+      "size": 294754
+    },
+    "data/geojson.day/dan-da-dan-210-day-00073.geojson.gz": {
+      "sha256": "d1a5b3377a9972b136e17f441d3cbf6624e66f376990ba1861005bcbc1a97d48",
+      "size": 292694
+    },
+    "data/geojson.day/dan-da-dan-210-day-00074.geojson.gz": {
+      "sha256": "1683153708d84efb8ec2f47e5b469c905ae5c121b6fceb74095b3cfa9eb521d3",
+      "size": 278096
+    },
+    "data/geojson.day/dan-da-dan-210-day-00075.geojson.gz": {
+      "sha256": "3bbfd4badc60e2e5091baca3146bfc6c59a381591fa9f9ad38d720df18586235",
+      "size": 304417
+    },
+    "data/geojson.day/dan-da-dan-210-day-00076.geojson.gz": {
+      "sha256": "680530c6c35f9037ce1f62e4a1de33a7764e304fba32e6c64a695c9ffc128127",
+      "size": 298810
+    },
+    "data/geojson.day/dan-da-dan-210-day-00077.geojson.gz": {
+      "sha256": "02733951dc49f59380e9cdbb770df59432302c9960cbd2e4696609a2da1e9798",
+      "size": 300408
+    },
+    "data/geojson.day/dan-da-dan-210-day-00078.geojson.gz": {
+      "sha256": "81867a04ac85e4783a80a32b5d745499137207b0e0aa4af2f933ff3b05d5ff1c",
+      "size": 306528
+    },
+    "data/geojson.day/dan-da-dan-210-day-00079.geojson.gz": {
+      "sha256": "9c47a2b7d66b30cdc2d847cd20ad8feb39165cbda03dfa13bb8f84c745cad6c7",
+      "size": 358691
+    },
+    "data/geojson.day/dan-da-dan-210-day-00080.geojson.gz": {
+      "sha256": "0c248bebfbe14a78c267ab0cf801dad85bc8abfa725efb20734c2a731bd3fb99",
+      "size": 284586
+    },
+    "data/geojson.day/dan-da-dan-210-day-00081.geojson.gz": {
+      "sha256": "e5640240d5ba9d39e01d07f9133d1171a92fde316ba9fddb150eb62db8c64d9e",
+      "size": 273768
+    },
+    "data/geojson.day/dan-da-dan-210-day-00082.geojson.gz": {
+      "sha256": "8618ad0110cf72bc9f379ffb56a7181c074dcbb0b23b703195f876dd7fb761ec",
+      "size": 297142
+    },
+    "data/geojson.day/dan-da-dan-210-day-00083.geojson.gz": {
+      "sha256": "a29df43f38caf442d4aefb2e62c1e1cc783d859d20a3d1e325ca260601120133",
+      "size": 298014
+    },
+    "data/geojson.day/dan-da-dan-210-day-00084.geojson.gz": {
+      "sha256": "ce84c067ff64bbb7d36f4c002620807392dfb0590374b42b20d3f4f58b261393",
+      "size": 308455
+    },
+    "data/geojson.day/dan-da-dan-210-day-00085.geojson.gz": {
+      "sha256": "4cfde122f5a40ad7141116534a96f623f697e55d5e23578d361b0710fc18c4df",
+      "size": 307064
+    },
+    "data/geojson.day/dan-da-dan-210-day-00086.geojson.gz": {
+      "sha256": "792bc86438c2d8bcd6b3f65ec04b2bdfb3b109ea2f601e820da21d807e6303eb",
+      "size": 296712
+    },
+    "data/geojson.day/dan-da-dan-210-day-00087.geojson.gz": {
+      "sha256": "36da573b84e273dcd7fb083405f4164a53e80d08774a4361593b8a3305f6b101",
+      "size": 305287
+    },
+    "data/geojson.day/dan-da-dan-210-day-00088.geojson.gz": {
+      "sha256": "e9c1341bbac59d3cebc08d80d78b98c38bfbb4dc2f414a37ab1def98292a6c62",
+      "size": 312843
+    },
+    "data/geojson.day/dan-da-dan-210-day-00089.geojson.gz": {
+      "sha256": "92b312cc6ab1b257d4dbe4d0659acc3ab45cbecd11fee0867cf394ec6c6ab95f",
+      "size": 311206
+    },
+    "data/geojson.day/dan-da-dan-210-day-00090.geojson.gz": {
+      "sha256": "751eec75b119b8d7d694bf382f6d73856c012953756e1898332572f061da772e",
+      "size": 310598
+    },
+    "data/geojson.day/dan-da-dan-210-day-00091.geojson.gz": {
+      "sha256": "7bed43d5a1bee062ab2ae009ef17b0cd963567157ffdab6bb3aa0be748faabc4",
+      "size": 299332
+    },
+    "data/geojson.day/dan-da-dan-210-day-00092.geojson.gz": {
+      "sha256": "6b5529ea71fbb313dad977fa6536c89d0a3b8c855fb94a9c720b87f6187ac544",
+      "size": 291393
+    },
+    "data/geojson.day/dan-da-dan-210-day-00093.geojson.gz": {
+      "sha256": "5f2fbecdea75029b2c7af0404a97031e5754ed0e0500093406be734dd7d9a525",
+      "size": 291299
+    },
+    "data/geojson.day/dan-da-dan-210-day-00094.geojson.gz": {
+      "sha256": "11b3a9584c0d696b81ec5654d8d39b852fef8948e9786e61302a8581c0f31d60",
+      "size": 283504
+    },
+    "data/geojson.day/dan-da-dan-210-day-00095.geojson.gz": {
+      "sha256": "c30250bc35df7365db3aaf9c17204418ff80372cfe7abaef95c2c88b34167c12",
+      "size": 274314
+    },
+    "data/geojson.day/dan-da-dan-210-day-00096.geojson.gz": {
+      "sha256": "d82de49f25a2100a66364631718559bb50c237760aad64dc78cf7c1d15938acd",
+      "size": 312645
+    },
+    "data/geojson.day/dan-da-dan-210-day-00097.geojson.gz": {
+      "sha256": "37162f9bb1696cac6673d1a9306f251bbafe03cc67277832111c2b1fcc402e8a",
+      "size": 290169
+    },
+    "data/geojson.day/dan-da-dan-210-day-00098.geojson.gz": {
+      "sha256": "49ec38a7678e3793da19ffb1e9812965effe644f9deae8cd8284f3e0b42e14d9",
+      "size": 291450
+    },
+    "data/geojson.day/dan-da-dan-210-day-00099.geojson.gz": {
+      "sha256": "8f7b2c8e699c516a1496332289f94f8b1c1c3361e355a21830c18aa7c06ebd28",
+      "size": 292689
+    },
+    "data/geojson.day/dan-da-dan-210-day-00100.geojson.gz": {
+      "sha256": "cd79aa66be8847dda362290442e95f6934b27372f7d0600a40f665cc16cc1c81",
+      "size": 286807
+    },
+    "data/geojson.day/dan-da-dan-210-day-00101.geojson.gz": {
+      "sha256": "d0491b2fe0afda7603aa776d9506fc6dbfb2611a6039b0769bfe24a8b323be5f",
+      "size": 273997
+    },
+    "data/geojson.day/dan-da-dan-210-day-00102.geojson.gz": {
+      "sha256": "5b9308a415f570c3e08eadc0d6a84d251188c869726bbbdaef7015dccf8f659a",
+      "size": 257998
+    },
+    "data/geojson.day/dan-da-dan-210-day-00103.geojson.gz": {
+      "sha256": "ae84e9f085a73f0b489e178abda6b2738cd2b4f936c75c7fe4250a2edeb52200",
+      "size": 309323
+    },
+    "data/geojson.day/dan-da-dan-210-day-00104.geojson.gz": {
+      "sha256": "746cffca86564d134575649114210a8558b01d01da4c06c01c91715aef860d5a",
+      "size": 305891
+    },
+    "data/geojson.day/dan-da-dan-210-day-00105.geojson.gz": {
+      "sha256": "33a084c1a92549308237d22bf7d6cb09b64ea15daa41aeb06f5b3ac0ad00c7a9",
+      "size": 306255
+    },
+    "data/geojson.day/dan-da-dan-210-day-00106.geojson.gz": {
+      "sha256": "13e0a1c173e8f7b6d1e387d8412b504b81e6b8510bd1982dd16b4f74434bbd52",
+      "size": 310260
+    },
+    "data/geojson.day/dan-da-dan-210-day-00107.geojson.gz": {
+      "sha256": "7343fd60588abbefd11e21123b6e0f42c611daca9722dcc459f8d33b36c0f36a",
+      "size": 293801
+    },
+    "data/geojson.day/dan-da-dan-210-day-00108.geojson.gz": {
+      "sha256": "b2e3448c35644beb76ae1f00c7bc8623b61a190c875d5eb3dda97a7aa6cc4c4f",
+      "size": 284792
+    },
+    "data/geojson.day/dan-da-dan-210-day-00109.geojson.gz": {
+      "sha256": "28f647426c91deb47d2b20393c0c01a15f7c00897701e1648a3403c3f7df6ace",
+      "size": 300306
+    },
+    "data/geojson.day/dan-da-dan-210-day-00110.geojson.gz": {
+      "sha256": "99c4fd4c41952e200ac3a7771ae6db5e7d4928e12bdbe8d6b1aa0690bed91f4a",
+      "size": 237854
+    },
+    "data/geojson.day/dan-da-dan-210-day-00111.geojson.gz": {
+      "sha256": "fba396175231c0da48a47bd25f67e071cc230e85137f2ea014ae965fb7c52029",
+      "size": 164679
+    },
+    "data/geojson.day/dan-da-dan-210-day-00112.geojson.gz": {
+      "sha256": "df5cd7ddda80b6d82436f54effd498d42a97d07c0fb3e42add048d9eea02ed62",
+      "size": 295832
+    },
+    "data/geojson.day/dan-da-dan-210-day-00113.geojson.gz": {
+      "sha256": "e03bc813ebef1d26f22fa49c8c202f36129bb259784cb355a1565d5d13477ae9",
+      "size": 280755
+    },
+    "data/geojson.day/dan-da-dan-210-day-00114.geojson.gz": {
+      "sha256": "b02b5621eaffd6bd42adbbd32e7a1eaa4e9aa5e313c6ad83e31e692010214e5a",
+      "size": 269397
+    },
+    "data/geojson.day/dan-da-dan-210-day-00115.geojson.gz": {
+      "sha256": "01958b42bf6be5ac06b50bd8d8867dfc91f6787a519f68321f6e0405a30656bd",
+      "size": 265086
+    },
+    "data/geojson.day/dan-da-dan-210-day-00116.geojson.gz": {
+      "sha256": "ab94126b68604f6c8e24437092969d78893c7c0730af160a754cdd1677bab71c",
+      "size": 254160
+    },
+    "data/geojson.day/dan-da-dan-210-day-00117.geojson.gz": {
+      "sha256": "1cdec8f08db52db70ec08abe36a876386b1c164e4c11c49dd55e05010122e744",
+      "size": 280863
+    },
+    "data/geojson.day/dan-da-dan-210-day-00118.geojson.gz": {
+      "sha256": "f20f1c55a8e4763222986c5bdf2481662d05c82fe7f0ebfc785bc4060156f7a6",
+      "size": 276909
+    },
+    "data/geojson.day/dan-da-dan-210-day-00119.geojson.gz": {
+      "sha256": "39c744d17d37499fbd688398d5d377ecef1a9e91c9dc7e0b62e1d1274628c209",
+      "size": 296053
+    },
+    "data/geojson.day/dan-da-dan-210-day-00120.geojson.gz": {
+      "sha256": "7546e3c7715b7e5a82643cb4c26bcbadb862050246063c27755e6be573871a22",
+      "size": 300181
+    },
+    "data/geojson.day/dan-da-dan-210-day-00121.geojson.gz": {
+      "sha256": "68e396adca4c201019280596d6e0737d00bf1dabdc253c5fd6ae191fa008d823",
+      "size": 309826
+    },
+    "data/geojson.day/dan-da-dan-210-day-00122.geojson.gz": {
+      "sha256": "95d28061a0dc0772cb48be8af201eeea062e733a345c873d4e06d790a6790be3",
+      "size": 282450
+    },
+    "data/geojson.day/dan-da-dan-210-day-00123.geojson.gz": {
+      "sha256": "c8deb173af265cfdb673cc77090e0bfccefac590f4cd0253df599ff6cfc25ae8",
+      "size": 284085
+    },
+    "data/geojson.day/dan-da-dan-210-day-00124.geojson.gz": {
+      "sha256": "5d345334c297db1d2a4a6a60f1b86107ad5eadfe47d6894bc9733920ae539932",
+      "size": 309439
+    },
+    "data/geojson.day/dan-da-dan-210-day-00125.geojson.gz": {
+      "sha256": "c090371dec464cbe93c00c7ae9bc153b33ff6e5833de77b8fdf641c1d72dd673",
+      "size": 272314
+    },
+    "data/geojson.day/dan-da-dan-210-day-00126.geojson.gz": {
+      "sha256": "33df0de0fbde78388d946e62885c531f5e7be472f1ef0f3cd7fc3beb5ce8ec2c",
+      "size": 304235
+    },
+    "data/geojson.day/dan-da-dan-210-day-00127.geojson.gz": {
+      "sha256": "1e3ef1e42480b52a2506130234a2bff17147c192540cb4037101cb8f579f3539",
+      "size": 317104
+    },
+    "data/geojson.day/dan-da-dan-210-day-00128.geojson.gz": {
+      "sha256": "fc591082273db25b68509b1fba322379b1e42389593b30e1b0836963769dc1dd",
+      "size": 300708
+    },
+    "data/geojson.day/dan-da-dan-210-day-00129.geojson.gz": {
+      "sha256": "6e90a849beb5a0551fa37e66207e3fad64869791af83ea19a3acab8733622ffc",
+      "size": 286394
+    },
+    "data/geojson.day/dan-da-dan-210-day-00130.geojson.gz": {
+      "sha256": "3d3c7e56028116aaa8c970c5dcf075b29f3cd88abefdcf2fe7a8c89f88579dff",
+      "size": 290036
+    },
+    "data/geojson.day/dan-da-dan-210-day-00131.geojson.gz": {
+      "sha256": "ce061af55c0966e8144c9de03c3f58254468f044b4012643de42388d4b8c7be3",
+      "size": 283986
+    },
+    "data/geojson.day/dan-da-dan-210-day-00132.geojson.gz": {
+      "sha256": "db35ae0bf23034a9d4044f66edd6f0840cae8caccbadd89019120d5ebb4eb05b",
+      "size": 298274
+    },
+    "data/geojson.day/dan-da-dan-210-day-00133.geojson.gz": {
+      "sha256": "62251b6e4d0f3f2010be74deb48049d1c1d6e345e355391cc7b394a1da652e4a",
+      "size": 300642
+    },
+    "data/geojson.day/dan-da-dan-210-day-00134.geojson.gz": {
+      "sha256": "c655bbc59f83e331b0254f9376fe9b6716f94c2ec89dddb86ae7f12ef0821df2",
+      "size": 300316
+    },
+    "data/geojson.day/dan-da-dan-210-day-00135.geojson.gz": {
+      "sha256": "4f9a51d7e00c0505e94d461143e95f7be62022239a3371039be91aefbe46fd46",
+      "size": 302690
+    },
+    "data/geojson.day/dan-da-dan-210-day-00136.geojson.gz": {
+      "sha256": "9a39b94b0a58a48d8b5a6abe7824d90fbe699f8138f5649e0fe8caee99d33274",
+      "size": 292161
+    },
+    "data/geojson.day/dan-da-dan-210-day-00137.geojson.gz": {
+      "sha256": "e2372f889b8d725302adf76539be0d460e6c019484e886ef044866dcb0e9b045",
+      "size": 280685
+    },
+    "data/geojson.day/dan-da-dan-210-day-00138.geojson.gz": {
+      "sha256": "7c129222ccd8328f37eaf7db360c5486cc567f6e34c4f13c8b8e764ba3cbb608",
+      "size": 290248
+    },
+    "data/geojson.day/dan-da-dan-210-day-00139.geojson.gz": {
+      "sha256": "7147a3b631004849fad88eb4c4229527297fb841c1eb9f2765ed6992f7f7c911",
+      "size": 296128
+    },
+    "data/geojson.day/dan-da-dan-210-day-00140.geojson.gz": {
+      "sha256": "f796c170dbf8747020e7bbce1a473185086e8ba6d7f9d0227db3511facf02798",
+      "size": 300813
+    },
+    "data/geojson.day/dan-da-dan-210-day-00141.geojson.gz": {
+      "sha256": "b91fa1366c7f4cf1d86620b1442568a9dd3aacf61aa87d793cc196f6cff59540",
+      "size": 306727
+    },
+    "data/geojson.day/dan-da-dan-210-day-00142.geojson.gz": {
+      "sha256": "c0703286a4cbc7294e0a80e6c170eefa40b97e4d1d04a898a34d013e4dc082b8",
+      "size": 307974
+    },
+    "data/geojson.day/dan-da-dan-210-day-00143.geojson.gz": {
+      "sha256": "70384a1c628d18563d04d8bb17a893f547894324ffe374445bf4d90efc0e26b3",
+      "size": 281487
+    },
+    "data/geojson.day/dan-da-dan-210-day-00144.geojson.gz": {
+      "sha256": "a9c7fb55701d5f2dc4113a716afa2945bb4560f47e3baa3792e3aef07cc7c9b2",
+      "size": 298425
+    },
+    "data/geojson.day/dan-da-dan-210-day-00145.geojson.gz": {
+      "sha256": "2fc4750912b14fccd0db1b95b406ee03dce8bcc79a6848c00a645b4f839ff00c",
+      "size": 294918
+    },
+    "data/geojson.day/dan-da-dan-210-day-00146.geojson.gz": {
+      "sha256": "66dd82a55128aba84f3365a38039095f3142455557edcfd9561073e9a66ce321",
+      "size": 295006
+    },
+    "data/geojson.day/dan-da-dan-210-day-00147.geojson.gz": {
+      "sha256": "8d6b2b59ed7147d0922cf045c72891a8191a7b6184ca2ab870f10ffa15f4ab5b",
+      "size": 277521
+    },
+    "data/geojson.day/dan-da-dan-210-day-00148.geojson.gz": {
+      "sha256": "82c3094d5c803b681f497002d6d09bd529eda4f25edf8f1d750a6beb3a6b8ecf",
+      "size": 282596
+    },
+    "data/geojson.day/dan-da-dan-210-day-00149.geojson.gz": {
+      "sha256": "2124af0828fc1c6fc21a2d958288383dd14991c63e12750a9c9980574285bd33",
+      "size": 296451
+    },
+    "data/geojson.day/dan-da-dan-210-day-00150.geojson.gz": {
+      "sha256": "854934ec65823277e6a818b2d96449df3573fb421056d11ed09ebc81c0a81be8",
+      "size": 270802
+    },
+    "data/geojson.day/dan-da-dan-210-day-00151.geojson.gz": {
+      "sha256": "5cdfd472a5299010531baf896fa15679ed5bc737222761325462a2fbf84d03b6",
+      "size": 275879
+    },
+    "data/geojson.day/dan-da-dan-210-day-00152.geojson.gz": {
+      "sha256": "a8058b224181c89612a345a82b10786ce379ed7887ee7df5c349cc0cb5690727",
+      "size": 297206
+    },
+    "data/geojson.day/dan-da-dan-210-day-00153.geojson.gz": {
+      "sha256": "210f333fd1e0ebccf4699bee744388a80918efada21e2dc5de8ee9ccf49a0bfa",
+      "size": 286830
+    },
+    "data/geojson.day/dan-da-dan-210-day-00154.geojson.gz": {
+      "sha256": "08dd118f2632d4af94496df0227b81fe86775b9b5c389cf99d4fa822c36d385f",
+      "size": 297296
+    },
+    "data/geojson.day/dan-da-dan-210-day-00155.geojson.gz": {
+      "sha256": "9187a3d8092f02b1ea1cf9a7c864c7d4bf0a261e7a7e3056a3290de6ec1c8988",
+      "size": 302310
+    },
+    "data/geojson.day/dan-da-dan-210-day-00156.geojson.gz": {
+      "sha256": "d91978c49c431e5660338f3e2617ce74a3c7d1777d0ac2a1ddc97d207638c10f",
+      "size": 352601
+    },
+    "data/geojson.day/dan-da-dan-210-day-00157.geojson.gz": {
+      "sha256": "70f1161059bd19db51b5eacc8d69490b67a3f9836b3fe9af8687bd0419bfa442",
+      "size": 300363
+    },
+    "data/geojson.day/dan-da-dan-210-day-00158.geojson.gz": {
+      "sha256": "f36434121f047d4b6ab860988f0911e9aa711255bd6a17d64c73a9c4458c4085",
+      "size": 284030
+    },
+    "data/geojson.day/dan-da-dan-210-day-00159.geojson.gz": {
+      "sha256": "52f511f583719314207c781356ad379e080d6277c2a18a769dcd11f8802a6729",
+      "size": 305069
+    },
+    "data/geojson.day/dan-da-dan-210-day-00160.geojson.gz": {
+      "sha256": "83b5d9d7d98a7af0c7d6e1cca111751ca57a74a0c2ca095dcfba1889980ed9be",
+      "size": 294994
+    },
+    "data/geojson.day/dan-da-dan-210-day-00161.geojson.gz": {
+      "sha256": "4ef1d104d1dd86d09e8d79079f0c7fad2285a0054eef1e136619eb707b7016e0",
+      "size": 298537
+    },
+    "data/geojson.day/dan-da-dan-210-day-00162.geojson.gz": {
+      "sha256": "d83d1db03efd58ccda4be0235d1721040b239d92e69fe7e31e4fc4f6b450cb85",
+      "size": 304719
+    },
+    "data/geojson.day/dan-da-dan-210-day-00163.geojson.gz": {
+      "sha256": "3654a459dd9817ea4072a197bd537393d8e8c5824a868729416e10f441fb29b4",
+      "size": 310099
+    },
+    "data/geojson.day/dan-da-dan-210-day-00164.geojson.gz": {
+      "sha256": "8b072e197e0959834183f73f84bbde685cc910e4d8860c1b1471c08ecd95df5f",
+      "size": 304975
+    },
+    "data/geojson.day/dan-da-dan-210-day-00165.geojson.gz": {
+      "sha256": "5ca43ec5433f09abb018628b8e9f3e3968f66c8b53d5c6891b1ab2acd3b62b62",
+      "size": 306578
+    },
+    "data/geojson.day/dan-da-dan-210-day-00166.geojson.gz": {
+      "sha256": "4994bbc65241d5a5ecd5614118b5d43d61971105c1c3d18dfc4b2dc769864967",
+      "size": 310834
+    },
+    "data/geojson.day/dan-da-dan-210-day-00167.geojson.gz": {
+      "sha256": "ae433dc28bf0eaa8f1585e8d09b770facd9d7383220e02f077dc19c2228964f3",
+      "size": 296324
+    },
+    "data/geojson.day/dan-da-dan-210-day-00168.geojson.gz": {
+      "sha256": "0776289467c4482f29af5d9af71fa1db0192f99ec24dcd1eabf6502e4974a418",
+      "size": 281983
+    },
+    "data/geojson.day/dan-da-dan-210-day-00169.geojson.gz": {
+      "sha256": "cc3b5130cccd123ba7814dc190bf1b95801654d32d2662d8c41048284cffbb09",
+      "size": 297726
+    },
+    "data/geojson.day/dan-da-dan-210-day-00170.geojson.gz": {
+      "sha256": "5f784ae6c90a62707cde7766bff3262c17ded3a942d1feba47c620a97f0c745d",
+      "size": 298037
+    },
+    "data/geojson.day/dan-da-dan-210-day-00171.geojson.gz": {
+      "sha256": "a0acd42d93ef9f2214582778216a9d00815f55b8aaa73c785bf62a04c658c594",
+      "size": 300770
+    },
+    "data/geojson.day/dan-da-dan-210-day-00172.geojson.gz": {
+      "sha256": "9aa7ebc456984ce19ecc378fb6ab9f13a7de89103f054398239a959c8e78cd07",
+      "size": 290832
+    },
+    "data/geojson.day/dan-da-dan-210-day-00173.geojson.gz": {
+      "sha256": "e430c06c76c2e2497c3a3d5ec1e6804ceace95e76d7eeb69d540d309fed6f99b",
+      "size": 298625
+    },
+    "data/geojson.day/dan-da-dan-210-day-00174.geojson.gz": {
+      "sha256": "af85fca32f0799d4937af8a4d966fe0fba753e6e6c74a9aa5c0c93e025e415ea",
+      "size": 291637
+    },
+    "data/geojson.day/dan-da-dan-210-day-00175.geojson.gz": {
+      "sha256": "5b6116a54439a6597a778700bd30c2eb917dce7f9eed041e3224e2d9e2b100af",
+      "size": 290652
+    },
+    "data/geojson.day/dan-da-dan-210-day-00176.geojson.gz": {
+      "sha256": "105f41ced289ec737fd9c4b5db6cbcadbc6fccac026f9d957582757551e8e380",
+      "size": 283690
+    },
+    "data/geojson.day/dan-da-dan-210-day-00177.geojson.gz": {
+      "sha256": "70648931414b00080134d591e388295aa9ba07ae145bff77e7de482cb9c89fd4",
+      "size": 264942
+    },
+    "data/geojson.day/dan-da-dan-210-day-00178.geojson.gz": {
+      "sha256": "5216a8eaa5d0d22df1f2357c2c62cbf6de59710be2af3cfd65f0ff3eae4fbf22",
+      "size": 263271
+    },
+    "data/geojson.day/dan-da-dan-210-day-00179.geojson.gz": {
+      "sha256": "e0e99e9fdd5c5f65bea021fc4917abb8a21576518d15c8a1904c7c8828931348",
+      "size": 270054
+    },
+    "data/geojson.day/dan-da-dan-210-day-00180.geojson.gz": {
+      "sha256": "9e9073f044fca6f19aa8a9879e0cfa930c120148838b4800af3faf97858fffdd",
+      "size": 286051
+    },
+    "data/geojson.day/dan-da-dan-210-day-00181.geojson.gz": {
+      "sha256": "b4e636e3ab78218d6707815abf823abfcd175d9b63a36f570d783e8feed4ba34",
+      "size": 295829
+    },
+    "data/geojson.day/dan-da-dan-210-day-00182.geojson.gz": {
+      "sha256": "67dca8eba307834ff06175efb355f09aae4d840f44ede6b492c08042dcb35171",
+      "size": 306383
+    },
+    "data/json/dan-da-dan-210-swarm-day-00001-2025-09-04.json": {
+      "sha256": "9b3e8ae738259a588ef0bad711ab7a6b92d533f4538dc72cb3f514b5e1fe15e7",
+      "size": 449
+    },
+    "data/json/dan-da-dan-210-swarm-day-00002-2025-09-05.json": {
+      "sha256": "d01d32dd7f70b3c2abae35f543beb780c7e618279005210b4f3905311056fdc4",
+      "size": 451
+    },
+    "data/json/dan-da-dan-210-swarm-day-00003-2025-09-06.json": {
+      "sha256": "f10e04aaad5b0847ff11694187c5accbb281a6370aca06e54a4851ec4eb2c3b0",
+      "size": 451
+    },
+    "data/json/dan-da-dan-210-swarm-day-00004-2025-09-07.json": {
+      "sha256": "395ba7a8baf13042479d91f478c5fff75c6a77b63f79ee0a487da68725cc3b8d",
+      "size": 451
+    },
+    "data/json/dan-da-dan-210-swarm-day-00005-2025-09-08.json": {
+      "sha256": "8ce8f3f41e3692ee1ee96f2a4599595a247cb090492e3ee9ccf31a5590a5b54b",
+      "size": 452
+    },
+    "data/json/dan-da-dan-210-swarm-day-00006-2025-09-09.json": {
+      "sha256": "fd810933f8b8c617f58ae0d029e3fedae843a7880c1fe53de1ce17cdc7007b8e",
+      "size": 452
+    },
+    "data/json/dan-da-dan-210-swarm-day-00007-2025-09-10.json": {
+      "sha256": "4f62560c317af671d66d2e0f2be617dcfd07e27e22b0d43ec0fcd4ea73b9ee10",
+      "size": 451
+    },
+    "data/json/dan-da-dan-210-swarm-day-00008-2025-09-11.json": {
+      "sha256": "a8ce3e654e06076607a663995d90411119caf66a67b03b5d345bad039064c140",
+      "size": 453
+    },
+    "data/json/dan-da-dan-210-swarm-day-00009-2025-09-12.json": {
+      "sha256": "6e0fcd9f0aa8d1375f519d06e33190795793084af84a6a3e1103ff85f50c9b3d",
+      "size": 453
+    },
+    "data/json/dan-da-dan-210-swarm-day-00010-2025-09-13.json": {
+      "sha256": "6ef1c123ed8f430b78d28cda7ad8109df7c7fc93ab04f6702b14148b6600a880",
+      "size": 454
+    },
+    "data/json/dan-da-dan-210-swarm-day-00011-2025-09-14.json": {
+      "sha256": "31197bab03ac16f7d366b4f7567d20b6cb4b33ede4a77da69b86cd1f4ca4ae1d",
+      "size": 454
+    },
+    "data/json/dan-da-dan-210-swarm-day-00012-2025-09-15.json": {
+      "sha256": "e8ee14c7f0d2f08c912af938bda8bb86224051a14c71248915194f325e4a5e8d",
+      "size": 454
+    },
+    "data/json/dan-da-dan-210-swarm-day-00013-2025-09-16.json": {
+      "sha256": "560b9ece85adc4651dddccc600af57e387f9be1455e0c7e81b110a20dce8b92d",
+      "size": 454
+    },
+    "data/json/dan-da-dan-210-swarm-day-00014-2025-09-17.json": {
+      "sha256": "7dd48358d35f99b397501616f67519c964835b83df437bd3a499417f744fe76b",
+      "size": 454
+    },
+    "data/json/dan-da-dan-210-swarm-day-00015-2025-09-18.json": {
+      "sha256": "6f258f480ba9af5910a0ad880370f1afc5a544ff1f5e4595ab8d364e27ecf338",
+      "size": 454
+    },
+    "data/json/dan-da-dan-210-swarm-day-00016-2025-09-19.json": {
+      "sha256": "8c14dd0a89b6d25d3ddd5833bf119774867b7642d7aa76032de82e25ae75d3df",
+      "size": 454
+    },
+    "data/json/dan-da-dan-210-swarm-day-00017-2025-09-20.json": {
+      "sha256": "f48cb1cb02136fdfcbf5051a13c6fc3840058928b46bdabcbd585fc961c4553a",
+      "size": 454
+    },
+    "data/json/dan-da-dan-210-swarm-day-00018-2025-09-21.json": {
+      "sha256": "481719718d913c3a188933050988106709d0045527a1a429aab4d0a462e840d6",
+      "size": 454
+    },
+    "data/json/dan-da-dan-210-swarm-day-00019-2025-09-22.json": {
+      "sha256": "25f52454932e4fec2057490b5ff2c1b846a112312779bf968b4ce320bc0d3ef5",
+      "size": 454
+    },
+    "data/json/dan-da-dan-210-swarm-day-00020-2025-09-23.json": {
+      "sha256": "1fde6f03fb412ce1cc6263569c317ba9541f04c9f71b5ad42a15e1023561d2c1",
+      "size": 454
+    },
+    "data/json/dan-da-dan-210-swarm-day-00021-2025-09-24.json": {
+      "sha256": "20830048f9eb3d1dcc2f895b7c78ea17b998fe698bcdf061a544255a6fc168ae",
+      "size": 454
+    },
+    "data/json/dan-da-dan-210-swarm-day-00022-2025-09-25.json": {
+      "sha256": "4e2987024f6f3d100c5531ee2d3c2a4ef2ffbdb2b0b67f24124ebe1b7f8d1137",
+      "size": 454
+    },
+    "data/json/dan-da-dan-210-swarm-day-00023-2025-09-26.json": {
+      "sha256": "db42bb8bdd8f96a152888aa6d5b6a18829a05eb73e389ad6d3e9c175f61e5409",
+      "size": 454
+    },
+    "data/json/dan-da-dan-210-swarm-day-00024-2025-09-27.json": {
+      "sha256": "e1dab9ad45968a3e1ac6cf8b11c2d36583c5f7f231c43a0d1783822bb2e425a7",
+      "size": 454
+    },
+    "data/json/dan-da-dan-210-swarm-day-00025-2025-09-28.json": {
+      "sha256": "e303aeb6703a24280e3bfe547f69d1252f857e4901fafe8eec64b0cc1d5598fd",
+      "size": 454
+    },
+    "data/json/dan-da-dan-210-swarm-day-00026-2025-09-29.json": {
+      "sha256": "02e7aa0531fce9adc15c237bec90ea4e32911480d80dfc2f66b51bafa8fc07c3",
+      "size": 454
+    },
+    "data/json/dan-da-dan-210-swarm-day-00027-2025-09-30.json": {
+      "sha256": "27b7f175ac358d0b4b2b192a969fc28420809ba0ace93b9911bbb7a10b08ec5c",
+      "size": 454
+    },
+    "data/json/dan-da-dan-210-swarm-day-00028-2025-10-01.json": {
+      "sha256": "74352b800201b821b9156b754e1de8cd87e84150eb67c2b84c538459f1dfb6e8",
+      "size": 454
+    },
+    "data/json/dan-da-dan-210-swarm-day-00029-2025-10-02.json": {
+      "sha256": "2592110e126aa8770156bc89850a22b00207f601bfeb286fbaed3420a0afb1b5",
+      "size": 454
+    },
+    "data/json/dan-da-dan-210-swarm-day-00030-2025-10-03.json": {
+      "sha256": "72c43c201130d8111933065d1ca2d4eb0fcc4b53128c5022b22c66aee9abf8f8",
+      "size": 454
+    },
+    "data/json/dan-da-dan-210-swarm-day-00031-2025-10-04.json": {
+      "sha256": "8cf5f610b78812ad136c52b6b00cbe46874094bf0b35cf3da5211767402b78a8",
+      "size": 454
+    },
+    "data/json/dan-da-dan-210-swarm-day-00032-2025-10-05.json": {
+      "sha256": "8e897db559e7f18a455eaac65b845405493cef28c67a919bebd86b829d80e769",
+      "size": 454
+    },
+    "data/json/dan-da-dan-210-swarm-day-00033-2025-10-06.json": {
+      "sha256": "f3b93f9f1ab707415c579746e068ce7a7d815a1ac9888bb60d711a6f2c2d3942",
+      "size": 454
+    },
+    "data/json/dan-da-dan-210-swarm-day-00034-2025-10-07.json": {
+      "sha256": "a58c93b6066a7b87cc4152ee759bbd11079d8e8567e9c9d0c4b45f18d454b9d2",
+      "size": 454
+    },
+    "data/json/dan-da-dan-210-swarm-day-00035-2025-10-08.json": {
+      "sha256": "2c61406019c9cbf69bd064cbc12229827345fe5a4d98280c4ddbc75652c9edbe",
+      "size": 454
+    },
+    "data/json/dan-da-dan-210-swarm-day-00036-2025-10-09.json": {
+      "sha256": "db5bb593c5fd287c234a7aa574f8ef0579d57448b0be75901ea5deefd898dc0f",
+      "size": 454
+    },
+    "data/json/dan-da-dan-210-swarm-day-00037-2025-10-10.json": {
+      "sha256": "6a562ff76c32c330200abea56345e481380e5475171a6f86546b16727ba91499",
+      "size": 454
+    },
+    "data/json/dan-da-dan-210-swarm-day-00038-2025-10-11.json": {
+      "sha256": "bbd4138dd624ebdb29f33070cfedc9d6d6698953bf9412d4f64e53010e756d12",
+      "size": 454
+    },
+    "data/json/dan-da-dan-210-swarm-day-00039-2025-10-12.json": {
+      "sha256": "2211cb14fc0eb9ecf81d4a098ac78d11253f0fcd7f2f87f89abbad45ee211c7c",
+      "size": 454
+    },
+    "data/json/dan-da-dan-210-swarm-day-00040-2025-10-13.json": {
+      "sha256": "2c0e643eb765746b48afae94481db5aa48d191c9638eaf2a9b486cca46c77e25",
+      "size": 454
+    },
+    "data/json/dan-da-dan-210-swarm-day-00041-2025-10-14.json": {
+      "sha256": "6878b5d4ac011a0a9fd4b805dee2a41adb442e68b1feff4079ad21d255c97c4b",
+      "size": 454
+    },
+    "data/json/dan-da-dan-210-swarm-day-00042-2025-10-15.json": {
+      "sha256": "8f3485991869ac421d31f5674785b487a45340c984eb08f5dbdec07843d0efd9",
+      "size": 454
+    },
+    "data/json/dan-da-dan-210-swarm-day-00043-2025-10-16.json": {
+      "sha256": "cdb18552267c9065ecc04d9d6c581c06cb4aed939d3927175ca052bb22f24799",
+      "size": 454
+    },
+    "data/json/dan-da-dan-210-swarm-day-00044-2025-10-17.json": {
+      "sha256": "0c0cee4690b7970c4f1bc63ea2a88d63fa803742b4d5af83f2d10317d6dc0a05",
+      "size": 454
+    },
+    "data/json/dan-da-dan-210-swarm-day-00045-2025-10-18.json": {
+      "sha256": "469617ea9dc1f0aa71848da34c6d9da7813f7b9b67f91400d08ab7f1a6fb979c",
+      "size": 454
+    },
+    "data/json/dan-da-dan-210-swarm-day-00046-2025-10-19.json": {
+      "sha256": "68bad7ea22fac37b380b0fb09e7063b9045603fe05f1c2d9561ca99d3c138bca",
+      "size": 454
+    },
+    "data/json/dan-da-dan-210-swarm-day-00047-2025-10-20.json": {
+      "sha256": "a856c6c6e60069b841bae64e1c0a1d634b1378ab8560c5bb420de430d21241a8",
+      "size": 454
+    },
+    "data/json/dan-da-dan-210-swarm-day-00048-2025-10-21.json": {
+      "sha256": "5a67de4ded3fd9324893b9bd335361eae3831574708ce466ffc2c895d83d70f9",
+      "size": 454
+    },
+    "data/json/dan-da-dan-210-swarm-day-00049-2025-10-22.json": {
+      "sha256": "d56fa4e53ec529ae7af2242169d88a60087477fb00d0518c2d8188730445963e",
+      "size": 454
+    },
+    "data/json/dan-da-dan-210-swarm-day-00050-2025-10-23.json": {
+      "sha256": "a142711f0d31efd16c0d6cfdab5c85fa1a57194f580636795773c42e3654e297",
+      "size": 454
+    },
+    "data/json/dan-da-dan-210-swarm-day-00051-2025-10-24.json": {
+      "sha256": "11b82b264060a8cc343f1986f443c1110b0d2c921e6dea9bc5850d6296f9a277",
+      "size": 454
+    },
+    "data/json/dan-da-dan-210-swarm-day-00052-2025-10-25.json": {
+      "sha256": "2ef6d5c09e30145a1bb11faf334093bbcd1c285be223a30ee10f2435b163f873",
+      "size": 454
+    },
+    "data/json/dan-da-dan-210-swarm-day-00053-2025-10-26.json": {
+      "sha256": "b022d3ed7e67fe61324617689b8f2d63dee253cdce2cfba171b47546f1c75c31",
+      "size": 454
+    },
+    "data/json/dan-da-dan-210-swarm-day-00054-2025-10-27.json": {
+      "sha256": "dbd98a8c9489bb8ea3305e5aaee8cd97e7d202c962ebebe97e28c8af5ff3e925",
+      "size": 454
+    },
+    "data/json/dan-da-dan-210-swarm-day-00055-2025-10-28.json": {
+      "sha256": "eb07fdc5c380424e731ddd7f01bf6a425e9cb2d3f22ef7168780c947337b9869",
+      "size": 454
+    },
+    "data/json/dan-da-dan-210-swarm-day-00056-2025-10-29.json": {
+      "sha256": "3933a32c30416d7d2c3cda16fafa136d11f68a383f2bd94aee897cea2c2027eb",
+      "size": 454
+    },
+    "data/json/dan-da-dan-210-swarm-day-00057-2025-10-30.json": {
+      "sha256": "520a960cd487d7e44f58b6a4c34fb0176fe76ad9c99ff2e9c47cd4a318b7944f",
+      "size": 454
+    },
+    "data/json/dan-da-dan-210-swarm-day-00058-2025-10-31.json": {
+      "sha256": "310bfbe68c0de29f4e9c1779c7bc9cef60a398ce478af8f7638f04eb1ae3b193",
+      "size": 454
+    },
+    "data/json/dan-da-dan-210-swarm-day-00059-2025-11-01.json": {
+      "sha256": "49d8cf9867e2b8dc1ace12129e193808f7768840123bf62a3204b6111ad333b7",
+      "size": 454
+    },
+    "data/json/dan-da-dan-210-swarm-day-00060-2025-11-02.json": {
+      "sha256": "c6df03473ab495874fb15de73bf5b9a2b7a9ab870ae4c0d3e9faaa99b8fbfe57",
+      "size": 454
+    },
+    "data/json/dan-da-dan-210-swarm-day-00061-2025-11-03.json": {
+      "sha256": "620ece8f4fd28ba879f87f0f4ecfb71236fdb9d5ca6f0978730b1b2374352c5a",
+      "size": 454
+    },
+    "data/json/dan-da-dan-210-swarm-day-00062-2025-11-04.json": {
+      "sha256": "83a3a99ab2f545c131a880a6ece9934d9f5171aa33da8aaca717117e600182d3",
+      "size": 454
+    },
+    "data/json/dan-da-dan-210-swarm-day-00063-2025-11-05.json": {
+      "sha256": "b024ad6449c8696bec8c23e34630524712ff64396b29cedd9ae697c571141df7",
+      "size": 454
+    },
+    "data/json/dan-da-dan-210-swarm-day-00064-2025-11-06.json": {
+      "sha256": "4a07db246ff77afd1c0ea710c30b842e1fb4db85a7ea84fd567eb409413690bd",
+      "size": 454
+    },
+    "data/json/dan-da-dan-210-swarm-day-00065-2025-11-07.json": {
+      "sha256": "486dafbe169e6bdb3213d4b12b83a4083ca7ee421b16e7d670f97c8e776a301e",
+      "size": 454
+    },
+    "data/json/dan-da-dan-210-swarm-day-00066-2025-11-08.json": {
+      "sha256": "0d9e99eb10f7fee1dc87531dee6c9cd897e8a10e263830d6871e44b4f37b3449",
+      "size": 454
+    },
+    "data/json/dan-da-dan-210-swarm-day-00067-2025-11-09.json": {
+      "sha256": "32219eca4346da82399ae6ae510e8293bd1cafa97b045779b5d1eaa442841a1e",
+      "size": 454
+    },
+    "data/json/dan-da-dan-210-swarm-day-00068-2025-11-10.json": {
+      "sha256": "e36ad63765a91a625ebd8b9e381f679da3cc02ca7baf57be1446da46655bc1e0",
+      "size": 454
+    },
+    "data/json/dan-da-dan-210-swarm-day-00069-2025-11-11.json": {
+      "sha256": "aca1d32896f04cc42f8d222173a348d125e696476a109c824710d75978c5c406",
+      "size": 454
+    },
+    "data/json/dan-da-dan-210-swarm-day-00070-2025-11-12.json": {
+      "sha256": "c89d5dcb5694f65f99b3117b3005056c7c7371f0ad308923db6d32eb9e14977d",
+      "size": 454
+    },
+    "data/json/dan-da-dan-210-swarm-day-00071-2025-11-13.json": {
+      "sha256": "b7bf7d8c1778dddd5ea49eb4f177f1d1ec9f2685f78e774b0661696ecb265c8d",
+      "size": 454
+    },
+    "data/json/dan-da-dan-210-swarm-day-00072-2025-11-14.json": {
+      "sha256": "d0837cfac1ddac71cf93de140ee5798ae39c77988db493304fba81a416b6069e",
+      "size": 454
+    },
+    "data/json/dan-da-dan-210-swarm-day-00073-2025-11-15.json": {
+      "sha256": "203a703a831b2dc555e17d30d72a61d80dbbf8c2eee5ad62ae4ad51f663358d2",
+      "size": 454
+    },
+    "data/json/dan-da-dan-210-swarm-day-00074-2025-11-16.json": {
+      "sha256": "e76371f2751ad283b78479caf7c16f51ad3fcc59244e27c6c0dfb999dee5543b",
+      "size": 454
+    },
+    "data/json/dan-da-dan-210-swarm-day-00075-2025-11-17.json": {
+      "sha256": "97eef01f228c7fb6cef0efc6de55c8fa48ae045c83f65d01f07215a0d3e1be9e",
+      "size": 454
+    },
+    "data/json/dan-da-dan-210-swarm-day-00076-2025-11-18.json": {
+      "sha256": "21987fffa0768a72af0eed45655801863bcfe2fb7e68e46455dd3acb1224a884",
+      "size": 454
+    },
+    "data/json/dan-da-dan-210-swarm-day-00077-2025-11-19.json": {
+      "sha256": "ca77890057acb0c11ea8fa25e599681a0c1c08d5be4f9e849e0580879ad47f8f",
+      "size": 454
+    },
+    "data/json/dan-da-dan-210-swarm-day-00078-2025-11-20.json": {
+      "sha256": "ac94c3a4b2f463d48d7c233b2f53c6fc413543dc21c22be9c16897f211d772ec",
+      "size": 454
+    },
+    "data/json/dan-da-dan-210-swarm-day-00079-2025-11-21.json": {
+      "sha256": "baaa5b782846b7cecbf44ae870ce92389a87511421c0bf6774f32f6f894ce706",
+      "size": 454
+    },
+    "data/json/dan-da-dan-210-swarm-day-00080-2025-11-22.json": {
+      "sha256": "9645528c53c0bc07366c6790b4e5a31157cf2e6fbdfcdbffee4f19ef9f9d358a",
+      "size": 454
+    },
+    "data/json/dan-da-dan-210-swarm-day-00081-2025-11-23.json": {
+      "sha256": "24284032b073c6ecbaec89bcb0b8f6883b27ca58df4a6f1edbf0b97d0984fe48",
+      "size": 454
+    },
+    "data/json/dan-da-dan-210-swarm-day-00082-2025-11-24.json": {
+      "sha256": "cb5a163fa01100f03c6097bced2a9c62d952e0f42e912f4c518bf51141e9eece",
+      "size": 454
+    },
+    "data/json/dan-da-dan-210-swarm-day-00083-2025-11-25.json": {
+      "sha256": "97cdc6859e5fa3ba0499a9bffa58eaf2052954944f597c928565420e1ccc21d0",
+      "size": 454
+    },
+    "data/json/dan-da-dan-210-swarm-day-00084-2025-11-26.json": {
+      "sha256": "fa59f2635ad4e9e77533d3fd20cce6d2778481773f16946eb14672747dfdec9f",
+      "size": 454
+    },
+    "data/json/dan-da-dan-210-swarm-day-00085-2025-11-27.json": {
+      "sha256": "2723aa5aa11a88ef9090e01e834e0a3188d8d1085822ebb89d0d159f969424ba",
+      "size": 454
+    },
+    "data/json/dan-da-dan-210-swarm-day-00086-2025-11-28.json": {
+      "sha256": "971fac30bb8b24770face4cf23a696267fa2a02b179cbe154fdc5bdb987ec604",
+      "size": 454
+    },
+    "data/json/dan-da-dan-210-swarm-day-00087-2025-11-29.json": {
+      "sha256": "e7ae448bf1474dd8570b36dfb10267b9488efeff992356d36a9188b0b457fb09",
+      "size": 454
+    },
+    "data/json/dan-da-dan-210-swarm-day-00088-2025-11-30.json": {
+      "sha256": "bcd5b4630befa3186c8e973942a95de4b5cbd4bfcf72b4e6c20b26c8771ce98a",
+      "size": 454
+    },
+    "data/json/dan-da-dan-210-swarm-day-00089-2025-12-01.json": {
+      "sha256": "2007e5d5756ee8abc379d96eee2d3e540100ba2d1fcdfe0865dd2691b0f235f9",
+      "size": 454
+    },
+    "data/json/dan-da-dan-210-swarm-day-00090-2025-12-02.json": {
+      "sha256": "46ce55a4ec623e118133c182fc914b096299454b3f73c31fa35f6014fb4b9cd9",
+      "size": 454
+    },
+    "data/json/dan-da-dan-210-swarm-day-00091-2025-12-03.json": {
+      "sha256": "c28779fc65faf3e3e1d9c5efb672e1b22378b4fcda97b19270f21e05edb6b80b",
+      "size": 454
+    },
+    "data/json/dan-da-dan-210-swarm-day-00092-2025-12-04.json": {
+      "sha256": "d6dbb5c233d5fd1bcfa4c7c8e5ffa1dc116ff3b2aa41470110e436d6caf3313b",
+      "size": 454
+    },
+    "data/json/dan-da-dan-210-swarm-day-00093-2025-12-05.json": {
+      "sha256": "b2a82ed3e7023c70b9c8c035026003f5c572eb08bb6ba88cf479bd3a1ddffb91",
+      "size": 454
+    },
+    "data/json/dan-da-dan-210-swarm-day-00094-2025-12-06.json": {
+      "sha256": "1e72d4012e9ac17ea095d2c31a929025e9fa3a5991183770f7341576b16d8c7a",
+      "size": 454
+    },
+    "data/json/dan-da-dan-210-swarm-day-00095-2025-12-07.json": {
+      "sha256": "5e8c128945466cb06a7a906bc5d6ad6e030633bae8a21266a355c6031a78d07a",
+      "size": 454
+    },
+    "data/json/dan-da-dan-210-swarm-day-00096-2025-12-08.json": {
+      "sha256": "214c67b961c446c3bad26dcfdaa0e9e63478f0d1745a8e1a595422519167c6f3",
+      "size": 454
+    },
+    "data/json/dan-da-dan-210-swarm-day-00097-2025-12-09.json": {
+      "sha256": "3b23533be9c8cdc64f2e96b664ed7ea732367d272418f27898cf72e61c39bef4",
+      "size": 454
+    },
+    "data/json/dan-da-dan-210-swarm-day-00098-2025-12-10.json": {
+      "sha256": "e403d53a4def095d5be4e42392bc9ecd886261d8619484b470a3191555387ae6",
+      "size": 454
+    },
+    "data/json/dan-da-dan-210-swarm-day-00099-2025-12-11.json": {
+      "sha256": "1be4ccb9e008caa4dece57906f6bb01961204ccf3f9346ac0efec625348197cc",
+      "size": 454
+    },
+    "data/json/dan-da-dan-210-swarm-day-00100-2025-12-12.json": {
+      "sha256": "0336281249335163a7c653367429da2d8977f53ef0e8bbfadb778223f6cab6f8",
+      "size": 455
+    },
+    "data/json/dan-da-dan-210-swarm-day-00101-2025-12-13.json": {
+      "sha256": "010864520c10868be37681da71715efdbe7ed7697cb56d34200f08264e14ae2b",
+      "size": 455
+    },
+    "data/json/dan-da-dan-210-swarm-day-00102-2025-12-14.json": {
+      "sha256": "5f6155b8da7f83c3a046989e673e5aa7b9bea6f006f6caf1b1b52d6952eaa659",
+      "size": 455
+    },
+    "data/json/dan-da-dan-210-swarm-day-00103-2025-12-15.json": {
+      "sha256": "41521e9ce184f562e9ad5f9619dd1e086052b717feadf461ae3e6a269522db00",
+      "size": 455
+    },
+    "data/json/dan-da-dan-210-swarm-day-00104-2025-12-16.json": {
+      "sha256": "3ffc58ca218e04a5dfc63abe39382b38e88080ad554c6201eb26045f7da09249",
+      "size": 455
+    },
+    "data/json/dan-da-dan-210-swarm-day-00105-2025-12-17.json": {
+      "sha256": "80f7bfd0407aa6e9c205fd1cc2fe5a92cc395d4ac94daee6501b35f0df2634bb",
+      "size": 455
+    },
+    "data/json/dan-da-dan-210-swarm-day-00106-2025-12-18.json": {
+      "sha256": "94978275cf570e34690bc75f8149c91e1242faf22c6d32b7d7c6fe8d8d35901a",
+      "size": 455
+    },
+    "data/json/dan-da-dan-210-swarm-day-00107-2025-12-19.json": {
+      "sha256": "9b46c96978f6b806cc38374651584d2cc6c067aabd25efc1e6e888e8350eccdf",
+      "size": 455
+    },
+    "data/json/dan-da-dan-210-swarm-day-00108-2025-12-20.json": {
+      "sha256": "c3708f42b70f11f073d228f691267c24b02edeed073650cee412de40e5a0a362",
+      "size": 455
+    },
+    "data/json/dan-da-dan-210-swarm-day-00109-2025-12-21.json": {
+      "sha256": "85ffdb69e4cf556a8ba54b57bc1e05b4baf2989cb094e06f763b0733ad5c648d",
+      "size": 455
+    },
+    "data/json/dan-da-dan-210-swarm-day-00110-2025-12-22.json": {
+      "sha256": "2e5fa83515717929c4ae0f13959c2c2ab5a47912bf286c2f13c36f6bc66fbc3f",
+      "size": 455
+    },
+    "data/json/dan-da-dan-210-swarm-day-00111-2025-12-23.json": {
+      "sha256": "df0e33fbddf81bc4a11f1113eaecf62d4147954403142abc42da329f4a3a2b38",
+      "size": 455
+    },
+    "data/json/dan-da-dan-210-swarm-day-00112-2025-12-24.json": {
+      "sha256": "77cb2d72beca2fb20b5773c86a09c2dbdc89728ea36bc857fd0503dad2cac533",
+      "size": 455
+    },
+    "data/json/dan-da-dan-210-swarm-day-00113-2025-12-25.json": {
+      "sha256": "b536ab202a56b953212c0edf02e89c919b954c4ae84d3f0134ab8c5178d71fef",
+      "size": 455
+    },
+    "data/json/dan-da-dan-210-swarm-day-00114-2025-12-26.json": {
+      "sha256": "a5b2b77e94d63b95f1fd747552fc0c6723c5b069f92411a3c2a6c8670e26c021",
+      "size": 455
+    },
+    "data/json/dan-da-dan-210-swarm-day-00115-2025-12-27.json": {
+      "sha256": "4a881c6f0fced2f73eebc168383eef0fc0b742ef01fe23ac2da65aa6587386f8",
+      "size": 455
+    },
+    "data/json/dan-da-dan-210-swarm-day-00116-2025-12-28.json": {
+      "sha256": "480337b8058b1f9ac33cf6cdfceedb7fc1439aa4928be923a19a3dac4967e3a7",
+      "size": 455
+    },
+    "data/json/dan-da-dan-210-swarm-day-00117-2025-12-29.json": {
+      "sha256": "3f0fd3e2f0c2f9beaf7b0fd903214bfd68eeb263b394098e6bc891da758e3b87",
+      "size": 455
+    },
+    "data/json/dan-da-dan-210-swarm-day-00118-2025-12-30.json": {
+      "sha256": "107bed3e9027504781308086e00d3c41000601c21082210ce91585f8a6f4e239",
+      "size": 455
+    },
+    "data/json/dan-da-dan-210-swarm-day-00119-2025-12-31.json": {
+      "sha256": "b071812060873e773481a24e1f0fb5ac88b7db7c4f14b093b181c3dcf48d723f",
+      "size": 455
+    },
+    "data/json/dan-da-dan-210-swarm-day-00120-2026-01-01.json": {
+      "sha256": "01f9ebd10a662a0bd77e3b8244d9ea85a49739d2eb287b8fdea38e512455f5ba",
+      "size": 455
+    },
+    "data/json/dan-da-dan-210-swarm-day-00121-2026-01-02.json": {
+      "sha256": "abe21bd4549d992c4cb4f89175ee2261d94c6a9a6dd49a5ddae6c188984f7a65",
+      "size": 455
+    },
+    "data/json/dan-da-dan-210-swarm-day-00122-2026-01-03.json": {
+      "sha256": "49334ea4f829da683e8a71ec492f73ef2b9d9d078a341da1be93cefe84f13c8d",
+      "size": 455
+    },
+    "data/json/dan-da-dan-210-swarm-day-00123-2026-01-04.json": {
+      "sha256": "b628aaa5079de6846dd0921e14df8b2c17a0a8737974ac1f9e0fcb4622ca857a",
+      "size": 455
+    },
+    "data/json/dan-da-dan-210-swarm-day-00124-2026-01-05.json": {
+      "sha256": "a6714217b742e799f88f6b6df1bd296e9a554e548e985e71ae40f4560cfc23b6",
+      "size": 455
+    },
+    "data/json/dan-da-dan-210-swarm-day-00125-2026-01-06.json": {
+      "sha256": "84af8373c07062236a96d063fa78fb207284deb76da182912f0179234ac517df",
+      "size": 455
+    },
+    "data/json/dan-da-dan-210-swarm-day-00126-2026-01-07.json": {
+      "sha256": "aafad381ff2c67021b984344d5d1bfc769cbe4e8ba071c7be138e823ff17dd99",
+      "size": 455
+    },
+    "data/json/dan-da-dan-210-swarm-day-00127-2026-01-08.json": {
+      "sha256": "31d85b02de640d1dd94094d1bea5c0e3b9a7a19a3d07695e37cd28e2d1929d86",
+      "size": 455
+    },
+    "data/json/dan-da-dan-210-swarm-day-00128-2026-01-09.json": {
+      "sha256": "127e7d03f2277e482ca8413c84157f6ca5589c4ff45afcb4dfa3fe13bbf1aa81",
+      "size": 455
+    },
+    "data/json/dan-da-dan-210-swarm-day-00129-2026-01-10.json": {
+      "sha256": "094e057fadbe83e623b20646bb40d25aeb0c582d2e3e1305c3cc7d4f97732263",
+      "size": 455
+    },
+    "data/json/dan-da-dan-210-swarm-day-00130-2026-01-11.json": {
+      "sha256": "f9ebad633af2c240a8c77c3a81e015bace9d3234325f8cb981d77030f85e414e",
+      "size": 455
+    },
+    "data/json/dan-da-dan-210-swarm-day-00131-2026-01-12.json": {
+      "sha256": "22edf46732819d4c6b68c566af23faa0db0fbd4978440eb65b6b2c171242b5de",
+      "size": 455
+    },
+    "data/json/dan-da-dan-210-swarm-day-00132-2026-01-13.json": {
+      "sha256": "f23551726f6fcba696d7c0f5bea99f9a2aae58525ab8fa6d91358965caa0443d",
+      "size": 455
+    },
+    "data/json/dan-da-dan-210-swarm-day-00133-2026-01-14.json": {
+      "sha256": "0b4ffc86e2394591c784e08fbc3c551942ad68bfbce94bd49a9ee48cab8cb29f",
+      "size": 455
+    },
+    "data/json/dan-da-dan-210-swarm-day-00134-2026-01-15.json": {
+      "sha256": "22cefefb846e837cc00d9bc8f33a7d3ace478351050e188b83b7b94275e70fba",
+      "size": 455
+    },
+    "data/json/dan-da-dan-210-swarm-day-00135-2026-01-16.json": {
+      "sha256": "5a44f2e0bf412fba2e593b559a926888017e72df21f9df86115eb2d110a1d3c0",
+      "size": 455
+    },
+    "data/json/dan-da-dan-210-swarm-day-00136-2026-01-17.json": {
+      "sha256": "665a67017b9f81a6f933f65f5139b79f11752be5ba704a128d438baaa04e0c9d",
+      "size": 455
+    },
+    "data/json/dan-da-dan-210-swarm-day-00137-2026-01-18.json": {
+      "sha256": "4e202416e6cda6ba42ce064fee2bb50da3c48b156aab348d90da1aca5da0b287",
+      "size": 455
+    },
+    "data/json/dan-da-dan-210-swarm-day-00138-2026-01-19.json": {
+      "sha256": "efcb653a7e7c193256cf68920897618f37891e3f26e9b990f3ddc938bc120eb6",
+      "size": 455
+    },
+    "data/json/dan-da-dan-210-swarm-day-00139-2026-01-20.json": {
+      "sha256": "eaf720a2ec23ab58dc6836a7175a8c385a6c1e35c3932afa52f73cca0abd2ebc",
+      "size": 455
+    },
+    "data/json/dan-da-dan-210-swarm-day-00140-2026-01-21.json": {
+      "sha256": "d723c24edd24e16122c4cb23cb0196b15fe73f5461eac0d56856a70ac2bbd87f",
+      "size": 455
+    },
+    "data/json/dan-da-dan-210-swarm-day-00141-2026-01-22.json": {
+      "sha256": "2a831b20902118ba96e14cd81c9573409d0e24b9eda0d38e074459f6382c33ad",
+      "size": 455
+    },
+    "data/json/dan-da-dan-210-swarm-day-00142-2026-01-23.json": {
+      "sha256": "3d59b12c66c98ffe074bdbf0f285e9c9dd61e95fad369fb14ef2eaf078dfabbc",
+      "size": 455
+    },
+    "data/json/dan-da-dan-210-swarm-day-00143-2026-01-24.json": {
+      "sha256": "fdfd3cf58e5c6c754293e4eab4f3c4901ccb5ac95c4b4094f258b6987cc3f586",
+      "size": 455
+    },
+    "data/json/dan-da-dan-210-swarm-day-00144-2026-01-25.json": {
+      "sha256": "3d26ed22f38a7931c368ab41b47f20a785df31219a4312566fca96614e6fae5e",
+      "size": 455
+    },
+    "data/json/dan-da-dan-210-swarm-day-00145-2026-01-26.json": {
+      "sha256": "523a998dde50868dc949e57facbfae678f2aaacfd1318b3e7140cd387237e9a1",
+      "size": 455
+    },
+    "data/json/dan-da-dan-210-swarm-day-00146-2026-01-27.json": {
+      "sha256": "eda667d6250525729078592054db0dc02e6a10ab4a47c8b1742d5f68ecc31792",
+      "size": 455
+    },
+    "data/json/dan-da-dan-210-swarm-day-00147-2026-01-28.json": {
+      "sha256": "32553127d213e783acdb1aeaec4ea458f253c31bcc996e41979f411ba1cc9184",
+      "size": 455
+    },
+    "data/json/dan-da-dan-210-swarm-day-00148-2026-01-29.json": {
+      "sha256": "a6a5eac3768c85230e9e16614e32a28336b9c93fc236eab99c9d41b68b8fd56f",
+      "size": 455
+    },
+    "data/json/dan-da-dan-210-swarm-day-00149-2026-01-30.json": {
+      "sha256": "2623a2a674cb7dd697c843fbc53c89d5dc9507bb45e45c53a0013d4f3aa9fe5e",
+      "size": 455
+    },
+    "data/json/dan-da-dan-210-swarm-day-00150-2026-01-31.json": {
+      "sha256": "b7c77663ca1278a88f4de503567fcdc58dcf20c76bee369f9518c70aea5054ae",
+      "size": 455
+    },
+    "data/json/dan-da-dan-210-swarm-day-00151-2026-02-01.json": {
+      "sha256": "bdd7ef1dc1cc62c11ed95a62c36b6c1f352ea4e24efebfd1a9694c1a3b82e65f",
+      "size": 455
+    },
+    "data/json/dan-da-dan-210-swarm-day-00152-2026-02-02.json": {
+      "sha256": "8cb21c95194f11d1c544f79e3901bcaf985b03988d69b31e63ed7b86919a8f52",
+      "size": 455
+    },
+    "data/json/dan-da-dan-210-swarm-day-00153-2026-02-03.json": {
+      "sha256": "90ec51aa605ee2a1808d8b297465fe573491bec685a3031f6ef499d002a1e2cc",
+      "size": 455
+    },
+    "data/json/dan-da-dan-210-swarm-day-00154-2026-02-04.json": {
+      "sha256": "aa116b3541e06218f8aaa8bb883a03c246fcf09a8132f863e6fe0938baaf4e91",
+      "size": 455
+    },
+    "data/json/dan-da-dan-210-swarm-day-00155-2026-02-05.json": {
+      "sha256": "60d873bb3a6ce2be603f9812b7b1fff1e3d73a233ddaea0050e0956973b22ad8",
+      "size": 455
+    },
+    "data/json/dan-da-dan-210-swarm-day-00156-2026-02-06.json": {
+      "sha256": "b42f6c01bc087a1946a34383736217a89d03722a06cfc9b25012173480179bdc",
+      "size": 455
+    },
+    "data/json/dan-da-dan-210-swarm-day-00157-2026-02-07.json": {
+      "sha256": "b1de55e45e3bedd9ab3b1a579ce7aa4ef22b5737d27de87cc412b054be779b56",
+      "size": 455
+    },
+    "data/json/dan-da-dan-210-swarm-day-00158-2026-02-08.json": {
+      "sha256": "d10da1a02000877c02d1615d90fdf7e90c111fed6e6a63271b0f6824fafbb083",
+      "size": 455
+    },
+    "data/json/dan-da-dan-210-swarm-day-00159-2026-02-09.json": {
+      "sha256": "30754ee60c2bfff2b19137eae95604e4e1bcfd16cf31c49d0f07adb15291610f",
+      "size": 455
+    },
+    "data/json/dan-da-dan-210-swarm-day-00160-2026-02-10.json": {
+      "sha256": "e6f97f04183830a4b6f71e7460f9769a641f478b46c33a03cd3067846c533881",
+      "size": 455
+    },
+    "data/json/dan-da-dan-210-swarm-day-00161-2026-02-11.json": {
+      "sha256": "e20ad3b2f19b451c62981a075dacba82a1fd65f7903877af29d5e512e716bf76",
+      "size": 455
+    },
+    "data/json/dan-da-dan-210-swarm-day-00162-2026-02-12.json": {
+      "sha256": "2703e5362214271c3f8add7a21fa1bfc2bf0225b7ff5084b7fbaf29be0ccaea9",
+      "size": 455
+    },
+    "data/json/dan-da-dan-210-swarm-day-00163-2026-02-13.json": {
+      "sha256": "e9a36e1c9085416aab21736d837d376293bf8589045582ab9173357f8e482dab",
+      "size": 455
+    },
+    "data/json/dan-da-dan-210-swarm-day-00164-2026-02-14.json": {
+      "sha256": "75d503c687b7be0e8b4c9875a89ff00e4a24f46d74ac6fb0d8199639ea8f40bc",
+      "size": 455
+    },
+    "data/json/dan-da-dan-210-swarm-day-00165-2026-02-15.json": {
+      "sha256": "21a36f896d28a7ed0440f76c369df89e996d133f07a6aa1d377d57cf768c5f8a",
+      "size": 455
+    },
+    "data/json/dan-da-dan-210-swarm-day-00166-2026-02-16.json": {
+      "sha256": "c376c072f993a2e29afccf066fffff7982b1f751890098d4dbaed955554963f7",
+      "size": 455
+    },
+    "data/json/dan-da-dan-210-swarm-day-00167-2026-02-17.json": {
+      "sha256": "5f48e0af96db0a8f6398316c9f933daf4427f126248df098dfcf932c3b68b632",
+      "size": 455
+    },
+    "data/json/dan-da-dan-210-swarm-day-00168-2026-02-18.json": {
+      "sha256": "af1ece9d02a5b05254dc4ea70881dcab1c68f42aecd2fda9dafb90f80974279e",
+      "size": 455
+    },
+    "data/json/dan-da-dan-210-swarm-day-00169-2026-02-19.json": {
+      "sha256": "e0f636ecb5e75b03ff86d96cd410bd7d49d3eef137bfac8e1b710ab4669cf95f",
+      "size": 455
+    },
+    "data/json/dan-da-dan-210-swarm-day-00170-2026-02-20.json": {
+      "sha256": "0c709d8c2491050cc5dad1a45899f53ac7cdbb3f862fa91efca7ee9093fe615f",
+      "size": 455
+    },
+    "data/json/dan-da-dan-210-swarm-day-00171-2026-02-21.json": {
+      "sha256": "ab7d3451675709f505ae62cce992ce23298904239b68a01e231c441568ec2c8b",
+      "size": 455
+    },
+    "data/json/dan-da-dan-210-swarm-day-00172-2026-02-22.json": {
+      "sha256": "883519f76a9c4e126e3200d33000b81bd8a819a1f5d9b4324abaebec722cdf1f",
+      "size": 455
+    },
+    "data/json/dan-da-dan-210-swarm-day-00173-2026-02-23.json": {
+      "sha256": "a8695535907ff7f72a17f37c3838a195c22686fcbb4383f0ccbc5e2c0bfd0755",
+      "size": 455
+    },
+    "data/json/dan-da-dan-210-swarm-day-00174-2026-02-24.json": {
+      "sha256": "30a7911b509f7fc46a66693948be44cce1091a1a422d5c28a5992f4f1d3fb76f",
+      "size": 455
+    },
+    "data/json/dan-da-dan-210-swarm-day-00175-2026-02-25.json": {
+      "sha256": "623c0fc54ea704acd523a952e793ebb0acb7b54bcf8fdf2834683d1d647fe787",
+      "size": 455
+    },
+    "data/json/dan-da-dan-210-swarm-day-00176-2026-02-26.json": {
+      "sha256": "add1f39fa227e46cf58ab974f2647029d8d16d8597df8056bb090f08f32ae9e0",
+      "size": 455
+    },
+    "data/json/dan-da-dan-210-swarm-day-00177-2026-02-27.json": {
+      "sha256": "adab5b46d64bf4176fc1c6ebcc11b75fc54629b08ba48a6860bdbb95ca32a432",
+      "size": 455
+    },
+    "data/json/dan-da-dan-210-swarm-day-00178-2026-02-28.json": {
+      "sha256": "6c26e230a40224729a68ac20e76561858712dc1ac9af0549340daeaf9d200aeb",
+      "size": 455
+    },
+    "data/json/dan-da-dan-210-swarm-day-00179-2026-03-01.json": {
+      "sha256": "4f69950eeb863586c633bf3695235a3363bca57d0b3f013ed63e136be19fa827",
+      "size": 455
+    },
+    "data/json/dan-da-dan-210-swarm-day-00180-2026-03-02.json": {
+      "sha256": "d0c8154acad88b3166a87636ce7c64de8dac2cb67e8b895c5e122535d7a140b7",
+      "size": 455
+    },
+    "data/json/dan-da-dan-210-swarm-day-00181-2026-03-03.json": {
+      "sha256": "219deaca9ead4049cb0e0415460548fed1d7d49fc24da8bd6527094c75ce6441",
+      "size": 455
+    },
+    "data/json/dan-da-dan-210-swarm-day-00182-2026-03-04.json": {
+      "sha256": "e49a8ac51df1cda46f648834a63380998523be1842028c87555b67dbf455841c",
+      "size": 455
+    }
+  },
+  "schema": "alpha60-year-day-product-bundle/1",
+  "source_revisions": {
+    "aggregate_binary": {
+      "sha256": "80bdf6691c0ef6ed5fcc7fa3a6462748104e1935ce5b2a4df3861e11bb13195a",
+      "size": 38582648
+    },
+    "alpha60": "c3fc4c8a7866bee5f6d5f26160c56b2cffb05cb1",
+    "alpha60_data": "8faeae67a5d274d1fc00bffe9fc9318329163b20",
+    "day_product_contract": {
+      "sha256": "0aa0bee3ac14b512c786d3496ab5218a46aff11786ffa6aa9ea85e762fbd6370",
+      "size": 9897
+    },
+    "generate_cache_aggregates": {
+      "sha256": "504078e192d9c8182df74e41b98cec08123c5a8b7d0eb7f812d09c1fe5d07010",
+      "size": 17151
+    },
+    "metadata": "fbeb53a0b523f937fae2f23d14689d8c5c84dd5a",
+    "package_script": {
+      "sha256": "516d6ecdccd24b1b66cf80c185219fa47d52af22f672b836773896df621b1666",
+      "size": 14724
+    },
+    "year_day_contract": {
+      "sha256": "f1c07d6f2fdc19475a6f25ddaee5923957447a6f49a8009d8b4c9984a63bd883",
+      "size": 9356
+    }
+  },
+  "status": "pass"
+}
