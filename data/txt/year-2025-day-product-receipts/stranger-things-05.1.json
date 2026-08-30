@@ -1,0 +1,1788 @@
+{
+  "archive": {
+    "path": "/home/bkoz/src/alpha60-xperiments/year-2025-archives/stranger-things-05.1.cache/cache.20260603.tar.xz",
+    "sha256": "d36a9ebf75fc6b5b99d594345a8f9e8e43b9dc04dc8b62d7e43f63867e1b8f69",
+    "size": 5072249976
+  },
+  "authorization": {
+    "archive_mutated": false,
+    "excluded_member_classes": [
+      "hour",
+      "week",
+      "cumulative"
+    ],
+    "raw_samples_opened": false,
+    "scope": "read only streaming of per-torrent day records"
+  },
+  "collection_key": "stranger-things-05.1",
+  "day_cache_stream_contract": {
+    "authorization": {
+      "archive_mutated": false,
+      "excluded_member_classes": [
+        "hour",
+        "week",
+        "cumulative"
+      ],
+      "raw_samples_opened": false,
+      "scope": "read only streaming of per-torrent day records"
+    },
+    "available_day_products": 189,
+    "cache_members": 91326,
+    "collection_key": "stranger-things-05.1",
+    "first_date": "2025-11-27",
+    "first_index": 1,
+    "indices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144,
+      145,
+      146,
+      147,
+      148,
+      149,
+      150,
+      151,
+      152,
+      153,
+      154,
+      155,
+      156,
+      157,
+      158,
+      159,
+      160,
+      161,
+      162,
+      163,
+      164,
+      165,
+      166,
+      167,
+      168,
+      169,
+      170,
+      171,
+      172,
+      173,
+      174,
+      175,
+      176,
+      177,
+      178,
+      179,
+      180,
+      181,
+      182,
+      183,
+      184,
+      185,
+      186,
+      187,
+      188,
+      189
+    ],
+    "last_date": "2026-06-03",
+    "last_index": 189,
+    "missing_indices": [],
+    "sample_span_days": 189,
+    "schema": "alpha60-day-cache-stream-contract/1",
+    "sparse": false,
+    "status": "pass"
+  },
+  "day_product_contract": {
+    "collection_key": "stranger-things-05.1",
+    "day_products": 189,
+    "first_date": "2025-11-27",
+    "first_index": 1,
+    "geojson_data_version": "20260701",
+    "ip_geolocation_version": "6:1777968300",
+    "json_data_version": "2026-08-05",
+    "last_date": "2026-06-03",
+    "last_index": 189,
+    "schema": "alpha60-day-product-contract/1",
+    "sparse": false,
+    "status": "pass"
+  },
+  "publications": {
+    "data/geojson.day/stranger-things-05.1-day-00001.geojson.gz": {
+      "sha256": "660c6c9bed3b1c0393c1f00b85dca10f55b36b17cfdecba43afc675dd949a33f",
+      "size": 364422
+    },
+    "data/geojson.day/stranger-things-05.1-day-00002.geojson.gz": {
+      "sha256": "fa91c18cb07d1263cbf62c9c750ec0f54137a367d5db6890e961b36fe863d1da",
+      "size": 350390
+    },
+    "data/geojson.day/stranger-things-05.1-day-00003.geojson.gz": {
+      "sha256": "7977bb61b956936827d30af9a07271169608565c902871657a71b04ab7747bc7",
+      "size": 397324
+    },
+    "data/geojson.day/stranger-things-05.1-day-00004.geojson.gz": {
+      "sha256": "562fa2e188ee70b7d850112e01f1d1952c3c49f1a21fa7c558b7b3aab5c4d944",
+      "size": 425585
+    },
+    "data/geojson.day/stranger-things-05.1-day-00005.geojson.gz": {
+      "sha256": "bab5255f11e53dba4597b81e63a0c514242a03caffdf6f96c9ba06d7a6050ba9",
+      "size": 425016
+    },
+    "data/geojson.day/stranger-things-05.1-day-00006.geojson.gz": {
+      "sha256": "2e10a2db126819debfe29eb4b68f03699dede05d051a2821d45cdc5624497d70",
+      "size": 427647
+    },
+    "data/geojson.day/stranger-things-05.1-day-00007.geojson.gz": {
+      "sha256": "9671450877daff284c53df485b507dcf346c72a720c87643961a13255dd53b35",
+      "size": 422624
+    },
+    "data/geojson.day/stranger-things-05.1-day-00008.geojson.gz": {
+      "sha256": "14dfff07bd4e2100e1b03ce529627f665028ab26ffdbcd2548932259b2e1d4ea",
+      "size": 417720
+    },
+    "data/geojson.day/stranger-things-05.1-day-00009.geojson.gz": {
+      "sha256": "80976f96bcd999182795aac8305876cbe9d87f016e20d3d3ab2cd83ebd2ec7e8",
+      "size": 416264
+    },
+    "data/geojson.day/stranger-things-05.1-day-00010.geojson.gz": {
+      "sha256": "0026337afb8bbb65f6f7aca12b68a8611d8022936edce349e7c7ffd8a15ae191",
+      "size": 404442
+    },
+    "data/geojson.day/stranger-things-05.1-day-00011.geojson.gz": {
+      "sha256": "5e49def0ae529a8e3fe64effacf9e2536e52448eeb7c984ffb014506859c2354",
+      "size": 402426
+    },
+    "data/geojson.day/stranger-things-05.1-day-00012.geojson.gz": {
+      "sha256": "ccf5855a883d67c6f835b7a5f412104f83f6124826d892eb2e2e05530935d977",
+      "size": 420561
+    },
+    "data/geojson.day/stranger-things-05.1-day-00013.geojson.gz": {
+      "sha256": "b6f08e3a4c440d50d6febc6d42b025a185bec5242696b7cc46a980d377ed8760",
+      "size": 397626
+    },
+    "data/geojson.day/stranger-things-05.1-day-00014.geojson.gz": {
+      "sha256": "eab9b0faad98e62be462bcc25af38daf597446305d02bf46be87c7434989b58f",
+      "size": 387740
+    },
+    "data/geojson.day/stranger-things-05.1-day-00015.geojson.gz": {
+      "sha256": "ccea0d6ebc66ddef60d0ff1a5539d89c887dbd744dbb90f49efc88a14c117666",
+      "size": 378535
+    },
+    "data/geojson.day/stranger-things-05.1-day-00016.geojson.gz": {
+      "sha256": "eeeda93d98d92a1180ad72a76ca68adfe81012695cc723b874d87ef735a37262",
+      "size": 388012
+    },
+    "data/geojson.day/stranger-things-05.1-day-00017.geojson.gz": {
+      "sha256": "2e3a4eadfa49dcd2755481e0a22be2f68ee83af00b40f04b2eb777faec8f33de",
+      "size": 373064
+    },
+    "data/geojson.day/stranger-things-05.1-day-00018.geojson.gz": {
+      "sha256": "fc2ab0353ed947738e7bc48c5b4a1615ab0ddd24b3d1ed7bf01ec17143f2b624",
+      "size": 361974
+    },
+    "data/geojson.day/stranger-things-05.1-day-00019.geojson.gz": {
+      "sha256": "eb8c6d183a2972b8137fc447c9948a2c695d53b2de237d6a5b623bdffc786a3f",
+      "size": 401486
+    },
+    "data/geojson.day/stranger-things-05.1-day-00020.geojson.gz": {
+      "sha256": "b3f7427279d44139128f68cf78583800b630fb812012e7b42e056208308c2110",
+      "size": 393617
+    },
+    "data/geojson.day/stranger-things-05.1-day-00021.geojson.gz": {
+      "sha256": "ef85c403aa962797df072df1c2d3c4079428a4f6d8709dd4968b099bb751250d",
+      "size": 390779
+    },
+    "data/geojson.day/stranger-things-05.1-day-00022.geojson.gz": {
+      "sha256": "373353a635b4e7d7724e2776e11a91f93b160abc29f397998f66c767eb2a1cf0",
+      "size": 384884
+    },
+    "data/geojson.day/stranger-things-05.1-day-00023.geojson.gz": {
+      "sha256": "b1c02e375b2106125e79889c149862ba222d662aba5057f1a6ba53bed6fb1aab",
+      "size": 348668
+    },
+    "data/geojson.day/stranger-things-05.1-day-00024.geojson.gz": {
+      "sha256": "13d62125450400bb3b6018b23dbf936206651382e9af557fe48db94d6f9491bc",
+      "size": 370136
+    },
+    "data/geojson.day/stranger-things-05.1-day-00025.geojson.gz": {
+      "sha256": "1f46a49d973d3bc1ef10aadb4395f30bfb4dffca7ca19be5c19a864bb71e1dbb",
+      "size": 384922
+    },
+    "data/geojson.day/stranger-things-05.1-day-00026.geojson.gz": {
+      "sha256": "130eb0b5a1f2f97b9a29b0b33da9dd181a3c535116f8b78fdf1703195eb55694",
+      "size": 347490
+    },
+    "data/geojson.day/stranger-things-05.1-day-00027.geojson.gz": {
+      "sha256": "1b965c673317a056713cb7ffc60910c3555a5e93a5fca2207dd0243134d99bcc",
+      "size": 294529
+    },
+    "data/geojson.day/stranger-things-05.1-day-00028.geojson.gz": {
+      "sha256": "ec2374d704e544526a9956631ca2cf03ed75c3c714cff023b53da4dfc0466994",
+      "size": 374306
+    },
+    "data/geojson.day/stranger-things-05.1-day-00029.geojson.gz": {
+      "sha256": "137865e3c06616e75ef15af9ed762136206fe1d47adf1094246fbed40db403ed",
+      "size": 247316
+    },
+    "data/geojson.day/stranger-things-05.1-day-00030.geojson.gz": {
+      "sha256": "316d4edf2e5e8cb7bc0b411178de21f292e421caaed6e1c7203b1973b2c9c780",
+      "size": 405634
+    },
+    "data/geojson.day/stranger-things-05.1-day-00031.geojson.gz": {
+      "sha256": "a527d41e4ca3c732422f4445d3eca7960312abdbeab5963c9e6c04bc8d2de965",
+      "size": 392962
+    },
+    "data/geojson.day/stranger-things-05.1-day-00032.geojson.gz": {
+      "sha256": "5666bad76a1ccf2c5b1b067d96c85229f9ccc79b5e2a4ab7e26abe81c8184ba6",
+      "size": 371977
+    },
+    "data/geojson.day/stranger-things-05.1-day-00033.geojson.gz": {
+      "sha256": "27e53a931fc69a8a01841ffb252d07d8ff35e961258da2ec8daf8b1e5f1cb9d8",
+      "size": 366607
+    },
+    "data/geojson.day/stranger-things-05.1-day-00034.geojson.gz": {
+      "sha256": "1d75c0d2756051ca34b44b1596d9c0ab38dfce959f09c541a6b862f1a25776b8",
+      "size": 354267
+    },
+    "data/geojson.day/stranger-things-05.1-day-00035.geojson.gz": {
+      "sha256": "933536521209f140d35cead3bfd1ed1d6c0e15000e3ff131cc9550845f631a4a",
+      "size": 397419
+    },
+    "data/geojson.day/stranger-things-05.1-day-00036.geojson.gz": {
+      "sha256": "49edff95a22aba42a0bc17b36b556e31cba3dfa5d277c8d73250ea67bb78bf43",
+      "size": 407785
+    },
+    "data/geojson.day/stranger-things-05.1-day-00037.geojson.gz": {
+      "sha256": "832d408536d04387d953d4046faf358cf5579c22c9cc12a82f561a981e8ac366",
+      "size": 422768
+    },
+    "data/geojson.day/stranger-things-05.1-day-00038.geojson.gz": {
+      "sha256": "73e39feee87293ab71582ea6d563494b245acb42f4cd1b9b00eb26673650ba38",
+      "size": 389073
+    },
+    "data/geojson.day/stranger-things-05.1-day-00039.geojson.gz": {
+      "sha256": "a7aa5699ad7cba5f4c585297d5c2bfae6cf13af2007f5934f0bf3b9cdfc48219",
+      "size": 380471
+    },
+    "data/geojson.day/stranger-things-05.1-day-00040.geojson.gz": {
+      "sha256": "48b74ad91cd16775791148b37688b1b898f23cb7ca62534267576e9239a0d33e",
+      "size": 388355
+    },
+    "data/geojson.day/stranger-things-05.1-day-00041.geojson.gz": {
+      "sha256": "1a4ae15b464b94c38d70c350ff1d8a451053b729d3e4ae70583f4a1f7896734e",
+      "size": 368560
+    },
+    "data/geojson.day/stranger-things-05.1-day-00042.geojson.gz": {
+      "sha256": "47e4cb5c5e4995eecf5ede1b4c45ffc4ac7cbd1ab5b2053f9c6af1af4fe5f947",
+      "size": 393697
+    },
+    "data/geojson.day/stranger-things-05.1-day-00043.geojson.gz": {
+      "sha256": "1197d0ede724fc0acaa43ffc8f234f0083837ab12eaf3f1cdef3da12b1a5f4bd",
+      "size": 395928
+    },
+    "data/geojson.day/stranger-things-05.1-day-00044.geojson.gz": {
+      "sha256": "7796771a565f3755b403220c08db4873d8090b65b65892c3b62d3741e4e30367",
+      "size": 382847
+    },
+    "data/geojson.day/stranger-things-05.1-day-00045.geojson.gz": {
+      "sha256": "a1a630d8e0208b2fdcd2214ef526c3e57b6ff038f4bd19b7de9460f5c12de33c",
+      "size": 359112
+    },
+    "data/geojson.day/stranger-things-05.1-day-00046.geojson.gz": {
+      "sha256": "d76a5b51cca9a2c003213aced567dc0b5f9afb1cead451d8f9c0114845c360cb",
+      "size": 365354
+    },
+    "data/geojson.day/stranger-things-05.1-day-00047.geojson.gz": {
+      "sha256": "d6d4070bb6d9d9c944f9b00a102f4db155f5e6900ea5e2f6f78be624242d6937",
+      "size": 352653
+    },
+    "data/geojson.day/stranger-things-05.1-day-00048.geojson.gz": {
+      "sha256": "006a5a26ad700b59ab1635918504e49335f8f0ef78d238227a621db1d360f813",
+      "size": 368772
+    },
+    "data/geojson.day/stranger-things-05.1-day-00049.geojson.gz": {
+      "sha256": "144e44aa356e84eef917b100e0d6d60012d5df5ae6d393cc5956f563ca93303e",
+      "size": 364105
+    },
+    "data/geojson.day/stranger-things-05.1-day-00050.geojson.gz": {
+      "sha256": "88ca43243d6e8bf8c30022264cce1929c309369197e61ddde53debb2d240d336",
+      "size": 355015
+    },
+    "data/geojson.day/stranger-things-05.1-day-00051.geojson.gz": {
+      "sha256": "73ff5e55173594ca214f7db54f9063b7a61926e3487ed28cc7fecb4fa778f71b",
+      "size": 358401
+    },
+    "data/geojson.day/stranger-things-05.1-day-00052.geojson.gz": {
+      "sha256": "639dae0f06d190378fcd6d209a11ae3beb2d3f303857862dfd4cdc83160dac6f",
+      "size": 350651
+    },
+    "data/geojson.day/stranger-things-05.1-day-00053.geojson.gz": {
+      "sha256": "4f1e0797d97e74a7bb52c0a158cd5bd6a96d911a712cdec2d68828d0e0d86e32",
+      "size": 341158
+    },
+    "data/geojson.day/stranger-things-05.1-day-00054.geojson.gz": {
+      "sha256": "006732ca7dc6f3f9e342137dfa1272a61cafed861ea3394ae186ada98d1855fe",
+      "size": 354636
+    },
+    "data/geojson.day/stranger-things-05.1-day-00055.geojson.gz": {
+      "sha256": "22c9bd078e51afeff040c751f7f628be3262ba7723fd543569cc9f54a460e6ee",
+      "size": 354211
+    },
+    "data/geojson.day/stranger-things-05.1-day-00056.geojson.gz": {
+      "sha256": "17c8c2a8bb4563ab75f74d0db5d88508ebab069a37cd18b551b2c39f982744b1",
+      "size": 346566
+    },
+    "data/geojson.day/stranger-things-05.1-day-00057.geojson.gz": {
+      "sha256": "6e84697183defe8e2fb994b32f37a2f142fc3520f69fb2fd2acc68210aac01b8",
+      "size": 353618
+    },
+    "data/geojson.day/stranger-things-05.1-day-00058.geojson.gz": {
+      "sha256": "fc9645b7c257f9e681413d0fa6e763f96485c091ef5e7553341c01c812eaa75c",
+      "size": 351923
+    },
+    "data/geojson.day/stranger-things-05.1-day-00059.geojson.gz": {
+      "sha256": "c226079f7319f2b286e74936e2dbfc13ed6814b34f2c0be8bbcae1d3ce415993",
+      "size": 326555
+    },
+    "data/geojson.day/stranger-things-05.1-day-00060.geojson.gz": {
+      "sha256": "6034c760a210ad989921deb86c07bb59ebfd48f71a6cffb14e125a914ae29d96",
+      "size": 346722
+    },
+    "data/geojson.day/stranger-things-05.1-day-00061.geojson.gz": {
+      "sha256": "18c7661552e7b9e3c91ed52843d3b33869acad5dc817bd0fe4f8c9157fed2532",
+      "size": 347732
+    },
+    "data/geojson.day/stranger-things-05.1-day-00062.geojson.gz": {
+      "sha256": "719da725dbc22393e3c12c8a3696d962e276fc795191bc0167a9e5630899e7f0",
+      "size": 343089
+    },
+    "data/geojson.day/stranger-things-05.1-day-00063.geojson.gz": {
+      "sha256": "69694c47ef90a77f2d9122063d93bc682722614cd8e4f14211f5ff4a3216c05f",
+      "size": 329269
+    },
+    "data/geojson.day/stranger-things-05.1-day-00064.geojson.gz": {
+      "sha256": "a33d156262cf3b9be23df87f2b32c2084c9cea71137798f4f2c0147cefedc8d3",
+      "size": 329133
+    },
+    "data/geojson.day/stranger-things-05.1-day-00065.geojson.gz": {
+      "sha256": "d12f61c887eb371c0e4c98766473c29f9b8aebc21470a0b7fb297bcac3ad8656",
+      "size": 344922
+    },
+    "data/geojson.day/stranger-things-05.1-day-00066.geojson.gz": {
+      "sha256": "9f9f2ff42c29e64b145b36e0fb0c92cf6ee09bf0e2eaf826d94d054f4f981572",
+      "size": 326642
+    },
+    "data/geojson.day/stranger-things-05.1-day-00067.geojson.gz": {
+      "sha256": "e7c1b4f343332c15a8b94b5cd3bd41aa89eacbaafb0f25a697532aa15d7b1295",
+      "size": 331358
+    },
+    "data/geojson.day/stranger-things-05.1-day-00068.geojson.gz": {
+      "sha256": "970567b4423cd4eedf56af9ab9870fc1d83da5aba72e6b641849568dce7b1c45",
+      "size": 347722
+    },
+    "data/geojson.day/stranger-things-05.1-day-00069.geojson.gz": {
+      "sha256": "1d0692ef2d130b34f9a384d564cc17a05542ddaedfe508b192ade601e1c8515d",
+      "size": 347254
+    },
+    "data/geojson.day/stranger-things-05.1-day-00070.geojson.gz": {
+      "sha256": "51435775ebf96e249976274c1d8269093aa8f144817eaa094236004fd027ed50",
+      "size": 347226
+    },
+    "data/geojson.day/stranger-things-05.1-day-00071.geojson.gz": {
+      "sha256": "75f4c788ab0597f10e4bfa3b0f8af8ed67054ccbdf72a19f83a95bb617a0ea8d",
+      "size": 334701
+    },
+    "data/geojson.day/stranger-things-05.1-day-00072.geojson.gz": {
+      "sha256": "f566762dcd774009a7a41f0687f379a8f4353b206c95a85db5a4363809b35d85",
+      "size": 389152
+    },
+    "data/geojson.day/stranger-things-05.1-day-00073.geojson.gz": {
+      "sha256": "140cc8ffc23e2cb1ef5861a6298643f62c63841253cccfa293f4cdfe893b1928",
+      "size": 338883
+    },
+    "data/geojson.day/stranger-things-05.1-day-00074.geojson.gz": {
+      "sha256": "c17aae3c8ffad44257361bd0844813da65155dd93b4988ec564030aec04444c9",
+      "size": 319857
+    },
+    "data/geojson.day/stranger-things-05.1-day-00075.geojson.gz": {
+      "sha256": "c87b82d63e3162190f42fde47913222308ae9612b7215207607c2b73b49737f9",
+      "size": 341170
+    },
+    "data/geojson.day/stranger-things-05.1-day-00076.geojson.gz": {
+      "sha256": "d97e06f7742849a8e16c34ad0b9a704b6ff41ebca03d9c8f68c12394f3d7e374",
+      "size": 334237
+    },
+    "data/geojson.day/stranger-things-05.1-day-00077.geojson.gz": {
+      "sha256": "4e30ce04177d41670de66744e6a27279f25f274934963d0dae9e9f9965e25a1b",
+      "size": 341174
+    },
+    "data/geojson.day/stranger-things-05.1-day-00078.geojson.gz": {
+      "sha256": "a00c04715c56b1758ee153f18fa97d162a3f56c8e09c1c1dea84463da2b3d0e9",
+      "size": 345833
+    },
+    "data/geojson.day/stranger-things-05.1-day-00079.geojson.gz": {
+      "sha256": "fcfd7babd7054f623090e2581401850e0b1b729bb9503427dad943634ddbfcd5",
+      "size": 343100
+    },
+    "data/geojson.day/stranger-things-05.1-day-00080.geojson.gz": {
+      "sha256": "a23476ceafdd0db13029a8d0271019740c47ed5f9475f1768ce67117bcb338df",
+      "size": 338081
+    },
+    "data/geojson.day/stranger-things-05.1-day-00081.geojson.gz": {
+      "sha256": "dce9b7c70d829a46faa6229b6b47f60c29f0e2be8ba9ab1ed1cac5fdb93b80e9",
+      "size": 346033
+    },
+    "data/geojson.day/stranger-things-05.1-day-00082.geojson.gz": {
+      "sha256": "7d443612a8da144a2074a98eebeb5b14ae0261535fb588842362d86d508b1809",
+      "size": 346912
+    },
+    "data/geojson.day/stranger-things-05.1-day-00083.geojson.gz": {
+      "sha256": "94d58326c1ac46c87d15ea0842cce9bfe12660b4af0583ab050d704c696a6fdf",
+      "size": 328805
+    },
+    "data/geojson.day/stranger-things-05.1-day-00084.geojson.gz": {
+      "sha256": "10514d8e426bb196d0bd56067daeba2b9969434cd2346109c196d498524bca49",
+      "size": 320692
+    },
+    "data/geojson.day/stranger-things-05.1-day-00085.geojson.gz": {
+      "sha256": "e6a3bd3a0158794f5d34aaf6fd65d3f3c25d654de067f8c50bf2e36d64217ec4",
+      "size": 328824
+    },
+    "data/geojson.day/stranger-things-05.1-day-00086.geojson.gz": {
+      "sha256": "523be209353de44183c330be80493c87de5c8f6e48d6426e1cf786d8b6d6fd90",
+      "size": 335193
+    },
+    "data/geojson.day/stranger-things-05.1-day-00087.geojson.gz": {
+      "sha256": "c41ff4e7c91eb02b6057d22861258639cfe886ab533986b6958bec9f5ab811e5",
+      "size": 334756
+    },
+    "data/geojson.day/stranger-things-05.1-day-00088.geojson.gz": {
+      "sha256": "91ee1ac6382df65f6075dda69ca11236aedc3c6ed5a9e0ae9c8de94aa8e6af5d",
+      "size": 329253
+    },
+    "data/geojson.day/stranger-things-05.1-day-00089.geojson.gz": {
+      "sha256": "da68ea64b799d197fa7e11d800b5264aa8de03dad99c1bc5d9ffacfea5fdde57",
+      "size": 338155
+    },
+    "data/geojson.day/stranger-things-05.1-day-00090.geojson.gz": {
+      "sha256": "bf3b56a157792ec3de341a1c38d91bdab139ccc4a7add8741e4a31117cf6ac21",
+      "size": 336230
+    },
+    "data/geojson.day/stranger-things-05.1-day-00091.geojson.gz": {
+      "sha256": "29a791504d0fb4765d4efebcd1775821869c9cae9dffd6a9e12d0fd130fadca5",
+      "size": 318537
+    },
+    "data/geojson.day/stranger-things-05.1-day-00092.geojson.gz": {
+      "sha256": "8aa8c1a4f1b8aa2df7109b980a01290ffa9dfa06392f705b5b4ffa107784cd9c",
+      "size": 427356
+    },
+    "data/geojson.day/stranger-things-05.1-day-00093.geojson.gz": {
+      "sha256": "2b6a0879e34d5229c606848b0a919951173225cf1a19d0bddf283787977d981e",
+      "size": 302449
+    },
+    "data/geojson.day/stranger-things-05.1-day-00094.geojson.gz": {
+      "sha256": "50878fa7fa7f53fa7b1525da15d58375fa5eb26ce8ad7cbd563b1aa1392a0039",
+      "size": 302156
+    },
+    "data/geojson.day/stranger-things-05.1-day-00095.geojson.gz": {
+      "sha256": "d98487a12f6a30f85bdeabab542de6226688528b9b37c3c456d8a7091387efb2",
+      "size": 298843
+    },
+    "data/geojson.day/stranger-things-05.1-day-00096.geojson.gz": {
+      "sha256": "7daf48555cd532582b10d6b633edb85d9c64f764f9bf1f40520023b34a774bf7",
+      "size": 134773
+    },
+    "data/geojson.day/stranger-things-05.1-day-00097.geojson.gz": {
+      "sha256": "f9a180c530e0273261e5704aa57f24175e6ecb94aaaa4d3b52eff4f191ef8c27",
+      "size": 101149
+    },
+    "data/geojson.day/stranger-things-05.1-day-00098.geojson.gz": {
+      "sha256": "658fcc3ee15a4b3c501e8f429b294d5467812f9fbabcd565edcc4954e281f624",
+      "size": 315932
+    },
+    "data/geojson.day/stranger-things-05.1-day-00099.geojson.gz": {
+      "sha256": "32ab622996750078d3457720b88571cabe69e3e3549fc11ff0fbf66f6a155a8c",
+      "size": 318453
+    },
+    "data/geojson.day/stranger-things-05.1-day-00100.geojson.gz": {
+      "sha256": "acbabf6ea184d88f031681047b56c8d4163baae354d2d7025821af921dacd9aa",
+      "size": 303094
+    },
+    "data/geojson.day/stranger-things-05.1-day-00101.geojson.gz": {
+      "sha256": "d79397db7f24755221d7c5d15c1a2df28a82cb148b89abc20ee56b400873da3f",
+      "size": 282636
+    },
+    "data/geojson.day/stranger-things-05.1-day-00102.geojson.gz": {
+      "sha256": "b5f5e675dea712a387a099a6f150ec5573a681d7046e081c5ad91779908b2ec3",
+      "size": 270564
+    },
+    "data/geojson.day/stranger-things-05.1-day-00103.geojson.gz": {
+      "sha256": "d612192c6b4d6e4e44f5ac73dd3cae0395d2e60c2a121ae9cc827ac3b033714c",
+      "size": 316657
+    },
+    "data/geojson.day/stranger-things-05.1-day-00104.geojson.gz": {
+      "sha256": "6ab6dd6aa12f6750b92e902b049da299cfd3fbba998268463f77e7a028c80a50",
+      "size": 310011
+    },
+    "data/geojson.day/stranger-things-05.1-day-00105.geojson.gz": {
+      "sha256": "841f2ec7ac640dee8485ff32bd05b4dc2ed8b662b0dfda635777228f1f0752c5",
+      "size": 315275
+    },
+    "data/geojson.day/stranger-things-05.1-day-00106.geojson.gz": {
+      "sha256": "ed8f8b7c0a31b778a7a81b892578eb918714536fb6866555434cda0a2afeefbe",
+      "size": 312660
+    },
+    "data/geojson.day/stranger-things-05.1-day-00107.geojson.gz": {
+      "sha256": "9a524dd13dcbdedd5bb7c88fa6f939c11271354c83e238b6de054be85320e4c4",
+      "size": 309212
+    },
+    "data/geojson.day/stranger-things-05.1-day-00108.geojson.gz": {
+      "sha256": "5545dcee2e621be43041061a577cb202e3a6d38727b226aace989aba5bb52719",
+      "size": 283493
+    },
+    "data/geojson.day/stranger-things-05.1-day-00109.geojson.gz": {
+      "sha256": "4dee2f973191e0ea693d3d60bdc27792111f29b1e55932c3d618fbfa4e1fe157",
+      "size": 296297
+    },
+    "data/geojson.day/stranger-things-05.1-day-00110.geojson.gz": {
+      "sha256": "790d828603fa93b3db06a70f134a5e17e7c6f4d76a2a6eb4dbdab731f93c4cd7",
+      "size": 296289
+    },
+    "data/geojson.day/stranger-things-05.1-day-00111.geojson.gz": {
+      "sha256": "d7579a8dd7f139da32aa46f605766dd1310e39c5b35f47b3c29e4d47a2417660",
+      "size": 289374
+    },
+    "data/geojson.day/stranger-things-05.1-day-00112.geojson.gz": {
+      "sha256": "8610b6781e1c89c76cd3e58b57e4bd0bb4bab16ad706c2c4c9da045c86e73b9f",
+      "size": 301305
+    },
+    "data/geojson.day/stranger-things-05.1-day-00113.geojson.gz": {
+      "sha256": "c35e9c227fe7932563641d9ec9f4a721bd3adf495e05c0ecb1500f5c6dd74423",
+      "size": 312550
+    },
+    "data/geojson.day/stranger-things-05.1-day-00114.geojson.gz": {
+      "sha256": "4e8228888083e8c36b2d1438e8425c418d87bdc146ca541c430244dfa6a8d3a5",
+      "size": 313730
+    },
+    "data/geojson.day/stranger-things-05.1-day-00115.geojson.gz": {
+      "sha256": "e7d38bbdd749cfc6dab01d3a733119846b66a3bca444d5be50cc89a099eecb33",
+      "size": 292883
+    },
+    "data/geojson.day/stranger-things-05.1-day-00116.geojson.gz": {
+      "sha256": "c46066fd1653b1eb6c898d74be34b637a3917a09f340ebf501c88ddb42ff3313",
+      "size": 294947
+    },
+    "data/geojson.day/stranger-things-05.1-day-00117.geojson.gz": {
+      "sha256": "262908e9c275c44439bb9598aacc445c78cc0ac3ea42036b047a1b7b7cd3bc27",
+      "size": 300208
+    },
+    "data/geojson.day/stranger-things-05.1-day-00118.geojson.gz": {
+      "sha256": "48b519187909f4f68986cb600b6e127af4a27dc4e9812bd3e66b413b56266c92",
+      "size": 305803
+    },
+    "data/geojson.day/stranger-things-05.1-day-00119.geojson.gz": {
+      "sha256": "e594dbc19799dc1dc320ce3734f9c4aa4c6b8f67fe378306c5194859f98f1999",
+      "size": 321714
+    },
+    "data/geojson.day/stranger-things-05.1-day-00120.geojson.gz": {
+      "sha256": "f036a84b50c00f71ab54cbbc3d137295eb15933ee2b3abf9f3736aa226d0a9aa",
+      "size": 318143
+    },
+    "data/geojson.day/stranger-things-05.1-day-00121.geojson.gz": {
+      "sha256": "57751d0ceda5f2a659e0e0d4d9c4d0dfb1d49717eec1220cd2abe5a75a604e88",
+      "size": 311815
+    },
+    "data/geojson.day/stranger-things-05.1-day-00122.geojson.gz": {
+      "sha256": "5ffe0ba5bdfff54a3cd24065f6dad61cfa68cd89399eccc4fe8f80ef2ed71bdf",
+      "size": 293558
+    },
+    "data/geojson.day/stranger-things-05.1-day-00123.geojson.gz": {
+      "sha256": "e4ac7bec6d5b1fd8a81e759d885b947bfd4a905638d1f4f4f409ec81cc5575a8",
+      "size": 282696
+    },
+    "data/geojson.day/stranger-things-05.1-day-00124.geojson.gz": {
+      "sha256": "855c70c661da63df854a33e387084de4208e3058a470b51547573bb7ff6b9795",
+      "size": 298314
+    },
+    "data/geojson.day/stranger-things-05.1-day-00125.geojson.gz": {
+      "sha256": "f1ee5b56375072f9fcc5697594bda55e3306c001da4f5c562b2d67214ee399fa",
+      "size": 303450
+    },
+    "data/geojson.day/stranger-things-05.1-day-00126.geojson.gz": {
+      "sha256": "08a612b078a0919052ea7a5b126dd9b7d8ac6e1bd9376622ee80791d849d1f1c",
+      "size": 306517
+    },
+    "data/geojson.day/stranger-things-05.1-day-00127.geojson.gz": {
+      "sha256": "acb0661e624a0033976b2a409c03755db67420ce8eb610b4d21c736d5d344aed",
+      "size": 304065
+    },
+    "data/geojson.day/stranger-things-05.1-day-00128.geojson.gz": {
+      "sha256": "571d52f38cd35dcaca2c65fc5b72dde7f09b1b64e08ed621b1b44477e35055a4",
+      "size": 356015
+    },
+    "data/geojson.day/stranger-things-05.1-day-00129.geojson.gz": {
+      "sha256": "8e7b5ee3b19d1176c7500e9242be71b9d5d4aad9fad18d79f572a8fde265c2a7",
+      "size": 306380
+    },
+    "data/geojson.day/stranger-things-05.1-day-00130.geojson.gz": {
+      "sha256": "b15a104f1f3bd989872dbe64d56b3c79279365a9273132a4e88c98fd9e39899f",
+      "size": 297045
+    },
+    "data/geojson.day/stranger-things-05.1-day-00131.geojson.gz": {
+      "sha256": "0ea530256ce2fef08ea1d3de5370d8aa866f542a4d9ec3d2c9cfddfa8490aa45",
+      "size": 301168
+    },
+    "data/geojson.day/stranger-things-05.1-day-00132.geojson.gz": {
+      "sha256": "2b55e796920e6c2f93242f91c50fe19b0595bfc3943e7e90ea2aee734e1184d6",
+      "size": 303764
+    },
+    "data/geojson.day/stranger-things-05.1-day-00133.geojson.gz": {
+      "sha256": "05c048616ee172c9a4ac649f341aad292a4d923e67969dd1dfc6ccf6349c95a3",
+      "size": 307103
+    },
+    "data/geojson.day/stranger-things-05.1-day-00134.geojson.gz": {
+      "sha256": "3f71d61b942c20c44efb6a19b08f3e48556d4a5e9394128a0cc255164e0960c8",
+      "size": 304892
+    },
+    "data/geojson.day/stranger-things-05.1-day-00135.geojson.gz": {
+      "sha256": "9e88527110148150ad260f93cc0574cafeb5e91058d883ea4816a7ca5d94b8b8",
+      "size": 319577
+    },
+    "data/geojson.day/stranger-things-05.1-day-00136.geojson.gz": {
+      "sha256": "3b1073609e2e159ed051488d0cd9efa142bc10dd1b71d85bf2305ff9d4aaf6ee",
+      "size": 304982
+    },
+    "data/geojson.day/stranger-things-05.1-day-00137.geojson.gz": {
+      "sha256": "7038c5726c4709ebe0b8fe33723038ec53425c931a341a1d88d46040d53c85ea",
+      "size": 288160
+    },
+    "data/geojson.day/stranger-things-05.1-day-00138.geojson.gz": {
+      "sha256": "2bdf0dff856ecc47f217f67dbe51257b3708bd2be412e53dbdbd8c85d23c172d",
+      "size": 313289
+    },
+    "data/geojson.day/stranger-things-05.1-day-00139.geojson.gz": {
+      "sha256": "28e17153cfdf6b71badd6c7a49eff30cf5538b5ac500674fead8b09e2dee8c44",
+      "size": 316052
+    },
+    "data/geojson.day/stranger-things-05.1-day-00140.geojson.gz": {
+      "sha256": "2cc168edee029b47de2d85e196d59adb9c3c1e1a80747ddd4f530a1fedf462d7",
+      "size": 317373
+    },
+    "data/geojson.day/stranger-things-05.1-day-00141.geojson.gz": {
+      "sha256": "00bd950e3599949463c5aa4dfac762cf77fd904edd019019322bb904eb2dd55d",
+      "size": 317169
+    },
+    "data/geojson.day/stranger-things-05.1-day-00142.geojson.gz": {
+      "sha256": "5cd5a07ab65288450607d4e47ea16c062e39900cde078bd284cd2ee418c24a0c",
+      "size": 314392
+    },
+    "data/geojson.day/stranger-things-05.1-day-00143.geojson.gz": {
+      "sha256": "4e327ac4b232cf3a4e85a309b053ca15a056bfcd2048b09d79ca5ae119761da0",
+      "size": 307591
+    },
+    "data/geojson.day/stranger-things-05.1-day-00144.geojson.gz": {
+      "sha256": "aab49e09a3840517c50c6bd78dd7a898873f3aeb43c2d0be656308c8d00fe6c4",
+      "size": 311587
+    },
+    "data/geojson.day/stranger-things-05.1-day-00145.geojson.gz": {
+      "sha256": "f0bec3d28dd57fb23911c4edc8a6b6ca87a4a0531f56404e78537522b688e67d",
+      "size": 310838
+    },
+    "data/geojson.day/stranger-things-05.1-day-00146.geojson.gz": {
+      "sha256": "a40e1eecebf8b104ad3bd63529de23053f2a4899226cb2e9fa79ea4f8cfa72fb",
+      "size": 312334
+    },
+    "data/geojson.day/stranger-things-05.1-day-00147.geojson.gz": {
+      "sha256": "43a1247c675dde4a410d75469117e8342350cb8fa261fdbd8a9154b0c67c0504",
+      "size": 313471
+    },
+    "data/geojson.day/stranger-things-05.1-day-00148.geojson.gz": {
+      "sha256": "81092d462cad0f15a5fad27b131811002eb29ecbc04c7079aadc7022fa8380ee",
+      "size": 312458
+    },
+    "data/geojson.day/stranger-things-05.1-day-00149.geojson.gz": {
+      "sha256": "960ac2da82e3fbbfefc50aaa677a1772c88bbe3c2a25b0ef749fae06bd56c306",
+      "size": 304804
+    },
+    "data/geojson.day/stranger-things-05.1-day-00150.geojson.gz": {
+      "sha256": "f2ae595c2479d58f951fc52525eb29765502d14a4a4f86a20c8136814a6a7cb2",
+      "size": 292820
+    },
+    "data/geojson.day/stranger-things-05.1-day-00151.geojson.gz": {
+      "sha256": "f34bea5eae09cb1a2c1dba71c4d509a99069bacf6c547307ec0ae118e9c5dce1",
+      "size": 296868
+    },
+    "data/geojson.day/stranger-things-05.1-day-00152.geojson.gz": {
+      "sha256": "c7f5624d9f0f37e1323f7dae8a70cf7442a74eba9c0ef637267b2b7e42acada2",
+      "size": 289910
+    },
+    "data/geojson.day/stranger-things-05.1-day-00153.geojson.gz": {
+      "sha256": "317d3a9b7f08cfccfc7fcb7380c57811fd107b55ff682d7942bc9c8dc1fc07cd",
+      "size": 294438
+    },
+    "data/geojson.day/stranger-things-05.1-day-00154.geojson.gz": {
+      "sha256": "4509823b3d801f72d8a294500a04308bb61ade3af531e4a56fd4ea03fa59d709",
+      "size": 296100
+    },
+    "data/geojson.day/stranger-things-05.1-day-00155.geojson.gz": {
+      "sha256": "3b254166be1c4ae86abd8b1d38765b0706e73f201d012da91ac6a788f0a6de7d",
+      "size": 302520
+    },
+    "data/geojson.day/stranger-things-05.1-day-00156.geojson.gz": {
+      "sha256": "f4ade504cda9a5fae765a3c6837ffe43390f98beeaf41b68f592172008f81e92",
+      "size": 295361
+    },
+    "data/geojson.day/stranger-things-05.1-day-00157.geojson.gz": {
+      "sha256": "95155d9fc4cf00b70a477c0f87f1c7300e0885d69f3ff1d7064be6e62c31575a",
+      "size": 297909
+    },
+    "data/geojson.day/stranger-things-05.1-day-00158.geojson.gz": {
+      "sha256": "8c3ffc8584a813bde144b8f8d520017788f2ff3af337115856a9494a99010565",
+      "size": 291622
+    },
+    "data/geojson.day/stranger-things-05.1-day-00159.geojson.gz": {
+      "sha256": "c4b6ea7c3dee46a490fe01010c86e41fd0f4accd7828bdb4dc1f19444eaf9445",
+      "size": 290280
+    },
+    "data/geojson.day/stranger-things-05.1-day-00160.geojson.gz": {
+      "sha256": "baab2e51b94973dba6f5157db764f35fc7292c8327a1ab8c7f51bcd0bbf09726",
+      "size": 280865
+    },
+    "data/geojson.day/stranger-things-05.1-day-00161.geojson.gz": {
+      "sha256": "3a7b643589a40bb026325af41503305512374d57734138a57f86d4847928e37d",
+      "size": 287774
+    },
+    "data/geojson.day/stranger-things-05.1-day-00162.geojson.gz": {
+      "sha256": "cbb3a00f8b7139b065b605ad78240a90baeb5c63417252daec8f06df847a9f08",
+      "size": 292628
+    },
+    "data/geojson.day/stranger-things-05.1-day-00163.geojson.gz": {
+      "sha256": "45bd4fb6dc70b95be6bb1d3f813b520cdb9f32e2702f6d0983d2f38ba0eb48c5",
+      "size": 295941
+    },
+    "data/geojson.day/stranger-things-05.1-day-00164.geojson.gz": {
+      "sha256": "9221b3dcb87b3d523c9ec0e52d3af04cff03aedee0453b70ac92a367628322d7",
+      "size": 292909
+    },
+    "data/geojson.day/stranger-things-05.1-day-00165.geojson.gz": {
+      "sha256": "a850c5bec38d3c12202d835fdd40c9bac7dcadfefc2bf9d6c2b069148e744323",
+      "size": 299612
+    },
+    "data/geojson.day/stranger-things-05.1-day-00166.geojson.gz": {
+      "sha256": "a2641a4fd950ba3838f74ddcbb18ed5af6c4632514e85e2f4240e688cc65cb6d",
+      "size": 285975
+    },
+    "data/geojson.day/stranger-things-05.1-day-00167.geojson.gz": {
+      "sha256": "480901efdf33ff344345819554277f187591e0964f882c564b1d747aa1c88ff7",
+      "size": 282337
+    },
+    "data/geojson.day/stranger-things-05.1-day-00168.geojson.gz": {
+      "sha256": "93f04f067dbc27207484e6af7420b9c24ec37f994a30e62ebb7300a01c8ea49d",
+      "size": 289263
+    },
+    "data/geojson.day/stranger-things-05.1-day-00169.geojson.gz": {
+      "sha256": "8d4f111abc4545929c929fedee9459eec8f5ef00588cd0cba485076d945e9c41",
+      "size": 309295
+    },
+    "data/geojson.day/stranger-things-05.1-day-00170.geojson.gz": {
+      "sha256": "47cdcaf6c6bddea3e9d2ad227f5dc724f7ad401ed114a816ca5671801e6bb356",
+      "size": 325680
+    },
+    "data/geojson.day/stranger-things-05.1-day-00171.geojson.gz": {
+      "sha256": "f736906d51cf831aaa455f9739da5a05efa9205dcf822827b865dbc7e754c205",
+      "size": 319337
+    },
+    "data/geojson.day/stranger-things-05.1-day-00172.geojson.gz": {
+      "sha256": "fc1250b7dec28236fca281eadf4825a2139c5eab41883a4ad11d5576d51dff3c",
+      "size": 318391
+    },
+    "data/geojson.day/stranger-things-05.1-day-00173.geojson.gz": {
+      "sha256": "246c8f0926c2306b6a31aed37c8a0945722efb63225bd2666b01ca8fe9bcfddc",
+      "size": 314946
+    },
+    "data/geojson.day/stranger-things-05.1-day-00174.geojson.gz": {
+      "sha256": "1350fcd53513824e7a7cd78540b61b7f82285d94cbbd1db862529ca6c54d6203",
+      "size": 309653
+    },
+    "data/geojson.day/stranger-things-05.1-day-00175.geojson.gz": {
+      "sha256": "831ca4f190aadb8d6921a14e7afcfd589f34b847fbe4f61f3629d43d3331bb61",
+      "size": 307550
+    },
+    "data/geojson.day/stranger-things-05.1-day-00176.geojson.gz": {
+      "sha256": "09a421d717830fd5d8118611dd38a89c6965a409652a78b08747ce811d03fa92",
+      "size": 309227
+    },
+    "data/geojson.day/stranger-things-05.1-day-00177.geojson.gz": {
+      "sha256": "1721c83d7e43590d15548a7ad4080c0c32b64870d4cb5299d0483d594d0639a5",
+      "size": 307426
+    },
+    "data/geojson.day/stranger-things-05.1-day-00178.geojson.gz": {
+      "sha256": "296a2206b50fe6b96dc273911047d013474db3bde33fd429c1bf63c5ec015529",
+      "size": 312312
+    },
+    "data/geojson.day/stranger-things-05.1-day-00179.geojson.gz": {
+      "sha256": "10e18a8d3002bd8bbaf33ddb45cb6eab459f6061b4dda9d39ad33c8f2aa2d700",
+      "size": 306502
+    },
+    "data/geojson.day/stranger-things-05.1-day-00180.geojson.gz": {
+      "sha256": "ec00e9fec6c506a4fbcc53ab93de7b4f34c8540a3eed080479ec1bf2904c70c5",
+      "size": 310953
+    },
+    "data/geojson.day/stranger-things-05.1-day-00181.geojson.gz": {
+      "sha256": "183488a9136cd62efe7bfe344765ccd09fc5886bb04dc3853f60eb1d3b89f86b",
+      "size": 306433
+    },
+    "data/geojson.day/stranger-things-05.1-day-00182.geojson.gz": {
+      "sha256": "83f7e4dd4e0a03366bfeccb96bb06ff62c974dacdf25655f85fed49cf1704454",
+      "size": 305968
+    },
+    "data/geojson.day/stranger-things-05.1-day-00183.geojson.gz": {
+      "sha256": "a58b37b65bd721e2d513f4a30b09aefbd7fe543a3dce64e1feca80d1760a1349",
+      "size": 307544
+    },
+    "data/geojson.day/stranger-things-05.1-day-00184.geojson.gz": {
+      "sha256": "b52de5737f9276bdd66d61b080bed38a8a4aa5406ed32cd1e2cf46f16723ff99",
+      "size": 306310
+    },
+    "data/geojson.day/stranger-things-05.1-day-00185.geojson.gz": {
+      "sha256": "aa2ce19b0e7fd87dafd1fbe7c87673f35dec05a45e205d4fc12be93a7276e39c",
+      "size": 311036
+    },
+    "data/geojson.day/stranger-things-05.1-day-00186.geojson.gz": {
+      "sha256": "9b4945c5266c7b19b48a1e0ad0c23b570395a6c6fe038e2b1d584ae17353a4c5",
+      "size": 307492
+    },
+    "data/geojson.day/stranger-things-05.1-day-00187.geojson.gz": {
+      "sha256": "516f51ca0a41c727ba488c2c7b0b5823b541329fc0d823dac9c48ce077a27b34",
+      "size": 305755
+    },
+    "data/geojson.day/stranger-things-05.1-day-00188.geojson.gz": {
+      "sha256": "38d199369043d93dd2b55097b793e39edb284ed083e1f08a99c8c4758f2a42ef",
+      "size": 294261
+    },
+    "data/geojson.day/stranger-things-05.1-day-00189.geojson.gz": {
+      "sha256": "58754c4924f39e602969149531bd2d22b2cfe7e065888b712f9d04600163c540",
+      "size": 290920
+    },
+    "data/json/stranger-things-05.1-swarm-day-00001-2025-11-27.json": {
+      "sha256": "b50c6c7d861f4ef232c866534df26202cb40bba6cc1d11528084d70ea7d54a72",
+      "size": 455
+    },
+    "data/json/stranger-things-05.1-swarm-day-00002-2025-11-28.json": {
+      "sha256": "3e61ce723cc020b694ce2603558fabd0b5f2a296a9bfaa3911c8c756b8ad0800",
+      "size": 455
+    },
+    "data/json/stranger-things-05.1-swarm-day-00003-2025-11-29.json": {
+      "sha256": "11ed374c684f49eb51965c503d02737dc411845c035a9894596f4bc44256ba1a",
+      "size": 455
+    },
+    "data/json/stranger-things-05.1-swarm-day-00004-2025-11-30.json": {
+      "sha256": "ae859b7bf7df29ab5c867d5d41e2fedfb1ea328da783d369bf92e60840412479",
+      "size": 455
+    },
+    "data/json/stranger-things-05.1-swarm-day-00005-2025-12-01.json": {
+      "sha256": "5f47c3212b14373255d1ab808bd7c61338c91bc01f0777f8d623d74da8f26a4a",
+      "size": 455
+    },
+    "data/json/stranger-things-05.1-swarm-day-00006-2025-12-02.json": {
+      "sha256": "e9b6cdce7f95c9a4c4217843706b25a82ef3ceec1d3c3ff75144895dc3e3f65f",
+      "size": 455
+    },
+    "data/json/stranger-things-05.1-swarm-day-00007-2025-12-03.json": {
+      "sha256": "3ff8339f20a6237de9a435d966220c140ac13c221a4a210e8b482ccb9fc87229",
+      "size": 455
+    },
+    "data/json/stranger-things-05.1-swarm-day-00008-2025-12-04.json": {
+      "sha256": "ed20bd476bef3b13d7c17d495f61efc8cf68309dcc587ff53b1237d44ec47e5f",
+      "size": 455
+    },
+    "data/json/stranger-things-05.1-swarm-day-00009-2025-12-05.json": {
+      "sha256": "9800bd8d32b654c657f792167b91605db75d49b7dee9864280089b41d5347b07",
+      "size": 455
+    },
+    "data/json/stranger-things-05.1-swarm-day-00010-2025-12-06.json": {
+      "sha256": "bee5fb726ba89668f0c1eae7a44d7ea8e89c42b957ebd9cabf3aa10b81f31434",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00011-2025-12-07.json": {
+      "sha256": "5191505f43388049ee3fed5d8fbfab762e771756e33c095292df101f3351ad9e",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00012-2025-12-08.json": {
+      "sha256": "72c3544a1aac1545d8a858a437b4953bf408143c64ba532949c3c30897fa5172",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00013-2025-12-09.json": {
+      "sha256": "d3606a3e7589fd93c8f5ea2ab7e7d7b34f87d6c0b7fad97c5d19e5ce80c580a2",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00014-2025-12-10.json": {
+      "sha256": "9e1382f03a9be3380d26a799fd039b682ccc61f8a088881357e093725fb6a8c8",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00015-2025-12-11.json": {
+      "sha256": "25e74206038bc530cc03d49f4131dcd4c84b7be33bea57b3e535d9f5f9a8928d",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00016-2025-12-12.json": {
+      "sha256": "ccd9c85b0bb7754b36b26dd5dfe9f660b9effeda32f4e3d847c137e3010116db",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00017-2025-12-13.json": {
+      "sha256": "a470d2167aa6b1ecb63a4162557b915c82bb11e3f1bf1868448000488d69314a",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00018-2025-12-14.json": {
+      "sha256": "fba3fe381c1e613a8e919fd74d98acd3213957864f192092d1508c8a2c569836",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00019-2025-12-15.json": {
+      "sha256": "0c3ff4b0d0ee57455a5e5bd71e0902918af14a9efb3097b1e45bd00df6903e77",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00020-2025-12-16.json": {
+      "sha256": "20a88093295e53031a3b762f730a091a8d76bb0ec1c9bc60d9254289ceab8bc2",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00021-2025-12-17.json": {
+      "sha256": "c164f26c418317da184277af7c2c7a03468205f52066d420aae1dc0f563e5b30",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00022-2025-12-18.json": {
+      "sha256": "e8efde61f505f0730f4126389b2508973bd7932aa47e8698818471366398f011",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00023-2025-12-19.json": {
+      "sha256": "a1ec83cb4fc2dd4bbd651857d8825c2558755596eb8ddbeb1ac448b9d04a4daa",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00024-2025-12-20.json": {
+      "sha256": "c79d0303ab53a807b3b614d52a2fa794f66cc3b5b9c1654e4006a38783bc81a7",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00025-2025-12-21.json": {
+      "sha256": "dceb917c5c975ebf9bef434fc5c4d1003594fc9d708d07619f281d33d6bf4a7f",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00026-2025-12-22.json": {
+      "sha256": "43d2ddc2ed225dbbac00ff9b18c9dc0e8f5c25cd43c48d7b2d0b276e2cc20cbb",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00027-2025-12-23.json": {
+      "sha256": "a2c8f8cf5c7d1e1ff2b03954b06d3bf2ee2c142e5c6fa731567602ed393cc69b",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00028-2025-12-24.json": {
+      "sha256": "6703f05602faa10917e1c9a3b25202594745e24ab080afa374172cca47dcd7e8",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00029-2025-12-25.json": {
+      "sha256": "41e3407b959080d99403166372033077e6063a8637540ec7987ab15d2503a74c",
+      "size": 455
+    },
+    "data/json/stranger-things-05.1-swarm-day-00030-2025-12-26.json": {
+      "sha256": "31ff8e3fe65cb6145a0886cf80c5967ed918f71594c3dee6b0adb15cfdd1362a",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00031-2025-12-27.json": {
+      "sha256": "384ab6f8b62fa4f561ecfec2be04102135aa8da9c0494da74407317ad6e50d69",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00032-2025-12-28.json": {
+      "sha256": "026d46dcfbd7f8d5dfe5c76185d6b8f103d65a151493ca96419b913c2c54632f",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00033-2025-12-29.json": {
+      "sha256": "31d0dac4222af33cc0ffc1ffc1d4f00284864a8fadd16ffd2576521f3dac540b",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00034-2025-12-30.json": {
+      "sha256": "28db5fc31338bd55c961a1cd8fa9195e3818e0157a32e18a321b85511b4e1c70",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00035-2025-12-31.json": {
+      "sha256": "f00dbda228e7a6d0e88972de362aeeb33d17c84cc1da182e86b2d15e984f6e3c",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00036-2026-01-01.json": {
+      "sha256": "99ba248184f7b282b3b3e5b08df93163b49b9e912d863ef9514433a9e8853dae",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00037-2026-01-02.json": {
+      "sha256": "466b6d16fa1c0ad43e58cf422c7bf584627d9500207b256c58fcb3f0ae5adaf8",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00038-2026-01-03.json": {
+      "sha256": "59b6eb770b8a6ade27f45fa4af63d25d23e123f65dc930ef5542cda31ff49ec2",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00039-2026-01-04.json": {
+      "sha256": "9f1855339c71a07a88bc0f730d3f945bce37552523dd2efb2c8471a8e4785f38",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00040-2026-01-05.json": {
+      "sha256": "44949e4ba05a3c3ba619430421af5906cb2ff97792b9c728906176b18ea25e32",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00041-2026-01-06.json": {
+      "sha256": "76b517ae798489827d61d9e122653df1aa8c36055548fc25efb6a80ada10244b",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00042-2026-01-07.json": {
+      "sha256": "647f60f3f171d7126e086bf5ac7fd9544904b35b1ed7ebf9ec1ac2e75c2dcce0",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00043-2026-01-08.json": {
+      "sha256": "69decfb19694632def4fc7011dc9c047ce160e86bb5c1397c53e89647d8c99e0",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00044-2026-01-09.json": {
+      "sha256": "8185486638ccb8213b9348a6030600d5b7be3fd3e47a41f76901eeeddd6fde77",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00045-2026-01-10.json": {
+      "sha256": "e446d260453484059e200bc729f57fb3a903c2152084762df4d56b1cc884835e",
+      "size": 455
+    },
+    "data/json/stranger-things-05.1-swarm-day-00046-2026-01-11.json": {
+      "sha256": "c9791f80e42e60df4a692c43bc7ed5edf3b4b859c039516330d7de026865a199",
+      "size": 455
+    },
+    "data/json/stranger-things-05.1-swarm-day-00047-2026-01-12.json": {
+      "sha256": "e286a05165d362a312c06f4409d59b55a4b95c4985f85490c62f5fde8273cbaa",
+      "size": 455
+    },
+    "data/json/stranger-things-05.1-swarm-day-00048-2026-01-13.json": {
+      "sha256": "11d93d791e73312e4c4900f67fece2ab46a597572046873edf93d64c845b7f1d",
+      "size": 455
+    },
+    "data/json/stranger-things-05.1-swarm-day-00049-2026-01-14.json": {
+      "sha256": "aaf53a2895aa7f8f6b3217d906dd0bb0c8641bc55fb6853e2b891849286e415d",
+      "size": 455
+    },
+    "data/json/stranger-things-05.1-swarm-day-00050-2026-01-15.json": {
+      "sha256": "03d73f73a6bf22d2fe116a450bc3856ced7456fa6e1b476bd4d9826a295927cf",
+      "size": 455
+    },
+    "data/json/stranger-things-05.1-swarm-day-00051-2026-01-16.json": {
+      "sha256": "c227a139d46d8a1a690f7525c598a9f48e91aeb6e809db314556372289010c24",
+      "size": 455
+    },
+    "data/json/stranger-things-05.1-swarm-day-00052-2026-01-17.json": {
+      "sha256": "1c510096bb06b4a5eba31fb23f01e5c429600c95b71a9950e9ba60d733aea358",
+      "size": 455
+    },
+    "data/json/stranger-things-05.1-swarm-day-00053-2026-01-18.json": {
+      "sha256": "63dcef409d8a0e862cd3b2e6366364f87f6819e138a37dab757e48678b7994a9",
+      "size": 455
+    },
+    "data/json/stranger-things-05.1-swarm-day-00054-2026-01-19.json": {
+      "sha256": "6c97d592cf8701be38476b38c4d9bc93ff8ec3227fb05090a3d86147f0c7eb42",
+      "size": 455
+    },
+    "data/json/stranger-things-05.1-swarm-day-00055-2026-01-20.json": {
+      "sha256": "b44cb88ea6c91412a2902e8c718e662ffb05d9d20a94a6c10c4bc1b15b7dac30",
+      "size": 455
+    },
+    "data/json/stranger-things-05.1-swarm-day-00056-2026-01-21.json": {
+      "sha256": "74b985ffb73036ed1a5a2b17f4ddbb832b3217129f5c9a09c03629cdd642c786",
+      "size": 455
+    },
+    "data/json/stranger-things-05.1-swarm-day-00057-2026-01-22.json": {
+      "sha256": "1ed1873d44274827d3839f38be9af1485123454a20a554d0217d7748ac63b2cd",
+      "size": 455
+    },
+    "data/json/stranger-things-05.1-swarm-day-00058-2026-01-23.json": {
+      "sha256": "54b102e229a5c5990f3a5fbf3d15904190556f0a6e5903d39cc71f1edbf9f345",
+      "size": 455
+    },
+    "data/json/stranger-things-05.1-swarm-day-00059-2026-01-24.json": {
+      "sha256": "f12edb9e703be2085db0ec670c4c6cc6a3a9395b503a3dddb5bbae3f4a6ee6f8",
+      "size": 455
+    },
+    "data/json/stranger-things-05.1-swarm-day-00060-2026-01-25.json": {
+      "sha256": "58e28e269f14b24ee14227651cc992a6c13cc11c5da676ae272b3e6f1295d2f8",
+      "size": 455
+    },
+    "data/json/stranger-things-05.1-swarm-day-00061-2026-01-26.json": {
+      "sha256": "0652a7e30043e68097a21dd3faad093165650eb47ef5ff37736c533559804bbd",
+      "size": 455
+    },
+    "data/json/stranger-things-05.1-swarm-day-00062-2026-01-27.json": {
+      "sha256": "b5385770bf3acd496c446feb2d91f18cfffbb1487d568cf1c74b7fe76442261c",
+      "size": 455
+    },
+    "data/json/stranger-things-05.1-swarm-day-00063-2026-01-28.json": {
+      "sha256": "dc36b574c1a091798353aeaafefe9e313b9fb1c5be9a991e8ae74af432d0b771",
+      "size": 455
+    },
+    "data/json/stranger-things-05.1-swarm-day-00064-2026-01-29.json": {
+      "sha256": "6dd02676e34dab56cf09275c656ad7a5ebde6557929339417504d67875b41960",
+      "size": 455
+    },
+    "data/json/stranger-things-05.1-swarm-day-00065-2026-01-30.json": {
+      "sha256": "bc172bc92564307874b8b3cddbfa9ba7766df5458a2c059a7625f449ad510d3a",
+      "size": 455
+    },
+    "data/json/stranger-things-05.1-swarm-day-00066-2026-01-31.json": {
+      "sha256": "8f8d2bf409997cd788d242b90d3b85eb790d7c895e5b1cc7f74cd059639e1216",
+      "size": 455
+    },
+    "data/json/stranger-things-05.1-swarm-day-00067-2026-02-01.json": {
+      "sha256": "19f4a0527dbebd6f50656171b739f5e7beba7057c96b4f47a5a7fea9de834601",
+      "size": 455
+    },
+    "data/json/stranger-things-05.1-swarm-day-00068-2026-02-02.json": {
+      "sha256": "f663a22ae124b1bd5299d26c6caadbf207be3e58430c65ac455009890b6e00cd",
+      "size": 455
+    },
+    "data/json/stranger-things-05.1-swarm-day-00069-2026-02-03.json": {
+      "sha256": "df88959c6b36bcf4db4a2d12264e32f6e6de56e131d53542f3791e1c7e9fb8da",
+      "size": 455
+    },
+    "data/json/stranger-things-05.1-swarm-day-00070-2026-02-04.json": {
+      "sha256": "165ad0a1b2698a39e7c6cc2b825bec17dad30b1de0037e58291316b5baf1a24e",
+      "size": 455
+    },
+    "data/json/stranger-things-05.1-swarm-day-00071-2026-02-05.json": {
+      "sha256": "9b9c5a3d033b42c3396526b0f24c28ade3fcc956cc3a1fcb1c47ca8cdc19ed21",
+      "size": 455
+    },
+    "data/json/stranger-things-05.1-swarm-day-00072-2026-02-06.json": {
+      "sha256": "e22ca0fbb36705b5d939dafa7b4dad29dc4d1582da1c95b8794ba32ba0fd3d23",
+      "size": 455
+    },
+    "data/json/stranger-things-05.1-swarm-day-00073-2026-02-07.json": {
+      "sha256": "1c51633e1f0b9d2d7535d669654d88c6781874bb31f77fcd4388c4b746d6cbcb",
+      "size": 455
+    },
+    "data/json/stranger-things-05.1-swarm-day-00074-2026-02-08.json": {
+      "sha256": "3d45aeb510943a370bd441fd882f5b29b63eb03c84c3b6e52179d61f2d43e364",
+      "size": 455
+    },
+    "data/json/stranger-things-05.1-swarm-day-00075-2026-02-09.json": {
+      "sha256": "4a6bb40ece65c47fa7f0441e093bf0e4b4e4f7f059dfade3eeef33eb53608df7",
+      "size": 455
+    },
+    "data/json/stranger-things-05.1-swarm-day-00076-2026-02-10.json": {
+      "sha256": "246d6c81eb4626b44a414e5c89be42ad6b87b686b1f2b0923197716f8421ba1e",
+      "size": 455
+    },
+    "data/json/stranger-things-05.1-swarm-day-00077-2026-02-11.json": {
+      "sha256": "3e0145b6ce3c117c6abdbee8ece51b8aa50b581cd6371da3cf93ca812535338d",
+      "size": 455
+    },
+    "data/json/stranger-things-05.1-swarm-day-00078-2026-02-12.json": {
+      "sha256": "163e85b4a586b54a5310d877fafcace3407efb09c0734a812af8c654d88aa9cc",
+      "size": 455
+    },
+    "data/json/stranger-things-05.1-swarm-day-00079-2026-02-13.json": {
+      "sha256": "8650ad9131a0f8c8f655a24741007da35df0b491bd8fa9baf84dbd9f7273af94",
+      "size": 455
+    },
+    "data/json/stranger-things-05.1-swarm-day-00080-2026-02-14.json": {
+      "sha256": "100cf37b9eac6956bc93058d90600a5bba496103cd7d549ec709a967cc3def16",
+      "size": 455
+    },
+    "data/json/stranger-things-05.1-swarm-day-00081-2026-02-15.json": {
+      "sha256": "a249947ed81929b48e7b1d49c9c800cdca4e119dea791b058361257f64790982",
+      "size": 455
+    },
+    "data/json/stranger-things-05.1-swarm-day-00082-2026-02-16.json": {
+      "sha256": "d3add0c6cf82cb40aaf65d5091d7d541f3d8859c02bfb7044f00973f07e6554b",
+      "size": 455
+    },
+    "data/json/stranger-things-05.1-swarm-day-00083-2026-02-17.json": {
+      "sha256": "b4ffe7d8caf16bffe365881af13d322ee158ab84fd11657f470ea5e568bf207a",
+      "size": 455
+    },
+    "data/json/stranger-things-05.1-swarm-day-00084-2026-02-18.json": {
+      "sha256": "2ebc26b3b37ee4fea64b47848e320c53a054089b845e1bab04a345ac5e64d76c",
+      "size": 455
+    },
+    "data/json/stranger-things-05.1-swarm-day-00085-2026-02-19.json": {
+      "sha256": "13980c6e7464311e2324d61da73d0bf2d71f6c0e0fca19fd2869fed4b41b798f",
+      "size": 455
+    },
+    "data/json/stranger-things-05.1-swarm-day-00086-2026-02-20.json": {
+      "sha256": "83b023c779f9dec3405145b9a8a0044c3d074ddfcd8a304313cfdd6098a1fff8",
+      "size": 455
+    },
+    "data/json/stranger-things-05.1-swarm-day-00087-2026-02-21.json": {
+      "sha256": "4c9e5d2cfc2b7bfcc2a8bbdedf75cf2ff749b6a70609c55b5b4f4241a0aaaeb9",
+      "size": 455
+    },
+    "data/json/stranger-things-05.1-swarm-day-00088-2026-02-22.json": {
+      "sha256": "8f19d40cbc7f30a50d5b827375aa8fbc8341882d665d216d6a99e3b7b74c6885",
+      "size": 455
+    },
+    "data/json/stranger-things-05.1-swarm-day-00089-2026-02-23.json": {
+      "sha256": "bf4041b9a1a393188cdee7c4928315a6ccd053400c155ad6146800d428755545",
+      "size": 455
+    },
+    "data/json/stranger-things-05.1-swarm-day-00090-2026-02-24.json": {
+      "sha256": "b4989e06c4482afbd5515c6d14fb63c998c080616b23933057de9ab953243ccf",
+      "size": 455
+    },
+    "data/json/stranger-things-05.1-swarm-day-00091-2026-02-25.json": {
+      "sha256": "6407d9c2c0967d032933a27017ccbaa16ebcdb2c90155ba6389fa020ba11a29e",
+      "size": 455
+    },
+    "data/json/stranger-things-05.1-swarm-day-00092-2026-02-26.json": {
+      "sha256": "d33cd9518eec4d9125be331b9deb0dafa8e6e5633b16d20cc504e04637a62ae5",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00093-2026-02-27.json": {
+      "sha256": "67f189db593ba7ef3d6fe91e89c7336f64bf30d9c7d8c578c8f59af525ba4074",
+      "size": 455
+    },
+    "data/json/stranger-things-05.1-swarm-day-00094-2026-02-28.json": {
+      "sha256": "1a68a1d1049ed79ffb58588a39ff44ef2f5e974761c2fe783f3f64331c83d4a6",
+      "size": 455
+    },
+    "data/json/stranger-things-05.1-swarm-day-00095-2026-03-01.json": {
+      "sha256": "901a75c1905029125c11ab948f49a0037eb369fe32721e393b2e4472826d6f52",
+      "size": 455
+    },
+    "data/json/stranger-things-05.1-swarm-day-00096-2026-03-02.json": {
+      "sha256": "b4ccc98c1b49cd2d551f97b8913a95a48b5b78461171a55901123ba07b6fd378",
+      "size": 454
+    },
+    "data/json/stranger-things-05.1-swarm-day-00097-2026-03-03.json": {
+      "sha256": "14711fee43363d7dbcfbd4085818cd5c57aaa440b2c00e8242c7f23630ff734b",
+      "size": 454
+    },
+    "data/json/stranger-things-05.1-swarm-day-00098-2026-03-04.json": {
+      "sha256": "a8ce8b7443524bbca3dcd2611ed8cd1b92d9e2b90a7427a0430327e4f74db47b",
+      "size": 455
+    },
+    "data/json/stranger-things-05.1-swarm-day-00099-2026-03-05.json": {
+      "sha256": "7d558fd2018e452be7353149ba6b0c4ede3fd70ed3754cff9cd3eed66b11cf82",
+      "size": 455
+    },
+    "data/json/stranger-things-05.1-swarm-day-00100-2026-03-06.json": {
+      "sha256": "c018e5dcb274165f4f5215815fff4c64efb886f944c893609a37f7527daf4ea3",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00101-2026-03-07.json": {
+      "sha256": "4ad79508e42bfd76f8fb2eaf517ee4292d34471a01b18f2f065498e96149ca1d",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00102-2026-03-08.json": {
+      "sha256": "7d148293ee3430a00d99201f3d23c30986e59b5559c9e17cf69bb18add700274",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00103-2026-03-09.json": {
+      "sha256": "d6a84d3668b311d5380abce4a49669a9fc1f2797b318b8f98a609a947ea29e7e",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00104-2026-03-10.json": {
+      "sha256": "1b1359dabdfd1c278e6b76747167303d2863012a06479cbf45674342a46a07bd",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00105-2026-03-11.json": {
+      "sha256": "38b277eb30b41d169bcad2e07e7a58524c61ae7c80f600413fddd2c417089e4f",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00106-2026-03-12.json": {
+      "sha256": "3281c5e31771a88cfe59a9d1b3f5cf0e1f1c0d7ab018fdb88808d7b68238af4e",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00107-2026-03-13.json": {
+      "sha256": "a36c7c575941014cb46fa594658333100e9be931c860ce1dcef6f171411e968e",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00108-2026-03-14.json": {
+      "sha256": "743e5af6816c4d769e85cb75e8e94ca10ef597a1e11058e267e840568abec1c9",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00109-2026-03-15.json": {
+      "sha256": "ede4ff4d6f5ccede176b443ad16754c1123dfc78327b93e9adbe4819870d72a0",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00110-2026-03-16.json": {
+      "sha256": "4e42ce31aaf084a39e782056ae4dacd1de5a48927b75e511159b53459ce3b13f",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00111-2026-03-17.json": {
+      "sha256": "a2e5fda4504725d8b5971220e8982285b806feb025488ae293dd717d5465e423",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00112-2026-03-18.json": {
+      "sha256": "0d4df0548cf29821f458392c8feb5ebbeea27e94453df267466a0439047fd891",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00113-2026-03-19.json": {
+      "sha256": "a5f73e3ada2806d1e3b1fa06e52379b17c29f17945a090aa803c69d7d76d76f3",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00114-2026-03-20.json": {
+      "sha256": "9db05259733ed496afbd6ad9dd2407776425d91c4574ae1b2cf15f06e4345cac",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00115-2026-03-21.json": {
+      "sha256": "b3fc9c2532142c9155190af90f4c0a5a88b6f150761eabe24ac0d6c78d69156a",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00116-2026-03-22.json": {
+      "sha256": "b2ccd557df3de826d58ce40d50e9a80415e8e2795bb6a7878b46f351a91625a7",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00117-2026-03-23.json": {
+      "sha256": "7d16c1c8da3d7f5a1d2eb95cd012ea187bc1ce244ee48c9946256cc717bc66a5",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00118-2026-03-24.json": {
+      "sha256": "6ae27097190ed78eb6577587eb64092c6ff7e51d8f084192a4a0af88df527775",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00119-2026-03-25.json": {
+      "sha256": "3b6c067886da1d06ce3f19567bc342b6055c5f996aa5356377b0dad67c483415",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00120-2026-03-26.json": {
+      "sha256": "f61ff8d0ca48f5490ad1b6082a9ca008bae9cf6bebaa3252765c0addb6abc887",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00121-2026-03-27.json": {
+      "sha256": "9c0ae4650013297ebf753ac411f36966c2e05185ef18068bc5d0776e46313f79",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00122-2026-03-28.json": {
+      "sha256": "b9888fb7bbacf17cf02c02c8b956a17cf7fdee3f8e320f1aa080c586e79a03ff",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00123-2026-03-29.json": {
+      "sha256": "e25da14ebf63f5629b9ba376cdd945f532a943954b54c17edeab745941ddd7bf",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00124-2026-03-30.json": {
+      "sha256": "2827733212fe98cdfb38da30c9aaee0eccb0fc0ffe0b12fd600e0150645759f5",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00125-2026-03-31.json": {
+      "sha256": "39f3ce6a63c5038fa2aafe8a8b8d7f2be6ee7ba5018e4b2fc6ca007a77b55340",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00126-2026-04-01.json": {
+      "sha256": "f6b30601e2bf3df520d3b5ae022729109c2cf8776d48b0ece495a57edd1d693f",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00127-2026-04-02.json": {
+      "sha256": "8fd9ef448b8deae96cbcc318e866930cb41760d7b326a15fd0d510998b624779",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00128-2026-04-03.json": {
+      "sha256": "478744eee5548e0b20420b2bb41f542cc7d5c6d799706c53cad2b712f932e7cd",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00129-2026-04-04.json": {
+      "sha256": "4371ed48a5f447171a6d2f0caedcca58fa578a1ac212debfa7d231d378221a8d",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00130-2026-04-05.json": {
+      "sha256": "50a2aeebff97c4477d444ab4ffbd4bae14318353b17f348bf60da53beb8f4d32",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00131-2026-04-06.json": {
+      "sha256": "19cae816975a8d276510eae9448fbcc4da2ec91b453676d5afef37b1d611f91a",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00132-2026-04-07.json": {
+      "sha256": "36f538629d1aec52ecbb85776c63268453077d8cf6b7cb5d6010d12683521ba7",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00133-2026-04-08.json": {
+      "sha256": "d016d8506ff3cc3fdf72ffe4dcf8a646c5d3d4fcdb74b006b362f814b022798e",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00134-2026-04-09.json": {
+      "sha256": "041a8cdb2fee57e4a9574c0973816631f7f5fbc578ab9febac0d7e19eb4ae0e0",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00135-2026-04-10.json": {
+      "sha256": "fb5f85c3052b8ecc6221a3b61bb5727d9981a2fc382e377414807636534f33f3",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00136-2026-04-11.json": {
+      "sha256": "532598d60b57d2419b6a69804df7bafc4f5563281a80267bf60e4d1a9069a112",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00137-2026-04-12.json": {
+      "sha256": "c0f24603edbc16ee1e0bd80b023f1727ed236ebdf161bee94a0ac7ff53c6ff65",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00138-2026-04-13.json": {
+      "sha256": "7229d08625abb59771561dccac854a794a735331267b49d78b66a9e1586e7c69",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00139-2026-04-14.json": {
+      "sha256": "032eb6c3ebb565f810d4e1f3225cc93dac52b3dfe1308607eeabd29acc4ce8df",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00140-2026-04-15.json": {
+      "sha256": "ed864e8979cf0b524a6c25a312fde80ae8abe0dedd368321bed1794892c3c935",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00141-2026-04-16.json": {
+      "sha256": "16bf4a66bbcbe68279bc56b39ae774d70823df3543947ccb2ee3606befc06671",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00142-2026-04-17.json": {
+      "sha256": "2f8d5c6e4c817af6f18adf003c78dd8e82ec2437f180fb164e1fb3f9d91cd898",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00143-2026-04-18.json": {
+      "sha256": "865d3225de1bc6ef1c924235914aa9f57d0b2a5c7091dde4d2d403e8bfc8647a",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00144-2026-04-19.json": {
+      "sha256": "b0cea2e5fb2e7767109b508506251fe4bb30e5df68596ca74bde0209feeae656",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00145-2026-04-20.json": {
+      "sha256": "034346b7197a304b2b72d308faae64e886c301c7c26c0b3841aa0f9a332bd2e7",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00146-2026-04-21.json": {
+      "sha256": "708a46d7972acb4428e76969c543687b25e8fa3f6801c0bbb2a9e5f81349c744",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00147-2026-04-22.json": {
+      "sha256": "33b208305d91bcc5e6438640da08bd0c7f6bc61afddd9736cf847f5d667b13f8",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00148-2026-04-23.json": {
+      "sha256": "52c376f906ebbd25605198f4923bd8dd98735ca9c0d101239176e5cdd4c88687",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00149-2026-04-24.json": {
+      "sha256": "5a51de32febb8a57b9dc34fedaf09468ec5236807a8fce63ee4cbf311c7f06ba",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00150-2026-04-25.json": {
+      "sha256": "0f82e546ad75cfb0801ab6e6baa2fe8fd07f8fa7590037a913bf09fc9f53a548",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00151-2026-04-26.json": {
+      "sha256": "79e88f6050848f69675ffd636cc0eba830398b03890430423368726014398e37",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00152-2026-04-27.json": {
+      "sha256": "f1cab2d47834675980d8c3f376bd6b8afce1ad5a930a3b1e13e40e349ff63e00",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00153-2026-04-28.json": {
+      "sha256": "25b1c547114834d0af245411f81aee5849552e7d0552d3f10504ccffe4f7dff8",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00154-2026-04-29.json": {
+      "sha256": "2907570866dcaea6ee07140f7dd1361d227d65eea8ff31c728226b18c8b51959",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00155-2026-04-30.json": {
+      "sha256": "ca33a824c454a1ff076e81fc47253f4ad36c4cacb2a0f74ab13d73c3bf1c6866",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00156-2026-05-01.json": {
+      "sha256": "ca711383b791bb761b46229ebb61e1ddd9e0944e94dcfc5c83d85c9caa1854df",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00157-2026-05-02.json": {
+      "sha256": "79b0837f4e7bc4e971bfaed8e78b9aa1fb5ab8177eb09f4a2827695420cdfd65",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00158-2026-05-03.json": {
+      "sha256": "4a5f46b9111471d596ba187276ab5d84a352df0bf0d40d20eb3c7719097d6c8e",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00159-2026-05-04.json": {
+      "sha256": "55112848c0ac955e24e9963ab93662d3e74902d8ca759c19eba76a9f14aabd88",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00160-2026-05-05.json": {
+      "sha256": "1f3a057625a06396c32f51d71ae819d7f94482f2f85b3a6d6f8fbc8ab8dc03c1",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00161-2026-05-06.json": {
+      "sha256": "43afa84754ac5eeb05fba066a76bacd3e2327c153f4936c0e3b0d8f38d83b3bb",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00162-2026-05-07.json": {
+      "sha256": "a624412e0bc3f5c63266028d858275eb0a3a3193ffd3dfda949d9e93543870aa",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00163-2026-05-08.json": {
+      "sha256": "c25a894b1203c0ecf1398227c463c222c32387680114331669069f42cca0863b",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00164-2026-05-09.json": {
+      "sha256": "d5f39b25e01a59292c8252827b9a6d8d9dacbf7e31f014f75ebe57e4d0833fde",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00165-2026-05-10.json": {
+      "sha256": "205d1718d87263ac6781724c3c09f74f9c1097ed61c2197f7c07a1377c83ec89",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00166-2026-05-11.json": {
+      "sha256": "91b5de83e90ef0599dd86ab7825cb3ca737fc5e427f1e6c540861d3705955844",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00167-2026-05-12.json": {
+      "sha256": "cbfdb296e0cdbb486a16f82957e5f4812fe58b1f7ad67712554b885d6b56b016",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00168-2026-05-13.json": {
+      "sha256": "6055b7b9e2603a32aebe4207b66289ffd3f73c1121888473757dd83aae536513",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00169-2026-05-14.json": {
+      "sha256": "1f514fac1290e9d35368ca9e0488147ceceecf383bdac283bd79eaa8f128a415",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00170-2026-05-15.json": {
+      "sha256": "277cf193fa50373bd9cf322aa5a18f3975eb1202c9ea21283d56af5dcc8d8d63",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00171-2026-05-16.json": {
+      "sha256": "3f7e5857f6815bc334c49449abe2898246d38c51120910b9304c8aded1f11715",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00172-2026-05-17.json": {
+      "sha256": "506475d4875f85499c768064d3dadc4799b82dc521f63043feb400d4a32d9711",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00173-2026-05-18.json": {
+      "sha256": "3e83b90bf7fd719f9338854682340f6ebc1e49ee07400afa6fd7e67c1684d95f",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00174-2026-05-19.json": {
+      "sha256": "9a822f495076049370a5157c96f41af219dcd94ba49d103fb40c0410b883e8e6",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00175-2026-05-20.json": {
+      "sha256": "591d150fb339f09a1e90934f7fd16cec289ac5b37f4027297da23a49b107b26c",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00176-2026-05-21.json": {
+      "sha256": "80adf3e76b9327a48d92eb89156449d40c41a143bc74c2a0bef1c1cae76c251b",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00177-2026-05-22.json": {
+      "sha256": "ca1692fc0437f44d2a4d91177995c2ac7b0033235a0142a549e5ec7d995c84a8",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00178-2026-05-23.json": {
+      "sha256": "baf28c257e7a467ecfd7272db5d5ebfe110f7b851e796e328ac44caf0cdee549",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00179-2026-05-24.json": {
+      "sha256": "d3134220d7e7300c1e6b47ce4aae56d3635ee790c2a29deea33148392d151f2a",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00180-2026-05-25.json": {
+      "sha256": "fa6fb3d6894d77f4db9312270acc6643def0afd03ff44a4dcbf57d9178e5dc01",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00181-2026-05-26.json": {
+      "sha256": "3d6ca3812f1a625e48058a22ed4d0d2678d514d6ce7b17ad72adbe5de29d936d",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00182-2026-05-27.json": {
+      "sha256": "3af03cb1fba9510edaab39d8b408f6d15e6d2af3ceadc32dd527f934ecaf7267",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00183-2026-05-28.json": {
+      "sha256": "c30ef3d51941fe43b04256ccf91c87759e99fd4455607a9f58fd2e31b084abb7",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00184-2026-05-29.json": {
+      "sha256": "e2dd7ae406c2ecdfd45efc7f04dc620bb722f3328f6fea37eafc15a23f556ae1",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00185-2026-05-30.json": {
+      "sha256": "76ecfe33dbc92b075536bdd73666b04998570aa0ddb0627103465538099992e3",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00186-2026-05-31.json": {
+      "sha256": "10c0fa361623f57f309e270913e3920a48f543689cb94f6cc8f209e4923299db",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00187-2026-06-01.json": {
+      "sha256": "d0957f75c3e71ca786569c99914edb8f83611b74a0b4934e4fe811bb14de108c",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00188-2026-06-02.json": {
+      "sha256": "f20b7da7bd10a1945eff9b624dec5d7ba4c6379400acd5ed27d6c8cf6946dd93",
+      "size": 456
+    },
+    "data/json/stranger-things-05.1-swarm-day-00189-2026-06-03.json": {
+      "sha256": "39881ae3813f4c1edb5a9fa296de0541018da3554634c8eee7e01de329ee6b98",
+      "size": 456
+    }
+  },
+  "schema": "alpha60-year-day-product-bundle/1",
+  "source_revisions": {
+    "aggregate_binary": {
+      "sha256": "7408569641f7247fbd00969cffddaf1bb0cf2768c7fc1529f4cc6191ccfeae05",
+      "size": 38582648
+    },
+    "alpha60": "34f34e5c6eaafebbe65d9dbe1ade7609e9e61b2b",
+    "alpha60_data": "8faeae67a5d274d1fc00bffe9fc9318329163b20",
+    "day_product_contract": {
+      "sha256": "0aa0bee3ac14b512c786d3496ab5218a46aff11786ffa6aa9ea85e762fbd6370",
+      "size": 9897
+    },
+    "generate_cache_aggregates": {
+      "sha256": "2e03ba2df36d70d6293d803880c67ae0f2c3afde1ea5837075e31855a258516b",
+      "size": 22934
+    },
+    "metadata": "fbeb53a0b523f937fae2f23d14689d8c5c84dd5a",
+    "package_script": {
+      "sha256": "21d85741346f2bb967f618a36825484d87b3b94cea93dac22781c103abae8a0e",
+      "size": 15384
+    },
+    "year_day_contract": {
+      "sha256": "f1c07d6f2fdc19475a6f25ddaee5923957447a6f49a8009d8b4c9984a63bd883",
+      "size": 9356
+    }
+  },
+  "status": "pass"
+}
