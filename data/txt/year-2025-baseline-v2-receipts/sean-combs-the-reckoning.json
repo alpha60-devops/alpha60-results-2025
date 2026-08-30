@@ -1,0 +1,253 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt33473000",
+    "imdb_id": "tt33473000",
+    "revision": "fbeb53a0b523f937fae2f23d14689d8c5c84dd5a",
+    "wikidata_id": "Q130367796",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sean_Combs:_The_Reckoning"
+  },
+  "coverage_sha256": "b11a9c9e1e827a4c8d26c5243e0057cddf89464bc8b8f12e0a99c0c5cac1b9aa",
+  "generated_at": "2026-08-30T16:05:49.448627+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "aao-checksum-manifest": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/SHA256SUMS",
+      "sha256": "4a4818facd85b709f0321b0a6de31b4a3eff6f108f3b9354c75632926e6baa48",
+      "size": 266728
+    },
+    "aao-release": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/release.json",
+      "sha256": "3ce0984da2d12b0e3697e76c02608bd9d1a955ee3d00e0a7054bdd297b8f18c8",
+      "size": 1342
+    },
+    "aao-verification": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-aao-verification.json",
+      "sha256": "e01294ebce8e54b65e16ab83017fa5585efe6f7a0a0f1a5e0f734e08d8e223fd",
+      "size": 854
+    },
+    "archive-map": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-cache-archive-map.json",
+      "sha256": "8d4d506f23cd80f46baf010bd17509c916083e75eb8b43b052641138c3f308f1",
+      "size": 125170
+    },
+    "btiha-metadata-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/sean-combs-the-reckoning-cumulative-btiha-media-objects.json",
+      "sha256": "b5944546f392b2c3156997ce2c161ef7c4ff349e718ad4479c75883bf47d8a4b",
+      "size": 220905
+    },
+    "canonical-metadata": {
+      "path": "/tmp/alpha60-swarm-metadata-2025/metadata/sean-combs-the-reckoning.json",
+      "sha256": "2c5bc12887790cbf4b484fb799f58c732b7c90851a3aab8f15db2f38ab94f92b",
+      "size": 6142
+    },
+    "coverage-report": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-coverage-evidence/sean-combs-the-reckoning.md",
+      "sha256": "4b9fe3e6054a34d4c85f7298abc2be7f7c853546a4bb6ef910f6d2b7be6876d9",
+      "size": 750
+    },
+    "cumulative-aggregate-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.cumulative/sean-combs-the-reckoning-cumulative-aggregate.geojson.gz",
+      "sha256": "15350d87de5a19d57a1658eab982902a45bd6fe028cd1daee99e3007b194882d",
+      "size": 1092163
+    },
+    "cumulative-btiha-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.cumulative/sean-combs-the-reckoning-cumulative-btiha.geojson.gz",
+      "sha256": "8f3f4cb5c96401951555fe5ef091cf6a9644ac7388783d3b7fd33b657351ef67",
+      "size": 15065527
+    },
+    "cumulative-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/sean-combs-the-reckoning-cumulative.json",
+      "sha256": "fabb68880de43f84d6e06d512a915b4c38a31d2ba4055a89416b0da3394e1cfe",
+      "size": 15752
+    },
+    "day-bundle-receipt": {
+      "path": "/tmp/year-2025-day-bundles/sean-combs-the-reckoning/receipt.json",
+      "sha256": "3a4f3c1bbea5678372c0a4f2904c047263cb3c81759eb1a6b996f4d0eb50ef3f",
+      "size": 71710
+    },
+    "ip-swarm-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/sean-combs-the-reckoning-cumulative-ip-swarm.json",
+      "sha256": "3054473bec1a2f08258d1b1d0b744d05d8b31290805713ab2d0a8c905944d607",
+      "size": 42169
+    },
+    "published-day-bundle-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-day-product-receipts/sean-combs-the-reckoning.json",
+      "sha256": "3a4f3c1bbea5678372c0a4f2904c047263cb3c81759eb1a6b996f4d0eb50ef3f",
+      "size": 71710
+    },
+    "week-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/sean-combs-the-reckoning-week.json",
+      "sha256": "e48dc65f086689dcab0b8091102e8b112d9f985f796026890ad6ac12e2591a53",
+      "size": 1766990
+    }
+  },
+  "media_object": "sean-combs-the-reckoning",
+  "published_files": {
+    "data/csv/bytes/sean-combs-the-reckoning-cumulative-detail.2025-btiha-itemized-by-bytes.csv": "9b98d9affef0f479d169e083d0ec10096b5046094d09869fec1f0d87d05ff59a",
+    "docs/itemized/figures/sean-combs-the-reckoning-carto-4k.webp": "fdc43c9be8fc87872f81aaf4f48fc6bfa068d1b5130b7a48b45472e497329082",
+    "docs/itemized/figures/sean-combs-the-reckoning-carto.png": "e7cb82ee29c0af6d8e86031250b4e329a987f0664cdf7eb8b10d84d64c3dedc7",
+    "docs/itemized/figures/sean-combs-the-reckoning-cumulative-detail-btiha-itemized-by-bytes.svg": "1b53eced68dc0595503cea22c95e8b969cc4ff07566cacd010b4781a2db0d4cd",
+    "docs/itemized/figures/sean-combs-the-reckoning-data-ge-1080p-4k.webp": "e76acf2917ac0e3a7840f1097ff38c8f734fc64a584a47b54e6d1e90feffd53f",
+    "docs/itemized/figures/sean-combs-the-reckoning-data-ge-1080p.webp": "7327ef5c19cc205f530e93bbafb10649dbf9460bc44c7ebabe57bcad464c3243",
+    "docs/itemized/figures/sean-combs-the-reckoning-data-lt-1080p-4k.webp": "690ac034e2a55d6c5a62f124e337b56179cf5d904144449e64ecc47b8ec4dc9a",
+    "docs/itemized/figures/sean-combs-the-reckoning-data-lt-1080p.webp": "e974bdbfff3d3b6e1fe5404aec92a46bcf501e5caf6a82417673a613702fbf67",
+    "docs/itemized/figures/sean-combs-the-reckoning-downloads-by-day-day.svg": "d22430f7cd9f58f52137203a325aa2cab0e14a4337026acb3ab38110955e1329",
+    "docs/itemized/figures/sean-combs-the-reckoning-downloads-by-week-sean-combs-the-reckoning-week.svg": "88a6f41465556a4805f30fc32f7f87261bc505b09eeebc7a1c9188009646ee6b",
+    "docs/itemized/sean-combs-the-reckoning-sample-cache-audit.md": "f8f59137c7d46a708cc214f6a0ca94d94633eb5316504793ca9bec839d5bf0d5",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-year-2025-render",
+      "revision": "c520555c40beece2e38f62878e2d4cc1b312c505",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "c192c54f882171dafc74c038ec769f1e68bf8020d12a342d2334086b5b5ee5ea",
+      "size": 36998168
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.cumulative/sean-combs-the-reckoning-cumulative-btiha.geojson.gz",
+        "sha256": "8f3f4cb5c96401951555fe5ef091cf6a9644ac7388783d3b7fd33b657351ef67",
+        "size": 15065527
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/json/sean-combs-the-reckoning-cumulative-btiha-media-objects.json",
+        "sha256": "b5944546f392b2c3156997ce2c161ef7c4ff349e718ad4479c75883bf47d8a4b",
+        "size": 220905
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/izzi",
+      "revision": "b988ee7fd690a74a696c27c9aadf40c204a4c780",
+      "untracked": false
+    },
+    "media_object": "sean-combs-the-reckoning",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60-results-2025/bin/a60-meta-collection.exe",
+      "sha256": "e71f9def936a6868d5282a5ff7dece07ade360eefa07abebde75434a927220f7",
+      "size": 8743680
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          61.0,
+          43.0,
+          36.0,
+          35.0,
+          32.0,
+          32.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Seoul",
+          "Moscow",
+          "Istanbul",
+          "Saint Petersburg",
+          "Nanjing",
+          "London",
+          "Shanghai",
+          "Amsterdam",
+          "Hangzhou",
+          "Incheon"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          56.0,
+          41.0,
+          34.0,
+          33.0,
+          29.0,
+          27.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Seoul",
+          "Moscow",
+          "Istanbul",
+          "Saint Petersburg",
+          "Nanjing",
+          "Shanghai",
+          "London",
+          "Hangzhou",
+          "Ashburn",
+          "Incheon"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 21,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 18,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 26,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "c520555c40beece2e38f62878e2d4cc1b312c505",
+    "cartofreako": "fc58111b5bfa7667b12f6ade522ae5e566b464d1",
+    "izzi": "b988ee7fd690a74a696c27c9aadf40c204a4c780",
+    "metadata": "fbeb53a0b523f937fae2f23d14689d8c5c84dd5a",
+    "results_aao_adoption": "9cd9d91a6fbb560ac2a96beadf4c83b94daf6a88"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2025"
+}
