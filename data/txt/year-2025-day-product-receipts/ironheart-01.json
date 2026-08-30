@@ -1,0 +1,1725 @@
+{
+  "archive": {
+    "path": "/home/bkoz/src/alpha60-xperiments/year-2025-archives/ironheart-01.cache/cache.20251223.tar.xz",
+    "sha256": "722da4c7e97c82e9b09d89299f418cf760a9ce8520f9def7c483b8c456b4148f",
+    "size": 3543598508
+  },
+  "authorization": {
+    "archive_mutated": false,
+    "excluded_member_classes": [
+      "hour",
+      "week",
+      "cumulative"
+    ],
+    "raw_samples_opened": false,
+    "scope": "read only streaming of per-torrent day records"
+  },
+  "collection_key": "ironheart-01",
+  "day_cache_stream_contract": {
+    "authorization": {
+      "archive_mutated": false,
+      "excluded_member_classes": [
+        "hour",
+        "week",
+        "cumulative"
+      ],
+      "raw_samples_opened": false,
+      "scope": "read only streaming of per-torrent day records"
+    },
+    "available_day_products": 182,
+    "cache_members": 107970,
+    "collection_key": "ironheart-01",
+    "first_date": "2025-06-25",
+    "first_index": 1,
+    "indices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144,
+      145,
+      146,
+      147,
+      148,
+      149,
+      150,
+      151,
+      152,
+      153,
+      154,
+      155,
+      156,
+      157,
+      158,
+      159,
+      160,
+      161,
+      162,
+      163,
+      164,
+      165,
+      166,
+      167,
+      168,
+      169,
+      170,
+      171,
+      172,
+      173,
+      174,
+      175,
+      176,
+      177,
+      178,
+      179,
+      180,
+      181,
+      182
+    ],
+    "last_date": "2025-12-23",
+    "last_index": 182,
+    "missing_indices": [],
+    "sample_span_days": 182,
+    "schema": "alpha60-day-cache-stream-contract/1",
+    "sparse": false,
+    "status": "pass"
+  },
+  "day_product_contract": {
+    "collection_key": "ironheart-01",
+    "day_products": 182,
+    "first_date": "2025-06-25",
+    "first_index": 1,
+    "geojson_data_version": "20260701",
+    "ip_geolocation_version": "6:1777968300",
+    "json_data_version": "2026-08-05",
+    "last_date": "2025-12-23",
+    "last_index": 182,
+    "schema": "alpha60-day-product-contract/1",
+    "sparse": false,
+    "status": "pass"
+  },
+  "publications": {
+    "data/geojson.day/ironheart-01-day-00001.geojson.gz": {
+      "sha256": "58cadd75f485b3606a2a4bf868967e75ae768809c1eda09060b8b65c3384ae71",
+      "size": 217221
+    },
+    "data/geojson.day/ironheart-01-day-00002.geojson.gz": {
+      "sha256": "81bd4e764f263f667ccf8d6e4eea236791e13761699d9b467828131f1dc6c33b",
+      "size": 247238
+    },
+    "data/geojson.day/ironheart-01-day-00003.geojson.gz": {
+      "sha256": "07c9ed75c97f6d5dc282c45fd6c77f3abfa4356ea3422ddaf988213d2cc4e8ca",
+      "size": 308779
+    },
+    "data/geojson.day/ironheart-01-day-00004.geojson.gz": {
+      "sha256": "d2a39f2eeb5e7b7d25414c0bc8f764caf520b99ec2c633378ee8200597cb27ad",
+      "size": 285611
+    },
+    "data/geojson.day/ironheart-01-day-00005.geojson.gz": {
+      "sha256": "105d393190fc94736852753779b94b5ac7769adc0942a29a67c81acffaf7c1fd",
+      "size": 271267
+    },
+    "data/geojson.day/ironheart-01-day-00006.geojson.gz": {
+      "sha256": "545ddcb28f1de5206e5f54bf05629e7a366de153547f38464e5fa8752d2c1121",
+      "size": 296846
+    },
+    "data/geojson.day/ironheart-01-day-00007.geojson.gz": {
+      "sha256": "071953a79554722a0c8b4a0ab145014b55108002c0e8b352ea68cab52c775d17",
+      "size": 284541
+    },
+    "data/geojson.day/ironheart-01-day-00008.geojson.gz": {
+      "sha256": "083d683dfc8ca20a62e941c4191a122babfc6b634c5e9db5c6010a7f25a6c3c9",
+      "size": 336391
+    },
+    "data/geojson.day/ironheart-01-day-00009.geojson.gz": {
+      "sha256": "2f39a24123f2534664b432ebc6e2704e4821d0e5bcff4944b6d5ca28cfced407",
+      "size": 358214
+    },
+    "data/geojson.day/ironheart-01-day-00010.geojson.gz": {
+      "sha256": "a8b1c783612607091ddc18fdd618d3dbbe26e2929176f7e33b0d30bd6dc676b2",
+      "size": 386162
+    },
+    "data/geojson.day/ironheart-01-day-00011.geojson.gz": {
+      "sha256": "e417bb3926ab4caab91e6dc665cc9cbb41e7489d49a569a5dfc45f6ae35b7438",
+      "size": 352695
+    },
+    "data/geojson.day/ironheart-01-day-00012.geojson.gz": {
+      "sha256": "7a65c5c1f9882d87a0a777f3c96938f99d1c3c389d05fde522115dcaa410c438",
+      "size": 354593
+    },
+    "data/geojson.day/ironheart-01-day-00013.geojson.gz": {
+      "sha256": "7db92a70b1071e8dee646c351d8e45c5781a9be1ddd58d156b80da852284de3e",
+      "size": 353550
+    },
+    "data/geojson.day/ironheart-01-day-00014.geojson.gz": {
+      "sha256": "3fae981252b41337f7fbf04d9986c346b60f0ee245ee6278b369ecff6e1ba019",
+      "size": 342568
+    },
+    "data/geojson.day/ironheart-01-day-00015.geojson.gz": {
+      "sha256": "c65268730729752c5b0a73c9a59266684eaa05ca4cb2e8d2de1f8a37e521f2f4",
+      "size": 345580
+    },
+    "data/geojson.day/ironheart-01-day-00016.geojson.gz": {
+      "sha256": "35e1678d60719a7602c2add587d9f2dde8dfd505b582574fe7733b383b1bb5b0",
+      "size": 354576
+    },
+    "data/geojson.day/ironheart-01-day-00017.geojson.gz": {
+      "sha256": "5b3ec710dfd65f0791f42a17412e27133426b00690b3454d705aba5955db0892",
+      "size": 345968
+    },
+    "data/geojson.day/ironheart-01-day-00018.geojson.gz": {
+      "sha256": "c23a3db810fab4b19935cf06ae4db90baed1c348ebcb5890180a5ba0e3d34f56",
+      "size": 338568
+    },
+    "data/geojson.day/ironheart-01-day-00019.geojson.gz": {
+      "sha256": "65afdecdbea9023a3648440fc04d33233e488be7b02e8ad00282a3eaa1118dfc",
+      "size": 333272
+    },
+    "data/geojson.day/ironheart-01-day-00020.geojson.gz": {
+      "sha256": "59af96b2d1e240025f39efb34c4999d2c482cddfaee22625709a08c2a86feb1a",
+      "size": 333986
+    },
+    "data/geojson.day/ironheart-01-day-00021.geojson.gz": {
+      "sha256": "a8f0ab2bed19b72cdfff32195113c9ed9a800e21bfa186d17415da7268804cda",
+      "size": 294747
+    },
+    "data/geojson.day/ironheart-01-day-00022.geojson.gz": {
+      "sha256": "25d5b0d299f2e38a2c702a014c398587e0e676a75d6f2c193caad56121c395fe",
+      "size": 308359
+    },
+    "data/geojson.day/ironheart-01-day-00023.geojson.gz": {
+      "sha256": "352c949c481848ea86756680b75aaa73ff3cb6c63bce528506b84556a1bd5677",
+      "size": 304043
+    },
+    "data/geojson.day/ironheart-01-day-00024.geojson.gz": {
+      "sha256": "0017353bc55435303075300a2d2d75e4a987323553482ebfa3315bcf671e77df",
+      "size": 321656
+    },
+    "data/geojson.day/ironheart-01-day-00025.geojson.gz": {
+      "sha256": "261f3f7d61a7acc500bb0f0f66acfaa13e2ea697114ea5490248546b92698416",
+      "size": 288987
+    },
+    "data/geojson.day/ironheart-01-day-00026.geojson.gz": {
+      "sha256": "2c8c3898e219dc06c01689158d35ab7d6ad264d6e013d8605dd7cae831f7a17f",
+      "size": 299717
+    },
+    "data/geojson.day/ironheart-01-day-00027.geojson.gz": {
+      "sha256": "025f7d9615701f2d11dd75641bc5aad268a39fe4b334bd4d6de15d67de815ed3",
+      "size": 345230
+    },
+    "data/geojson.day/ironheart-01-day-00028.geojson.gz": {
+      "sha256": "958b828ddf1cae8c01ba981801c4fedde579872974d3277490a21771677d4251",
+      "size": 295680
+    },
+    "data/geojson.day/ironheart-01-day-00029.geojson.gz": {
+      "sha256": "566bb3cefddef3da8bca104de8b9e576588bfd177e48d2a338d48f92633b1143",
+      "size": 311056
+    },
+    "data/geojson.day/ironheart-01-day-00030.geojson.gz": {
+      "sha256": "159c3f55adaeac39e5e25bbae087c348e8c3d803569a5119e7982801b13acdec",
+      "size": 311662
+    },
+    "data/geojson.day/ironheart-01-day-00031.geojson.gz": {
+      "sha256": "11966f4d75f3b87099223fefd4d6c8db316e767cef09d608fe9bd1afa7c061f0",
+      "size": 288404
+    },
+    "data/geojson.day/ironheart-01-day-00032.geojson.gz": {
+      "sha256": "11be8153a26c5d509bbb37d93fd6ab32d1a6ab630a9e063875f2be4f094edc3d",
+      "size": 273854
+    },
+    "data/geojson.day/ironheart-01-day-00033.geojson.gz": {
+      "sha256": "6d62f8a7a41da82e99e706e2b752d22f3a932b4d65e5b7cb88c290cafad76923",
+      "size": 309926
+    },
+    "data/geojson.day/ironheart-01-day-00034.geojson.gz": {
+      "sha256": "1761db131472614a7ba5244435edb29501f1c817e11ceb05415f385e517e3ead",
+      "size": 354270
+    },
+    "data/geojson.day/ironheart-01-day-00035.geojson.gz": {
+      "sha256": "c2414f0d7bcb5d35f6a11f5529333e8c95db7ddfbb617dab5deacbf4778ffdba",
+      "size": 359832
+    },
+    "data/geojson.day/ironheart-01-day-00036.geojson.gz": {
+      "sha256": "78162031d19d070d42264df4cb63423f905ea0cd13246543ed0530440cb5b89b",
+      "size": 358864
+    },
+    "data/geojson.day/ironheart-01-day-00037.geojson.gz": {
+      "sha256": "47ae284af5ee13d1263f944e6d167c2945d899adeee6127530dd7ad352b8dd55",
+      "size": 350220
+    },
+    "data/geojson.day/ironheart-01-day-00038.geojson.gz": {
+      "sha256": "97a97729c93e7a141a890c6ff3ccfbc04c7bb6b0a34e046ee2a6cb6eff9af480",
+      "size": 406802
+    },
+    "data/geojson.day/ironheart-01-day-00039.geojson.gz": {
+      "sha256": "7c150afc954ea67e4b837b8955c201d1e2d868e5000442ce14fe0168f722770a",
+      "size": 286344
+    },
+    "data/geojson.day/ironheart-01-day-00040.geojson.gz": {
+      "sha256": "192eee8f1313e6b5818d11557af92336cf193737eba98d81a127d382728648b8",
+      "size": 332816
+    },
+    "data/geojson.day/ironheart-01-day-00041.geojson.gz": {
+      "sha256": "c225c6678bda98cf79e2d681a257c3b2b69980ae5d08f1c2ce1882198e0aaf1e",
+      "size": 307377
+    },
+    "data/geojson.day/ironheart-01-day-00042.geojson.gz": {
+      "sha256": "7071e4df4321e12d4f337ed8106cb81e9ff6d8cf96f92a76365ae870eb722982",
+      "size": 122122
+    },
+    "data/geojson.day/ironheart-01-day-00043.geojson.gz": {
+      "sha256": "7b0ac51ede63e90a637246b7ce08f0ac3250b54628bbafef44cea5ae69ebdcca",
+      "size": 314287
+    },
+    "data/geojson.day/ironheart-01-day-00044.geojson.gz": {
+      "sha256": "c84718e5a4507b5c651ae05cb8c4dfea8008720a52455f3e61e5f4456d67b875",
+      "size": 328766
+    },
+    "data/geojson.day/ironheart-01-day-00045.geojson.gz": {
+      "sha256": "de75bae4baa73a2ce83960e1ac4bd178b4818af87c03422f5cc285a26c01477e",
+      "size": 324763
+    },
+    "data/geojson.day/ironheart-01-day-00046.geojson.gz": {
+      "sha256": "ed453ad2d1e484a073493e1beba855e4ae02a5d97e85cd574a69bcf1e1bbe1ca",
+      "size": 299562
+    },
+    "data/geojson.day/ironheart-01-day-00047.geojson.gz": {
+      "sha256": "161c36a438e56aa0caa3c97b7ed5909079a5b5604b4cf2948bec20044c500a76",
+      "size": 300726
+    },
+    "data/geojson.day/ironheart-01-day-00048.geojson.gz": {
+      "sha256": "808689a4010e8e8b9c08161e6eabaddc3a60a3788696e59de4c1fdf8f1b9a42f",
+      "size": 325293
+    },
+    "data/geojson.day/ironheart-01-day-00049.geojson.gz": {
+      "sha256": "61389797af776bde197bdcf7c64a49c7977d40257507cf6e96a4967c61013a79",
+      "size": 315642
+    },
+    "data/geojson.day/ironheart-01-day-00050.geojson.gz": {
+      "sha256": "3448ddc90aabbc0168a95218f0d7fa9931f66874459c75c5aa42149bf23577df",
+      "size": 305275
+    },
+    "data/geojson.day/ironheart-01-day-00051.geojson.gz": {
+      "sha256": "d7889daa07b6efd77ce34dac877bb3762294ba49454eecafd535b4f61291f409",
+      "size": 306461
+    },
+    "data/geojson.day/ironheart-01-day-00052.geojson.gz": {
+      "sha256": "6590f51b50166d378b4c4dd96d56459916fbbfea3cbd369795c0e1edd5e4d8da",
+      "size": 285191
+    },
+    "data/geojson.day/ironheart-01-day-00053.geojson.gz": {
+      "sha256": "25d50eb9fa2bc48f379571b2ede5451fda7b65d58a207079a0d63d529fb040eb",
+      "size": 283412
+    },
+    "data/geojson.day/ironheart-01-day-00054.geojson.gz": {
+      "sha256": "9a519cd4d3bf418a66e99c59b925c7df448e1b83373203ef6e22a93ab200bf34",
+      "size": 283811
+    },
+    "data/geojson.day/ironheart-01-day-00055.geojson.gz": {
+      "sha256": "c5e28b2e72dadf747c27f06c2f2396276b2fec53b78f11c00ef822fbbf898aa4",
+      "size": 294958
+    },
+    "data/geojson.day/ironheart-01-day-00056.geojson.gz": {
+      "sha256": "9d663a8ba2722d2c5b8c04dbd4a10649f919a6d6f02e4d2670f560815ff52ce0",
+      "size": 288910
+    },
+    "data/geojson.day/ironheart-01-day-00057.geojson.gz": {
+      "sha256": "99a72d23b22bf02b644f1422aac3acd3f3bcc7d22347cf5a2f716fd6abafdf61",
+      "size": 289534
+    },
+    "data/geojson.day/ironheart-01-day-00058.geojson.gz": {
+      "sha256": "1c6a65eba893a2ce2dd816301b8e03387af5539fc1105ccb0158296a7c3e04d1",
+      "size": 293946
+    },
+    "data/geojson.day/ironheart-01-day-00059.geojson.gz": {
+      "sha256": "b887a5a2a58d85446153edbe06d09ce318c2770f48b2dcf753ac0262303786cd",
+      "size": 297115
+    },
+    "data/geojson.day/ironheart-01-day-00060.geojson.gz": {
+      "sha256": "e1fd0d3da8d8d9417ef703ad4a2051b5c34a547b6aa1bfa40bd7104b89c3078d",
+      "size": 288226
+    },
+    "data/geojson.day/ironheart-01-day-00061.geojson.gz": {
+      "sha256": "9b9755d438226e6ff7f159e531b3fd2b804fc88d2d8d5148ef8169fb12704f7f",
+      "size": 278515
+    },
+    "data/geojson.day/ironheart-01-day-00062.geojson.gz": {
+      "sha256": "7764982bad37100e21dd9e0f0af6d999d27762b0716c4b6ca300dbf0a0d01ebd",
+      "size": 302724
+    },
+    "data/geojson.day/ironheart-01-day-00063.geojson.gz": {
+      "sha256": "834e56c67a64b7b4e2855e2f87f8389adbf810eeff756fe8644e76ad83fb0407",
+      "size": 261033
+    },
+    "data/geojson.day/ironheart-01-day-00064.geojson.gz": {
+      "sha256": "508c682c497766cfb79196fdc277b7b3ed50079177901ce355a6aa74b00e8f49",
+      "size": 194646
+    },
+    "data/geojson.day/ironheart-01-day-00065.geojson.gz": {
+      "sha256": "c0eda3bc6cc24e162ca62550e9daf4d2365b21daf56d3e37155d6858d6010804",
+      "size": 301236
+    },
+    "data/geojson.day/ironheart-01-day-00066.geojson.gz": {
+      "sha256": "1690b2ce1d7fbaa4a15d60400499af34444536edbe4471ba0abd1f8458ed9167",
+      "size": 347855
+    },
+    "data/geojson.day/ironheart-01-day-00067.geojson.gz": {
+      "sha256": "974315381e0b214f066f1a7d94a910720d82c936d442c6dd1b8d13c5762b2925",
+      "size": 341710
+    },
+    "data/geojson.day/ironheart-01-day-00068.geojson.gz": {
+      "sha256": "7686b6cbc461ab20769c64cf2ed88da34ea9df65ad9169fc57504277c2ff230f",
+      "size": 315893
+    },
+    "data/geojson.day/ironheart-01-day-00069.geojson.gz": {
+      "sha256": "f6a041b7997a61e6457c8834768b6663cf7525349a784da6564ecf0f5d076156",
+      "size": 312722
+    },
+    "data/geojson.day/ironheart-01-day-00070.geojson.gz": {
+      "sha256": "5ac6efe5841f07810e79d307a8efcc5276951b2987f18078adba7fdd020be631",
+      "size": 261903
+    },
+    "data/geojson.day/ironheart-01-day-00071.geojson.gz": {
+      "sha256": "4f49b2b4eadf0a33d94030d8f901bd2a2f6f0d41609532c1066494dce46fbe64",
+      "size": 298005
+    },
+    "data/geojson.day/ironheart-01-day-00072.geojson.gz": {
+      "sha256": "643761c72ee8dd38a9f8dda990a14e9803cbc65f35a0d49d006cc71c612514af",
+      "size": 299476
+    },
+    "data/geojson.day/ironheart-01-day-00073.geojson.gz": {
+      "sha256": "8c43cea6b3eaa04673aca51a363cb41cb85d30ecd18d1b7ef622a954a1c90530",
+      "size": 284981
+    },
+    "data/geojson.day/ironheart-01-day-00074.geojson.gz": {
+      "sha256": "d884ccb72848f462980187d9360b2dc20b2725d7c817b987a915c6bd85ab6d7d",
+      "size": 277431
+    },
+    "data/geojson.day/ironheart-01-day-00075.geojson.gz": {
+      "sha256": "141e8a4805db625c7d5ce20d97c43e8a2323c278718cd42ef6ca500460a34697",
+      "size": 287952
+    },
+    "data/geojson.day/ironheart-01-day-00076.geojson.gz": {
+      "sha256": "98d9cce5e3b39ca11781693d22b001007031ae5576d680e586b683cc47fa2374",
+      "size": 306497
+    },
+    "data/geojson.day/ironheart-01-day-00077.geojson.gz": {
+      "sha256": "930e6158d33496b1632553e1379d5476bac24957527a113368d7c6436b320200",
+      "size": 324273
+    },
+    "data/geojson.day/ironheart-01-day-00078.geojson.gz": {
+      "sha256": "ba3ffac3bf6b261c107b80f34ccac1a299cc63025fde61fd59bc2c288b84b007",
+      "size": 313673
+    },
+    "data/geojson.day/ironheart-01-day-00079.geojson.gz": {
+      "sha256": "2882b4ef9819c4e67074a5da67c34eefbe231f62250b38edda34e3a307d22fa3",
+      "size": 285940
+    },
+    "data/geojson.day/ironheart-01-day-00080.geojson.gz": {
+      "sha256": "35d525ce69eabfbac550c0a8c1c2d51f6fdf4c5c80ae86928d08a5e3c1e6d514",
+      "size": 287406
+    },
+    "data/geojson.day/ironheart-01-day-00081.geojson.gz": {
+      "sha256": "3aed10d5ecceed7a65dc453d8c682ab4a850c752463526c812f85df2da9389d8",
+      "size": 268478
+    },
+    "data/geojson.day/ironheart-01-day-00082.geojson.gz": {
+      "sha256": "8de661d01584457a2cc8448c311dacb8ee586d6cf3f882999451607ada8f055b",
+      "size": 247015
+    },
+    "data/geojson.day/ironheart-01-day-00083.geojson.gz": {
+      "sha256": "a57ba402e5903ed0c2acc10d7ec453178ff7d5ee513a4337ed429be5d81f326a",
+      "size": 295639
+    },
+    "data/geojson.day/ironheart-01-day-00084.geojson.gz": {
+      "sha256": "a5056cf5a839fad4e4d76c828bd299781a0fc6fb491bab70f1a2546e2bcc859b",
+      "size": 284273
+    },
+    "data/geojson.day/ironheart-01-day-00085.geojson.gz": {
+      "sha256": "5018723d8d36910c4a8ca99f47d2de15c4617617b9c852a71e71fc551f2efdca",
+      "size": 287632
+    },
+    "data/geojson.day/ironheart-01-day-00086.geojson.gz": {
+      "sha256": "e8d3539063f93de0aff25e34230efa667ebd65b423f7dd5b534b0926bd14df1b",
+      "size": 296481
+    },
+    "data/geojson.day/ironheart-01-day-00087.geojson.gz": {
+      "sha256": "f2604a3c021f66c4dee9f42a09751f70eb8677feddb4a6703cfd4a300de64709",
+      "size": 293390
+    },
+    "data/geojson.day/ironheart-01-day-00088.geojson.gz": {
+      "sha256": "99e89ddcb71b7df6eff4300ef8930e998d5bbf7b372877c2f5740f8ad733d6e5",
+      "size": 286581
+    },
+    "data/geojson.day/ironheart-01-day-00089.geojson.gz": {
+      "sha256": "10c8ed260b5f4dd6c077750f7c57ea3df9d41cf696d63c3a925416168477cf3e",
+      "size": 299356
+    },
+    "data/geojson.day/ironheart-01-day-00090.geojson.gz": {
+      "sha256": "2e6bd7f8bea28fc6f13f5265f96594e2e60659c5b3b45d64cae66e3e47653c7c",
+      "size": 310241
+    },
+    "data/geojson.day/ironheart-01-day-00091.geojson.gz": {
+      "sha256": "f1ce06d619ed11e503aeb0a43dfa012eea9090581f67e205cda0beeb9c82dd6c",
+      "size": 332975
+    },
+    "data/geojson.day/ironheart-01-day-00092.geojson.gz": {
+      "sha256": "7ba49a8e1eebfd5ffe7da5a6d8aa8c71b63f609396352fd3e29182c4d02d8e82",
+      "size": 328108
+    },
+    "data/geojson.day/ironheart-01-day-00093.geojson.gz": {
+      "sha256": "f038667a77cdaa90372d7b3694eff4254bd5885b3ddbf79ac07b5422f3fd139b",
+      "size": 321759
+    },
+    "data/geojson.day/ironheart-01-day-00094.geojson.gz": {
+      "sha256": "e5c9e071d79e440b73f1dcfea6116d9c62042c3f7a7f08c4c1f218cb095f45a6",
+      "size": 362017
+    },
+    "data/geojson.day/ironheart-01-day-00095.geojson.gz": {
+      "sha256": "bd324bc05fafe13334cdc1ecd51749ad2169beb487753b4e1eec06c39a8cdca9",
+      "size": 325683
+    },
+    "data/geojson.day/ironheart-01-day-00096.geojson.gz": {
+      "sha256": "af56291c23bbf3fc3b9b83c2cfdffa2ea88cb2fed457ad9bd16b22033653cb8e",
+      "size": 270781
+    },
+    "data/geojson.day/ironheart-01-day-00097.geojson.gz": {
+      "sha256": "6bb213027587e2b88b1ae32cd5fc4e9d6e3c7e31af685e4cee91b3ca22d86fe8",
+      "size": 323176
+    },
+    "data/geojson.day/ironheart-01-day-00098.geojson.gz": {
+      "sha256": "3b55aaba21e9b411f49e416351cda93461126ed4f865ee5315bd549262b3aca4",
+      "size": 319857
+    },
+    "data/geojson.day/ironheart-01-day-00099.geojson.gz": {
+      "sha256": "8fba48fc6c35cfc86b9b10c610643964a37e6a41b57c10dfce4812483e3a7717",
+      "size": 306864
+    },
+    "data/geojson.day/ironheart-01-day-00100.geojson.gz": {
+      "sha256": "e125cbfe004caafe074b1c92f14354e7960002a03cecfec13157abbfc4db4ae6",
+      "size": 311843
+    },
+    "data/geojson.day/ironheart-01-day-00101.geojson.gz": {
+      "sha256": "d2d838dd879c78df24a03ed0d0fd96cf8b3eae26127da044fa1422e687f3e7ce",
+      "size": 308287
+    },
+    "data/geojson.day/ironheart-01-day-00102.geojson.gz": {
+      "sha256": "d0496c8fc6e58ddc1d38f738f57322152a3038a076e90f71f261afd40cc088e5",
+      "size": 297753
+    },
+    "data/geojson.day/ironheart-01-day-00103.geojson.gz": {
+      "sha256": "95739448f8eb5d01c8058d04138ed82e0a9dc58f04acf3129625a27fdf9ea770",
+      "size": 301594
+    },
+    "data/geojson.day/ironheart-01-day-00104.geojson.gz": {
+      "sha256": "43963cb44a791ba47efc955ef2ab7c2dbcd317d89ab850b972a73c77173cd9af",
+      "size": 325830
+    },
+    "data/geojson.day/ironheart-01-day-00105.geojson.gz": {
+      "sha256": "c8435657e7042257c5130ebeaf3db5af80466ada70f7eacfb6c0641c5af9ed36",
+      "size": 303385
+    },
+    "data/geojson.day/ironheart-01-day-00106.geojson.gz": {
+      "sha256": "4e34fe343733087cffb8776dc6af3344d0e94af4a1fa2520f175d5d1ea9a0a3e",
+      "size": 316339
+    },
+    "data/geojson.day/ironheart-01-day-00107.geojson.gz": {
+      "sha256": "a9a0b4e10be2cc1ffa664cf76c26d938536a7ff5f6b1658e810e1a93951d2d63",
+      "size": 340816
+    },
+    "data/geojson.day/ironheart-01-day-00108.geojson.gz": {
+      "sha256": "45d301142aa598c180114c1882e7bd9fb805482f744410e9ecdd6e7f3315b2e0",
+      "size": 334194
+    },
+    "data/geojson.day/ironheart-01-day-00109.geojson.gz": {
+      "sha256": "07aa4aa8a73fe5b912283f460743ccf96cd4b0913d6a681c2f4070ccec40e6c1",
+      "size": 326207
+    },
+    "data/geojson.day/ironheart-01-day-00110.geojson.gz": {
+      "sha256": "65a60a03faa20c19c42be4b7d19c5199473bcaa64f7ed0407e484070d745c022",
+      "size": 322692
+    },
+    "data/geojson.day/ironheart-01-day-00111.geojson.gz": {
+      "sha256": "a795d0da112e8dea1e737aeac35f67ed6517d4ff64ec01c7fcedbdd4f3ffb4b4",
+      "size": 334331
+    },
+    "data/geojson.day/ironheart-01-day-00112.geojson.gz": {
+      "sha256": "47873ac61be70e7855689f1bee8fe1a73d43f4d98d0c6aa43c047fe889ef6d16",
+      "size": 312469
+    },
+    "data/geojson.day/ironheart-01-day-00113.geojson.gz": {
+      "sha256": "97e9831c06a95c70b5476ae04aedfe7973a49180cbb3988bd0e4311aa06695d0",
+      "size": 316272
+    },
+    "data/geojson.day/ironheart-01-day-00114.geojson.gz": {
+      "sha256": "e004758e9d5600a246840aa0e136ddcc95a4ef27ab3362a796b4a95f673bc896",
+      "size": 313059
+    },
+    "data/geojson.day/ironheart-01-day-00115.geojson.gz": {
+      "sha256": "16b1ae41e339a7619fee280987d98da22fbf9f32b223be5bd981b51508af464b",
+      "size": 319640
+    },
+    "data/geojson.day/ironheart-01-day-00116.geojson.gz": {
+      "sha256": "31eed5900c19de248728c4ac98315de2025d2092f348c2157fe83ff4eed0ab7f",
+      "size": 326990
+    },
+    "data/geojson.day/ironheart-01-day-00117.geojson.gz": {
+      "sha256": "da9dbe7dbbfe5ea3eec00943c3d0860ab22ba4d680d12d8ddcd4cae0819d2acd",
+      "size": 339566
+    },
+    "data/geojson.day/ironheart-01-day-00118.geojson.gz": {
+      "sha256": "197cd95f03ccc059ad916265a44587a33be8a6e2e9245abac5718714dd4fed10",
+      "size": 355192
+    },
+    "data/geojson.day/ironheart-01-day-00119.geojson.gz": {
+      "sha256": "7c124fd243cf36f700fafc8295edf1c6d8c3707e7aa5dfbe10a42770730e63d0",
+      "size": 331758
+    },
+    "data/geojson.day/ironheart-01-day-00120.geojson.gz": {
+      "sha256": "0a2d1c5b759b4ca15ca4c12fa07e79ded158db6713550fddb278c93316bcab1b",
+      "size": 340257
+    },
+    "data/geojson.day/ironheart-01-day-00121.geojson.gz": {
+      "sha256": "e8744ea63c148d000459181a0a5c3d45e3a1c40159dc6ccb38ae26bbda142688",
+      "size": 337821
+    },
+    "data/geojson.day/ironheart-01-day-00122.geojson.gz": {
+      "sha256": "3a573453375c890e764443321cf6a26e30695e5c0ee2cc7deaac3ce0d521b425",
+      "size": 375121
+    },
+    "data/geojson.day/ironheart-01-day-00123.geojson.gz": {
+      "sha256": "7d3faa9ed8d4abc73767558904b988f8405783c1ebf6654cb2a17ddab1ab6022",
+      "size": 328042
+    },
+    "data/geojson.day/ironheart-01-day-00124.geojson.gz": {
+      "sha256": "6a2b4f5d6af0a3ef4b4612d145a7b9ae02eac186841fe4297a5d115f3c2723ee",
+      "size": 318653
+    },
+    "data/geojson.day/ironheart-01-day-00125.geojson.gz": {
+      "sha256": "5dfec64de48b6d327f6e1b8280f407d4e2f3bb16050d91fed9e26233ce119ce8",
+      "size": 335016
+    },
+    "data/geojson.day/ironheart-01-day-00126.geojson.gz": {
+      "sha256": "1d180a39653e4133fb532f1fab9e3d254b0966bc058618a6a1fee079b667762a",
+      "size": 339933
+    },
+    "data/geojson.day/ironheart-01-day-00127.geojson.gz": {
+      "sha256": "50ab497ecfb0b2543c60150695493e74fc6df4ab57abb32cecfc04ec9a2ac757",
+      "size": 331959
+    },
+    "data/geojson.day/ironheart-01-day-00128.geojson.gz": {
+      "sha256": "54807462fe738da127eae75515bec7558c4e118122e58f949621dd118bb125e2",
+      "size": 330753
+    },
+    "data/geojson.day/ironheart-01-day-00129.geojson.gz": {
+      "sha256": "ecc5c1308cff6409715b5b75bac2de49cdd9d62a96273ff409c4393ed483c350",
+      "size": 326460
+    },
+    "data/geojson.day/ironheart-01-day-00130.geojson.gz": {
+      "sha256": "26f576dcc43ce107815d7b2df518bc78fa19305fa40586948918ddcdb54e71d3",
+      "size": 322063
+    },
+    "data/geojson.day/ironheart-01-day-00131.geojson.gz": {
+      "sha256": "e0bb6054a7a87f89b39b663889a60b644ee848d8ef1fd401b9a64c6f3a2a5aca",
+      "size": 323736
+    },
+    "data/geojson.day/ironheart-01-day-00132.geojson.gz": {
+      "sha256": "0de4b304df5423ef7fb6d51ff74e6a1cc33e7e65a7b95b7c249d5cef1f519186",
+      "size": 320237
+    },
+    "data/geojson.day/ironheart-01-day-00133.geojson.gz": {
+      "sha256": "d0fc78e4e63957cf8c48b9474336d1816b3dbdd3277eedee712664098b539744",
+      "size": 318744
+    },
+    "data/geojson.day/ironheart-01-day-00134.geojson.gz": {
+      "sha256": "c0ec2a240c71887cce06bb337cb286ebbc293ea0c30914b20cd0d63f315dcb0b",
+      "size": 319907
+    },
+    "data/geojson.day/ironheart-01-day-00135.geojson.gz": {
+      "sha256": "53abe3762c9e503e4054159dd5eb490aa1f58511673e7aee6faa9b08badfc258",
+      "size": 331127
+    },
+    "data/geojson.day/ironheart-01-day-00136.geojson.gz": {
+      "sha256": "2792602a3876006c0d4faebe74e030b3cbd4e9105bf67c38e975bfc3231f4c52",
+      "size": 326382
+    },
+    "data/geojson.day/ironheart-01-day-00137.geojson.gz": {
+      "sha256": "304f9ac758cb36b3af907000fb3e308fd15273d83a8b86cacd94b08da39e9350",
+      "size": 318081
+    },
+    "data/geojson.day/ironheart-01-day-00138.geojson.gz": {
+      "sha256": "49a70d02d0b38b08346c10378f4adb24dc601e43a69d0dd25b3238b9b0f1f43a",
+      "size": 312682
+    },
+    "data/geojson.day/ironheart-01-day-00139.geojson.gz": {
+      "sha256": "266a65f7534e4ba1eae82743202630ad8931941e8140c4ec62b42da8db670309",
+      "size": 327159
+    },
+    "data/geojson.day/ironheart-01-day-00140.geojson.gz": {
+      "sha256": "5f30c85fcc45787b7d16666835cccf451ed16ad10c6868643349825ec5af3c46",
+      "size": 323681
+    },
+    "data/geojson.day/ironheart-01-day-00141.geojson.gz": {
+      "sha256": "e26eb9d99edf96359907a6c9f00c35748aa53145e3ed1d144e68a4108d03c8a4",
+      "size": 323659
+    },
+    "data/geojson.day/ironheart-01-day-00142.geojson.gz": {
+      "sha256": "bbe0f359d6dd7f142cc10c8aa2f71dbf02fa016b4d087916bb7f535ca9fc009e",
+      "size": 319600
+    },
+    "data/geojson.day/ironheart-01-day-00143.geojson.gz": {
+      "sha256": "fdffd9a4e69d41c9ca7bbc5b012521b7daae8b889da30ca418b83231c08d3037",
+      "size": 321507
+    },
+    "data/geojson.day/ironheart-01-day-00144.geojson.gz": {
+      "sha256": "79a93bef7018f153419507b10d2dd1711bbc523dcdbc4728d07a0b163b262dad",
+      "size": 317475
+    },
+    "data/geojson.day/ironheart-01-day-00145.geojson.gz": {
+      "sha256": "45aa3ea8bc1165be3db9411b0311398ea87f41bd3e531f1573c9e7e23b0804a2",
+      "size": 300592
+    },
+    "data/geojson.day/ironheart-01-day-00146.geojson.gz": {
+      "sha256": "9153ad69f05ecade26566941ded078e1f331aa5172d1c171a5e04e0f4f7a69d3",
+      "size": 319448
+    },
+    "data/geojson.day/ironheart-01-day-00147.geojson.gz": {
+      "sha256": "fe4ec06d77786454e8c27fe7031a12b28dc5e7fcd4f25558da1bb26ba3dd6671",
+      "size": 326190
+    },
+    "data/geojson.day/ironheart-01-day-00148.geojson.gz": {
+      "sha256": "13c2f0ffc7bda3e42584021d1eacda63be9dafa91a124d5f598689bd07dd0bc1",
+      "size": 325098
+    },
+    "data/geojson.day/ironheart-01-day-00149.geojson.gz": {
+      "sha256": "11aab2ad1f1360fdfbf2a2539f58aefe2e709225a07bc34c7859562aeb3f5b28",
+      "size": 318531
+    },
+    "data/geojson.day/ironheart-01-day-00150.geojson.gz": {
+      "sha256": "5e127ac08c2566b4d5fbff080a6947170d953061c8fe64dade50f0c029f65359",
+      "size": 376427
+    },
+    "data/geojson.day/ironheart-01-day-00151.geojson.gz": {
+      "sha256": "abfb4b33356115dde838e1e231da26b3c2f8172464cfd432230e04b041737683",
+      "size": 323334
+    },
+    "data/geojson.day/ironheart-01-day-00152.geojson.gz": {
+      "sha256": "d2230d411fbaa49a0bbeb3fcc00aceaea4f9b1c09623f0c979029897c49e68a2",
+      "size": 316010
+    },
+    "data/geojson.day/ironheart-01-day-00153.geojson.gz": {
+      "sha256": "ac22579e88a3b9fa0ff8cf8a671b48ee71f67dc1a83b0ad5cd6a2624ebcb8f94",
+      "size": 336644
+    },
+    "data/geojson.day/ironheart-01-day-00154.geojson.gz": {
+      "sha256": "b60b222a5d5f412b57767c3f0aef2f15f0267a1a264622d178a42a4b2e75e94f",
+      "size": 333945
+    },
+    "data/geojson.day/ironheart-01-day-00155.geojson.gz": {
+      "sha256": "535a3106db5a229529392bb18c604a3a90c5f35f6625ca8dcd9a2c6675f4aa81",
+      "size": 338318
+    },
+    "data/geojson.day/ironheart-01-day-00156.geojson.gz": {
+      "sha256": "5a0d9387fa5ce24013b059c75acad274c48e64edd832e2bc303139b9dea7e01d",
+      "size": 339938
+    },
+    "data/geojson.day/ironheart-01-day-00157.geojson.gz": {
+      "sha256": "b96f03f8349910656233a52dcebe440bd703d344def1825ff862e3e76a23052b",
+      "size": 330146
+    },
+    "data/geojson.day/ironheart-01-day-00158.geojson.gz": {
+      "sha256": "31e807d324ae6c82a2538e9309365d44fa9b397fd2d09191b3974b15ebe80bcd",
+      "size": 339097
+    },
+    "data/geojson.day/ironheart-01-day-00159.geojson.gz": {
+      "sha256": "5be8ebed05c5ec4e2fa29f6ec62f0a48a25af63eb948c41b01027b5f91381bb2",
+      "size": 344713
+    },
+    "data/geojson.day/ironheart-01-day-00160.geojson.gz": {
+      "sha256": "7f717a3113d8778bfb330d0d86433d11376883232d4b664934de5bb017221c1a",
+      "size": 350999
+    },
+    "data/geojson.day/ironheart-01-day-00161.geojson.gz": {
+      "sha256": "60f5a8ab3d034449afe0699558c2f7c8de55f7092e1a20bd7c5e1b567c04f18f",
+      "size": 343789
+    },
+    "data/geojson.day/ironheart-01-day-00162.geojson.gz": {
+      "sha256": "25d4e3da3ee2fc1b1332e08f69253d7cd0d6cf2f04a39b5912ef97b8728910e7",
+      "size": 341892
+    },
+    "data/geojson.day/ironheart-01-day-00163.geojson.gz": {
+      "sha256": "56003e8e563ea37f1ee93db551af4879917ecc88f00795e27213defb6676d23e",
+      "size": 342678
+    },
+    "data/geojson.day/ironheart-01-day-00164.geojson.gz": {
+      "sha256": "2fe223203d93d9e2db39aa8d84685d6720670378c6b04113b669cc06b771daa6",
+      "size": 335823
+    },
+    "data/geojson.day/ironheart-01-day-00165.geojson.gz": {
+      "sha256": "a832c060012f19d55f4758923ef5812487c4437ceef08a4576e8811fd941fad0",
+      "size": 323592
+    },
+    "data/geojson.day/ironheart-01-day-00166.geojson.gz": {
+      "sha256": "f908a3d623cb000cd3084f9dfb5605dbc5ec772b12874337990f30bfbed174cd",
+      "size": 310090
+    },
+    "data/geojson.day/ironheart-01-day-00167.geojson.gz": {
+      "sha256": "e591c103cc6113e9e6adfef492f5057adba969a26287dd29914626157893630f",
+      "size": 344575
+    },
+    "data/geojson.day/ironheart-01-day-00168.geojson.gz": {
+      "sha256": "907c89bd22568802a7999494cc9869dc4b2259e9e132251625f57fd402d736cf",
+      "size": 328481
+    },
+    "data/geojson.day/ironheart-01-day-00169.geojson.gz": {
+      "sha256": "f7593d378345b3069b7f7c5d0f48ad7e3b984005bd647c97c1af48089890e3d4",
+      "size": 327358
+    },
+    "data/geojson.day/ironheart-01-day-00170.geojson.gz": {
+      "sha256": "6880e203d2d5a425e2cb5a222427f3451ad0e29727f1436481274c345cc24e48",
+      "size": 333042
+    },
+    "data/geojson.day/ironheart-01-day-00171.geojson.gz": {
+      "sha256": "c30fd5f3b5a98f26811cfb69d4b1a28f16462b569c7dc806817e463a41a38ae9",
+      "size": 322301
+    },
+    "data/geojson.day/ironheart-01-day-00172.geojson.gz": {
+      "sha256": "cd9bee53eeec18037dc331859ee3b7b5fb1c4bcb1352e000ce45138d6fd13daf",
+      "size": 301854
+    },
+    "data/geojson.day/ironheart-01-day-00173.geojson.gz": {
+      "sha256": "720386051ad5c427209b2610c026360cd42f205fa2d36b341dcf0dda64b2f190",
+      "size": 292399
+    },
+    "data/geojson.day/ironheart-01-day-00174.geojson.gz": {
+      "sha256": "cc8f72d3d2eeafdfcfa90bb81ddb0e16f07b6245bebfece81b895d64f979aa1f",
+      "size": 350567
+    },
+    "data/geojson.day/ironheart-01-day-00175.geojson.gz": {
+      "sha256": "5558c37a1ec54d61043daf82dcc681500c6031a148d0724290f3bfeccc3c83a1",
+      "size": 355125
+    },
+    "data/geojson.day/ironheart-01-day-00176.geojson.gz": {
+      "sha256": "f7e0006b1ff98b4fe3f883e90e4edec849f815a363525aff6524be985cf1e8f3",
+      "size": 351106
+    },
+    "data/geojson.day/ironheart-01-day-00177.geojson.gz": {
+      "sha256": "fe4010b801dfe5552c1487b5e5289ef087ee98edeb5200913556075fbceb1d3c",
+      "size": 352177
+    },
+    "data/geojson.day/ironheart-01-day-00178.geojson.gz": {
+      "sha256": "54dc15c86f016c679b271e419f885900aa6527eafb34182f5a7390eb57306c6a",
+      "size": 334560
+    },
+    "data/geojson.day/ironheart-01-day-00179.geojson.gz": {
+      "sha256": "32b14c236fb834437526dd509b03e675985f4d163485afbaaefee4e2d4c4f7d2",
+      "size": 324144
+    },
+    "data/geojson.day/ironheart-01-day-00180.geojson.gz": {
+      "sha256": "c5bdf36db019a8db00c31e8c8abdb966a150e64d68a54286ba3b3301730a2b1b",
+      "size": 331628
+    },
+    "data/geojson.day/ironheart-01-day-00181.geojson.gz": {
+      "sha256": "a44723bbecbd8ec823903368bfe478dbbc053bc72c205b0206a4957cabf8107e",
+      "size": 273601
+    },
+    "data/geojson.day/ironheart-01-day-00182.geojson.gz": {
+      "sha256": "5a2c2f126ca25853a078e84759f75028866174e27800f5832fa8a639ca3f48dd",
+      "size": 183562
+    },
+    "data/json/ironheart-01-swarm-day-00001-2025-06-25.json": {
+      "sha256": "e2631247b0010cfe913ff58be836427b8386a85b6ac6148746c67d6caedd40b7",
+      "size": 438
+    },
+    "data/json/ironheart-01-swarm-day-00002-2025-06-26.json": {
+      "sha256": "68dbbec4baa25850e40b311e641bd93a0e8412729fea9bbeaab66e63a205ffa6",
+      "size": 439
+    },
+    "data/json/ironheart-01-swarm-day-00003-2025-06-27.json": {
+      "sha256": "a8e950c8478b112922a9c82bd7407ba95bfda55bcee19400c0a61fa009e478fc",
+      "size": 439
+    },
+    "data/json/ironheart-01-swarm-day-00004-2025-06-28.json": {
+      "sha256": "2032e012cf385a21f4934ffba68b694c996cfdaf3045d83a07c4c9dca70b53e5",
+      "size": 438
+    },
+    "data/json/ironheart-01-swarm-day-00005-2025-06-29.json": {
+      "sha256": "a4dc0d7ff86da74aaa72a9c56094e415c1c1cf24394225a2b82d73c609359278",
+      "size": 438
+    },
+    "data/json/ironheart-01-swarm-day-00006-2025-06-30.json": {
+      "sha256": "cdc36f403c755ddbd8ca1fd476f1da194d9f3ef4197291ac11c8aa9547e49ace",
+      "size": 438
+    },
+    "data/json/ironheart-01-swarm-day-00007-2025-07-01.json": {
+      "sha256": "15c3329f89e6596115b208fc9d8f61a37187763189afada516c7c16dd5933026",
+      "size": 438
+    },
+    "data/json/ironheart-01-swarm-day-00008-2025-07-02.json": {
+      "sha256": "0bc3ff31eef3f4a0c19a4bbb5b83cd6a9c8e6c697f2027fdb20aecae4df49edf",
+      "size": 439
+    },
+    "data/json/ironheart-01-swarm-day-00009-2025-07-03.json": {
+      "sha256": "ecb06d22a1b3a9ad81ad704ed2e414fa01cb855d2d8a4de8deac143d2cd3e734",
+      "size": 439
+    },
+    "data/json/ironheart-01-swarm-day-00010-2025-07-04.json": {
+      "sha256": "905407ee84e931aa320f2780e0905a87c3a2b1ff43ff9777585c9ebd5e4e9a77",
+      "size": 440
+    },
+    "data/json/ironheart-01-swarm-day-00011-2025-07-05.json": {
+      "sha256": "f69f23094c0fae2a0a3423af2c25435dabc5add010b6c273f3e5007b7b781716",
+      "size": 440
+    },
+    "data/json/ironheart-01-swarm-day-00012-2025-07-06.json": {
+      "sha256": "fe878e59bf67708ecc6855539558d40b9abcf1c2f4b53af73a70a5036b563510",
+      "size": 440
+    },
+    "data/json/ironheart-01-swarm-day-00013-2025-07-07.json": {
+      "sha256": "5df3ab5e6aa97fd92f729fa9b87392d2a7b794e23624a401965dcceff3cfe0d5",
+      "size": 440
+    },
+    "data/json/ironheart-01-swarm-day-00014-2025-07-08.json": {
+      "sha256": "dc67318f231bd88ee3ce45ea6f7c088dfc703e90de7e7ebb80155f6f4b7a3d7d",
+      "size": 440
+    },
+    "data/json/ironheart-01-swarm-day-00015-2025-07-09.json": {
+      "sha256": "6313727799466a3cb2c8dd9b6bd39310317405766c91d7fc8761a44dff89317a",
+      "size": 440
+    },
+    "data/json/ironheart-01-swarm-day-00016-2025-07-10.json": {
+      "sha256": "6a3780fb8400b55316b8969c0b85ee4c3657d191d6b8acee2da05f03e54ccb67",
+      "size": 440
+    },
+    "data/json/ironheart-01-swarm-day-00017-2025-07-11.json": {
+      "sha256": "f00322e912ebd8186ed44012759abb0fa140e3138085d37ab71e07af141c0ab1",
+      "size": 440
+    },
+    "data/json/ironheart-01-swarm-day-00018-2025-07-12.json": {
+      "sha256": "4e45b4847676eac3f20c3c9818252767684ac4c8e9f2ceec70aff133034d0019",
+      "size": 440
+    },
+    "data/json/ironheart-01-swarm-day-00019-2025-07-13.json": {
+      "sha256": "27e2f635c9c5fecf38270f07b3108be783e5dbce04d0b2253b6ed919490faec0",
+      "size": 440
+    },
+    "data/json/ironheart-01-swarm-day-00020-2025-07-14.json": {
+      "sha256": "c53eed428ff844411073d2590abc7aad4518edc0f4baa81dc4ab30e5d16960db",
+      "size": 439
+    },
+    "data/json/ironheart-01-swarm-day-00021-2025-07-15.json": {
+      "sha256": "36ad476535218453e935422e5cc860d05d75166df51de7c8632361f7a3694556",
+      "size": 439
+    },
+    "data/json/ironheart-01-swarm-day-00022-2025-07-16.json": {
+      "sha256": "f482d183e1ff4fddaa34b9cdc94b0d7d3d653abf71242c0ab96f265da56ce6e3",
+      "size": 439
+    },
+    "data/json/ironheart-01-swarm-day-00023-2025-07-17.json": {
+      "sha256": "c1fa95b010ee8064c7c3f24895ba4f0789e58943f9914ff4b622ff74da962acb",
+      "size": 439
+    },
+    "data/json/ironheart-01-swarm-day-00024-2025-07-18.json": {
+      "sha256": "37f738653bca2c15ae3da362dd67c0c6aca4338361ad2b36ee1b4e673b7dc76a",
+      "size": 439
+    },
+    "data/json/ironheart-01-swarm-day-00025-2025-07-19.json": {
+      "sha256": "e36b3dec58a44a8c30e044847abcc448878ec17f00476df4b64843c71364ff04",
+      "size": 439
+    },
+    "data/json/ironheart-01-swarm-day-00026-2025-07-20.json": {
+      "sha256": "d4bf41367f6b5a77ec117ef85432e8322340da909fcb9c102f094d85b1b38956",
+      "size": 439
+    },
+    "data/json/ironheart-01-swarm-day-00027-2025-07-21.json": {
+      "sha256": "71d969349ccfd7a9f44a9da9ee6bc98c3c42164ec71235f0bc4eeedbbeab2a1d",
+      "size": 439
+    },
+    "data/json/ironheart-01-swarm-day-00028-2025-07-22.json": {
+      "sha256": "0b24f944694ec3d0b3af2a009571d3e2390d881fcb1b1450d3b7e19123819472",
+      "size": 439
+    },
+    "data/json/ironheart-01-swarm-day-00029-2025-07-23.json": {
+      "sha256": "f426afa570b55f09fe71e98f343f8df524dd330ffaaa4564f7587c5a9ed561f1",
+      "size": 439
+    },
+    "data/json/ironheart-01-swarm-day-00030-2025-07-24.json": {
+      "sha256": "a3e516b7f6e8038f7f71c18f16841ec8e1ca0a918484ccde498f1a69abd7a45e",
+      "size": 439
+    },
+    "data/json/ironheart-01-swarm-day-00031-2025-07-25.json": {
+      "sha256": "03f1fe3ec14ae3d4d8531afc19a4e23ad474d6fb2cb68bf182bc1e041a26bca7",
+      "size": 439
+    },
+    "data/json/ironheart-01-swarm-day-00032-2025-07-26.json": {
+      "sha256": "39a86628ecf4e54ebc6c54a358e6029a394b3292986244afc0fe8bcba7ab7221",
+      "size": 439
+    },
+    "data/json/ironheart-01-swarm-day-00033-2025-07-27.json": {
+      "sha256": "fbe6fa1f31cd0bb511464e595d9f3cd59c853aac5c0d22df80597f7b58d73704",
+      "size": 439
+    },
+    "data/json/ironheart-01-swarm-day-00034-2025-07-28.json": {
+      "sha256": "86a30284fdc8247c52029cd189977b8cfc3ce9d88e6cea42ec2c7c631c93c08e",
+      "size": 439
+    },
+    "data/json/ironheart-01-swarm-day-00035-2025-07-29.json": {
+      "sha256": "16b20a1e75f851598013ba909156ba4ce2374779c231273c8cbc5721787e6869",
+      "size": 439
+    },
+    "data/json/ironheart-01-swarm-day-00036-2025-07-30.json": {
+      "sha256": "7d9078fdb65801d6ddc5773a085fe9955b61b50d1c56fc96548aff0f17ce7a7d",
+      "size": 439
+    },
+    "data/json/ironheart-01-swarm-day-00037-2025-07-31.json": {
+      "sha256": "698c3f6f7a9b10d8bab96b2f1b70d8bf62d132ecc8371ede1d40c659891267c2",
+      "size": 439
+    },
+    "data/json/ironheart-01-swarm-day-00038-2025-08-01.json": {
+      "sha256": "031db03915de424ca0287bdaf35ffced200546d2e7a04793efdf60ba6912ee04",
+      "size": 439
+    },
+    "data/json/ironheart-01-swarm-day-00039-2025-08-02.json": {
+      "sha256": "a85888eda06648174a57ae96187b1eac7166db86ccdc384d4a49a30b912ca5a0",
+      "size": 439
+    },
+    "data/json/ironheart-01-swarm-day-00040-2025-08-03.json": {
+      "sha256": "d6b96aa79aef26d0f47c5c6a6543dca9d753cbb350d9f048dc2214626bb62f6a",
+      "size": 439
+    },
+    "data/json/ironheart-01-swarm-day-00041-2025-08-04.json": {
+      "sha256": "7d14a078479fa42fa3a192a5da16a88033f6a349ff249080f481680b99b9326c",
+      "size": 439
+    },
+    "data/json/ironheart-01-swarm-day-00042-2025-08-05.json": {
+      "sha256": "7e69e53b79e94dd89c6fdf8c158aec2a7a8802b53a37f64eddb0b20da9dc002d",
+      "size": 439
+    },
+    "data/json/ironheart-01-swarm-day-00043-2025-08-06.json": {
+      "sha256": "1aa113c71073fbaebd2c7e7381939e0fa74852af1952fad4a2025ad251ce86bb",
+      "size": 439
+    },
+    "data/json/ironheart-01-swarm-day-00044-2025-08-07.json": {
+      "sha256": "a57969fc4427f8898c20d3d0a7bf0ddcf270efd701d4f81aef5b80214944ddfb",
+      "size": 439
+    },
+    "data/json/ironheart-01-swarm-day-00045-2025-08-08.json": {
+      "sha256": "d85e619d10084f71c3e4bb0567f9dc5868e230b4ecb95456c686e27fe4d48c1d",
+      "size": 439
+    },
+    "data/json/ironheart-01-swarm-day-00046-2025-08-09.json": {
+      "sha256": "5b3900ab697e833ae6e00a35fa8363b2817b48ea4f9107e158d5a7f53caab7ed",
+      "size": 439
+    },
+    "data/json/ironheart-01-swarm-day-00047-2025-08-10.json": {
+      "sha256": "b1ce33c17e8997988c5384ed81a5805d89e31071ffb4ad80d1d23a15706b3ab9",
+      "size": 439
+    },
+    "data/json/ironheart-01-swarm-day-00048-2025-08-11.json": {
+      "sha256": "f02952396fb6cb665a702cda4c2c8b7b6bb739853326c13ebb8707f26c815f81",
+      "size": 439
+    },
+    "data/json/ironheart-01-swarm-day-00049-2025-08-12.json": {
+      "sha256": "5d6d087c61ab60a950dd13478da855ca96744fb081cdf08cc24834e8010588fd",
+      "size": 439
+    },
+    "data/json/ironheart-01-swarm-day-00050-2025-08-13.json": {
+      "sha256": "ce99f9bdfcfcf0f5d1991fb7f442fd3aa725a0aac4133f51dbcbbf8e7bf17470",
+      "size": 439
+    },
+    "data/json/ironheart-01-swarm-day-00051-2025-08-14.json": {
+      "sha256": "1cbe07f850095f0f459825bcdb3f63807098d40f54fc87b20202921d89bb4ae5",
+      "size": 439
+    },
+    "data/json/ironheart-01-swarm-day-00052-2025-08-15.json": {
+      "sha256": "1c01ed54df3d605d54b83386fd7793568dcf4e8fe0c6c3ba993b59edc972595b",
+      "size": 439
+    },
+    "data/json/ironheart-01-swarm-day-00053-2025-08-16.json": {
+      "sha256": "2bb06612d6fc88045e30a05598f533ec57d815c2f5fc9d3e3e6083b73fbe0409",
+      "size": 439
+    },
+    "data/json/ironheart-01-swarm-day-00054-2025-08-17.json": {
+      "sha256": "4184b0e1364519a8e75b886868f0afb81731b3c95d9288363b5b557c5c6d3e8e",
+      "size": 439
+    },
+    "data/json/ironheart-01-swarm-day-00055-2025-08-18.json": {
+      "sha256": "bcc79fba944fd10c3c1d8343b211394c9c80e52c49e9342f4a192e0d6c91603c",
+      "size": 439
+    },
+    "data/json/ironheart-01-swarm-day-00056-2025-08-19.json": {
+      "sha256": "39b001a6f6a3c6b9ab2f7bde003beac10fc6dbfb9ea0ca99b9c296dd2899096d",
+      "size": 439
+    },
+    "data/json/ironheart-01-swarm-day-00057-2025-08-20.json": {
+      "sha256": "44619d0a114fa2b75c820e3a478a7d716550562897dd46072b27a89a7c797e05",
+      "size": 439
+    },
+    "data/json/ironheart-01-swarm-day-00058-2025-08-21.json": {
+      "sha256": "7a2f839cd78a07014ffa5331b9026e32c51b1e3f6310f88e00fa6a003abb890d",
+      "size": 439
+    },
+    "data/json/ironheart-01-swarm-day-00059-2025-08-22.json": {
+      "sha256": "46bb6e8e46f89a93dc2e758713950f562ea19637d8a835e18a305db8d122451b",
+      "size": 439
+    },
+    "data/json/ironheart-01-swarm-day-00060-2025-08-23.json": {
+      "sha256": "29f4de6f1c7917a60ca8c8d11d63359d9a0fc1619cc75b26c95de2ba6fd86aac",
+      "size": 439
+    },
+    "data/json/ironheart-01-swarm-day-00061-2025-08-24.json": {
+      "sha256": "0607eb0d8d759a9ce106eafde94b54c5740910100cd57804ede44853dae21660",
+      "size": 439
+    },
+    "data/json/ironheart-01-swarm-day-00062-2025-08-25.json": {
+      "sha256": "4204d8dbbd5729c18ead6aa4bd54bfe5b8a3b049f1389b16a7f3c53b388cacdf",
+      "size": 439
+    },
+    "data/json/ironheart-01-swarm-day-00063-2025-08-26.json": {
+      "sha256": "7b9012d054f2f06f461032ca1049983533bbff6ce7ee74132ca98373cf00d31a",
+      "size": 439
+    },
+    "data/json/ironheart-01-swarm-day-00064-2025-08-27.json": {
+      "sha256": "c1cb1c88836c3898ce44b422c5d050ac1b7bdf2f5753d31a0fb60c3e504cb36a",
+      "size": 439
+    },
+    "data/json/ironheart-01-swarm-day-00065-2025-08-28.json": {
+      "sha256": "f1cddecb5d385abd92b63141e4b00db28ec7b6a7e80fe0084ad0ab264177e3d4",
+      "size": 439
+    },
+    "data/json/ironheart-01-swarm-day-00066-2025-08-29.json": {
+      "sha256": "9a13a997ce80e0c86f5bcefe1a0cf1ac1faeeb8baf1a68fb8ecc37f6926b17aa",
+      "size": 439
+    },
+    "data/json/ironheart-01-swarm-day-00067-2025-08-30.json": {
+      "sha256": "9618bf452dc31279b78f521bd71ff37c5d7907b5a7a8710b81dbc2ac8c990598",
+      "size": 439
+    },
+    "data/json/ironheart-01-swarm-day-00068-2025-08-31.json": {
+      "sha256": "7c8c49abb0b56348fb6d67926272c568bf9e844c3c433dc093052a36b3f07649",
+      "size": 439
+    },
+    "data/json/ironheart-01-swarm-day-00069-2025-09-01.json": {
+      "sha256": "e0c78cede4b9b38825248abbf99018d8690fd7e3b387d46874f21739ee5a98cf",
+      "size": 439
+    },
+    "data/json/ironheart-01-swarm-day-00070-2025-09-02.json": {
+      "sha256": "f47baec254bd2249ef8454baa4d3d9ad8ba8b82af91e453b1502f03e5c099c0d",
+      "size": 439
+    },
+    "data/json/ironheart-01-swarm-day-00071-2025-09-03.json": {
+      "sha256": "c44396f692d790c09cbdcea2b18a9a6c85c958f25a72d6478be44227e8212bb9",
+      "size": 439
+    },
+    "data/json/ironheart-01-swarm-day-00072-2025-09-04.json": {
+      "sha256": "0608a38e745050c865bcea51eddad6d472572427de2c3868a2e6c2afa937ab0b",
+      "size": 439
+    },
+    "data/json/ironheart-01-swarm-day-00073-2025-09-05.json": {
+      "sha256": "6356e6c3b6879ff45280bec8f6b4e172791bcfcd8d62ea2f6415ecc1962d948a",
+      "size": 439
+    },
+    "data/json/ironheart-01-swarm-day-00074-2025-09-06.json": {
+      "sha256": "f6e108d8e37f6ef21310213543e2d7d334df152fe916e304f1e738c1a34af372",
+      "size": 439
+    },
+    "data/json/ironheart-01-swarm-day-00075-2025-09-07.json": {
+      "sha256": "27416c2a9a3136c2d5e273917420367af6fc60fa49298573f8a5741804eb95c1",
+      "size": 439
+    },
+    "data/json/ironheart-01-swarm-day-00076-2025-09-08.json": {
+      "sha256": "79ea969c421d752aeaab80b354684d6a021a0fd028bf4d5dc09d94caea30268d",
+      "size": 439
+    },
+    "data/json/ironheart-01-swarm-day-00077-2025-09-09.json": {
+      "sha256": "baaa5f5e2b9985f9d24643f90dd8e7ed3a453a5a435b273815e57c2c4c192fe2",
+      "size": 439
+    },
+    "data/json/ironheart-01-swarm-day-00078-2025-09-10.json": {
+      "sha256": "b04cc526208a8afd6ef1d6e9ec2c8a7f9085888062a7ee4e949b7ccdaae44226",
+      "size": 439
+    },
+    "data/json/ironheart-01-swarm-day-00079-2025-09-11.json": {
+      "sha256": "7823684fee4818c32a6a7b2339cdda6ee8833658ae73e0946ae2df7efa14446f",
+      "size": 439
+    },
+    "data/json/ironheart-01-swarm-day-00080-2025-09-12.json": {
+      "sha256": "0ec4b16c60a2a7dde229d4e598b501f4c79477253220544bca532c383cce51e4",
+      "size": 439
+    },
+    "data/json/ironheart-01-swarm-day-00081-2025-09-13.json": {
+      "sha256": "e74006105e8b54b5866780549f91e18f57a6eb1d759fea5db0baa44e6b9ebff1",
+      "size": 439
+    },
+    "data/json/ironheart-01-swarm-day-00082-2025-09-14.json": {
+      "sha256": "d7d52aaa768d73c585c4b0cf4c284b2fc3cbe8b11b1195b91779118fde520ae1",
+      "size": 439
+    },
+    "data/json/ironheart-01-swarm-day-00083-2025-09-15.json": {
+      "sha256": "5f6d02e2a9c0ef995da753bdadcf931fe2cf87beeacf4a0438800f2117d28355",
+      "size": 439
+    },
+    "data/json/ironheart-01-swarm-day-00084-2025-09-16.json": {
+      "sha256": "d592f6be62a53262f9ea03961dd0fb62fc75cf4afbeb1b4e2447b538b4659f76",
+      "size": 439
+    },
+    "data/json/ironheart-01-swarm-day-00085-2025-09-17.json": {
+      "sha256": "88e487bb4b8f284d16c8b6befde0ebef75ec905cbffa1846917c4ead222c09b0",
+      "size": 439
+    },
+    "data/json/ironheart-01-swarm-day-00086-2025-09-18.json": {
+      "sha256": "c79655ccba2c7cbbb182ff3bd2975175d065447c9abf30b9fea12955ebd0c476",
+      "size": 439
+    },
+    "data/json/ironheart-01-swarm-day-00087-2025-09-19.json": {
+      "sha256": "a006df39ada092d8607a16c2338bb46b4553ae0f777361509782e44f83a86785",
+      "size": 439
+    },
+    "data/json/ironheart-01-swarm-day-00088-2025-09-20.json": {
+      "sha256": "9b3f2c6b068d0d74fb70873163c4c62f338bfc7e3db81ef55a5c12e8f54c9a6c",
+      "size": 439
+    },
+    "data/json/ironheart-01-swarm-day-00089-2025-09-21.json": {
+      "sha256": "9b178911b14993a6442f1d00e7262f2e715c94f53ccd969f2ccd8d5c81626ccb",
+      "size": 439
+    },
+    "data/json/ironheart-01-swarm-day-00090-2025-09-22.json": {
+      "sha256": "38c32339b614858b461e2ff8301405df77364a7eb210405ca3b1c9078f9574ed",
+      "size": 439
+    },
+    "data/json/ironheart-01-swarm-day-00091-2025-09-23.json": {
+      "sha256": "12f4adab03b4d3dc1e4fb7005ca100b65f0efe8b2f90d18bce06ce3dd8e0d488",
+      "size": 439
+    },
+    "data/json/ironheart-01-swarm-day-00092-2025-09-24.json": {
+      "sha256": "e44703fd2ac12b022a8a5c2f5e02233dbd6a856d33fc65cfc7e7b60f6cca65bf",
+      "size": 439
+    },
+    "data/json/ironheart-01-swarm-day-00093-2025-09-25.json": {
+      "sha256": "75c30041178b70f1b9e71b812a03ccee298287ac352d4ccaeb06a3253dcddaa2",
+      "size": 439
+    },
+    "data/json/ironheart-01-swarm-day-00094-2025-09-26.json": {
+      "sha256": "39b9056eca4976160efb3580a7e685f258e6e9c649c1f5b8f86f9b093e3467e5",
+      "size": 439
+    },
+    "data/json/ironheart-01-swarm-day-00095-2025-09-27.json": {
+      "sha256": "015f895cc7c46481bd79f3c04f5c489043e5472ffd663dca46ced86c995669ab",
+      "size": 439
+    },
+    "data/json/ironheart-01-swarm-day-00096-2025-09-28.json": {
+      "sha256": "822404a25a395daa83cff3de5aaa5d061b30c02ebead293cadf73d0bd4497598",
+      "size": 439
+    },
+    "data/json/ironheart-01-swarm-day-00097-2025-09-29.json": {
+      "sha256": "3bb0c64b56a7df2418d9eb3b0f7c605ccebe1f3320df4ec6e2b29c5e2b72d3f5",
+      "size": 439
+    },
+    "data/json/ironheart-01-swarm-day-00098-2025-09-30.json": {
+      "sha256": "47b200880549048b26ef9f10832f54f407e42e683702f3adaa196becd28db75c",
+      "size": 439
+    },
+    "data/json/ironheart-01-swarm-day-00099-2025-10-01.json": {
+      "sha256": "040bb8dd8e34e100cf9c4b05b6233847707cf69808a4adaaf1bc6bdd9ed9cecf",
+      "size": 439
+    },
+    "data/json/ironheart-01-swarm-day-00100-2025-10-02.json": {
+      "sha256": "c8003fdf7a36c74aab2490006b459a4f350cf88fed0c91ffb6c704d803743ae2",
+      "size": 440
+    },
+    "data/json/ironheart-01-swarm-day-00101-2025-10-03.json": {
+      "sha256": "5025dbad8d91ee5b00b1a4f6de5ce063627fd01089b5f28550fff25d2e921ed3",
+      "size": 440
+    },
+    "data/json/ironheart-01-swarm-day-00102-2025-10-04.json": {
+      "sha256": "ed1d7dbd02ce710240a71aa3e1484923d39d72af0dcdb9195e48b8b922391fc3",
+      "size": 440
+    },
+    "data/json/ironheart-01-swarm-day-00103-2025-10-05.json": {
+      "sha256": "159dc1f3a8c14375e4aee5e307f2d699a470f4106859b5ac0e11a095e885f6ca",
+      "size": 440
+    },
+    "data/json/ironheart-01-swarm-day-00104-2025-10-06.json": {
+      "sha256": "867db8202894625b0ec1b528a526fdc50c1d7a4e2043db5dd1fd2d4791be8b10",
+      "size": 440
+    },
+    "data/json/ironheart-01-swarm-day-00105-2025-10-07.json": {
+      "sha256": "a662e7e53cc9da6c78783915d72e1b8277617c79236b451338c916cdb070f1b8",
+      "size": 440
+    },
+    "data/json/ironheart-01-swarm-day-00106-2025-10-08.json": {
+      "sha256": "bbc1fe0cf5284c4210b44ce74587c7d03457292e7685ee7aba0a9eb8bf9fae54",
+      "size": 440
+    },
+    "data/json/ironheart-01-swarm-day-00107-2025-10-09.json": {
+      "sha256": "e5a259a2cdf61fb07b15de07ab7a618cb2631d6b5fedf2a2371df0ff5f9a3463",
+      "size": 440
+    },
+    "data/json/ironheart-01-swarm-day-00108-2025-10-10.json": {
+      "sha256": "07d5627326ab1fbd0bb8cc650b997a4fff3ed9c8df66ebdac0c18470e90a1e3b",
+      "size": 440
+    },
+    "data/json/ironheart-01-swarm-day-00109-2025-10-11.json": {
+      "sha256": "2bfb8385420b9cc785b414adf001be791bfef5f3dbd6ff091a64c28e7301fe12",
+      "size": 440
+    },
+    "data/json/ironheart-01-swarm-day-00110-2025-10-12.json": {
+      "sha256": "c32cccd43555319fec97f9edd5e72fc1faf61dff4f3d3dba0666c5135a60b3df",
+      "size": 440
+    },
+    "data/json/ironheart-01-swarm-day-00111-2025-10-13.json": {
+      "sha256": "dfc3e51945259d8fb9d0699f03fea5a364c4b532f05c5a59d30ecc185b4b4aad",
+      "size": 440
+    },
+    "data/json/ironheart-01-swarm-day-00112-2025-10-14.json": {
+      "sha256": "d624ce65160379e68632621a62a8f9d790662426626282d8084e669391709426",
+      "size": 440
+    },
+    "data/json/ironheart-01-swarm-day-00113-2025-10-15.json": {
+      "sha256": "71fa538dc528a90003588c44f34155fa20c31bee29de01c088c62649e8047d8c",
+      "size": 440
+    },
+    "data/json/ironheart-01-swarm-day-00114-2025-10-16.json": {
+      "sha256": "14b9fdcb9020da2ad713912c70bf51b7d2d64be48f2e2f0f0634ed2d51549f71",
+      "size": 440
+    },
+    "data/json/ironheart-01-swarm-day-00115-2025-10-17.json": {
+      "sha256": "640667599f19f412109f13bb7645489e11b63e7e3f27ad8ef61cec0a5082f327",
+      "size": 440
+    },
+    "data/json/ironheart-01-swarm-day-00116-2025-10-18.json": {
+      "sha256": "645ebd78f0e9afe9d78af8a1d903eeb76b7a32cee3afc441f8134904d4e20bbe",
+      "size": 440
+    },
+    "data/json/ironheart-01-swarm-day-00117-2025-10-19.json": {
+      "sha256": "dc5a1aa91d1dbb5cad7834a1b4df7f78d17675f5380982fe9a8da2c3e60b438c",
+      "size": 440
+    },
+    "data/json/ironheart-01-swarm-day-00118-2025-10-20.json": {
+      "sha256": "28d5aa0f82c80573378d7811656b117acbe5d5e60511cbbb88a0ad49f1615fda",
+      "size": 440
+    },
+    "data/json/ironheart-01-swarm-day-00119-2025-10-21.json": {
+      "sha256": "590b7431cc9370611fc416ddc9b4c5817aa498ee7756d25c75143057bf0a821a",
+      "size": 440
+    },
+    "data/json/ironheart-01-swarm-day-00120-2025-10-22.json": {
+      "sha256": "b80119cbd21ce153ba6bf0fb797d31e7739beccd340cf09402abad96b2ff51f3",
+      "size": 440
+    },
+    "data/json/ironheart-01-swarm-day-00121-2025-10-23.json": {
+      "sha256": "b366f074b9cc8a8885d61f96f352f60d7ac9add60b823934316323b0525a3889",
+      "size": 440
+    },
+    "data/json/ironheart-01-swarm-day-00122-2025-10-24.json": {
+      "sha256": "a8d35125b358010aed42413673c41824e333d4905256e15c13ac83963121867f",
+      "size": 440
+    },
+    "data/json/ironheart-01-swarm-day-00123-2025-10-25.json": {
+      "sha256": "2825b07ef2549deb98e200c4b28ad3d5ba37d22b8e0154a995e898d54c1db718",
+      "size": 440
+    },
+    "data/json/ironheart-01-swarm-day-00124-2025-10-26.json": {
+      "sha256": "14b431ca5b6c24799e51243bd31d4c731c00b8d53ca6eaef30dab460213f76fe",
+      "size": 440
+    },
+    "data/json/ironheart-01-swarm-day-00125-2025-10-27.json": {
+      "sha256": "593f66b46c443fea74e57ae8e7dc488d6bdff53d884a785b388b845d14ae5f39",
+      "size": 440
+    },
+    "data/json/ironheart-01-swarm-day-00126-2025-10-28.json": {
+      "sha256": "1b8429a0a497e2a4b823bf4789ffde483479ed1f1733ec8b3f6f837cf283e328",
+      "size": 440
+    },
+    "data/json/ironheart-01-swarm-day-00127-2025-10-29.json": {
+      "sha256": "c0a03f6818a264181658f4c5dd34700f0e56564484888098da1e5232bbe93c1a",
+      "size": 440
+    },
+    "data/json/ironheart-01-swarm-day-00128-2025-10-30.json": {
+      "sha256": "615f16775f54deff6a45ceafab5779289d3b8adad519ad6602e1daa65b5af8d1",
+      "size": 440
+    },
+    "data/json/ironheart-01-swarm-day-00129-2025-10-31.json": {
+      "sha256": "74636fa83c8cbe402144f68427ceff1428b79120452cbbcc229cfe020811e111",
+      "size": 440
+    },
+    "data/json/ironheart-01-swarm-day-00130-2025-11-01.json": {
+      "sha256": "c38a2c03465e6a4a5d93508863858707541cc17c5f6bed390117e96f25349738",
+      "size": 440
+    },
+    "data/json/ironheart-01-swarm-day-00131-2025-11-02.json": {
+      "sha256": "3edf78e5e63f5d3cabe34c58970644ea88d5265f047843340e6ee602a3af6e54",
+      "size": 440
+    },
+    "data/json/ironheart-01-swarm-day-00132-2025-11-03.json": {
+      "sha256": "c80b060602860c9ad5fc903f2843d8a0ce8100f19532196dab7c759dfdfaa0b6",
+      "size": 440
+    },
+    "data/json/ironheart-01-swarm-day-00133-2025-11-04.json": {
+      "sha256": "12b092e1c6d10d6c3ab4ff94deb1e8d79c27ec817071fd312a2a9510d2788cd8",
+      "size": 440
+    },
+    "data/json/ironheart-01-swarm-day-00134-2025-11-05.json": {
+      "sha256": "43e29f891391c6909e8b958072f328d819bd9824726a5116c695b94b7e6e4d1b",
+      "size": 440
+    },
+    "data/json/ironheart-01-swarm-day-00135-2025-11-06.json": {
+      "sha256": "69126ca4ccfd9a6e9d29038b79b3835c08472943f2c42037c4dac964b60e792f",
+      "size": 440
+    },
+    "data/json/ironheart-01-swarm-day-00136-2025-11-07.json": {
+      "sha256": "f1afe114dce9113354369a671845a276cdfa82a42b41e806c0e00c263c6fa71c",
+      "size": 440
+    },
+    "data/json/ironheart-01-swarm-day-00137-2025-11-08.json": {
+      "sha256": "b48f1b3756abfbaed75b382bfbdd6112416ef500a5f3a21e77ef6933d90c7edd",
+      "size": 440
+    },
+    "data/json/ironheart-01-swarm-day-00138-2025-11-09.json": {
+      "sha256": "d0a24e82c3e9c2f7e46034a1d14212598c91116a5475079dded873cbd36f9008",
+      "size": 440
+    },
+    "data/json/ironheart-01-swarm-day-00139-2025-11-10.json": {
+      "sha256": "ff7dff8b8eb0551392ea1af3de2a67b46b39d383ed6f2fccd3a54ffa92a850c8",
+      "size": 440
+    },
+    "data/json/ironheart-01-swarm-day-00140-2025-11-11.json": {
+      "sha256": "e81fd2c44c46039c52b92341f1a96959d1e5376532061125a706131ae0c1d6f9",
+      "size": 440
+    },
+    "data/json/ironheart-01-swarm-day-00141-2025-11-12.json": {
+      "sha256": "99b0f7c14cc377868221491dd41c193d93a2f8785fbd66d40435a99cc00895c0",
+      "size": 440
+    },
+    "data/json/ironheart-01-swarm-day-00142-2025-11-13.json": {
+      "sha256": "4dc3d3dfe03466ccce4d9ed7acd4a0291b21769c7badebfdca117c3805cc6acb",
+      "size": 440
+    },
+    "data/json/ironheart-01-swarm-day-00143-2025-11-14.json": {
+      "sha256": "55d033d38763d52f71398d9190e71059bb6e0d8eeb05d16897c5f04c47158b3c",
+      "size": 440
+    },
+    "data/json/ironheart-01-swarm-day-00144-2025-11-15.json": {
+      "sha256": "cbe4387dfec81bdc19cf86c57d02f48ac6bd6be3d53882e4f7248d3e5cd3bd45",
+      "size": 440
+    },
+    "data/json/ironheart-01-swarm-day-00145-2025-11-16.json": {
+      "sha256": "11d706aceae87cfb7a76e368bae0b894479efc2f6bb6c703783a409509c058bb",
+      "size": 440
+    },
+    "data/json/ironheart-01-swarm-day-00146-2025-11-17.json": {
+      "sha256": "87e4cb08cdd02d54f4561ed55361ee3330aff17589a737f97019ba9417af0f9a",
+      "size": 440
+    },
+    "data/json/ironheart-01-swarm-day-00147-2025-11-18.json": {
+      "sha256": "538675adb88173c755cf47c1ed3bb7fd9cc7c4beb4333656cfec63d493b00350",
+      "size": 440
+    },
+    "data/json/ironheart-01-swarm-day-00148-2025-11-19.json": {
+      "sha256": "8369bdfe097a69ca940e5b7c7b3d7f57d0615f06100a3e24a99aeb0af77c7885",
+      "size": 440
+    },
+    "data/json/ironheart-01-swarm-day-00149-2025-11-20.json": {
+      "sha256": "04497854f405d78a49638cefeda11098a2588adcb7392ce2df1bc49d79e01b88",
+      "size": 440
+    },
+    "data/json/ironheart-01-swarm-day-00150-2025-11-21.json": {
+      "sha256": "9f7e53530f1283035fa1de00a83642b8bc0723887c6c3486635e797e1c2cd5ba",
+      "size": 440
+    },
+    "data/json/ironheart-01-swarm-day-00151-2025-11-22.json": {
+      "sha256": "5598dda4c119443419078cf83757ccd4d2d0c8c6d5c420a3d4e9cb0299af6170",
+      "size": 440
+    },
+    "data/json/ironheart-01-swarm-day-00152-2025-11-23.json": {
+      "sha256": "ee84e2a905f354f359ab9e19b6cc7a8c4923426555e061b4ecaa0f6f02778650",
+      "size": 440
+    },
+    "data/json/ironheart-01-swarm-day-00153-2025-11-24.json": {
+      "sha256": "8b9f2c71b2fcffcb7b81241e5675112068c9670dcd57fd1402821b9f5125a950",
+      "size": 440
+    },
+    "data/json/ironheart-01-swarm-day-00154-2025-11-25.json": {
+      "sha256": "25f085052e6751328566d35d2a33fe93fbb5366f5fe883c4489c686cfc4d2b84",
+      "size": 440
+    },
+    "data/json/ironheart-01-swarm-day-00155-2025-11-26.json": {
+      "sha256": "67bcf55f7bd70512f5364ca397957dce9f1cec0d73030c07b6ee27a7123991cf",
+      "size": 440
+    },
+    "data/json/ironheart-01-swarm-day-00156-2025-11-27.json": {
+      "sha256": "d6da77e0d88c661b5118d79cf8bf40df5a3d2d82f4401e311b84ae9ee53a28fb",
+      "size": 440
+    },
+    "data/json/ironheart-01-swarm-day-00157-2025-11-28.json": {
+      "sha256": "dabec2487e69889fb3f165d49ec246a5d4207369c3b349f247d1b5916bfa6c16",
+      "size": 440
+    },
+    "data/json/ironheart-01-swarm-day-00158-2025-11-29.json": {
+      "sha256": "314798bbfced885815ccedfc023114e773df21c7af261b2283c37ac252962416",
+      "size": 440
+    },
+    "data/json/ironheart-01-swarm-day-00159-2025-11-30.json": {
+      "sha256": "f4a2333c8d58ec7b9fc021213b671cd0258931a6ff5a46401b56b0a91ce39573",
+      "size": 440
+    },
+    "data/json/ironheart-01-swarm-day-00160-2025-12-01.json": {
+      "sha256": "ea62f9a9c4917701777b76e1ec913b5f3edfa3bd0ab391ed070ac16ff5fa2e87",
+      "size": 440
+    },
+    "data/json/ironheart-01-swarm-day-00161-2025-12-02.json": {
+      "sha256": "0c45be7975e25d8d0a9b1eaed4be56ca32e1747d8c3ea254d1cfb53b774e6cbd",
+      "size": 440
+    },
+    "data/json/ironheart-01-swarm-day-00162-2025-12-03.json": {
+      "sha256": "95bfcb54cfd2d7a65c85ebeff84ccee26524cdc72b971d2665c6e32abaeca2dd",
+      "size": 440
+    },
+    "data/json/ironheart-01-swarm-day-00163-2025-12-04.json": {
+      "sha256": "e8f67195d69a8bed7e551ea3bd201b02c716db369bdc8d73a8367fc1e9c6afa6",
+      "size": 440
+    },
+    "data/json/ironheart-01-swarm-day-00164-2025-12-05.json": {
+      "sha256": "40e16d6c06210d25b19c9cf3ac8cc369c4a0fa20094fa86b0c4fbbb676325a2d",
+      "size": 440
+    },
+    "data/json/ironheart-01-swarm-day-00165-2025-12-06.json": {
+      "sha256": "c6101946a74d896b355a13322228d390cc217f3d75e2af27be2ab055657b786f",
+      "size": 440
+    },
+    "data/json/ironheart-01-swarm-day-00166-2025-12-07.json": {
+      "sha256": "e47a1bef4ebf99c170f94eb52fa25f0d9d35a3ee98a0b08dbb6c1d86c205f1dc",
+      "size": 440
+    },
+    "data/json/ironheart-01-swarm-day-00167-2025-12-08.json": {
+      "sha256": "69e22f3b6c9bfc68a72c4f042e1363654555d3d9fb8318d00d5a5d1be44dddb6",
+      "size": 440
+    },
+    "data/json/ironheart-01-swarm-day-00168-2025-12-09.json": {
+      "sha256": "c170fe37497b3954c172f6e8eec240e41947ae2f681ce0660f9529a6fd0603af",
+      "size": 440
+    },
+    "data/json/ironheart-01-swarm-day-00169-2025-12-10.json": {
+      "sha256": "fe2e41f1ef7c0add0240c3c7a85e25813843fb87195c2a5a984b13c60daa411b",
+      "size": 440
+    },
+    "data/json/ironheart-01-swarm-day-00170-2025-12-11.json": {
+      "sha256": "2d74c30962ac8605fc59b31cf6e4a35cc40d90c08afd2a945459564303fc48df",
+      "size": 440
+    },
+    "data/json/ironheart-01-swarm-day-00171-2025-12-12.json": {
+      "sha256": "4df1ff3e16141e19d2bfb55fce23ac29385309daa75c84b173a7128309b4f320",
+      "size": 440
+    },
+    "data/json/ironheart-01-swarm-day-00172-2025-12-13.json": {
+      "sha256": "d088bf973fcd3b8aeedd546a0a6bcf5e79dd873446fe86cff6745160053337c1",
+      "size": 440
+    },
+    "data/json/ironheart-01-swarm-day-00173-2025-12-14.json": {
+      "sha256": "35e8a4dfac158a3aae334ce4471df177c90622ad206961c944fd6d41eb975dcf",
+      "size": 440
+    },
+    "data/json/ironheart-01-swarm-day-00174-2025-12-15.json": {
+      "sha256": "de44c2afe5362e9c145a361c147876c087a4f3b6d2f72b57842a49b4bbb7d3bc",
+      "size": 440
+    },
+    "data/json/ironheart-01-swarm-day-00175-2025-12-16.json": {
+      "sha256": "729beb7430eaba7d7181f675e5284bc0a862f3fe213b3f0c537f3e29c25271ff",
+      "size": 440
+    },
+    "data/json/ironheart-01-swarm-day-00176-2025-12-17.json": {
+      "sha256": "64cc512310429b395bee605fcbb8d9b7a617d573cff98cea469b0cbae1ecb6c9",
+      "size": 440
+    },
+    "data/json/ironheart-01-swarm-day-00177-2025-12-18.json": {
+      "sha256": "aad3115081f36a042239821d995a457f9eab515467caf6ef49d71505ed9a143a",
+      "size": 440
+    },
+    "data/json/ironheart-01-swarm-day-00178-2025-12-19.json": {
+      "sha256": "0e5e45b021786370d4178f6b12b46c1982de2ef47b0255e7857b55a41f859dcd",
+      "size": 440
+    },
+    "data/json/ironheart-01-swarm-day-00179-2025-12-20.json": {
+      "sha256": "dce15d8d4b6b46fe6a9cadcfe17d9588505ab5131330bfd5713a1fcd6a348e5d",
+      "size": 440
+    },
+    "data/json/ironheart-01-swarm-day-00180-2025-12-21.json": {
+      "sha256": "e9936b9e8dcbefac189a079be7918286dcee9a92ef996fcfa8f41e716fe8f7ad",
+      "size": 440
+    },
+    "data/json/ironheart-01-swarm-day-00181-2025-12-22.json": {
+      "sha256": "4211108736b15fb1020c84db1a4305beeb29d3612d40b4d020c43f6efc4a363b",
+      "size": 440
+    },
+    "data/json/ironheart-01-swarm-day-00182-2025-12-23.json": {
+      "sha256": "09154a993ebd4f10cef783de4d23002393eb8153ce25c4ccde7262eb5f654fdb",
+      "size": 440
+    }
+  },
+  "schema": "alpha60-year-day-product-bundle/1",
+  "source_revisions": {
+    "aggregate_binary": {
+      "sha256": "7408569641f7247fbd00969cffddaf1bb0cf2768c7fc1529f4cc6191ccfeae05",
+      "size": 38582648
+    },
+    "alpha60": "eba8537ed9a6e7a09ae3de163b01460f5ad1ad7e",
+    "alpha60_data": "8faeae67a5d274d1fc00bffe9fc9318329163b20",
+    "day_product_contract": {
+      "sha256": "0aa0bee3ac14b512c786d3496ab5218a46aff11786ffa6aa9ea85e762fbd6370",
+      "size": 9897
+    },
+    "generate_cache_aggregates": {
+      "sha256": "504078e192d9c8182df74e41b98cec08123c5a8b7d0eb7f812d09c1fe5d07010",
+      "size": 17151
+    },
+    "metadata": "fbeb53a0b523f937fae2f23d14689d8c5c84dd5a",
+    "package_script": {
+      "sha256": "516d6ecdccd24b1b66cf80c185219fa47d52af22f672b836773896df621b1666",
+      "size": 14724
+    },
+    "year_day_contract": {
+      "sha256": "f1c07d6f2fdc19475a6f25ddaee5923957447a6f49a8009d8b4c9984a63bd883",
+      "size": 9356
+    }
+  },
+  "status": "pass"
+}

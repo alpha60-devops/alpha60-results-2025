@@ -1,0 +1,253 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt13623126",
+    "imdb_id": "tt13623126",
+    "revision": "fbeb53a0b523f937fae2f23d14689d8c5c84dd5a",
+    "wikidata_id": "Q108124282",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ironheart_(miniseries)"
+  },
+  "coverage_sha256": "c3fb5bb83ad3db86c0121dce1589aed47895c5eb5d0e901368847ec593ef72cc",
+  "generated_at": "2026-08-30T14:35:09.791098+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "aao-checksum-manifest": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/SHA256SUMS",
+      "sha256": "4a4818facd85b709f0321b0a6de31b4a3eff6f108f3b9354c75632926e6baa48",
+      "size": 266728
+    },
+    "aao-release": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/release.json",
+      "sha256": "3ce0984da2d12b0e3697e76c02608bd9d1a955ee3d00e0a7054bdd297b8f18c8",
+      "size": 1342
+    },
+    "aao-verification": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-aao-verification.json",
+      "sha256": "e01294ebce8e54b65e16ab83017fa5585efe6f7a0a0f1a5e0f734e08d8e223fd",
+      "size": 854
+    },
+    "archive-map": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-cache-archive-map.json",
+      "sha256": "8d4d506f23cd80f46baf010bd17509c916083e75eb8b43b052641138c3f308f1",
+      "size": 125170
+    },
+    "btiha-metadata-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/ironheart-01-cumulative-btiha-media-objects.json",
+      "sha256": "f3318a2daac8e5192df1f950d1dc770f2267233bb0e757faded2cdd3f16f80c4",
+      "size": 1047886
+    },
+    "canonical-metadata": {
+      "path": "/tmp/alpha60-swarm-metadata-2025/metadata/ironheart-01.json",
+      "sha256": "5a57158a30705be3fcefd71bf0e5968ba87800916d66c761289744d67b2b52e2",
+      "size": 13129
+    },
+    "coverage-report": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-coverage-evidence/ironheart-01.md",
+      "sha256": "a7301760188fc3d5433d8c58997d6131fea9c68d675ceffc0f581e4dd04be8ff",
+      "size": 738
+    },
+    "cumulative-aggregate-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.cumulative/ironheart-01-cumulative-aggregate.geojson.gz",
+      "sha256": "1eaec2da463e0f7f7dd805f44a470fa8bf8a2d7dd5aa6a460c47da8e3102c9b2",
+      "size": 1438284
+    },
+    "cumulative-btiha-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.cumulative/ironheart-01-cumulative-btiha.geojson.gz",
+      "sha256": "54dced579c86d8014adbafa63fbf7fcefaf24cab5e52345c8bf12dcecb07feee",
+      "size": 85351913
+    },
+    "cumulative-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/ironheart-01-cumulative.json",
+      "sha256": "1f33b5b43ba8bdf616550675c58959e6a7247bea7aaa7565c284ff7524180313",
+      "size": 15690
+    },
+    "day-bundle-receipt": {
+      "path": "/tmp/year-2025-day-bundles/ironheart-01/receipt.json",
+      "sha256": "e3a2cbe7f0589be38a5dfd79a5d678a2cf12aa3ed8d9620ef1fb827716e86070",
+      "size": 67296
+    },
+    "ip-swarm-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/ironheart-01-cumulative-ip-swarm.json",
+      "sha256": "e26af74a5714e88f3ff6c557d6482cc2f530b47f459ec10bd6bb1811babdd53c",
+      "size": 43866
+    },
+    "published-day-bundle-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-day-product-receipts/ironheart-01.json",
+      "sha256": "e3a2cbe7f0589be38a5dfd79a5d678a2cf12aa3ed8d9620ef1fb827716e86070",
+      "size": 67296
+    },
+    "week-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/ironheart-01-week.json",
+      "sha256": "3573ee33f5307dc1769bda94fe70114a91b31d445906d9dddda300d916c4a6e8",
+      "size": 8747919
+    }
+  },
+  "media_object": "ironheart-01",
+  "published_files": {
+    "data/csv/bytes/ironheart-01-cumulative-detail.2025-btiha-itemized-by-bytes.csv": "a7d466c05ace89fde77366e6a31b25461ebd85dc89118b7772dba73580d16685",
+    "docs/itemized/figures/ironheart-01-carto-4k.webp": "db9a37d106c88c49daf621bd6441bc12bd68f5f5b5a80112a686d817c6ae7acb",
+    "docs/itemized/figures/ironheart-01-carto.png": "968697b9665f5763f7e85bd1bac50dbf3f332006f87e953bd1e40a3952be7732",
+    "docs/itemized/figures/ironheart-01-cumulative-detail-btiha-itemized-by-bytes.svg": "0d56ea89722dd577de9b8ebd8ff00c9b0e1bba89254f7878ad56b6c5d006b725",
+    "docs/itemized/figures/ironheart-01-data-ge-1080p-4k.webp": "0fa88aaa27e36885c20e319ad01a2f72c26220d04f9d60b4fe8a286fae86f0e9",
+    "docs/itemized/figures/ironheart-01-data-ge-1080p.webp": "612605aba545a0d5fe454517c38b1f5f8fb9fc5247e245731c71c17f3b2f4087",
+    "docs/itemized/figures/ironheart-01-data-lt-1080p-4k.webp": "7d0fda4af0d764a7dc312016d6f88799324145d6e39c0e9cbe508e952a945d59",
+    "docs/itemized/figures/ironheart-01-data-lt-1080p.webp": "b176a26c2793191cbcab904c6f5290ccd1c6768f15e1c5ead20d68c05d301f6e",
+    "docs/itemized/figures/ironheart-01-downloads-by-day-day.svg": "00bafa5f492440c4aaa3462a7c36576b522cbff6986c10f416543a821c9731ef",
+    "docs/itemized/figures/ironheart-01-downloads-by-week-ironheart-01-week.svg": "52c530a3a605dc6d113556c7738aca329dd8fb88e92906a39f6b543a31646dca",
+    "docs/itemized/ironheart-01-sample-cache-audit.md": "52c10c99fa227d24979e332e4334d1efa81462b93293154046654387a279ad93",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-year-2025-render",
+      "revision": "c520555c40beece2e38f62878e2d4cc1b312c505",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "c192c54f882171dafc74c038ec769f1e68bf8020d12a342d2334086b5b5ee5ea",
+      "size": 36998168
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.cumulative/ironheart-01-cumulative-btiha.geojson.gz",
+        "sha256": "54dced579c86d8014adbafa63fbf7fcefaf24cab5e52345c8bf12dcecb07feee",
+        "size": 85351913
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/json/ironheart-01-cumulative-btiha-media-objects.json",
+        "sha256": "f3318a2daac8e5192df1f950d1dc770f2267233bb0e757faded2cdd3f16f80c4",
+        "size": 1047886
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/izzi",
+      "revision": "b988ee7fd690a74a696c27c9aadf40c204a4c780",
+      "untracked": false
+    },
+    "media_object": "ironheart-01",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60-results-2025/bin/a60-meta-collection.exe",
+      "sha256": "e71f9def936a6868d5282a5ff7dece07ade360eefa07abebde75434a927220f7",
+      "size": 8743680
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          65.0,
+          41.0,
+          39.0,
+          31.0,
+          30.0,
+          28.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Seoul",
+          "Moscow",
+          "Istanbul",
+          "Saint Petersburg",
+          "London",
+          "Shanghai",
+          "Nanjing",
+          "Amsterdam",
+          "Hangzhou",
+          "Incheon"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          65.0,
+          41.0,
+          39.0,
+          30.0,
+          29.0,
+          29.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Seoul",
+          "Moscow",
+          "Istanbul",
+          "Saint Petersburg",
+          "Shanghai",
+          "London",
+          "Nanjing",
+          "Hangzhou",
+          "Amsterdam",
+          "Ashburn"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 21,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 36,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 6,
+        "x_tick_marks": 6,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 26,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "c520555c40beece2e38f62878e2d4cc1b312c505",
+    "cartofreako": "fc58111b5bfa7667b12f6ade522ae5e566b464d1",
+    "izzi": "b988ee7fd690a74a696c27c9aadf40c204a4c780",
+    "metadata": "fbeb53a0b523f937fae2f23d14689d8c5c84dd5a",
+    "results_aao_adoption": "9cd9d91a6fbb560ac2a96beadf4c83b94daf6a88"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2025"
+}
