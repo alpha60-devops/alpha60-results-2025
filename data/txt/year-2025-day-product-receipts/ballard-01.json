@@ -1,0 +1,1718 @@
+{
+  "archive": {
+    "path": "/home/bkoz/src/alpha60-xperiments/year-2025-archives/ballard-01.cache/cache.20260107.tar.xz",
+    "sha256": "efd2ad98d64b06535984bb976f26426b1814fbce15edfa6daa8040b7dba34dd6",
+    "size": 2186070264
+  },
+  "authorization": {
+    "archive_mutated": false,
+    "excluded_member_classes": [
+      "hour",
+      "week",
+      "cumulative"
+    ],
+    "raw_samples_opened": false,
+    "scope": "read only streaming of per-torrent day records"
+  },
+  "collection_key": "ballard-01",
+  "day_cache_stream_contract": {
+    "authorization": {
+      "archive_mutated": false,
+      "excluded_member_classes": [
+        "hour",
+        "week",
+        "cumulative"
+      ],
+      "raw_samples_opened": false,
+      "scope": "read only streaming of per-torrent day records"
+    },
+    "available_day_products": 181,
+    "cache_members": 79537,
+    "collection_key": "ballard-01",
+    "first_date": "2025-07-10",
+    "first_index": 1,
+    "indices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144,
+      145,
+      146,
+      147,
+      148,
+      149,
+      150,
+      151,
+      152,
+      153,
+      154,
+      155,
+      156,
+      157,
+      158,
+      159,
+      160,
+      161,
+      162,
+      163,
+      164,
+      165,
+      166,
+      167,
+      168,
+      169,
+      170,
+      171,
+      172,
+      173,
+      174,
+      175,
+      176,
+      177,
+      178,
+      179,
+      180,
+      181,
+      182
+    ],
+    "last_date": "2026-01-07",
+    "last_index": 182,
+    "missing_indices": [
+      47
+    ],
+    "sample_span_days": 182,
+    "schema": "alpha60-day-cache-stream-contract/1",
+    "sparse": true,
+    "status": "pass"
+  },
+  "day_product_contract": {
+    "collection_key": "ballard-01",
+    "day_products": 181,
+    "first_date": "2025-07-10",
+    "first_index": 1,
+    "geojson_data_version": "20260701",
+    "ip_geolocation_version": "6:1777968300",
+    "json_data_version": "2026-08-05",
+    "last_date": "2026-01-07",
+    "last_index": 182,
+    "schema": "alpha60-day-product-contract/1",
+    "sparse": true,
+    "status": "pass"
+  },
+  "publications": {
+    "data/geojson.day/ballard-01-day-00001.geojson.gz": {
+      "sha256": "a5295704a30a771e69f40d770927fb81a7af67fd4c7b65cd785a4df2d8a3fa65",
+      "size": 167993
+    },
+    "data/geojson.day/ballard-01-day-00002.geojson.gz": {
+      "sha256": "5a951959f5ad4276739144fd3d379317f69978a08176bd791f9de028a798285d",
+      "size": 215729
+    },
+    "data/geojson.day/ballard-01-day-00003.geojson.gz": {
+      "sha256": "4d51cdca615d5c99e9180970c33fe778b4d85ae44d0c7d0ab20f37db0b7e6712",
+      "size": 237496
+    },
+    "data/geojson.day/ballard-01-day-00004.geojson.gz": {
+      "sha256": "15eadac79833a513ef781bf5672708dd69119c0d95d6eb77f31146e4db96bb71",
+      "size": 227709
+    },
+    "data/geojson.day/ballard-01-day-00005.geojson.gz": {
+      "sha256": "091dc972a40f1303c1a75cec60d3545280c6f3763c335ebd38d2eb150df5e7e3",
+      "size": 239222
+    },
+    "data/geojson.day/ballard-01-day-00006.geojson.gz": {
+      "sha256": "f1d2dbcd89ae6979928e533b30910f85e2e34d8196fea962b06eaa7761cee311",
+      "size": 211524
+    },
+    "data/geojson.day/ballard-01-day-00007.geojson.gz": {
+      "sha256": "f6b744f146465337072d4098eeb840b3c0510f567e99e0b3f243fb4ca29c06f0",
+      "size": 226673
+    },
+    "data/geojson.day/ballard-01-day-00008.geojson.gz": {
+      "sha256": "5bc43e4f856f2c3a725b62822375f2bac0ceeaa9dbb2272cc5514149843c6398",
+      "size": 223157
+    },
+    "data/geojson.day/ballard-01-day-00009.geojson.gz": {
+      "sha256": "cdfe935bc42a15d1bbe720e7df50c6da955b40725fbab5ef45912d6906254c10",
+      "size": 234903
+    },
+    "data/geojson.day/ballard-01-day-00010.geojson.gz": {
+      "sha256": "95477b457acb3513f34def1ad9ecc0a5778effd8ee5336dd02dcfc2a63b53bc0",
+      "size": 224455
+    },
+    "data/geojson.day/ballard-01-day-00011.geojson.gz": {
+      "sha256": "ffdd26638634fa9f271c174ddf6971f2463835128d28c55de42cb00a59cdb07e",
+      "size": 238429
+    },
+    "data/geojson.day/ballard-01-day-00012.geojson.gz": {
+      "sha256": "16894886215213cccaa0d427909f3e04593fca2db8fb704c69d1eb066de20d8f",
+      "size": 281191
+    },
+    "data/geojson.day/ballard-01-day-00013.geojson.gz": {
+      "sha256": "98aa318a52e5260d4e23a077ca6f92289f2882e425937d9dcffab21d7c2fb0f1",
+      "size": 238004
+    },
+    "data/geojson.day/ballard-01-day-00014.geojson.gz": {
+      "sha256": "4a9774bd112745e37d0723ae9914e354b952362a7fba24d2f30e9b00c74668d7",
+      "size": 248627
+    },
+    "data/geojson.day/ballard-01-day-00015.geojson.gz": {
+      "sha256": "feb1ee0a3afaa541d1d7efd9649dd2f67423b080ddb259ef05623885d2db7d2f",
+      "size": 237169
+    },
+    "data/geojson.day/ballard-01-day-00016.geojson.gz": {
+      "sha256": "c534c797be4eed1500f2194c99fc0521cabadca6e8ce663372831cc984d3c8ce",
+      "size": 217265
+    },
+    "data/geojson.day/ballard-01-day-00017.geojson.gz": {
+      "sha256": "5a040223fb1ab5fbfed1770b4e269904a5923654c428a45e329d2e4ec2a9881f",
+      "size": 211491
+    },
+    "data/geojson.day/ballard-01-day-00018.geojson.gz": {
+      "sha256": "d7f404ca7789ee182ed9a3cd0e929c57c08b4e70f91eb30b09fd1dfb32191c57",
+      "size": 248024
+    },
+    "data/geojson.day/ballard-01-day-00019.geojson.gz": {
+      "sha256": "88f9ae8976fdd7e9ae59c3e010f781116c2f86d9130d7d6c6250483098eb0456",
+      "size": 276672
+    },
+    "data/geojson.day/ballard-01-day-00020.geojson.gz": {
+      "sha256": "2eec25649a28c487a3fd539e254442a6bf2ff3c2c1d9cef2c873266854dc198b",
+      "size": 284362
+    },
+    "data/geojson.day/ballard-01-day-00021.geojson.gz": {
+      "sha256": "9d68b9938d09c4bc4500bf445ac6d533e78d51d5d0b79b130a5c23178e506f97",
+      "size": 285453
+    },
+    "data/geojson.day/ballard-01-day-00022.geojson.gz": {
+      "sha256": "4ef686be23b08f956436c1c1d06ff5193228eeecc1fbadf71f6865d229690c40",
+      "size": 277849
+    },
+    "data/geojson.day/ballard-01-day-00023.geojson.gz": {
+      "sha256": "0b42027f7998290d8ef06f56e8bd307e63cb60c1762ce162b5b66ff2091acb80",
+      "size": 322722
+    },
+    "data/geojson.day/ballard-01-day-00024.geojson.gz": {
+      "sha256": "7ddf07ddb3f8b911381d5782bd6157f762a5f56463de6a50cfb1c4470f5c3b01",
+      "size": 216443
+    },
+    "data/geojson.day/ballard-01-day-00025.geojson.gz": {
+      "sha256": "e304da90af5359bf50b1cc206c95493f30402d48ca15c5758313340758f2dd63",
+      "size": 258674
+    },
+    "data/geojson.day/ballard-01-day-00026.geojson.gz": {
+      "sha256": "cc217bbd135429e1d3dc9863f3d326ed64e2891022ba5f9ab0e98efaf811a10c",
+      "size": 244154
+    },
+    "data/geojson.day/ballard-01-day-00027.geojson.gz": {
+      "sha256": "3545be83a755b9f663a41a92835ad730574b6cf8e30fcc5109710fc66509d5ea",
+      "size": 93005
+    },
+    "data/geojson.day/ballard-01-day-00028.geojson.gz": {
+      "sha256": "da0d7ff0f72914b899b4422adcbf14aa41c90420763957ad3889847f457250ea",
+      "size": 243049
+    },
+    "data/geojson.day/ballard-01-day-00029.geojson.gz": {
+      "sha256": "7ffd4a61ec450c762744567cd541f2bdcbdbde76820b5963c763d01ee3c15ace",
+      "size": 248298
+    },
+    "data/geojson.day/ballard-01-day-00030.geojson.gz": {
+      "sha256": "bb833aa865b7543f52dfc59e3b02cd2dc52407b167bddc16ba13e483eb1df940",
+      "size": 254618
+    },
+    "data/geojson.day/ballard-01-day-00031.geojson.gz": {
+      "sha256": "9dfabefefce4463b711c00b5d34cf7acdfe7ba92044f4fe14ff5283c7b181a7f",
+      "size": 229654
+    },
+    "data/geojson.day/ballard-01-day-00032.geojson.gz": {
+      "sha256": "22f30139724c2eae77c4ad03dbe03dc429594f521f963fbcd533dd8d3369d1a8",
+      "size": 237545
+    },
+    "data/geojson.day/ballard-01-day-00033.geojson.gz": {
+      "sha256": "0336bdf1159a660d9342db1a42a20c1d972f97efeb9ea21dd33c3e05729e22af",
+      "size": 252639
+    },
+    "data/geojson.day/ballard-01-day-00034.geojson.gz": {
+      "sha256": "02963ed0073fe24f44b3033da32e72c181385127083bd95cee3db9e8e6aa0c69",
+      "size": 242908
+    },
+    "data/geojson.day/ballard-01-day-00035.geojson.gz": {
+      "sha256": "38cd1897d25c9eb9d8c97db9326b56387a44773cce15d5ce9655b28efd49bee1",
+      "size": 231987
+    },
+    "data/geojson.day/ballard-01-day-00036.geojson.gz": {
+      "sha256": "251eee3693ddbbf0317feb24d1b8db5b5bf2e81398dbba965cf23af4b38089f7",
+      "size": 238159
+    },
+    "data/geojson.day/ballard-01-day-00037.geojson.gz": {
+      "sha256": "b2b02100ba32fdfd9221a04d7b533c3e54094126ae0ef12af72c64a7a2e0c777",
+      "size": 215073
+    },
+    "data/geojson.day/ballard-01-day-00038.geojson.gz": {
+      "sha256": "70f8f35bfbaf47b87c974f3663516e40b0d54f60fdf22aa80620c2d22c0565c3",
+      "size": 208705
+    },
+    "data/geojson.day/ballard-01-day-00039.geojson.gz": {
+      "sha256": "2a2b766d8635c2ee7c4c72c6f2fe8ad3a9845b06938cf10dd6cb8b09197e8064",
+      "size": 211006
+    },
+    "data/geojson.day/ballard-01-day-00040.geojson.gz": {
+      "sha256": "2c63e4571e154e3704bb03574b84688f701d2af8bdb2599146380b7ccca9d266",
+      "size": 221057
+    },
+    "data/geojson.day/ballard-01-day-00041.geojson.gz": {
+      "sha256": "d1869abddbc5692ced7bb0c1398713023842252d96483efad2bb4b41bb4e5248",
+      "size": 218152
+    },
+    "data/geojson.day/ballard-01-day-00042.geojson.gz": {
+      "sha256": "d88af2e9af324475072a50e901ed2e11577de6c67c1f4706218d5a9486e0d1f0",
+      "size": 222915
+    },
+    "data/geojson.day/ballard-01-day-00043.geojson.gz": {
+      "sha256": "cb054907c51530a3e11ac476db99fd4637c7bac48c870f4a6296eb9c6780a049",
+      "size": 229814
+    },
+    "data/geojson.day/ballard-01-day-00044.geojson.gz": {
+      "sha256": "e214d27ca894d9a2a4cd09f58a8fda8a3ae65b847435d8d4398200faa4a39a7b",
+      "size": 220893
+    },
+    "data/geojson.day/ballard-01-day-00045.geojson.gz": {
+      "sha256": "01d7727c137faac8d087c63c1fa2adb62f22a4a296a42bd5ea0c1006f581b718",
+      "size": 210991
+    },
+    "data/geojson.day/ballard-01-day-00046.geojson.gz": {
+      "sha256": "328a0e787db70564afaaef6aa47090bb04c045a97a2c5e8d2e264cd38d350870",
+      "size": 206918
+    },
+    "data/geojson.day/ballard-01-day-00048.geojson.gz": {
+      "sha256": "35383555bc27202d6174a41c7adad5ae726437079bc3420c96b054b2c0c66cc8",
+      "size": 181526
+    },
+    "data/geojson.day/ballard-01-day-00049.geojson.gz": {
+      "sha256": "acd376956ce7d60646d745006fd72a9ecb919ad755e8545b619953d786919816",
+      "size": 143322
+    },
+    "data/geojson.day/ballard-01-day-00050.geojson.gz": {
+      "sha256": "63dbececfeb60e12917b6192ecbea40177b16d7b9c197a87c70735f9b480c854",
+      "size": 244749
+    },
+    "data/geojson.day/ballard-01-day-00051.geojson.gz": {
+      "sha256": "6034a28250522636f82d1cc9e52efc0056f3e5e1ead748deb174383f1b3f63ac",
+      "size": 284024
+    },
+    "data/geojson.day/ballard-01-day-00052.geojson.gz": {
+      "sha256": "34ad627d74f293f6adeeea380d9a5cc2c591af73da0603912add689fda091975",
+      "size": 291451
+    },
+    "data/geojson.day/ballard-01-day-00053.geojson.gz": {
+      "sha256": "7753303862485f13630ab5b1f4a0301aa5d1112c0dfc1a75272fdf5e7469c7a0",
+      "size": 258255
+    },
+    "data/geojson.day/ballard-01-day-00054.geojson.gz": {
+      "sha256": "a779be8fb27baa9cc68fa1524aea84c3c2961b1155dd1c83a5d705ad19dfe731",
+      "size": 257994
+    },
+    "data/geojson.day/ballard-01-day-00055.geojson.gz": {
+      "sha256": "27d48fb791ca27b2b18ae37bbbc34697cd5cab0af6d03a15f120518ea554bfa3",
+      "size": 255028
+    },
+    "data/geojson.day/ballard-01-day-00056.geojson.gz": {
+      "sha256": "293fac0be469e025290e8b87812f2e0869ada460cb4996e25a0e9bea4a86f4b9",
+      "size": 243093
+    },
+    "data/geojson.day/ballard-01-day-00057.geojson.gz": {
+      "sha256": "459fb2749b8b5198e7d7fcf5388470818c9627a12eae68f1646a162714a79f28",
+      "size": 244792
+    },
+    "data/geojson.day/ballard-01-day-00058.geojson.gz": {
+      "sha256": "22e1cb20f28c60e6c070914edcfd32e378e217e932c1f8f0357cae36b37e4c0d",
+      "size": 228659
+    },
+    "data/geojson.day/ballard-01-day-00059.geojson.gz": {
+      "sha256": "c0cc7a76203ee1469624d2e9e3ce9607c7a8a46888332b9ffe4fedf9b4d54c28",
+      "size": 225396
+    },
+    "data/geojson.day/ballard-01-day-00060.geojson.gz": {
+      "sha256": "062bcc91ee13b826085366c788bd669e29811e59e7664c0a625265df82144acd",
+      "size": 222203
+    },
+    "data/geojson.day/ballard-01-day-00061.geojson.gz": {
+      "sha256": "954b2b57596383728e1b6600bd67fa0106bb825ce5e57feb62df3c3e32054e75",
+      "size": 250695
+    },
+    "data/geojson.day/ballard-01-day-00062.geojson.gz": {
+      "sha256": "da77e3fc731b16b3d09eb729af5b3c5dd2eedada75238e984c43ba23b60bcb40",
+      "size": 263535
+    },
+    "data/geojson.day/ballard-01-day-00063.geojson.gz": {
+      "sha256": "49356bfd23c28aa7834ef87a3ba1a679d4c33d824e6c5794cab0dd52700558e3",
+      "size": 247443
+    },
+    "data/geojson.day/ballard-01-day-00064.geojson.gz": {
+      "sha256": "71d6421cfdb26cf96c1edd8c0ed33d27afc7559696570d7940a2e02614e667de",
+      "size": 229180
+    },
+    "data/geojson.day/ballard-01-day-00065.geojson.gz": {
+      "sha256": "edfff1d719c22af6c3354223c667e4cffbdbe4334bd61cd57a36017ed890e1f2",
+      "size": 224542
+    },
+    "data/geojson.day/ballard-01-day-00066.geojson.gz": {
+      "sha256": "20e7080ebbc27c736c6249e059f3e7b72b5ec4f4317d4581b8d5814ed4d5ee5a",
+      "size": 221279
+    },
+    "data/geojson.day/ballard-01-day-00067.geojson.gz": {
+      "sha256": "67017a414051d916dfd89118474f44af8305bfc42d41ed476e192d96c7773f87",
+      "size": 198484
+    },
+    "data/geojson.day/ballard-01-day-00068.geojson.gz": {
+      "sha256": "4756a1445b3830865304aeaed7778b60949bf857736d003a8dd1cec73349719b",
+      "size": 225680
+    },
+    "data/geojson.day/ballard-01-day-00069.geojson.gz": {
+      "sha256": "24c5e778e75f19142dd0ad1818eeaa294ed01ea4d318cd4e3e109afbfdbaa2a3",
+      "size": 226538
+    },
+    "data/geojson.day/ballard-01-day-00070.geojson.gz": {
+      "sha256": "5e61502d0f1cc9a5c74ece2d1c6e8e7ea5b76d58e6aec565c6aad093c3b52aab",
+      "size": 238701
+    },
+    "data/geojson.day/ballard-01-day-00071.geojson.gz": {
+      "sha256": "d645eb6c1e941a6401c0014f7391ced62134551c7418fe6202e479687994358f",
+      "size": 229446
+    },
+    "data/geojson.day/ballard-01-day-00072.geojson.gz": {
+      "sha256": "0991fd437d0930aa5f17c9c7236c56f78f72a4623659d3ceef6688c15f9aa211",
+      "size": 223247
+    },
+    "data/geojson.day/ballard-01-day-00073.geojson.gz": {
+      "sha256": "b23e14032cd42fa27988fd7bbe61886a3861f145bb3fc427f3281f531ce1929c",
+      "size": 227483
+    },
+    "data/geojson.day/ballard-01-day-00074.geojson.gz": {
+      "sha256": "c1867af7a349aba146e9c5ae30cd28194d354b44658cda77c45c8083310167cd",
+      "size": 241693
+    },
+    "data/geojson.day/ballard-01-day-00075.geojson.gz": {
+      "sha256": "c1ef33bc88a3d6002a88b5365260aaf445572ea0a9c80b687ae7b7593638910f",
+      "size": 255490
+    },
+    "data/geojson.day/ballard-01-day-00076.geojson.gz": {
+      "sha256": "13e08594710ccc5cf1bfd28f6dd0b2b76beeb5c7889b59af62121ba3e42898cd",
+      "size": 275470
+    },
+    "data/geojson.day/ballard-01-day-00077.geojson.gz": {
+      "sha256": "a9c6c0ce89c17f29398baf326ac48dc1799a5d54471dd84262ca05718673b53d",
+      "size": 270841
+    },
+    "data/geojson.day/ballard-01-day-00078.geojson.gz": {
+      "sha256": "8aa83f78fa43750797bdc6444e958237707d9d5704286196a9dfc1cc566392ac",
+      "size": 258945
+    },
+    "data/geojson.day/ballard-01-day-00079.geojson.gz": {
+      "sha256": "d829eec487cc8e7eb1055df5290c81fae21d27b6a238322bae9b5d533c8bdb0e",
+      "size": 294858
+    },
+    "data/geojson.day/ballard-01-day-00080.geojson.gz": {
+      "sha256": "e30b9489a49181344bd6caf0dec26bd43aa15a779b2027992e634f04bc17bf77",
+      "size": 260222
+    },
+    "data/geojson.day/ballard-01-day-00081.geojson.gz": {
+      "sha256": "a44539911ce3988718ecdd7ec5beb9c1099226bd27d5346dd2755f7c4882375d",
+      "size": 222921
+    },
+    "data/geojson.day/ballard-01-day-00082.geojson.gz": {
+      "sha256": "5180ada28c70369bc986642a1f44ff6615f48d4af23a5c5cd99295cfe6492f14",
+      "size": 271987
+    },
+    "data/geojson.day/ballard-01-day-00083.geojson.gz": {
+      "sha256": "0ea37db00160ef7e6eaed5ed401161d9154bd3837e0b4ea65a7ce76a79e3c52d",
+      "size": 271964
+    },
+    "data/geojson.day/ballard-01-day-00084.geojson.gz": {
+      "sha256": "7436642493fb2634bd408da897dd9dad52cd18dabaa90dfd50bafe5e3f19b7e9",
+      "size": 262828
+    },
+    "data/geojson.day/ballard-01-day-00085.geojson.gz": {
+      "sha256": "68aedd49821ffc25f11468cf40416d4455e5160504012521ff347da4b63060a0",
+      "size": 254997
+    },
+    "data/geojson.day/ballard-01-day-00086.geojson.gz": {
+      "sha256": "42f505fddc87f63a7545d0207046dc200b5e08fcf7e7b6d6d3a45d023b7e3da4",
+      "size": 248516
+    },
+    "data/geojson.day/ballard-01-day-00087.geojson.gz": {
+      "sha256": "a05750d85884fa1723f50f40450982aad5221aedc8633ae10da9c56b6e079b4d",
+      "size": 239124
+    },
+    "data/geojson.day/ballard-01-day-00088.geojson.gz": {
+      "sha256": "e5322bf9e98538d4f165bbfe67e207e7971598a6e929a7f4ed6e3946f54267c2",
+      "size": 237503
+    },
+    "data/geojson.day/ballard-01-day-00089.geojson.gz": {
+      "sha256": "0170283546abdac790bdad84d6b240e88132563955cd5ad3827bbd73830fbcd0",
+      "size": 263715
+    },
+    "data/geojson.day/ballard-01-day-00090.geojson.gz": {
+      "sha256": "80ba3a5238ff08279d57b881312758e9cca47ed54a3598e5edee2ae0b612731e",
+      "size": 244092
+    },
+    "data/geojson.day/ballard-01-day-00091.geojson.gz": {
+      "sha256": "07e96ee701b137097cc7e671fcb0087a1b250261ce7d26b34980c155e3179934",
+      "size": 261630
+    },
+    "data/geojson.day/ballard-01-day-00092.geojson.gz": {
+      "sha256": "c6b1848617d5bb11017ff6be8a765c36b68d911e384bc911c7d929a030d1eb8c",
+      "size": 287176
+    },
+    "data/geojson.day/ballard-01-day-00093.geojson.gz": {
+      "sha256": "c37d9f5a7b839d414eba3f7e6824380932493c8aad81379d91c01d31f4468c41",
+      "size": 286229
+    },
+    "data/geojson.day/ballard-01-day-00094.geojson.gz": {
+      "sha256": "6c72fbeb355bb7db2b8116a54eecfaa04ed6a19cce4e355ff4feaadc028bf43c",
+      "size": 281862
+    },
+    "data/geojson.day/ballard-01-day-00095.geojson.gz": {
+      "sha256": "b1a05b43457156536378568d2e95e810ddd8b568998eb0ef2ec995e2072fa184",
+      "size": 278432
+    },
+    "data/geojson.day/ballard-01-day-00096.geojson.gz": {
+      "sha256": "f4ebc9ead44ffb023de4ee19cdc16dcec68ae473f63175b490117f8ba6a58a2f",
+      "size": 292656
+    },
+    "data/geojson.day/ballard-01-day-00097.geojson.gz": {
+      "sha256": "e6cf7f4af07424e945b5607b4136816b9918a174dab0be9ac47ad5343db8c6a2",
+      "size": 270314
+    },
+    "data/geojson.day/ballard-01-day-00098.geojson.gz": {
+      "sha256": "936db5776aa8c4b8d2d3df025ffefdf0bf651f708bab1a3b315d828243711118",
+      "size": 273028
+    },
+    "data/geojson.day/ballard-01-day-00099.geojson.gz": {
+      "sha256": "812f121f0d897d7d0b37d4cf41c00960c1e3c53a1a8dfffc9d8dfab68a4ad8a1",
+      "size": 264187
+    },
+    "data/geojson.day/ballard-01-day-00100.geojson.gz": {
+      "sha256": "d89e262d80c8233fc044960fe285d567a64a2258d2bec041bf62ee218ba10a8c",
+      "size": 269996
+    },
+    "data/geojson.day/ballard-01-day-00101.geojson.gz": {
+      "sha256": "e3f4b8d1ba05b0406b50b67791b3378d69ee4f96f79cd863864ddf2d8250f637",
+      "size": 278446
+    },
+    "data/geojson.day/ballard-01-day-00102.geojson.gz": {
+      "sha256": "ca707aaf247768eb7560da352681cc2e1433d2effff5f3df247f4be5720083c2",
+      "size": 279399
+    },
+    "data/geojson.day/ballard-01-day-00103.geojson.gz": {
+      "sha256": "23c0cd1f51a2730b10f8b611d92880b30748c3d7743cc22cbe0571829551a588",
+      "size": 288052
+    },
+    "data/geojson.day/ballard-01-day-00104.geojson.gz": {
+      "sha256": "9e5d91832a9d5b97ae2ed9ff0a53670c84215c53f13443e29237a96f62760b05",
+      "size": 278309
+    },
+    "data/geojson.day/ballard-01-day-00105.geojson.gz": {
+      "sha256": "5fcf66b8ceeef20d05ca5281c824301162d55cb88d40ac79febb2cfa54a4ee2c",
+      "size": 277619
+    },
+    "data/geojson.day/ballard-01-day-00106.geojson.gz": {
+      "sha256": "cc95dc40bc4e9ee2bfc20f979e3fb3de8bfc7a658ded3802ea12c8485786f82b",
+      "size": 282240
+    },
+    "data/geojson.day/ballard-01-day-00107.geojson.gz": {
+      "sha256": "ef94e86715de16cfd0b96075fbc4e3afe67d00b09058d06091868e4285342edd",
+      "size": 316162
+    },
+    "data/geojson.day/ballard-01-day-00108.geojson.gz": {
+      "sha256": "0357cba6678977876c5f964e3a9a31a78a059fbbaaf124667c423affca45451c",
+      "size": 283378
+    },
+    "data/geojson.day/ballard-01-day-00109.geojson.gz": {
+      "sha256": "17385b304e23affeee0643dd0e903161d17380fd96738cd811798f9b04672e45",
+      "size": 266452
+    },
+    "data/geojson.day/ballard-01-day-00110.geojson.gz": {
+      "sha256": "1a78eb0bdcf4f9b5ebf8cbc980203c3e17341f98a5e6102460876bd1c4e348e0",
+      "size": 281579
+    },
+    "data/geojson.day/ballard-01-day-00111.geojson.gz": {
+      "sha256": "8011da829255ca0f5ad5b04cf1bf63c154975d149b1d95901dc04604ec2f1c47",
+      "size": 282755
+    },
+    "data/geojson.day/ballard-01-day-00112.geojson.gz": {
+      "sha256": "86ad57c300743efc7098499bf2fce7f89becfb191119e071d9e81aef71508a8c",
+      "size": 266826
+    },
+    "data/geojson.day/ballard-01-day-00113.geojson.gz": {
+      "sha256": "f15d85a7e23aad43266ad84506fb729cfdf52dbccd5ebc9fc3bbb8410bd4ad1a",
+      "size": 263325
+    },
+    "data/geojson.day/ballard-01-day-00114.geojson.gz": {
+      "sha256": "a4d360bfd0009cebb9c729538870509eabafb67365d551e7b8fa05af13bf374e",
+      "size": 265688
+    },
+    "data/geojson.day/ballard-01-day-00115.geojson.gz": {
+      "sha256": "13fd55a1be3b03f7b390bcfe18747381f567a5e6253f58338343468599f76766",
+      "size": 259507
+    },
+    "data/geojson.day/ballard-01-day-00116.geojson.gz": {
+      "sha256": "2be85df97d528b510b9ec58b32085bacf09376dc108518d85e3f76c25e77e45b",
+      "size": 271352
+    },
+    "data/geojson.day/ballard-01-day-00117.geojson.gz": {
+      "sha256": "204ca7c2c89f91b2fd1904417858e29b2a1150203e0b324811e8320ee3f2a4a8",
+      "size": 269470
+    },
+    "data/geojson.day/ballard-01-day-00118.geojson.gz": {
+      "sha256": "00eeb2034aeb5e83b4ab4b4f10249c3fd766391aeea1f69b26123b7b33024514",
+      "size": 261926
+    },
+    "data/geojson.day/ballard-01-day-00119.geojson.gz": {
+      "sha256": "20d613370dcad4ad7de391d1a8d7f57d7d95b6d4d9b3b02ca9635425eae0a3cf",
+      "size": 264822
+    },
+    "data/geojson.day/ballard-01-day-00120.geojson.gz": {
+      "sha256": "10741bfbe23f5c0953d237ab891898e9ad55703157fec7c8415922789b3983f5",
+      "size": 264247
+    },
+    "data/geojson.day/ballard-01-day-00121.geojson.gz": {
+      "sha256": "8cf28273b06c3d3595250234ba829cd133319c196cc51fcb2bd6652c14840f69",
+      "size": 265924
+    },
+    "data/geojson.day/ballard-01-day-00122.geojson.gz": {
+      "sha256": "1138baa06cb76748f0113903fe76ebe222a95b2698ee6d6f2114cb3b9367de24",
+      "size": 272977
+    },
+    "data/geojson.day/ballard-01-day-00123.geojson.gz": {
+      "sha256": "8c39ed334e74fe50fb9b9bbb2a76553b884736cb22a40f877fba45f1d99958e6",
+      "size": 261212
+    },
+    "data/geojson.day/ballard-01-day-00124.geojson.gz": {
+      "sha256": "3a3d5d95793cd674d8660ba18bcc42d67c7805b87406e5b7015218af29295683",
+      "size": 265542
+    },
+    "data/geojson.day/ballard-01-day-00125.geojson.gz": {
+      "sha256": "9b68eec5fdf554522a9ca979fce5111a8a17d784e1b8ebfab680def0980317aa",
+      "size": 268003
+    },
+    "data/geojson.day/ballard-01-day-00126.geojson.gz": {
+      "sha256": "0bb8f4ca73e640d801d7fab7a3523412f380d2b96d5fbbb8ce455d2b952e1b30",
+      "size": 268108
+    },
+    "data/geojson.day/ballard-01-day-00127.geojson.gz": {
+      "sha256": "5a76e61241633ee96d4c7d7208347f699e53413a54be9fbf2b54d62b948b9a2b",
+      "size": 263888
+    },
+    "data/geojson.day/ballard-01-day-00128.geojson.gz": {
+      "sha256": "801d02454057647076f14aae546f35a78babc0e6c9d8c5733963d26fa81b68aa",
+      "size": 270771
+    },
+    "data/geojson.day/ballard-01-day-00129.geojson.gz": {
+      "sha256": "7a8ece797b74edc8ae02c00987ffc26ef869c8fcc62aa569a64a2fbff6e65dba",
+      "size": 264491
+    },
+    "data/geojson.day/ballard-01-day-00130.geojson.gz": {
+      "sha256": "750246687e37fe52eb193db512cdc1ebe8fe7c2ab0854c4a2ab057ff0665bea1",
+      "size": 240551
+    },
+    "data/geojson.day/ballard-01-day-00131.geojson.gz": {
+      "sha256": "e55ffcf8fe89358404cca967f1bd01bf70b46f380526890ebce7c9a5cf68440c",
+      "size": 276872
+    },
+    "data/geojson.day/ballard-01-day-00132.geojson.gz": {
+      "sha256": "18cbe8de0a79db527b10c7a806bbb99b6a1be228b87d51e4e1e73573b03c9ae2",
+      "size": 273881
+    },
+    "data/geojson.day/ballard-01-day-00133.geojson.gz": {
+      "sha256": "fddca9b98f8bdca3813efcf96c25ebb03072f738fae697d3119ed0583c0a7673",
+      "size": 269170
+    },
+    "data/geojson.day/ballard-01-day-00134.geojson.gz": {
+      "sha256": "982f3d825047d1796e7bf30d8f1b74929348112344e33e0ae86fbef1b177cc7b",
+      "size": 274194
+    },
+    "data/geojson.day/ballard-01-day-00135.geojson.gz": {
+      "sha256": "d1cea1f8716cdcfc099eafe2a5caa1ae3e83699da84b6cc8eb28909267d28e96",
+      "size": 334824
+    },
+    "data/geojson.day/ballard-01-day-00136.geojson.gz": {
+      "sha256": "8c2deeaa5c9dacb4b3a1cd03bfb8a53f352af55892ecbaa397a30bcd06779e48",
+      "size": 267897
+    },
+    "data/geojson.day/ballard-01-day-00137.geojson.gz": {
+      "sha256": "9b0b0e7131a302c533fb63f84dc86370cb8753596c6fc9cd3fa287208ab0faac",
+      "size": 256652
+    },
+    "data/geojson.day/ballard-01-day-00138.geojson.gz": {
+      "sha256": "666740942d953b23164f530ee79b4ea740ea7fdd6829a6dd7d062f2b55371966",
+      "size": 281745
+    },
+    "data/geojson.day/ballard-01-day-00139.geojson.gz": {
+      "sha256": "11cc9d20c58c36809eb01e1ffae800541ecb7c9a8b56f999746f31bae4a5192f",
+      "size": 278426
+    },
+    "data/geojson.day/ballard-01-day-00140.geojson.gz": {
+      "sha256": "d6c891f3d6a16c2176dbf9d9e4ca644ac5e95e66649422e4871cd701f6b390a1",
+      "size": 282937
+    },
+    "data/geojson.day/ballard-01-day-00141.geojson.gz": {
+      "sha256": "8d4253c2aa3e920b1a062343a4cf994f95019f7084b54cc025ab744cb12bb437",
+      "size": 289402
+    },
+    "data/geojson.day/ballard-01-day-00142.geojson.gz": {
+      "sha256": "e052f061267a1100c05d02d7f1e95f19c9bc411549a52092bfae2467da79d3f1",
+      "size": 272673
+    },
+    "data/geojson.day/ballard-01-day-00143.geojson.gz": {
+      "sha256": "43d9f91755ff5df1d3305eacad536a0cdf475f5fc54e2b2624172163c1ead266",
+      "size": 282676
+    },
+    "data/geojson.day/ballard-01-day-00144.geojson.gz": {
+      "sha256": "dee2c0cf8496c8901d356bfb0ed8a3833159eafe4f253f175cb2a89fce624d4c",
+      "size": 282352
+    },
+    "data/geojson.day/ballard-01-day-00145.geojson.gz": {
+      "sha256": "fff5473f3ee9fb6b07e51bc92ff1404c67067c2e64fca7bb1c37f8082236b41f",
+      "size": 293948
+    },
+    "data/geojson.day/ballard-01-day-00146.geojson.gz": {
+      "sha256": "bef84b590387a2d8f01b2cf2bca51a013e85df23b7159f438d14e044cdf510ce",
+      "size": 280241
+    },
+    "data/geojson.day/ballard-01-day-00147.geojson.gz": {
+      "sha256": "a7ce09166eefb7f82cf8a9ac010ac6530ad202485481d072cb1001f31e0408c2",
+      "size": 278790
+    },
+    "data/geojson.day/ballard-01-day-00148.geojson.gz": {
+      "sha256": "a697a9dab71ffb38c93306a41c93716458fb0f02c5c4d6caa1b8d977b4de3fa2",
+      "size": 281506
+    },
+    "data/geojson.day/ballard-01-day-00149.geojson.gz": {
+      "sha256": "f5c24982ec1175dfdcc57ef5f021245679d6bd6883b1671827cb74a7f35470f9",
+      "size": 272909
+    },
+    "data/geojson.day/ballard-01-day-00150.geojson.gz": {
+      "sha256": "76fc5f6495ddd544ac8749fd679831b5a66b8a118c4e09d74df3e289179d362e",
+      "size": 265171
+    },
+    "data/geojson.day/ballard-01-day-00151.geojson.gz": {
+      "sha256": "54a419958655ba9d861aceb3390ce551916162e138280b8f8365f1cf4dba7c3c",
+      "size": 261323
+    },
+    "data/geojson.day/ballard-01-day-00152.geojson.gz": {
+      "sha256": "af0a1565274789245cdc21bffea37c4f27bd7b69cc556b79b49fc531d6f842a1",
+      "size": 290540
+    },
+    "data/geojson.day/ballard-01-day-00153.geojson.gz": {
+      "sha256": "74178d0be1d04fae03152f21345741909a672ea259c346f1027bde8c402fe817",
+      "size": 277125
+    },
+    "data/geojson.day/ballard-01-day-00154.geojson.gz": {
+      "sha256": "6782556130ff2c3bf02a708c8ddbcc3b6359552155962459fd0465fd4d1cacd5",
+      "size": 280677
+    },
+    "data/geojson.day/ballard-01-day-00155.geojson.gz": {
+      "sha256": "36bb0fae9dec36dde208f5825b63aa8e9c8040698953aaadd6aaa7f80eee1a5a",
+      "size": 276430
+    },
+    "data/geojson.day/ballard-01-day-00156.geojson.gz": {
+      "sha256": "f87bda5faa1f587ca7928f7e2a6fec4f6283040571a55112aa076ed255371f10",
+      "size": 272999
+    },
+    "data/geojson.day/ballard-01-day-00157.geojson.gz": {
+      "sha256": "2556f23b5f2c93a8ca0b68f9409fab9f2c195832d9829c7e82b87bb3eeaf5935",
+      "size": 253319
+    },
+    "data/geojson.day/ballard-01-day-00158.geojson.gz": {
+      "sha256": "e07bab79728bb372e1829b35a94ce353143f945669622c3947c85659b34af929",
+      "size": 235247
+    },
+    "data/geojson.day/ballard-01-day-00159.geojson.gz": {
+      "sha256": "927b44c5cb44085d8f65fc2070e477246d1eb5c356b312ea910da4e9b2d076e6",
+      "size": 291455
+    },
+    "data/geojson.day/ballard-01-day-00160.geojson.gz": {
+      "sha256": "f16402cd66e3edaa6fdc52b1dd6de9be26c4d0e09c0af73c9c66e55959a3875d",
+      "size": 293287
+    },
+    "data/geojson.day/ballard-01-day-00161.geojson.gz": {
+      "sha256": "b128f8f4c9454342f3b8e41ba6072752bcaf7293d2515cbd66ba6cbe9f1b32de",
+      "size": 283484
+    },
+    "data/geojson.day/ballard-01-day-00162.geojson.gz": {
+      "sha256": "0fef03171c21501ec3c059f0a883d4e2fdf459c2b52a04f1c349dd5e2efea1cc",
+      "size": 287852
+    },
+    "data/geojson.day/ballard-01-day-00163.geojson.gz": {
+      "sha256": "43e1cc70a1db7fe13d9d3ea3bb6088106eded80f5709a5c641fce2173a990ed8",
+      "size": 275171
+    },
+    "data/geojson.day/ballard-01-day-00164.geojson.gz": {
+      "sha256": "aa3a868639c2089fadd30efe2001f23cf12801bb3c8de8f4932dc9a2958b7131",
+      "size": 260160
+    },
+    "data/geojson.day/ballard-01-day-00165.geojson.gz": {
+      "sha256": "edb1876633ae3d25f656a91952acbfa0e88a41790b231cd903bc648fff885462",
+      "size": 271787
+    },
+    "data/geojson.day/ballard-01-day-00166.geojson.gz": {
+      "sha256": "44980758aed5664fd9860d7033a81bb77430f543d01f480efd890c6492fa8ca3",
+      "size": 216151
+    },
+    "data/geojson.day/ballard-01-day-00167.geojson.gz": {
+      "sha256": "70fba6559f965f319ac53b024462749cbc9d8c7ef9f25b8ff1f217f7baef92b9",
+      "size": 142659
+    },
+    "data/geojson.day/ballard-01-day-00168.geojson.gz": {
+      "sha256": "cc61e98eb60f9e356dda5e29dba83dea24433b8ae6e5c5a1b1d7618622fbbd82",
+      "size": 266860
+    },
+    "data/geojson.day/ballard-01-day-00169.geojson.gz": {
+      "sha256": "1c80eaba66b0e2fa4bd05e064e27c7a3494bca87d635a83daf2ea3e650c924b1",
+      "size": 246935
+    },
+    "data/geojson.day/ballard-01-day-00170.geojson.gz": {
+      "sha256": "5b2df9e0cb39bda6a6b0487e11b299c725d09d212a901f8b6a1ff7d43e4fe990",
+      "size": 254775
+    },
+    "data/geojson.day/ballard-01-day-00171.geojson.gz": {
+      "sha256": "33905a21fd8f6818da3a22ac5b49c39aa3e3b5dd054c02ec3cc9b842b666cc72",
+      "size": 243822
+    },
+    "data/geojson.day/ballard-01-day-00172.geojson.gz": {
+      "sha256": "afe8e84089ec972ec167797803971af126b3b64d3ed0c66d690883f6316c2504",
+      "size": 240770
+    },
+    "data/geojson.day/ballard-01-day-00173.geojson.gz": {
+      "sha256": "576197f71f899258b7b1ebb6b5f06bde9d904c7e28cd83b2c5e2bdd9947bae27",
+      "size": 261595
+    },
+    "data/geojson.day/ballard-01-day-00174.geojson.gz": {
+      "sha256": "1f4606e75d9653f0161139c268fcc963f974d9865b8925afdec7e1668c58894c",
+      "size": 256048
+    },
+    "data/geojson.day/ballard-01-day-00175.geojson.gz": {
+      "sha256": "e9081db1003e7e9f3534ef689f10d322b938a6d2b949e6c506ce633cd59eb464",
+      "size": 275364
+    },
+    "data/geojson.day/ballard-01-day-00176.geojson.gz": {
+      "sha256": "6ae142336d447669dad2c24e3158d2d0f27190f7600481b4419bb3eff3edbd37",
+      "size": 281598
+    },
+    "data/geojson.day/ballard-01-day-00177.geojson.gz": {
+      "sha256": "5cd29b09f49486ac6c2e1a7be1b6b34ada019bcdf8c10e2e7bc4d55eb7bc2e60",
+      "size": 295429
+    },
+    "data/geojson.day/ballard-01-day-00178.geojson.gz": {
+      "sha256": "5d2800715b36aa29d71a8c8407ca4e9f50376b785a532ffb9cf99a8fad4b2cc7",
+      "size": 264798
+    },
+    "data/geojson.day/ballard-01-day-00179.geojson.gz": {
+      "sha256": "810764d891adb89ab1524aaea1e77c811153f5c1355672fbb66aaf715b0b36c8",
+      "size": 263301
+    },
+    "data/geojson.day/ballard-01-day-00180.geojson.gz": {
+      "sha256": "8179f795fc26b0eed5a71f8e8d90594c7fd3554b66575449d0671075afa317d3",
+      "size": 276074
+    },
+    "data/geojson.day/ballard-01-day-00181.geojson.gz": {
+      "sha256": "de3cf9ebd4858c894e870beedc8974217f6ed8ff1095636d245f03d312a1542b",
+      "size": 254402
+    },
+    "data/geojson.day/ballard-01-day-00182.geojson.gz": {
+      "sha256": "89f0f58cb3ff6b4eddb6740468bfa31b16e3d31e18eaa2d407d39f7b2a6009d2",
+      "size": 281645
+    },
+    "data/json/ballard-01-swarm-day-00001-2025-07-10.json": {
+      "sha256": "d696c67ea0c9a6784e7148692380ee68837f5b8f54c6257d4d2d68b566d6d82c",
+      "size": 481
+    },
+    "data/json/ballard-01-swarm-day-00002-2025-07-11.json": {
+      "sha256": "6735a2d3327bea82d1fdc43db5ed8ef3d7cdb7d2cd5823b994d11b5904899a0d",
+      "size": 481
+    },
+    "data/json/ballard-01-swarm-day-00003-2025-07-12.json": {
+      "sha256": "0aa0fcdcae06c77b79fa1c7d1db543bf3d4f8534e3c20e11a8a6878a7e65f744",
+      "size": 481
+    },
+    "data/json/ballard-01-swarm-day-00004-2025-07-13.json": {
+      "sha256": "eec968c5ecb5b6fcd5ca8960e400a17c80373bca1f617becdd26d16bf93dcb43",
+      "size": 481
+    },
+    "data/json/ballard-01-swarm-day-00005-2025-07-14.json": {
+      "sha256": "977d2f2a9ab293fd5daf94b0a91c2b5c03edf12f0fb9b94956d9cd02d2fc1688",
+      "size": 481
+    },
+    "data/json/ballard-01-swarm-day-00006-2025-07-15.json": {
+      "sha256": "d8f86942c12caee690645eb2da97c127d41e4a5785bcf359549f485d997de099",
+      "size": 481
+    },
+    "data/json/ballard-01-swarm-day-00007-2025-07-16.json": {
+      "sha256": "bb470eed13628edcec9ba6d0be6ea87eb2a3945b96bfde303ca375b4c5a63c3b",
+      "size": 481
+    },
+    "data/json/ballard-01-swarm-day-00008-2025-07-17.json": {
+      "sha256": "3c65753b82169a18aee8c62cee7caef2fc439d37faa679e567b3316f95d41117",
+      "size": 481
+    },
+    "data/json/ballard-01-swarm-day-00009-2025-07-18.json": {
+      "sha256": "4b7536069154a66ffe3cf281bd3538769e875a7bbd8415a6a5bb888d7ec73967",
+      "size": 481
+    },
+    "data/json/ballard-01-swarm-day-00010-2025-07-19.json": {
+      "sha256": "d3228c010035e500807ee221230006921df0f020c3450efc0b122a4a84cc361e",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00011-2025-07-20.json": {
+      "sha256": "3f146224538dfd715693aa59d41f926722e935c651703c16f7667fd0a536ab82",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00012-2025-07-21.json": {
+      "sha256": "10de8b808e3820cf58fdd15270a931bdab41caba68e3bd1359d28c01c28c8ae1",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00013-2025-07-22.json": {
+      "sha256": "80495021266420122edfa8fe4c4ffc8c648a5d2307399f045fbf868cd412fe7c",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00014-2025-07-23.json": {
+      "sha256": "3cd00d5150014cb42a097bfe6b84d70614e65efec79f4ceb93667a546e690410",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00015-2025-07-24.json": {
+      "sha256": "eca60aa883de0db87660973462d56027c1a57e9a998eca6504e5eda7514a49c8",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00016-2025-07-25.json": {
+      "sha256": "0e978968763a008f42ad8ed9343a46b7aaa5a2ac080e013e7d32225d60715136",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00017-2025-07-26.json": {
+      "sha256": "f7352fd2d91a086e25e02ac5e0ce76ae201a6ec9fbd3981dfcb19dbd7be91fd1",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00018-2025-07-27.json": {
+      "sha256": "5b9e9b840d2f7c9e2e19400ca3f6290ec474fd73cd6dc8e05028d6bbcc0cf1e4",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00019-2025-07-28.json": {
+      "sha256": "b0398820a3a32835bb0608c7d2d79097537a30d3dcaa1af20bf3742f9572ab4a",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00020-2025-07-29.json": {
+      "sha256": "d0d4822d6e711c9c7c45bbdfc87a7fbf21157f147ccf3ec3499ea1bd5fb16e77",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00021-2025-07-30.json": {
+      "sha256": "e6dce7f2cb8341b9e7300321ce11e77594a3e7b2e377bc2451c0533daa6da984",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00022-2025-07-31.json": {
+      "sha256": "f41c997a8f7ab1e39b1bb4f4749012047dd4a2f5ad38ee31bae782fd21e3b574",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00023-2025-08-01.json": {
+      "sha256": "9207b71ecd9aa40d33d47a3b3a676326b436a449dfe950c55b7784bf9769673e",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00024-2025-08-02.json": {
+      "sha256": "61516ba9271214b1b4f58983b3c783a0114c32c8738b0abfda19baff9d4fe1b6",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00025-2025-08-03.json": {
+      "sha256": "fb7c27d7727203196d2b8588cc971018dca004c0bac388764d624c708e1d79b6",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00026-2025-08-04.json": {
+      "sha256": "9fe135809072b07486934d1427a151998b9d1f071e9bebcf8b44801c1e904e8f",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00027-2025-08-05.json": {
+      "sha256": "ad4f44c1b83b7bc36f2d54d45bbd9f13188e3e9e6a757d156edeb91d2c7e2ada",
+      "size": 481
+    },
+    "data/json/ballard-01-swarm-day-00028-2025-08-06.json": {
+      "sha256": "a42bb5c7e8bce589d255fd6d15e266ae3b3e7ae5c814de623fcab521195e33c8",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00029-2025-08-07.json": {
+      "sha256": "d89e241400f976b3fd57bd7eaa263bd9b7c59ae3783c3c116fdbfcb3b6ebdc6d",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00030-2025-08-08.json": {
+      "sha256": "bebf0861d5e80b58275ef4ea4878d0f14db8c07d15ee0e1e3440219946cd0f4b",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00031-2025-08-09.json": {
+      "sha256": "46c4bb126c62464eb46311a6d38c1f1fff981682a11d1d471cb9061a56e7120f",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00032-2025-08-10.json": {
+      "sha256": "e0ddbe7afc76c27e62976e8835d8d5fe4ee0c37e6e40d5d66d8f3c4fde622bfc",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00033-2025-08-11.json": {
+      "sha256": "6d5e08e42bcdb18cf94a8c1764167b3a4ddc213085ebd099ecbc35e865080ddf",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00034-2025-08-12.json": {
+      "sha256": "ec7bc2aaaf68361b60301ddff696fb1aff5c7173e0e227353ab2966da180b160",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00035-2025-08-13.json": {
+      "sha256": "36b9d0f6c14e9e1aba6c27a038ce7b761054581827a8919196554094dc661aec",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00036-2025-08-14.json": {
+      "sha256": "3b73c66ed7783fed321d938ca560f841b1a82788f33588fde680df9321e6a517",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00037-2025-08-15.json": {
+      "sha256": "7bf069e0a92d0ce74a045731256e478b99e8d5f3dc129dbff0817a201bf78d36",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00038-2025-08-16.json": {
+      "sha256": "6b22078f5e3bd2f33682c37b7f97e8d774edaef4999b5cf89a66c8fa268f9201",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00039-2025-08-17.json": {
+      "sha256": "25c567f4a119b2834a148276d4aef2c65f475bd98f25dc4ddf099a055759f10c",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00040-2025-08-18.json": {
+      "sha256": "fb684eaf832f57f4014307fe4e323f684b8ca0cb7d11770f337168ae9e9b10bb",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00041-2025-08-19.json": {
+      "sha256": "7c33e282d79cf87cea2463d0d1ca1a7cd2f1c5f359a983a7dbf0a9b51cd11385",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00042-2025-08-20.json": {
+      "sha256": "95442af72ec315b78632755cb7bb86367a95d094ae0f467978f5e9267fca088a",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00043-2025-08-21.json": {
+      "sha256": "048121fef6c981315c0b98f3b092e6a65bd83cfc232a3326ef4ff248d3f5833b",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00044-2025-08-22.json": {
+      "sha256": "d2b85186c2ee2c61cab159e68b357239d93670cd78f921c5ec2bf5bdeabd328c",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00045-2025-08-23.json": {
+      "sha256": "6b353f7de0210b02c780ec9eec0da0bfb4541206ededc9d1964d447e6340ef8e",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00046-2025-08-24.json": {
+      "sha256": "124ac1f574f8f2eaa251d61a47729ae275b23241b6c89f6aa4d0b6265fa283f6",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00048-2025-08-26.json": {
+      "sha256": "75fc12f304b6960386e40c232af573cba0be6ddff9c6bf18a9adb1e4a3755c5d",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00049-2025-08-27.json": {
+      "sha256": "e7d9f44e6e4445faef5509b5b77539d8dd05dd8d78a7b1962031059ec273468b",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00050-2025-08-28.json": {
+      "sha256": "b7f19f3e26b28eefcaf07d538ae27fa91b7f9989e292602421adb4e2fc20bf5d",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00051-2025-08-29.json": {
+      "sha256": "0d987f5d6f3e6e6b88ca116d11a13871bc55e3c078c0612dd4a7b3e0735e8ae7",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00052-2025-08-30.json": {
+      "sha256": "05915bfa9155dfe5337c26b9fb24919d66c133ddf89c1b006fe0d408d5ccb780",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00053-2025-08-31.json": {
+      "sha256": "8bf3027fed7b04325240d705ba9bfa3f9c5add7622cf487279bcdd231915cc40",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00054-2025-09-01.json": {
+      "sha256": "2ea71b64318f5a93321cb0cbc09fc50a0613ab2771e645ad67634e91290fa43d",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00055-2025-09-02.json": {
+      "sha256": "6d2a640071888ccd409ffa9ae2be841b059f13748ab154dd654c3921d01f8845",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00056-2025-09-03.json": {
+      "sha256": "982eda72946ba0a5d9c2dae7d65d50b04678f8bed5530a919cba3647e14b2d5c",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00057-2025-09-04.json": {
+      "sha256": "3087b394a1b70c14ff2d4d3d32ceefcf3d2b1f6353351c41f59fceebfaaf4dc4",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00058-2025-09-05.json": {
+      "sha256": "7fd8ee67cb77168b3510b257d8de7f1f4875226c0dba00a58f1ab05c5a91dc79",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00059-2025-09-06.json": {
+      "sha256": "c6b53f8d430b0750e7e3e0dad9208c1508fc6cf543f2bcd81c56e4bbdbe404b7",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00060-2025-09-07.json": {
+      "sha256": "cf84a175f85ec033cf0f7f2f0ccafceec692a6c5429852c26e36e0b8708c3290",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00061-2025-09-08.json": {
+      "sha256": "0e0fb3b541c686e295c01f70998b79ac355a7f70ebaf720826d8fae1fc9af9a7",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00062-2025-09-09.json": {
+      "sha256": "bdea738460e9c39bd3a006026128ca79963f390504745e969eab8568b82f4c14",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00063-2025-09-10.json": {
+      "sha256": "8d17a33f927603aa179379aac4d7422d247c89d75ef013a24c82a40ea4534b93",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00064-2025-09-11.json": {
+      "sha256": "c5464ee65479851ba05566850142362c5d593205b64f0d1490edbf9bd7249315",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00065-2025-09-12.json": {
+      "sha256": "5cbea5e177fe1028702f95d6ea4f298db413c261858c304e4901977e7cd637fd",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00066-2025-09-13.json": {
+      "sha256": "8d5e67a696357b7d4853db2dcf03337c84e554417317283fb28032d5583bd6f4",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00067-2025-09-14.json": {
+      "sha256": "c83d00628cf546f1d9e47527346633ee991775ccd0dbce5252abfc1003671694",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00068-2025-09-15.json": {
+      "sha256": "9915c647b15a6e7e0838422f90156231ce6ac64430182c048bbf9440e4d36560",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00069-2025-09-16.json": {
+      "sha256": "03edb1681f10e94a127ff22ae16bbe056e41369972da846a244c268a37676d7a",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00070-2025-09-17.json": {
+      "sha256": "c04f635038a7fc91fe46c259efc978f9532489e981ebb845c0613953afb167f0",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00071-2025-09-18.json": {
+      "sha256": "15d4de480ae6d365acc0a5099d1d7c5265484a266b3cacb9d75b34ffa25b7295",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00072-2025-09-19.json": {
+      "sha256": "f266195ecf54dac610b53e9f8decfc1da6eda2fb9ea5df5efce856af03645eef",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00073-2025-09-20.json": {
+      "sha256": "09eac605c68e246bddf057066b90dec10da1eb1441357ec948e6d05888fe4de1",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00074-2025-09-21.json": {
+      "sha256": "4e303f48cab213a9024207d73929e2f8e1e17d43258a609fe034760a50f3f489",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00075-2025-09-22.json": {
+      "sha256": "871e402f4c3cba24c0f6207c5a415ffba39ced06980e066ad564ff086cf28bbc",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00076-2025-09-23.json": {
+      "sha256": "ac2fb9315aebbb839206a74d27343f65773d173d840df71d8a7ca8cd51fe7878",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00077-2025-09-24.json": {
+      "sha256": "9a7b1cbb667b390fea3d7dc01fe5a2ab7b39caad400e9f1520d78d62c54c899f",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00078-2025-09-25.json": {
+      "sha256": "00bf6bce264ca5dbec12247d07b2b95c6c171b64c5f3ca42c95eccb3d80323cd",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00079-2025-09-26.json": {
+      "sha256": "a51c6f49055835bb8f7d80a537a65f0bd60127a30ffdc637b28935155fd21469",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00080-2025-09-27.json": {
+      "sha256": "65c5064bef6315d44252d4b94a8cb4375bda36363d9009c7f27e283f1026d111",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00081-2025-09-28.json": {
+      "sha256": "4a505e9a677b3e668b71020219c6edbf3a4b211da58396782276916fedcb5382",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00082-2025-09-29.json": {
+      "sha256": "4db7aad5905ed87d2c2255f5c1287f447dfad7290f426103db66be44d913ea44",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00083-2025-09-30.json": {
+      "sha256": "2ae8e1ccd530723c576a71005972e34d451239c74c6bfd8441ff98e3f85a27a7",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00084-2025-10-01.json": {
+      "sha256": "7f710ee372b605cd78859e1d2a6839c05b6fcdc60322420b0d50bf7635b6bd9d",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00085-2025-10-02.json": {
+      "sha256": "17300502da1dbd411beed60a05a6ff11d53aab557a1b8926c74f4536b770f0d8",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00086-2025-10-03.json": {
+      "sha256": "7d2ce66f9d0a084cfc52981ec81418dd2d4c124c4a83e2bff3af640b671c5c4d",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00087-2025-10-04.json": {
+      "sha256": "002c30fa266d34cfbae69e831164c1110c3da22c7d182558e99a71aba0e1554c",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00088-2025-10-05.json": {
+      "sha256": "e9916db089d4a1582fff81373c97ef81d11423693405bb605c1d664c4a4c93cb",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00089-2025-10-06.json": {
+      "sha256": "3e54038ffabd6c5af6d4ceb81b8926ebf4b9db76c3b2bd8ddd85e0c1f361ba9f",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00090-2025-10-07.json": {
+      "sha256": "0252026860deca9c9aa59e31b6ff0bd225e0900a5d614d2a68bfd153b82bc5c9",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00091-2025-10-08.json": {
+      "sha256": "073f1c3da0de38e6fbfa50d32b0858b06106575ced6ce176b505a8ce402e68a9",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00092-2025-10-09.json": {
+      "sha256": "0401ba4c37da40e5be27467c41f25ef3c9317154a07d718688bf85aaea451a55",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00093-2025-10-10.json": {
+      "sha256": "176848bdb033f33b41560037d53e00392daafa85d926e25e9ce0718894f2041e",
+      "size": 481
+    },
+    "data/json/ballard-01-swarm-day-00094-2025-10-11.json": {
+      "sha256": "235fe83d33e563179b5afcc2b2396520e2cd46c2fd54168990854216d5690cf1",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00095-2025-10-12.json": {
+      "sha256": "b3d39f89f53cd7f500bbbce95422ad6fa4342d2eedd778cd7f4acc40fdbb42e4",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00096-2025-10-13.json": {
+      "sha256": "e48961476eb226918b33a37129abbc7a9b5149e919c2c03e26e835f3e44c42be",
+      "size": 481
+    },
+    "data/json/ballard-01-swarm-day-00097-2025-10-14.json": {
+      "sha256": "55f8ba356da7d9c14db4a37ba8e4654d5c90be634f9492e47f58bda64673cbd1",
+      "size": 481
+    },
+    "data/json/ballard-01-swarm-day-00098-2025-10-15.json": {
+      "sha256": "91163a73e2d404d02b03aec36230b0f5c68999b5c25cf1486633b6612ff695f3",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00099-2025-10-16.json": {
+      "sha256": "c144ee22cfd440ccf87072551878520082d811b7cc0f0a9f2db26267a30e594c",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00100-2025-10-17.json": {
+      "sha256": "e1176835ad8a0429cc3ed5b48e171f1902c4ddc78e2eae572da4fc4e91e45a22",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00101-2025-10-18.json": {
+      "sha256": "1f915b167732ae72e091c04d7e3704687e571be7328e928d0e7deea4790131cd",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00102-2025-10-19.json": {
+      "sha256": "f307bd55b7ab6561dbe7f704b6f70923e650ef09f8e57f6e291d03bb46af4f70",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00103-2025-10-20.json": {
+      "sha256": "2b5f69e7296338759757af6510f5f4c6abffb76444d0e540e370fce7b00bfd70",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00104-2025-10-21.json": {
+      "sha256": "56c38c8bf2997edb88cb02a397765f5b195c3d8d3d043909da8b61d4777aa909",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00105-2025-10-22.json": {
+      "sha256": "5c7d4bebae08ddfb44d3c7788f7cd50ed08a7715e7ce5dd72e81d8ce5e5d0ee8",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00106-2025-10-23.json": {
+      "sha256": "51d0f1e0c02a577f30175912efae9a9e546824e40664d38f418a72c7b5e7a776",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00107-2025-10-24.json": {
+      "sha256": "cfa0747f7a69c551a7295dc94f3224e52dd31cc87786c54de798618e16018e71",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00108-2025-10-25.json": {
+      "sha256": "65d17bf5f1e94782078f3e2aed788ab50c6894e2f0adc99d3e7d4c5b3498ede5",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00109-2025-10-26.json": {
+      "sha256": "d05ff4773d1e1f43e8fada77fc0db81c157de1353c870bef5e77109aaafa3118",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00110-2025-10-27.json": {
+      "sha256": "922ae9674e422898c07038b4c3f1fdf512dfb12b90931d22c4d0e7aab1cae988",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00111-2025-10-28.json": {
+      "sha256": "27f9372e49bb2205b209b01a43ae728f98d2d6c6efc97f4d21a8f688bd2917a2",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00112-2025-10-29.json": {
+      "sha256": "b77781a9e73e7258d2f35de8fbdef39c739e0c7bde37e77b73d451c8236a910c",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00113-2025-10-30.json": {
+      "sha256": "1383db281101a224294b6561c958164063cf9d5beaa22d1807739979f829a702",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00114-2025-10-31.json": {
+      "sha256": "ca95bff6e4ac632c37f91e731986dbac88341eed808f890bf88e298cc84cd257",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00115-2025-11-01.json": {
+      "sha256": "2d950328634862f6dda7abcb6f27ae5a4552415a9477d3d55b1c0761e056ee49",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00116-2025-11-02.json": {
+      "sha256": "dc821329ffea22276ee82ece8dcd755307a3ebd3a36e05f5e24c9f4d055daf0d",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00117-2025-11-03.json": {
+      "sha256": "ab4fe31973ee94314b9e0aa16a38307511d7527b29f286810a4303fba760a409",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00118-2025-11-04.json": {
+      "sha256": "a4c75565c5e9f862b69ccf4e6da1261112b6ebfd3ff46873be2a4f585866c1c2",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00119-2025-11-05.json": {
+      "sha256": "b6306017604c93c9673502bcf10771e35bfa81f94c1623d77a0718cd4c0b8083",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00120-2025-11-06.json": {
+      "sha256": "311777f29bc7160246045ae91f2d3bb3acbf36bf16055c8acf7de8e9e88bce99",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00121-2025-11-07.json": {
+      "sha256": "e7972e38f29a0fa91e542bb57343c9e164b6905f8fadff552a77fa46995c2a63",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00122-2025-11-08.json": {
+      "sha256": "7462493184a36789af0d53f6fbc336e7a4f300535c250b027ae81811c29c8b0f",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00123-2025-11-09.json": {
+      "sha256": "7ea6f69249cfacf1aee79190c9a1bae23e23cf47fd7c42feaa3111c284785453",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00124-2025-11-10.json": {
+      "sha256": "e5696f2edbe80641a6633bce60cd9579493f681412537d4695d57fce15dbd9c4",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00125-2025-11-11.json": {
+      "sha256": "2863b0c86bce499660a44f404e4bce8ec7244089f2bc8bf1aac3f3bd84091708",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00126-2025-11-12.json": {
+      "sha256": "aac9c7bde1d4e3b145e51314ff43ede169cd3060b7846ba20138aa65727ec070",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00127-2025-11-13.json": {
+      "sha256": "00243592bccf41458a04fc1f00c4b3109da1266d8d503cc5b34ef3f6e99641b3",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00128-2025-11-14.json": {
+      "sha256": "779798e876bdc9a47c81cbbd44ccd469e4a7c3dfc6310239b7d6dedc95b2275c",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00129-2025-11-15.json": {
+      "sha256": "4919953ebf62fdeed276049610651643d6b2adf9108f9f9c5201b9deebafdb65",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00130-2025-11-16.json": {
+      "sha256": "e3ee17b9ec26197331418f55883961b395d811b561dc679febb4fa09c6b92609",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00131-2025-11-17.json": {
+      "sha256": "63ab7d4f2e0155de726c15cc379ed9a6da8cee1073cf905e2c9213de5379ff89",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00132-2025-11-18.json": {
+      "sha256": "f9a20be64351c2fe309de430c40ba529960e8cb91fbf2a2090a242e1072ae84a",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00133-2025-11-19.json": {
+      "sha256": "52edb7ac96fa667b62325f65b91197084db79545f4c7be04e22806b0def5ee2a",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00134-2025-11-20.json": {
+      "sha256": "79d670f6517244e6639a36271ae59dcd18ef421b5e88e8411fb6397edc94cd9b",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00135-2025-11-21.json": {
+      "sha256": "4f4f7d42eb56a6f95d0273e55e0a143df72380f1cc10030a5eec26e8c7178d69",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00136-2025-11-22.json": {
+      "sha256": "167fc6952c70d5b6587260b27586bda48b80c82388f2f2e0cdca6f3e7a316587",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00137-2025-11-23.json": {
+      "sha256": "9020f938713342e5731d59731ca4346bb0345e3c84bff4a161b2feaca26e24cb",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00138-2025-11-24.json": {
+      "sha256": "1e5eccb123686ba8e422148f09f15a32e3a43a374974f07956c2957d422e8788",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00139-2025-11-25.json": {
+      "sha256": "486a8fd541f34c236742b35dd0a15256c3def9c83fa24a9b85f0454c107c5844",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00140-2025-11-26.json": {
+      "sha256": "1e511e5c46f5cfbc0bf1f60f656aef02b2336defd8e0cfc2dfb0012787a46e47",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00141-2025-11-27.json": {
+      "sha256": "6e293794c7ae15dea611b10e2d9e35c57ec843e53929492fde28c07182fe76da",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00142-2025-11-28.json": {
+      "sha256": "89418e761d92bd749f8e7617f097acb7f14b6a263c7406f740e9b35b114a6035",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00143-2025-11-29.json": {
+      "sha256": "e9c289f4478dbd539d1a0ef4d1458dd64b9d4cddcef311891813c8567b9d3744",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00144-2025-11-30.json": {
+      "sha256": "786c22b1d69a4f31bd67e6bec64be83766d847816eabe24c90d7e2bb85848768",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00145-2025-12-01.json": {
+      "sha256": "33cddfc1908fa0d1f27a75418ca073eb035afd2b95b285164ff0d999858c543a",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00146-2025-12-02.json": {
+      "sha256": "5415bab208bdc02bb0fd86f52280422b2f2c8dce8cd48aeb89309e61e4ccb733",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00147-2025-12-03.json": {
+      "sha256": "4ab6cf7501f6557949d9986594594439a1b40dd3bf8605a9dca9273ba6fc7110",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00148-2025-12-04.json": {
+      "sha256": "1d6089f167bc05c96b9a688019b0a34920af756a36736ead833636faeec80fcf",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00149-2025-12-05.json": {
+      "sha256": "cc6dc5b28d404fd7bf3f5a45b5ad837a40d54e81908b28f9dd745fb6f3fb354b",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00150-2025-12-06.json": {
+      "sha256": "414d7ef4aa882e234b7fdce3595fac253348b019ad77663404b0b68d61c3a5c6",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00151-2025-12-07.json": {
+      "sha256": "19a2c104d33cd6a36c318f4c6331343cd1660b589d7aae288061b7d43e4b64b0",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00152-2025-12-08.json": {
+      "sha256": "799203d49473f6c34eda704507a4010856b00a1661798a51e0429b23d6d4ed85",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00153-2025-12-09.json": {
+      "sha256": "b755870c9d5487cdd11cfe1058844476de256bf5c5696a59d47c1880135644fc",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00154-2025-12-10.json": {
+      "sha256": "afa159973040711ae217b1c9a73e72a57a1f4a2f9a818253d4aeea27f4a8571d",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00155-2025-12-11.json": {
+      "sha256": "493ce3703e0bf7ae921bab95e75ba3ecf907dc428cb70f52ebd1a6c2ce41069f",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00156-2025-12-12.json": {
+      "sha256": "a153e86e09e45c05ef5988b71cdf4cb4b6c040d2caab52bd4337a11c5819cdd1",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00157-2025-12-13.json": {
+      "sha256": "00b24953437b8fde7e4912d77e77d87ae34316ba49f1982729886c05c0407efb",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00158-2025-12-14.json": {
+      "sha256": "4ef602508d902d76f9ef148e527a1b0248a7302efa36c5eb98a8e0515be6f206",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00159-2025-12-15.json": {
+      "sha256": "804282447b90e7e46a15fb13557ce940501ce679ee40032f19d6d40891b7e853",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00160-2025-12-16.json": {
+      "sha256": "f150107d1b8ddff1a27c24c7e5524697afa252207c009e69f19a8da303e766b1",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00161-2025-12-17.json": {
+      "sha256": "da671fbbe5e79457826702f2da09cb5b7ddb6c81d922626c8fcd83e9177e9b67",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00162-2025-12-18.json": {
+      "sha256": "8454b535362e707c55d27825a211d15dabd5f57d4cf3058767f8792bf584646c",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00163-2025-12-19.json": {
+      "sha256": "3cd9afe3fbe30d589a7160215ad4e8db15ba8a08726dc699dd72a0128c53e3ac",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00164-2025-12-20.json": {
+      "sha256": "168116a3d5b43d14d415b70e31a084e97f33065fafec4e7bf42016ea4575be56",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00165-2025-12-21.json": {
+      "sha256": "cdd0ef43f05faf508c731c05c41c1351aba1da02b61099b4f33bc10c697ad155",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00166-2025-12-22.json": {
+      "sha256": "a0f2733b691578ac0acd46cd96f957526cfac04f5425f3f834516416ce9dc8c7",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00167-2025-12-23.json": {
+      "sha256": "8cbfc864bd21b418539fdbaab5241141a3f43ea4dabeb9caae49bab650acc87b",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00168-2025-12-24.json": {
+      "sha256": "ebd63120b1a39be54f568a563cf68ca9fa8000573d79c0f2710db2e14f3bd1d5",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00169-2025-12-25.json": {
+      "sha256": "6b9f1a5bab29cd74ff6565e71d128493e6d6f82c42ec60fac214cc546958b7b6",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00170-2025-12-26.json": {
+      "sha256": "91213006f215d01b08127b101816454f51708d0a6a4be9550a23e3eef63addac",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00171-2025-12-27.json": {
+      "sha256": "336983e5f6386c51ce051a5c8c8d60ada9855e239c021cc46eec0cda8eb4326f",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00172-2025-12-28.json": {
+      "sha256": "eacadf386bb3b48c320d5f72d92282e5674f6deaec7e9999e6766c8a2bba596a",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00173-2025-12-29.json": {
+      "sha256": "40b669e2b9e3499b84be6ab465c61394d8cf2ebd5f5f9d315516273e36c28d95",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00174-2025-12-30.json": {
+      "sha256": "3ab1c3e8a0f40c0bf8b30917ec494d820c4df9e8bd810974a1e3761d1ade19e0",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00175-2025-12-31.json": {
+      "sha256": "8ee8c19427363bc60ece01c01c966bd536a323faf7d2be2ca5a1df1f8f095765",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00176-2026-01-01.json": {
+      "sha256": "26d10e00e2b94ed3e7fab38cbbcc32b14fcc4def87c7ccc96dca960d28ccb14a",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00177-2026-01-02.json": {
+      "sha256": "011d7278f7a4b424bf07b1adcb7bbc306154ffc2ec8b4638b7ec7f8020571dcd",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00178-2026-01-03.json": {
+      "sha256": "42659bae7e461b825af19fd42582319655291d185e5ac57b53b6f9db4ea07946",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00179-2026-01-04.json": {
+      "sha256": "9f93fb8692ef1efe2e6d11c05fc290c29fd6dbd0038fa65db38f330d879775a7",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00180-2026-01-05.json": {
+      "sha256": "70f9d2bf4d9d9e54b54fbdff6a4f6624dc3e9e10ee65c36501dae0be128bb963",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00181-2026-01-06.json": {
+      "sha256": "d15dbf145a246242c873cbf3578dec69a1eff9d9b5c1f5d09295162ea753f7ae",
+      "size": 482
+    },
+    "data/json/ballard-01-swarm-day-00182-2026-01-07.json": {
+      "sha256": "ded76ce5b03b203d90aff015511f9655d6858d4583f8b7343cbfb308ea71dbaa",
+      "size": 482
+    }
+  },
+  "schema": "alpha60-year-day-product-bundle/1",
+  "source_revisions": {
+    "aggregate_binary": {
+      "sha256": "80bdf6691c0ef6ed5fcc7fa3a6462748104e1935ce5b2a4df3861e11bb13195a",
+      "size": 38582648
+    },
+    "alpha60": "c3fc4c8a7866bee5f6d5f26160c56b2cffb05cb1",
+    "alpha60_data": "8faeae67a5d274d1fc00bffe9fc9318329163b20",
+    "day_product_contract": {
+      "sha256": "0aa0bee3ac14b512c786d3496ab5218a46aff11786ffa6aa9ea85e762fbd6370",
+      "size": 9897
+    },
+    "generate_cache_aggregates": {
+      "sha256": "504078e192d9c8182df74e41b98cec08123c5a8b7d0eb7f812d09c1fe5d07010",
+      "size": 17151
+    },
+    "metadata": "fbeb53a0b523f937fae2f23d14689d8c5c84dd5a",
+    "package_script": {
+      "sha256": "516d6ecdccd24b1b66cf80c185219fa47d52af22f672b836773896df621b1666",
+      "size": 14724
+    },
+    "year_day_contract": {
+      "sha256": "f1c07d6f2fdc19475a6f25ddaee5923957447a6f49a8009d8b4c9984a63bd883",
+      "size": 9356
+    }
+  },
+  "status": "pass"
+}
