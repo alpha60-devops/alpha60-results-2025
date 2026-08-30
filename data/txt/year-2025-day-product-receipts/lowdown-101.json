@@ -1,0 +1,1032 @@
+{
+  "archive": {
+    "path": "/home/bkoz/src/alpha60-xperiments/year-2025-archives/lowdown-101.cache/cache.20260107.tar.xz",
+    "sha256": "ee60e15a382cd548b147ef740f006d1599a9c0514cbb80f3f490aa279f6b65b4",
+    "size": 572901896
+  },
+  "authorization": {
+    "archive_mutated": false,
+    "excluded_member_classes": [
+      "hour",
+      "week",
+      "cumulative"
+    ],
+    "raw_samples_opened": false,
+    "scope": "read only streaming of per-torrent day records"
+  },
+  "collection_key": "lowdown-101",
+  "day_cache_stream_contract": {
+    "authorization": {
+      "archive_mutated": false,
+      "excluded_member_classes": [
+        "hour",
+        "week",
+        "cumulative"
+      ],
+      "raw_samples_opened": false,
+      "scope": "read only streaming of per-torrent day records"
+    },
+    "available_day_products": 105,
+    "cache_members": 19011,
+    "collection_key": "lowdown-101",
+    "first_date": "2025-09-25",
+    "first_index": 1,
+    "indices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "last_date": "2026-01-07",
+    "last_index": 105,
+    "missing_indices": [],
+    "sample_span_days": 105,
+    "schema": "alpha60-day-cache-stream-contract/1",
+    "sparse": false,
+    "status": "pass"
+  },
+  "day_product_contract": {
+    "collection_key": "lowdown-101",
+    "day_products": 105,
+    "first_date": "2025-09-25",
+    "first_index": 1,
+    "geojson_data_version": "20260701",
+    "ip_geolocation_version": "6:1777968300",
+    "json_data_version": "2026-08-05",
+    "last_date": "2026-01-07",
+    "last_index": 105,
+    "schema": "alpha60-day-product-contract/1",
+    "sparse": false,
+    "status": "pass"
+  },
+  "publications": {
+    "data/geojson.day/lowdown-101-day-00001.geojson.gz": {
+      "sha256": "0b2cb49b36b18f3ccd5943c4dab87a1825177d4116090fa50e5bd007cf97b9bf",
+      "size": 98250
+    },
+    "data/geojson.day/lowdown-101-day-00002.geojson.gz": {
+      "sha256": "a98745776a8904c0a0cc3c13e90fa38494fcb21b427e683554507daf257a7068",
+      "size": 100189
+    },
+    "data/geojson.day/lowdown-101-day-00003.geojson.gz": {
+      "sha256": "fb73e63454cdeb04e4784b3cd0fbf11b2b5b1feccdea9b42d25521d576ae7779",
+      "size": 116567
+    },
+    "data/geojson.day/lowdown-101-day-00004.geojson.gz": {
+      "sha256": "0c646d01116909a05232349a5010da8565cf5dd9f0c061724be60c5b73b0d6eb",
+      "size": 105545
+    },
+    "data/geojson.day/lowdown-101-day-00005.geojson.gz": {
+      "sha256": "278b506b719c9af66e001cabd1a9e3da51cc47b4f09c3f0fc9de9b9bd67dd64b",
+      "size": 128514
+    },
+    "data/geojson.day/lowdown-101-day-00006.geojson.gz": {
+      "sha256": "50dbda04d5f2445b8101dd038a3634e6c9c39173d7494494165e1f09d5840044",
+      "size": 115754
+    },
+    "data/geojson.day/lowdown-101-day-00007.geojson.gz": {
+      "sha256": "d5d87279e62ac6470f17e3ccb6715ece0cbaf2032d9c263ec63d382c51c0612a",
+      "size": 121902
+    },
+    "data/geojson.day/lowdown-101-day-00008.geojson.gz": {
+      "sha256": "b031fa7fca877e5423d2fabce5c770f19aac5ac26a18f00a3a2499bc4187c68d",
+      "size": 154002
+    },
+    "data/geojson.day/lowdown-101-day-00009.geojson.gz": {
+      "sha256": "42fd73047d4ef12a691625742cffa99499e61b7baac10381d064717bfc306721",
+      "size": 146266
+    },
+    "data/geojson.day/lowdown-101-day-00010.geojson.gz": {
+      "sha256": "2e3e71ad3abd43523877951e5e76488c02557e57227c2354d4edb3ec7f83d4f0",
+      "size": 140483
+    },
+    "data/geojson.day/lowdown-101-day-00011.geojson.gz": {
+      "sha256": "a2765c9e172d41b4e4f46e99ad10423de67a9f245e88a2c37727698cfa5dbccd",
+      "size": 153340
+    },
+    "data/geojson.day/lowdown-101-day-00012.geojson.gz": {
+      "sha256": "23c4747b2a4b88dda969331694a4a3f6627ac2b19028b054672245452d0be96e",
+      "size": 163814
+    },
+    "data/geojson.day/lowdown-101-day-00013.geojson.gz": {
+      "sha256": "b039270cf7bc2011cc7cc3c5c70c36bcc457be84290f4d0e6abbfba058d4665a",
+      "size": 151757
+    },
+    "data/geojson.day/lowdown-101-day-00014.geojson.gz": {
+      "sha256": "1a2d852ad376908bce61a8643976f9bcf12e1a621a84069369e3a3aec40b4d66",
+      "size": 168437
+    },
+    "data/geojson.day/lowdown-101-day-00015.geojson.gz": {
+      "sha256": "a571d7feb82441509f15604e10fa5a4a0504ed862f9471677b48bc55b4bf3898",
+      "size": 178786
+    },
+    "data/geojson.day/lowdown-101-day-00016.geojson.gz": {
+      "sha256": "c29b4337c001ef5f468f99fd2471496a9aee1f808c4bf04db88b1b8e666bb61b",
+      "size": 171915
+    },
+    "data/geojson.day/lowdown-101-day-00017.geojson.gz": {
+      "sha256": "bb5d37cbfa6e261f03a1b71d1757a96366aeaaaa2f329b6a2a29cb8922c4024b",
+      "size": 178902
+    },
+    "data/geojson.day/lowdown-101-day-00018.geojson.gz": {
+      "sha256": "247af84b2087a33b6df6d8dd398a2c75df4e171a242e0f0641acaef2886b6c6d",
+      "size": 181838
+    },
+    "data/geojson.day/lowdown-101-day-00019.geojson.gz": {
+      "sha256": "796ea89787fd909cb6b258842740da644d78030410c8b11266b723455f3b3bf7",
+      "size": 183288
+    },
+    "data/geojson.day/lowdown-101-day-00020.geojson.gz": {
+      "sha256": "62bb1cd3e7c847d6ae818e8b660abc232b15b94ba59a1c0efa50e1731ad0eedb",
+      "size": 175699
+    },
+    "data/geojson.day/lowdown-101-day-00021.geojson.gz": {
+      "sha256": "dee1165f932beb14e5f012f8fd78d7659581d1f607fc0c2e17188beb3ef4da77",
+      "size": 183908
+    },
+    "data/geojson.day/lowdown-101-day-00022.geojson.gz": {
+      "sha256": "0b856f23c3136dc828d7c61931743eb309b7847a8c4a8b4f622c76a729070a37",
+      "size": 182307
+    },
+    "data/geojson.day/lowdown-101-day-00023.geojson.gz": {
+      "sha256": "678f56f74b5a22baa6d0c567310d258964d80bc1e5de840e610c4023d8965870",
+      "size": 187252
+    },
+    "data/geojson.day/lowdown-101-day-00024.geojson.gz": {
+      "sha256": "65827a9bd643c05b73243a9ef6567abecd1980a5cc5a6e32d86c8bc3825ef2ac",
+      "size": 179543
+    },
+    "data/geojson.day/lowdown-101-day-00025.geojson.gz": {
+      "sha256": "e60edd35fa978e7aa6a55b9c7501675b6e1a409cf0333d2977e510981d5546bf",
+      "size": 181047
+    },
+    "data/geojson.day/lowdown-101-day-00026.geojson.gz": {
+      "sha256": "96f870d43bc2b339000c558509b8791c4ab39524836c52f0d79b525cd55d8cdd",
+      "size": 193956
+    },
+    "data/geojson.day/lowdown-101-day-00027.geojson.gz": {
+      "sha256": "84ad501f2b676b09cc05224c670299cf0b249b12b4f0b57717794de96332882c",
+      "size": 180445
+    },
+    "data/geojson.day/lowdown-101-day-00028.geojson.gz": {
+      "sha256": "012427be3cdf5d9aed6e6e984a85240ee9b71a302d26acb4fb1f18c3945c301e",
+      "size": 175187
+    },
+    "data/geojson.day/lowdown-101-day-00029.geojson.gz": {
+      "sha256": "efe7d220e88771f60413f68324851c28e79321cfc65b3342d3b8e7464c81351b",
+      "size": 179944
+    },
+    "data/geojson.day/lowdown-101-day-00030.geojson.gz": {
+      "sha256": "861035bba390864ff08883e34f1b5d03ba3bbb6ac24476b57b8bb059f4deeb7b",
+      "size": 198424
+    },
+    "data/geojson.day/lowdown-101-day-00031.geojson.gz": {
+      "sha256": "4f5dff1a2b157b639dde59338d68de82b57a42aff1689b0772d1178d771a1374",
+      "size": 177536
+    },
+    "data/geojson.day/lowdown-101-day-00032.geojson.gz": {
+      "sha256": "f030c9c254cdf15ef92693bd62108a36bfe96ef9be38a37c11bd2ffee6bb8123",
+      "size": 163596
+    },
+    "data/geojson.day/lowdown-101-day-00033.geojson.gz": {
+      "sha256": "c8b53f0fe63afa2210c6fc17be6350c575ada8f32b760635a79e6182fae6138a",
+      "size": 178312
+    },
+    "data/geojson.day/lowdown-101-day-00034.geojson.gz": {
+      "sha256": "d684446e30bf4f59e6d304e0dfda9e0c539f85584fa19bd225fd50e7d8a37ba9",
+      "size": 169255
+    },
+    "data/geojson.day/lowdown-101-day-00035.geojson.gz": {
+      "sha256": "3d6381708424cedd59b6b0c32d17fd64f5ac284889de42115e23ba4506ca9857",
+      "size": 172170
+    },
+    "data/geojson.day/lowdown-101-day-00036.geojson.gz": {
+      "sha256": "2cfc1c24b532303ff65b8fcc5bf5db18af276ad37515eaa82b93bd7f717c8932",
+      "size": 170775
+    },
+    "data/geojson.day/lowdown-101-day-00037.geojson.gz": {
+      "sha256": "d65a7c57459fb2cd0fd150118fe1ee4ba52007161f5e49ecc5c5f523711a11fb",
+      "size": 176253
+    },
+    "data/geojson.day/lowdown-101-day-00038.geojson.gz": {
+      "sha256": "d824e5d7c6bce50be6aa3dcd1efeddfb88ecb5b8d441bb0a22a4d9ec437817d7",
+      "size": 163898
+    },
+    "data/geojson.day/lowdown-101-day-00039.geojson.gz": {
+      "sha256": "5f0195b0ba4cc5c97509608a86053368096876359cd69c01775bdd5011b984ca",
+      "size": 173368
+    },
+    "data/geojson.day/lowdown-101-day-00040.geojson.gz": {
+      "sha256": "b98bc97830b90b62c3d8776c0d8c43a59a44614ceff75bb219c6a2f65ea4a32a",
+      "size": 168120
+    },
+    "data/geojson.day/lowdown-101-day-00041.geojson.gz": {
+      "sha256": "14c6e3048112a76b81b097e16b7059588e2fef6bf52138e327fa0c10050c05bd",
+      "size": 174265
+    },
+    "data/geojson.day/lowdown-101-day-00042.geojson.gz": {
+      "sha256": "406b72c2d6f0d7d31afe6c0f53eea4368e9095d7f23810995080fbf3f7436a5b",
+      "size": 184590
+    },
+    "data/geojson.day/lowdown-101-day-00043.geojson.gz": {
+      "sha256": "744515e9d950574e27a5fb3a14e1034661b45cbbbf50c2c79037d91853aae504",
+      "size": 185330
+    },
+    "data/geojson.day/lowdown-101-day-00044.geojson.gz": {
+      "sha256": "e11795587f2867620c321b241713a909af77571801afd6d5405caea6924b4239",
+      "size": 184762
+    },
+    "data/geojson.day/lowdown-101-day-00045.geojson.gz": {
+      "sha256": "276d24bd12031410e9554ee8825ef8a1f9ba63909779a84742992f5cb4d2b345",
+      "size": 182386
+    },
+    "data/geojson.day/lowdown-101-day-00046.geojson.gz": {
+      "sha256": "33782505c92671d32c0250030d39f63aa8f237e50ad7172463f7742def208bfb",
+      "size": 165051
+    },
+    "data/geojson.day/lowdown-101-day-00047.geojson.gz": {
+      "sha256": "62c8bc938b800b88f027d94bba3b81108e6e0df0fa2c6195e9a56e8658cd63ac",
+      "size": 177429
+    },
+    "data/geojson.day/lowdown-101-day-00048.geojson.gz": {
+      "sha256": "7980449781d55263189917ac7a080267414cab956a400d42f5fada20d6d1befb",
+      "size": 163598
+    },
+    "data/geojson.day/lowdown-101-day-00049.geojson.gz": {
+      "sha256": "bf375b9a80a5ee92f356e6e27cb14ab9326634d7bc4e58e6e77fe17e38c1cc18",
+      "size": 171497
+    },
+    "data/geojson.day/lowdown-101-day-00050.geojson.gz": {
+      "sha256": "580849e61dd8424163210164fa1e7680e53942138f8ebe62cbbbc7afa28d018c",
+      "size": 165482
+    },
+    "data/geojson.day/lowdown-101-day-00051.geojson.gz": {
+      "sha256": "8f10672c09846e6768f9c1cc47ec89a0b916756d035d6de6b0605a39dd1c9c64",
+      "size": 161165
+    },
+    "data/geojson.day/lowdown-101-day-00052.geojson.gz": {
+      "sha256": "bd6da0f5b48f4ecf05465ac76017d821f455b63865723ef9a6ea875d2f39576d",
+      "size": 169407
+    },
+    "data/geojson.day/lowdown-101-day-00053.geojson.gz": {
+      "sha256": "b85b8ff9d2b771b0a294fa0402e658aa1ead81a62be265bf99319f5492fc0105",
+      "size": 149364
+    },
+    "data/geojson.day/lowdown-101-day-00054.geojson.gz": {
+      "sha256": "d0b771696a96c98f9e4ebece215d9bb89bb2f8c778838661249f4c70e06b9c5e",
+      "size": 171384
+    },
+    "data/geojson.day/lowdown-101-day-00055.geojson.gz": {
+      "sha256": "6ebe58686ef509eebe61a279d121ff25b171c40bb46979472a1d00023dfcbc83",
+      "size": 169020
+    },
+    "data/geojson.day/lowdown-101-day-00056.geojson.gz": {
+      "sha256": "aa7b25d735c24be593191b2309ea6acb80898f2101178c39fea19c2120b15df9",
+      "size": 155265
+    },
+    "data/geojson.day/lowdown-101-day-00057.geojson.gz": {
+      "sha256": "0f589caffeb53528b14a66addc522ea3af40cf98b87a91c3a25d432b7aec1efc",
+      "size": 155277
+    },
+    "data/geojson.day/lowdown-101-day-00058.geojson.gz": {
+      "sha256": "60fae52c69199b59346a8a41838e7f3fac978fbe9ad3e72ed38d28a534cf4dfa",
+      "size": 207442
+    },
+    "data/geojson.day/lowdown-101-day-00059.geojson.gz": {
+      "sha256": "b7564e5ecdfd9f53de67bbd33f3a3feb82ca1580059032ab1c0f705378cb9b77",
+      "size": 175115
+    },
+    "data/geojson.day/lowdown-101-day-00060.geojson.gz": {
+      "sha256": "fe89dce6b0bdeb5a7097a4eb22da0faefdab51a3f609a9fc8edfb6f589550eaf",
+      "size": 162044
+    },
+    "data/geojson.day/lowdown-101-day-00061.geojson.gz": {
+      "sha256": "96ccbf7508dd64a02a392852e6c29eb48824567e4801a8e20e5461d85ef956b7",
+      "size": 177313
+    },
+    "data/geojson.day/lowdown-101-day-00062.geojson.gz": {
+      "sha256": "953458ca6207f610c15a6d4f13c8a1e5d9140b243c08a7f2a41c4384231832fa",
+      "size": 172752
+    },
+    "data/geojson.day/lowdown-101-day-00063.geojson.gz": {
+      "sha256": "c933d2d41053a9178296029bc6f31012d2e97320087924f4e3002037e17b694b",
+      "size": 175211
+    },
+    "data/geojson.day/lowdown-101-day-00064.geojson.gz": {
+      "sha256": "85a5ff3f88ad6eae159920e80035724cc575ce07e6246b56ad0630077de3791b",
+      "size": 175346
+    },
+    "data/geojson.day/lowdown-101-day-00065.geojson.gz": {
+      "sha256": "2235c2695fb5bcd75ac0189cfc798b9b36a4b47fb5d5e51f9a328aa1d1a78aab",
+      "size": 177038
+    },
+    "data/geojson.day/lowdown-101-day-00066.geojson.gz": {
+      "sha256": "2b26b9048fc66d8c52f1f21df001125ad6446087147a40b5072d588361f1a3b2",
+      "size": 185956
+    },
+    "data/geojson.day/lowdown-101-day-00067.geojson.gz": {
+      "sha256": "79b5340c3c8a760f288fd1b7d136762778831b79fdcfc6719f0fe85d7f7c91d8",
+      "size": 184540
+    },
+    "data/geojson.day/lowdown-101-day-00068.geojson.gz": {
+      "sha256": "b0b8e0498377e431c9292de71ae45d887ff030f4d100a25dbf0ac22b8f16052d",
+      "size": 178939
+    },
+    "data/geojson.day/lowdown-101-day-00069.geojson.gz": {
+      "sha256": "edbe8222abdbda260a863ca7a3a7dc0a64d79682ff2de3993f00029c9953daf0",
+      "size": 182272
+    },
+    "data/geojson.day/lowdown-101-day-00070.geojson.gz": {
+      "sha256": "b2a5885429a3576434d7002b93242ca6517d82eb25d4ce0b3cbf46ff5a97c6dc",
+      "size": 178783
+    },
+    "data/geojson.day/lowdown-101-day-00071.geojson.gz": {
+      "sha256": "2cf1f437a7707fe8a795a70363a34799e092bf68fa46d5d2b2c4cae7afc95509",
+      "size": 166448
+    },
+    "data/geojson.day/lowdown-101-day-00072.geojson.gz": {
+      "sha256": "56ed3b8b0d8db86d47527e794e7681aee67a252dc2fd36866d943a35a9ae958e",
+      "size": 167863
+    },
+    "data/geojson.day/lowdown-101-day-00073.geojson.gz": {
+      "sha256": "cef07ab55be992a01155f699bfbb1c85dc13d8dc9d0d9321979c90d2befdbd38",
+      "size": 157116
+    },
+    "data/geojson.day/lowdown-101-day-00074.geojson.gz": {
+      "sha256": "2b6fc18da310b70f3143c1ea2165f314f780c9bac6bba86cb1fc7d4cb346a69b",
+      "size": 154583
+    },
+    "data/geojson.day/lowdown-101-day-00075.geojson.gz": {
+      "sha256": "e190b358aad73e222f7e1084dab380a05b5a50b8b1fb1d4d46dcf12418ca2881",
+      "size": 174488
+    },
+    "data/geojson.day/lowdown-101-day-00076.geojson.gz": {
+      "sha256": "4562b7ce52619dc760b4bdfe0420b8121c7203a69f7e43a30ae2d9c80b69dab6",
+      "size": 163368
+    },
+    "data/geojson.day/lowdown-101-day-00077.geojson.gz": {
+      "sha256": "aba8594a258fa81ef2e0cbef5fbb442e51e2a42fb0725c834c8ca6026434c2c6",
+      "size": 162829
+    },
+    "data/geojson.day/lowdown-101-day-00078.geojson.gz": {
+      "sha256": "685460d4f3c3bfcf6c6709940cc037f30854fb49fc64b9ea9ce061b6c47dd1e8",
+      "size": 165666
+    },
+    "data/geojson.day/lowdown-101-day-00079.geojson.gz": {
+      "sha256": "c80ebe22655ed604055a724ba9490e42c78f8c3f6ebffcdbcf25895f94d7ba63",
+      "size": 164657
+    },
+    "data/geojson.day/lowdown-101-day-00080.geojson.gz": {
+      "sha256": "ce8b783d263d1a23d9d372af06346ab9ac65d24f48fc7e34786f6874cc7433a0",
+      "size": 158540
+    },
+    "data/geojson.day/lowdown-101-day-00081.geojson.gz": {
+      "sha256": "749b81b363f3630ba9d3f3d704a38a462a144b71d050b7aa048f99559289648a",
+      "size": 145292
+    },
+    "data/geojson.day/lowdown-101-day-00082.geojson.gz": {
+      "sha256": "031f6f3efd91b14c38076484b5503b3ba885b9c5ec6884166d08022599828516",
+      "size": 189431
+    },
+    "data/geojson.day/lowdown-101-day-00083.geojson.gz": {
+      "sha256": "a4878c68cd13af025037a5a0dec0963fb61a317c238edb39ebe3fde5141be949",
+      "size": 180436
+    },
+    "data/geojson.day/lowdown-101-day-00084.geojson.gz": {
+      "sha256": "77e42619ad3d9ca9e7445f9554d6362a3c62fa3b0bb37820d44456180224e9ea",
+      "size": 174162
+    },
+    "data/geojson.day/lowdown-101-day-00085.geojson.gz": {
+      "sha256": "56f1747001319f7ff2d699a4f2a6aa22419dbe149cd23bce93f4d3d69527d0d9",
+      "size": 177836
+    },
+    "data/geojson.day/lowdown-101-day-00086.geojson.gz": {
+      "sha256": "b94b76b6a8600c5cd9d854de895db21b8ee7a09e9e11cda03ecf7b46f5778242",
+      "size": 171917
+    },
+    "data/geojson.day/lowdown-101-day-00087.geojson.gz": {
+      "sha256": "c551f29093dddfb94f509bdff0a8cdbf1b9a93e7f7b40b2a55078f8d2d5f8532",
+      "size": 134353
+    },
+    "data/geojson.day/lowdown-101-day-00088.geojson.gz": {
+      "sha256": "b7827824c16ccb18163f8f66a80c23b51940df5bcf33f4da04170d0507863432",
+      "size": 165118
+    },
+    "data/geojson.day/lowdown-101-day-00089.geojson.gz": {
+      "sha256": "264d552fe8f3261ba07e2f3f7f38ee4f0fcc243d08f028beb26a108c82c539a8",
+      "size": 128653
+    },
+    "data/geojson.day/lowdown-101-day-00090.geojson.gz": {
+      "sha256": "e294b900bfe8edd7513f2a553eb5b97359c287c0587728647c62ecbe444ff948",
+      "size": 86760
+    },
+    "data/geojson.day/lowdown-101-day-00091.geojson.gz": {
+      "sha256": "58be4586a6e9114c309c7d50e7a8c5c477e1600084859fde1a447a7bbaa7d221",
+      "size": 171776
+    },
+    "data/geojson.day/lowdown-101-day-00092.geojson.gz": {
+      "sha256": "0bcf41334d97ae5595093f5d90b24c889c7c420aeb600f99f5b6b66403ffe32c",
+      "size": 162061
+    },
+    "data/geojson.day/lowdown-101-day-00093.geojson.gz": {
+      "sha256": "b85d203a0c77fbac7c8be04840e4a5f4e654a6dbfa4fdfc014583e0332a0a60c",
+      "size": 160645
+    },
+    "data/geojson.day/lowdown-101-day-00094.geojson.gz": {
+      "sha256": "ff9daf19652c3c1192e8fbbef9391c86da3dd2917c800ab7413532c88b61a901",
+      "size": 162945
+    },
+    "data/geojson.day/lowdown-101-day-00095.geojson.gz": {
+      "sha256": "e8e57021c6f2f3dd99f7fbdc1d6970618abd8efbcf86ec6b09a58c53abfa40b8",
+      "size": 149360
+    },
+    "data/geojson.day/lowdown-101-day-00096.geojson.gz": {
+      "sha256": "b830b981d30cb7fb2f5a089d39d805626984e44ce008168f79d193ff7535a96d",
+      "size": 171368
+    },
+    "data/geojson.day/lowdown-101-day-00097.geojson.gz": {
+      "sha256": "693108b6d1d6e8e38580e745b281b111a6c0ac873e953de7c7234165c4de20b9",
+      "size": 169891
+    },
+    "data/geojson.day/lowdown-101-day-00098.geojson.gz": {
+      "sha256": "93ee157976136eaaa5c4024e34b0fd756dbfa8ecc8dbc087b9a441958c1e1c96",
+      "size": 172693
+    },
+    "data/geojson.day/lowdown-101-day-00099.geojson.gz": {
+      "sha256": "48c225d8343e64a9d36523cc5caaf3904c094b63bdb5793a4a4f5d76d1eac846",
+      "size": 179427
+    },
+    "data/geojson.day/lowdown-101-day-00100.geojson.gz": {
+      "sha256": "1974540d0571bb03320223269b7c4392cd0d2330b824993854bca4a57b3ab992",
+      "size": 174480
+    },
+    "data/geojson.day/lowdown-101-day-00101.geojson.gz": {
+      "sha256": "398dd2e6448da9d98cbc2196a6155231a49ae2f48f0767cf0c31400d4b27630d",
+      "size": 155512
+    },
+    "data/geojson.day/lowdown-101-day-00102.geojson.gz": {
+      "sha256": "c78dce825f221e7064b48852f5bcf92b91e202a379f281af13a637525b9733fa",
+      "size": 155936
+    },
+    "data/geojson.day/lowdown-101-day-00103.geojson.gz": {
+      "sha256": "f0aa2144dd09e2c608c1e9f2b1272bd7a3a4acde6306049a28bde8b6812cafd4",
+      "size": 180575
+    },
+    "data/geojson.day/lowdown-101-day-00104.geojson.gz": {
+      "sha256": "f5cc35bc4d0875d39745bf40f301a80b506dbb86a3181e7fee2468343ee454f7",
+      "size": 158685
+    },
+    "data/geojson.day/lowdown-101-day-00105.geojson.gz": {
+      "sha256": "4707cf23bf8db7c6513fee597e5ed52f59d8ae04b2d2a1647db7b3e9a9706283",
+      "size": 184251
+    },
+    "data/json/lowdown-101-swarm-day-00001-2025-09-25.json": {
+      "sha256": "8813b594bd8ba2b0ebd237223e1a9a401e705e2d3d11cd9f9409f89736113063",
+      "size": 449
+    },
+    "data/json/lowdown-101-swarm-day-00002-2025-09-26.json": {
+      "sha256": "52d04404ec600ab32b1e9393d1e763a5d9a5be3d492490a4d994c33f318e1cc2",
+      "size": 449
+    },
+    "data/json/lowdown-101-swarm-day-00003-2025-09-27.json": {
+      "sha256": "09531c0e9745e5e87a05444042adfcb7e67ec9eac4090738e21f5809fdd64656",
+      "size": 449
+    },
+    "data/json/lowdown-101-swarm-day-00004-2025-09-28.json": {
+      "sha256": "3d03690a07aa17fad92118da87edcf155e65dacef1c8f94b5b5c3cd189b5ed4a",
+      "size": 448
+    },
+    "data/json/lowdown-101-swarm-day-00005-2025-09-29.json": {
+      "sha256": "a325748782523eb46c4a0c075332ec52c2fbcced29307c3b044caf8931d228f9",
+      "size": 448
+    },
+    "data/json/lowdown-101-swarm-day-00006-2025-09-30.json": {
+      "sha256": "96848c1c68bf039f58b5c705334f52461b2e4ab61b95fd9b245f95017a568465",
+      "size": 449
+    },
+    "data/json/lowdown-101-swarm-day-00007-2025-10-01.json": {
+      "sha256": "de2de39ac3a0ec680a5442cc2e2f58abe9c28b431c3e165506145031d00f4240",
+      "size": 450
+    },
+    "data/json/lowdown-101-swarm-day-00008-2025-10-02.json": {
+      "sha256": "117c5f449eb2881526418f4f56eddbd2854af41fe55b84425e16a8da01b2f4da",
+      "size": 451
+    },
+    "data/json/lowdown-101-swarm-day-00009-2025-10-03.json": {
+      "sha256": "2e0365c1ce47a91c352363962f0dd1c1d1a5732a34e938e7cbf954c323b19351",
+      "size": 451
+    },
+    "data/json/lowdown-101-swarm-day-00010-2025-10-04.json": {
+      "sha256": "88b05794b598c9025ea91a381cf3d49517ff44d96ab550dc3b53f0c40f9d5551",
+      "size": 452
+    },
+    "data/json/lowdown-101-swarm-day-00011-2025-10-05.json": {
+      "sha256": "f97ace05e1740b5576f2e84204953bc26eff98b27f04c420e5d9aa92b72d9a29",
+      "size": 452
+    },
+    "data/json/lowdown-101-swarm-day-00012-2025-10-06.json": {
+      "sha256": "eeb87a80f5269668e29733bedd786dffa016fab6db99c0fe49dc4e53137b61a1",
+      "size": 452
+    },
+    "data/json/lowdown-101-swarm-day-00013-2025-10-07.json": {
+      "sha256": "616e1b7b989cf06f074743eb215755cda29cf35400162af7cb3b721b112cbbaa",
+      "size": 452
+    },
+    "data/json/lowdown-101-swarm-day-00014-2025-10-08.json": {
+      "sha256": "5326a0ed0e24618c7c3fb9e177b1d5687b299251d0679e0aa52b8c913d02265a",
+      "size": 452
+    },
+    "data/json/lowdown-101-swarm-day-00015-2025-10-09.json": {
+      "sha256": "ea2729f3b1a3903fffca00265d457d137c855e8a4bdbc1325f9407636959569c",
+      "size": 452
+    },
+    "data/json/lowdown-101-swarm-day-00016-2025-10-10.json": {
+      "sha256": "8a503a1de8bfda5292687c2d0c3d87781fdabd8979e97ad72f1227fb87b2c8fc",
+      "size": 452
+    },
+    "data/json/lowdown-101-swarm-day-00017-2025-10-11.json": {
+      "sha256": "f8ee672a727394d3027107fc80a7e3d4a37f35564ed1c2134cddf7c398975e3c",
+      "size": 452
+    },
+    "data/json/lowdown-101-swarm-day-00018-2025-10-12.json": {
+      "sha256": "523b4748419b22020137af1eba57adc832c15a9dc51942346c31dc6db1eabd48",
+      "size": 452
+    },
+    "data/json/lowdown-101-swarm-day-00019-2025-10-13.json": {
+      "sha256": "c4e6cc7213306eb9504cddf09aaed3ed9d2d0f2f5784e9d99dea05208bacbf58",
+      "size": 452
+    },
+    "data/json/lowdown-101-swarm-day-00020-2025-10-14.json": {
+      "sha256": "7cdc3f2f264a9980076e3dd5aacdd8f07d44f3703a6c80d71c5810d3d0c1b1fc",
+      "size": 451
+    },
+    "data/json/lowdown-101-swarm-day-00021-2025-10-15.json": {
+      "sha256": "5bf2c8c310079126a8549add324e6a9049a3091e093e62521193156ceb24c944",
+      "size": 452
+    },
+    "data/json/lowdown-101-swarm-day-00022-2025-10-16.json": {
+      "sha256": "65779b904c27de2676abecd531d9d9a641a6db01a0fbb1708686303770e65cda",
+      "size": 451
+    },
+    "data/json/lowdown-101-swarm-day-00023-2025-10-17.json": {
+      "sha256": "baf99176acb96b5cb34756ae4b66dc786a1479d771195422b2eb91d1e1439f36",
+      "size": 451
+    },
+    "data/json/lowdown-101-swarm-day-00024-2025-10-18.json": {
+      "sha256": "c8e02396d9e179b0c30bf4a79e75135356ba2579cb666cda60d5e1d92549e8f9",
+      "size": 451
+    },
+    "data/json/lowdown-101-swarm-day-00025-2025-10-19.json": {
+      "sha256": "e6335168ace205f063f7738b32a1fbe0bb3eda33c526b436119caac46496ead5",
+      "size": 451
+    },
+    "data/json/lowdown-101-swarm-day-00026-2025-10-20.json": {
+      "sha256": "b3e4870df5cffac5f2eea8dd98f57068be2ece8dcc3cff39ee2b6a576c3826f6",
+      "size": 451
+    },
+    "data/json/lowdown-101-swarm-day-00027-2025-10-21.json": {
+      "sha256": "6cf980c52c653b1ea048c1bacd448fda6c35960e00b53135f15cddfae592d39a",
+      "size": 451
+    },
+    "data/json/lowdown-101-swarm-day-00028-2025-10-22.json": {
+      "sha256": "667fda9ea0bafa0eaff043b0d4bf1f36e5f4fe4a98c62a89009e19c4d31c8e6c",
+      "size": 451
+    },
+    "data/json/lowdown-101-swarm-day-00029-2025-10-23.json": {
+      "sha256": "aa235abccf404193c12e5a5979bc37abf8e3a8b147ec37df04ed0809f207e116",
+      "size": 451
+    },
+    "data/json/lowdown-101-swarm-day-00030-2025-10-24.json": {
+      "sha256": "325455d59c287bcbc1e3d3bd5c7b0dd21484503d126444c3d35a7f447d0d7b6a",
+      "size": 451
+    },
+    "data/json/lowdown-101-swarm-day-00031-2025-10-25.json": {
+      "sha256": "8cc8c431261415bdcd918a6d1d942cb6952e0bee7a8cf4b7f9c62331d1b23408",
+      "size": 451
+    },
+    "data/json/lowdown-101-swarm-day-00032-2025-10-26.json": {
+      "sha256": "50aaf24db8104b49a7ff8c68a2a4c8e01d70310452bf841e195490e3662ff43b",
+      "size": 451
+    },
+    "data/json/lowdown-101-swarm-day-00033-2025-10-27.json": {
+      "sha256": "27bf0bd71b011d02b4bda45a82ebee8da4f0165aabe497f8dc36e8a882d934ff",
+      "size": 451
+    },
+    "data/json/lowdown-101-swarm-day-00034-2025-10-28.json": {
+      "sha256": "4b4be268094877beff651eb9fff6fa58639b3652918bc62513e96bf5b96b7e81",
+      "size": 451
+    },
+    "data/json/lowdown-101-swarm-day-00035-2025-10-29.json": {
+      "sha256": "a6ff364e94c8e6a736b782dea164e40f12b21ccd934b63f0a30f6d17f6048fcc",
+      "size": 451
+    },
+    "data/json/lowdown-101-swarm-day-00036-2025-10-30.json": {
+      "sha256": "75ef6681d8b91d999a9d6d32a877d3cc1a89c4c13310b3b3872758ba038dbe59",
+      "size": 451
+    },
+    "data/json/lowdown-101-swarm-day-00037-2025-10-31.json": {
+      "sha256": "ea2ef95960be8c8a750e2713dde4a40ffeb732ad1beeb4e344f0dfb8b97ac235",
+      "size": 451
+    },
+    "data/json/lowdown-101-swarm-day-00038-2025-11-01.json": {
+      "sha256": "a02c02c315b8f3751081f99b570da3cc6467ef7b0938e31d7ffd29b1b4e3ec96",
+      "size": 451
+    },
+    "data/json/lowdown-101-swarm-day-00039-2025-11-02.json": {
+      "sha256": "1125fea82ca1990575d65970db28fc109222d21cca89274d6d4957161ce19a62",
+      "size": 451
+    },
+    "data/json/lowdown-101-swarm-day-00040-2025-11-03.json": {
+      "sha256": "a0dfd334da3cc125bc28c7e26f9d9be1d18ecfbaac7276e091fc6523b093305b",
+      "size": 451
+    },
+    "data/json/lowdown-101-swarm-day-00041-2025-11-04.json": {
+      "sha256": "d1618d1d4692e5bde7fa377f44d8d6d24400167a302b961e4b939bb55d7c66c9",
+      "size": 451
+    },
+    "data/json/lowdown-101-swarm-day-00042-2025-11-05.json": {
+      "sha256": "39b0da44365c1e98ca0d998157649efb830f743fe6442b51e72948b6dfe8957f",
+      "size": 451
+    },
+    "data/json/lowdown-101-swarm-day-00043-2025-11-06.json": {
+      "sha256": "e701e72bbfb7ba85559aa8ce50753d3b59682e7a01f0b4bcef89c14b18c7fa92",
+      "size": 451
+    },
+    "data/json/lowdown-101-swarm-day-00044-2025-11-07.json": {
+      "sha256": "d5f163bf08e8a5bc837e4da7ac61d7402872f0da34504dbccbe55564b497ac08",
+      "size": 451
+    },
+    "data/json/lowdown-101-swarm-day-00045-2025-11-08.json": {
+      "sha256": "2a966f1f0b5ac50fff02c58951bb868209626fe45066ca8c175e62bb92c984e4",
+      "size": 451
+    },
+    "data/json/lowdown-101-swarm-day-00046-2025-11-09.json": {
+      "sha256": "261e96980a9c3e1eddf7adf8cdd93545784da1f558ccd84e3b6fd0fea5d33fe2",
+      "size": 451
+    },
+    "data/json/lowdown-101-swarm-day-00047-2025-11-10.json": {
+      "sha256": "0b4a0390c208d801313a9c6d23df1aa0c2f34677cb72a8e47715ce0d8843a3b2",
+      "size": 451
+    },
+    "data/json/lowdown-101-swarm-day-00048-2025-11-11.json": {
+      "sha256": "e90860afdefe6556faa9421babdf1a7e554f235a56e0c4c7df932a2f44084fdc",
+      "size": 451
+    },
+    "data/json/lowdown-101-swarm-day-00049-2025-11-12.json": {
+      "sha256": "6ae19765de32f5485350fe03176e484ba379a35391925aeb410ddc5312af2687",
+      "size": 451
+    },
+    "data/json/lowdown-101-swarm-day-00050-2025-11-13.json": {
+      "sha256": "affec9301284a832b5f71a259695e2dd9f9b8296146f6a41b872d1ada91f9ea1",
+      "size": 451
+    },
+    "data/json/lowdown-101-swarm-day-00051-2025-11-14.json": {
+      "sha256": "0a826b6a24d37385db74471e3e87832ee8a576c6d4a7e78ad16f178fcd7e0291",
+      "size": 451
+    },
+    "data/json/lowdown-101-swarm-day-00052-2025-11-15.json": {
+      "sha256": "27c336fad4e18095f484982994a33a8d6cfc57ab58cbd3cd9e91a9563580f220",
+      "size": 451
+    },
+    "data/json/lowdown-101-swarm-day-00053-2025-11-16.json": {
+      "sha256": "bfff0a81fa0e61a64c3393ec4954fff5961494fa52b9cbbb3034e0597eb54d2b",
+      "size": 451
+    },
+    "data/json/lowdown-101-swarm-day-00054-2025-11-17.json": {
+      "sha256": "3508402b11b2a3131197574d9299d3bf961a75844f35c0a89a996162b31356e2",
+      "size": 451
+    },
+    "data/json/lowdown-101-swarm-day-00055-2025-11-18.json": {
+      "sha256": "25a00ee9a762d088452d7e35c32cf1c3817da21f1d3282ab7f76ec28e0737456",
+      "size": 451
+    },
+    "data/json/lowdown-101-swarm-day-00056-2025-11-19.json": {
+      "sha256": "3da6e56c6ca2f47849ab69183abbb7f909e7565a2d4aa70c6db4e60a451f7c23",
+      "size": 451
+    },
+    "data/json/lowdown-101-swarm-day-00057-2025-11-20.json": {
+      "sha256": "d453a6fb3fd054c0edb2647ec356faefa1de9d9bb25ae4e46bb439d73986035c",
+      "size": 451
+    },
+    "data/json/lowdown-101-swarm-day-00058-2025-11-21.json": {
+      "sha256": "c26b9f51a9f78f7e03216fb51eb0d3029fbbf6161cbf8deac5bfe3c327d60434",
+      "size": 451
+    },
+    "data/json/lowdown-101-swarm-day-00059-2025-11-22.json": {
+      "sha256": "7fe40e95700d98a63f763428fe704e1ba80bcc56946c841311c70a39752068fa",
+      "size": 451
+    },
+    "data/json/lowdown-101-swarm-day-00060-2025-11-23.json": {
+      "sha256": "3e91e995446b78ce64a2ab8b0d17cd9026f5bd6af5298290c9c4fcd611c16879",
+      "size": 451
+    },
+    "data/json/lowdown-101-swarm-day-00061-2025-11-24.json": {
+      "sha256": "e47b6e2410690c7fc5310f8c9df1277cfb04bbeea85de1e49172f73ce5e5ec4c",
+      "size": 451
+    },
+    "data/json/lowdown-101-swarm-day-00062-2025-11-25.json": {
+      "sha256": "a82c4930cfaaf8f95dda60f3a5a55ecbab2c92d0725e8cd5559d9964fc135317",
+      "size": 451
+    },
+    "data/json/lowdown-101-swarm-day-00063-2025-11-26.json": {
+      "sha256": "8a6e4771b873baa8c9e2b90c51ad077eeaacaa31eb01e86d70465d5d986d5220",
+      "size": 451
+    },
+    "data/json/lowdown-101-swarm-day-00064-2025-11-27.json": {
+      "sha256": "933cea8ea30ed54f687811c0dac7282ffbd69e9b8163839c6fa52ce306cbc7ea",
+      "size": 451
+    },
+    "data/json/lowdown-101-swarm-day-00065-2025-11-28.json": {
+      "sha256": "ea62edcf82e084d8b005bfd75fcbdfac2449704ec71b0ef0759184920e58da93",
+      "size": 451
+    },
+    "data/json/lowdown-101-swarm-day-00066-2025-11-29.json": {
+      "sha256": "feb79cf20bb758e8be7d8983b69a561ef7be918d890b993aea510cdd1fd3ca24",
+      "size": 451
+    },
+    "data/json/lowdown-101-swarm-day-00067-2025-11-30.json": {
+      "sha256": "54e57744ca2dfb449780dd54138c9c431d8000ea9c7e2bf0f9eaa931ca254c55",
+      "size": 451
+    },
+    "data/json/lowdown-101-swarm-day-00068-2025-12-01.json": {
+      "sha256": "3b131afaa8bdd66251120ba60d2e3b88c463ab0ffe36c57f5e3631565771d1f3",
+      "size": 451
+    },
+    "data/json/lowdown-101-swarm-day-00069-2025-12-02.json": {
+      "sha256": "7de8fad3ce6aafe2561409286a08b41ac3ea8945e80cecf02e190bfed2339a98",
+      "size": 451
+    },
+    "data/json/lowdown-101-swarm-day-00070-2025-12-03.json": {
+      "sha256": "83cb263d150d05463531ded0fc5f2993fca264680b2f11ecafbac6c8245f7172",
+      "size": 451
+    },
+    "data/json/lowdown-101-swarm-day-00071-2025-12-04.json": {
+      "sha256": "c2c77c3a92e19fe8d569890e9167f8b62c0774e9e30da95773ce35652a6d79ce",
+      "size": 451
+    },
+    "data/json/lowdown-101-swarm-day-00072-2025-12-05.json": {
+      "sha256": "e837032d5cc8e4526e63aa4925c14e924d9782e330a088cf420dcaab3d233fd7",
+      "size": 451
+    },
+    "data/json/lowdown-101-swarm-day-00073-2025-12-06.json": {
+      "sha256": "15fc1703100964adfda86d8f91e7702c656e9aa3d0bc1ba9182f792d1d65e39f",
+      "size": 451
+    },
+    "data/json/lowdown-101-swarm-day-00074-2025-12-07.json": {
+      "sha256": "773bce7d6c0129b6e7410fd9cea7dc319c1282420238c4787d3b6570863659e5",
+      "size": 451
+    },
+    "data/json/lowdown-101-swarm-day-00075-2025-12-08.json": {
+      "sha256": "14fb9492b6f2f59569e93d833237d67115daf79cff1bef52b6ac4d4b82ecddba",
+      "size": 451
+    },
+    "data/json/lowdown-101-swarm-day-00076-2025-12-09.json": {
+      "sha256": "431b94edea6c4f535c91afbc156d6652b36efaf007a9f911a823c334c789ba48",
+      "size": 451
+    },
+    "data/json/lowdown-101-swarm-day-00077-2025-12-10.json": {
+      "sha256": "5e2256bfe089d3ac19897cb5a2d01ddce14c6c1685c75d9aa44fe154536299c7",
+      "size": 451
+    },
+    "data/json/lowdown-101-swarm-day-00078-2025-12-11.json": {
+      "sha256": "06c7228101245c4995726ec5ef9df86db44a21373bc4869f3643899cda68668d",
+      "size": 451
+    },
+    "data/json/lowdown-101-swarm-day-00079-2025-12-12.json": {
+      "sha256": "eb5fb37c0ffa8da3c87c017cfc6b0bfa3a7453ad46ef5891181b2427d6c8925c",
+      "size": 451
+    },
+    "data/json/lowdown-101-swarm-day-00080-2025-12-13.json": {
+      "sha256": "4c4e7148901cf576c5ade164652e75a26dcb45d61749aad962da4e8682d146ab",
+      "size": 451
+    },
+    "data/json/lowdown-101-swarm-day-00081-2025-12-14.json": {
+      "sha256": "714f7a16e0c13b3daf92dff5f0fa87d05a7f335a6e1a7ce7f43a0903a6f78866",
+      "size": 451
+    },
+    "data/json/lowdown-101-swarm-day-00082-2025-12-15.json": {
+      "sha256": "1d2a7e7c095801a9843e1c8b09ab7af5d384b798e14200a08bb0a061137937f2",
+      "size": 451
+    },
+    "data/json/lowdown-101-swarm-day-00083-2025-12-16.json": {
+      "sha256": "2105bf14f8181fb6285eb4958f690e6aba5f9d8aca040214b323978a96ef423e",
+      "size": 451
+    },
+    "data/json/lowdown-101-swarm-day-00084-2025-12-17.json": {
+      "sha256": "5d9287022be4139002ec65d66e2d90a58ff27ed7351de0cb371785367607fc02",
+      "size": 451
+    },
+    "data/json/lowdown-101-swarm-day-00085-2025-12-18.json": {
+      "sha256": "bdbc5f75f94f783917db8e36f2ed2bc6b24fbc9a1ea4d7aa5a726aa51a29677e",
+      "size": 451
+    },
+    "data/json/lowdown-101-swarm-day-00086-2025-12-19.json": {
+      "sha256": "8af74913b6210f3079699e45e1934bc0b7b08212ef3d31373356a3121890556c",
+      "size": 451
+    },
+    "data/json/lowdown-101-swarm-day-00087-2025-12-20.json": {
+      "sha256": "82142bf8b4928fc41572b17d6de4d15e34ac1e7b8869e3edc91562cb6f3a9722",
+      "size": 451
+    },
+    "data/json/lowdown-101-swarm-day-00088-2025-12-21.json": {
+      "sha256": "560c7804efeec722478b4f708dc41fa749dc4f47ed4150a47c0ba09f5939ba30",
+      "size": 451
+    },
+    "data/json/lowdown-101-swarm-day-00089-2025-12-22.json": {
+      "sha256": "3f58242949d0a9bdd8d97283315d2ee2c936d59637b4fb1d0ff9fcb280fb851d",
+      "size": 451
+    },
+    "data/json/lowdown-101-swarm-day-00090-2025-12-23.json": {
+      "sha256": "b7420e96a15874ec50e068c8636082433ab3349c6695bd4630b6afa947833486",
+      "size": 450
+    },
+    "data/json/lowdown-101-swarm-day-00091-2025-12-24.json": {
+      "sha256": "baf6b72ae329885a9097ff94b102546da579b5f497f58b4d63e8f747c1f524a3",
+      "size": 451
+    },
+    "data/json/lowdown-101-swarm-day-00092-2025-12-25.json": {
+      "sha256": "ec31f5646e882baf0077b038dd674ed2b0b0476b24ae644a304b245497b7c872",
+      "size": 451
+    },
+    "data/json/lowdown-101-swarm-day-00093-2025-12-26.json": {
+      "sha256": "82eb16b582441c09a7b11c47265b42281768457d6adbd5ea9047e9f0e047f463",
+      "size": 451
+    },
+    "data/json/lowdown-101-swarm-day-00094-2025-12-27.json": {
+      "sha256": "c084377ccd382790e3a0639a884b6d358c434507cf16298796bd413f2d4b5fb9",
+      "size": 451
+    },
+    "data/json/lowdown-101-swarm-day-00095-2025-12-28.json": {
+      "sha256": "26f5d67740a440e1e8bbc39ebc7cbab730bab377381b85559e86844072bcd0e5",
+      "size": 451
+    },
+    "data/json/lowdown-101-swarm-day-00096-2025-12-29.json": {
+      "sha256": "bc4a732a69f099faf777092d8139c2ef60d11be95e2ce3094a101084e85b8a22",
+      "size": 451
+    },
+    "data/json/lowdown-101-swarm-day-00097-2025-12-30.json": {
+      "sha256": "5df6a8967912a9913d459b9a93f4d631cd8f76eb68de02ff4ffde4f2f66b4956",
+      "size": 451
+    },
+    "data/json/lowdown-101-swarm-day-00098-2025-12-31.json": {
+      "sha256": "8b03230133f222dc20babf6aed9132479b148727e0d301d3458cbf66a4375320",
+      "size": 451
+    },
+    "data/json/lowdown-101-swarm-day-00099-2026-01-01.json": {
+      "sha256": "3075789337fbed4a108ebca5b1d4a96f23899d5f2aa0c77b5c3145709608c861",
+      "size": 451
+    },
+    "data/json/lowdown-101-swarm-day-00100-2026-01-02.json": {
+      "sha256": "b28c8a770f8a9c8b0c1ee146924dcc6bbfe123fc71858d5a00e2c1240020570c",
+      "size": 452
+    },
+    "data/json/lowdown-101-swarm-day-00101-2026-01-03.json": {
+      "sha256": "0be9ef4ff7e8d8209b565cb3fd6583e8d53b5790dc1628f1673777530c821500",
+      "size": 452
+    },
+    "data/json/lowdown-101-swarm-day-00102-2026-01-04.json": {
+      "sha256": "f9fa51d17b79bb6ef34bed2a4cf6d74829c76c91fa41b2e442a612e4aa75ff8b",
+      "size": 452
+    },
+    "data/json/lowdown-101-swarm-day-00103-2026-01-05.json": {
+      "sha256": "b33d9c840d21dcc78d6c62f22b522810b85f9ac697d44c5dc69f3d0c5369f6f1",
+      "size": 452
+    },
+    "data/json/lowdown-101-swarm-day-00104-2026-01-06.json": {
+      "sha256": "17db85044af817f0caf270e8125227fe5d50ce2240858a6fba6772d9ae6768c7",
+      "size": 452
+    },
+    "data/json/lowdown-101-swarm-day-00105-2026-01-07.json": {
+      "sha256": "6e4d1f694e5cc7353f387f1796404ed3712645816db34a4d69aa849f686b14a6",
+      "size": 452
+    }
+  },
+  "schema": "alpha60-year-day-product-bundle/1",
+  "source_revisions": {
+    "aggregate_binary": {
+      "sha256": "7408569641f7247fbd00969cffddaf1bb0cf2768c7fc1529f4cc6191ccfeae05",
+      "size": 38582648
+    },
+    "alpha60": "eba8537ed9a6e7a09ae3de163b01460f5ad1ad7e",
+    "alpha60_data": "8faeae67a5d274d1fc00bffe9fc9318329163b20",
+    "day_product_contract": {
+      "sha256": "0aa0bee3ac14b512c786d3496ab5218a46aff11786ffa6aa9ea85e762fbd6370",
+      "size": 9897
+    },
+    "generate_cache_aggregates": {
+      "sha256": "504078e192d9c8182df74e41b98cec08123c5a8b7d0eb7f812d09c1fe5d07010",
+      "size": 17151
+    },
+    "metadata": "fbeb53a0b523f937fae2f23d14689d8c5c84dd5a",
+    "package_script": {
+      "sha256": "516d6ecdccd24b1b66cf80c185219fa47d52af22f672b836773896df621b1666",
+      "size": 14724
+    },
+    "year_day_contract": {
+      "sha256": "f1c07d6f2fdc19475a6f25ddaee5923957447a6f49a8009d8b4c9984a63bd883",
+      "size": 9356
+    }
+  },
+  "status": "pass"
+}
