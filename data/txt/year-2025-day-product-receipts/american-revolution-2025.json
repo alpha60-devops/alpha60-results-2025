@@ -1,0 +1,1509 @@
+{
+  "archive": {
+    "path": "/home/bkoz/src/alpha60-xperiments/year-2025-archives/american-revolution-2025.cache/cache.20260518.tar.xz",
+    "sha256": "b9e2d4f9cfcb31e5d63ca156ab5ee8042ce4b26ccaa07531f05b5d7daffb4f58",
+    "size": 653297484
+  },
+  "authorization": {
+    "archive_mutated": false,
+    "excluded_member_classes": [
+      "hour",
+      "week",
+      "cumulative"
+    ],
+    "raw_samples_opened": false,
+    "scope": "read only streaming of per-torrent day records"
+  },
+  "collection_key": "american-revolution-2025",
+  "day_product_contract": {
+    "collection_key": "american-revolution-2025",
+    "day_products": 182,
+    "first_date": "2025-11-18",
+    "first_index": 1,
+    "geojson_data_version": "20260701",
+    "ip_geolocation_version": "6:1777968300",
+    "json_data_version": "2026-08-05",
+    "last_date": "2026-05-18",
+    "last_index": 182,
+    "schema": "alpha60-day-product-contract/1",
+    "sparse": false,
+    "status": "pass"
+  },
+  "publications": {
+    "data/geojson.day/american-revolution-2025-day-00001.geojson.gz": {
+      "sha256": "2b6cbe22a7cb2c6f75de1b72630359aeda5a0d4f0f97d92ffe842eb04ede0859",
+      "size": 118950
+    },
+    "data/geojson.day/american-revolution-2025-day-00002.geojson.gz": {
+      "sha256": "1cc956094d1ae469457fb2288e7ca4be9d955e1b9cdeaa535efc4148d46dda8f",
+      "size": 137023
+    },
+    "data/geojson.day/american-revolution-2025-day-00003.geojson.gz": {
+      "sha256": "0fdc3d7d7f94e6d21b0cdceaeadc91d3432584e3510aea9ab1a55031ac9f858f",
+      "size": 124674
+    },
+    "data/geojson.day/american-revolution-2025-day-00004.geojson.gz": {
+      "sha256": "6c4917898827770b6b1c6413f46e47d6d82bdb96443e7e7b10cccbed3138980e",
+      "size": 147561
+    },
+    "data/geojson.day/american-revolution-2025-day-00005.geojson.gz": {
+      "sha256": "0fb2c2f542a76395cf17559bb2f26d25ed388974c8acc2b81eafe1c0dfdbeb29",
+      "size": 124027
+    },
+    "data/geojson.day/american-revolution-2025-day-00006.geojson.gz": {
+      "sha256": "0c71bfcc8ee7d924e221db498738dfd7832888a3407ed45c1c839de0cbdbe785",
+      "size": 115573
+    },
+    "data/geojson.day/american-revolution-2025-day-00007.geojson.gz": {
+      "sha256": "0ae58c0b71465863ffe0c9919fcf4a03151d54224060c83a14402854b82016bb",
+      "size": 132385
+    },
+    "data/geojson.day/american-revolution-2025-day-00008.geojson.gz": {
+      "sha256": "b68a48c240bcf844ba1a5eb6de475d65535ad57e6ec4e1c70b90422e683e8346",
+      "size": 128839
+    },
+    "data/geojson.day/american-revolution-2025-day-00009.geojson.gz": {
+      "sha256": "ebde696381d3334e82c70656cd408d495794e51d63d2bad37315bbfd5b4cd23a",
+      "size": 125424
+    },
+    "data/geojson.day/american-revolution-2025-day-00010.geojson.gz": {
+      "sha256": "89a952122e76c5400c2f311afd3bd31dd44a6a573daaf065f6cf65204e9bd8b1",
+      "size": 128878
+    },
+    "data/geojson.day/american-revolution-2025-day-00011.geojson.gz": {
+      "sha256": "c699872249f53cb3aec5bca625801474a2151c075e65c84a6c9ce98888065007",
+      "size": 115326
+    },
+    "data/geojson.day/american-revolution-2025-day-00012.geojson.gz": {
+      "sha256": "0dfb3b8f229928388d647b15caaec61de2595e231b0053799df2516cf3f19a28",
+      "size": 120287
+    },
+    "data/geojson.day/american-revolution-2025-day-00013.geojson.gz": {
+      "sha256": "a11b3495c79d0fc3d06570acb301daa40185ca230bb3c5d9e1a5275ec671f7b7",
+      "size": 133828
+    },
+    "data/geojson.day/american-revolution-2025-day-00014.geojson.gz": {
+      "sha256": "327b3ccc39d745841edfa4f966a533b1880a987d5ed52bf46dce018c8c37e86c",
+      "size": 133397
+    },
+    "data/geojson.day/american-revolution-2025-day-00015.geojson.gz": {
+      "sha256": "9c38a7ac858d28202eb5fb935167829af13ebbbfed7543446ea2dfdf7db2f585",
+      "size": 132840
+    },
+    "data/geojson.day/american-revolution-2025-day-00016.geojson.gz": {
+      "sha256": "3e4bb3a365e42bb69bed1ee3e569edc2ef51bd24131f9d823d866fcbb8784123",
+      "size": 129631
+    },
+    "data/geojson.day/american-revolution-2025-day-00017.geojson.gz": {
+      "sha256": "296284c611e70c95bf7ae4cfc8e7397e5269a2b7b9c35a25cb3cc76ce45250e9",
+      "size": 127063
+    },
+    "data/geojson.day/american-revolution-2025-day-00018.geojson.gz": {
+      "sha256": "01fa1fc5868495df29a24e9d522f55446595891bacfc9770563e1e499d529516",
+      "size": 126723
+    },
+    "data/geojson.day/american-revolution-2025-day-00019.geojson.gz": {
+      "sha256": "5dab5e247c18edffe0651c752a1d7d4ed87a6a68b6e981c8fd34d54aff3df5ca",
+      "size": 113947
+    },
+    "data/geojson.day/american-revolution-2025-day-00020.geojson.gz": {
+      "sha256": "8e4299e8024b46925a1aab29709c7099b88613ebeb02c77e552a4a56aae83bfa",
+      "size": 100036
+    },
+    "data/geojson.day/american-revolution-2025-day-00021.geojson.gz": {
+      "sha256": "110de1f3c8ad5d3bd3f1afe865920c687f84d9886ef88b054e499adbeeffb0df",
+      "size": 125671
+    },
+    "data/geojson.day/american-revolution-2025-day-00022.geojson.gz": {
+      "sha256": "3031bd642359cc466a45b39f6630b37e7d325de92a829ec3f81374d8abe37f3e",
+      "size": 110214
+    },
+    "data/geojson.day/american-revolution-2025-day-00023.geojson.gz": {
+      "sha256": "4cb575287140e07e9c4ac5818608250522126afa0e48bae40c65efe49b19b862",
+      "size": 111446
+    },
+    "data/geojson.day/american-revolution-2025-day-00024.geojson.gz": {
+      "sha256": "48d4d4b76cc1b9083223012fce37a3fc75d35f6c782ae7561c806748f7cb302a",
+      "size": 113269
+    },
+    "data/geojson.day/american-revolution-2025-day-00025.geojson.gz": {
+      "sha256": "0804a0b2c7d000f3f5a83865cbf0275fbde12a0395ce065ac56b85b50591a2bc",
+      "size": 118704
+    },
+    "data/geojson.day/american-revolution-2025-day-00026.geojson.gz": {
+      "sha256": "994dc9fb0a9423d9347dc994f1643b64dc2b363766c5b6ba8ab84044e90cb354",
+      "size": 112477
+    },
+    "data/geojson.day/american-revolution-2025-day-00027.geojson.gz": {
+      "sha256": "19cccf92c660610e5289f5a3f8e1319295d33e3e7a3968f90f5d75383e499231",
+      "size": 104346
+    },
+    "data/geojson.day/american-revolution-2025-day-00028.geojson.gz": {
+      "sha256": "e38949270b885738769730dd6f8c3f8371ef2a1f739c29a16d4ef92455ea6a4d",
+      "size": 123582
+    },
+    "data/geojson.day/american-revolution-2025-day-00029.geojson.gz": {
+      "sha256": "6ef0609af204f29ea73080afe067f1617b2bbd74d52f7c99e76035bb19aadf9b",
+      "size": 123387
+    },
+    "data/geojson.day/american-revolution-2025-day-00030.geojson.gz": {
+      "sha256": "662ae28b45e94524000be8c0614da81a25cab63f82af8dab3c911357430ca04a",
+      "size": 120321
+    },
+    "data/geojson.day/american-revolution-2025-day-00031.geojson.gz": {
+      "sha256": "eb6f6613409144d1a1ec4c1ec165277b74eb6e7b228f41511b25651f27985ac1",
+      "size": 120371
+    },
+    "data/geojson.day/american-revolution-2025-day-00032.geojson.gz": {
+      "sha256": "6bbe65b1ae9efc9a0595291b3717d584648535924e6165ffdbb68347bb998f0f",
+      "size": 117777
+    },
+    "data/geojson.day/american-revolution-2025-day-00033.geojson.gz": {
+      "sha256": "7aacf1285a220a88f48f834f690ba3eafb7263a6f6fc8fbca97da6324be5777e",
+      "size": 121663
+    },
+    "data/geojson.day/american-revolution-2025-day-00034.geojson.gz": {
+      "sha256": "9b9c17d29862d253988ed37877ad1fa1aca31203dffbdea9eb08b22941a56d0a",
+      "size": 119887
+    },
+    "data/geojson.day/american-revolution-2025-day-00035.geojson.gz": {
+      "sha256": "b006238e79d66c0dad1d7f1c63927eb30369b0bce9ee542ebb45bfe72993e347",
+      "size": 91283
+    },
+    "data/geojson.day/american-revolution-2025-day-00036.geojson.gz": {
+      "sha256": "5de8fd90b32223209f3f3a7ed5826d5ecc5ca3c6d28a00074ca0a1039d3424ec",
+      "size": 66174
+    },
+    "data/geojson.day/american-revolution-2025-day-00037.geojson.gz": {
+      "sha256": "19e9a47d5d376567e366034ae64db2c37ef28c96087184b377fe963997c5ca46",
+      "size": 121817
+    },
+    "data/geojson.day/american-revolution-2025-day-00038.geojson.gz": {
+      "sha256": "27892ff283ea828361f19e8fe05456ef4374a0151cd96d8fe593dffbf44ed44e",
+      "size": 115801
+    },
+    "data/geojson.day/american-revolution-2025-day-00039.geojson.gz": {
+      "sha256": "a8449d1e4be53aab99bc46fcca3efe5f396857ebc85ec67590a706f6f72c1e27",
+      "size": 115880
+    },
+    "data/geojson.day/american-revolution-2025-day-00040.geojson.gz": {
+      "sha256": "c2609abe4e917de6ddc22c4a6bb33757f8bef3a234771469e388ae7b47015b3d",
+      "size": 114574
+    },
+    "data/geojson.day/american-revolution-2025-day-00041.geojson.gz": {
+      "sha256": "762ac134b8d40f2ecdad54972a01e8bad3824e896c9501c92c5beaecdf02180d",
+      "size": 102095
+    },
+    "data/geojson.day/american-revolution-2025-day-00042.geojson.gz": {
+      "sha256": "eea7b8aca31fe56c60e66108370f7abd35aa5bd25fbe889bf40e2352413473fb",
+      "size": 120392
+    },
+    "data/geojson.day/american-revolution-2025-day-00043.geojson.gz": {
+      "sha256": "df8152a251f57667d56d48503ed1287ffe5ba5ca0e316a0d2f004c5b8ad07239",
+      "size": 117419
+    },
+    "data/geojson.day/american-revolution-2025-day-00044.geojson.gz": {
+      "sha256": "c0a476cd46fb26ac03b9df1ae767d7d2b32a341d6f5482a674d9c8c2b6742514",
+      "size": 118863
+    },
+    "data/geojson.day/american-revolution-2025-day-00045.geojson.gz": {
+      "sha256": "a0b7cc03f0cffe1a20b933b002ead8cbf06b3f69b21eb8a85d2d7e797f28feb6",
+      "size": 124171
+    },
+    "data/geojson.day/american-revolution-2025-day-00046.geojson.gz": {
+      "sha256": "73bb3d6d805db88ee3944969663a036f5256090cf97ab6861ef36331d677a2f1",
+      "size": 133859
+    },
+    "data/geojson.day/american-revolution-2025-day-00047.geojson.gz": {
+      "sha256": "a6d992428c2cedebec134424c9147f34d1f3d9d2ba4ee6f54f59cefe1f1b2746",
+      "size": 116740
+    },
+    "data/geojson.day/american-revolution-2025-day-00048.geojson.gz": {
+      "sha256": "17757cb822cfb676bfc2b0ab6a218f11d578b4c12b72785df2b7c010c777b995",
+      "size": 118558
+    },
+    "data/geojson.day/american-revolution-2025-day-00049.geojson.gz": {
+      "sha256": "de630e65991fa4872393460b569cde5270008ad0c1e91eb645b88d8f917e53ae",
+      "size": 120021
+    },
+    "data/geojson.day/american-revolution-2025-day-00050.geojson.gz": {
+      "sha256": "351f4a279197b2a3b0047bb47ea8dd5e670f4d298cfbe00de06d4ba771f453f4",
+      "size": 110811
+    },
+    "data/geojson.day/american-revolution-2025-day-00051.geojson.gz": {
+      "sha256": "1195fc10e8c2f01139413accd91c9734160b45bd3a120d94443d8d950e90bb74",
+      "size": 127336
+    },
+    "data/geojson.day/american-revolution-2025-day-00052.geojson.gz": {
+      "sha256": "4d2c325e4bf72130269a673d24c594a909e6b4d55cad8f1f03349aa89a561b0e",
+      "size": 144249
+    },
+    "data/geojson.day/american-revolution-2025-day-00053.geojson.gz": {
+      "sha256": "139da5b785f28bfd7991e01906e44bd5da32c99b9498186fdb1ff05809f5be8c",
+      "size": 131244
+    },
+    "data/geojson.day/american-revolution-2025-day-00054.geojson.gz": {
+      "sha256": "e9479c21af199140f92cb410ebcf486168996121ff0b7b4ae138ba0f5ed56b18",
+      "size": 128563
+    },
+    "data/geojson.day/american-revolution-2025-day-00055.geojson.gz": {
+      "sha256": "b1e12b499f682834c87c03e6dc249aee7e7469500230a6ecbc6014f79a6bf7f7",
+      "size": 133228
+    },
+    "data/geojson.day/american-revolution-2025-day-00056.geojson.gz": {
+      "sha256": "f21ef4ee12c0d36b3ab155b95c06704a44131e85dc74894415328a5f61bf8ff6",
+      "size": 125799
+    },
+    "data/geojson.day/american-revolution-2025-day-00057.geojson.gz": {
+      "sha256": "e45177e51739596fe086f531e63a566b72f7c67e5437f6d4105e7775e9cdc96c",
+      "size": 133029
+    },
+    "data/geojson.day/american-revolution-2025-day-00058.geojson.gz": {
+      "sha256": "a2774734b17bed93b0275bb898a08cea752f76988a3cbcbb5632c10a7f344c2e",
+      "size": 130442
+    },
+    "data/geojson.day/american-revolution-2025-day-00059.geojson.gz": {
+      "sha256": "cee2d5045bdca9e34f5bdb42a5a20eaa5b7236dde25a1d164e3ea0095e5323ac",
+      "size": 136579
+    },
+    "data/geojson.day/american-revolution-2025-day-00060.geojson.gz": {
+      "sha256": "66a1157e271d9263348831b8e65c45524111ac3a534aa7022c694a3369725949",
+      "size": 131283
+    },
+    "data/geojson.day/american-revolution-2025-day-00061.geojson.gz": {
+      "sha256": "3cc802ca1bb4a6188867f6b89a577d5c80722dc054d3e9b581afcc4676f4a33d",
+      "size": 128314
+    },
+    "data/geojson.day/american-revolution-2025-day-00062.geojson.gz": {
+      "sha256": "e3e8795f18ef2e50fa424abc00a761d129c38d6e224eda473a63c17612d8ea77",
+      "size": 126351
+    },
+    "data/geojson.day/american-revolution-2025-day-00063.geojson.gz": {
+      "sha256": "aba05ab8179cd6e102c32cada8121d3004dc52916687b70d847f06d994b4b85d",
+      "size": 122572
+    },
+    "data/geojson.day/american-revolution-2025-day-00064.geojson.gz": {
+      "sha256": "75d4e3e6f362370288c2bf62dea479da83c9f1106d88bffb4f22a4d5f80264d0",
+      "size": 119808
+    },
+    "data/geojson.day/american-revolution-2025-day-00065.geojson.gz": {
+      "sha256": "20c40037d69a2862fad63727956968e0032a0faf915c9a26fa9f67a011c7c3d1",
+      "size": 117163
+    },
+    "data/geojson.day/american-revolution-2025-day-00066.geojson.gz": {
+      "sha256": "ff5b814a71e6de36418a3e2e1c7b881dcfab5f5244302f2d8a4f9f9c89a9008f",
+      "size": 126575
+    },
+    "data/geojson.day/american-revolution-2025-day-00067.geojson.gz": {
+      "sha256": "105991d1d7fd263b3e01c30010d5d883049ee52be400a650d36e0d83efca2207",
+      "size": 116656
+    },
+    "data/geojson.day/american-revolution-2025-day-00068.geojson.gz": {
+      "sha256": "89df0ad2b27b28afe018b75a522a4a64150ee14981f79bf48558cbabd16e72e3",
+      "size": 117220
+    },
+    "data/geojson.day/american-revolution-2025-day-00069.geojson.gz": {
+      "sha256": "62ef11bed3d39eb9c4870fa4844367ee0ba2a6d5e602629effe4d97837122163",
+      "size": 122368
+    },
+    "data/geojson.day/american-revolution-2025-day-00070.geojson.gz": {
+      "sha256": "2f3d7274bb7ff04c5ecff25255481c4baefe8d70b40a17e771d9d84e22946432",
+      "size": 117835
+    },
+    "data/geojson.day/american-revolution-2025-day-00071.geojson.gz": {
+      "sha256": "6369234b607b063224fe7112231eaf4502688016dde3bae7d66b01409130ebe4",
+      "size": 117783
+    },
+    "data/geojson.day/american-revolution-2025-day-00072.geojson.gz": {
+      "sha256": "aab5a5b6fa549d2c15d20c10bf7192b48e333ae59bfb9cab4f4533bc6fbd9862",
+      "size": 116579
+    },
+    "data/geojson.day/american-revolution-2025-day-00073.geojson.gz": {
+      "sha256": "7afa45905e58abac12f24f91b17635790de8c8559cd4a5753ec8814cc62f5384",
+      "size": 105099
+    },
+    "data/geojson.day/american-revolution-2025-day-00074.geojson.gz": {
+      "sha256": "a9ca809289f8704e4184f09be8b3d05e694973d8a872f5ea2386f862f45f98ae",
+      "size": 129827
+    },
+    "data/geojson.day/american-revolution-2025-day-00075.geojson.gz": {
+      "sha256": "011f1edde2bea40c7772454fa06e9aeb0711134a0b46f5ab06360e0b20275644",
+      "size": 116461
+    },
+    "data/geojson.day/american-revolution-2025-day-00076.geojson.gz": {
+      "sha256": "d7431deae24d6f21c2f1955a5846544aa7a85aa1f0a0e3a085496e1dabcf9321",
+      "size": 118260
+    },
+    "data/geojson.day/american-revolution-2025-day-00077.geojson.gz": {
+      "sha256": "2f0999abd9ab787e66853c95d341e5b1f3585feb4505ed16ded5abed006b0069",
+      "size": 134205
+    },
+    "data/geojson.day/american-revolution-2025-day-00078.geojson.gz": {
+      "sha256": "3fd21f510ec4944b0c70ce833d2c01c3260e91e8d74c89784e3e282b48928422",
+      "size": 125076
+    },
+    "data/geojson.day/american-revolution-2025-day-00079.geojson.gz": {
+      "sha256": "e8dfeb26763eebcacc738768239e29c12b9de3de50135a07e9effe6c5aec80bb",
+      "size": 124394
+    },
+    "data/geojson.day/american-revolution-2025-day-00080.geojson.gz": {
+      "sha256": "6df69ef52e3e2dfc6f7d1eb9ea69d3882f3ec7ed095e0991513df485988c9fd8",
+      "size": 125336
+    },
+    "data/geojson.day/american-revolution-2025-day-00081.geojson.gz": {
+      "sha256": "31027f62672a9531c14441bd8abf530880993f27234a24fd44877fbf7ab89585",
+      "size": 151726
+    },
+    "data/geojson.day/american-revolution-2025-day-00082.geojson.gz": {
+      "sha256": "0251b76cf5e5b8c8a49abed26baba94b163b5b2f6b8b54c7c8810cbbd0091940",
+      "size": 129862
+    },
+    "data/geojson.day/american-revolution-2025-day-00083.geojson.gz": {
+      "sha256": "1dc61265c30fef9c6eadc72192ac8ef0c7015cc7c31cc98ab7ddb891fb95b418",
+      "size": 111643
+    },
+    "data/geojson.day/american-revolution-2025-day-00084.geojson.gz": {
+      "sha256": "9383b64096d8aa9272d612bf60db80da3c4e9fc0403eeb51e09c723b9ae5cf14",
+      "size": 136589
+    },
+    "data/geojson.day/american-revolution-2025-day-00085.geojson.gz": {
+      "sha256": "a3783b6057ed20a2b7a8e4d40dcf4cc839ab65d21a1139b09d7810e9ab7301f7",
+      "size": 126044
+    },
+    "data/geojson.day/american-revolution-2025-day-00086.geojson.gz": {
+      "sha256": "a4fe314d9eefa69e282ae307ef8650ad2c8efeb0c3a330ffc111a4112c7e0d3b",
+      "size": 133217
+    },
+    "data/geojson.day/american-revolution-2025-day-00087.geojson.gz": {
+      "sha256": "397c2916dba3e8299e5940d57053183e7045489b272ce1e6d01a56e6ab091b79",
+      "size": 123416
+    },
+    "data/geojson.day/american-revolution-2025-day-00088.geojson.gz": {
+      "sha256": "4171c0632f38710fc7537c83bad17a48a42b81a5b5849500fe4bc556ee06a2d6",
+      "size": 131776
+    },
+    "data/geojson.day/american-revolution-2025-day-00089.geojson.gz": {
+      "sha256": "c2be892a8f76c77574f1fc623a41cbeaa3b792055b86572f9595148682660c4a",
+      "size": 132084
+    },
+    "data/geojson.day/american-revolution-2025-day-00090.geojson.gz": {
+      "sha256": "3504e0c5c88d453648092b98b46d0a6cc84a1bcd0f3609c10953e59c6d7e6388",
+      "size": 132114
+    },
+    "data/geojson.day/american-revolution-2025-day-00091.geojson.gz": {
+      "sha256": "db699ee29a75f2d802a090e1fe2896d992d19193c5218c2f5ca5029316702d3b",
+      "size": 133362
+    },
+    "data/geojson.day/american-revolution-2025-day-00092.geojson.gz": {
+      "sha256": "81bcef57285b381149f74c6fe4e1eac15609a95a28e4f3109dd8978fd67ace25",
+      "size": 122487
+    },
+    "data/geojson.day/american-revolution-2025-day-00093.geojson.gz": {
+      "sha256": "ef0569f4d2f2178c9cd820bf9f8d0ab71852252cf0aa4fe2c806fc7e98d0a43a",
+      "size": 118351
+    },
+    "data/geojson.day/american-revolution-2025-day-00094.geojson.gz": {
+      "sha256": "bd70b0fc731bc311e483cb8762334dee3b44573301725ca0bae99acfb2f28ad4",
+      "size": 130065
+    },
+    "data/geojson.day/american-revolution-2025-day-00095.geojson.gz": {
+      "sha256": "c12281ddd5275016623e7aad5f83fbd168b25513277df8e5c6aec5798a4d974e",
+      "size": 136197
+    },
+    "data/geojson.day/american-revolution-2025-day-00096.geojson.gz": {
+      "sha256": "971488e9c3db3a7c8ddcd9c98e3657701c85ca109f1b9e36c7fac3be0dc22fcb",
+      "size": 129348
+    },
+    "data/geojson.day/american-revolution-2025-day-00097.geojson.gz": {
+      "sha256": "c70b97aacf88a51c547c8c7b47dcc650a7d7285dd96b44dc80cc79a4580b2d5f",
+      "size": 118830
+    },
+    "data/geojson.day/american-revolution-2025-day-00098.geojson.gz": {
+      "sha256": "72e59b6c2c6bdea4a7674edaea9a700f3c828f618b4588c350b928808cfc75c2",
+      "size": 133977
+    },
+    "data/geojson.day/american-revolution-2025-day-00099.geojson.gz": {
+      "sha256": "c58b7eff7c2f58fedfe1bf9c103f2318fd5c2b8d0b43c912ca7bcf9997d1dbe9",
+      "size": 138599
+    },
+    "data/geojson.day/american-revolution-2025-day-00100.geojson.gz": {
+      "sha256": "8d120ff5b1484350b133ff8a34681f2aeedfc43bfee45650859aebd5fdd69462",
+      "size": 137370
+    },
+    "data/geojson.day/american-revolution-2025-day-00101.geojson.gz": {
+      "sha256": "7e9aa782b74e5f87bea2347b218608089e74829f33ded453c9f565a11f9a8d55",
+      "size": 123752
+    },
+    "data/geojson.day/american-revolution-2025-day-00102.geojson.gz": {
+      "sha256": "6f1ff380d044607efb7f09f8cce91160e6953c797817b3da5b64e449838a9252",
+      "size": 117767
+    },
+    "data/geojson.day/american-revolution-2025-day-00103.geojson.gz": {
+      "sha256": "79c6bf235ee67bfaa668cb054cf3433b16371404b62a04db213f954f188f2ff2",
+      "size": 119538
+    },
+    "data/geojson.day/american-revolution-2025-day-00104.geojson.gz": {
+      "sha256": "f582819dea5a03d75fd2bd183023db28e282af2f6698f641a3416fe1515c8261",
+      "size": 118199
+    },
+    "data/geojson.day/american-revolution-2025-day-00105.geojson.gz": {
+      "sha256": "d8b940284983e061a350ec797c1b0016cf34c98223d9153e57f39ae99fd68a9b",
+      "size": 127210
+    },
+    "data/geojson.day/american-revolution-2025-day-00106.geojson.gz": {
+      "sha256": "78b63f5ec6b8af7475920d75b030c0b03fab7f1938d9fe8b443609d812e1d90e",
+      "size": 134677
+    },
+    "data/geojson.day/american-revolution-2025-day-00107.geojson.gz": {
+      "sha256": "17322282a8e05561a96e673f89bcef7747c50f7f3927303cfcebe853e06edf2d",
+      "size": 138725
+    },
+    "data/geojson.day/american-revolution-2025-day-00108.geojson.gz": {
+      "sha256": "07adf66f448d2d32ee86a0f0317ecf1a3ba2ba204e22bd50be559b63db84a2bd",
+      "size": 129012
+    },
+    "data/geojson.day/american-revolution-2025-day-00109.geojson.gz": {
+      "sha256": "54793ae88053ffd418e215ec0e9fe25487c370d23f912bc079e2999187f84c59",
+      "size": 115813
+    },
+    "data/geojson.day/american-revolution-2025-day-00110.geojson.gz": {
+      "sha256": "70e4f1c0edcdc4d2b8f809783eebf0cf4d59763fd83a7edeea583e393e3b0136",
+      "size": 95190
+    },
+    "data/geojson.day/american-revolution-2025-day-00111.geojson.gz": {
+      "sha256": "15488f296b7f7b9e92ccf2ef3607ccc69b83caf7feed7368b0e6527efb194f0a",
+      "size": 94454
+    },
+    "data/geojson.day/american-revolution-2025-day-00112.geojson.gz": {
+      "sha256": "ed9d2bbfcd6db6e62bb1b15322f2cd80242284e66c635d105710d38b65f5c0d6",
+      "size": 120367
+    },
+    "data/geojson.day/american-revolution-2025-day-00113.geojson.gz": {
+      "sha256": "8f627a2b54a43878990c89080a2d1255a399d9ced0f8e061f2ad00d8ada97f37",
+      "size": 110542
+    },
+    "data/geojson.day/american-revolution-2025-day-00114.geojson.gz": {
+      "sha256": "cc4619647d89eb072bb3015caf8c1bbc7287fc7fefa81d8288bc62e31dfd5adb",
+      "size": 123274
+    },
+    "data/geojson.day/american-revolution-2025-day-00115.geojson.gz": {
+      "sha256": "16df7e3306e3b28576a76466211377a13014d1a954ad68682ba910a352f260a4",
+      "size": 127819
+    },
+    "data/geojson.day/american-revolution-2025-day-00116.geojson.gz": {
+      "sha256": "308eabdf66e966fd4a37c55c519232833c9b5054d0b41e8c0020114f4f4554ac",
+      "size": 117103
+    },
+    "data/geojson.day/american-revolution-2025-day-00117.geojson.gz": {
+      "sha256": "a7938cf0e7d892148114a505dc24aec9c2d4045b097ccf6292fdd1641e080dca",
+      "size": 112658
+    },
+    "data/geojson.day/american-revolution-2025-day-00118.geojson.gz": {
+      "sha256": "5f2e3618fdf105968098ffb851e44c573460181ff4a0b709cc62215076fbcde3",
+      "size": 112671
+    },
+    "data/geojson.day/american-revolution-2025-day-00119.geojson.gz": {
+      "sha256": "d71eb86ab529cd546263b7b92e48a52db0e588323387352cd1864bbbc28da1cd",
+      "size": 109488
+    },
+    "data/geojson.day/american-revolution-2025-day-00120.geojson.gz": {
+      "sha256": "166b2cbbacb2e08c20077d8e3f78e588621f5a6031305ebd0f250e2ee690096d",
+      "size": 112596
+    },
+    "data/geojson.day/american-revolution-2025-day-00121.geojson.gz": {
+      "sha256": "f23d4a5ace5519d007fad5c574218ff0abd47fda6acafc5da89caeae2d705f43",
+      "size": 106472
+    },
+    "data/geojson.day/american-revolution-2025-day-00122.geojson.gz": {
+      "sha256": "0411b7f7141278b898be1821efb402a88c55266ce0154b3d4392b6162e153961",
+      "size": 112453
+    },
+    "data/geojson.day/american-revolution-2025-day-00123.geojson.gz": {
+      "sha256": "6159941e620cf1ea75f45b5f049608772ce970af49e79c7fbd8971d4e321290d",
+      "size": 113860
+    },
+    "data/geojson.day/american-revolution-2025-day-00124.geojson.gz": {
+      "sha256": "79201c19e00457baff45f82320afbe55d7b0b00a72d5ef3d3a4e6d9f800cf84d",
+      "size": 103178
+    },
+    "data/geojson.day/american-revolution-2025-day-00125.geojson.gz": {
+      "sha256": "61d417acf96659db04e7f18894689ced5ecd68d90f5b8ea087ca997283dac574",
+      "size": 103747
+    },
+    "data/geojson.day/american-revolution-2025-day-00126.geojson.gz": {
+      "sha256": "5b6a3ee816d9b640826c3cc8ddeb14988e44e82f8de72206ca344ec9971d032c",
+      "size": 121679
+    },
+    "data/geojson.day/american-revolution-2025-day-00127.geojson.gz": {
+      "sha256": "e6808d32dca27126d7b891d140ca70a429c77c99e10501c71d29d8d1b4915e14",
+      "size": 126578
+    },
+    "data/geojson.day/american-revolution-2025-day-00128.geojson.gz": {
+      "sha256": "eac6421ed8da84fb760d7358f3c8c2830d60b9680b5a30ddd33fe1433ab31682",
+      "size": 134635
+    },
+    "data/geojson.day/american-revolution-2025-day-00129.geojson.gz": {
+      "sha256": "430d8d69267f0c79224e9429f1b9a118d1a20c0510d62ef62553de893a5598dc",
+      "size": 132062
+    },
+    "data/geojson.day/american-revolution-2025-day-00130.geojson.gz": {
+      "sha256": "44d96ccbca428e2cf29a877246985e1ef77b543866448dd8d472d75702a126f4",
+      "size": 125659
+    },
+    "data/geojson.day/american-revolution-2025-day-00131.geojson.gz": {
+      "sha256": "a254c662b800cf7b0c4cb42cf41e1e6928332a195492cb1734d9a0c3119b30c8",
+      "size": 114080
+    },
+    "data/geojson.day/american-revolution-2025-day-00132.geojson.gz": {
+      "sha256": "a3fbc0d632b6b56e428f7d101c96258470199b851153dadd5808893a67a292ee",
+      "size": 105508
+    },
+    "data/geojson.day/american-revolution-2025-day-00133.geojson.gz": {
+      "sha256": "3722ecdbff9f28943f4b21488ed2dd652bba51945d0cda338ed6bdbb48eeb491",
+      "size": 110397
+    },
+    "data/geojson.day/american-revolution-2025-day-00134.geojson.gz": {
+      "sha256": "55d6bcb69027cebee68e7323861896de26b105dd07e04c7c093e3c714049a155",
+      "size": 116491
+    },
+    "data/geojson.day/american-revolution-2025-day-00135.geojson.gz": {
+      "sha256": "62d494756f99abffcded23ab6fdd63f80d032aa219de53ec4db5a81be262d61f",
+      "size": 115372
+    },
+    "data/geojson.day/american-revolution-2025-day-00136.geojson.gz": {
+      "sha256": "f14bb1dad7965035f9b8fc646c30af64def59a88eb4b83db6cb5243c913e35f9",
+      "size": 119394
+    },
+    "data/geojson.day/american-revolution-2025-day-00137.geojson.gz": {
+      "sha256": "f23551d78c4cb2c70fda5bf271c7723ee43cb105357ee610c426aaa5fda06233",
+      "size": 121498
+    },
+    "data/geojson.day/american-revolution-2025-day-00138.geojson.gz": {
+      "sha256": "113dbdf26f284ab3bb3081fd024c8d4ed8f8a6228197e798980ff6a7003d4637",
+      "size": 102630
+    },
+    "data/geojson.day/american-revolution-2025-day-00139.geojson.gz": {
+      "sha256": "e0018c944cbc9074d361f45e5f833501071ca775e19daec8e4a122aedb6413a0",
+      "size": 104820
+    },
+    "data/geojson.day/american-revolution-2025-day-00140.geojson.gz": {
+      "sha256": "e0a05bae0714d29c50fb48722342cb60af1682bf6f0616e96e21c9cb3fd0a845",
+      "size": 110517
+    },
+    "data/geojson.day/american-revolution-2025-day-00141.geojson.gz": {
+      "sha256": "562e13275bdf7f9d2931b66dcb3ef0a6c9a5d00d98d667b46faf6281582b31b0",
+      "size": 102553
+    },
+    "data/geojson.day/american-revolution-2025-day-00142.geojson.gz": {
+      "sha256": "be5892f044afc42c8820a2f9c1cb64edf5286a8271f6e3c4142dbe486f77e9e6",
+      "size": 113033
+    },
+    "data/geojson.day/american-revolution-2025-day-00143.geojson.gz": {
+      "sha256": "33af43c098b030ff846d1d9e15e097ea6d2ec05a3b4bac7f7e82107ac503d976",
+      "size": 114094
+    },
+    "data/geojson.day/american-revolution-2025-day-00144.geojson.gz": {
+      "sha256": "973e1730cd67fc27e3d7799fceaf3b0542a8e4ecf07fa05faedfe8a0c7aa06be",
+      "size": 117140
+    },
+    "data/geojson.day/american-revolution-2025-day-00145.geojson.gz": {
+      "sha256": "b3688ee169806e461debd4a38d5bf5f708f288104f2b83e44efbff2de2ec3d03",
+      "size": 106709
+    },
+    "data/geojson.day/american-revolution-2025-day-00146.geojson.gz": {
+      "sha256": "6bcdfddfa010c8fc84dbb24818abf91e7afcd82297d8987c4122c6a80ee3e685",
+      "size": 104762
+    },
+    "data/geojson.day/american-revolution-2025-day-00147.geojson.gz": {
+      "sha256": "794f9b7c70d09e879682fa880b4f031f19ecf4a7acbac1113c76f85a69ff9cde",
+      "size": 113955
+    },
+    "data/geojson.day/american-revolution-2025-day-00148.geojson.gz": {
+      "sha256": "d8250807c376420332c4f0d2252f2cceaffc365ffe2375084b7a467b2438332a",
+      "size": 112095
+    },
+    "data/geojson.day/american-revolution-2025-day-00149.geojson.gz": {
+      "sha256": "818a15b319b173e75edc0d53373b960112e432d76fa285c90f64b2fc3429819a",
+      "size": 114636
+    },
+    "data/geojson.day/american-revolution-2025-day-00150.geojson.gz": {
+      "sha256": "0fbe5a98656f584b30e149c4177fa166b67a1691e1631ac527d74cc216b8a39c",
+      "size": 112578
+    },
+    "data/geojson.day/american-revolution-2025-day-00151.geojson.gz": {
+      "sha256": "a2fa34c262c1901ab2a644c9eee66426514d86bc17b4c66b1c5eedc8c346a7c8",
+      "size": 121916
+    },
+    "data/geojson.day/american-revolution-2025-day-00152.geojson.gz": {
+      "sha256": "4c31eb5a0361c3f864107292a3d720170d2a59a368976d670dc376fada5e10bf",
+      "size": 116569
+    },
+    "data/geojson.day/american-revolution-2025-day-00153.geojson.gz": {
+      "sha256": "2b6bfced6fed798aea354c8343aa975e8bebd0885a50192079e1a15d7e39746a",
+      "size": 116880
+    },
+    "data/geojson.day/american-revolution-2025-day-00154.geojson.gz": {
+      "sha256": "28b84cee611826bff51f8ae6709d3fcb17a61a22032f8f63b50aa1fc00eae028",
+      "size": 136298
+    },
+    "data/geojson.day/american-revolution-2025-day-00155.geojson.gz": {
+      "sha256": "ce3914604151527b450df87f0f817c4115d04453fe8343c7e1a4df8302cca0fd",
+      "size": 125882
+    },
+    "data/geojson.day/american-revolution-2025-day-00156.geojson.gz": {
+      "sha256": "a511368560a34b9bbd1d734f5319b888f7ac41c178e5f88184a02461ce7efeef",
+      "size": 121921
+    },
+    "data/geojson.day/american-revolution-2025-day-00157.geojson.gz": {
+      "sha256": "8f9a920a8563caccdce95cd3af312ad4a087e959fb08992584059cf183ed72a2",
+      "size": 124366
+    },
+    "data/geojson.day/american-revolution-2025-day-00158.geojson.gz": {
+      "sha256": "babe77273b014dadb91d566d16d0a36a9e8e4f29b963de9a3e5236bdefb117d1",
+      "size": 113479
+    },
+    "data/geojson.day/american-revolution-2025-day-00159.geojson.gz": {
+      "sha256": "ecd7220eab4278405fe257fbb946825e667b621c5e50f31477d283738f051f7e",
+      "size": 108112
+    },
+    "data/geojson.day/american-revolution-2025-day-00160.geojson.gz": {
+      "sha256": "2e05e0334fb7478f128b7d0e7a23213db64d365b6cf1e7b307b779d402fb07ab",
+      "size": 112427
+    },
+    "data/geojson.day/american-revolution-2025-day-00161.geojson.gz": {
+      "sha256": "ba7ec4ff93c0deec96fa6a6baf2c2b67c26cee9109c6bef2a650d2ae19121202",
+      "size": 106557
+    },
+    "data/geojson.day/american-revolution-2025-day-00162.geojson.gz": {
+      "sha256": "e88c5be503ec73225509975a01aa2eb489773b174c2abda96d1ee96b4f2b66e8",
+      "size": 112414
+    },
+    "data/geojson.day/american-revolution-2025-day-00163.geojson.gz": {
+      "sha256": "3f093c5c7d8a1ea6e483821f44fd3e7a184a993e24244fcb670d7ba220af3940",
+      "size": 109354
+    },
+    "data/geojson.day/american-revolution-2025-day-00164.geojson.gz": {
+      "sha256": "a5c1bcff0cc3d4230ceb8262385edff9225824b05585f568f612da9ecdac7c5f",
+      "size": 117762
+    },
+    "data/geojson.day/american-revolution-2025-day-00165.geojson.gz": {
+      "sha256": "ebe6ec815e4be942454723c6985daa731739953d7981c83055ea3013624ae599",
+      "size": 108692
+    },
+    "data/geojson.day/american-revolution-2025-day-00166.geojson.gz": {
+      "sha256": "547b5e955811db66c5aecf1ca2af958427feb3fc5730611e26032fada2c25467",
+      "size": 106971
+    },
+    "data/geojson.day/american-revolution-2025-day-00167.geojson.gz": {
+      "sha256": "eab4c5fd6fb2303d8a6b463a6e77e7818ef4c84742847434a61153ea2bae4b84",
+      "size": 110200
+    },
+    "data/geojson.day/american-revolution-2025-day-00168.geojson.gz": {
+      "sha256": "4d2007e4087ac4c2a3882a7687058a74e29f1ff9ccf38a182f0585ba5800b08c",
+      "size": 98345
+    },
+    "data/geojson.day/american-revolution-2025-day-00169.geojson.gz": {
+      "sha256": "bef5a9857201275f55a5193b7891640ec65c59ece3330cb1c4e0f33ab13374c4",
+      "size": 101957
+    },
+    "data/geojson.day/american-revolution-2025-day-00170.geojson.gz": {
+      "sha256": "79089ed36ecc67221311aadf4a12462e8675fd23f188b51a4093415550d2bf2c",
+      "size": 107664
+    },
+    "data/geojson.day/american-revolution-2025-day-00171.geojson.gz": {
+      "sha256": "93cddb8aa39c3b9edcc89d202f298ad830d95b82460e5f1cb86230c5362b38fa",
+      "size": 109502
+    },
+    "data/geojson.day/american-revolution-2025-day-00172.geojson.gz": {
+      "sha256": "2bab0f99030bc0a0c6ae243c66fa9bc0980cfd648d282efb2964d670f34f6827",
+      "size": 112438
+    },
+    "data/geojson.day/american-revolution-2025-day-00173.geojson.gz": {
+      "sha256": "e06cfdcb07459071e81da2a53ecf0b4ea1df6dd100fc06856aa147d11fbe4f6c",
+      "size": 113136
+    },
+    "data/geojson.day/american-revolution-2025-day-00174.geojson.gz": {
+      "sha256": "500568a5172967b56f37a167c95189159235d6aa990d55acd5a7b74615c25ff8",
+      "size": 112236
+    },
+    "data/geojson.day/american-revolution-2025-day-00175.geojson.gz": {
+      "sha256": "b5c2152ba09646b669e71012c8030ac41a14a89b0ad934344e4a2c93c6ebece6",
+      "size": 106284
+    },
+    "data/geojson.day/american-revolution-2025-day-00176.geojson.gz": {
+      "sha256": "9078a51054bb6a9ce54b61824c95911602e3dc25f53a0bee78f9f2e40a692413",
+      "size": 102673
+    },
+    "data/geojson.day/american-revolution-2025-day-00177.geojson.gz": {
+      "sha256": "509378ceee7dd562421da8a4a74798d327e4594c2f3bbe6ac56e8f9eca95bb1d",
+      "size": 112997
+    },
+    "data/geojson.day/american-revolution-2025-day-00178.geojson.gz": {
+      "sha256": "c9818ac39092945ccb0d9df747301fbc902ea247705a38071862124a7dc27ed0",
+      "size": 115772
+    },
+    "data/geojson.day/american-revolution-2025-day-00179.geojson.gz": {
+      "sha256": "2af341e8ec084e3c13710cffa23c1c1352c347174e60af61bcd9ff53950ce21d",
+      "size": 130639
+    },
+    "data/geojson.day/american-revolution-2025-day-00180.geojson.gz": {
+      "sha256": "6ca3b1fa2bae14fd6dc6153c65e6e7a824d7dd6472e6741fa551bb8d5a84f9e3",
+      "size": 119415
+    },
+    "data/geojson.day/american-revolution-2025-day-00181.geojson.gz": {
+      "sha256": "08faa1969f42f241ab9195ef50e20cccf56b1a2df64c91def4fbfcecad18f27c",
+      "size": 120042
+    },
+    "data/geojson.day/american-revolution-2025-day-00182.geojson.gz": {
+      "sha256": "fad42ecbbaf8c60b3255de29f1e5b6bde191761fe4b35b859913f9985a267c81",
+      "size": 116302
+    },
+    "data/json/american-revolution-2025-swarm-day-00001-2025-11-18.json": {
+      "sha256": "bf39053e18b59cf62b171834591f70ddf7b1891392467d0dabb8006fbe0fda05",
+      "size": 462
+    },
+    "data/json/american-revolution-2025-swarm-day-00002-2025-11-19.json": {
+      "sha256": "e992085f31c304c167c2fa09838421b6bbe61deeebce6b71e8fe02675aa6604b",
+      "size": 462
+    },
+    "data/json/american-revolution-2025-swarm-day-00003-2025-11-20.json": {
+      "sha256": "9802020f61db2357d6c999f17a13639b505a388172df0557d2e382df1ff5ca46",
+      "size": 461
+    },
+    "data/json/american-revolution-2025-swarm-day-00004-2025-11-21.json": {
+      "sha256": "7933dd11038dc63edee4dbbdd432b1d030747150ec0f9fe2ce630923e59dec10",
+      "size": 461
+    },
+    "data/json/american-revolution-2025-swarm-day-00005-2025-11-22.json": {
+      "sha256": "f0124af73851765777e9062d07688867b74e3b548c8b1a89b910d2e801cd4585",
+      "size": 462
+    },
+    "data/json/american-revolution-2025-swarm-day-00006-2025-11-23.json": {
+      "sha256": "e740f12e6dc04a57097a30ffe363d038203353ad91238b61c523699e902e0970",
+      "size": 461
+    },
+    "data/json/american-revolution-2025-swarm-day-00007-2025-11-24.json": {
+      "sha256": "631156764d44f9e7aed91178b4ff23eff1fe6e2804d2523caf3ffcff07deea9e",
+      "size": 462
+    },
+    "data/json/american-revolution-2025-swarm-day-00008-2025-11-25.json": {
+      "sha256": "8317f0b77ae4facd2cc5f2615cafa6504f726d5fb7947347141793db0c6abb6e",
+      "size": 461
+    },
+    "data/json/american-revolution-2025-swarm-day-00009-2025-11-26.json": {
+      "sha256": "5d40a3e003dba8c262e6e20d342822f8141d3491bcfd825032208e0c5efc25da",
+      "size": 461
+    },
+    "data/json/american-revolution-2025-swarm-day-00010-2025-11-27.json": {
+      "sha256": "8d33da491c7e73dc306faefa35519dd44344f67ad6794ff809199b86256c1d98",
+      "size": 462
+    },
+    "data/json/american-revolution-2025-swarm-day-00011-2025-11-28.json": {
+      "sha256": "0a43ac286f6c8c4afc5912cb8754bfb952c290dfb2fda628c6ef24e453c78abf",
+      "size": 462
+    },
+    "data/json/american-revolution-2025-swarm-day-00012-2025-11-29.json": {
+      "sha256": "0a87a9c675657e75d56d2a74e319aa22fc8510e021411a80579e158f3c489fcd",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00013-2025-11-30.json": {
+      "sha256": "6a37eb94ae7688c1e2e564a030ba1a0e01653b932e82e4c58794d9a487623eb5",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00014-2025-12-01.json": {
+      "sha256": "ef4b25d12f8941edbcb323c7f8b3ba1c5b853f7f2609f2b3556493bc69378a85",
+      "size": 462
+    },
+    "data/json/american-revolution-2025-swarm-day-00015-2025-12-02.json": {
+      "sha256": "695e2dc527742f28be5c7c9e22d1ffa988cf811b641e8f1757da0505b083a6be",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00016-2025-12-03.json": {
+      "sha256": "7fb4ee7c5034fee37ef0b56d743a08cb607478557f18edf8c419258ff9948153",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00017-2025-12-04.json": {
+      "sha256": "75dbc3423be97f5e6ee632d8f96f28d35dbf82f7bf97b688ac354f81cb4679c0",
+      "size": 462
+    },
+    "data/json/american-revolution-2025-swarm-day-00018-2025-12-05.json": {
+      "sha256": "6b0eeaca50985842fd3dfde974cfefd36ecd2f6f298d9466cca4075f9a14ffb3",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00019-2025-12-06.json": {
+      "sha256": "f1ffbf7667e91c40f140f6817412ac24bf62119357466fca5a4eb3b43fbd2747",
+      "size": 462
+    },
+    "data/json/american-revolution-2025-swarm-day-00020-2025-12-07.json": {
+      "sha256": "3fd0189737c0016309efd0e2d21b67229d85e03bde368c988d8610509214af14",
+      "size": 462
+    },
+    "data/json/american-revolution-2025-swarm-day-00021-2025-12-08.json": {
+      "sha256": "4780d1cff6a960843610a8b2d83a42958541e3c679b23ca53e62b46209587299",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00022-2025-12-09.json": {
+      "sha256": "0cd2e52c41cbff60f7a63073a4169c777f1bb26439384373a1a37de3ed59b2a1",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00023-2025-12-10.json": {
+      "sha256": "cb2de308945172d0d098faae109c8e7416fddb3d9d171221e7b8414ead01d338",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00024-2025-12-11.json": {
+      "sha256": "b0b66c147fc578a5d3ce6ae45b684b175213c36f477fcf83a9041f0eb6724157",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00025-2025-12-12.json": {
+      "sha256": "70a6934719183447134055eee00b316c01ef26a2d82936a732bac066364f95e4",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00026-2025-12-13.json": {
+      "sha256": "0b2b99415de8dceb03a565d511ee880df8e1d595292ffaa5bdc145f3bc5c2cc6",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00027-2025-12-14.json": {
+      "sha256": "796b71ce5b96559eca9096750f7de4b7643c0553dfa036121d163bb758f7e1b5",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00028-2025-12-15.json": {
+      "sha256": "f616333e1c3d254958f3e54c0aa16ee7334140efd17fecdc1c52c8880719ffcd",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00029-2025-12-16.json": {
+      "sha256": "2ae259d10963b6971133c5f07928be31bc1837b6d1686acd0efa2cbcb173e5f8",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00030-2025-12-17.json": {
+      "sha256": "fd997f8831e071ebfe68940fb98b855d90fb414164e6b879a882a1e6e1ea4ebc",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00031-2025-12-18.json": {
+      "sha256": "3c349b33009aff6ae41958968c10676f89ddb062463ff0e11712d3d302b1343a",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00032-2025-12-19.json": {
+      "sha256": "016dfc6268d036963f79b6e7703064e1544fe646376494d31a50cdb70ea51e84",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00033-2025-12-20.json": {
+      "sha256": "823f6ecc4dd77eec9732f26131546a1fd4e4c583094cc13ec9cea632c7fd30d0",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00034-2025-12-21.json": {
+      "sha256": "f19fbd0289e40c8a8339d5d1e1f2ef7a69ae647ab67867269b0261913fcf5531",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00035-2025-12-22.json": {
+      "sha256": "bef21706bb074b10afef7fed0a26c214481e215343d3c26381e6db36632d3b7a",
+      "size": 462
+    },
+    "data/json/american-revolution-2025-swarm-day-00036-2025-12-23.json": {
+      "sha256": "9f823e56639a1719e394c16597021eb8f6900c25c14d73648116493af22bb740",
+      "size": 462
+    },
+    "data/json/american-revolution-2025-swarm-day-00037-2025-12-24.json": {
+      "sha256": "c88207647ff2db00a5828a95c8fd3142bfa4f3f73ab6ef7942f1221da3c289af",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00038-2025-12-25.json": {
+      "sha256": "2eca2a457f208f62bb307c2748fdae2d72476ce3658635e2ec01fb01b11e2159",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00039-2025-12-26.json": {
+      "sha256": "5e9e17e81f177298d811ca08fe2127334c9226a40ef089baaaf2a3dec5156a40",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00040-2025-12-27.json": {
+      "sha256": "c72a86fe5284d2433176624e24156e6f28c07b5a8c26dee5026571f44f0ad647",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00041-2025-12-28.json": {
+      "sha256": "674082a9a83cc7ac1363c477a1df8c0f1967b862926e26729de9af8fbf160b91",
+      "size": 462
+    },
+    "data/json/american-revolution-2025-swarm-day-00042-2025-12-29.json": {
+      "sha256": "e0cf932333be85c3aee753e4d197786ab8b4694d4b9a40a2794840ad9ee26bb9",
+      "size": 462
+    },
+    "data/json/american-revolution-2025-swarm-day-00043-2025-12-30.json": {
+      "sha256": "8756c27a133b545691b4adcdbc1c76038b36d55016af101c332980efe15e2333",
+      "size": 462
+    },
+    "data/json/american-revolution-2025-swarm-day-00044-2025-12-31.json": {
+      "sha256": "57bbf4882b22e27fa86f65db7c9c0296b918047a8bbb27dceaba16878b99d8a8",
+      "size": 462
+    },
+    "data/json/american-revolution-2025-swarm-day-00045-2026-01-01.json": {
+      "sha256": "f440c4b15ed910bafb6da9803cc35daadae1e6e6006e587e8258e3b01212226c",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00046-2026-01-02.json": {
+      "sha256": "50d16985dca67a1e44376caa7352f1e4191c801e5da807415bddfe869f3fcb84",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00047-2026-01-03.json": {
+      "sha256": "82109b2d4aef5a2f8cb6aff37b3e3c7d5f35213a1dc485dc9d39a4437287d55c",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00048-2026-01-04.json": {
+      "sha256": "c6724a60322d44928b0b5179261495ceae1c8a731c89734d0b3d6e5163ec707c",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00049-2026-01-05.json": {
+      "sha256": "6fbd51eff8e76c08c1b9bb0634614ab863128b580c26d35907fef25bac3c54e0",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00050-2026-01-06.json": {
+      "sha256": "c7e1f81aff4d70c7db626465e1fd7c9ad5b60b79d05a518b22fbc9599d47bfcd",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00051-2026-01-07.json": {
+      "sha256": "9ed8df8d7a114835a773b489f96953b33495421ac92331488d0e6ecb39defa44",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00052-2026-01-08.json": {
+      "sha256": "cff64d415c1fd785fbd1cf63502677a1b4331ee159be41d59b6eb2bedd11ae9a",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00053-2026-01-09.json": {
+      "sha256": "3d5e045257164e12ecfd250b2534c5119d77e5607ce35cba8a40019b7212615b",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00054-2026-01-10.json": {
+      "sha256": "a8c16c22f185f6f196dc5ac29ea07466506ed6e53aa65a1a4588cc3fe05fa149",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00055-2026-01-11.json": {
+      "sha256": "133c83aa072b3c5b42f4771e7ea005486f5e3fba9abbb58f01351aab74839a06",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00056-2026-01-12.json": {
+      "sha256": "de8c6a75deaec8b5762616c6e927a21ab5d81f6051a85bd0f1707ee45de2b993",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00057-2026-01-13.json": {
+      "sha256": "6a5cf4e37f25bea3c9b334d55f577d6cc62a22b76c463ca041697f560a416d01",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00058-2026-01-14.json": {
+      "sha256": "7eff44dd2690042b57d5118be64b34d62136294bfc9a3aabd9810f003a8fcbce",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00059-2026-01-15.json": {
+      "sha256": "f04b00fc5cc2d36a71d039e79062b3b3df180f44f339e474213be84ffb29bc57",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00060-2026-01-16.json": {
+      "sha256": "cf8f74bbc67b9417a85e2327fef411b2b7cd69b28cd8501445ea139393a35d63",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00061-2026-01-17.json": {
+      "sha256": "f6440c78021de08ef92482dc5cf3b566fdecd0ec8e9d226263baf5133c7183b9",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00062-2026-01-18.json": {
+      "sha256": "30b608f10247c092dddf9ebb9adfdccfc55bbeaa71a77d5c141600d94501abfc",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00063-2026-01-19.json": {
+      "sha256": "8d00c97b5e61da84819424897472179736f0441eae08415b4688e67d99980da6",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00064-2026-01-20.json": {
+      "sha256": "e88e39600d9407670a1758c688b3886a2418d5555046659b4d0a52ceb115a034",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00065-2026-01-21.json": {
+      "sha256": "50ceb1f690766d9f46e836b68ea401208693e3524a8e209d7c74239cf88ad0ee",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00066-2026-01-22.json": {
+      "sha256": "d35158b883a60d618ba19b796a9b02c6d90be2e2149c45c98364bacebf2da2ac",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00067-2026-01-23.json": {
+      "sha256": "7818a3b3b26f97b8f0b6f325f993855ec7a5d7d0d9d2f26b74fb157821ac9ea8",
+      "size": 462
+    },
+    "data/json/american-revolution-2025-swarm-day-00068-2026-01-24.json": {
+      "sha256": "a180d24fbc86ea6787c039f1395eba91b541827fedb306c09fe7a04894fbea54",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00069-2026-01-25.json": {
+      "sha256": "6959ef4c65768f5504a8ca32f922fedf69a99887f7397a7bd8558a2410199c68",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00070-2026-01-26.json": {
+      "sha256": "bb8570815f1567f23025760e7c935c685facfca5893f5dec13746b8b695976a3",
+      "size": 462
+    },
+    "data/json/american-revolution-2025-swarm-day-00071-2026-01-27.json": {
+      "sha256": "30ae0d206208798f87fb2d80c7807024a3dfd321bf8c7e9a20a74a9f47513585",
+      "size": 462
+    },
+    "data/json/american-revolution-2025-swarm-day-00072-2026-01-28.json": {
+      "sha256": "dc20b0a375719286e3b4a779ddaf4d2f18e777f40d9e806a6acaa85179818456",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00073-2026-01-29.json": {
+      "sha256": "4ed3f90c58f73f1d3f8ab5c249aa958fd85330469334da8415fbcb7ed6042c25",
+      "size": 462
+    },
+    "data/json/american-revolution-2025-swarm-day-00074-2026-01-30.json": {
+      "sha256": "9ddef69fe0cd2845e54aba46117444e00480c3af212f6c42ba91dfff4216fc85",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00075-2026-01-31.json": {
+      "sha256": "a8fb169a9c32889b0a8288ce817fd0844ab31dd79845c73f3de3dc8f554815d4",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00076-2026-02-01.json": {
+      "sha256": "b0655ebfc9b18319e793a659ebde8e02ced3fdb00e74799c83594b292208c8f0",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00077-2026-02-02.json": {
+      "sha256": "f3293cb168d2764baa79c24f5ae1e058bd5c769a5e520de84e93c5508804b3b3",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00078-2026-02-03.json": {
+      "sha256": "42d4d578257bc78be38821835cbc112145672198cc5eb9c2547167b8f9e30be0",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00079-2026-02-04.json": {
+      "sha256": "d5efd9d32c585055ab8a4508c6529d1d8ae7c93307192dc90ee479e834b71b8c",
+      "size": 462
+    },
+    "data/json/american-revolution-2025-swarm-day-00080-2026-02-05.json": {
+      "sha256": "3a3311769d34926557999219bd9a0f4c91cc4fe07f8730cfa5ad18503fb926dc",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00081-2026-02-06.json": {
+      "sha256": "da0d08110a367b57cb842232bcd37078413af045431ae5fcb382ea495d80e23e",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00082-2026-02-07.json": {
+      "sha256": "3a5f9d257e404aef4546e9aa5941108a69aa4ba9561e9741199e5bc0d751b1de",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00083-2026-02-08.json": {
+      "sha256": "be4b877f5f6285a64539a60b5107d96ca2fdaaf7dd36da31166b222c26aebbf4",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00084-2026-02-09.json": {
+      "sha256": "ffa350bd759b744e4fe07a1825ec6e925fb3f3a7a95b09e7f6be64504dc8dbd2",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00085-2026-02-10.json": {
+      "sha256": "aa0679ddfa53f5831f83380fa4c145d287ddd11718ff6de6c27bd3682ca2f817",
+      "size": 462
+    },
+    "data/json/american-revolution-2025-swarm-day-00086-2026-02-11.json": {
+      "sha256": "fad5c5dac420dd4af238005f72e74833bf3a7e7face8a138c99541abf2e2068e",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00087-2026-02-12.json": {
+      "sha256": "49627abb456a60a7f258a375da3a2005d27a8b0676066df63bd913a00c0d0db7",
+      "size": 462
+    },
+    "data/json/american-revolution-2025-swarm-day-00088-2026-02-13.json": {
+      "sha256": "8e1f5c85bd8932224f084ba26501adcbbc06e0c103fbd8efd1116cd3050bafec",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00089-2026-02-14.json": {
+      "sha256": "bf63c7dc48aa10620d4a3d09f9806691a9f866b4776eb4fe225452250b9a2788",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00090-2026-02-15.json": {
+      "sha256": "1cbe354008fc28def4475d12d6fd8a495bd33d607a73a28cb002188c18a875d1",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00091-2026-02-16.json": {
+      "sha256": "6c50f712b0fbdea6e7f32996515330269817af2bbf130fb87d05d4985ad50efc",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00092-2026-02-17.json": {
+      "sha256": "51682c2ce2362f533b0699894e146feb16b0365aa0fb22de1a4e9f9ca812353a",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00093-2026-02-18.json": {
+      "sha256": "881ff3ae540a81e94e991aaff71586a8309d70dbda1190a7baddf5e0033bdbb3",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00094-2026-02-19.json": {
+      "sha256": "a896df696d150440c2e08d4e6a7ed23d9cfff8fcdf549835ada93f2636291bf1",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00095-2026-02-20.json": {
+      "sha256": "cfb1ef509825edbf40370d211bae407f879bbf014d06b2bc949e83a3d19946ad",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00096-2026-02-21.json": {
+      "sha256": "5b61d9ed044edb3cba5ba919909a725f07b46e1d43f3dd1cf0b4a498f2a5cdde",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00097-2026-02-22.json": {
+      "sha256": "931a98a8fead38e6b71a35347cd2b35c9421c07e59f0cd7a1582e7a0785234ff",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00098-2026-02-23.json": {
+      "sha256": "990dd154dd2f93d1e2d242913845d1eaee2fee0d7b60866759aee25eb5fc789a",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00099-2026-02-24.json": {
+      "sha256": "ab8cfb6d6ec0b05b640b5b7bae7afcd38c71fbeeda4eb24e6bd4d4361dcf186a",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00100-2026-02-25.json": {
+      "sha256": "9eb81b91a0070a58d6a350eb13f7d325adacf759156b74e90512df82060f66a5",
+      "size": 464
+    },
+    "data/json/american-revolution-2025-swarm-day-00101-2026-02-26.json": {
+      "sha256": "d85988891e457d122bd493e7fc1c2798d7c89b44f15d5a332e8373959cb225df",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00102-2026-02-27.json": {
+      "sha256": "8cb5a426ccfd022e23f060a86658626f04c61a760e2ca9ce331d68952506d1c0",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00103-2026-02-28.json": {
+      "sha256": "fa28626d862bc2b4e54ab4f79db17eb83791e1e94f43d739472ba8d55900b1d9",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00104-2026-03-01.json": {
+      "sha256": "facebec7a3ddd2f96102e5e1097b5184d163afbc773441a4e4d06049e41411dd",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00105-2026-03-02.json": {
+      "sha256": "8058e3760c3a1cd1954596dd5c82863c20742c5006ae083cb393591f5d9b8756",
+      "size": 464
+    },
+    "data/json/american-revolution-2025-swarm-day-00106-2026-03-03.json": {
+      "sha256": "2531876daaea5f1093de18763689b2ef94a4603e5c023b423e09fc12a03d2f4c",
+      "size": 464
+    },
+    "data/json/american-revolution-2025-swarm-day-00107-2026-03-04.json": {
+      "sha256": "9aab05c67fa16ba8c74d959b620d2a869fc27891448a17dc723a256d196a0bc9",
+      "size": 464
+    },
+    "data/json/american-revolution-2025-swarm-day-00108-2026-03-05.json": {
+      "sha256": "02a669ed0dee7170d18e084a0dd635a2725c968af66e8f048a02ebef41b49452",
+      "size": 464
+    },
+    "data/json/american-revolution-2025-swarm-day-00109-2026-03-06.json": {
+      "sha256": "a2708cb33cfe32bffb1e7caa0aeb820141a1717eaafd3744113320d4a2e5bb2e",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00110-2026-03-07.json": {
+      "sha256": "1d0068a0d93a331625886a5dc943a6938b8cd35bf37c83d021b858e6aad9999b",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00111-2026-03-08.json": {
+      "sha256": "4bc9e79d4710d673e228b19d9b78b69537e37d56a5f386ff10312e7a2c2de15c",
+      "size": 464
+    },
+    "data/json/american-revolution-2025-swarm-day-00112-2026-03-09.json": {
+      "sha256": "0a126176c7786cb125a80596d5c62b3ba6da47453da3824d70b5b64c438dd9aa",
+      "size": 464
+    },
+    "data/json/american-revolution-2025-swarm-day-00113-2026-03-10.json": {
+      "sha256": "881bc1598868dcd3f92eca1d72fe2fd9f12e9d6ac274266f1d6a35ba608c5667",
+      "size": 464
+    },
+    "data/json/american-revolution-2025-swarm-day-00114-2026-03-11.json": {
+      "sha256": "09b877a64ea43548f56a3f3a8d0b12f3f8f7a2860a2d55d3b21c36ee03fc4afd",
+      "size": 464
+    },
+    "data/json/american-revolution-2025-swarm-day-00115-2026-03-12.json": {
+      "sha256": "19191f3e6b0456093e37ab84754a9680493498e63457c60a12e9eb75dd2c51ca",
+      "size": 464
+    },
+    "data/json/american-revolution-2025-swarm-day-00116-2026-03-13.json": {
+      "sha256": "3fc75276cc402e464cd46580289582240531cde23b4a99224785d8a6493b2370",
+      "size": 464
+    },
+    "data/json/american-revolution-2025-swarm-day-00117-2026-03-14.json": {
+      "sha256": "2ce6da8cd41e852aad01b8417d07b8f735b6c7b5b82d186b92019979d510a918",
+      "size": 464
+    },
+    "data/json/american-revolution-2025-swarm-day-00118-2026-03-15.json": {
+      "sha256": "489161f80d0a9914a72fefc8a70577031c642056bd889724fa0a5abd2d4596cc",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00119-2026-03-16.json": {
+      "sha256": "077c4402b2fec2dab338c0dfcbbdbdaefd7d96f37b8c43620edbeff87002338b",
+      "size": 464
+    },
+    "data/json/american-revolution-2025-swarm-day-00120-2026-03-17.json": {
+      "sha256": "1abe766e7ebfa068f86ec1f6084151e022098d90689597ecf0002a6c9afa7a7f",
+      "size": 464
+    },
+    "data/json/american-revolution-2025-swarm-day-00121-2026-03-18.json": {
+      "sha256": "e9835e1ddccdfb89a22875da420baaca6598f7a1c2e266c2664271dceb112410",
+      "size": 464
+    },
+    "data/json/american-revolution-2025-swarm-day-00122-2026-03-19.json": {
+      "sha256": "9920a8e96b87239c1e5cc1b28e1facb5d8c569956f88b0e3b67f33d1b580aebb",
+      "size": 464
+    },
+    "data/json/american-revolution-2025-swarm-day-00123-2026-03-20.json": {
+      "sha256": "bbb26200414bbf79219ecdcd7be89c8dea8a7808e528cac8277013561f811578",
+      "size": 464
+    },
+    "data/json/american-revolution-2025-swarm-day-00124-2026-03-21.json": {
+      "sha256": "92822f111060d03c7bfb96ecc7c4a627b57ac088544da36f4d31964d8204b6b1",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00125-2026-03-22.json": {
+      "sha256": "2668e27c0b6d12e69454af1b5f56d692b774433a3854efdf965d799e880c014e",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00126-2026-03-23.json": {
+      "sha256": "59ef87da1817df78695af8b822fdfd47da66244b6fdff37f99752a4b206fb989",
+      "size": 464
+    },
+    "data/json/american-revolution-2025-swarm-day-00127-2026-03-24.json": {
+      "sha256": "109b92ee7255d48670c4a2d09956a2c7a89b727b3e4534c3af33a41fedeb51bb",
+      "size": 464
+    },
+    "data/json/american-revolution-2025-swarm-day-00128-2026-03-25.json": {
+      "sha256": "99c18a3f51ec923d14789b3cd2d33d603d20e30cddfe0d0ea516e0fa5c75f933",
+      "size": 464
+    },
+    "data/json/american-revolution-2025-swarm-day-00129-2026-03-26.json": {
+      "sha256": "3215aa1346d10e0cfd04d626529a168a30e9c48f9d27db5a95a5b356fd5cba0a",
+      "size": 464
+    },
+    "data/json/american-revolution-2025-swarm-day-00130-2026-03-27.json": {
+      "sha256": "4697b4d5d210224172fda20034f1bd7330d9ce4914817488deb3a400a6089c95",
+      "size": 464
+    },
+    "data/json/american-revolution-2025-swarm-day-00131-2026-03-28.json": {
+      "sha256": "11cf18d92005f8a2c52477e94133d9bc25b5ff08b804c3bbe0e84fb94256909b",
+      "size": 464
+    },
+    "data/json/american-revolution-2025-swarm-day-00132-2026-03-29.json": {
+      "sha256": "d6a714fbd8d3c85535165a3291147ccf44f4d485b7c7e89410928ef5068c7103",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00133-2026-03-30.json": {
+      "sha256": "f4b2eab25bb21578caea17251e89e28de1b75ed9f99590ee5794c0f81e639f44",
+      "size": 464
+    },
+    "data/json/american-revolution-2025-swarm-day-00134-2026-03-31.json": {
+      "sha256": "bdad7b841ee1e425e9264cd733c943a807cadb1a269c62c21eea68c3d9a25fc2",
+      "size": 464
+    },
+    "data/json/american-revolution-2025-swarm-day-00135-2026-04-01.json": {
+      "sha256": "731ea5fa3140913714d2fdb28c47906b59c71ab4a9a292affd494f9ecb26c2d2",
+      "size": 464
+    },
+    "data/json/american-revolution-2025-swarm-day-00136-2026-04-02.json": {
+      "sha256": "f3a6ac9f45fe6ca466e5defda7fd78e9fed7d9b063cbbc6660aff6be7f9f27f7",
+      "size": 464
+    },
+    "data/json/american-revolution-2025-swarm-day-00137-2026-04-03.json": {
+      "sha256": "feb431b023b92cbbf8ade5bd73b3a11526d5a36866af0a96839eda2e0ce2a27a",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00138-2026-04-04.json": {
+      "sha256": "e651323c73b7066292601571975475f40b286b0751d8c0c47ccf880b8795bcbc",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00139-2026-04-05.json": {
+      "sha256": "525d1457129d11b37e8dc173ebba277f779f8149f802fcd267b17cd008fac25e",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00140-2026-04-06.json": {
+      "sha256": "dc4398dec74fa99205026ad65f2ce3722312648ced1a3529fa297a3aa1212d18",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00141-2026-04-07.json": {
+      "sha256": "eaa0c8772316e255f7b162397b839d524fe86afa43dd36ecfbe669a76680a2bb",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00142-2026-04-08.json": {
+      "sha256": "8f8c35acb8dc03f137d26655e45bcc237395fc3e585ef349b0a945958f01d990",
+      "size": 464
+    },
+    "data/json/american-revolution-2025-swarm-day-00143-2026-04-09.json": {
+      "sha256": "0879a16a3fe7d24497cf5227272a5600afc5a34adc2f425291d8b5fd0da2aff1",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00144-2026-04-10.json": {
+      "sha256": "4aa66208bf0205b7366b6813d73e63f30e49f05f11c2c44383fa24edaefd8766",
+      "size": 464
+    },
+    "data/json/american-revolution-2025-swarm-day-00145-2026-04-11.json": {
+      "sha256": "4adaaaf61908b217d9a1b6949d57ffcd9d435b9d812a5003f4c014fc3be17ac9",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00146-2026-04-12.json": {
+      "sha256": "70a1d03974f8d46b550cff3fa86b8b94120eea48ddf3b607b9d7dac749b34827",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00147-2026-04-13.json": {
+      "sha256": "bc0609cfe03467da9e20cfd3b2a6ad4320f25cb2687b3131ac6178bb34d1d5d3",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00148-2026-04-14.json": {
+      "sha256": "0174bafb0da3eb7515d53673f863e74508c6c311f129d91b19617aab6966bc77",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00149-2026-04-15.json": {
+      "sha256": "80a903a9b4fae02988465a65bb7c6cfdb4c2054dee062ee64be0cac6cdb81e2c",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00150-2026-04-16.json": {
+      "sha256": "ba4fb9c5e579d382f124fb0af34249893ad6de39a79fa9a49af15ba590f64fcd",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00151-2026-04-17.json": {
+      "sha256": "0742e8c720d5066934c4f9b7747061db5b899a14c0e8b07c20ed059ed52466e2",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00152-2026-04-18.json": {
+      "sha256": "cf8c610b8a0d175fde62705de4ba5f857cfd9952a65b8bbf6338f479acc31383",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00153-2026-04-19.json": {
+      "sha256": "dc60b6cadc067d64728466188aac1617b128100eece788d5c9d13cae21e02f06",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00154-2026-04-20.json": {
+      "sha256": "d0f00a6b835d8c150f5ddd0fa6105d5a7bd74021469fbf6078e6b5547e07cd35",
+      "size": 464
+    },
+    "data/json/american-revolution-2025-swarm-day-00155-2026-04-21.json": {
+      "sha256": "07beebb6e4c0ff806fe0c1580f7ddad5467653e15d30f2cad12cf81a78dc7014",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00156-2026-04-22.json": {
+      "sha256": "f3af9f817ebc2470eb0dce892ec758ebf9e1cc924071c85d9acd5921ed998914",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00157-2026-04-23.json": {
+      "sha256": "af4e2faf67695a40f40827d39c6ed53682ad5017c3cd2e313b41b9709629d108",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00158-2026-04-24.json": {
+      "sha256": "91b95b4383462683aa842d96e2af8aa2992218a33af7c2a43d68c268589e688e",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00159-2026-04-25.json": {
+      "sha256": "ea87fde7b2f30f6d1220885755d45a65f749331d98ba3063f0180145505b0d61",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00160-2026-04-26.json": {
+      "sha256": "9effa9feeef45ef7e05ec1faa66385628b2d518357661a997d235fc738f1f931",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00161-2026-04-27.json": {
+      "sha256": "fa6b2becf4fd99337ba799df7e6faf8abbf2abc5276aca766c4ea98c228cf890",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00162-2026-04-28.json": {
+      "sha256": "416285f2e3ba27e139f0789b0c3176ffe4744aa86ff667b7cb14c8c674b6ddbb",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00163-2026-04-29.json": {
+      "sha256": "cc0573a23715a25904dcd9806f1d0660f443d2361974a8b075ee38a45a169167",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00164-2026-04-30.json": {
+      "sha256": "1ef8f00c429e30159d8994f65841b5ad9033a558dfa7cdf46e28dedf6970c7ab",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00165-2026-05-01.json": {
+      "sha256": "e76ade16d8d9413051071c08182bfc84c6d1fb771bde77a3dc341f4a25a86c07",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00166-2026-05-02.json": {
+      "sha256": "14f83b6a288493b9ea83fcb4af37d664b5fcfa7267c15d3eb761fabd62bec8af",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00167-2026-05-03.json": {
+      "sha256": "ea6e6e69fa2a2406747c206025cfd8252253ac7830a6835e4f80835b1812d34c",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00168-2026-05-04.json": {
+      "sha256": "6f530b00d0b5baed7f7b5fc947ef8b585b17f03777b6d964d0af9ab2a4f238a9",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00169-2026-05-05.json": {
+      "sha256": "c4dd4651ca0541684f7daf8cf1519ae58f2a8c8e04a5de0a5c3a2adcbb8fac86",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00170-2026-05-06.json": {
+      "sha256": "e6fdbf532401891b9a95c6badc7b89d477195d779ccd103e658fc71c925ce917",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00171-2026-05-07.json": {
+      "sha256": "e4a2a2a35e3d9ffc23c19f311b31a8d615ab7eedf2fc5f6f5c73d9e6bb9d62c7",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00172-2026-05-08.json": {
+      "sha256": "8f868ee4d742d48769066a6c6cf19c8a57d1ba7686b20fa0bcf090355f41a96d",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00173-2026-05-09.json": {
+      "sha256": "ab74fefc87c42fe4e23f46a7f1f575f4fd74b734cc4ef25644ee696443192b95",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00174-2026-05-10.json": {
+      "sha256": "f09ccb655255feb4009e2f6f77304245fc17d1ad0e2270c1e8033d25d7c5d9ec",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00175-2026-05-11.json": {
+      "sha256": "327266312ee4ca1c1a49ac484a2b51109a3f19445706b2f30cffca8cfcc846e2",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00176-2026-05-12.json": {
+      "sha256": "271f22c758697b82ceec0a540f36c18d1f70a87ea6de9e4764ae95a4b76b01b5",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00177-2026-05-13.json": {
+      "sha256": "1e12cb70883626030485d8e80901eb2c94421b63f64d50ac0579de9bb4699415",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00178-2026-05-14.json": {
+      "sha256": "5fb5023f29da0a0df4024c76d6eb95c5adf213ce2d7fa485a1b0c785f75726fb",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00179-2026-05-15.json": {
+      "sha256": "b6d3339bdf971ff32443cf83c4a2dcc502eeed3243539294a822730aabd8c8e8",
+      "size": 464
+    },
+    "data/json/american-revolution-2025-swarm-day-00180-2026-05-16.json": {
+      "sha256": "012b10282485d4c917acb74e900514e717015e4951f3a1fad36bdb35f6704aef",
+      "size": 464
+    },
+    "data/json/american-revolution-2025-swarm-day-00181-2026-05-17.json": {
+      "sha256": "a74d4d2f307e7b4cd9907da7ec8b3a023cef7f5f60b537dd59e066e7e5850d4a",
+      "size": 463
+    },
+    "data/json/american-revolution-2025-swarm-day-00182-2026-05-18.json": {
+      "sha256": "a5f31cf92ac127f2e94194f283ce98827981b510d23c2957291138ce5dfbf8fe",
+      "size": 463
+    }
+  },
+  "schema": "alpha60-year-day-product-bundle/1",
+  "source_revisions": {
+    "aggregate_binary": {
+      "sha256": "80bdf6691c0ef6ed5fcc7fa3a6462748104e1935ce5b2a4df3861e11bb13195a",
+      "size": 38582648
+    },
+    "alpha60": "ee81b50bb9790eb0c52125cba38ea8787a1a140f",
+    "alpha60_data": "8faeae67a5d274d1fc00bffe9fc9318329163b20",
+    "day_product_contract": {
+      "sha256": "72cef2b39ed0d6c6f6120f86d21517dd8d4f76982935c36e8d290638c4a3a10b",
+      "size": 9267
+    },
+    "metadata": "fbeb53a0b523f937fae2f23d14689d8c5c84dd5a",
+    "package_script": {
+      "sha256": "79bb170e38712e3653cf3cd8b781ddddf293af5eb6a916b4cb881a67cab8cf97",
+      "size": 11299
+    }
+  },
+  "status": "pass"
+}
