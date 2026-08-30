@@ -1,0 +1,253 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt19381692",
+    "imdb_id": "tt19381692",
+    "revision": "fbeb53a0b523f937fae2f23d14689d8c5c84dd5a",
+    "wikidata_id": "Q115475569",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chief_of_War"
+  },
+  "coverage_sha256": "5999c87957eda5dbe7efb2adf2ffd971a492baeadf21a4c8dad06e1d6388fac1",
+  "generated_at": "2026-08-30T13:20:17.187419+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "aao-checksum-manifest": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/SHA256SUMS",
+      "sha256": "4a4818facd85b709f0321b0a6de31b4a3eff6f108f3b9354c75632926e6baa48",
+      "size": 266728
+    },
+    "aao-release": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/release.json",
+      "sha256": "3ce0984da2d12b0e3697e76c02608bd9d1a955ee3d00e0a7054bdd297b8f18c8",
+      "size": 1342
+    },
+    "aao-verification": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-aao-verification.json",
+      "sha256": "e01294ebce8e54b65e16ab83017fa5585efe6f7a0a0f1a5e0f734e08d8e223fd",
+      "size": 854
+    },
+    "archive-map": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-cache-archive-map.json",
+      "sha256": "8d4d506f23cd80f46baf010bd17509c916083e75eb8b43b052641138c3f308f1",
+      "size": 125170
+    },
+    "btiha-metadata-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/chief-of-war-107-cumulative-btiha-media-objects.json",
+      "sha256": "6b2c1a89a1bc9c44d27c12e0b6903970da70f4956ac249db6aaed239289b09b9",
+      "size": 667605
+    },
+    "canonical-metadata": {
+      "path": "/tmp/alpha60-swarm-metadata-2025/metadata/chief-of-war-107.json",
+      "sha256": "44edbbfaf9ea499bfba3109528a009c294d83b7e02dbe12b7461a3f7e6fbed22",
+      "size": 8562
+    },
+    "coverage-report": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-coverage-evidence/chief-of-war-107.md",
+      "sha256": "052f4ab8f639e075bff0422b22d6e2c0e598851968f7a0b8c06882353512b780",
+      "size": 742
+    },
+    "cumulative-aggregate-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.cumulative/chief-of-war-107-cumulative-aggregate.geojson.gz",
+      "sha256": "aff9c2b776b4a7526b6633a7bd49cd291acc32de09333a3233d74f9140e32b0f",
+      "size": 1198084
+    },
+    "cumulative-btiha-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.cumulative/chief-of-war-107-cumulative-btiha.geojson.gz",
+      "sha256": "392b4167920f72cf831803c4257f1fa3971381cdd3c7644ad2bb8a3356ccda49",
+      "size": 35084476
+    },
+    "cumulative-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/chief-of-war-107-cumulative.json",
+      "sha256": "820cab649e8ef98512f3da4ff1c0dbeaf9791eb94a3b3585a0352f42f098db29",
+      "size": 15734
+    },
+    "day-bundle-receipt": {
+      "path": "/tmp/year-2025-day-bundles/chief-of-war-107/receipt.json",
+      "sha256": "e8a575496612a27267f2466fb6ab0c3f77e55025cc2b9e29264f2f20a1059166",
+      "size": 40737
+    },
+    "ip-swarm-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/chief-of-war-107-cumulative-ip-swarm.json",
+      "sha256": "73f632c3ca2242cd5bed7b3f787da71298b74ea5560c778d2585a6b729baed70",
+      "size": 42385
+    },
+    "published-day-bundle-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-day-product-receipts/chief-of-war-107.json",
+      "sha256": "e8a575496612a27267f2466fb6ab0c3f77e55025cc2b9e29264f2f20a1059166",
+      "size": 40737
+    },
+    "week-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/chief-of-war-107-week.json",
+      "sha256": "83ef0a2ff8936f6d34724fa440ae553baa6758e62c20c8420aeebed17cc6db44",
+      "size": 2452010
+    }
+  },
+  "media_object": "chief-of-war-107",
+  "published_files": {
+    "data/csv/bytes/chief-of-war-107-cumulative-detail.2025-btiha-itemized-by-bytes.csv": "8db147331dc8026ffe9aaf7ffef09a8eb8014417344454bae29073b05acf4cf3",
+    "docs/itemized/chief-of-war-107-sample-cache-audit.md": "bdcfb016ccaeee9f7ec730f6f4c113caa9cc0b9e5ef42989da54dac13c388858",
+    "docs/itemized/figures/chief-of-war-107-carto-4k.webp": "a345e779600c8ce28069a8aa4089e0c4408f055c6595dd8bd4a1b947301e7ee1",
+    "docs/itemized/figures/chief-of-war-107-carto.png": "76daf4c4885658535eece4838a3ddfb691274c4750fa2509219cbe055743cc75",
+    "docs/itemized/figures/chief-of-war-107-cumulative-detail-btiha-itemized-by-bytes.svg": "f44d0fc04676fa28851770ed3f4a5b4a4ee3dfe9863de3c1d279e14cdfe4d31e",
+    "docs/itemized/figures/chief-of-war-107-data-ge-1080p-4k.webp": "13753194e0b0ea428b5ee92724af5ee48c3d4c943e5eb5442f2547476de89f62",
+    "docs/itemized/figures/chief-of-war-107-data-ge-1080p.webp": "dd0c783742a5ca4940741bc6361a728d7fb3eba4e6619452802be84e16d75a77",
+    "docs/itemized/figures/chief-of-war-107-data-lt-1080p-4k.webp": "c976a3a905c9b46f9fa279e6e10807cec1dc057d957f2f242ee70cb1a6cc249e",
+    "docs/itemized/figures/chief-of-war-107-data-lt-1080p.webp": "9be3e2d257dac4077d80e3ec5a0f02cf34c5315604fba80c629984dc20dd6021",
+    "docs/itemized/figures/chief-of-war-107-downloads-by-day-day.svg": "f59900a38b1fb1d920d59a3af45cefb32d7d6e1cbe52f81186164eaa9ef7628d",
+    "docs/itemized/figures/chief-of-war-107-downloads-by-week-chief-of-war-107-week.svg": "14e1d7618827fd3fc4ef28bd4653d81c3f2fc827f40ce41a3073358390925312",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-year-2025-render",
+      "revision": "c3fc4c8a7866bee5f6d5f26160c56b2cffb05cb1",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "b5732bc916a52afce45790bf7005569f9cdebbb759447c374ec08d1f5222ed12",
+      "size": 36994160
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.cumulative/chief-of-war-107-cumulative-btiha.geojson.gz",
+        "sha256": "392b4167920f72cf831803c4257f1fa3971381cdd3c7644ad2bb8a3356ccda49",
+        "size": 35084476
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/json/chief-of-war-107-cumulative-btiha-media-objects.json",
+        "sha256": "6b2c1a89a1bc9c44d27c12e0b6903970da70f4956ac249db6aaed239289b09b9",
+        "size": 667605
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/izzi",
+      "revision": "b988ee7fd690a74a696c27c9aadf40c204a4c780",
+      "untracked": false
+    },
+    "media_object": "chief-of-war-107",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60-results-2025/bin/a60-meta-collection.exe",
+      "sha256": "e71f9def936a6868d5282a5ff7dece07ade360eefa07abebde75434a927220f7",
+      "size": 8743680
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          61.0,
+          45.0,
+          35.0,
+          32.0,
+          32.0,
+          31.0,
+          28.0,
+          27.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Seoul",
+          "Moscow",
+          "Istanbul",
+          "Saint Petersburg",
+          "Nanjing",
+          "Shanghai",
+          "London",
+          "Hangzhou",
+          "Amsterdam",
+          "Lelystad"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          65.0,
+          47.0,
+          37.0,
+          31.0,
+          31.0,
+          30.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Seoul",
+          "Moscow",
+          "Istanbul",
+          "Saint Petersburg",
+          "Shanghai",
+          "Nanjing",
+          "London",
+          "Hangzhou",
+          "Amsterdam",
+          "Lelystad"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 21,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 35,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 15,
+        "y_tick_labels": 20
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "c3fc4c8a7866bee5f6d5f26160c56b2cffb05cb1",
+    "cartofreako": "fc58111b5bfa7667b12f6ade522ae5e566b464d1",
+    "izzi": "b988ee7fd690a74a696c27c9aadf40c204a4c780",
+    "metadata": "fbeb53a0b523f937fae2f23d14689d8c5c84dd5a",
+    "results_aao_adoption": "9cd9d91a6fbb560ac2a96beadf4c83b94daf6a88"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2025"
+}
