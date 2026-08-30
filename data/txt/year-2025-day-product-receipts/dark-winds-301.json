@@ -1,0 +1,1032 @@
+{
+  "archive": {
+    "path": "/home/bkoz/src/alpha60-xperiments/year-2025-archives/dark-winds-301.cache/cache.20250621.tar.xz",
+    "sha256": "88f8254943e9c09733e6fee27974c160c8a5975ee1b0c21b4ecf092c8c1a1296",
+    "size": 549007740
+  },
+  "authorization": {
+    "archive_mutated": false,
+    "excluded_member_classes": [
+      "hour",
+      "week",
+      "cumulative"
+    ],
+    "raw_samples_opened": false,
+    "scope": "read only streaming of per-torrent day records"
+  },
+  "collection_key": "dark-winds-301",
+  "day_cache_stream_contract": {
+    "authorization": {
+      "archive_mutated": false,
+      "excluded_member_classes": [
+        "hour",
+        "week",
+        "cumulative"
+      ],
+      "raw_samples_opened": false,
+      "scope": "read only streaming of per-torrent day records"
+    },
+    "available_day_products": 105,
+    "cache_members": 14316,
+    "collection_key": "dark-winds-301",
+    "first_date": "2025-03-09",
+    "first_index": 1,
+    "indices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "last_date": "2025-06-21",
+    "last_index": 105,
+    "missing_indices": [],
+    "sample_span_days": 105,
+    "schema": "alpha60-day-cache-stream-contract/1",
+    "sparse": false,
+    "status": "pass"
+  },
+  "day_product_contract": {
+    "collection_key": "dark-winds-301",
+    "day_products": 105,
+    "first_date": "2025-03-09",
+    "first_index": 1,
+    "geojson_data_version": "20260701",
+    "ip_geolocation_version": "6:1777968300",
+    "json_data_version": "2026-08-05",
+    "last_date": "2025-06-21",
+    "last_index": 105,
+    "schema": "alpha60-day-product-contract/1",
+    "sparse": false,
+    "status": "pass"
+  },
+  "publications": {
+    "data/geojson.day/dark-winds-301-day-00001.geojson.gz": {
+      "sha256": "9f8f81efed9ff967290affea0017611946525e8b6a5295e87584dea3d0cdb1e2",
+      "size": 29899
+    },
+    "data/geojson.day/dark-winds-301-day-00002.geojson.gz": {
+      "sha256": "a2cb10d47d5438848129962b70390133fc8d671ca0285045907a0375ce08d026",
+      "size": 55890
+    },
+    "data/geojson.day/dark-winds-301-day-00003.geojson.gz": {
+      "sha256": "8f13e83d7ba2d3a604836d629f27bdd224ffd4b9ed57406eb59da1049292f57f",
+      "size": 52031
+    },
+    "data/geojson.day/dark-winds-301-day-00004.geojson.gz": {
+      "sha256": "624931e39ccca2e789c1921a99d75ad9d133486d23558727b66b20ae08edd243",
+      "size": 84175
+    },
+    "data/geojson.day/dark-winds-301-day-00005.geojson.gz": {
+      "sha256": "fa30b1094397d3d4230395508a14ea3b64757c815d8af9244a6af5b556916de5",
+      "size": 84024
+    },
+    "data/geojson.day/dark-winds-301-day-00006.geojson.gz": {
+      "sha256": "0bc86c416181d0e37d3a549aa635a4ffbb95dbd9d91c7908da0fb2bff4cb0ddc",
+      "size": 99185
+    },
+    "data/geojson.day/dark-winds-301-day-00007.geojson.gz": {
+      "sha256": "a9c3c71aa26930f07f6dace578d913c014122d206f8208d2b2f6fe73eda6c038",
+      "size": 86440
+    },
+    "data/geojson.day/dark-winds-301-day-00008.geojson.gz": {
+      "sha256": "c95234e0e5763c5cbd9c068ae4012a933e02d42be8dd7566b793b69d7f1bfc03",
+      "size": 88850
+    },
+    "data/geojson.day/dark-winds-301-day-00009.geojson.gz": {
+      "sha256": "915b0fa915796ef8e54bfb310d7b713a7ac87dae1e336acfec986acef9d1d46e",
+      "size": 120396
+    },
+    "data/geojson.day/dark-winds-301-day-00010.geojson.gz": {
+      "sha256": "373cc0ba2c41af4ae2f4950d71294716f2c5066a323d29736b60b60761ede592",
+      "size": 135768
+    },
+    "data/geojson.day/dark-winds-301-day-00011.geojson.gz": {
+      "sha256": "d1819575c66eb24297a11fc0b19ecf7bf6592866e9b14912e2d0652872512ee4",
+      "size": 134656
+    },
+    "data/geojson.day/dark-winds-301-day-00012.geojson.gz": {
+      "sha256": "c4b1f69f75a3118c7a2c3ea6db80089bb9cd530c4cda7b9e507951de5f60ea48",
+      "size": 132321
+    },
+    "data/geojson.day/dark-winds-301-day-00013.geojson.gz": {
+      "sha256": "f7ba5bd7fab249edc768328671c538f902e964aa83e8afc45261eded168ff1dc",
+      "size": 136884
+    },
+    "data/geojson.day/dark-winds-301-day-00014.geojson.gz": {
+      "sha256": "82600a28d41ee308248fe227aa3a4a17cd173f5be1b00c204d79838ee14a559d",
+      "size": 140758
+    },
+    "data/geojson.day/dark-winds-301-day-00015.geojson.gz": {
+      "sha256": "45bfa72263eded77c1234bdd65bbb5988c6621005f1cd030a84d9e00b8c1dae9",
+      "size": 136744
+    },
+    "data/geojson.day/dark-winds-301-day-00016.geojson.gz": {
+      "sha256": "aa7f4471123e79665ae29f60d0294360b9c0be69bb28810c052bee25de112fa9",
+      "size": 185584
+    },
+    "data/geojson.day/dark-winds-301-day-00017.geojson.gz": {
+      "sha256": "4e616bcbb943dd5db872be5ac8c8e367ae0b9e2a60550e3dfa3953eeaa3fa3ba",
+      "size": 166852
+    },
+    "data/geojson.day/dark-winds-301-day-00018.geojson.gz": {
+      "sha256": "7b5618f4994ba9a37ad7e0a097cbea6b95fee3e117296a874a232770c12aac2e",
+      "size": 140195
+    },
+    "data/geojson.day/dark-winds-301-day-00019.geojson.gz": {
+      "sha256": "2b03fe0d50fb854e6fa78a02f827fcdda527b3fee6fab28a7f63134db7808631",
+      "size": 148352
+    },
+    "data/geojson.day/dark-winds-301-day-00020.geojson.gz": {
+      "sha256": "8a27ab5fda46af85fcf20c5c0e9ed12e2bc56125c48165d2518c8561a274e815",
+      "size": 146245
+    },
+    "data/geojson.day/dark-winds-301-day-00021.geojson.gz": {
+      "sha256": "7bd91119c2082ed270d54affeb41de06076becda36f7309be186369dbc9ebfdf",
+      "size": 134395
+    },
+    "data/geojson.day/dark-winds-301-day-00022.geojson.gz": {
+      "sha256": "e1f6b4501843c426c7d55af11fc3fe02b1c8a2243fe2cb939a375e6013a40cd6",
+      "size": 147664
+    },
+    "data/geojson.day/dark-winds-301-day-00023.geojson.gz": {
+      "sha256": "23765fc21a2842a9d5bcb16a6c60b9f1ebdb9837fc02990993ec6ff058da3303",
+      "size": 186447
+    },
+    "data/geojson.day/dark-winds-301-day-00024.geojson.gz": {
+      "sha256": "c2623505a40b0ad89892801f7ef30c77acfbfd858cf5e5faff20732a1b5f8133",
+      "size": 191856
+    },
+    "data/geojson.day/dark-winds-301-day-00025.geojson.gz": {
+      "sha256": "dd7a2eb6365f6a946a3c580e2610467ec2b2e53a05f6b6891af93956b76eecf7",
+      "size": 186641
+    },
+    "data/geojson.day/dark-winds-301-day-00026.geojson.gz": {
+      "sha256": "9feaa193ee9214c9d7869075234282c370b692908b060fb1caae74082a47f75d",
+      "size": 180005
+    },
+    "data/geojson.day/dark-winds-301-day-00027.geojson.gz": {
+      "sha256": "f2be4514b7b0b8f4d1ab3e6e77e5f56112633eb163b8311c1f5239766ae2923b",
+      "size": 158708
+    },
+    "data/geojson.day/dark-winds-301-day-00028.geojson.gz": {
+      "sha256": "dd8d7c9c7c84a0a08c4e4b56964ce76607608c39645b524ac1b45f7baa5054b8",
+      "size": 133051
+    },
+    "data/geojson.day/dark-winds-301-day-00029.geojson.gz": {
+      "sha256": "aa5a0aaf0aaf209c5f6bc6f0c84130718b62dbef3dd8e729ffab311465e3d0b1",
+      "size": 148552
+    },
+    "data/geojson.day/dark-winds-301-day-00030.geojson.gz": {
+      "sha256": "4c9755ed133b5273a0c80ca7daaeee9d76dc8cca92ad3f4b21a5a28981d271c9",
+      "size": 176703
+    },
+    "data/geojson.day/dark-winds-301-day-00031.geojson.gz": {
+      "sha256": "d243cc73e04ecc2bd0fead0e8fd393b7a1470fb06c2c36e91345514f8c15aa9c",
+      "size": 157687
+    },
+    "data/geojson.day/dark-winds-301-day-00032.geojson.gz": {
+      "sha256": "446f3c8e3f78714efce39ec37a036efbd95407cd4e57640da3341f15feb65340",
+      "size": 178731
+    },
+    "data/geojson.day/dark-winds-301-day-00033.geojson.gz": {
+      "sha256": "d1d0f286e8d1d1e5e507ebdcc827bf934209eda05cde367a4c6bfba815af64a1",
+      "size": 182718
+    },
+    "data/geojson.day/dark-winds-301-day-00034.geojson.gz": {
+      "sha256": "768dc9d9c8e9bdab0c52c0b86c246435328784aecf5ff64badec52c2b68b0ac4",
+      "size": 177447
+    },
+    "data/geojson.day/dark-winds-301-day-00035.geojson.gz": {
+      "sha256": "bd860404ef30843451f5967c0be1aa67a0a86554968a4cdc904afc1a5d21ed58",
+      "size": 167004
+    },
+    "data/geojson.day/dark-winds-301-day-00036.geojson.gz": {
+      "sha256": "5580b504704c0edcc934de432579cd7541d5129d8834c7d6e245258300657e28",
+      "size": 160691
+    },
+    "data/geojson.day/dark-winds-301-day-00037.geojson.gz": {
+      "sha256": "7903bdd8302317de45c53fad4c52e73cf07d6fcf7254891306c8b21b4aaf3c32",
+      "size": 185267
+    },
+    "data/geojson.day/dark-winds-301-day-00038.geojson.gz": {
+      "sha256": "374b21f917e6eac29c371b6d5f1701a8ce9f23fc37e558c22a306b93a3974a08",
+      "size": 171450
+    },
+    "data/geojson.day/dark-winds-301-day-00039.geojson.gz": {
+      "sha256": "affbc7feb07f1a26992a39bf14ced3b590c4b9bee8dd8d1e81b15909436861eb",
+      "size": 151089
+    },
+    "data/geojson.day/dark-winds-301-day-00040.geojson.gz": {
+      "sha256": "3d012522774195d99639b16f8e63f618ad1a4ac7b43dfec48f44f3b482dee0e9",
+      "size": 132069
+    },
+    "data/geojson.day/dark-winds-301-day-00041.geojson.gz": {
+      "sha256": "a772e3698815bbd83c09fd1c248f6e781de8beee091ca2a68f39f149a5732717",
+      "size": 135707
+    },
+    "data/geojson.day/dark-winds-301-day-00042.geojson.gz": {
+      "sha256": "535165147fb7d3610ebaccf61131e3292549ad65418f674625ea89cb49458f7e",
+      "size": 148250
+    },
+    "data/geojson.day/dark-winds-301-day-00043.geojson.gz": {
+      "sha256": "14624610cd6470ee83193b22e635c0b71b79030be5529055e2c208a9c800b914",
+      "size": 153110
+    },
+    "data/geojson.day/dark-winds-301-day-00044.geojson.gz": {
+      "sha256": "6ea653f9ecb4944dad8cbfbf5ffdd8f5b95b9b213323f8ca1f548e57c94cf44f",
+      "size": 173646
+    },
+    "data/geojson.day/dark-winds-301-day-00045.geojson.gz": {
+      "sha256": "e736affcd65aa78d8cd7992bc1fa83773f326e2ec55c283682e15da735bda1c1",
+      "size": 169469
+    },
+    "data/geojson.day/dark-winds-301-day-00046.geojson.gz": {
+      "sha256": "b177c20ad6503fdd8f7473782fde0a9b39a1ac13d40dff9747cc39910bd603dc",
+      "size": 171084
+    },
+    "data/geojson.day/dark-winds-301-day-00047.geojson.gz": {
+      "sha256": "ebc32862b33173662e6f240c46cef6e03d9b07c75a49d23aa5d20dbe8a7959a8",
+      "size": 162507
+    },
+    "data/geojson.day/dark-winds-301-day-00048.geojson.gz": {
+      "sha256": "3f45e81a98d5c86a19318785d7299b998a1937d5ee222fb553842a59e1f608ed",
+      "size": 157294
+    },
+    "data/geojson.day/dark-winds-301-day-00049.geojson.gz": {
+      "sha256": "b6fee592a43b54ad460e6585c177484724ab255c69249f7ed67ba3ce9ada4a84",
+      "size": 154850
+    },
+    "data/geojson.day/dark-winds-301-day-00050.geojson.gz": {
+      "sha256": "c225b898b959796f4127a6c715acc0b28d6f0da4840ee89d7e5155f14d87b581",
+      "size": 162876
+    },
+    "data/geojson.day/dark-winds-301-day-00051.geojson.gz": {
+      "sha256": "ca626f3a20b0d23c316b72e67e0a72c3068b58848a1a918c23d05cfb221b52c8",
+      "size": 196069
+    },
+    "data/geojson.day/dark-winds-301-day-00052.geojson.gz": {
+      "sha256": "2f7ce26e2e89ef5af2662de13ed8bf08d2a5c9dbf6757ae98ef1929a91fe84e1",
+      "size": 197239
+    },
+    "data/geojson.day/dark-winds-301-day-00053.geojson.gz": {
+      "sha256": "7793fe33086eb115b445121c2c30db140f089d36ecfff21c31704aa288430ee0",
+      "size": 165906
+    },
+    "data/geojson.day/dark-winds-301-day-00054.geojson.gz": {
+      "sha256": "e7e01f353962df2cf48c16cabdfd790cc38dc9affc84da10ed07d25d466f1e7f",
+      "size": 153436
+    },
+    "data/geojson.day/dark-winds-301-day-00055.geojson.gz": {
+      "sha256": "07a2bb24e134d804a09dcb568e3a650895b179716ac53d4bc15c04f085b7d27e",
+      "size": 161704
+    },
+    "data/geojson.day/dark-winds-301-day-00056.geojson.gz": {
+      "sha256": "6176dadc8dc3d6508fdc8356c5cf0f7d470ef1688dedc34df15df33321f7acd6",
+      "size": 161106
+    },
+    "data/geojson.day/dark-winds-301-day-00057.geojson.gz": {
+      "sha256": "3c5dd29003ada762815b2768fc6448dc58953f042137f03971bfcefeb186c91f",
+      "size": 163084
+    },
+    "data/geojson.day/dark-winds-301-day-00058.geojson.gz": {
+      "sha256": "d26ff48bdceb7838739be2d164ebb93707de8fec0d6871578632a3a83974db60",
+      "size": 186314
+    },
+    "data/geojson.day/dark-winds-301-day-00059.geojson.gz": {
+      "sha256": "de7f1815287c92a3dfa671b7066abafbd98662e15605696455e76450dd5ec26e",
+      "size": 170101
+    },
+    "data/geojson.day/dark-winds-301-day-00060.geojson.gz": {
+      "sha256": "79877eff901d7174877ff07fc0c7a9b475711b684fc60aa556f6a0f352f0308c",
+      "size": 184873
+    },
+    "data/geojson.day/dark-winds-301-day-00061.geojson.gz": {
+      "sha256": "39067ba68d16f3379509feaaa6801d879088facce43dd80117c233c748b3aa13",
+      "size": 164371
+    },
+    "data/geojson.day/dark-winds-301-day-00062.geojson.gz": {
+      "sha256": "01d2c26d71ec08e699f1efe7863c3768f4bc10d51391f02859f323a0988ab064",
+      "size": 163309
+    },
+    "data/geojson.day/dark-winds-301-day-00063.geojson.gz": {
+      "sha256": "470da39688cb44fc6b3aabd9c2d02080ff66dbe39fcfec6364caf6e84342fb66",
+      "size": 145362
+    },
+    "data/geojson.day/dark-winds-301-day-00064.geojson.gz": {
+      "sha256": "3ea630a81e5ca42746057bac2ff8c18219642fe8392bd1a768813be5f33f3684",
+      "size": 162200
+    },
+    "data/geojson.day/dark-winds-301-day-00065.geojson.gz": {
+      "sha256": "7f63a27a12fec6f8bd32fd3d8c2095b9dd84beff73a4b56e4b89978e19d6b184",
+      "size": 186357
+    },
+    "data/geojson.day/dark-winds-301-day-00066.geojson.gz": {
+      "sha256": "51fdb872bb6d3970a2575e45a17096c154968fe730f78ca94177000697b9c606",
+      "size": 172179
+    },
+    "data/geojson.day/dark-winds-301-day-00067.geojson.gz": {
+      "sha256": "861333c566fc0a43b60a288b5447f35304cf2db9d746458e9e21eb7210d0910c",
+      "size": 178855
+    },
+    "data/geojson.day/dark-winds-301-day-00068.geojson.gz": {
+      "sha256": "9331536133aa15b208171f9ebada3cce981bb776682431674d36ab2bde329cd5",
+      "size": 193788
+    },
+    "data/geojson.day/dark-winds-301-day-00069.geojson.gz": {
+      "sha256": "adfdf576b9deab43b2761b27f809df7d301c81262c09dccf0bdbb86b6580e62f",
+      "size": 172746
+    },
+    "data/geojson.day/dark-winds-301-day-00070.geojson.gz": {
+      "sha256": "2aa5d2688b76209d09208f24fe42fc864984d19434c66be8e79c6bdbf1c7aeb8",
+      "size": 171046
+    },
+    "data/geojson.day/dark-winds-301-day-00071.geojson.gz": {
+      "sha256": "4cbe1a51e07d89e244828e36efc0d0a3b7c43f5911a599fe230144b0692ac2a4",
+      "size": 157694
+    },
+    "data/geojson.day/dark-winds-301-day-00072.geojson.gz": {
+      "sha256": "3c7ed174a11e2144d6e73a2b0e925a088344552b1771c944273aca7f263a0821",
+      "size": 169201
+    },
+    "data/geojson.day/dark-winds-301-day-00073.geojson.gz": {
+      "sha256": "2400ef40e10d0f44a98d24c13b7acc5e32532f1fd08a7f61298dd03c576bc5c4",
+      "size": 160779
+    },
+    "data/geojson.day/dark-winds-301-day-00074.geojson.gz": {
+      "sha256": "721281fa604275c0b89ee8e109214f07ec081a2a230e4459aafec76491a5df02",
+      "size": 147795
+    },
+    "data/geojson.day/dark-winds-301-day-00075.geojson.gz": {
+      "sha256": "b541b1b0a4b04cbb6d0b1430e1c4674e896f3874f651ef5752b95690feb5a97d",
+      "size": 165451
+    },
+    "data/geojson.day/dark-winds-301-day-00076.geojson.gz": {
+      "sha256": "9b8f369993255055fc2bf25bbc1104427e00cb34fdfa682a131e088aa3c1d8ae",
+      "size": 136465
+    },
+    "data/geojson.day/dark-winds-301-day-00077.geojson.gz": {
+      "sha256": "4e80cb66788f9de57353cfb54b7adc567debc66779e9df3a9ea8633269f87a63",
+      "size": 143982
+    },
+    "data/geojson.day/dark-winds-301-day-00078.geojson.gz": {
+      "sha256": "e39eafb6f31766977a12554dcb3abf8324478363c4c63ed6e0dcafbdc89cef4e",
+      "size": 145964
+    },
+    "data/geojson.day/dark-winds-301-day-00079.geojson.gz": {
+      "sha256": "dc476b5e999dc845a52f27150ca5124314dd4f05a03ef75646287b5326946104",
+      "size": 157008
+    },
+    "data/geojson.day/dark-winds-301-day-00080.geojson.gz": {
+      "sha256": "79040e813c52c33b70cc0b4a2266f9456f549c4a78189582952fda2248d88d1d",
+      "size": 152577
+    },
+    "data/geojson.day/dark-winds-301-day-00081.geojson.gz": {
+      "sha256": "e2a79b5dceaf82e5a0769224485d49baf531cdb32136b9afdbe8eeff4a9121a8",
+      "size": 154051
+    },
+    "data/geojson.day/dark-winds-301-day-00082.geojson.gz": {
+      "sha256": "34ca54d348097d70c2f6f8c325b2ebbd311c510ead2566df3022ffd9eff1e013",
+      "size": 137956
+    },
+    "data/geojson.day/dark-winds-301-day-00083.geojson.gz": {
+      "sha256": "04703690d7a4e94af2f7e8307fbed29a2262ea71beca9ab01d4574f45f8952ec",
+      "size": 129965
+    },
+    "data/geojson.day/dark-winds-301-day-00084.geojson.gz": {
+      "sha256": "eb0888dd35ebfabaa3b2c00e317367b864874be013adb1aa8f196168897e45a1",
+      "size": 133944
+    },
+    "data/geojson.day/dark-winds-301-day-00085.geojson.gz": {
+      "sha256": "9c7623fc8ffdb1511fad1601decfb935481c3a9001f9c29de3920234f59f9ab3",
+      "size": 148728
+    },
+    "data/geojson.day/dark-winds-301-day-00086.geojson.gz": {
+      "sha256": "8c08bbe53f28246561e6483901066d500febccd983b77080a05d006d3ec37f87",
+      "size": 165323
+    },
+    "data/geojson.day/dark-winds-301-day-00087.geojson.gz": {
+      "sha256": "a77e6d7aa6dcb3f950417a229d7b90f9402ab22a1e7fe9f746619d31f2f603bb",
+      "size": 171790
+    },
+    "data/geojson.day/dark-winds-301-day-00088.geojson.gz": {
+      "sha256": "241a8256ee282a9ed69de716ba6045ca148dfe5e14f18466598a3b1ddb4aecf3",
+      "size": 169612
+    },
+    "data/geojson.day/dark-winds-301-day-00089.geojson.gz": {
+      "sha256": "b2f2991ea29119ed948a8e40cbe7c654e7ef5fa0188a1079f8ddfc7a8067401e",
+      "size": 179685
+    },
+    "data/geojson.day/dark-winds-301-day-00090.geojson.gz": {
+      "sha256": "6b3ff12636828f95b715dac4f2e79e27837563ee37ab564bab84f75013f263f6",
+      "size": 169710
+    },
+    "data/geojson.day/dark-winds-301-day-00091.geojson.gz": {
+      "sha256": "b01c9bfc7b0a99d839a2d2b9210e2b14e63a95b90aaff0031774b75bc767120e",
+      "size": 156463
+    },
+    "data/geojson.day/dark-winds-301-day-00092.geojson.gz": {
+      "sha256": "b04dadea53027e01c19d65ba65b8d8355e569ecf9fa92d317c163143cb524b3a",
+      "size": 155134
+    },
+    "data/geojson.day/dark-winds-301-day-00093.geojson.gz": {
+      "sha256": "bfce0d2b14ab64e893072c9b08988ce3445461d952325bb629e387968ece75d8",
+      "size": 165011
+    },
+    "data/geojson.day/dark-winds-301-day-00094.geojson.gz": {
+      "sha256": "1df3c32ecbbcdb81ff5b3fab5f82afd08a63a695675dc4d805951845ee59c35b",
+      "size": 168505
+    },
+    "data/geojson.day/dark-winds-301-day-00095.geojson.gz": {
+      "sha256": "80cd870a4cbd15a12d852012c741e57bcc2855c6bfb81debb9e00ae59bf0d759",
+      "size": 163735
+    },
+    "data/geojson.day/dark-winds-301-day-00096.geojson.gz": {
+      "sha256": "b4dc1fd0fb8bb5d77440670b34df3cca82a48fc10c8d4c4fc590387753e8cce5",
+      "size": 152794
+    },
+    "data/geojson.day/dark-winds-301-day-00097.geojson.gz": {
+      "sha256": "f1bd9ddddb11b661204f4d06a6d86540f6ff01f19da7f20b7b39ef80bfad9765",
+      "size": 139715
+    },
+    "data/geojson.day/dark-winds-301-day-00098.geojson.gz": {
+      "sha256": "23670814a28cbdf641682fffdea8ef69162107cc7781c0dac7ab398c8469b667",
+      "size": 161358
+    },
+    "data/geojson.day/dark-winds-301-day-00099.geojson.gz": {
+      "sha256": "c4c13515c54e3a6921443819dacb7bd9bdc0fcf720af8dd6573a34026917ce10",
+      "size": 146676
+    },
+    "data/geojson.day/dark-winds-301-day-00100.geojson.gz": {
+      "sha256": "5a80fe0db5f6e8b7aa52a337ee9a7ab43cfc04e7a012140348a555f610bb767f",
+      "size": 162864
+    },
+    "data/geojson.day/dark-winds-301-day-00101.geojson.gz": {
+      "sha256": "4b40b65ebfcf66cb59e8f960c5b30b1c5f59cb9d0347b24a1d77bde76c9c3b14",
+      "size": 163191
+    },
+    "data/geojson.day/dark-winds-301-day-00102.geojson.gz": {
+      "sha256": "91998431aec7b6a19986d418b23f4c0a1d2167b7d60d9b749cfe1c738e3bab17",
+      "size": 155930
+    },
+    "data/geojson.day/dark-winds-301-day-00103.geojson.gz": {
+      "sha256": "d21437f03eeb9e14521a8a004b3e44813b94241b01ec677f53f38efe42d61938",
+      "size": 160959
+    },
+    "data/geojson.day/dark-winds-301-day-00104.geojson.gz": {
+      "sha256": "387798e35b3225f1c83a3a778dcedfd9e8c06b020212e9e5907faab8c5c2fa80",
+      "size": 155571
+    },
+    "data/geojson.day/dark-winds-301-day-00105.geojson.gz": {
+      "sha256": "6d0815863ad395add075884c6a1149c003dc32e16c3cdda3497891eadad3815a",
+      "size": 139012
+    },
+    "data/json/dark-winds-301-swarm-day-00001-2025-03-09.json": {
+      "sha256": "65ed4995163c22ef3e831e76b95e4956dd6a9d4c2e33fd294ea8630a0058564b",
+      "size": 450
+    },
+    "data/json/dark-winds-301-swarm-day-00002-2025-03-10.json": {
+      "sha256": "7224108e3b24eeb18a938987dec8d0a323705544da53c7cae8d38e38db39a5db",
+      "size": 451
+    },
+    "data/json/dark-winds-301-swarm-day-00003-2025-03-11.json": {
+      "sha256": "e27c18f6f687ed2125832d71d099add371e88ff8cfc9ce8755ccc1a4e62869c4",
+      "size": 450
+    },
+    "data/json/dark-winds-301-swarm-day-00004-2025-03-12.json": {
+      "sha256": "5489edf65b1fb96b5454569cd4c248b4606ec07a2346978345548ecacdb9dcba",
+      "size": 450
+    },
+    "data/json/dark-winds-301-swarm-day-00005-2025-03-13.json": {
+      "sha256": "ccab53526a13b7a5b3ddd9db8af5223a1709334ed8adf9724eb9388fb98e4691",
+      "size": 450
+    },
+    "data/json/dark-winds-301-swarm-day-00006-2025-03-14.json": {
+      "sha256": "bfbec4777964dfd726abe46e8725d7d751e01a099d67467c3acd28e00e4efde1",
+      "size": 451
+    },
+    "data/json/dark-winds-301-swarm-day-00007-2025-03-15.json": {
+      "sha256": "14769d2246c8e12c0919cd60333ded08d6a30aba6c0e9aa29d21320b078200a4",
+      "size": 450
+    },
+    "data/json/dark-winds-301-swarm-day-00008-2025-03-16.json": {
+      "sha256": "bc90a761e44fd1b7b071650f1024e657aa5bb0c34aacb45ffb6de9d6be0d51ef",
+      "size": 450
+    },
+    "data/json/dark-winds-301-swarm-day-00009-2025-03-17.json": {
+      "sha256": "a43a436eff553f79b4c4764a608e7e48f86fd9eb4553000a459c7db2c8e66d3b",
+      "size": 451
+    },
+    "data/json/dark-winds-301-swarm-day-00010-2025-03-18.json": {
+      "sha256": "fb11291f18736ff983989bc54130484b82e7e466cf18de248ca79c28f441132e",
+      "size": 453
+    },
+    "data/json/dark-winds-301-swarm-day-00011-2025-03-19.json": {
+      "sha256": "5042ab6c56c739448fc6eb9e6f54c6594c88caeb2f61a14be0a4716b8926d2fd",
+      "size": 453
+    },
+    "data/json/dark-winds-301-swarm-day-00012-2025-03-20.json": {
+      "sha256": "f8a8bd9da1e4b0558df2f7daace40d68a25247825b2c5e08dd06b0fb33d5fef9",
+      "size": 452
+    },
+    "data/json/dark-winds-301-swarm-day-00013-2025-03-21.json": {
+      "sha256": "f7ca9756e9c8e7e49b649974bfcee1bdcd426dae9ce1c2d0d1a94aff8ee5974a",
+      "size": 452
+    },
+    "data/json/dark-winds-301-swarm-day-00014-2025-03-22.json": {
+      "sha256": "1e82052e690053d7ae9663869c1f6f7bf3aeadfd690901f01d88bdb4f747607a",
+      "size": 452
+    },
+    "data/json/dark-winds-301-swarm-day-00015-2025-03-23.json": {
+      "sha256": "471dc76b848a12436ccc7a4eeddea5dbde7dae063612a363d471c22ae5878c77",
+      "size": 454
+    },
+    "data/json/dark-winds-301-swarm-day-00016-2025-03-24.json": {
+      "sha256": "3020b80fcd3634639edae9a508c1ba750e32dd9e757696175f58fa4f0191ca05",
+      "size": 454
+    },
+    "data/json/dark-winds-301-swarm-day-00017-2025-03-25.json": {
+      "sha256": "2da3e28761f55d8bb3800ab1980808c5e8f3bca1ee4e6a25bd962ccf72ab8c7f",
+      "size": 454
+    },
+    "data/json/dark-winds-301-swarm-day-00018-2025-03-26.json": {
+      "sha256": "faaabde5ac8932b0592c6dae4696fe58e7ee553d1f3d121567143a0e38f2554a",
+      "size": 454
+    },
+    "data/json/dark-winds-301-swarm-day-00019-2025-03-27.json": {
+      "sha256": "58ea7b9b960f41b27a796c5687db9096ac3632754d4557f6c2822919c903877e",
+      "size": 454
+    },
+    "data/json/dark-winds-301-swarm-day-00020-2025-03-28.json": {
+      "sha256": "25c8f40bb76ab6992e33fe44e1fb07cea0bb680cff65aa04fa83f6cb761453c4",
+      "size": 454
+    },
+    "data/json/dark-winds-301-swarm-day-00021-2025-03-29.json": {
+      "sha256": "f703e9c2d38bf25943b7de5e172f70ffc89d1da6f46faab684f12b84453d030e",
+      "size": 454
+    },
+    "data/json/dark-winds-301-swarm-day-00022-2025-03-30.json": {
+      "sha256": "c78222fca9142ef5d578db5bbb61e822739537cc3a5a2f52487ccf24c8d4fef3",
+      "size": 454
+    },
+    "data/json/dark-winds-301-swarm-day-00023-2025-03-31.json": {
+      "sha256": "44e30a6e3eec7d34edbcc47c790253e465313fcc00ee5100a5de38b272472edd",
+      "size": 454
+    },
+    "data/json/dark-winds-301-swarm-day-00024-2025-04-01.json": {
+      "sha256": "f5ef7632dd34712392f78836f7f528106496982dffbcd6583457356850621c9e",
+      "size": 454
+    },
+    "data/json/dark-winds-301-swarm-day-00025-2025-04-02.json": {
+      "sha256": "11b359e20a5b08a5e89393a2bc2adc590b454f0280af41599ad785d990aa21b2",
+      "size": 454
+    },
+    "data/json/dark-winds-301-swarm-day-00026-2025-04-03.json": {
+      "sha256": "f16e5fb69c223635fdc7ff3e46f50eb9f6b355478c2fb32bd9c9e88b59901506",
+      "size": 454
+    },
+    "data/json/dark-winds-301-swarm-day-00027-2025-04-04.json": {
+      "sha256": "5526699b31d63a94c7a9a0e593bf12fa1f5180492266d99d73b3357b99764bbb",
+      "size": 454
+    },
+    "data/json/dark-winds-301-swarm-day-00028-2025-04-05.json": {
+      "sha256": "a47c4b95a4e8aea806a4f11be04582932a68b693adce111c93e45d20498771a6",
+      "size": 454
+    },
+    "data/json/dark-winds-301-swarm-day-00029-2025-04-06.json": {
+      "sha256": "7a5f5d9ad8fe6d69f25f198f3d85d17df314628069c292dc667dfa4d58c3c4af",
+      "size": 454
+    },
+    "data/json/dark-winds-301-swarm-day-00030-2025-04-07.json": {
+      "sha256": "8d700243e0126c6bcba5760d849e2a0830b5aba0efe1fa534f480909a42246db",
+      "size": 454
+    },
+    "data/json/dark-winds-301-swarm-day-00031-2025-04-08.json": {
+      "sha256": "89997e7c42cd9373d3417914508f441efc0bbbb8d721abcc74df1e018f1d89e7",
+      "size": 454
+    },
+    "data/json/dark-winds-301-swarm-day-00032-2025-04-09.json": {
+      "sha256": "fee42c3e80614c32178bc3bfa5b90564b09db051f6a172385f4784b965aa9e04",
+      "size": 454
+    },
+    "data/json/dark-winds-301-swarm-day-00033-2025-04-10.json": {
+      "sha256": "e7cc0b970d38c8cf6c5c6af9c596790ac62242b9156b90d3180886b6696b9162",
+      "size": 454
+    },
+    "data/json/dark-winds-301-swarm-day-00034-2025-04-11.json": {
+      "sha256": "31262db8bb628acdb7e8a7296cd1b4ceeddb39050320bcfe39be6fa28dc7c4ce",
+      "size": 454
+    },
+    "data/json/dark-winds-301-swarm-day-00035-2025-04-12.json": {
+      "sha256": "6853a241f9f5628aa97ee161b9bba21120513a4ae52f0408b944bdfe11591e67",
+      "size": 454
+    },
+    "data/json/dark-winds-301-swarm-day-00036-2025-04-13.json": {
+      "sha256": "fc2c280accaeaa2366cca36b2f8f74015187736b70aef24a31d69c1b22948ca3",
+      "size": 454
+    },
+    "data/json/dark-winds-301-swarm-day-00037-2025-04-14.json": {
+      "sha256": "ac92ae098d41bd711a7cb6a8959764a5ea482230a9a2fb9ea82ee38264a01a6a",
+      "size": 454
+    },
+    "data/json/dark-winds-301-swarm-day-00038-2025-04-15.json": {
+      "sha256": "4be385b15af354e8f9cc932f63acecaf6bb6a2873d7f9840006e289b0b9aa76c",
+      "size": 454
+    },
+    "data/json/dark-winds-301-swarm-day-00039-2025-04-16.json": {
+      "sha256": "3cb2b8fc630f053872abdc52c8955d0469f9a30f4586bcc9067864e9ad3d67f8",
+      "size": 454
+    },
+    "data/json/dark-winds-301-swarm-day-00040-2025-04-17.json": {
+      "sha256": "8a36097bac2f2528cf12309dbf29825fe2b5c8f704689ff49fcb6b9ebf9d483f",
+      "size": 454
+    },
+    "data/json/dark-winds-301-swarm-day-00041-2025-04-18.json": {
+      "sha256": "4371f2115e1562f1c106d303b6cb1a8009b67e62cede19b153beb241a600d474",
+      "size": 454
+    },
+    "data/json/dark-winds-301-swarm-day-00042-2025-04-19.json": {
+      "sha256": "52b7fc76a7851540e36ac8453ad5343c05e574267dc748988022849342efb2f8",
+      "size": 454
+    },
+    "data/json/dark-winds-301-swarm-day-00043-2025-04-20.json": {
+      "sha256": "a732af7b810e35fde15b3ea9a492442d9b182ec65cb5125cd845ac9d4db1b490",
+      "size": 454
+    },
+    "data/json/dark-winds-301-swarm-day-00044-2025-04-21.json": {
+      "sha256": "8c9b4c06c4326a5acb4a4352da30a580cde00aa8ea23b65320388774c51d0434",
+      "size": 454
+    },
+    "data/json/dark-winds-301-swarm-day-00045-2025-04-22.json": {
+      "sha256": "001a16695e9476ec1983a4b8ef37d9fdee379c1ce858f669ad3eef6a5a33429e",
+      "size": 454
+    },
+    "data/json/dark-winds-301-swarm-day-00046-2025-04-23.json": {
+      "sha256": "dd406445651fd174864a1ee3250aac4c9d49ad8ca84380bfda69a6a0093ee1fd",
+      "size": 454
+    },
+    "data/json/dark-winds-301-swarm-day-00047-2025-04-24.json": {
+      "sha256": "cc498f7fbe006329937a6efac9290c88040f88c0cb6eaf95266b97c343d8c4d5",
+      "size": 454
+    },
+    "data/json/dark-winds-301-swarm-day-00048-2025-04-25.json": {
+      "sha256": "2a8faadeed090f450620d7cd7c0a6fe7b48e440d98feeb76754a773bcb594ce3",
+      "size": 453
+    },
+    "data/json/dark-winds-301-swarm-day-00049-2025-04-26.json": {
+      "sha256": "fc0de5dba615d7bbc994b0f86d085dd18215df55ba7a820550078ea7b9795c08",
+      "size": 453
+    },
+    "data/json/dark-winds-301-swarm-day-00050-2025-04-27.json": {
+      "sha256": "e5c782e76aacdb9782d328278084709114221a6b34a4c3594e55d5a2235b59c0",
+      "size": 454
+    },
+    "data/json/dark-winds-301-swarm-day-00051-2025-04-28.json": {
+      "sha256": "bda9e65b1a97a223d363feabc81a1858ac04491ac8dca105f1164806f834fd5d",
+      "size": 454
+    },
+    "data/json/dark-winds-301-swarm-day-00052-2025-04-29.json": {
+      "sha256": "3418938455809c3750cca8fb518f0f1004726a38a35709c0d9cc01a81d59fdce",
+      "size": 454
+    },
+    "data/json/dark-winds-301-swarm-day-00053-2025-04-30.json": {
+      "sha256": "4043c4719f64f2ec87e535c8eafea548d381049b5613dd36e4b7810a839b151d",
+      "size": 454
+    },
+    "data/json/dark-winds-301-swarm-day-00054-2025-05-01.json": {
+      "sha256": "336899e6f67956c9ffb3538daef6d4b6706c65f0e2c6abccae423264a7033d49",
+      "size": 453
+    },
+    "data/json/dark-winds-301-swarm-day-00055-2025-05-02.json": {
+      "sha256": "e39829d400de2d70dfb4030cc9c01c29215559159185bd5ba094bba388bc325a",
+      "size": 454
+    },
+    "data/json/dark-winds-301-swarm-day-00056-2025-05-03.json": {
+      "sha256": "48f15e2408faa8fc5a47b4d2f550a22bf1457d5b1703743c706929f6366a64b2",
+      "size": 454
+    },
+    "data/json/dark-winds-301-swarm-day-00057-2025-05-04.json": {
+      "sha256": "af2964ffbcd54a175ae49b9c7cace93de0190e7e1a3a21ee3dac1242d66e945b",
+      "size": 454
+    },
+    "data/json/dark-winds-301-swarm-day-00058-2025-05-05.json": {
+      "sha256": "08ba57bad1fb9163a59838e24df77ed8cf358927edfa1e57ba38008ae6c3ce33",
+      "size": 454
+    },
+    "data/json/dark-winds-301-swarm-day-00059-2025-05-06.json": {
+      "sha256": "43baf6ad926f598913b13ae38f2283d5b6401a0937a6a3c57ba9a417f9949b53",
+      "size": 453
+    },
+    "data/json/dark-winds-301-swarm-day-00060-2025-05-07.json": {
+      "sha256": "32427cd1c4d17d99d6f2d30bca6e2a3fcfe8ed85dc1ff42221069fecf7efb40f",
+      "size": 453
+    },
+    "data/json/dark-winds-301-swarm-day-00061-2025-05-08.json": {
+      "sha256": "5812d1f64860d37d8a1c41cb1186fa160ea448a8becc5ea32c67b6923c8c584a",
+      "size": 453
+    },
+    "data/json/dark-winds-301-swarm-day-00062-2025-05-09.json": {
+      "sha256": "c183448b3235548fad2190d990a1f80ce1df5e61c2ed34a68f879ca6aa0903c4",
+      "size": 453
+    },
+    "data/json/dark-winds-301-swarm-day-00063-2025-05-10.json": {
+      "sha256": "2fb9a9275ff360d194d70ca9396021242bcd6ebb6029efb41950fc459979c268",
+      "size": 453
+    },
+    "data/json/dark-winds-301-swarm-day-00064-2025-05-11.json": {
+      "sha256": "bfb586e6c9b084724175415925d9d2796ad5709612b52462bdbfb7509e06292f",
+      "size": 453
+    },
+    "data/json/dark-winds-301-swarm-day-00065-2025-05-12.json": {
+      "sha256": "278b913cf83a1b5bdeb58ed51c31951ff68a1f208b6146b9802130a2698c247c",
+      "size": 454
+    },
+    "data/json/dark-winds-301-swarm-day-00066-2025-05-13.json": {
+      "sha256": "215116dd9e87221bfde0390257ab58937fe1910edfdc22c1e245942cf22856d6",
+      "size": 453
+    },
+    "data/json/dark-winds-301-swarm-day-00067-2025-05-14.json": {
+      "sha256": "62949855c5e081827c4f66e57a98e44f203d69603844f7c2b79b53475f4ad4e6",
+      "size": 453
+    },
+    "data/json/dark-winds-301-swarm-day-00068-2025-05-15.json": {
+      "sha256": "f704e59950ba369fcd35d408f149e12538c643a08364b986ae95978bae2cd038",
+      "size": 453
+    },
+    "data/json/dark-winds-301-swarm-day-00069-2025-05-16.json": {
+      "sha256": "c0170ba00070f0d44f003900c8003489aa1a501848561a1b597b071e0cfd87bd",
+      "size": 453
+    },
+    "data/json/dark-winds-301-swarm-day-00070-2025-05-17.json": {
+      "sha256": "19cad53b8d27931291c55a022f76808403d07598220d43ed6c7a920933dbb7c2",
+      "size": 453
+    },
+    "data/json/dark-winds-301-swarm-day-00071-2025-05-18.json": {
+      "sha256": "efada666f8824b241d9dd6def92628869a3809743ad9aef7a5017f804f7c7eb4",
+      "size": 453
+    },
+    "data/json/dark-winds-301-swarm-day-00072-2025-05-19.json": {
+      "sha256": "8fdc34d0f83c8159c825d797b70091d6a0b55c3ec87da745973cdbaf62bb3fda",
+      "size": 453
+    },
+    "data/json/dark-winds-301-swarm-day-00073-2025-05-20.json": {
+      "sha256": "ea570924f1e912812b71dd6080fcd78783384f7797d5054ef4576617bf0d7ec7",
+      "size": 453
+    },
+    "data/json/dark-winds-301-swarm-day-00074-2025-05-21.json": {
+      "sha256": "2d9396177658bd2d44a20754e0a07d17cb461cfd09495317de1dac7dceb0eb88",
+      "size": 453
+    },
+    "data/json/dark-winds-301-swarm-day-00075-2025-05-22.json": {
+      "sha256": "48b6fb555904b6f39f595b5d45d2f215743ccd64d7b5d2dc7120ce0aac967094",
+      "size": 453
+    },
+    "data/json/dark-winds-301-swarm-day-00076-2025-05-23.json": {
+      "sha256": "7a9c2357efe9d24e5fd3e7cb22c90a7c4592186f5ffeb8d79aca18cd50af0ac0",
+      "size": 453
+    },
+    "data/json/dark-winds-301-swarm-day-00077-2025-05-24.json": {
+      "sha256": "ed6a12efd52c86bb1fe58bc9e0355d46775a8ad8225c08a5c13de39cc63a5b91",
+      "size": 453
+    },
+    "data/json/dark-winds-301-swarm-day-00078-2025-05-25.json": {
+      "sha256": "f672ebab4bbcd716cb9e5dfeac0a8439b0dfa44478751989e9311cdd48c5c9ca",
+      "size": 453
+    },
+    "data/json/dark-winds-301-swarm-day-00079-2025-05-26.json": {
+      "sha256": "e89b16d520f37eb98713b1bb1f4c67869486acc75a2207ca48714ebce0048810",
+      "size": 453
+    },
+    "data/json/dark-winds-301-swarm-day-00080-2025-05-27.json": {
+      "sha256": "adacef3d365676f8dcf09dceb0a0b35173e1c1e7d0f2230c98cac57397d1766f",
+      "size": 453
+    },
+    "data/json/dark-winds-301-swarm-day-00081-2025-05-28.json": {
+      "sha256": "86b762ad8804b86cddc79e43e792e34e2a1c919d85f48d00774fd8ff8d753de8",
+      "size": 453
+    },
+    "data/json/dark-winds-301-swarm-day-00082-2025-05-29.json": {
+      "sha256": "3e813be21e735e4c8a0fd268552d3f673e73844fbea8527a225cf02d4b4b0b06",
+      "size": 453
+    },
+    "data/json/dark-winds-301-swarm-day-00083-2025-05-30.json": {
+      "sha256": "aa0125301f595fcaf8550b06ff25a45f545c2c483e0332821b1e4f0e38a543e6",
+      "size": 453
+    },
+    "data/json/dark-winds-301-swarm-day-00084-2025-05-31.json": {
+      "sha256": "4ac67d46130b314e765395adfad0a68e4549a578f15897c76cbacbdadf2c85ef",
+      "size": 453
+    },
+    "data/json/dark-winds-301-swarm-day-00085-2025-06-01.json": {
+      "sha256": "becb46578bc52690db983cafd8216ee0abe46f7a98612d1c5ad4f40e3efbc190",
+      "size": 453
+    },
+    "data/json/dark-winds-301-swarm-day-00086-2025-06-02.json": {
+      "sha256": "469f0095e873d0acb304d53bbc0e6fadb6c2784ad87f047d0d5926eddc9bbc38",
+      "size": 453
+    },
+    "data/json/dark-winds-301-swarm-day-00087-2025-06-03.json": {
+      "sha256": "b74d258cc085404484f62bcc7c94d7c5dac875a33c75de6b534081c3bfcacf32",
+      "size": 453
+    },
+    "data/json/dark-winds-301-swarm-day-00088-2025-06-04.json": {
+      "sha256": "ce04dc9c703935be93c0b526bbf4af23de9c5a4cb787cfc23f6a1f2cb717811c",
+      "size": 453
+    },
+    "data/json/dark-winds-301-swarm-day-00089-2025-06-05.json": {
+      "sha256": "4c94b6d63cfb050f9140b5066c75d5a63f3b6fc3b930d9d645120edfa5115a1d",
+      "size": 454
+    },
+    "data/json/dark-winds-301-swarm-day-00090-2025-06-06.json": {
+      "sha256": "465147626683c01ee32e223fb5c46f1c7943a3526e3024bf7b3a2562bc636fb3",
+      "size": 453
+    },
+    "data/json/dark-winds-301-swarm-day-00091-2025-06-07.json": {
+      "sha256": "dece43d69e345ebf956cd0108c1d8c9c035ae457b5b2fd93a906d7d84f21740a",
+      "size": 453
+    },
+    "data/json/dark-winds-301-swarm-day-00092-2025-06-08.json": {
+      "sha256": "b61825ebc1396e82df19cb0a781e5225cec1a0c9906dfbb43f4e2081298d1bb0",
+      "size": 453
+    },
+    "data/json/dark-winds-301-swarm-day-00093-2025-06-09.json": {
+      "sha256": "8ea7963693c578b753d7507e3d4e41f6301e70b0f1076943de610ab99aa7aa46",
+      "size": 453
+    },
+    "data/json/dark-winds-301-swarm-day-00094-2025-06-10.json": {
+      "sha256": "cc355301bc1bbbd271b4e6f82b7f28bb031e08e1c4b003dc386b1139b4ee977b",
+      "size": 453
+    },
+    "data/json/dark-winds-301-swarm-day-00095-2025-06-11.json": {
+      "sha256": "770b37ce63e393d41bbd1691b8aa3dbb095e099f535338b842e86eda5c75397f",
+      "size": 453
+    },
+    "data/json/dark-winds-301-swarm-day-00096-2025-06-12.json": {
+      "sha256": "edd2eac0cbf79c2c24fb4da80766d34ecb78d94304091385dca16974259371e1",
+      "size": 453
+    },
+    "data/json/dark-winds-301-swarm-day-00097-2025-06-13.json": {
+      "sha256": "735f17982f486b193070f663265f810823ba161e526b69f37571e4aede19d4e0",
+      "size": 453
+    },
+    "data/json/dark-winds-301-swarm-day-00098-2025-06-14.json": {
+      "sha256": "88da178bcffeab7c2f2bc823913c1d0626a5394dc89b64b9515c1ca46cbd93bd",
+      "size": 454
+    },
+    "data/json/dark-winds-301-swarm-day-00099-2025-06-15.json": {
+      "sha256": "300ed28a148b163526e989127d938bde9421dcfa03493b1b7e5266ecf4083812",
+      "size": 453
+    },
+    "data/json/dark-winds-301-swarm-day-00100-2025-06-16.json": {
+      "sha256": "2cfd2e49caaa831c5e2d565d5f7962158a757d5d29ee521d91f8d44a4fd7f5b1",
+      "size": 454
+    },
+    "data/json/dark-winds-301-swarm-day-00101-2025-06-17.json": {
+      "sha256": "d64eac3ce21e2baf32e2f02379ba35f4918911b58103ba57c8382750762f3944",
+      "size": 454
+    },
+    "data/json/dark-winds-301-swarm-day-00102-2025-06-18.json": {
+      "sha256": "e87161c2fe4e239ff7c3c001cf823dadf081c0e20b5b435b8598f1a3340c89db",
+      "size": 454
+    },
+    "data/json/dark-winds-301-swarm-day-00103-2025-06-19.json": {
+      "sha256": "760c782bdb60675b447aa68f0fcf1dee88fa75814b13ab35efd4d3de741f515d",
+      "size": 454
+    },
+    "data/json/dark-winds-301-swarm-day-00104-2025-06-20.json": {
+      "sha256": "cf074596ef6d4a95a460b8d592f3006e0ed28257f30b265fde861720963f3ad7",
+      "size": 454
+    },
+    "data/json/dark-winds-301-swarm-day-00105-2025-06-21.json": {
+      "sha256": "12acd5c825a24f59c97a95c58857864be3fa7f20cbfd95ea168b7b742fb1aa99",
+      "size": 454
+    }
+  },
+  "schema": "alpha60-year-day-product-bundle/1",
+  "source_revisions": {
+    "aggregate_binary": {
+      "sha256": "80bdf6691c0ef6ed5fcc7fa3a6462748104e1935ce5b2a4df3861e11bb13195a",
+      "size": 38582648
+    },
+    "alpha60": "c3fc4c8a7866bee5f6d5f26160c56b2cffb05cb1",
+    "alpha60_data": "8faeae67a5d274d1fc00bffe9fc9318329163b20",
+    "day_product_contract": {
+      "sha256": "0aa0bee3ac14b512c786d3496ab5218a46aff11786ffa6aa9ea85e762fbd6370",
+      "size": 9897
+    },
+    "generate_cache_aggregates": {
+      "sha256": "504078e192d9c8182df74e41b98cec08123c5a8b7d0eb7f812d09c1fe5d07010",
+      "size": 17151
+    },
+    "metadata": "fbeb53a0b523f937fae2f23d14689d8c5c84dd5a",
+    "package_script": {
+      "sha256": "516d6ecdccd24b1b66cf80c185219fa47d52af22f672b836773896df621b1666",
+      "size": 14724
+    },
+    "year_day_contract": {
+      "sha256": "f1c07d6f2fdc19475a6f25ddaee5923957447a6f49a8009d8b4c9984a63bd883",
+      "size": 9356
+    }
+  },
+  "status": "pass"
+}
