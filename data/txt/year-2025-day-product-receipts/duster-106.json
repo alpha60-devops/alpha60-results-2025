@@ -1,0 +1,901 @@
+{
+  "archive": {
+    "path": "/home/bkoz/src/alpha60-xperiments/year-2025-archives/duster-106.cache/cache.20251004.tar.xz",
+    "sha256": "003dd7c2fdb16f5371f50a19e63f304269cb384b339b91d6245df002f29731e2",
+    "size": 706082796
+  },
+  "authorization": {
+    "archive_mutated": false,
+    "excluded_member_classes": [
+      "hour",
+      "week",
+      "cumulative"
+    ],
+    "raw_samples_opened": false,
+    "scope": "read only streaming of per-torrent day records"
+  },
+  "collection_key": "duster-106",
+  "day_product_contract": {
+    "collection_key": "duster-106",
+    "day_products": 106,
+    "first_date": "2025-06-21",
+    "first_index": 1,
+    "geojson_data_version": "20260701",
+    "ip_geolocation_version": "6:1777968300",
+    "json_data_version": "2026-08-05",
+    "last_date": "2025-10-04",
+    "last_index": 106,
+    "schema": "alpha60-day-product-contract/1",
+    "sparse": false,
+    "status": "pass"
+  },
+  "publications": {
+    "data/geojson.day/duster-106-day-00001.geojson.gz": {
+      "sha256": "6fcef6525ae0d1dff6e1a453cd1e207ce4fe6409c042fb2bd02d8752553c0502",
+      "size": 19105
+    },
+    "data/geojson.day/duster-106-day-00002.geojson.gz": {
+      "sha256": "0f15539b6c3859247ebc74a43a4000999f3461625e426e9c07741a9202f42e98",
+      "size": 59960
+    },
+    "data/geojson.day/duster-106-day-00003.geojson.gz": {
+      "sha256": "a197f620db16aa459b9627d0a23d3f5c852742e696f76241bbdad3aa860becf0",
+      "size": 59659
+    },
+    "data/geojson.day/duster-106-day-00004.geojson.gz": {
+      "sha256": "fe78853d905e37d958f494dd3c73f22ecf1a498dcab28f194e6b7f2e9f8c8e26",
+      "size": 80328
+    },
+    "data/geojson.day/duster-106-day-00005.geojson.gz": {
+      "sha256": "05372f31192c44dfb676837cb024dc598935a044d341459b30eaf5ba18b87f2c",
+      "size": 81688
+    },
+    "data/geojson.day/duster-106-day-00006.geojson.gz": {
+      "sha256": "e688676a6b3ec693356386cac4050a86c00bdeb927e0f39ac656fceebb883a4c",
+      "size": 77951
+    },
+    "data/geojson.day/duster-106-day-00007.geojson.gz": {
+      "sha256": "76ab0c75e1e4519593f6d73e6eed3e3083ad7da66aa7a555747fb171d5a3a275",
+      "size": 116649
+    },
+    "data/geojson.day/duster-106-day-00008.geojson.gz": {
+      "sha256": "56297b328b17f05a400ec1208b481c42e5662e0cafb146b67c7efea826196bc3",
+      "size": 110300
+    },
+    "data/geojson.day/duster-106-day-00009.geojson.gz": {
+      "sha256": "9f3997c5dfa9fe3b4c01465d09f74840b059644cd8e6585f054e87060c2759f4",
+      "size": 123384
+    },
+    "data/geojson.day/duster-106-day-00010.geojson.gz": {
+      "sha256": "63c009af0e047c7e3a3773531f3b8d875ca8a213094e349d8e2dc2caf7ffbe85",
+      "size": 142291
+    },
+    "data/geojson.day/duster-106-day-00011.geojson.gz": {
+      "sha256": "212b1c37ba4c2f43b826a61230578ce42b1efa2bcb2a5023108f0d16b5e9f965",
+      "size": 131579
+    },
+    "data/geojson.day/duster-106-day-00012.geojson.gz": {
+      "sha256": "af661d74f4429672ffdebb3cb82b147f69ca6967ded3ce7f252042b2648380dd",
+      "size": 124073
+    },
+    "data/geojson.day/duster-106-day-00013.geojson.gz": {
+      "sha256": "5514000af2d4ca2bfaabbedfdde8bcffbe9563124b49478bf66cf251337b16a8",
+      "size": 144929
+    },
+    "data/geojson.day/duster-106-day-00014.geojson.gz": {
+      "sha256": "1c92f3c87adf30123921c0bcc0726b81c05d8c3d52f531b600bf75e39eb9ece3",
+      "size": 168816
+    },
+    "data/geojson.day/duster-106-day-00015.geojson.gz": {
+      "sha256": "e0e523426822d5fe5a89ea2ea851c5341842697e98542ddc005e2e824df329f7",
+      "size": 175699
+    },
+    "data/geojson.day/duster-106-day-00016.geojson.gz": {
+      "sha256": "8c25380876b305dcc7291c728aad5a706cf2c54bed571dd279d34ef3d9b6fdd3",
+      "size": 181182
+    },
+    "data/geojson.day/duster-106-day-00017.geojson.gz": {
+      "sha256": "119a1c5ea65a8cc334b59ae91b4d560e393e60ce3ae3ae243503e58bbfa122a6",
+      "size": 189760
+    },
+    "data/geojson.day/duster-106-day-00018.geojson.gz": {
+      "sha256": "7a60ce797743bfeb98d281cff95119528e262381dc19b4d0a1550941770ff116",
+      "size": 182069
+    },
+    "data/geojson.day/duster-106-day-00019.geojson.gz": {
+      "sha256": "1d73306227e4676e2e52a526fb46ab15be8ac3b4aa7cc2a1f166b27ec2552e01",
+      "size": 194291
+    },
+    "data/geojson.day/duster-106-day-00020.geojson.gz": {
+      "sha256": "deb2af4f278044a0a2c9eda3704d880dec72e3659e366efaf9c7fd1db0169061",
+      "size": 211226
+    },
+    "data/geojson.day/duster-106-day-00021.geojson.gz": {
+      "sha256": "5c56abe8a4fa1c09b16e0160d9921eb612a12c7fdc81154d4ffe0ff35e9726fc",
+      "size": 193924
+    },
+    "data/geojson.day/duster-106-day-00022.geojson.gz": {
+      "sha256": "27a8b2e941ad7e4c0e5614ae0b176f36d01c6e9e6e47e734b2dff5768587234b",
+      "size": 206724
+    },
+    "data/geojson.day/duster-106-day-00023.geojson.gz": {
+      "sha256": "6fd80b7bf626dba32682a4f7bf09df0293e209c5d91c4d976d157814173e0e9a",
+      "size": 194684
+    },
+    "data/geojson.day/duster-106-day-00024.geojson.gz": {
+      "sha256": "8cd0749af20280b26d380fed78819fb97817e65531547ff9d939a3e758680dcb",
+      "size": 191510
+    },
+    "data/geojson.day/duster-106-day-00025.geojson.gz": {
+      "sha256": "5780093fa94619e20d234c715d6f45f9f5ab5ccfd4255321157478146b31f8c4",
+      "size": 162613
+    },
+    "data/geojson.day/duster-106-day-00026.geojson.gz": {
+      "sha256": "24e02f998506d3810dd1da4250025f6edf4245bc2fc73f2291ce51da41e472c2",
+      "size": 168641
+    },
+    "data/geojson.day/duster-106-day-00027.geojson.gz": {
+      "sha256": "f542fec005cda6aeca0abc2459675769537bac0c6dafb68c8835fe947b92b332",
+      "size": 169409
+    },
+    "data/geojson.day/duster-106-day-00028.geojson.gz": {
+      "sha256": "95ff006e24af40b1ddfbf0079c83564985ad944bb6ad5bc65cb88dec04d6d55f",
+      "size": 186793
+    },
+    "data/geojson.day/duster-106-day-00029.geojson.gz": {
+      "sha256": "7b3505e3e12742f7280cc32feb5d52eccea694f867fb63010143c159e2837ed6",
+      "size": 163823
+    },
+    "data/geojson.day/duster-106-day-00030.geojson.gz": {
+      "sha256": "b1fdf4ffb00c5d57cdd44c89f496ab428acdceb2a05531e4a271173caadf960e",
+      "size": 176551
+    },
+    "data/geojson.day/duster-106-day-00031.geojson.gz": {
+      "sha256": "c3d7261240e6fdc54efe5d5c2003ddc3f692d4cfc124413eba7b067a3c71ec45",
+      "size": 219665
+    },
+    "data/geojson.day/duster-106-day-00032.geojson.gz": {
+      "sha256": "a5199e8c6e8a0264ef7dc4920da2a43b6f79547cc0f9aa1eba715cb5a634720b",
+      "size": 177299
+    },
+    "data/geojson.day/duster-106-day-00033.geojson.gz": {
+      "sha256": "da2ab1dce30a16cdc4375edd8af60862dec44cfbff3d59744ac4fadc9b775524",
+      "size": 186747
+    },
+    "data/geojson.day/duster-106-day-00034.geojson.gz": {
+      "sha256": "f92cac035ab7eab50abff103c2698d66e95c74465ab879acd16351f77005e19f",
+      "size": 181292
+    },
+    "data/geojson.day/duster-106-day-00035.geojson.gz": {
+      "sha256": "f3b876e0ff97799712dae339f4e777b1c9252b57b76b352fb7399897f608732f",
+      "size": 154999
+    },
+    "data/geojson.day/duster-106-day-00036.geojson.gz": {
+      "sha256": "bba3f605fe59a582cdfea73ade6180bbdd9525e6ad46bc7c99ed059e1d656f31",
+      "size": 148451
+    },
+    "data/geojson.day/duster-106-day-00037.geojson.gz": {
+      "sha256": "26acc6710736cebecfd5e49c1df98a52c5a5d345ee8f4566cec30ddc2a71f715",
+      "size": 182851
+    },
+    "data/geojson.day/duster-106-day-00038.geojson.gz": {
+      "sha256": "7e9ed390327c4a6f9bcbfbfd5b619eadbb22d46cab47a3fd8ca64e13e772af4f",
+      "size": 207254
+    },
+    "data/geojson.day/duster-106-day-00039.geojson.gz": {
+      "sha256": "99c33ef8061b5ba92626324b60b45b96f6b095f5dd58a14166a222674aa36ed0",
+      "size": 221277
+    },
+    "data/geojson.day/duster-106-day-00040.geojson.gz": {
+      "sha256": "d4ead95144d68703f0c2ddd76c1dde2ba41b3dde8475af5bae29234455778edc",
+      "size": 230624
+    },
+    "data/geojson.day/duster-106-day-00041.geojson.gz": {
+      "sha256": "950312d323288fc713c199a79bb20bf327bc57e9f8df35a2417216875ce71783",
+      "size": 213416
+    },
+    "data/geojson.day/duster-106-day-00042.geojson.gz": {
+      "sha256": "6a4351c369abf68f4c41f388344fe5c23e5996acd7fa41e84be3ad8d6e205aa4",
+      "size": 262310
+    },
+    "data/geojson.day/duster-106-day-00043.geojson.gz": {
+      "sha256": "c927890df6cc7620acf90a1f1252a621e5b0976f843ae1de91147701a18cd4fb",
+      "size": 167139
+    },
+    "data/geojson.day/duster-106-day-00044.geojson.gz": {
+      "sha256": "96fb760074f5cb095e67cb528875f1b55fab80ac2862abc2ae292509b4174b24",
+      "size": 199723
+    },
+    "data/geojson.day/duster-106-day-00045.geojson.gz": {
+      "sha256": "dee01024ae2182488374feaee92cd7f039169f67077d2827e8a157981e4ca84b",
+      "size": 185914
+    },
+    "data/geojson.day/duster-106-day-00046.geojson.gz": {
+      "sha256": "d168f84df549848be008f474e40e32e94c5780e8da044351a9e268b4a97691c7",
+      "size": 47714
+    },
+    "data/geojson.day/duster-106-day-00047.geojson.gz": {
+      "sha256": "6e48cd6e6179238d0686856ffad579488c62e8d4c4bab9bea2979238c3040fe6",
+      "size": 191859
+    },
+    "data/geojson.day/duster-106-day-00048.geojson.gz": {
+      "sha256": "0f5e7183ab3fc3b5bcc128db10e15c8da161f22010a891d27316301194466c18",
+      "size": 196891
+    },
+    "data/geojson.day/duster-106-day-00049.geojson.gz": {
+      "sha256": "0fc0403149560b38d3ccec0488f9adf636ba6465e8e6ef70d428bf5e444e6d0e",
+      "size": 202157
+    },
+    "data/geojson.day/duster-106-day-00050.geojson.gz": {
+      "sha256": "0e70ac36ec6fe0b18f29e2a3a6f027fe18e66fb74bc8eceb3372ea98a3445131",
+      "size": 180086
+    },
+    "data/geojson.day/duster-106-day-00051.geojson.gz": {
+      "sha256": "d0f64df47ae9f9573d856d0cdcbd0c23e89d043cff4334fb3ca26aeb1865fbd1",
+      "size": 191398
+    },
+    "data/geojson.day/duster-106-day-00052.geojson.gz": {
+      "sha256": "cbd9c8e1d53f5953af82d680ea13c55a5a54a7ca0ec4a8ab4b572321d6b812cf",
+      "size": 207513
+    },
+    "data/geojson.day/duster-106-day-00053.geojson.gz": {
+      "sha256": "fa6a789bff218830ae1cdbbfb8016168a2e1ae01e8425d99f3443a7f3b0b3270",
+      "size": 195286
+    },
+    "data/geojson.day/duster-106-day-00054.geojson.gz": {
+      "sha256": "fe9814cf50f60b700ebb2782699aafe2e2970bafe99971a6bcd575f41af10caa",
+      "size": 191453
+    },
+    "data/geojson.day/duster-106-day-00055.geojson.gz": {
+      "sha256": "93f4d6e825b0eb746f8fd7a7cba75cbacffb613f427d824a21d7a4543851b619",
+      "size": 194071
+    },
+    "data/geojson.day/duster-106-day-00056.geojson.gz": {
+      "sha256": "950f5ff67a06716a678434d557578142ff0cdf3c6df114b28c395fdc0eeeb5cb",
+      "size": 180910
+    },
+    "data/geojson.day/duster-106-day-00057.geojson.gz": {
+      "sha256": "419bbf757d90c7585a69762a72ce2c526fc6effebd1453d36392aa5e187c697f",
+      "size": 179381
+    },
+    "data/geojson.day/duster-106-day-00058.geojson.gz": {
+      "sha256": "ed7213b41e5650b367db069cd99edc0cf0706a3cb606af83f4c816a96915f380",
+      "size": 173261
+    },
+    "data/geojson.day/duster-106-day-00059.geojson.gz": {
+      "sha256": "4bc1944d35a00adfa81db4257da374f307eb30322eaee289a126ce8c189be224",
+      "size": 186560
+    },
+    "data/geojson.day/duster-106-day-00060.geojson.gz": {
+      "sha256": "00d700321cb733b3bc3f69b504df7ccc32059ebf9667dd107f53d2e0000be957",
+      "size": 191982
+    },
+    "data/geojson.day/duster-106-day-00061.geojson.gz": {
+      "sha256": "9a7149e0c96d8725e9a43c9d59a713dfa30ee93a8dab0b743e43af613f0403d0",
+      "size": 188039
+    },
+    "data/geojson.day/duster-106-day-00062.geojson.gz": {
+      "sha256": "5ed7a2eb726f69028a53bb03b17cb80b52744ffc1600be1b73e51c6ac0a294d3",
+      "size": 192066
+    },
+    "data/geojson.day/duster-106-day-00063.geojson.gz": {
+      "sha256": "99c8b085d24cbad727be975458cf32bcd048eb750e9150d7bb0a714b5cc56e73",
+      "size": 191501
+    },
+    "data/geojson.day/duster-106-day-00064.geojson.gz": {
+      "sha256": "78c2f3d25ab7a9f57c760be7c86a65c08530b2a9ccfec7f3237aa81a82012825",
+      "size": 183247
+    },
+    "data/geojson.day/duster-106-day-00065.geojson.gz": {
+      "sha256": "cb6d7a8985e39c0872c1f8b04e8e6f4c2df2c2e7511187c9d6643cecc9e8b60a",
+      "size": 175033
+    },
+    "data/geojson.day/duster-106-day-00066.geojson.gz": {
+      "sha256": "6dc6bbd52ecb9bb189df02148bd947cceee8684f0719b50dee43ca48f82e0959",
+      "size": 194148
+    },
+    "data/geojson.day/duster-106-day-00067.geojson.gz": {
+      "sha256": "ad82be7f85e017822e76047e3bde0d737cb3ff382891eb1cc19d521cb661a6f9",
+      "size": 165400
+    },
+    "data/geojson.day/duster-106-day-00068.geojson.gz": {
+      "sha256": "1a2209b0b5333da423b14887ce957df075db67984523a9c49a5bffe0173530e9",
+      "size": 109348
+    },
+    "data/geojson.day/duster-106-day-00069.geojson.gz": {
+      "sha256": "98047be908fd53fae98676cdffaac08eb5e0c47d0f5e94f2a7329e290ed3361a",
+      "size": 192840
+    },
+    "data/geojson.day/duster-106-day-00070.geojson.gz": {
+      "sha256": "1d0c97db4c5c4de3eaa5b3cac729c3ec9856149f15f4520cff29665ac1ac37d5",
+      "size": 230039
+    },
+    "data/geojson.day/duster-106-day-00071.geojson.gz": {
+      "sha256": "1118760d7aa55da344902dd5cc85f71c87df71fef4dcac72846fe78a13d3d024",
+      "size": 237139
+    },
+    "data/geojson.day/duster-106-day-00072.geojson.gz": {
+      "sha256": "5ce5f9bc6bb907406816d35a59339b500c49c5906a4443ff5dd68ef3667286bf",
+      "size": 208963
+    },
+    "data/geojson.day/duster-106-day-00073.geojson.gz": {
+      "sha256": "d20be22a3b104d783af7781909b420c360a9dd35beed6d5a3df946ef8e038b17",
+      "size": 205982
+    },
+    "data/geojson.day/duster-106-day-00074.geojson.gz": {
+      "sha256": "46ea590a4affe1a4df2e6136beae5184d0794ed4a1bce84ce546a5d8bc3c17cc",
+      "size": 134542
+    },
+    "data/geojson.day/duster-106-day-00075.geojson.gz": {
+      "sha256": "c2c922f4fedbd8076f7cc03f6cb410662b4ca07afeb711b7b0aabd9cee0991ff",
+      "size": 112385
+    },
+    "data/geojson.day/duster-106-day-00076.geojson.gz": {
+      "sha256": "fb136c074cd2e0c3bee05a44097fbaf2f787793da9f96bb9e9d1d707b6f06118",
+      "size": 191821
+    },
+    "data/geojson.day/duster-106-day-00077.geojson.gz": {
+      "sha256": "960a2051197223f2fc09c82ff5e75ffeb6ad9cbb49085a879e50577109b1364a",
+      "size": 178062
+    },
+    "data/geojson.day/duster-106-day-00078.geojson.gz": {
+      "sha256": "772cf8122c8c653e31a019896352c19450e23b3fac60cf208d399bff1a848eab",
+      "size": 170103
+    },
+    "data/geojson.day/duster-106-day-00079.geojson.gz": {
+      "sha256": "fda390f83bde63fd2871ed821184e539218c493276b37d3cee88765a666ed784",
+      "size": 186385
+    },
+    "data/geojson.day/duster-106-day-00080.geojson.gz": {
+      "sha256": "6cd1ffbad6c582ac660be26830886aa023fe37e0c91fc548d88859dbcc7dc254",
+      "size": 195114
+    },
+    "data/geojson.day/duster-106-day-00081.geojson.gz": {
+      "sha256": "24922520a8a1027c5d0c6f9b292ee92a03922cd57ad5880e817f067a9291e51e",
+      "size": 214450
+    },
+    "data/geojson.day/duster-106-day-00082.geojson.gz": {
+      "sha256": "278a3389e10f29eb8c927080a05403994a541b4e24fa0ea0b2c329287e52f34d",
+      "size": 209401
+    },
+    "data/geojson.day/duster-106-day-00083.geojson.gz": {
+      "sha256": "5bea8f8c29b65b72ab95c87352d5f3bb8313d63cc944fe4e5efc2e1a78cdcd8f",
+      "size": 187531
+    },
+    "data/geojson.day/duster-106-day-00084.geojson.gz": {
+      "sha256": "0b5fa5552d49a15bab86ecfaef4338c6de449475a64516f610db6926c7d4acf4",
+      "size": 184750
+    },
+    "data/geojson.day/duster-106-day-00085.geojson.gz": {
+      "sha256": "0793424f34a02794c3f22cb1fc4ffdf9314387faf829035ec19d5710a89078f0",
+      "size": 176787
+    },
+    "data/geojson.day/duster-106-day-00086.geojson.gz": {
+      "sha256": "36a6cbf9d4853b7934e880f568da6c21a2d0598ed769cdf22e1fd4d1f8b996b4",
+      "size": 159391
+    },
+    "data/geojson.day/duster-106-day-00087.geojson.gz": {
+      "sha256": "666dcd70312e202848780caa58e71da3eb38980c530d7d6bf6b1fb3be5a4787e",
+      "size": 197439
+    },
+    "data/geojson.day/duster-106-day-00088.geojson.gz": {
+      "sha256": "ee9e8221c84e7bc1b8a35dc38cf0d005dc3c19c9863a6df313d0833d2b644d4e",
+      "size": 189171
+    },
+    "data/geojson.day/duster-106-day-00089.geojson.gz": {
+      "sha256": "14028b8d354ae8a7e39621dfc35479c7ceb721f6b5ea6e613cc047eeeef3c57f",
+      "size": 197052
+    },
+    "data/geojson.day/duster-106-day-00090.geojson.gz": {
+      "sha256": "9ab51ed783c47a9bfe2e549a3c9a9af66d69ed483b1b42d9a494fad456e69ea2",
+      "size": 195521
+    },
+    "data/geojson.day/duster-106-day-00091.geojson.gz": {
+      "sha256": "92169348bfb96ee6ad436d4d0b28a65b0aafea21a482b92bf99379d7307acd3c",
+      "size": 185260
+    },
+    "data/geojson.day/duster-106-day-00092.geojson.gz": {
+      "sha256": "742222e962f62543b897456509c5839d0b15745fcab6836324941a702a7c9390",
+      "size": 188289
+    },
+    "data/geojson.day/duster-106-day-00093.geojson.gz": {
+      "sha256": "57897b0c1ef693e69c3a7d933e0b3c7e1e1fb83549266918c2d3178fa74a0e5f",
+      "size": 211185
+    },
+    "data/geojson.day/duster-106-day-00094.geojson.gz": {
+      "sha256": "642ddb3829b83b79c4e2fe619d3c2c1270f24a8fb130b226d883f895b9117dbd",
+      "size": 206456
+    },
+    "data/geojson.day/duster-106-day-00095.geojson.gz": {
+      "sha256": "abcf96123f67c2d2c9e09fa55bd681333a8d54c9a0ecb16c88adfa0b8206a0f4",
+      "size": 221973
+    },
+    "data/geojson.day/duster-106-day-00096.geojson.gz": {
+      "sha256": "c352a80eafff217d637276faf21bafeee18c1b19996b01fe862217278b9792a2",
+      "size": 219337
+    },
+    "data/geojson.day/duster-106-day-00097.geojson.gz": {
+      "sha256": "935ceb4f727d625de9b446624a236255fca7f59c3e2fb39764262f95ae163ebb",
+      "size": 216948
+    },
+    "data/geojson.day/duster-106-day-00098.geojson.gz": {
+      "sha256": "d2a47a1995e04578eed402e97e08175ca02efdc51c447aa2df402b51e323990c",
+      "size": 238546
+    },
+    "data/geojson.day/duster-106-day-00099.geojson.gz": {
+      "sha256": "8c5813444ef1095953ecb2338993bed0448e411cd3bc9f85547bcca9604f6b48",
+      "size": 205974
+    },
+    "data/geojson.day/duster-106-day-00100.geojson.gz": {
+      "sha256": "e5691d39b5739955c01ce10e3b727d99387c4f043aa5ba55603b1ee0ac6740ce",
+      "size": 174206
+    },
+    "data/geojson.day/duster-106-day-00101.geojson.gz": {
+      "sha256": "970635f5f8e1013f57d6d5e2c18674e3b9227c06a64bf7a612a076656434bd89",
+      "size": 235645
+    },
+    "data/geojson.day/duster-106-day-00102.geojson.gz": {
+      "sha256": "539a55e7c9a4d3210d984cf00d482e309f10b896a05a74404eb7e3df2dfe4676",
+      "size": 221867
+    },
+    "data/geojson.day/duster-106-day-00103.geojson.gz": {
+      "sha256": "abb7ce8e090b510e8cff0f3dfeae56a4886ffac2f74f7da9d89df8a9ee356500",
+      "size": 209533
+    },
+    "data/geojson.day/duster-106-day-00104.geojson.gz": {
+      "sha256": "6db8b0268bcea134d4abef7c2cc2dcd1d16cd1031f7f7068354579f7b8a54567",
+      "size": 211921
+    },
+    "data/geojson.day/duster-106-day-00105.geojson.gz": {
+      "sha256": "215872ce6d7d6ca0a8544cc1fcf1b7c306b055bf6508a4afd93b8db5e159f5b5",
+      "size": 203618
+    },
+    "data/geojson.day/duster-106-day-00106.geojson.gz": {
+      "sha256": "870ca8980670231bd64f351ea04b1635eb76199768966f8507ec7a8d3c385717",
+      "size": 192704
+    },
+    "data/json/duster-106-swarm-day-00001-2025-06-21.json": {
+      "sha256": "9791c2184f2d207c0e11e309efcdd51916ffd75f1701a799546876d1b233d306",
+      "size": 441
+    },
+    "data/json/duster-106-swarm-day-00002-2025-06-22.json": {
+      "sha256": "6a773be9e00aa4971ae47a77242d1e4d95041172fed3445d01f454377ce7a4ef",
+      "size": 442
+    },
+    "data/json/duster-106-swarm-day-00003-2025-06-23.json": {
+      "sha256": "c4bd911dcfc544e5bed9814ff129d5bf9129791fa40ec10d79522c732eba781b",
+      "size": 442
+    },
+    "data/json/duster-106-swarm-day-00004-2025-06-24.json": {
+      "sha256": "4c38e692a4b91ad3b31603af6f86cdfc0fec0977542837e7075298105892b462",
+      "size": 442
+    },
+    "data/json/duster-106-swarm-day-00005-2025-06-25.json": {
+      "sha256": "96dd0340d5f8877825c236bf45fd078b9103c5120af9045855a83742d5fe92da",
+      "size": 442
+    },
+    "data/json/duster-106-swarm-day-00006-2025-06-26.json": {
+      "sha256": "f7ac9ae38eb01a098efedb98980f9aace647ed4883d778749cf1ed215e5d7b35",
+      "size": 442
+    },
+    "data/json/duster-106-swarm-day-00007-2025-06-27.json": {
+      "sha256": "fd69c2e0ae256c4fd77fdc7810f30be214954faede7da1b7b53d333cc03224cc",
+      "size": 443
+    },
+    "data/json/duster-106-swarm-day-00008-2025-06-28.json": {
+      "sha256": "e5f8312d208f4e47281fa623d16d58499b46aa689bcff79382f408a8458fbe5e",
+      "size": 443
+    },
+    "data/json/duster-106-swarm-day-00009-2025-06-29.json": {
+      "sha256": "0ddc06dc6b53961dcdc85bee3e044f2d897e9507ce7a9bdf76a3bfd65362d3b3",
+      "size": 444
+    },
+    "data/json/duster-106-swarm-day-00010-2025-06-30.json": {
+      "sha256": "1208f92a6b9fe00b963274521f70bfbdc1b14e7cef92df5b1eef0ef0e15d14bb",
+      "size": 445
+    },
+    "data/json/duster-106-swarm-day-00011-2025-07-01.json": {
+      "sha256": "7f85f0446bfa73e045db29d9932289c3dadc6b4ecc0b4dcaa33f8fb10a8cb67f",
+      "size": 445
+    },
+    "data/json/duster-106-swarm-day-00012-2025-07-02.json": {
+      "sha256": "32e9b90bdf6c4c1a354120643ff3aea387543e7104e0dfc0909aaabb40d86ba1",
+      "size": 445
+    },
+    "data/json/duster-106-swarm-day-00013-2025-07-03.json": {
+      "sha256": "51d64f2f4ac3d3d5277a2125d5b3c2f383adaef8d7700d3584fd61bd25fa3e70",
+      "size": 445
+    },
+    "data/json/duster-106-swarm-day-00014-2025-07-04.json": {
+      "sha256": "819c692905f460f34b84863328aa331a466db8176eacd16f1d46dd98c801f42d",
+      "size": 445
+    },
+    "data/json/duster-106-swarm-day-00015-2025-07-05.json": {
+      "sha256": "3dcabc5855e47c0d34a38b872a278bc24eb36d3df313df90d2c362d1db4f46ed",
+      "size": 446
+    },
+    "data/json/duster-106-swarm-day-00016-2025-07-06.json": {
+      "sha256": "de012eac3fed429d0f2302e70438a2e1f3e8acdf73e7d7b056abca34c1b4af03",
+      "size": 446
+    },
+    "data/json/duster-106-swarm-day-00017-2025-07-07.json": {
+      "sha256": "e6f27bd3fa2aeb934b78e896ff504f8daf41f3059fd00f4e30a3466e582f0a5e",
+      "size": 446
+    },
+    "data/json/duster-106-swarm-day-00018-2025-07-08.json": {
+      "sha256": "c7d6e714c8de7c24a6e0ffa1165a5332f8fb795af46a2d3ac35371405f5fba2a",
+      "size": 446
+    },
+    "data/json/duster-106-swarm-day-00019-2025-07-09.json": {
+      "sha256": "5e7fa28f2cbb74103f9fc81a192a7efd2dfcfdb248a0fd6396d5ad11ca49f2ff",
+      "size": 446
+    },
+    "data/json/duster-106-swarm-day-00020-2025-07-10.json": {
+      "sha256": "a3adb2011150b8a9c8796231acefba2a17d47acbc40a8a67725832f64d6f1440",
+      "size": 446
+    },
+    "data/json/duster-106-swarm-day-00021-2025-07-11.json": {
+      "sha256": "35f35b7e5a0ba78336ad26e1cde1fdbaa61361204e9692a2f5f72d14c17355f8",
+      "size": 446
+    },
+    "data/json/duster-106-swarm-day-00022-2025-07-12.json": {
+      "sha256": "4c656e95e8029930bfed16c9734982e94124f31ced219ff003cd73d0b0802c25",
+      "size": 446
+    },
+    "data/json/duster-106-swarm-day-00023-2025-07-13.json": {
+      "sha256": "dcec29f77e4a0bbd7d118c9d00d7a92429347557e2fd06a0d7a0624a48769a4d",
+      "size": 446
+    },
+    "data/json/duster-106-swarm-day-00024-2025-07-14.json": {
+      "sha256": "b5b21315f9a5c73c9743a8eaefa71249b6f22812df439cd532a120210e1767b0",
+      "size": 446
+    },
+    "data/json/duster-106-swarm-day-00025-2025-07-15.json": {
+      "sha256": "05095879ad9e24493c8cf4c6a4c1073444eb60fa83130fe49f22507084b7261a",
+      "size": 446
+    },
+    "data/json/duster-106-swarm-day-00026-2025-07-16.json": {
+      "sha256": "e8d75f730be89f8130dbaa7f14763b55a7ec624279f01c2404d5776ed93a6539",
+      "size": 446
+    },
+    "data/json/duster-106-swarm-day-00027-2025-07-17.json": {
+      "sha256": "f2cb354f96dc71289fb5878fb4aacac8c10a922bf724b97c41638be8a9fa9093",
+      "size": 445
+    },
+    "data/json/duster-106-swarm-day-00028-2025-07-18.json": {
+      "sha256": "bdce5702c7dab16a404af8c4b534d3267a93affcaf2c0b59aac91062c70e2453",
+      "size": 445
+    },
+    "data/json/duster-106-swarm-day-00029-2025-07-19.json": {
+      "sha256": "0bec7b42b3cb2e4a88b8315fe0cdb5574df12eacea1205dab97bf60cb13a8a03",
+      "size": 445
+    },
+    "data/json/duster-106-swarm-day-00030-2025-07-20.json": {
+      "sha256": "67402528965b1630d44373361ee022147cd68034036f8e446aa0c4fabdda964a",
+      "size": 445
+    },
+    "data/json/duster-106-swarm-day-00031-2025-07-21.json": {
+      "sha256": "845802b3b51c91731d26a259a4e932de988bea8aed27d9b983db68ee848e13c0",
+      "size": 445
+    },
+    "data/json/duster-106-swarm-day-00032-2025-07-22.json": {
+      "sha256": "81282f8eb8793372cb3bdedbb38a06ccd67436e3832f0880df1599233b1d7dc2",
+      "size": 446
+    },
+    "data/json/duster-106-swarm-day-00033-2025-07-23.json": {
+      "sha256": "074be066bb1b53507ab757a30d5b616fc641014401dc0ae8207d11815afa6860",
+      "size": 445
+    },
+    "data/json/duster-106-swarm-day-00034-2025-07-24.json": {
+      "sha256": "645dee9534e352f36bd95970058b5525692d4b9602a306f47be04b63b9f1bdf6",
+      "size": 445
+    },
+    "data/json/duster-106-swarm-day-00035-2025-07-25.json": {
+      "sha256": "f367c432c4919cdcb441912fdf5ed4de1279a42f93d925b5dca9bfeb9e083f30",
+      "size": 445
+    },
+    "data/json/duster-106-swarm-day-00036-2025-07-26.json": {
+      "sha256": "a1d05d3261158dfa5b583037cedf5b0aa1ab438d2442c05a7ec52989688f4939",
+      "size": 445
+    },
+    "data/json/duster-106-swarm-day-00037-2025-07-27.json": {
+      "sha256": "854f7f60849daa0cb5430df82471668b4890d22642d81c9f1b64bc127ec08a2c",
+      "size": 445
+    },
+    "data/json/duster-106-swarm-day-00038-2025-07-28.json": {
+      "sha256": "1d0182e8c8a141f773f43f7c1b8fd7ec987f4519a3aee44c3dd54a49d628f217",
+      "size": 445
+    },
+    "data/json/duster-106-swarm-day-00039-2025-07-29.json": {
+      "sha256": "f2348dce253e7e5b7d5ea1529c5281f8d8885fa4730741c19a015a72388b33bb",
+      "size": 445
+    },
+    "data/json/duster-106-swarm-day-00040-2025-07-30.json": {
+      "sha256": "3abc2c1769696de30d9b1c2ebeec5a73598af6b815164abd19076419eb361ce5",
+      "size": 445
+    },
+    "data/json/duster-106-swarm-day-00041-2025-07-31.json": {
+      "sha256": "98787f1875220b5bde99ebe7962eb578e21ae81ed48102c2699a17b836c47087",
+      "size": 445
+    },
+    "data/json/duster-106-swarm-day-00042-2025-08-01.json": {
+      "sha256": "66b8631c624a24294b3bf253f2fc307d04fbb9673638ea34c0a696847441372a",
+      "size": 445
+    },
+    "data/json/duster-106-swarm-day-00043-2025-08-02.json": {
+      "sha256": "1a914bec1378066bb1e585f2d2c8ef412bf180bbfae20438ff0b6d39355e6f5f",
+      "size": 445
+    },
+    "data/json/duster-106-swarm-day-00044-2025-08-03.json": {
+      "sha256": "ccc05d963b9ef05321dff68567ae918ecd4391eebdec7c695eef92e54a06dabf",
+      "size": 445
+    },
+    "data/json/duster-106-swarm-day-00045-2025-08-04.json": {
+      "sha256": "6b039e02e2b16ec92a8d466fee6bb3b4d3d39fda1cd1a44f655cc7fa8d1c284d",
+      "size": 445
+    },
+    "data/json/duster-106-swarm-day-00046-2025-08-05.json": {
+      "sha256": "50468054cc024f5207d476ed28f05f94f797e18da2fa01418095cf0624431f2b",
+      "size": 444
+    },
+    "data/json/duster-106-swarm-day-00047-2025-08-06.json": {
+      "sha256": "e21b202c3a0e8c045eddf9f0f1f2d12dd7a40edcc03bc815ea2599ba75685c0f",
+      "size": 445
+    },
+    "data/json/duster-106-swarm-day-00048-2025-08-07.json": {
+      "sha256": "b37faee2a2fc50fc8263b0fc5501e3b0692e2652fe16723247460deefb1d9976",
+      "size": 445
+    },
+    "data/json/duster-106-swarm-day-00049-2025-08-08.json": {
+      "sha256": "2b980ce968f95fe879e51e94f580a6758dfb38f0da10cca6e35f73a9180aa0d8",
+      "size": 445
+    },
+    "data/json/duster-106-swarm-day-00050-2025-08-09.json": {
+      "sha256": "2c32d536d1e4ea142d119a428690649026dffa0085c3766e1bc629ae841602fe",
+      "size": 445
+    },
+    "data/json/duster-106-swarm-day-00051-2025-08-10.json": {
+      "sha256": "1a33e56745ecf51ae83f96f69fb398a5f9926d357f3ead08235dfd65ee22fc3e",
+      "size": 445
+    },
+    "data/json/duster-106-swarm-day-00052-2025-08-11.json": {
+      "sha256": "1e0bc4ede3b53de0e12841e51031c8655126b2d2b2d0551b90ee4b6230848ced",
+      "size": 445
+    },
+    "data/json/duster-106-swarm-day-00053-2025-08-12.json": {
+      "sha256": "d7b925e1cab8d3eff7cd574f2465a284c9a0e6472e573728e363afc9df6bb99f",
+      "size": 445
+    },
+    "data/json/duster-106-swarm-day-00054-2025-08-13.json": {
+      "sha256": "c48a39c2a06a02cb8a7f8246a64a9e3478e1c01b997086fcf19d2734c3074721",
+      "size": 445
+    },
+    "data/json/duster-106-swarm-day-00055-2025-08-14.json": {
+      "sha256": "4803ff75e601112b73e0696a8c796682557ff317f0ea1a261f29bb8ae382e241",
+      "size": 445
+    },
+    "data/json/duster-106-swarm-day-00056-2025-08-15.json": {
+      "sha256": "d1270a1058f35d8560cb3da6bc82509687c0f5a2aef0529964eb6a64e3ebfd5d",
+      "size": 445
+    },
+    "data/json/duster-106-swarm-day-00057-2025-08-16.json": {
+      "sha256": "82edd7a90d0e26bc36c74860d903f957befae9de89486d7fcfe0ccccd5179173",
+      "size": 445
+    },
+    "data/json/duster-106-swarm-day-00058-2025-08-17.json": {
+      "sha256": "e3fb914b7ec9933b2a46f06570f0ffa6766971be388c3a155341666f5580a6e9",
+      "size": 445
+    },
+    "data/json/duster-106-swarm-day-00059-2025-08-18.json": {
+      "sha256": "48a216bdae6aecdfe9a4914b4143f4306a2d4c89f1ed7f9fa0cbe2b075efa440",
+      "size": 445
+    },
+    "data/json/duster-106-swarm-day-00060-2025-08-19.json": {
+      "sha256": "5f173f1609b84d585583f251beca865ccd4faf1e9aa4f81f21a1e4e7bb7abb8e",
+      "size": 445
+    },
+    "data/json/duster-106-swarm-day-00061-2025-08-20.json": {
+      "sha256": "895dcae4df7cff7e7efc4ff92b61d5e8787d22c6dbd072035fbc4e59635f78ea",
+      "size": 445
+    },
+    "data/json/duster-106-swarm-day-00062-2025-08-21.json": {
+      "sha256": "ff24f242fb639634ccd4e71ee3db6f21f8792f97450f2cae8feaf780ce0dd544",
+      "size": 445
+    },
+    "data/json/duster-106-swarm-day-00063-2025-08-22.json": {
+      "sha256": "83abe25ed27ee4437c2a94fc54e408d2935f25e34649e96c20dfc7424fba447a",
+      "size": 445
+    },
+    "data/json/duster-106-swarm-day-00064-2025-08-23.json": {
+      "sha256": "0c15fffe8bb602f963c02666610b01f913b4c7b091c082b8231e53f6aa9e8293",
+      "size": 445
+    },
+    "data/json/duster-106-swarm-day-00065-2025-08-24.json": {
+      "sha256": "190b9f9af37a2b2e8898de5179636269b6a470942cc898e8b0c089852ff678c0",
+      "size": 445
+    },
+    "data/json/duster-106-swarm-day-00066-2025-08-25.json": {
+      "sha256": "5ba442a2d0e58b47465348df97508b74a33750c931188271604dac860540c0d6",
+      "size": 445
+    },
+    "data/json/duster-106-swarm-day-00067-2025-08-26.json": {
+      "sha256": "e288b070665aa446a9371323040ac7f31ea5f7aaedfa33c95d34dcdf2c1253d0",
+      "size": 445
+    },
+    "data/json/duster-106-swarm-day-00068-2025-08-27.json": {
+      "sha256": "e3387c6b69a723bba0326e4a77048afca708e43aa724d9cf3436a67b9e095050",
+      "size": 445
+    },
+    "data/json/duster-106-swarm-day-00069-2025-08-28.json": {
+      "sha256": "57957b6cbb673a726d17c762dbdc219c847a08564c588fb7af00a6b3bad98413",
+      "size": 445
+    },
+    "data/json/duster-106-swarm-day-00070-2025-08-29.json": {
+      "sha256": "27529106595fd4b76a7da54ae49e3edc48ecd8b8a77dea9cca10f49e9eb1da70",
+      "size": 445
+    },
+    "data/json/duster-106-swarm-day-00071-2025-08-30.json": {
+      "sha256": "f9cd26177d56ca8bb50b81ef65a6b6c76fefa3e76dcbb5e5c299e9e87ec92329",
+      "size": 445
+    },
+    "data/json/duster-106-swarm-day-00072-2025-08-31.json": {
+      "sha256": "a5d45ebe19d238410ef96dd8e7bee12d8123b9096c75b4272f107edb17dbfe3e",
+      "size": 445
+    },
+    "data/json/duster-106-swarm-day-00073-2025-09-01.json": {
+      "sha256": "50771b210d282cdbafb02783d4f20bb50126342bf3e27d4e6560e3a47b17ce87",
+      "size": 445
+    },
+    "data/json/duster-106-swarm-day-00074-2025-09-02.json": {
+      "sha256": "0ca50004d2ce1902ce043e330108554a7858fb32a221c20173734223241678f3",
+      "size": 444
+    },
+    "data/json/duster-106-swarm-day-00075-2025-09-03.json": {
+      "sha256": "f2dbcc956379f4b473307a27e8bfb45825fb58124d17d1384af88027e79ead24",
+      "size": 444
+    },
+    "data/json/duster-106-swarm-day-00076-2025-09-04.json": {
+      "sha256": "75aafec2223fdf59fe9ea1e6ad189c8dc297de7aeb98deaf1f3038c17bb331b1",
+      "size": 445
+    },
+    "data/json/duster-106-swarm-day-00077-2025-09-05.json": {
+      "sha256": "65e9a8dc390ca00cc73ffaed84d3875651df648d89ad3e45ef3241890cf20477",
+      "size": 445
+    },
+    "data/json/duster-106-swarm-day-00078-2025-09-06.json": {
+      "sha256": "e57c9bebaa1dae0523d40ca9ab02fda221841e2001259941d9653632d0d89b85",
+      "size": 445
+    },
+    "data/json/duster-106-swarm-day-00079-2025-09-07.json": {
+      "sha256": "0ef6a5b610c01b12d73f2174efa2903e75ff970b1075e546263d4d5e30b365af",
+      "size": 445
+    },
+    "data/json/duster-106-swarm-day-00080-2025-09-08.json": {
+      "sha256": "83c07b843c4119dc8c06bd82f2d4218b35e6bb90676504f4fb5ef896b884162f",
+      "size": 445
+    },
+    "data/json/duster-106-swarm-day-00081-2025-09-09.json": {
+      "sha256": "86f14420e99d7d11316b60fba5798181351e24e68180722a718098a482c747e4",
+      "size": 445
+    },
+    "data/json/duster-106-swarm-day-00082-2025-09-10.json": {
+      "sha256": "52d7a446cc273652a924c8a94c5a88b748c55ca78acae6e0993fd6fcd7067c2d",
+      "size": 445
+    },
+    "data/json/duster-106-swarm-day-00083-2025-09-11.json": {
+      "sha256": "0ef7739ddbc5c8ad02eb5a18816bf5ae735dffe37e9103d99420aae4dce11b64",
+      "size": 445
+    },
+    "data/json/duster-106-swarm-day-00084-2025-09-12.json": {
+      "sha256": "864061a05b1f0b9c8b6aaea7e1d084f2e87582e0f5f7816e2248d6b737aec84f",
+      "size": 445
+    },
+    "data/json/duster-106-swarm-day-00085-2025-09-13.json": {
+      "sha256": "e0f5e9c654b2979994ed6902f466720f1ba627f55a614de00e72ea7d9c49b0ed",
+      "size": 445
+    },
+    "data/json/duster-106-swarm-day-00086-2025-09-14.json": {
+      "sha256": "6bba131759d6bd34d14eb27295e3f25bf7769c759794f4ad6266b675fa68b5cb",
+      "size": 445
+    },
+    "data/json/duster-106-swarm-day-00087-2025-09-15.json": {
+      "sha256": "fa1942795b36009a5fd833f1c67a5d1cb626292129d5eb975e3000f8d4ff3601",
+      "size": 445
+    },
+    "data/json/duster-106-swarm-day-00088-2025-09-16.json": {
+      "sha256": "6f927d50e5ad3b2459c78666fb72c2f6c57d6e6d1e83b56441ddbae62cb8f603",
+      "size": 445
+    },
+    "data/json/duster-106-swarm-day-00089-2025-09-17.json": {
+      "sha256": "99038e9616a9ef6489f34422ae6d853ecd073991e783a79adb277ae76a5fc893",
+      "size": 445
+    },
+    "data/json/duster-106-swarm-day-00090-2025-09-18.json": {
+      "sha256": "e6373b19956ae72fe6d0989adf380ce4fb81f252549d3e28c3e9158259248db1",
+      "size": 445
+    },
+    "data/json/duster-106-swarm-day-00091-2025-09-19.json": {
+      "sha256": "a94bb1270d5804321b3bfd77327d08f4425201c6de1bd12953ac503ec79f02a8",
+      "size": 445
+    },
+    "data/json/duster-106-swarm-day-00092-2025-09-20.json": {
+      "sha256": "b5f7dc5741aa96132343d928893956fcf35d6f4be2e668331ffc7b36d40fa661",
+      "size": 445
+    },
+    "data/json/duster-106-swarm-day-00093-2025-09-21.json": {
+      "sha256": "92319c27ad4e7a5322101fcdc9302a248613673dffc9d88f9847dae74df02138",
+      "size": 445
+    },
+    "data/json/duster-106-swarm-day-00094-2025-09-22.json": {
+      "sha256": "8002ea2869b506ba5f4d27316afcb8f184d4db0f5439bc11907fa7e093902595",
+      "size": 445
+    },
+    "data/json/duster-106-swarm-day-00095-2025-09-23.json": {
+      "sha256": "0e06d3dc76aa9b51859e2525e3fc3e79e413c31a5ac02075d3532b00bfcb8a17",
+      "size": 445
+    },
+    "data/json/duster-106-swarm-day-00096-2025-09-24.json": {
+      "sha256": "03980c3a47af6130b16d4c5e081002186c3fc4857a641a3a6b32c5f17679b360",
+      "size": 445
+    },
+    "data/json/duster-106-swarm-day-00097-2025-09-25.json": {
+      "sha256": "bcd11dbd8e43422df46aa3a71f13a77caa79ccbb90dccbf4dd812dd1ba55f8b7",
+      "size": 445
+    },
+    "data/json/duster-106-swarm-day-00098-2025-09-26.json": {
+      "sha256": "9b8295b2495f3e0de06affbce7746be5add88d4e41df9b1b8dc765c1e3fe1046",
+      "size": 445
+    },
+    "data/json/duster-106-swarm-day-00099-2025-09-27.json": {
+      "sha256": "4a069bf1c2893452f262d4a89e1592082456e2be17e0ae4887cc149f003917ec",
+      "size": 445
+    },
+    "data/json/duster-106-swarm-day-00100-2025-09-28.json": {
+      "sha256": "699263bae98a26149df60e9fbd340edd6247b89afdba0db22f052f5b2d955a87",
+      "size": 446
+    },
+    "data/json/duster-106-swarm-day-00101-2025-09-29.json": {
+      "sha256": "8f6cf18830bfa148a76a67e7a202ac153e97c3ba3c3e63a64c8fc334feb0c7ff",
+      "size": 446
+    },
+    "data/json/duster-106-swarm-day-00102-2025-09-30.json": {
+      "sha256": "bc446f884118a0090e2e194ccea666a140be0242be7d072447420bfbb39a10c8",
+      "size": 446
+    },
+    "data/json/duster-106-swarm-day-00103-2025-10-01.json": {
+      "sha256": "9b71ff44121a86ef5836625a006c6204e3fd6a5c0c2d47339e66f304c1c1ec00",
+      "size": 446
+    },
+    "data/json/duster-106-swarm-day-00104-2025-10-02.json": {
+      "sha256": "387d68324582c27e67423730a3df3ead573fdaea2929408e11a1cf21c926cef5",
+      "size": 446
+    },
+    "data/json/duster-106-swarm-day-00105-2025-10-03.json": {
+      "sha256": "85866d90ef1407ca74ab403af7092959b8610b365ce10fc5fba8d044979ee228",
+      "size": 446
+    },
+    "data/json/duster-106-swarm-day-00106-2025-10-04.json": {
+      "sha256": "450d316e491258cf085c8a301792f5f5b0b9ea25e28fb9a782d45b6f4934dadd",
+      "size": 446
+    }
+  },
+  "schema": "alpha60-year-day-product-bundle/1",
+  "source_revisions": {
+    "aggregate_binary": {
+      "sha256": "80bdf6691c0ef6ed5fcc7fa3a6462748104e1935ce5b2a4df3861e11bb13195a",
+      "size": 38582648
+    },
+    "alpha60": "ee81b50bb9790eb0c52125cba38ea8787a1a140f",
+    "alpha60_data": "8faeae67a5d274d1fc00bffe9fc9318329163b20",
+    "day_product_contract": {
+      "sha256": "72cef2b39ed0d6c6f6120f86d21517dd8d4f76982935c36e8d290638c4a3a10b",
+      "size": 9267
+    },
+    "metadata": "fbeb53a0b523f937fae2f23d14689d8c5c84dd5a",
+    "package_script": {
+      "sha256": "79bb170e38712e3653cf3cd8b781ddddf293af5eb6a916b4cb881a67cab8cf97",
+      "size": 11299
+    }
+  },
+  "status": "pass"
+}
