@@ -1,0 +1,3442 @@
+{
+  "assignment_policy": "largest-archive-first-minimum-assigned-bytes",
+  "cache_root": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold",
+  "counts": {
+    "approved_filename_date_mismatches": 4,
+    "eligible_archives": 104,
+    "records": 83,
+    "sample_end_matches": 79,
+    "selected_archive_bytes": 180529208068,
+    "selected_archive_hashes": 83,
+    "unique_records": 83
+  },
+  "inventory": {
+    "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-0-media-objects.txt",
+    "sha256": "cc67f2588417d1b700330839555655210449fe64223981f4f9c681528c927821"
+  },
+  "overrides": {
+    "count": 4,
+    "path": "/home/bkoz/src/alpha60/config/year-2025-cache-archive-date-overrides.json",
+    "sha256": "9c4aa59e8d7700f3136162736173c770a28fa0e9b07c4e3cace0ec387b028b4f"
+  },
+  "owners": {
+    "eureka": {
+      "archive_bytes": 90315585616,
+      "records": 41
+    },
+    "ord": {
+      "archive_bytes": 90213622452,
+      "records": 42
+    }
+  },
+  "records": [
+    {
+      "archive": {
+        "filename": "cache.20260210.tar.xz",
+        "filename_date": "20260210",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/alien-earth-101.cache/cache.20260210.tar.xz",
+        "sha256": "382905707e40942e001877df080538c558d187d1215bb0a92466fb79a417b5dd",
+        "size": 4550948368
+      },
+      "collection_key": "alien-earth-101",
+      "day_cache_validation": {
+        "required_collection_key": "alien-earth-101",
+        "required_sample_days": 182,
+        "required_sample_end": "2026-02-10",
+        "required_sample_start": "2025-08-13",
+        "status": "pending-read-only-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "101, 102, 103",
+        "collection_name": "Alien: Earth",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 182,
+        "sample_end": "2026-02-10",
+        "sample_start": "2025-08-13",
+        "sha256": "36d0665e3fb11db56b70b60b7da0dfae3210e56bb28567185edaadcddc4bfc6c",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/alien-earth-101-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20260210.tar.xz",
+            "size": 4550948368
+          }
+        ],
+        "expected_filename_date": "20260210"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20260310.tar.xz",
+        "filename_date": "20260310",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/alien-earth-106.cache/cache.20260310.tar.xz",
+        "sha256": "5b4df460b1706d8b018724cfaebe219baaae49c2ba5395a7b57103e4bbae4cdb",
+        "size": 4535282500
+      },
+      "collection_key": "alien-earth-106",
+      "day_cache_validation": {
+        "required_collection_key": "alien-earth-106",
+        "required_sample_days": 182,
+        "required_sample_end": "2026-03-10",
+        "required_sample_start": "2025-09-10",
+        "status": "pending-read-only-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "106, 107, 108",
+        "collection_name": "Alien: Earth",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 182,
+        "sample_end": "2026-03-10",
+        "sample_start": "2025-09-10",
+        "sha256": "dd3e0001d33abd6d1ba7fdf790cf2588b28fcb3c82363d9f9b68611781b2b730",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/alien-earth-106-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20260310.tar.xz",
+            "size": 4535282500
+          }
+        ],
+        "expected_filename_date": "20260310"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20250504.tar.xz",
+        "filename_date": "20250504",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/american-primeval.cache/cache.20250504.tar.xz",
+        "sha256": "d34e471b78ed6e9e36a42a88bfbf5a834ace016edb9c004558b376a8d2d027ea",
+        "size": 1913354700
+      },
+      "collection_key": "american-primeval",
+      "day_cache_validation": {
+        "required_collection_key": "american-primeval",
+        "required_sample_days": 115,
+        "required_sample_end": "2025-05-04",
+        "required_sample_start": "2025-01-10",
+        "status": "pending-read-only-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "S01",
+        "collection_name": "American Primeval",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 115,
+        "sample_end": "2025-05-04",
+        "sample_start": "2025-01-10",
+        "sha256": "d0119fd3cf76544fd68b6803b8ef0bdd85ff069aa2abba88df05f6e1cc6b2ca7",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/american-primeval-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20250213.tar.xz",
+            "size": 762227388
+          },
+          {
+            "filename": "cache.20250504.tar.xz",
+            "size": 1913354700
+          }
+        ],
+        "expected_filename_date": "20250504"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20260518.tar.xz",
+        "filename_date": "20260518",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/american-revolution-2025.cache/cache.20260518.tar.xz",
+        "sha256": "b9e2d4f9cfcb31e5d63ca156ab5ee8042ce4b26ccaa07531f05b5d7daffb4f58",
+        "size": 653297484
+      },
+      "collection_key": "american-revolution-2025",
+      "day_cache_validation": {
+        "required_collection_key": "american-revolution-2025",
+        "required_sample_days": 182,
+        "required_sample_end": "2026-05-18",
+        "required_sample_start": "2025-11-18",
+        "status": "pending-read-only-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "2025",
+        "collection_name": "American Revolution",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 182,
+        "sample_end": "2026-05-18",
+        "sample_start": "2025-11-18",
+        "sha256": "84ea163f0235b6b5cd6c84db3bf2317ffeff6161291698c8842e617bcb4dc610",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/american-revolution-2025-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20260316.tar.xz",
+            "size": 459868956
+          },
+          {
+            "filename": "cache.20260420.tar.xz",
+            "size": 580960124
+          },
+          {
+            "filename": "cache.20260518.tar.xz",
+            "size": 653297484
+          }
+        ],
+        "expected_filename_date": "20260518"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20251027.tar.xz",
+        "filename_date": "20251027",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/andor-201.cache/cache.20251027.tar.xz",
+        "sha256": "a1b31832108a26aa07dc82b0268f915a27339532705f350667e49c81e89c75e1",
+        "size": 3337709816
+      },
+      "collection_key": "andor-201",
+      "day_cache_validation": {
+        "required_collection_key": "andor-201",
+        "required_sample_days": 188,
+        "required_sample_end": "2025-10-27",
+        "required_sample_start": "2025-04-23",
+        "status": "pending-read-only-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "201, 202, 203",
+        "collection_name": "Andor",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 188,
+        "sample_end": "2025-10-27",
+        "sample_start": "2025-04-23",
+        "sha256": "5d31e1ad17371c12eb8541f5b9354dd1425882ff378c09b19fc8863167d841aa",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/andor-201-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20251027.tar.xz",
+            "size": 3337709816
+          }
+        ],
+        "expected_filename_date": "20251027"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20251112.tar.xz",
+        "filename_date": "20251112",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/andor-210.cache/cache.20251112.tar.xz",
+        "sha256": "4e31f200b388e1ff4403e1cc76aedd5ce047e0b9dc87443d6b53394731e784ac",
+        "size": 4136242832
+      },
+      "collection_key": "andor-210",
+      "day_cache_validation": {
+        "required_collection_key": "andor-210",
+        "required_sample_days": 183,
+        "required_sample_end": "2025-11-12",
+        "required_sample_start": "2025-05-14",
+        "status": "pending-read-only-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "210, 211, 212",
+        "collection_name": "Andor",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 183,
+        "sample_end": "2025-11-12",
+        "sample_start": "2025-05-14",
+        "sha256": "18a936da6c5d5b1cb8a48057ffc1b911af1d30d61c9d551b5e00e4f17d8ef1fe",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/andor-210-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20251112.tar.xz",
+            "size": 4136242832
+          }
+        ],
+        "expected_filename_date": "20251112"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20260107.tar.xz",
+        "filename_date": "20260107",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/ballard-01.cache/cache.20260107.tar.xz",
+        "sha256": "efd2ad98d64b06535984bb976f26426b1814fbce15edfa6daa8040b7dba34dd6",
+        "size": 2186070264
+      },
+      "collection_key": "ballard-01",
+      "day_cache_validation": {
+        "required_collection_key": "ballard-01",
+        "required_sample_days": 182,
+        "required_sample_end": "2026-01-07",
+        "required_sample_start": "2025-07-10",
+        "status": "pending-read-only-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "101, 102, 103, 104, 105, 106, 107, 108, 109, 110",
+        "collection_name": "Ballard",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 182,
+        "sample_end": "2026-01-07",
+        "sample_start": "2025-07-10",
+        "sha256": "88c908c69a36eb5eea240b1883f4b96008c1c8d28a398effa7b40e01c6bf95ed",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/ballard-01-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20260107.tar.xz",
+            "size": 2186070264
+          }
+        ],
+        "expected_filename_date": "20260107"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20251231.tar.xz",
+        "filename_date": "20251231",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/bear-04.cache/cache.20251231.tar.xz",
+        "sha256": "c9e3da1a9e3d39cf33756a3269c38ef47dd681542468717db4e53721ee7c53a4",
+        "size": 4184361208
+      },
+      "collection_key": "bear-04",
+      "day_cache_validation": {
+        "required_collection_key": "bear-04",
+        "required_sample_days": 189,
+        "required_sample_end": "2025-12-31",
+        "required_sample_start": "2025-06-26",
+        "status": "pending-read-only-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "S04",
+        "collection_name": "The Bear",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 189,
+        "sample_end": "2025-12-31",
+        "sample_start": "2025-06-26",
+        "sha256": "8c5d875d788b65168d2b591ec9e0c08d74fd3c4bb093f62b0eb72fde2f4d4fea",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/bear-04-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20251231.tar.xz",
+            "size": 4184361208
+          }
+        ],
+        "expected_filename_date": "20251231"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20260310.tar.xz",
+        "filename_date": "20260310",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/beatles-anthology.cache/cache.20260310.tar.xz",
+        "sha256": "d72ba34a9427b2ce6429d08dd1d608226e7cda8201844cc4017a2b9e377c42b2",
+        "size": 448287336
+      },
+      "collection_key": "beatles-anthology",
+      "day_cache_validation": {
+        "required_collection_key": "beatles-anthology",
+        "required_sample_days": 105,
+        "required_sample_end": "2026-03-10",
+        "required_sample_start": "2025-11-26",
+        "status": "pending-read-only-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "",
+        "collection_name": "The Beatles: Anthology",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 105,
+        "sample_end": "2026-03-10",
+        "sample_start": "2025-11-26",
+        "sha256": "8ba780057df0eb4cb4e8c049d007b7f2e2dcefd6b363b17bc5d2f5d7ac648922",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/beatles-anthology-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20260310.tar.xz",
+            "size": 448287336
+          }
+        ],
+        "expected_filename_date": "20260310"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20250715.tar.xz",
+        "filename_date": "20250715",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/black-bag-2025.cache/cache.20250715.tar.xz",
+        "sha256": "86e9628c206a4def682c108a3d9a9b558870add31999d0ebbcccbba0218faf66",
+        "size": 1456629576
+      },
+      "collection_key": "black-bag-2025",
+      "day_cache_validation": {
+        "required_collection_key": "black-bag-2025",
+        "required_sample_days": 105,
+        "required_sample_end": "2025-07-15",
+        "required_sample_start": "2025-04-02",
+        "status": "pending-read-only-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "2025",
+        "collection_name": "Black Bag",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 105,
+        "sample_end": "2025-07-15",
+        "sample_start": "2025-04-02",
+        "sha256": "9b6e7bd4204daf07308e7004f7240cda926e3fe7e84b440bc296e48e52dbfb49",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/black-bag-2025-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20250715.tar.xz",
+            "size": 1456629576
+          }
+        ],
+        "expected_filename_date": "20250715"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20260129.tar.xz",
+        "filename_date": "20260129",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/chief-of-war-101.cache/cache.20260129.tar.xz",
+        "sha256": "0202d3b406bf309c29ac2ef9a123313e4c9ea953f9b94ed0a6cf2df38e55bf4d",
+        "size": 2151628004
+      },
+      "collection_key": "chief-of-war-101",
+      "day_cache_validation": {
+        "required_collection_key": "chief-of-war-101",
+        "required_sample_days": 182,
+        "required_sample_end": "2026-01-29",
+        "required_sample_start": "2025-08-01",
+        "status": "pending-read-only-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "101, 102, 103",
+        "collection_name": "Chief of War",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 182,
+        "sample_end": "2026-01-29",
+        "sample_start": "2025-08-01",
+        "sha256": "214437ab416bdd3a132afe9fa9f3f07d2aa08e596f26ca568d9078c23cdfd560",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/chief-of-war-101-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20260129.tar.xz",
+            "size": 2151628004
+          }
+        ],
+        "expected_filename_date": "20260129"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20251218.tar.xz",
+        "filename_date": "20251218",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/chief-of-war-107.cache/cache.20251218.tar.xz",
+        "sha256": "ee72f8cc3b6624270a8b3d0e08ea7af909c8caf302d0dabaad4865b467fd88c4",
+        "size": 1400873300
+      },
+      "collection_key": "chief-of-war-107",
+      "day_cache_validation": {
+        "required_collection_key": "chief-of-war-107",
+        "required_sample_days": 105,
+        "required_sample_end": "2025-12-18",
+        "required_sample_start": "2025-09-05",
+        "status": "pending-read-only-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "107, 108, 109",
+        "collection_name": "Chief of War",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 105,
+        "sample_end": "2025-12-18",
+        "sample_start": "2025-09-05",
+        "sha256": "83ef0a2ff8936f6d34724fa440ae553baa6758e62c20c8420aeebed17cc6db44",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/chief-of-war-107-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20251218.tar.xz",
+            "size": 1400873300
+          }
+        ],
+        "expected_filename_date": "20251218"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20250528.tar.xz",
+        "filename_date": "20250528",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/cobra-kai-06.3.cache/cache.20250528.tar.xz",
+        "sha256": "c482436aac1047582ee5e9c78c8cce70159ca9a19baaef76adf29a9e548bac12",
+        "size": 718379040
+      },
+      "collection_key": "cobra-kai-06.3",
+      "day_cache_validation": {
+        "required_collection_key": "cobra-kai-06.3",
+        "required_sample_days": 105,
+        "required_sample_end": "2025-05-28",
+        "required_sample_start": "2025-02-13",
+        "status": "pending-read-only-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "6.3",
+        "collection_name": "Cobra Kai",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 105,
+        "sample_end": "2025-05-28",
+        "sample_start": "2025-02-13",
+        "sha256": "210ee88dcaa4ba9266d90013426f63b62aad4fd90c55657170e14e978715f379",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/cobra-kai-06.3-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20250528.tar.xz",
+            "size": 718379040
+          }
+        ],
+        "expected_filename_date": "20250528"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20250519.tar.xz",
+        "filename_date": "20250519",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/common-side-effects-01.cache/cache.20250519.tar.xz",
+        "sha256": "f8059f1356732b4a9cb54fe3adc29480609748d027701068d2e7789a4ece54d5",
+        "size": 1271641732
+      },
+      "collection_key": "common-side-effects-01",
+      "day_cache_validation": {
+        "required_collection_key": "common-side-effects-01",
+        "required_sample_days": 106,
+        "required_sample_end": "2025-05-19",
+        "required_sample_start": "2025-02-03",
+        "status": "pending-read-only-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "1",
+        "collection_name": "Common Side Effects",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 106,
+        "sample_end": "2025-05-19",
+        "sample_start": "2025-02-03",
+        "sha256": "3b1cd1f9bf7164b6f0e6b596e736b41ecd8ce44f03ed9a6f27525e5b31f8547e",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/common-side-effects-01-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20250519.tar.xz",
+            "size": 1271641732
+          }
+        ],
+        "expected_filename_date": "20250519"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20250609.tar.xz",
+        "filename_date": "20250609",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/companion-2025.cache/cache.20250609.tar.xz",
+        "sha256": "fd4feb7a802e56b6a7a80c1269ef9d50739169cbbfb8ee158958e817c4c7453f",
+        "size": 1810724964
+      },
+      "collection_key": "companion-2025",
+      "day_cache_validation": {
+        "required_collection_key": "companion-2025",
+        "required_sample_days": 112,
+        "required_sample_end": "2025-06-09",
+        "required_sample_start": "2025-02-18",
+        "status": "pending-read-only-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "",
+        "collection_name": "Companion",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 112,
+        "sample_end": "2025-06-09",
+        "sample_start": "2025-02-18",
+        "sha256": "1c22793e77a1f722cf9c208bebc28dbbf324105880bb10f5c053a87751a50da1",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/companion-2025-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20250609.tar.xz",
+            "size": 1810724964
+          }
+        ],
+        "expected_filename_date": "20250609"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20260304.tar.xz",
+        "filename_date": "20260304",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/dan-da-dan-210.cache/cache.20260304.tar.xz",
+        "sha256": "2ec21e71f08a201485ff4644c197e5e2e7eb997ef4c482a6058f1bd9ca3a6d32",
+        "size": 3294561980
+      },
+      "collection_key": "dan-da-dan-210",
+      "day_cache_validation": {
+        "required_collection_key": "dan-da-dan-210",
+        "required_sample_days": 182,
+        "required_sample_end": "2026-03-04",
+        "required_sample_start": "2025-09-04",
+        "status": "pending-read-only-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "210, 211, 212",
+        "collection_name": "Dan Da Dan",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 182,
+        "sample_end": "2026-03-04",
+        "sample_start": "2025-09-04",
+        "sha256": "48fc34f3ec8b7bead097657e1c991ed0f0650f70cd522163ba22aee37130fd3e",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/dan-da-dan-210-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20260304.tar.xz",
+            "size": 3294561980
+          }
+        ],
+        "expected_filename_date": "20260304"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20250621.tar.xz",
+        "filename_date": "20250621",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/dark-winds-301.cache/cache.20250621.tar.xz",
+        "sha256": "88f8254943e9c09733e6fee27974c160c8a5975ee1b0c21b4ecf092c8c1a1296",
+        "size": 549007740
+      },
+      "collection_key": "dark-winds-301",
+      "day_cache_validation": {
+        "required_collection_key": "dark-winds-301",
+        "required_sample_days": 105,
+        "required_sample_end": "2025-06-21",
+        "required_sample_start": "2025-03-09",
+        "status": "pending-read-only-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "301, 302, 303",
+        "collection_name": "Dark Winds",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 105,
+        "sample_end": "2025-06-21",
+        "sample_start": "2025-03-09",
+        "sha256": "f163caf1b487b7e1766f4a24dd137bd6c4ecc51712109e8f78a379aba2edf93c",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/dark-winds-301-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20250621.tar.xz",
+            "size": 549007740
+          }
+        ],
+        "expected_filename_date": "20250621"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20260219.tar.xz",
+        "filename_date": "20260219",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/death-by-lightning.cache/cache.20260219.tar.xz",
+        "sha256": "ae429a00b6555e931d48600c86d56dd6b8e75c63c068fae81a1ee75e358f7ee8",
+        "size": 682323128
+      },
+      "collection_key": "death-by-lightning",
+      "day_cache_validation": {
+        "required_collection_key": "death-by-lightning",
+        "required_sample_days": 105,
+        "required_sample_end": "2026-02-19",
+        "required_sample_start": "2025-11-07",
+        "status": "pending-read-only-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "",
+        "collection_name": "Death by Lightning",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 105,
+        "sample_end": "2026-02-19",
+        "sample_start": "2025-11-07",
+        "sha256": "3198c07cbdd1597d96d9da350d61be9e3bb4288df1f428f29fc36c710d64ac8a",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/death-by-lightning-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20260219.tar.xz",
+            "size": 682323128
+          }
+        ],
+        "expected_filename_date": "20260219"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20260629.tar.xz",
+        "filename_date": "20260629",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/demon-slayer-kimetsu-no-yaiba-the-movie-infinity-castle.cache/cache.20260629.tar.xz",
+        "sha256": "82698ae41bf7e3a0a61c075648e179145821dc974863934bc1401f4bf34308e8",
+        "size": 649370900
+      },
+      "collection_key": "demon-slayer-kimetsu-no-yaiba-the-movie-infinity-castle",
+      "day_cache_validation": {
+        "required_collection_key": "demon-slayer-kimetsu-no-yaiba-the-movie-infinity-castle",
+        "required_sample_days": 182,
+        "required_sample_end": "2026-06-29",
+        "required_sample_start": "2025-12-30",
+        "status": "pending-read-only-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "",
+        "collection_name": "Demon Slayer Kimetsu No Yaiba The Movie Infinity Castle",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 182,
+        "sample_end": "2026-06-29",
+        "sample_start": "2025-12-30",
+        "sha256": "528403c573a834e469edeefa5738b01031b0f4af0aabdb07491e9540c6f740ca",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/demon-slayer-kimetsu-no-yaiba-the-movie-infinity-castle-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20260629.tar.xz",
+            "size": 649370900
+          }
+        ],
+        "expected_filename_date": "20260629"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20250626.tar.xz",
+        "filename_date": "20250626",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/dope-thief-101.cache/cache.20250626.tar.xz",
+        "sha256": "b76ba7e16d9dd7913b1d3f8dc25327b168d4e2d2422e4051767e362c6fa6a4f0",
+        "size": 880125416
+      },
+      "collection_key": "dope-thief-101",
+      "day_cache_validation": {
+        "required_collection_key": "dope-thief-101",
+        "required_sample_days": 105,
+        "required_sample_end": "2025-06-26",
+        "required_sample_start": "2025-03-14",
+        "status": "pending-read-only-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "101",
+        "collection_name": "Dope Thief",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 105,
+        "sample_end": "2025-06-26",
+        "sample_start": "2025-03-14",
+        "sha256": "9bba3fdfa7eafb1f1fc471b30e591c355f55f92e3744b49d5ccbb295d59c5447",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/dope-thief-101-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20250626.tar.xz",
+            "size": 880125416
+          }
+        ],
+        "expected_filename_date": "20250626"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20260210.tar.xz",
+        "filename_date": "20260210",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/down-cemetery-road-101.cache/cache.20260210.tar.xz",
+        "sha256": "5538bfe96314aa33cb1e9110e4212e4616dc6ac0caea2ce35e855caeef29e53d",
+        "size": 823231432
+      },
+      "collection_key": "down-cemetery-road-101",
+      "day_cache_validation": {
+        "required_collection_key": "down-cemetery-road-101",
+        "required_sample_days": 105,
+        "required_sample_end": "2026-02-10",
+        "required_sample_start": "2025-10-29",
+        "status": "pending-read-only-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "101",
+        "collection_name": "Down Cemetery Road",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 105,
+        "sample_end": "2026-02-10",
+        "sample_start": "2025-10-29",
+        "sha256": "48f78b906d907b9bced279a706eb2db14a4926c4cd9b51b7cc8a4e1c6042b94b",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/down-cemetery-road-101-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20251223.tar.xz",
+            "size": 211611552
+          },
+          {
+            "filename": "cache.20260210.tar.xz",
+            "size": 823231432
+          }
+        ],
+        "expected_filename_date": "20260210"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20250827.tar.xz",
+        "filename_date": "20250827",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/duster-101.cache/cache.20250827.tar.xz",
+        "sha256": "428aa1bd2f48ad204687573f1dbb1509cde0de800e987ec7b670c763f33f97a9",
+        "size": 755194000
+      },
+      "collection_key": "duster-101",
+      "day_cache_validation": {
+        "required_collection_key": "duster-101",
+        "required_sample_days": 104,
+        "required_sample_end": "2025-08-27",
+        "required_sample_start": "2025-05-16",
+        "status": "pending-read-only-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "101, 102, 103",
+        "collection_name": "Duster",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 104,
+        "sample_end": "2025-08-27",
+        "sample_start": "2025-05-16",
+        "sha256": "2b4dfd7d8cec510b9662bea865ee7c9e9b9f1ebc7317020a94081cf2db19bfe0",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/duster-101-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20250827.tar.xz",
+            "size": 755194000
+          }
+        ],
+        "expected_filename_date": "20250827"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20251004.tar.xz",
+        "filename_date": "20251004",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/duster-106.cache/cache.20251004.tar.xz",
+        "sha256": "003dd7c2fdb16f5371f50a19e63f304269cb384b339b91d6245df002f29731e2",
+        "size": 706082796
+      },
+      "collection_key": "duster-106",
+      "day_cache_validation": {
+        "required_collection_key": "duster-106",
+        "required_sample_days": 106,
+        "required_sample_end": "2025-10-04",
+        "required_sample_start": "2025-06-21",
+        "status": "pending-read-only-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "106, 107, 108",
+        "collection_name": "Duster",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 106,
+        "sample_end": "2025-10-04",
+        "sample_start": "2025-06-21",
+        "sha256": "067823962a159476e36379c4b8a96c306d0cb415615aca3f93bf249deb97bd8c",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/duster-106-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20251004.tar.xz",
+            "size": 706082796
+          }
+        ],
+        "expected_filename_date": "20251004"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20260129.tar.xz",
+        "filename_date": "20260129",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/eyes-of-wakanda-01.cache/cache.20260129.tar.xz",
+        "sha256": "4b7ff9613687d0423171010a3aa5b20a40b2e5d42c97dc746cda2ac8887c84ef",
+        "size": 1133741048
+      },
+      "collection_key": "eyes-of-wakanda-01",
+      "day_cache_validation": {
+        "required_collection_key": "eyes-of-wakanda-01",
+        "required_sample_days": 182,
+        "required_sample_end": "2026-01-29",
+        "required_sample_start": "2025-08-01",
+        "status": "pending-read-only-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "101, 102, 103, 104",
+        "collection_name": "Eyes of Wakanda",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 182,
+        "sample_end": "2026-01-29",
+        "sample_start": "2025-08-01",
+        "sha256": "585876971f20a79a2c05fdad07f7936a4bc2912893976fbbe480388fd5a3a58d",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/eyes-of-wakanda-01-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20260129.tar.xz",
+            "size": 1133741048
+          }
+        ],
+        "expected_filename_date": "20260129"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20260616.tar.xz",
+        "filename_date": "20260616",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/fallout-2024-201.cache/cache.20260616.tar.xz",
+        "sha256": "16cf5bd7dde1256861100463e172185e72ba1cfcb9fcd8e451354f78181b0d58",
+        "size": 4840132548
+      },
+      "collection_key": "fallout-2024-201",
+      "day_cache_validation": {
+        "required_collection_key": "fallout-2024-201",
+        "required_sample_days": 182,
+        "required_sample_end": "2026-06-16",
+        "required_sample_start": "2025-12-17",
+        "status": "pending-read-only-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "201, 202, 203",
+        "collection_name": "Fallout",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 182,
+        "sample_end": "2026-06-16",
+        "sample_start": "2025-12-17",
+        "sha256": "04ffe751a96cf12c7410d9ed6cf3b706e8e0ec4c563c9f4f5a418511fce6fb82",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/fallout-2024-201-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20260414.tar.xz",
+            "size": 3558478148
+          },
+          {
+            "filename": "cache.20260526.tar.xz",
+            "size": 4448704016
+          },
+          {
+            "filename": "cache.20260616.tar.xz",
+            "size": 4840132548
+          }
+        ],
+        "expected_filename_date": "20260616"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20260508.tar.xz",
+        "filename_date": "20260508",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/frankenstein-2025.cache/cache.20260508.tar.xz",
+        "sha256": "da1e62835e8d4e4adb3fabec2c27c883d356c2dc010044fece39150f233c183e",
+        "size": 4370595892
+      },
+      "collection_key": "frankenstein-2025",
+      "day_cache_validation": {
+        "required_collection_key": "frankenstein-2025",
+        "required_sample_days": 182,
+        "required_sample_end": "2026-05-08",
+        "required_sample_start": "2025-11-08",
+        "status": "pending-read-only-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "",
+        "collection_name": "Frankenstein",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 182,
+        "sample_end": "2026-05-08",
+        "sample_start": "2025-11-08",
+        "sha256": "a34bbb7e73b910ec8e271f39ff816f14008e760c8a44c016955f83fd1dbc0d12",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/frankenstein-2025-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20260410.tar.xz",
+            "size": 3910776200
+          },
+          {
+            "filename": "cache.20260424.tar.xz",
+            "size": 4145530036
+          },
+          {
+            "filename": "cache.20260508.tar.xz",
+            "size": 4370595892
+          }
+        ],
+        "expected_filename_date": "20260508"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20260317.tar.xz",
+        "filename_date": "20260317",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/gen-v-201.cache/cache.20260317.tar.xz",
+        "sha256": "55b69f95d263ec52726ab4d916496662b86aacb758df0c94bee507b8d846ac06",
+        "size": 3048293252
+      },
+      "collection_key": "gen-v-201",
+      "day_cache_validation": {
+        "required_collection_key": "gen-v-201",
+        "required_sample_days": 182,
+        "required_sample_end": "2026-03-17",
+        "required_sample_start": "2025-09-17",
+        "status": "pending-read-only-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "201, 202, 203",
+        "collection_name": "Gen V",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 182,
+        "sample_end": "2026-03-17",
+        "sample_start": "2025-09-17",
+        "sha256": "0c3a9ffd7fec73a66b4aaa5004d282eed1abaef98857968cfd7c69a5af6e2bb4",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/gen-v-201-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20260317.tar.xz",
+            "size": 3048293252
+          }
+        ],
+        "expected_filename_date": "20260317"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20260414.tar.xz",
+        "filename_date": "20260414",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/gen-v-206.cache/cache.20260414.tar.xz",
+        "sha256": "2587b6aa70a1d0618b018e87f55e59a2a9afe2867d17c492bd1f671ba32ac966",
+        "size": 2477801024
+      },
+      "collection_key": "gen-v-206",
+      "day_cache_validation": {
+        "required_collection_key": "gen-v-206",
+        "required_sample_days": 189,
+        "required_sample_end": "2026-04-14",
+        "required_sample_start": "2025-10-08",
+        "status": "pending-read-only-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "206, 207, 208",
+        "collection_name": "Gen V",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 189,
+        "sample_end": "2026-04-14",
+        "sample_start": "2025-10-08",
+        "sha256": "071fa5ad209ba1ce8cbe0584014baa84949e306776491354254bd47e8dc93641",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/gen-v-206-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20260414.tar.xz",
+            "size": 2477801024
+          }
+        ],
+        "expected_filename_date": "20260414"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20250724.tar.xz",
+        "filename_date": "20250724",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/hacks-401.cache/cache.20250724.tar.xz",
+        "sha256": "76ac2b138f19c8d2aa8ba8f7286afa5b988388502b737abf8367649e8998a633",
+        "size": 481479184
+      },
+      "collection_key": "hacks-401",
+      "day_cache_validation": {
+        "required_collection_key": "hacks-401",
+        "required_sample_days": 105,
+        "required_sample_end": "2025-07-24",
+        "required_sample_start": "2025-04-11",
+        "status": "pending-read-only-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "401, 402, 403",
+        "collection_name": "Hacks",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 105,
+        "sample_end": "2025-07-24",
+        "sample_start": "2025-04-11",
+        "sha256": "ff778776e620716843f20e6cdb93da0bce83e9a94ac462790046b9fbc35151ff",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/hacks-401-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20250724.tar.xz",
+            "size": 481479184
+          }
+        ],
+        "expected_filename_date": "20250724"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20250828.tar.xz",
+        "filename_date": "20250828",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/hacks-408.cache/cache.20250828.tar.xz",
+        "sha256": "1399f430ac3ee936020f64d5824c86eb4f8dca0ecba530ad553414817957061a",
+        "size": 544238936
+      },
+      "collection_key": "hacks-408",
+      "day_cache_validation": {
+        "required_collection_key": "hacks-408",
+        "required_sample_days": 105,
+        "required_sample_end": "2025-08-28",
+        "required_sample_start": "2025-05-16",
+        "status": "pending-read-only-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "408, 409, 410",
+        "collection_name": "Hacks",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 105,
+        "sample_end": "2025-08-28",
+        "sample_start": "2025-05-16",
+        "sha256": "fb6a4c90de1fb2bd30d70801068c42a4da5e9875888f6a4a71b88089f4baa6fd",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/hacks-408-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20250828.tar.xz",
+            "size": 544238936
+          }
+        ],
+        "expected_filename_date": "20250828"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20260305.tar.xz",
+        "filename_date": "20260305",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/highest-2-lowest.cache/cache.20260305.tar.xz",
+        "sha256": "ae09b9c7cdd531dff59ce233a7d4b36853aca1cb8e7c766027f6ca591a8735af",
+        "size": 1062791876
+      },
+      "collection_key": "highest-2-lowest",
+      "day_cache_validation": {
+        "required_collection_key": "highest-2-lowest",
+        "required_sample_days": 182,
+        "required_sample_end": "2026-03-05",
+        "required_sample_start": "2025-09-05",
+        "status": "pending-read-only-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "",
+        "collection_name": "Highest 2 Lowest",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 182,
+        "sample_end": "2026-03-05",
+        "sample_start": "2025-09-05",
+        "sha256": "6d7f872b943a8f6529fabc1506df3499aa7234eeb2d9de6d210cec539362c2fd",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/highest-2-lowest-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20260305.tar.xz",
+            "size": 1062791876
+          }
+        ],
+        "expected_filename_date": "20260305"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20251204.tar.xz",
+        "filename_date": "20251204",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/invasion-301.cache/cache.20251204.tar.xz",
+        "sha256": "bd4fa1ec5a455a1fea38b6fbe1c29d25d55db7b9330fcbbfc19d55f4df776d40",
+        "size": 437549336
+      },
+      "collection_key": "invasion-301",
+      "day_cache_validation": {
+        "required_collection_key": "invasion-301",
+        "required_sample_days": 105,
+        "required_sample_end": "2025-12-04",
+        "required_sample_start": "2025-08-22",
+        "status": "pending-read-only-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "301, 302, 303",
+        "collection_name": "Invasion",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 105,
+        "sample_end": "2025-12-04",
+        "sample_start": "2025-08-22",
+        "sha256": "a4b5bbd7d330c8f266f6d71eb302e999d18a23c970c7c64ae5d3cbb32070fa0c",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/invasion-301-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20251204.tar.xz",
+            "size": 437549336
+          }
+        ],
+        "expected_filename_date": "20251204"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20250521.tar.xz",
+        "filename_date": "20250521",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/invincible-301.cache/cache.20250521.tar.xz",
+        "sha256": "a0cb58e6982bc97a022bf7522920efcf984cb3c3900c67e23a5490dd29633820",
+        "size": 1366711152
+      },
+      "collection_key": "invincible-301",
+      "day_cache_validation": {
+        "required_collection_key": "invincible-301",
+        "required_sample_days": 105,
+        "required_sample_end": "2025-05-21",
+        "required_sample_start": "2025-02-06",
+        "status": "pending-read-only-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "301, 302, 303",
+        "collection_name": "Invincible",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 105,
+        "sample_end": "2025-05-21",
+        "sample_start": "2025-02-06",
+        "sha256": "e557a8086be82d8c5ce9249e35a3fa1aeb8ba83aa1e5e619303a8dc1e2c44f97",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/invincible-301-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20250521.tar.xz",
+            "size": 1366711152
+          }
+        ],
+        "expected_filename_date": "20250521"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20251223.tar.xz",
+        "filename_date": "20251223",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/ironheart-01.cache/cache.20251223.tar.xz",
+        "sha256": "722da4c7e97c82e9b09d89299f418cf760a9ce8520f9def7c483b8c456b4148f",
+        "size": 3543598508
+      },
+      "collection_key": "ironheart-01",
+      "day_cache_validation": {
+        "required_collection_key": "ironheart-01",
+        "required_sample_days": 182,
+        "required_sample_end": "2025-12-23",
+        "required_sample_start": "2025-06-25",
+        "status": "pending-read-only-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "1",
+        "collection_name": "Ironheart",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 182,
+        "sample_end": "2025-12-23",
+        "sample_start": "2025-06-25",
+        "sha256": "3573ee33f5307dc1769bda94fe70114a91b31d445906d9dddda300d916c4a6e8",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/ironheart-01-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20251223.tar.xz",
+            "size": 3543598508
+          }
+        ],
+        "expected_filename_date": "20251223"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20251116.tar.xz",
+        "filename_date": "20251116",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/king-of-the-hill-14.cache/cache.20251116.tar.xz",
+        "sha256": "841a13a285834a18979873124a1fe3ec0ebf103cdaafe0b02d19bdf61b145e06",
+        "size": 913517760
+      },
+      "collection_key": "king-of-the-hill-14",
+      "day_cache_validation": {
+        "required_collection_key": "king-of-the-hill-14",
+        "required_sample_days": 105,
+        "required_sample_end": "2025-11-16",
+        "required_sample_start": "2025-08-04",
+        "status": "pending-read-only-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "14",
+        "collection_name": "King of the Hill",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 105,
+        "sample_end": "2025-11-16",
+        "sample_start": "2025-08-04",
+        "sha256": "e58fc76c67f2e1057cf4477d35c0c2cda7b67ab00842c27c737b538a4470e761",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/king-of-the-hill-14-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20251116.tar.xz",
+            "size": 913517760
+          }
+        ],
+        "expected_filename_date": "20251116"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20250831.tar.xz",
+        "filename_date": "20250831",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/last-of-us-201.cache/cache.20250831.tar.xz",
+        "sha256": "22e460287a1969082b73752dffb53ab7cf566af30e3eed4b3480e0da3d5e2abf",
+        "size": 2972423804
+      },
+      "collection_key": "last-of-us-201",
+      "day_cache_validation": {
+        "required_collection_key": "last-of-us-201",
+        "required_sample_days": 196,
+        "required_sample_end": "2025-10-26",
+        "required_sample_start": "2025-04-14",
+        "status": "pending-read-only-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "201, 202, 203",
+        "collection_name": "Last of Us",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 196,
+        "sample_end": "2025-10-26",
+        "sample_start": "2025-04-14",
+        "sha256": "6f4f65648c0f150adb94096f5a54e523c31b8d47570f95901482882c7f4affc4",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/last-of-us-201-week.json"
+      },
+      "selection": {
+        "approved_override": "The authoritative archive filename postdates the released 2025-10-26 sample end.",
+        "date_matches_sample_end": false,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20250831.tar.xz",
+            "size": 2972423804
+          }
+        ],
+        "expected_filename_date": "20251026"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20251116.tar.xz",
+        "filename_date": "20251116",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/last-of-us-206.cache/cache.20251116.tar.xz",
+        "sha256": "ee73cfad9219e2cad6ab22fce4b5d07ec657e69b141b438e41a5094cc4a339f2",
+        "size": 4237545208
+      },
+      "collection_key": "last-of-us-206",
+      "day_cache_validation": {
+        "required_collection_key": "last-of-us-206",
+        "required_sample_days": 182,
+        "required_sample_end": "2025-11-16",
+        "required_sample_start": "2025-05-19",
+        "status": "pending-read-only-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "206, 207",
+        "collection_name": "Last of Us",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 182,
+        "sample_end": "2025-11-16",
+        "sample_start": "2025-05-19",
+        "sha256": "a1a9c8b6f95826127e267d6e08dc26b22aee77426997a390bf7130de4d037231",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/last-of-us-206-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20251116.tar.xz",
+            "size": 4237545208
+          }
+        ],
+        "expected_filename_date": "20251116"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20251005.tar.xz",
+        "filename_date": "20251005",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/lazarus-101.cache/cache.20251005.tar.xz",
+        "sha256": "a57cb6b638ec775043962b6c323d6009f0f2e834313b7ca3c9b696629a91cda4",
+        "size": 1454287228
+      },
+      "collection_key": "lazarus-101",
+      "day_cache_validation": {
+        "required_collection_key": "lazarus-101",
+        "required_sample_days": 182,
+        "required_sample_end": "2025-10-05",
+        "required_sample_start": "2025-04-07",
+        "status": "pending-read-only-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "101, 102, 103",
+        "collection_name": "Lazarus",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 182,
+        "sample_end": "2025-10-05",
+        "sample_start": "2025-04-07",
+        "sha256": "fe58ee0a852735e12d6fe369b49d35d167284a3d3a6c83822ff40784e5491708",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/lazarus-101-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20251005.tar.xz",
+            "size": 1454287228
+          }
+        ],
+        "expected_filename_date": "20251005"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20250802.tar.xz",
+        "filename_date": "20250802",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/lazarus-108.cache/cache.20250802.tar.xz",
+        "sha256": "c3d29a51030b5d9bb3c4378107ac566dc89ed0805a247987cd0c21c3b454c239",
+        "size": 222025184
+      },
+      "collection_key": "lazarus-108",
+      "day_cache_validation": {
+        "required_collection_key": "lazarus-108",
+        "required_sample_days": 70,
+        "required_sample_end": "2025-08-02",
+        "required_sample_start": "2025-05-25",
+        "status": "pending-read-only-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "108, 109",
+        "collection_name": "Lazarus",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 70,
+        "sample_end": "2025-08-02",
+        "sample_start": "2025-05-25",
+        "sha256": "0dad4fb4179c3e602f7955ca8a6e80e97ec0f8ac22074e635c6b78c95a9a9973",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/lazarus-108-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20250802.tar.xz",
+            "size": 222025184
+          }
+        ],
+        "expected_filename_date": "20250802"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20251006.tar.xz",
+        "filename_date": "20251006",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/lazarus-111.cache/cache.20251006.tar.xz",
+        "sha256": "6f51fe5911f30000d326975db41b03868de0cc0ba32b882f5e15c1d5070ca959",
+        "size": 828322188
+      },
+      "collection_key": "lazarus-111",
+      "day_cache_validation": {
+        "required_collection_key": "lazarus-111",
+        "required_sample_days": 113,
+        "required_sample_end": "2025-10-06",
+        "required_sample_start": "2025-06-16",
+        "status": "pending-read-only-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "111, 112, 113",
+        "collection_name": "Lazarus",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 113,
+        "sample_end": "2025-10-06",
+        "sample_start": "2025-06-16",
+        "sha256": "b57ad886f1b8802edeb84a175bcb3ef6ff09afb5c32342889962c73bef6d3973",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/lazarus-111-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20251006.tar.xz",
+            "size": 828322188
+          }
+        ],
+        "expected_filename_date": "20251006"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20260219.tar.xz",
+        "filename_date": "20260219",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/long-story-short-01.cache/cache.20260219.tar.xz",
+        "sha256": "a6eabc6484aed65a93f6913e1403a02f75fd0991ee6264bc2c7ab594496bce12",
+        "size": 602655404
+      },
+      "collection_key": "long-story-short-01",
+      "day_cache_validation": {
+        "required_collection_key": "long-story-short-01",
+        "required_sample_days": 168,
+        "required_sample_end": "2026-02-05",
+        "required_sample_start": "2025-08-22",
+        "status": "pending-read-only-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "1",
+        "collection_name": "The Long Story Short",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 168,
+        "sample_end": "2026-02-05",
+        "sample_start": "2025-08-22",
+        "sha256": "0aa02c47a7f5ff12ad53a5b2d01dc974b86778ad9417a08130215e5de3bcc22d",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/long-story-short-01-week.json"
+      },
+      "selection": {
+        "approved_override": "The authoritative archive filename postdates the released 2026-02-05 sample end.",
+        "date_matches_sample_end": false,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20260219.tar.xz",
+            "size": 602655404
+          }
+        ],
+        "expected_filename_date": "20260205"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20250827.tar.xz",
+        "filename_date": "20250827",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/love-death-robots-04.cache/cache.20250827.tar.xz",
+        "sha256": "45eb46df99bc25e9c1564470c755f2bf8b96e2cdc5dc85d87dbc39ba6aac35bf",
+        "size": 1590853356
+      },
+      "collection_key": "love-death-robots-04",
+      "day_cache_validation": {
+        "required_collection_key": "love-death-robots-04",
+        "required_sample_days": 105,
+        "required_sample_end": "2025-08-27",
+        "required_sample_start": "2025-05-15",
+        "status": "pending-read-only-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "4",
+        "collection_name": "Love, Death & Robots",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 105,
+        "sample_end": "2025-08-27",
+        "sample_start": "2025-05-15",
+        "sha256": "06b6830d445c47cad14f5e88988ae3e460cea5335d57f25be571f9aac18945bf",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/love-death-robots-04-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20250820.tar.xz",
+            "size": 1549932256
+          },
+          {
+            "filename": "cache.20250827.tar.xz",
+            "size": 1590853356
+          }
+        ],
+        "expected_filename_date": "20250827"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20260107.tar.xz",
+        "filename_date": "20260107",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/lowdown-101.cache/cache.20260107.tar.xz",
+        "sha256": "ee60e15a382cd548b147ef740f006d1599a9c0514cbb80f3f490aa279f6b65b4",
+        "size": 572901896
+      },
+      "collection_key": "lowdown-101",
+      "day_cache_validation": {
+        "required_collection_key": "lowdown-101",
+        "required_sample_days": 105,
+        "required_sample_end": "2026-01-07",
+        "required_sample_start": "2025-09-25",
+        "status": "pending-read-only-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "101, 102, 103",
+        "collection_name": "The Lowdown",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 105,
+        "sample_end": "2026-01-07",
+        "sample_start": "2025-09-25",
+        "sha256": "e8d9f973a7e4f641edbef0ec8607f677877ec0d7ebc78a4d175d90e6a6338597",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/lowdown-101-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20260107.tar.xz",
+            "size": 572901896
+          }
+        ],
+        "expected_filename_date": "20260107"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20250714.tar.xz",
+        "filename_date": "20250714",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/mickey-17.cache/cache.20250714.tar.xz",
+        "sha256": "e288454aaabdc0dea00c53d45733f5bf1793b3b9dc8d5f7f4918eb0e844e9341",
+        "size": 2526204056
+      },
+      "collection_key": "mickey-17",
+      "day_cache_validation": {
+        "required_collection_key": "mickey-17",
+        "required_sample_days": 105,
+        "required_sample_end": "2025-07-14",
+        "required_sample_start": "2025-04-01",
+        "status": "pending-read-only-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "",
+        "collection_name": "Mickey 17",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 105,
+        "sample_end": "2025-07-14",
+        "sample_start": "2025-04-01",
+        "sha256": "6112bb84127a05808fc4bd22fc3f0eb2c37c59bea12377e028ef0a4ef5f0fdb2",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/mickey-17-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20250714.tar.xz",
+            "size": 2526204056
+          }
+        ],
+        "expected_filename_date": "20250714"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20250711.tar.xz",
+        "filename_date": "20250711",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/mid-century-modern-01.cache/cache.20250711.tar.xz",
+        "sha256": "8e21bd71eafdd7d5754adb6891322daedb1cf2989e50719304d178f763ca31c0",
+        "size": 428045772
+      },
+      "collection_key": "mid-century-modern-01",
+      "day_cache_validation": {
+        "required_collection_key": "mid-century-modern-01",
+        "required_sample_days": 105,
+        "required_sample_end": "2025-07-11",
+        "required_sample_start": "2025-03-29",
+        "status": "pending-read-only-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "1",
+        "collection_name": "Mid Century Modern",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 105,
+        "sample_end": "2025-07-11",
+        "sample_start": "2025-03-29",
+        "sha256": "39a92eea2983a1539322e026f8e60743f06d8019e8f49026b230ef39653ecb17",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/mid-century-modern-01-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20250711.tar.xz",
+            "size": 428045772
+          }
+        ],
+        "expected_filename_date": "20250711"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20251119.tar.xz",
+        "filename_date": "20251119",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/minecraft-movie-2025.cache/cache.20251119.tar.xz",
+        "sha256": "fd4354d302db2bfca40af529760173dfb47d40d6188cec93ea0b38aad3414fb1",
+        "size": 4342275384
+      },
+      "collection_key": "minecraft-movie-2025",
+      "day_cache_validation": {
+        "required_collection_key": "minecraft-movie-2025",
+        "required_sample_days": 189,
+        "required_sample_end": "2025-11-19",
+        "required_sample_start": "2025-05-15",
+        "status": "pending-read-only-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "",
+        "collection_name": "The Minecraft Movie 2025",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 189,
+        "sample_end": "2025-11-19",
+        "sample_start": "2025-05-15",
+        "sha256": "fd6343116201eb56769252a0b8539be8d92fecfe4251e48485c43280db7e1e00",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/minecraft-movie-2025-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20251119.tar.xz",
+            "size": 4342275384
+          }
+        ],
+        "expected_filename_date": "20251119"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20250728.tar.xz",
+        "filename_date": "20250728",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/moana-2.cache/cache.20250728.tar.xz",
+        "sha256": "4a9230dddde2c308104e799920ceed8d939a9478a11d94aba21a17e2502b95b4",
+        "size": 4966346704
+      },
+      "collection_key": "moana-2",
+      "day_cache_validation": {
+        "required_collection_key": "moana-2",
+        "required_sample_days": 182,
+        "required_sample_end": "2025-07-28",
+        "required_sample_start": "2025-01-28",
+        "status": "pending-read-only-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "",
+        "collection_name": "Moana 2",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 182,
+        "sample_end": "2025-07-28",
+        "sample_start": "2025-01-28",
+        "sha256": "fdf48458571b3c9b0a323a4f29bfddc379799d136b56fe4a3d585fe1eb8b20db",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/moana-2-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20250728.tar.xz",
+            "size": 4966346704
+          }
+        ],
+        "expected_filename_date": "20250728"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20250723.tar.xz",
+        "filename_date": "20250723",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/night-agent-02.cache/cache.20250723.tar.xz",
+        "sha256": "f60104421149e677dcc73574e21adb402277ac41c42e6a1e0f6a5bcb2d64dedf",
+        "size": 2591106396
+      },
+      "collection_key": "night-agent-02",
+      "day_cache_validation": {
+        "required_collection_key": "night-agent-02",
+        "required_sample_days": 182,
+        "required_sample_end": "2025-07-23",
+        "required_sample_start": "2025-01-23",
+        "status": "pending-read-only-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "2",
+        "collection_name": "Night Agent",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 182,
+        "sample_end": "2025-07-23",
+        "sample_start": "2025-01-23",
+        "sha256": "2c795a8410e81c8377ed41ae8ee93c1482dc6553d7c38a6cba851c4215bbb51a",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/night-agent-02-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20250723.tar.xz",
+            "size": 2591106396
+          }
+        ],
+        "expected_filename_date": "20250723"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20260205.tar.xz",
+        "filename_date": "20260205",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/nouvelle-vague.cache/cache.20260205.tar.xz",
+        "sha256": "54071bedfdc65807dc35ce4cab0a424cf5fea6d6827019d8ff37a80b0d4abe1e",
+        "size": 74041884
+      },
+      "collection_key": "nouvelle-vague",
+      "day_cache_validation": {
+        "required_collection_key": "nouvelle-vague",
+        "required_sample_days": 84,
+        "required_sample_end": "2026-02-05",
+        "required_sample_start": "2025-11-14",
+        "status": "pending-read-only-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "2025",
+        "collection_name": "Nouvelle Vauge",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 84,
+        "sample_end": "2026-02-05",
+        "sample_start": "2025-11-14",
+        "sha256": "2fa434033f9d9e5d85ed8992296b7e1138643dbe7a55c8ce00e4634d1bffd873",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/nouvelle-vague-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20260205.tar.xz",
+            "size": 74041884
+          }
+        ],
+        "expected_filename_date": "20260205"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20260226.tar.xz",
+        "filename_date": "20260226",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/one-battle-after-another.cache/cache.20260226.tar.xz",
+        "sha256": "7efa8f6187836d86d2ff6324b486e49abf91d42c645dded2232caa5eef04df2c",
+        "size": 3173092592
+      },
+      "collection_key": "one-battle-after-another",
+      "day_cache_validation": {
+        "required_collection_key": "one-battle-after-another",
+        "required_sample_days": 105,
+        "required_sample_end": "2026-02-26",
+        "required_sample_start": "2025-11-14",
+        "status": "pending-read-only-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "",
+        "collection_name": "One Battle After Another",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 105,
+        "sample_end": "2026-02-26",
+        "sample_start": "2025-11-14",
+        "sha256": "488d0776d1091f9e6362e63bc23115b06b33b698437b53f98846c4d7ce1e4ccc",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/one-battle-after-another-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20260226.tar.xz",
+            "size": 3173092592
+          }
+        ],
+        "expected_filename_date": "20260226"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20260309.tar.xz",
+        "filename_date": "20260309",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/only-murders-in-the-building-501.cache/cache.20260309.tar.xz",
+        "sha256": "eee8a05c90283b15e98041437cb775c0163d749e78ec5336ec0321a6978dd23d",
+        "size": 1529422068
+      },
+      "collection_key": "only-murders-in-the-building-501",
+      "day_cache_validation": {
+        "required_collection_key": "only-murders-in-the-building-501",
+        "required_sample_days": 182,
+        "required_sample_end": "2026-03-09",
+        "required_sample_start": "2025-09-09",
+        "status": "pending-read-only-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "501, 502, 503",
+        "collection_name": "Only Murders In the Building",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 182,
+        "sample_end": "2026-03-09",
+        "sample_start": "2025-09-09",
+        "sha256": "87fe39981536217172cf8c7fa1af41e106bfa550215abb3a2e2caf2aae46ce66",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/only-murders-in-the-building-501-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20260309.tar.xz",
+            "size": 1529422068
+          }
+        ],
+        "expected_filename_date": "20260309"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20260413.tar.xz",
+        "filename_date": "20260413",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/only-murders-in-the-building-508.cache/cache.20260413.tar.xz",
+        "sha256": "eb79a4a7fee06492ea0f62ea78007717faba8dc60a830e800a5364b233049bfd",
+        "size": 1736841532
+      },
+      "collection_key": "only-murders-in-the-building-508",
+      "day_cache_validation": {
+        "required_collection_key": "only-murders-in-the-building-508",
+        "required_sample_days": 182,
+        "required_sample_end": "2026-04-13",
+        "required_sample_start": "2025-10-14",
+        "status": "pending-read-only-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "508, 509, 510",
+        "collection_name": "Only Murders In the Building",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 182,
+        "sample_end": "2026-04-13",
+        "sample_start": "2025-10-14",
+        "sha256": "7a9cca993a353255934ce73fb2bf6749a5614119ea883c0ae8c77d37a0a90f53",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/only-murders-in-the-building-508-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20260413.tar.xz",
+            "size": 1736841532
+          }
+        ],
+        "expected_filename_date": "20260413"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20251127.tar.xz",
+        "filename_date": "20251127",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/peacemaker-201.cache/cache.20251127.tar.xz",
+        "sha256": "34ab35ca0a54114259f2927820c43df4b0ef921c558a90c9e259fc38f639b117",
+        "size": 1774717208
+      },
+      "collection_key": "peacemaker-201",
+      "day_cache_validation": {
+        "required_collection_key": "peacemaker-201",
+        "required_sample_days": 105,
+        "required_sample_end": "2025-12-04",
+        "required_sample_start": "2025-08-22",
+        "status": "pending-read-only-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "201, 202, 203",
+        "collection_name": "Peacemaker",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 105,
+        "sample_end": "2025-12-04",
+        "sample_start": "2025-08-22",
+        "sha256": "e0bb4e88cf37076a810fcd13ead2f47c18b1c668edcc67e53ef4e2c44b588cd3",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/peacemaker-201-week.json"
+      },
+      "selection": {
+        "approved_override": "The authoritative archive filename predates the released 2025-12-04 sample end.",
+        "date_matches_sample_end": false,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20251127.tar.xz",
+            "size": 1774717208
+          }
+        ],
+        "expected_filename_date": "20251204"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20250402.tar.xz",
+        "filename_date": "20250402",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/pluribus-107.cache/cache.20250402.tar.xz",
+        "sha256": "bac00666933421ed4f56420457a3e83ad1c2a3bf9d706cc0d92ee57de2ab7423",
+        "size": 2455610540
+      },
+      "collection_key": "pluribus-107",
+      "day_cache_validation": {
+        "required_collection_key": "pluribus-107",
+        "required_sample_days": 112,
+        "required_sample_end": "2026-04-02",
+        "required_sample_start": "2025-12-12",
+        "status": "pending-read-only-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "107, 108, 109",
+        "collection_name": "Pluribus",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 112,
+        "sample_end": "2026-04-02",
+        "sample_start": "2025-12-12",
+        "sha256": "f5af4f92fd30ce8f54b0f53f632d64cde746475a82751d20955656e4b7f8bf6d",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/pluribus-107-week.json"
+      },
+      "selection": {
+        "approved_override": "The authoritative archive carries a transposed year for the released 2026-04-02 sample end.",
+        "date_matches_sample_end": false,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20250402.tar.xz",
+            "size": 2455610540
+          }
+        ],
+        "expected_filename_date": "20260402"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20260610.tar.xz",
+        "filename_date": "20260610",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/predator-badlands.cache/cache.20260610.tar.xz",
+        "sha256": "4460656c95f33ee65c970fb9dcc28fa928bfaca4346a8e5eafdfe35f50cdfe8c",
+        "size": 3206384196
+      },
+      "collection_key": "predator-badlands",
+      "day_cache_validation": {
+        "required_collection_key": "predator-badlands",
+        "required_sample_days": 182,
+        "required_sample_end": "2026-06-10",
+        "required_sample_start": "2025-12-11",
+        "status": "pending-read-only-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "",
+        "collection_name": "Predator Badlands",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 182,
+        "sample_end": "2026-06-10",
+        "sample_start": "2025-12-11",
+        "sha256": "97c8d271af97c5cd8a61c042a65d546b77851906cb27d0ae7292492b1c178cfd",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/predator-badlands-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20260415.tar.xz",
+            "size": 2387566920
+          },
+          {
+            "filename": "cache.20260506.tar.xz",
+            "size": 2764389056
+          },
+          {
+            "filename": "cache.20260610.tar.xz",
+            "size": 3206384196
+          }
+        ],
+        "expected_filename_date": "20260610"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20250927.tar.xz",
+        "filename_date": "20250927",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/predator-killer-of-killers.cache/cache.20250927.tar.xz",
+        "sha256": "3c359c5638ebaafd10fd4a711f9af3f1e937c6f42c70c07a32629e017fba6b2f",
+        "size": 1098703688
+      },
+      "collection_key": "predator-killer-of-killers",
+      "day_cache_validation": {
+        "required_collection_key": "predator-killer-of-killers",
+        "required_sample_days": 112,
+        "required_sample_end": "2025-09-27",
+        "required_sample_start": "2025-06-08",
+        "status": "pending-read-only-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "",
+        "collection_name": "Predator Killer of Killers",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 112,
+        "sample_end": "2025-09-27",
+        "sample_start": "2025-06-08",
+        "sha256": "dd711f916b481ea2be91a9c25674ae99f95a0721600697101863d5fabc07cb4f",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/predator-killer-of-killers-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20250927.tar.xz",
+            "size": 1098703688
+          }
+        ],
+        "expected_filename_date": "20250927"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20260527.tar.xz",
+        "filename_date": "20260527",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/prehistoric-planet-03.cache/cache.20260527.tar.xz",
+        "sha256": "a25433532953c4cbebce26f619fcc01580755b30c1a26fb6c3d167844767517d",
+        "size": 1250806864
+      },
+      "collection_key": "prehistoric-planet-03",
+      "day_cache_validation": {
+        "required_collection_key": "prehistoric-planet-03",
+        "required_sample_days": 182,
+        "required_sample_end": "2026-05-27",
+        "required_sample_start": "2025-11-27",
+        "status": "pending-read-only-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "3",
+        "collection_name": "Prehistoric Planet",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 182,
+        "sample_end": "2026-05-27",
+        "sample_start": "2025-11-27",
+        "sha256": "f8d4969d6074acad731a60398fde19d1c0baed45071f483d95a82be4b8a22ddf",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/prehistoric-planet-03-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20260527.tar.xz",
+            "size": 1250806864
+          }
+        ],
+        "expected_filename_date": "20260527"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20250820.tar.xz",
+        "filename_date": "20250820",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/reacher-301.cache/cache.20250820.tar.xz",
+        "sha256": "747d5e182c056764a68eaba5950c0405228a1751db3aa2cf82586806a074580d",
+        "size": 2544520944
+      },
+      "collection_key": "reacher-301",
+      "day_cache_validation": {
+        "required_collection_key": "reacher-301",
+        "required_sample_days": 182,
+        "required_sample_end": "2025-08-20",
+        "required_sample_start": "2025-02-20",
+        "status": "pending-read-only-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "301",
+        "collection_name": "Reacher",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 182,
+        "sample_end": "2025-08-20",
+        "sample_start": "2025-02-20",
+        "sha256": "6adf43bf773449cbba691f4e692cf36b7d0303a1f41b0565b785a266fe1e773f",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/reacher-301-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20250820.tar.xz",
+            "size": 2544520944
+          }
+        ],
+        "expected_filename_date": "20250820"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20250702.tar.xz",
+        "filename_date": "20250702",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/reacher-307.cache/cache.20250702.tar.xz",
+        "sha256": "eb7b494d9f93b1bd9f552cb03d46c1fb38c491fb26a03f1c0bf75a6f2053a65f",
+        "size": 1279202184
+      },
+      "collection_key": "reacher-307",
+      "day_cache_validation": {
+        "required_collection_key": "reacher-307",
+        "required_sample_days": 105,
+        "required_sample_end": "2025-07-02",
+        "required_sample_start": "2025-03-20",
+        "status": "pending-read-only-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "307",
+        "collection_name": "Reacher",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 105,
+        "sample_end": "2025-07-02",
+        "sample_start": "2025-03-20",
+        "sha256": "d25b3314e56808544d8192ada148826c686a3a88162041c3196be38cc5b6d644",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/reacher-307-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20250702.tar.xz",
+            "size": 1279202184
+          }
+        ],
+        "expected_filename_date": "20250702"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20260601.tar.xz",
+        "filename_date": "20260601",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/sean-combs-the-reckoning.cache/cache.20260601.tar.xz",
+        "sha256": "b25759c94d4b6026d7fbbb94ec2010e08b51d29f3be7336aec8069858eabd200",
+        "size": 1128873024
+      },
+      "collection_key": "sean-combs-the-reckoning",
+      "day_cache_validation": {
+        "required_collection_key": "sean-combs-the-reckoning",
+        "required_sample_days": 182,
+        "required_sample_end": "2026-06-01",
+        "required_sample_start": "2025-12-02",
+        "status": "pending-read-only-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "",
+        "collection_name": "Sean Combs: The Reckoning",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 182,
+        "sample_end": "2026-06-01",
+        "sample_start": "2025-12-02",
+        "sha256": "e48dc65f086689dcab0b8091102e8b112d9f985f796026890ad6ac12e2591a53",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/sean-combs-the-reckoning-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20260316.tar.xz",
+            "size": 776094516
+          },
+          {
+            "filename": "cache.20260413.tar.xz",
+            "size": 932667424
+          },
+          {
+            "filename": "cache.20260601.tar.xz",
+            "size": 1128873024
+          }
+        ],
+        "expected_filename_date": "20260601"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20250717.tar.xz",
+        "filename_date": "20250717",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/severance-201.cache/cache.20250717.tar.xz",
+        "sha256": "a5ebbb173507d488347adc3ac23582bef8798ad5f95ed7516400ac6aa86bcb39",
+        "size": 3591874788
+      },
+      "collection_key": "severance-201",
+      "day_cache_validation": {
+        "required_collection_key": "severance-201",
+        "required_sample_days": 182,
+        "required_sample_end": "2025-07-17",
+        "required_sample_start": "2025-01-17",
+        "status": "pending-read-only-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "201, 202",
+        "collection_name": "Severance",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 182,
+        "sample_end": "2025-07-17",
+        "sample_start": "2025-01-17",
+        "sha256": "3b77d37a5232ad59a192ffc11a849715b9557012f2be017796af693b9211de6f",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/severance-201-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20250717.tar.xz",
+            "size": 3591874788
+          }
+        ],
+        "expected_filename_date": "20250717"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20250702.tar.xz",
+        "filename_date": "20250702",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/severance-209.cache/cache.20250702.tar.xz",
+        "sha256": "b08d826bf9f282ba8c49da0b68cfc115f5306851149d6fdca3bb3784254c0605",
+        "size": 2464996560
+      },
+      "collection_key": "severance-209",
+      "day_cache_validation": {
+        "required_collection_key": "severance-209",
+        "required_sample_days": 111,
+        "required_sample_end": "2025-07-02",
+        "required_sample_start": "2025-03-14",
+        "status": "pending-read-only-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "209, 210",
+        "collection_name": "Severance",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 111,
+        "sample_end": "2025-07-02",
+        "sample_start": "2025-03-14",
+        "sha256": "a2b05de14e0c11bd8753e0c7aece609b58a77914db013ca29ff7bb5ed2171b04",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/severance-209-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20250702.tar.xz",
+            "size": 2464996560
+          }
+        ],
+        "expected_filename_date": "20250702"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20251128.tar.xz",
+        "filename_date": "20251128",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/sinners-2025.cache/cache.20251128.tar.xz",
+        "sha256": "20b06aaa33e3b372fd0cffe482e3a8e027d8953a53cfcc1f55e194e8a7a00deb",
+        "size": 3764450724
+      },
+      "collection_key": "sinners-2025",
+      "day_cache_validation": {
+        "required_collection_key": "sinners-2025",
+        "required_sample_days": 183,
+        "required_sample_end": "2025-11-28",
+        "required_sample_start": "2025-05-30",
+        "status": "pending-read-only-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "2025",
+        "collection_name": "Sinners",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 183,
+        "sample_end": "2025-11-28",
+        "sample_start": "2025-05-30",
+        "sha256": "304160d5e637d8826697c0961358f7d243e003b821457fe377f84174189da304",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/sinners-2025-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20251128.tar.xz",
+            "size": 3764450724
+          }
+        ],
+        "expected_filename_date": "20251128"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20250529.tar.xz",
+        "filename_date": "20250529",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/sly-lives.cache/cache.20250529.tar.xz",
+        "sha256": "14980898a2d3c5ed26faf6f29ed3fe8e4ab711e3df002bb999cbef92a02ce859",
+        "size": 45787400
+      },
+      "collection_key": "sly-lives",
+      "day_cache_validation": {
+        "required_collection_key": "sly-lives",
+        "required_sample_days": 105,
+        "required_sample_end": "2025-05-29",
+        "required_sample_start": "2025-02-14",
+        "status": "pending-read-only-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "",
+        "collection_name": "Sly Lives",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 105,
+        "sample_end": "2025-05-29",
+        "sample_start": "2025-02-14",
+        "sha256": "c5ce02647176c933ad45d4ab46d160377e3c9f748b37420cafe75763b4c1bbd9",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/sly-lives-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20250529.tar.xz",
+            "size": 45787400
+          }
+        ],
+        "expected_filename_date": "20250529"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20260122.tar.xz",
+        "filename_date": "20260122",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/south-park-27.cache/cache.20260122.tar.xz",
+        "sha256": "022ca3b694b02695f4e40aabd99c95bdfdff0e558c6a00fe216cbc0301439aa6",
+        "size": 3376567868
+      },
+      "collection_key": "south-park-27",
+      "day_cache_validation": {
+        "required_collection_key": "south-park-27",
+        "required_sample_days": 182,
+        "required_sample_end": "2026-01-22",
+        "required_sample_start": "2025-07-25",
+        "status": "pending-read-only-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "2701, 2702, 2703, 2704, 2705",
+        "collection_name": "South Park",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 182,
+        "sample_end": "2026-01-22",
+        "sample_start": "2025-07-25",
+        "sha256": "d72d226df0987ef625892348013e3ae6919fb6d8fb5f72926f019845ba38b05d",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/south-park-27-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20260122.tar.xz",
+            "size": 3376567868
+          }
+        ],
+        "expected_filename_date": "20260122"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20251226.tar.xz",
+        "filename_date": "20251226",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/squid-game-03.cache/cache.20251226.tar.xz",
+        "sha256": "e77c3098e9ede7d80b8adc9109d2894e1c23fd4c3cf07a2ace192eeb15a19009",
+        "size": 4205627952
+      },
+      "collection_key": "squid-game-03",
+      "day_cache_validation": {
+        "required_collection_key": "squid-game-03",
+        "required_sample_days": 183,
+        "required_sample_end": "2025-12-26",
+        "required_sample_start": "2025-06-27",
+        "status": "pending-read-only-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "301, 302, 303, 304, 305, 306",
+        "collection_name": "Squid Game",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 183,
+        "sample_end": "2025-12-26",
+        "sample_start": "2025-06-27",
+        "sha256": "14ae089ff4dadb1f0ab5fe1c432b7b1dc8d0de0c7759ed0d4ab81189cb22efb5",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/squid-game-03-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20251226.tar.xz",
+            "size": 4205627952
+          }
+        ],
+        "expected_filename_date": "20251226"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20260428.tar.xz",
+        "filename_date": "20260428",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/star-wars-visions-03.cache/cache.20260428.tar.xz",
+        "sha256": "79b49934852096ad3528ede770c76afaacd4777702eaa8062630224909026f48",
+        "size": 2196367940
+      },
+      "collection_key": "star-wars-visions-03",
+      "day_cache_validation": {
+        "required_collection_key": "star-wars-visions-03",
+        "required_sample_days": 182,
+        "required_sample_end": "2026-04-28",
+        "required_sample_start": "2025-10-29",
+        "status": "pending-read-only-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "301, 302, 303, 304, 305, 306, 307, 308, 309",
+        "collection_name": "Star Wars: Visions",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 182,
+        "sample_end": "2026-04-28",
+        "sample_start": "2025-10-29",
+        "sha256": "98338f0cf23b959333179922daecbf47b78185942b107e028779c6fce202d2f0",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/star-wars-visions-03-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20260407.tar.xz",
+            "size": 1977261664
+          },
+          {
+            "filename": "cache.20260428.tar.xz",
+            "size": 2196367940
+          }
+        ],
+        "expected_filename_date": "20260428"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20260603.tar.xz",
+        "filename_date": "20260603",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/stranger-things-05.1.cache/cache.20260603.tar.xz",
+        "sha256": "d36a9ebf75fc6b5b99d594345a8f9e8e43b9dc04dc8b62d7e43f63867e1b8f69",
+        "size": 5072249976
+      },
+      "collection_key": "stranger-things-05.1",
+      "day_cache_validation": {
+        "required_collection_key": "stranger-things-05.1",
+        "required_sample_days": 189,
+        "required_sample_end": "2026-06-03",
+        "required_sample_start": "2025-11-27",
+        "status": "pending-read-only-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "5.1",
+        "collection_name": "Stranger Things",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 189,
+        "sample_end": "2026-06-03",
+        "sample_start": "2025-11-27",
+        "sha256": "fa2d42e6d939c2f70ad498212d6573568df0c8a766f503cffcc6eefa7fa331f8",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/stranger-things-05.1-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20260415.tar.xz",
+            "size": 2542563844
+          },
+          {
+            "filename": "cache.20260603.tar.xz",
+            "size": 5072249976
+          }
+        ],
+        "expected_filename_date": "20260603"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20260625.tar.xz",
+        "filename_date": "20260625",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/stranger-things-05.2.cache/cache.20260625.tar.xz",
+        "sha256": "4956d582034672361aeca5bf294316d4fcfb450cc499e4821e4bca7f7ee8014d",
+        "size": 2797558772
+      },
+      "collection_key": "stranger-things-05.2",
+      "day_cache_validation": {
+        "required_collection_key": "stranger-things-05.2",
+        "required_sample_days": 182,
+        "required_sample_end": "2026-06-25",
+        "required_sample_start": "2025-12-26",
+        "status": "pending-read-only-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "5.2",
+        "collection_name": "Stranger Things",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 182,
+        "sample_end": "2026-06-25",
+        "sample_start": "2025-12-26",
+        "sha256": "1c541f0b53e5c56d7c021150e14136aa00378444b81993316e3a94fbf79638b7",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/stranger-things-05.2-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20260416.tar.xz",
+            "size": 2152621884
+          },
+          {
+            "filename": "cache.20260528.tar.xz",
+            "size": 1645585568
+          },
+          {
+            "filename": "cache.20260611.tar.xz",
+            "size": 2663684944
+          },
+          {
+            "filename": "cache.20260625.tar.xz",
+            "size": 2797558772
+          }
+        ],
+        "expected_filename_date": "20260625"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20250708.tar.xz",
+        "filename_date": "20250708",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/studio-2025-101.cache/cache.20250708.tar.xz",
+        "sha256": "b29658e60ebaec8187666db5f0c1951169da99dc85021504ffd2ae07e380aaba",
+        "size": 997817428
+      },
+      "collection_key": "studio-2025-101",
+      "day_cache_validation": {
+        "required_collection_key": "studio-2025-101",
+        "required_sample_days": 105,
+        "required_sample_end": "2025-07-08",
+        "required_sample_start": "2025-03-26",
+        "status": "pending-read-only-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "101, 102, 103",
+        "collection_name": "The Studio 2025",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 105,
+        "sample_end": "2025-07-08",
+        "sample_start": "2025-03-26",
+        "sha256": "e0881678c2b2e4c9524068c82d546bd78a4204449c5a2e03e6dad3516e10f5b1",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/studio-2025-101-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20250708.tar.xz",
+            "size": 997817428
+          }
+        ],
+        "expected_filename_date": "20250708"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20260318.tar.xz",
+        "filename_date": "20260318",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/summer-i-turned-pretty-311.cache/cache.20260318.tar.xz",
+        "sha256": "6c067c24a47570f8f213e65c80bbc2edef01f6186b901b398de62a3b93ebb190",
+        "size": 1047012284
+      },
+      "collection_key": "summer-i-turned-pretty-311",
+      "day_cache_validation": {
+        "required_collection_key": "summer-i-turned-pretty-311",
+        "required_sample_days": 182,
+        "required_sample_end": "2026-03-18",
+        "required_sample_start": "2025-09-18",
+        "status": "pending-read-only-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "311",
+        "collection_name": "Summer I turned pretty",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 182,
+        "sample_end": "2026-03-18",
+        "sample_start": "2025-09-18",
+        "sha256": "d5b9dd48d7e751f5edb3ac0fcc80d64f640eb90aafa701caa875fa4bd62c0f3b",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/summer-i-turned-pretty-311-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20260318.tar.xz",
+            "size": 1047012284
+          }
+        ],
+        "expected_filename_date": "20260318"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20251209.tar.xz",
+        "filename_date": "20251209",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/superman-2025.cache/cache.20251209.tar.xz",
+        "sha256": "b1b7d20b3cbae6ea499712473ded45d400bc7b66fd51518f12d366ec559d578c",
+        "size": 2134905336
+      },
+      "collection_key": "superman-2025",
+      "day_cache_validation": {
+        "required_collection_key": "superman-2025",
+        "required_sample_days": 112,
+        "required_sample_end": "2025-12-09",
+        "required_sample_start": "2025-08-20",
+        "status": "pending-read-only-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "",
+        "collection_name": "Superman 2025",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 112,
+        "sample_end": "2025-12-09",
+        "sample_start": "2025-08-20",
+        "sha256": "ec13b28a0b2f4456f4816d1139cd4d215091fdc7508a58eac20a90d65b7477b2",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/superman-2025-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20251209.tar.xz",
+            "size": 2134905336
+          }
+        ],
+        "expected_filename_date": "20251209"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20260601.tar.xz",
+        "filename_date": "20260601",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/tron-ares.cache/cache.20260601.tar.xz",
+        "sha256": "6f0c1cace86ad763236c1798aa9405b3cd29232299ce5f19a90e8d1e0b344119",
+        "size": 3153525728
+      },
+      "collection_key": "tron-ares",
+      "day_cache_validation": {
+        "required_collection_key": "tron-ares",
+        "required_sample_days": 182,
+        "required_sample_end": "2026-06-01",
+        "required_sample_start": "2025-12-02",
+        "status": "pending-read-only-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "",
+        "collection_name": "Tron Ares",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 182,
+        "sample_end": "2026-06-01",
+        "sample_start": "2025-12-02",
+        "sha256": "b3b5539827778ade87bf0761f14ba674dbed35458cf03bb033d4d7447f75acbb",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/tron-ares-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20260330.tar.xz",
+            "size": 1876989028
+          },
+          {
+            "filename": "cache.20260420.tar.xz",
+            "size": 2194858608
+          },
+          {
+            "filename": "cache.20260601.tar.xz",
+            "size": 3153525728
+          }
+        ],
+        "expected_filename_date": "20260601"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20260312.tar.xz",
+        "filename_date": "20260312",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/weapons-2025.cache/cache.20260312.tar.xz",
+        "sha256": "b4221784e3677fbed987b6e8a185f19dc8f5382af25010b8d91a6d03e9c6bde4",
+        "size": 3624399672
+      },
+      "collection_key": "weapons-2025",
+      "day_cache_validation": {
+        "required_collection_key": "weapons-2025",
+        "required_sample_days": 184,
+        "required_sample_end": "2026-03-12",
+        "required_sample_start": "2025-09-10",
+        "status": "pending-read-only-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "2025",
+        "collection_name": "Weapons",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 184,
+        "sample_end": "2026-03-12",
+        "sample_start": "2025-09-10",
+        "sha256": "a1fc92ed144e1d3c8167f821b066b4de06665ff97dbf04c985d29dc3f80a59ee",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/weapons-2025-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20260312.tar.xz",
+            "size": 3624399672
+          }
+        ],
+        "expected_filename_date": "20260312"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20260203.tar.xz",
+        "filename_date": "20260203",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/wednesday-02.1.cache/cache.20260203.tar.xz",
+        "sha256": "96734cb7944f4a915b198b4ec0783093a36226caef200ebdbf3515dff91656f2",
+        "size": 4077486932
+      },
+      "collection_key": "wednesday-02.1",
+      "day_cache_validation": {
+        "required_collection_key": "wednesday-02.1",
+        "required_sample_days": 182,
+        "required_sample_end": "2026-02-03",
+        "required_sample_start": "2025-08-06",
+        "status": "pending-read-only-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "201, 202, 203, 204",
+        "collection_name": "Wednesday",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 182,
+        "sample_end": "2026-02-03",
+        "sample_start": "2025-08-06",
+        "sha256": "872701baf6f9bfb97b9e4c68f193e5b0b64513ccd189e6b8fff58cb9f8cf6cc5",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/wednesday-02.1-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20260203.tar.xz",
+            "size": 4077486932
+          }
+        ],
+        "expected_filename_date": "20260203"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20260303.tar.xz",
+        "filename_date": "20260303",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/wednesday-02.2.cache/cache.20260303.tar.xz",
+        "sha256": "2db710d0aa5b31906b6fb45147f5b039e5689a37732d75a3749ded069843a67b",
+        "size": 3889068228
+      },
+      "collection_key": "wednesday-02.2",
+      "day_cache_validation": {
+        "required_collection_key": "wednesday-02.2",
+        "required_sample_days": 182,
+        "required_sample_end": "2026-03-03",
+        "required_sample_start": "2025-09-03",
+        "status": "pending-read-only-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "205, 206, 207, 208",
+        "collection_name": "Wednesday",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 182,
+        "sample_end": "2026-03-03",
+        "sample_start": "2025-09-03",
+        "sha256": "252639720a57d32b79d8a8dc1e8dad929d1e692beca9e0d10ae7875abed97cda",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/wednesday-02.2-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20260303.tar.xz",
+            "size": 3889068228
+          }
+        ],
+        "expected_filename_date": "20260303"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20250824.tar.xz",
+        "filename_date": "20250824",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/white-lotus-301.cache/cache.20250824.tar.xz",
+        "sha256": "296cd0ca4925a3468da7bf1f1b5f8f43522bd5ad5c793fb6ded0d14a06c55194",
+        "size": 3835262264
+      },
+      "collection_key": "white-lotus-301",
+      "day_cache_validation": {
+        "required_collection_key": "white-lotus-301",
+        "required_sample_days": 189,
+        "required_sample_end": "2025-08-24",
+        "required_sample_start": "2025-02-17",
+        "status": "pending-read-only-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "301",
+        "collection_name": "White Lotus",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 189,
+        "sample_end": "2025-08-24",
+        "sample_start": "2025-02-17",
+        "sha256": "7cc3f262ee4e233b6f2a9a3758162c66132b5ac1f7534689e46ab1fbdd5d975b",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/white-lotus-301-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20250720.tar.xz",
+            "size": 3370065892
+          },
+          {
+            "filename": "cache.20250824.tar.xz",
+            "size": 3835262264
+          }
+        ],
+        "expected_filename_date": "20250824"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20251005.tar.xz",
+        "filename_date": "20251005",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/white-lotus-307.cache/cache.20251005.tar.xz",
+        "sha256": "3394f847745623075f3987f595c3c9ebaa6f01585bb887052f5a9f65f9e06dcd",
+        "size": 2232976420
+      },
+      "collection_key": "white-lotus-307",
+      "day_cache_validation": {
+        "required_collection_key": "white-lotus-307",
+        "required_sample_days": 189,
+        "required_sample_end": "2025-10-05",
+        "required_sample_start": "2025-03-31",
+        "status": "pending-read-only-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "307",
+        "collection_name": "White Lotus",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 189,
+        "sample_end": "2025-10-05",
+        "sample_start": "2025-03-31",
+        "sha256": "7b43d21e7e96a33243623cd362a7b8293ccf4a0869fa068fb4de72edb808b298",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/white-lotus-307-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20251005.tar.xz",
+            "size": 2232976420
+          }
+        ],
+        "expected_filename_date": "20251005"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20250702.tar.xz",
+        "filename_date": "20250702",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/wicked-2024.cache/cache.20250702.tar.xz",
+        "sha256": "a16f8f7c25bc13475106235e2e50c998065fec8a2719c5248b12f97c640636ef",
+        "size": 3743108468
+      },
+      "collection_key": "wicked-2024",
+      "day_cache_validation": {
+        "required_collection_key": "wicked-2024",
+        "required_sample_days": 182,
+        "required_sample_end": "2025-07-02",
+        "required_sample_start": "2025-01-02",
+        "status": "pending-read-only-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "",
+        "collection_name": "Wicked Part 1",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 182,
+        "sample_end": "2025-07-02",
+        "sample_start": "2025-01-02",
+        "sha256": "3a422140100fa7146a4f085181badfc232a1281d886f0e36b577fc37c3669b1b",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/wicked-2024-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20250702.tar.xz",
+            "size": 3743108468
+          }
+        ],
+        "expected_filename_date": "20250702"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20260413.tar.xz",
+        "filename_date": "20260413",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/wicked-for-good-2025.cache/cache.20260413.tar.xz",
+        "sha256": "35c04522c076a24a9eeae600dbb62e2a6397f322130aa5e0ab570375af8df8a7",
+        "size": 1126169700
+      },
+      "collection_key": "wicked-for-good-2025",
+      "day_cache_validation": {
+        "required_collection_key": "wicked-for-good-2025",
+        "required_sample_days": 105,
+        "required_sample_end": "2026-04-13",
+        "required_sample_start": "2025-12-30",
+        "status": "pending-read-only-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "",
+        "collection_name": "Wicked: For Good",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 105,
+        "sample_end": "2026-04-13",
+        "sample_start": "2025-12-30",
+        "sha256": "15ad95168fcde06ac7ad36fb5c7aa895f2e316072a865bd6e6f6e09f7c4c1f13",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/wicked-for-good-2025-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20260413.tar.xz",
+            "size": 1126169700
+          }
+        ],
+        "expected_filename_date": "20260413"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20260429.tar.xz",
+        "filename_date": "20260429",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/witcher-04.cache/cache.20260429.tar.xz",
+        "sha256": "4bf1e561ef6434bffff119cf2e85bcf9adf479f064cbff7b65d51f06ae7800e6",
+        "size": 3655566904
+      },
+      "collection_key": "witcher-04",
+      "day_cache_validation": {
+        "required_collection_key": "witcher-04",
+        "required_sample_days": 182,
+        "required_sample_end": "2026-04-29",
+        "required_sample_start": "2025-10-30",
+        "status": "pending-read-only-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "S04",
+        "collection_name": "Witcher",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 182,
+        "sample_end": "2026-04-29",
+        "sample_start": "2025-10-30",
+        "sha256": "b84b47b2d22cd1ebeac42b2f213587c840c98f0b87e3ec32ea6da563e12b48f5",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/witcher-04-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20260429.tar.xz",
+            "size": 3655566904
+          }
+        ],
+        "expected_filename_date": "20260429"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20250730.tar.xz",
+        "filename_date": "20250730",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/your-friendly-neighborhood-spider-man-01.cache/cache.20250730.tar.xz",
+        "sha256": "fe2baa59bf4b5a4ee87ec40ee29cdd2355283557add91657c686ba7b32e73571",
+        "size": 2400817176
+      },
+      "collection_key": "your-friendly-neighborhood-spider-man-01",
+      "day_cache_validation": {
+        "required_collection_key": "your-friendly-neighborhood-spider-man-01",
+        "required_sample_days": 182,
+        "required_sample_end": "2025-07-30",
+        "required_sample_start": "2025-01-30",
+        "status": "pending-read-only-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "1",
+        "collection_name": "Your Friendly Neighborhood Spider Man",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 182,
+        "sample_end": "2025-07-30",
+        "sample_start": "2025-01-30",
+        "sha256": "ec28ee731b19c5b8472bc7e112947a7db33186f408bf5f17fe622728b155490f",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/your-friendly-neighborhood-spider-man-01-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20250730.tar.xz",
+            "size": 2400817176
+          }
+        ],
+        "expected_filename_date": "20250730"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20250604.tar.xz",
+        "filename_date": "20250604",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/zero-day-01.cache/cache.20250604.tar.xz",
+        "sha256": "c2d445c2edd15852c8ea49720ea8bd2edbadc4db10c498ce3fdd6635b3319be1",
+        "size": 1192621212
+      },
+      "collection_key": "zero-day-01",
+      "day_cache_validation": {
+        "required_collection_key": "zero-day-01",
+        "required_sample_days": 105,
+        "required_sample_end": "2025-06-04",
+        "required_sample_start": "2025-02-20",
+        "status": "pending-read-only-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "1",
+        "collection_name": "Zero Day",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 105,
+        "sample_end": "2025-06-04",
+        "sample_start": "2025-02-20",
+        "sha256": "04e2adfb51bea7e75ffc9c8bee78f12cd1bc03d73a8fb342717796c61cdbcc49",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/zero-day-01-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20250604.tar.xz",
+            "size": 1192621212
+          }
+        ],
+        "expected_filename_date": "20250604"
+      }
+    }
+  ],
+  "schema": "alpha60-year-cache-archive-map/1",
+  "selection_policy": "release-sample-end-or-explicit-override",
+  "status": "pass",
+  "year": "2025"
+}

@@ -1,0 +1,28 @@
+{
+  "authentication": {
+    "eureka_direct_to_ord": "unavailable",
+    "mode": "ord-authenticated push and pull",
+    "ord_direct_to_eureka": "pass",
+    "persistent_ssh_authorization_changed": false
+  },
+  "directions": {
+    "eureka_to_ord": {
+      "bytes_per_second": 435638093,
+      "initiator": "ord-pull",
+      "status": "pass"
+    },
+    "ord_to_eureka": {
+      "bytes_per_second": 435638088,
+      "initiator": "ord-push",
+      "status": "pass"
+    }
+  },
+  "payload": {
+    "bytes": 653297484,
+    "collection_key": "american-revolution-2025",
+    "sha256": "b9e2d4f9cfcb31e5d63ca156ab5ee8042ce4b26ccaa07531f05b5d7daffb4f58"
+  },
+  "schema": "alpha60-worker-link-local-transfer-test/1",
+  "status": "pass",
+  "year": 2025
+}
