@@ -1,0 +1,253 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt3581920",
+    "imdb_id": "tt3581920",
+    "revision": "fbeb53a0b523f937fae2f23d14689d8c5c84dd5a",
+    "wikidata_id": "Q87131973",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Last_of_Us_(TV_series)"
+  },
+  "coverage_sha256": "9c4d2e1667250d1d09ae54f61e7b92a819c7bc38a949f3cbef3e63d9a45f4279",
+  "generated_at": "2026-08-31T00:06:47.728602+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "aao-checksum-manifest": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/SHA256SUMS",
+      "sha256": "f7cccd77fa83baa7a24036fc961f1c1131634582d18b5ad42de6adbd4b42c313",
+      "size": 266970
+    },
+    "aao-release": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/release.json",
+      "sha256": "466e51603a0ffc645fb7c7b50cf16e62923dc261fe0b3435910911ea7740f986",
+      "size": 2976
+    },
+    "aao-verification": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-aao-verification.json",
+      "sha256": "ec18ea60d6836c8a3cf602d828a0bb15cf44128eff1f03cddc529f394769fe15",
+      "size": 2458
+    },
+    "archive-map": {
+      "path": "/tmp/year-2025-cache-archive-map.zero-exceptions.json",
+      "sha256": "07df6768b09300f45368bce76aa0f855dc87c0135f5d2f754100a09fad43a0e6",
+      "size": 124844
+    },
+    "btiha-metadata-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/last-of-us-201-cumulative-btiha-media-objects.json",
+      "sha256": "490ca1c60551e10510178d8161a6ba3a5c8502cfcbc9442706aa449ced7684ff",
+      "size": 637457
+    },
+    "canonical-metadata": {
+      "path": "/tmp/alpha60-swarm-metadata-2025/metadata/last-of-us-201.json",
+      "sha256": "9da9e5c595b0fb293f3eb3d310a81417890ce011eb8ae5bf0758a92c376593a8",
+      "size": 8819
+    },
+    "coverage-report": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-coverage-evidence/last-of-us-201.md",
+      "sha256": "37ee257112f697414f304f0fe90c7f0e2b614739f9e28d59e25323456fabf583",
+      "size": 745
+    },
+    "cumulative-aggregate-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.cumulative/last-of-us-201-cumulative-aggregate.geojson.gz",
+      "sha256": "dbcac365b02364140cbaee8bdb8d0d09e61e7d340bef38318596f34662b5833c",
+      "size": 1489414
+    },
+    "cumulative-btiha-geojson-gzip": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.cumulative/last-of-us-201-cumulative-btiha.geojson.gz",
+      "sha256": "c4ea5e85e97e372a8ee5565587adc88c1d5e4cfd22df6be949f11152b0e231f7",
+      "size": 70245079
+    },
+    "cumulative-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/last-of-us-201-cumulative.json",
+      "sha256": "be7ec735a3d9c237bf765311f7f98d2abc627b48d6f7e453752b5adb6f6f3391",
+      "size": 15754
+    },
+    "day-bundle-receipt": {
+      "path": "/tmp/year-2025-final-bundles/last-of-us-201/receipt.json",
+      "sha256": "2fe4c4cc6993d18edec46f8a92a54dcb06c67e26ee8a93ac666e3ae113a7c451",
+      "size": 72025
+    },
+    "ip-swarm-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/last-of-us-201-cumulative-ip-swarm.json",
+      "sha256": "713ed172ff7b2c06c83a4cb94ff3765f72adb2f623a38e54bdeca7a28412fa54",
+      "size": 43897
+    },
+    "published-day-bundle-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-day-product-receipts/last-of-us-201.json",
+      "sha256": "2fe4c4cc6993d18edec46f8a92a54dcb06c67e26ee8a93ac666e3ae113a7c451",
+      "size": 72025
+    },
+    "week-json": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/json/last-of-us-201-week.json",
+      "sha256": "6f4f65648c0f150adb94096f5a54e523c31b8d47570f95901482882c7f4affc4",
+      "size": 6637766
+    }
+  },
+  "media_object": "last-of-us-201",
+  "published_files": {
+    "data/csv/bytes/last-of-us-201-cumulative-detail.2025-btiha-itemized-by-bytes.csv": "8d80f1fedbd395d937c6cc2bd231b28a4866790590b209feb2d7edf3d67c6687",
+    "docs/itemized/figures/last-of-us-201-carto-4k.webp": "03d48de75286c7c08bc99bc68a81ada5e8f09daad7f564a225ae862c49a61170",
+    "docs/itemized/figures/last-of-us-201-carto.png": "70560db4c1efa938bc201cbf6402bb8fae62434d6ae6f7e37f4125463040f697",
+    "docs/itemized/figures/last-of-us-201-cumulative-detail-btiha-itemized-by-bytes.svg": "3d864a2b2f8be5ba83ca1c6d4b38b1eba981e892dee8f12fd23db97b817ffd4b",
+    "docs/itemized/figures/last-of-us-201-data-ge-1080p-4k.webp": "edc9ef9039e4d0cd4269836a5fdd690230b6da50dcc53648df5393a4d3a48d2b",
+    "docs/itemized/figures/last-of-us-201-data-ge-1080p.webp": "da5c71900a61ae12c7c6821e016b5813474b3e84bf67bb4d29c576882759464d",
+    "docs/itemized/figures/last-of-us-201-data-lt-1080p-4k.webp": "1c40b908f204db06bd6b31960c48da124a60d7e6b957e7f916c00645e384b362",
+    "docs/itemized/figures/last-of-us-201-data-lt-1080p.webp": "7dd8917a8fdad12f8ad3e85c4d022e58795012e065db4b6fb47d3f1cad50e880",
+    "docs/itemized/figures/last-of-us-201-downloads-by-day-day.svg": "124c3062342ca5733b4ce47b6988888e423fe541101e54ed7f7f0eba75255ec1",
+    "docs/itemized/figures/last-of-us-201-downloads-by-week-last-of-us-201-week.svg": "fc3cc646fd45118cc71e1b5be7768cfaef44670e2c902be70e04211282cbb5f7",
+    "docs/itemized/last-of-us-201-sample-cache-audit.md": "3ac33e939400b2cce7528e667dbbff7f27ce40f5fca162d25805dad17397dd2b",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/tmp/alpha60-year-2025-render",
+      "revision": "c520555c40beece2e38f62878e2d4cc1b312c505",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "c192c54f882171dafc74c038ec769f1e68bf8020d12a342d2334086b5b5ee5ea",
+      "size": 36998168
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.cumulative/last-of-us-201-cumulative-btiha.geojson.gz",
+        "sha256": "c4ea5e85e97e372a8ee5565587adc88c1d5e4cfd22df6be949f11152b0e231f7",
+        "size": 70245079
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/json/last-of-us-201-cumulative-btiha-media-objects.json",
+        "sha256": "490ca1c60551e10510178d8161a6ba3a5c8502cfcbc9442706aa449ced7684ff",
+        "size": 637457
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/izzi",
+      "revision": "b988ee7fd690a74a696c27c9aadf40c204a4c780",
+      "untracked": false
+    },
+    "media_object": "last-of-us-201",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60-results-2025/bin/a60-meta-collection.exe",
+      "sha256": "e71f9def936a6868d5282a5ff7dece07ade360eefa07abebde75434a927220f7",
+      "size": 8743680
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          74.0,
+          46.0,
+          44.0,
+          43.0,
+          29.0,
+          29.0,
+          27.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Seoul",
+          "Moscow",
+          "London",
+          "Saint Petersburg",
+          "Istanbul",
+          "Shanghai",
+          "Amsterdam",
+          "Nanjing",
+          "Ashburn",
+          "Budapest"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          76.0,
+          46.0,
+          43.0,
+          41.0,
+          30.0,
+          27.0,
+          27.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Seoul",
+          "Moscow",
+          "Saint Petersburg",
+          "Istanbul",
+          "London",
+          "Shanghai",
+          "Nanjing",
+          "Ashburn",
+          "Amsterdam",
+          "Budapest"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 22,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 18,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 28,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "c520555c40beece2e38f62878e2d4cc1b312c505",
+    "cartofreako": "fc58111b5bfa7667b12f6ade522ae5e566b464d1",
+    "izzi": "b988ee7fd690a74a696c27c9aadf40c204a4c780",
+    "metadata": "fbeb53a0b523f937fae2f23d14689d8c5c84dd5a",
+    "results_aao_adoption": "9cd9d91a6fbb560ac2a96beadf4c83b94daf6a88"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2025"
+}

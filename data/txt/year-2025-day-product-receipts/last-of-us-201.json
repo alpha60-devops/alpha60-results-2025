@@ -1,0 +1,1828 @@
+{
+  "archive": {
+    "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/last-of-us-201.cache/cache.20251026.tar.xz",
+    "sha256": "0dec4b42af191d4fca77a0c46c185326d55c59506474cef05e066f17fc10e0ff",
+    "size": 5454379644
+  },
+  "authorization": {
+    "archive_mutated": false,
+    "excluded_member_classes": [
+      "hour",
+      "week",
+      "cumulative"
+    ],
+    "raw_samples_opened": false,
+    "scope": "read only streaming of per-torrent day records"
+  },
+  "collection_key": "last-of-us-201",
+  "day_cache_stream_contract": {
+    "authorization": {
+      "archive_mutated": false,
+      "excluded_member_classes": [
+        "hour",
+        "week",
+        "cumulative"
+      ],
+      "raw_samples_opened": false,
+      "scope": "read only streaming of per-torrent day records"
+    },
+    "available_day_products": 193,
+    "cache_members": 81115,
+    "collection_key": "last-of-us-201",
+    "first_date": "2025-04-14",
+    "first_index": 1,
+    "indices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144,
+      145,
+      146,
+      147,
+      148,
+      149,
+      150,
+      151,
+      152,
+      153,
+      154,
+      155,
+      156,
+      157,
+      158,
+      159,
+      160,
+      161,
+      162,
+      163,
+      164,
+      165,
+      166,
+      167,
+      168,
+      169,
+      170,
+      171,
+      172,
+      173,
+      174,
+      175,
+      176,
+      177,
+      178,
+      179,
+      180,
+      181,
+      182,
+      183,
+      184,
+      185,
+      186,
+      187,
+      188,
+      189,
+      190,
+      191,
+      192,
+      193,
+      194,
+      195,
+      196
+    ],
+    "last_date": "2025-10-26",
+    "last_index": 196,
+    "missing_indices": [
+      60,
+      61,
+      62
+    ],
+    "sample_span_days": 196,
+    "schema": "alpha60-day-cache-stream-contract/1",
+    "sparse": true,
+    "status": "pass"
+  },
+  "day_product_contract": {
+    "collection_key": "last-of-us-201",
+    "day_products": 193,
+    "first_date": "2025-04-14",
+    "first_index": 1,
+    "geojson_data_version": "20260701",
+    "ip_geolocation_version": "6:1777968300",
+    "json_data_version": "2026-08-05",
+    "last_date": "2025-10-26",
+    "last_index": 196,
+    "schema": "alpha60-day-product-contract/1",
+    "sparse": true,
+    "status": "pass"
+  },
+  "publications": {
+    "data/geojson.day/last-of-us-201-day-00001.geojson.gz": {
+      "sha256": "9dfaa3d83d29c3b8f51dcdf344834eb1b190ddc22988db7d51b5a8a5e2835bbb",
+      "size": 217640
+    },
+    "data/geojson.day/last-of-us-201-day-00002.geojson.gz": {
+      "sha256": "806a3d8091c6fa3559328504f66e887646b447b2d8904bd0fc2d6b1c8d6bac5c",
+      "size": 313794
+    },
+    "data/geojson.day/last-of-us-201-day-00003.geojson.gz": {
+      "sha256": "f26572aee4c58085fe880ed3b2fe2b97287df93ee8a1b90a810bf26c544e9375",
+      "size": 299454
+    },
+    "data/geojson.day/last-of-us-201-day-00004.geojson.gz": {
+      "sha256": "12758acca09ca48d3948dcb3c88ff96c1ca289142413b530d74557829bb4b1fa",
+      "size": 287023
+    },
+    "data/geojson.day/last-of-us-201-day-00005.geojson.gz": {
+      "sha256": "5cd28bda9cc9b8d3dc519103ba2df56a50608ad50eb13e14c6c38645558a742a",
+      "size": 301391
+    },
+    "data/geojson.day/last-of-us-201-day-00006.geojson.gz": {
+      "sha256": "55463c30d7d17be6889136c8cedc158e7512bf0b0a238842309f9cca6a51dd64",
+      "size": 302822
+    },
+    "data/geojson.day/last-of-us-201-day-00007.geojson.gz": {
+      "sha256": "e6b4c2267c69d0589503431f4b3438917019a8ec5d45232cc2ccaea4695ef6c3",
+      "size": 298068
+    },
+    "data/geojson.day/last-of-us-201-day-00008.geojson.gz": {
+      "sha256": "1e6fb367b9b50909fa91e2642ddfe19ae7e1c87e0872b3c08f94af77a5e5386b",
+      "size": 417288
+    },
+    "data/geojson.day/last-of-us-201-day-00009.geojson.gz": {
+      "sha256": "9029dad2e82e4efc48c2a75ff2821c11b9e3990a43e36bdc53e28d4470b5c612",
+      "size": 456462
+    },
+    "data/geojson.day/last-of-us-201-day-00010.geojson.gz": {
+      "sha256": "a5a6e96f1641945baa26ebf64fd6820a2917b4fdcdc3ee4a6d0ed38820cededc",
+      "size": 434498
+    },
+    "data/geojson.day/last-of-us-201-day-00011.geojson.gz": {
+      "sha256": "6543e735ec3109127aa5b65d11255cd6dc46dc07c16514d3bccde3e46ba9242c",
+      "size": 421835
+    },
+    "data/geojson.day/last-of-us-201-day-00012.geojson.gz": {
+      "sha256": "1962f12bb9d8d4461e579f0358f451832868f40c497576319e0b3940721a81b3",
+      "size": 416173
+    },
+    "data/geojson.day/last-of-us-201-day-00013.geojson.gz": {
+      "sha256": "e2575ea763e936d8d89c2b3dda38e5a33d958c0608515673c14bbb519a4dd08b",
+      "size": 404298
+    },
+    "data/geojson.day/last-of-us-201-day-00014.geojson.gz": {
+      "sha256": "f4e33041a3e99cbc44c7f6c9235721f03dc60758242e06d13e4927abd0d8093a",
+      "size": 411173
+    },
+    "data/geojson.day/last-of-us-201-day-00015.geojson.gz": {
+      "sha256": "01c1d8601bc1705aaaf3e26a118de9b777ece3fdeb94aba7db8854dcfdb1e723",
+      "size": 476692
+    },
+    "data/geojson.day/last-of-us-201-day-00016.geojson.gz": {
+      "sha256": "5d91e320285ee6ecd46c2329c953bb5a074884a9cf822e3a1c3cc2210c7224a2",
+      "size": 482480
+    },
+    "data/geojson.day/last-of-us-201-day-00017.geojson.gz": {
+      "sha256": "f198d654c2e5979f6b2b61924459a5f111c80d2e4fe4859e9f53c8dff9c00ef1",
+      "size": 441758
+    },
+    "data/geojson.day/last-of-us-201-day-00018.geojson.gz": {
+      "sha256": "ae287265dc781d9351b32a3f42c04ae840911151a32d70dddb98fd18ec4f2154",
+      "size": 435960
+    },
+    "data/geojson.day/last-of-us-201-day-00019.geojson.gz": {
+      "sha256": "86aae502ce5b85228adb89d4d1802165c31eac7ba72feb0d425772ceda0418d8",
+      "size": 420891
+    },
+    "data/geojson.day/last-of-us-201-day-00020.geojson.gz": {
+      "sha256": "bca0fc72584f506e48ede91d454a4c2e471dd355cb912a54d5b82695b22a3825",
+      "size": 413866
+    },
+    "data/geojson.day/last-of-us-201-day-00021.geojson.gz": {
+      "sha256": "2f23637d41dcb37a59cf66e8f704636b49fc99daea73ec00f1a0463c86fd504d",
+      "size": 411559
+    },
+    "data/geojson.day/last-of-us-201-day-00022.geojson.gz": {
+      "sha256": "f4078f64779feafaf6017ce3950a3cee1e545ef7da5b02f66bd1643174f1becf",
+      "size": 439917
+    },
+    "data/geojson.day/last-of-us-201-day-00023.geojson.gz": {
+      "sha256": "38523f36bf4ea9a388a7861bc280aaf220caa755172db3313fbc892a6990eb11",
+      "size": 419343
+    },
+    "data/geojson.day/last-of-us-201-day-00024.geojson.gz": {
+      "sha256": "30fa4faeb5af69afc7951875761437f645fce6ac6803f22ba5206e37fe6e3829",
+      "size": 411830
+    },
+    "data/geojson.day/last-of-us-201-day-00025.geojson.gz": {
+      "sha256": "0c2a118bee64b913b4c8d179cd8d000c6bbf41523bf465551752f7ebb31eeb9b",
+      "size": 393941
+    },
+    "data/geojson.day/last-of-us-201-day-00026.geojson.gz": {
+      "sha256": "c7a2e95e8c1f98d57f7a1a3613fb79e70fb2c756f8876b55be40fea4d0442a56",
+      "size": 388601
+    },
+    "data/geojson.day/last-of-us-201-day-00027.geojson.gz": {
+      "sha256": "c31e74686a26cbab303541156290891dee282c2d8fbd4ad35883c7dde9dfe04a",
+      "size": 374712
+    },
+    "data/geojson.day/last-of-us-201-day-00028.geojson.gz": {
+      "sha256": "15f5094807a3c728f3f2854f29122fc15cd4e6edce31386c7dd9e002c9b41a00",
+      "size": 384311
+    },
+    "data/geojson.day/last-of-us-201-day-00029.geojson.gz": {
+      "sha256": "e68b031974092d1b720a9280c93c60fab59ec11acf3d37086cae8a4e045102b9",
+      "size": 406317
+    },
+    "data/geojson.day/last-of-us-201-day-00030.geojson.gz": {
+      "sha256": "c87e25b6c8f57f770319227cb28f1046cc72c78956144cd36f0dbb99f1202747",
+      "size": 405343
+    },
+    "data/geojson.day/last-of-us-201-day-00031.geojson.gz": {
+      "sha256": "deafad285da5e0b17d602dd3715cda2a540052188d69cff9fa9cd127e216f0ad",
+      "size": 393894
+    },
+    "data/geojson.day/last-of-us-201-day-00032.geojson.gz": {
+      "sha256": "30059597314f36da8383e62cb2ce9313c7a21ebfa1cb71c019d00a13f110fe7d",
+      "size": 403284
+    },
+    "data/geojson.day/last-of-us-201-day-00033.geojson.gz": {
+      "sha256": "12aca5b40cf7021c4adc583ff0ce2d668128b090089f07f135dd51283ccad378",
+      "size": 384119
+    },
+    "data/geojson.day/last-of-us-201-day-00034.geojson.gz": {
+      "sha256": "077de16b42bed2e6e84d930c170b32dac04d3addad016d4cc5c665cbccaa0292",
+      "size": 377304
+    },
+    "data/geojson.day/last-of-us-201-day-00035.geojson.gz": {
+      "sha256": "120b266a1ae66636bf2a32da135c692d02e693bfe5b861d6b187fe376325da5f",
+      "size": 378438
+    },
+    "data/geojson.day/last-of-us-201-day-00036.geojson.gz": {
+      "sha256": "643cce41c14fa7fea4bfdd53fb2afa916bf99587e1000a6b4ade850699111984",
+      "size": 404909
+    },
+    "data/geojson.day/last-of-us-201-day-00037.geojson.gz": {
+      "sha256": "d04c220669e34cee90d296b3167147dd3ab8431bc41e35da8d3370cde422462e",
+      "size": 384634
+    },
+    "data/geojson.day/last-of-us-201-day-00038.geojson.gz": {
+      "sha256": "e394c5e53bc6ea365eb2a21b86e536b68c8b555159defdd07f5f5f14de6a25ab",
+      "size": 366995
+    },
+    "data/geojson.day/last-of-us-201-day-00039.geojson.gz": {
+      "sha256": "4e5d1dbcba1b29239b373519d89528e10ef8e5317466fae7b351998188a86ec3",
+      "size": 368098
+    },
+    "data/geojson.day/last-of-us-201-day-00040.geojson.gz": {
+      "sha256": "d812c3c2a993e7ac29c4b38dbb1f121f88aa3e1684b3324d3e09fd2bbd89ee97",
+      "size": 360067
+    },
+    "data/geojson.day/last-of-us-201-day-00041.geojson.gz": {
+      "sha256": "b7e5b1369a7758139f207d8fe1e6e286c1e5e857daa2ea3aca65a4373b55d64f",
+      "size": 357865
+    },
+    "data/geojson.day/last-of-us-201-day-00042.geojson.gz": {
+      "sha256": "7ecae527afe03b64e7e89d02f90b1e7c491e049cde8dcbde9bf6f7ffe988c303",
+      "size": 360648
+    },
+    "data/geojson.day/last-of-us-201-day-00043.geojson.gz": {
+      "sha256": "ca3db69748753baf4d7db5723d359f5e91efd78b6ffb6e3236e282f944c3a2d2",
+      "size": 379104
+    },
+    "data/geojson.day/last-of-us-201-day-00044.geojson.gz": {
+      "sha256": "91589d0ed63fe526a6578d68799b33bc85ca0d83042b65f966a5de79dc9665d0",
+      "size": 370940
+    },
+    "data/geojson.day/last-of-us-201-day-00045.geojson.gz": {
+      "sha256": "311bc6d512cea86a04ddeee9f505c6200415683de0d66f1816cfc6ea4b9e31ce",
+      "size": 360323
+    },
+    "data/geojson.day/last-of-us-201-day-00046.geojson.gz": {
+      "sha256": "98bf9075fea5ce4fd8a4e64f6f8351c5bed8134539e47bba55d0585223fbfd7c",
+      "size": 350549
+    },
+    "data/geojson.day/last-of-us-201-day-00047.geojson.gz": {
+      "sha256": "1331417e9eb29aae044ef27e4d97eb3ce01123bf3dfa3046b7789dc6ee7fcbc0",
+      "size": 341055
+    },
+    "data/geojson.day/last-of-us-201-day-00048.geojson.gz": {
+      "sha256": "7764670fd4e9d64f277b1f41a9ac46a985be4a3c0bb3e11fdc9c500457ee562f",
+      "size": 343586
+    },
+    "data/geojson.day/last-of-us-201-day-00049.geojson.gz": {
+      "sha256": "53f30de7865936c90ab11abf1cf307ab0874c5e219cf48ceadea73d938e565ec",
+      "size": 358665
+    },
+    "data/geojson.day/last-of-us-201-day-00050.geojson.gz": {
+      "sha256": "71d73f5bb97949ebbeb318945f64f4a489008d7bc8e9d795020f5ae88af6c9cb",
+      "size": 376619
+    },
+    "data/geojson.day/last-of-us-201-day-00051.geojson.gz": {
+      "sha256": "42702e8957d17a505c1dc32d25ebc3a5a779f034a91e09edac75b70ca31d7c41",
+      "size": 369752
+    },
+    "data/geojson.day/last-of-us-201-day-00052.geojson.gz": {
+      "sha256": "0a0343e3fbf4beb87f23f6e7651a1cd9682449f156ec7e215ad010381b540223",
+      "size": 366723
+    },
+    "data/geojson.day/last-of-us-201-day-00053.geojson.gz": {
+      "sha256": "1aa38109d9291d5f8566600d5fd570b0c41683d2d614ce98cb174f5bf1a66094",
+      "size": 370689
+    },
+    "data/geojson.day/last-of-us-201-day-00054.geojson.gz": {
+      "sha256": "0d73cd6131afa02a08d5ab44028328137616b9dec15c8bd174c409975414c429",
+      "size": 358662
+    },
+    "data/geojson.day/last-of-us-201-day-00055.geojson.gz": {
+      "sha256": "cf768106ac4497f20b08e7fc37439da0c070c2bcc7067e7974cdb67b24f4081d",
+      "size": 349008
+    },
+    "data/geojson.day/last-of-us-201-day-00056.geojson.gz": {
+      "sha256": "840f91cb463eb815f3cdd9300e8a40b58a2656692f228e1a3cad50b51af71592",
+      "size": 344955
+    },
+    "data/geojson.day/last-of-us-201-day-00057.geojson.gz": {
+      "sha256": "d4c5b801e06bd47fe9333f5f21fa82664a8a87b4f8039a12f968b1946718f9ae",
+      "size": 359270
+    },
+    "data/geojson.day/last-of-us-201-day-00058.geojson.gz": {
+      "sha256": "218b01807506c51829facd854204e04f2aad7d6d8c67e7b77c97def0bc88ad23",
+      "size": 353131
+    },
+    "data/geojson.day/last-of-us-201-day-00059.geojson.gz": {
+      "sha256": "58342c1f1ad939e7b8cc279302267d0b2fe4cf1732849dd4d2a262500240e536",
+      "size": 345499
+    },
+    "data/geojson.day/last-of-us-201-day-00063.geojson.gz": {
+      "sha256": "5a73eae611ba06245dc388e09eb6dfb294f2fdbf72cdc0535d2619ea87990310",
+      "size": 317560
+    },
+    "data/geojson.day/last-of-us-201-day-00064.geojson.gz": {
+      "sha256": "f6acd37fc8d4c5284a21a0655da2b2444da9589a0f30cd4f1e2e86541c9020d9",
+      "size": 344116
+    },
+    "data/geojson.day/last-of-us-201-day-00065.geojson.gz": {
+      "sha256": "477f97a40b2dcd08951b3ea2bcec3d8c42e5c1159eddee95c0ec3203095946c0",
+      "size": 351675
+    },
+    "data/geojson.day/last-of-us-201-day-00066.geojson.gz": {
+      "sha256": "d95b7d40fa097a5da3a11f7375eb35784bf8dd85ec6260afbc13140203516d41",
+      "size": 326630
+    },
+    "data/geojson.day/last-of-us-201-day-00067.geojson.gz": {
+      "sha256": "ffb9c595e41aa51bd451d03e1ffabbcc7e419d197eb888d1e23770f1aa9a24de",
+      "size": 330779
+    },
+    "data/geojson.day/last-of-us-201-day-00068.geojson.gz": {
+      "sha256": "efd9cbbc2cfdc4ed8fa437abcdcbeae65313ca1120883e56a6199a37a0e90a31",
+      "size": 334654
+    },
+    "data/geojson.day/last-of-us-201-day-00069.geojson.gz": {
+      "sha256": "483925261cdce38550d9f8635271c9147ba1fe3b435403081bfc807636b3b582",
+      "size": 319003
+    },
+    "data/geojson.day/last-of-us-201-day-00070.geojson.gz": {
+      "sha256": "7ab754ed3bc224c1a2d17584b32a04735135473aa5e94ae984d2a14531f5bdb7",
+      "size": 324082
+    },
+    "data/geojson.day/last-of-us-201-day-00071.geojson.gz": {
+      "sha256": "dde7486840314607ce0a0755cd77a00dba9f1371c478be0302dfa9bff9d4a8b0",
+      "size": 341531
+    },
+    "data/geojson.day/last-of-us-201-day-00072.geojson.gz": {
+      "sha256": "1244d1ec5707e437b46415c7d950d7f23962e38645240b7db0da77a22295f845",
+      "size": 336137
+    },
+    "data/geojson.day/last-of-us-201-day-00073.geojson.gz": {
+      "sha256": "204ea0c93a3244475e214cb1611f71a4db0ee5e78becd236819f3ccf478ca4b7",
+      "size": 341386
+    },
+    "data/geojson.day/last-of-us-201-day-00074.geojson.gz": {
+      "sha256": "753148c32dd33a9d90482096147a91f670e1bc6530ffe1b5949829c9d0d9c71c",
+      "size": 329205
+    },
+    "data/geojson.day/last-of-us-201-day-00075.geojson.gz": {
+      "sha256": "077cd48fd38141dd8adcc5e182e85d133a6d6043b693ba9e50b64e73426907c1",
+      "size": 345403
+    },
+    "data/geojson.day/last-of-us-201-day-00076.geojson.gz": {
+      "sha256": "a58c8cf4d8bf49bbb2c64021a46fc7163045b9d8f9a943ba11ec49e0c810d480",
+      "size": 330185
+    },
+    "data/geojson.day/last-of-us-201-day-00077.geojson.gz": {
+      "sha256": "bfb5692cd5c1a4b4b42e1262bd795567bc18074f0e0e131db365617991be909c",
+      "size": 316787
+    },
+    "data/geojson.day/last-of-us-201-day-00078.geojson.gz": {
+      "sha256": "6ae9b6dbb0ed8ab36a428125c8720abca3854d4e08f19b5839fefbacc6d80f1a",
+      "size": 345585
+    },
+    "data/geojson.day/last-of-us-201-day-00079.geojson.gz": {
+      "sha256": "4380cb9ba512d896250dd9d6b97087b376bd654a54e4d71c2efc81761ed6291f",
+      "size": 334590
+    },
+    "data/geojson.day/last-of-us-201-day-00080.geojson.gz": {
+      "sha256": "c3c5f003171858a65d0c573c8c07722963aeb3f0d0eb0037c4dcb2191fbe8506",
+      "size": 317490
+    },
+    "data/geojson.day/last-of-us-201-day-00081.geojson.gz": {
+      "sha256": "f2fe4b0d258f1184af0ff578c502609c742231035d7ba454153d1dcf2bd221a0",
+      "size": 329439
+    },
+    "data/geojson.day/last-of-us-201-day-00082.geojson.gz": {
+      "sha256": "ac6622a227800db3ef68f4b2a899af587fd82059b2c0ab1190f0db817e1e6acd",
+      "size": 363348
+    },
+    "data/geojson.day/last-of-us-201-day-00083.geojson.gz": {
+      "sha256": "4fead507eac0f7c8c7acde37ab5954e83a2c33f9caa6f211106a4e06270e61e5",
+      "size": 325616
+    },
+    "data/geojson.day/last-of-us-201-day-00084.geojson.gz": {
+      "sha256": "fe6b17e0e5f129479ce894fafdd46894777903187f540c4f37e44773e0cce403",
+      "size": 324859
+    },
+    "data/geojson.day/last-of-us-201-day-00085.geojson.gz": {
+      "sha256": "00ef5bc16feedeff8ec0ae17359af1989f1cad2dc0026cc0873fbf0e6af025cb",
+      "size": 334419
+    },
+    "data/geojson.day/last-of-us-201-day-00086.geojson.gz": {
+      "sha256": "7381854cb73399cdaa687e25fd8245023cd72647ebd48a6701306469d79ec300",
+      "size": 317290
+    },
+    "data/geojson.day/last-of-us-201-day-00087.geojson.gz": {
+      "sha256": "210821fd5c8a04fd43ce7076eac3601443ae299682fd4559f3f7b75a18662fb2",
+      "size": 334741
+    },
+    "data/geojson.day/last-of-us-201-day-00088.geojson.gz": {
+      "sha256": "192c69bc2cc89e2b8ecbb831a31ba7cb1af589abd790f7c68c76ace97b211f7d",
+      "size": 343843
+    },
+    "data/geojson.day/last-of-us-201-day-00089.geojson.gz": {
+      "sha256": "bf77781c4a5856cc155479c086130ad3729f6c82f4de65d39c893c79f7ffbf26",
+      "size": 327715
+    },
+    "data/geojson.day/last-of-us-201-day-00090.geojson.gz": {
+      "sha256": "be5e57165b91257d7cc8440a092474970f8b0c79c96b0972e58e5a8616a4dff4",
+      "size": 325963
+    },
+    "data/geojson.day/last-of-us-201-day-00091.geojson.gz": {
+      "sha256": "8ce352ce0ec91f8842eb952626113731822fc7bff63852617946921d10a9ad20",
+      "size": 318752
+    },
+    "data/geojson.day/last-of-us-201-day-00092.geojson.gz": {
+      "sha256": "4aa99f2c39745c458430578b790b5497b9f062e948225efc9db9fb3ea024fe0c",
+      "size": 316272
+    },
+    "data/geojson.day/last-of-us-201-day-00093.geojson.gz": {
+      "sha256": "f55930eca88543271f81fecf0e187379d0226d4b15cb5d8f02cb132b4ad23891",
+      "size": 279216
+    },
+    "data/geojson.day/last-of-us-201-day-00094.geojson.gz": {
+      "sha256": "5d5b1c61ac4d4773b8c1c736d4f41dbecc7501e23c17222c92323d47a40b7511",
+      "size": 296351
+    },
+    "data/geojson.day/last-of-us-201-day-00095.geojson.gz": {
+      "sha256": "9deafcf021d05769b012e6181e4a308fc31ce1390a57e18de141bebc8fd560cf",
+      "size": 300165
+    },
+    "data/geojson.day/last-of-us-201-day-00096.geojson.gz": {
+      "sha256": "c243805910411f7a861bed524176d3b7843ac7f13e29c0048db90abd485985c2",
+      "size": 310711
+    },
+    "data/geojson.day/last-of-us-201-day-00097.geojson.gz": {
+      "sha256": "b19ddd49d4a84f1aabae695ebd778dccb40020124297a3adb58db90a62546d07",
+      "size": 284094
+    },
+    "data/geojson.day/last-of-us-201-day-00098.geojson.gz": {
+      "sha256": "fc80cedf3183eb6700d161bc97df0b174772f1b54f00d60ba97b7abef128d46d",
+      "size": 289405
+    },
+    "data/geojson.day/last-of-us-201-day-00099.geojson.gz": {
+      "sha256": "75a926873901a1b67e53e8cef27f5221a0da3e999c2f0658ffee8e44ac5a6d24",
+      "size": 336646
+    },
+    "data/geojson.day/last-of-us-201-day-00100.geojson.gz": {
+      "sha256": "2e2c2bf325b7048282ff660e5e46f6e94807f880cbfa9563bd1db16aba445231",
+      "size": 288623
+    },
+    "data/geojson.day/last-of-us-201-day-00101.geojson.gz": {
+      "sha256": "e973214c7b6d17136b00a2ad2593773d216a87ec145c8b03e668aa8674ee5a19",
+      "size": 310706
+    },
+    "data/geojson.day/last-of-us-201-day-00102.geojson.gz": {
+      "sha256": "53f36029be409cdb598799892d0f819b1e278060bc7bded2a2e6d98247f762c1",
+      "size": 302091
+    },
+    "data/geojson.day/last-of-us-201-day-00103.geojson.gz": {
+      "sha256": "ccf68d4e22e5c7f6fb24ae3bf1a0fd756d89fda5fbd01976885799c4f845d042",
+      "size": 279274
+    },
+    "data/geojson.day/last-of-us-201-day-00104.geojson.gz": {
+      "sha256": "f6727d378947156ee3051f3d914ff6470739737c53f4a94c65dcdaa5e0e4a812",
+      "size": 271825
+    },
+    "data/geojson.day/last-of-us-201-day-00105.geojson.gz": {
+      "sha256": "b063a11fccca4f79c260961919b7f6a6f586d15028a49f15366bafcac3bf76ad",
+      "size": 308317
+    },
+    "data/geojson.day/last-of-us-201-day-00106.geojson.gz": {
+      "sha256": "a32dea347c2330a4e9d118a529ec94cb60f2565e396ecd2a3b93893fbdbdefff",
+      "size": 339799
+    },
+    "data/geojson.day/last-of-us-201-day-00107.geojson.gz": {
+      "sha256": "42b40c6d710b2b234ad2c6d19a52f3833e8c4fc0074388f113edcc451af270d6",
+      "size": 346847
+    },
+    "data/geojson.day/last-of-us-201-day-00108.geojson.gz": {
+      "sha256": "5202b4f2ad5159272f7269cd9eaf0ca74af1d6784d30e27469629713831b2b42",
+      "size": 348284
+    },
+    "data/geojson.day/last-of-us-201-day-00109.geojson.gz": {
+      "sha256": "e3fbe29b6d16c414e71b0be8706eee0517bd9fb2e5ab4fd339d8529fdeee431e",
+      "size": 341218
+    },
+    "data/geojson.day/last-of-us-201-day-00110.geojson.gz": {
+      "sha256": "4efdd6503a6859fb8367a0b3088687d665aed12190138ff28b53249558a6ebea",
+      "size": 388648
+    },
+    "data/geojson.day/last-of-us-201-day-00111.geojson.gz": {
+      "sha256": "af5b42ee1121ab6324cdf214e5006c7856b8944f87f0229d837c0cfcbbc91d3f",
+      "size": 283044
+    },
+    "data/geojson.day/last-of-us-201-day-00112.geojson.gz": {
+      "sha256": "37bb0fe2791b3665cda45a5a7d856751059d69c0a9a1aa364757e19af6c96d07",
+      "size": 324970
+    },
+    "data/geojson.day/last-of-us-201-day-00113.geojson.gz": {
+      "sha256": "13b3c18d05635bcca1b896dd431bb393d93ca7569b73f57b93e215317634e0c2",
+      "size": 308900
+    },
+    "data/geojson.day/last-of-us-201-day-00114.geojson.gz": {
+      "sha256": "798cff24c75137e766d440906d74c06bafff34d7504a9e4a0877d73d2ea0aedf",
+      "size": 167739
+    },
+    "data/geojson.day/last-of-us-201-day-00115.geojson.gz": {
+      "sha256": "b8a6cf6abbd9690ab9b895415c9a7a070a9ce9675958ee7f00e1f831c670f965",
+      "size": 310630
+    },
+    "data/geojson.day/last-of-us-201-day-00116.geojson.gz": {
+      "sha256": "bdf418e98668f2fdd603e9d53b208b2caaf19be57a97b7eec2d63b92a6411759",
+      "size": 315764
+    },
+    "data/geojson.day/last-of-us-201-day-00117.geojson.gz": {
+      "sha256": "171d18942849271d46c0a1ffb32452d4bf1e383bd9ed3bd8d133fa604af0be6a",
+      "size": 316895
+    },
+    "data/geojson.day/last-of-us-201-day-00118.geojson.gz": {
+      "sha256": "d7c536b069c984017a6b3ad7f76bf7ac3b355611b02e82a83f9a881c2c48cb71",
+      "size": 295993
+    },
+    "data/geojson.day/last-of-us-201-day-00119.geojson.gz": {
+      "sha256": "c9301fbff8dc49bc6cf313a02da41e9e056504bea4dbfa1fa692f5a71c86e3b2",
+      "size": 303357
+    },
+    "data/geojson.day/last-of-us-201-day-00120.geojson.gz": {
+      "sha256": "0a8902f2e1cd31fc3be3d8e11e31eb025fd9eedcfc1b1dceb13d773392a1294d",
+      "size": 324403
+    },
+    "data/geojson.day/last-of-us-201-day-00121.geojson.gz": {
+      "sha256": "823c4208cc6a5bb42fa4deb7f8cd5c46725e77b070f8ac0a99b265c101b3e766",
+      "size": 317040
+    },
+    "data/geojson.day/last-of-us-201-day-00122.geojson.gz": {
+      "sha256": "50cf5a48d8fd4db15cda0f1e84d958442733c2c713b93864386642c7c5366c13",
+      "size": 307465
+    },
+    "data/geojson.day/last-of-us-201-day-00123.geojson.gz": {
+      "sha256": "fbcd5efd1c517c3ce3d64a43965c68aa8975c47a1201f0a4e284a4c4ac0646f6",
+      "size": 316483
+    },
+    "data/geojson.day/last-of-us-201-day-00124.geojson.gz": {
+      "sha256": "7b393e21fad074731e3a6cdd96a30ff7fe3b2f41b835d7efdc9f2553b57ebd7a",
+      "size": 287980
+    },
+    "data/geojson.day/last-of-us-201-day-00125.geojson.gz": {
+      "sha256": "146dc4a3130d2c9fa59446bb1ed8ec4cb2c99a6c1211754458dc9c92e6150f03",
+      "size": 279644
+    },
+    "data/geojson.day/last-of-us-201-day-00126.geojson.gz": {
+      "sha256": "26278c29ffab2d8a71def8b553b841dca6faa148c7336902c1cbb6c600b12121",
+      "size": 286508
+    },
+    "data/geojson.day/last-of-us-201-day-00127.geojson.gz": {
+      "sha256": "4abe05ac80c948a13bbe309528203e4fc950fe72c44c70b945b6c59de1cacee4",
+      "size": 290046
+    },
+    "data/geojson.day/last-of-us-201-day-00128.geojson.gz": {
+      "sha256": "14182a12412690579defec83d900c3eb41216f0174aa78afd1dbe455c7bebca9",
+      "size": 295525
+    },
+    "data/geojson.day/last-of-us-201-day-00129.geojson.gz": {
+      "sha256": "af00d7865c74b537a2169cc83a8532d580d2637921d733a5e35a34cd4cca9712",
+      "size": 297610
+    },
+    "data/geojson.day/last-of-us-201-day-00130.geojson.gz": {
+      "sha256": "bac8d095c802d27c3068b51377b26d6f2a599163f94bb7102210ce70a71f7059",
+      "size": 303774
+    },
+    "data/geojson.day/last-of-us-201-day-00131.geojson.gz": {
+      "sha256": "d4a046966c4f35d01673cc60d4c261955394e8fad6b75b4a047bf010936fca37",
+      "size": 297199
+    },
+    "data/geojson.day/last-of-us-201-day-00132.geojson.gz": {
+      "sha256": "930fe438b6326ffac8d6561026e0c3c0f93619a7ee7969388c86e62230fab364",
+      "size": 290042
+    },
+    "data/geojson.day/last-of-us-201-day-00133.geojson.gz": {
+      "sha256": "d78511ef0a9b8b9251631b411b19856f2ae50ce3f5c2a1666ec2c6ddb0ade778",
+      "size": 281140
+    },
+    "data/geojson.day/last-of-us-201-day-00134.geojson.gz": {
+      "sha256": "4f24b5b1ef09e7a3621f09ca9ea3d990fad2ef67f26edc3f1f55e87bcacca1ff",
+      "size": 303393
+    },
+    "data/geojson.day/last-of-us-201-day-00135.geojson.gz": {
+      "sha256": "593d4c50fea311b55b24da2d4e9d52ef58470a975fad9124f35e91fe2374526e",
+      "size": 261217
+    },
+    "data/geojson.day/last-of-us-201-day-00136.geojson.gz": {
+      "sha256": "9a1db89a23319f6caa511407a9670779bfdcda6338085537c2b2ccde51d01eec",
+      "size": 208794
+    },
+    "data/geojson.day/last-of-us-201-day-00137.geojson.gz": {
+      "sha256": "e4b9eeb78d8b8f90556b2adacb936ec28826a745e059600daef0c54d77391622",
+      "size": 296160
+    },
+    "data/geojson.day/last-of-us-201-day-00138.geojson.gz": {
+      "sha256": "6ca4186259e068eda2cee558d0e4d2278b7048024c6f7ffef469202917c0169b",
+      "size": 328331
+    },
+    "data/geojson.day/last-of-us-201-day-00139.geojson.gz": {
+      "sha256": "ec84cc96f0f0190ab03695a30766ef13c55fae889db86cdd0a656b0516fbd004",
+      "size": 337519
+    },
+    "data/geojson.day/last-of-us-201-day-00140.geojson.gz": {
+      "sha256": "a01e576df3337e798d050d2d74f0f38f704a3fa6dabcd913053623ad0189f4ff",
+      "size": 319699
+    },
+    "data/geojson.day/last-of-us-201-day-00141.geojson.gz": {
+      "sha256": "5edd61e6c1f28ca1c70069104c8363063c294bad8ecdb7f54e483eac8ae19151",
+      "size": 323431
+    },
+    "data/geojson.day/last-of-us-201-day-00142.geojson.gz": {
+      "sha256": "4c16b10ea714c63d60d6c2af50b9ee70ffeba0037eea9e457a17df1761d18466",
+      "size": 307684
+    },
+    "data/geojson.day/last-of-us-201-day-00143.geojson.gz": {
+      "sha256": "08cac329f0303ab88e314553038eefbf8face2db91e11556be84f9dd8806f8de",
+      "size": 300966
+    },
+    "data/geojson.day/last-of-us-201-day-00144.geojson.gz": {
+      "sha256": "acdbf3220976071dd05cf5648feeb2a5ce7010dc9693f36c56fced201851f6a3",
+      "size": 299706
+    },
+    "data/geojson.day/last-of-us-201-day-00145.geojson.gz": {
+      "sha256": "366ea0fff32bf8bbf5e5098c2938cd6e20988d0d288e86fd640cdefbab5b140f",
+      "size": 286674
+    },
+    "data/geojson.day/last-of-us-201-day-00146.geojson.gz": {
+      "sha256": "b5391b9e0b8c19b63fc68718b75a1ae9b633c48e31f5e3833dad54789b69274c",
+      "size": 275646
+    },
+    "data/geojson.day/last-of-us-201-day-00147.geojson.gz": {
+      "sha256": "12c1c9e9dd9f930933a8d0c2a6fd745545f0581a3f726b69a430eb05a37e8aaa",
+      "size": 284850
+    },
+    "data/geojson.day/last-of-us-201-day-00148.geojson.gz": {
+      "sha256": "0b3df30d38a1b77a8f4c22f00c847950a0380c561ec975b4582cc2fc17a514e4",
+      "size": 303692
+    },
+    "data/geojson.day/last-of-us-201-day-00149.geojson.gz": {
+      "sha256": "b18159d1c841998480165f43b6c901ff7585d1bd6943eac8536814a69aecce4f",
+      "size": 319147
+    },
+    "data/geojson.day/last-of-us-201-day-00150.geojson.gz": {
+      "sha256": "d4fc7330140c2027ed2fa22fc95415f36a2a168fe3ce6ac3ab8673f930176850",
+      "size": 310872
+    },
+    "data/geojson.day/last-of-us-201-day-00151.geojson.gz": {
+      "sha256": "2c6e8b314f63eb682952f8d7a255f6810edb5ab76f05c33998554d62511da4fa",
+      "size": 291511
+    },
+    "data/geojson.day/last-of-us-201-day-00152.geojson.gz": {
+      "sha256": "43074b6e2de7bf18256db2e1a5b7a17714c68e8c0c3b2836d228a4ed2d05118b",
+      "size": 290341
+    },
+    "data/geojson.day/last-of-us-201-day-00153.geojson.gz": {
+      "sha256": "0fda17e52efe509eab01714a9d214d85faf6038dcd8d24adc729a9e23de70f14",
+      "size": 277538
+    },
+    "data/geojson.day/last-of-us-201-day-00154.geojson.gz": {
+      "sha256": "af1860bae4221864ca419ff7b4f987d53c2084ea1e3911276157b9da2cf9e990",
+      "size": 255515
+    },
+    "data/geojson.day/last-of-us-201-day-00155.geojson.gz": {
+      "sha256": "2ebeb0e94b8bcdf0853b3e344bfe820e8faf9de53dcc8a3d0535f744cfdecdcc",
+      "size": 299241
+    },
+    "data/geojson.day/last-of-us-201-day-00156.geojson.gz": {
+      "sha256": "f4d276fd41a5d7e1ea5d9bd014a03c9f57b770236bac13ae6ac19cf622ed63b2",
+      "size": 288316
+    },
+    "data/geojson.day/last-of-us-201-day-00157.geojson.gz": {
+      "sha256": "79533c6cf9cead8e18c25c999980edf162b7eca42aa62c9c33fcaebcfe05d364",
+      "size": 290273
+    },
+    "data/geojson.day/last-of-us-201-day-00158.geojson.gz": {
+      "sha256": "f7a52141934b7e0f445badb61cd13093bc5a6aa22bcf5d936ed248e4d585ad14",
+      "size": 291340
+    },
+    "data/geojson.day/last-of-us-201-day-00159.geojson.gz": {
+      "sha256": "a05ec5848694800c03ab185a17c996d9a48ed3cef2b6055a987fdd7d74e0f918",
+      "size": 283996
+    },
+    "data/geojson.day/last-of-us-201-day-00160.geojson.gz": {
+      "sha256": "6f8a2304153f10eb0af00fcdef3f629c3c02c6280e8c050b9a7a31ae3914eaee",
+      "size": 292499
+    },
+    "data/geojson.day/last-of-us-201-day-00161.geojson.gz": {
+      "sha256": "8dbff626505621e25aa58bd787dc7c9793e2f5048606ed5a2e6e474659c1f622",
+      "size": 302103
+    },
+    "data/geojson.day/last-of-us-201-day-00162.geojson.gz": {
+      "sha256": "015899093c439fc2b1cbf0657e0bab2b478aec84e750ae0b0d77d1d1aa538085",
+      "size": 309717
+    },
+    "data/geojson.day/last-of-us-201-day-00163.geojson.gz": {
+      "sha256": "92f019a84e52d40bfebbce5b005adb62c9fdaef3bc128cfc97317b671947d543",
+      "size": 329698
+    },
+    "data/geojson.day/last-of-us-201-day-00164.geojson.gz": {
+      "sha256": "adc4d02727b5ae4a2eac853ad4421f6c4d6232ca24eb33301ded16b9f0e744cf",
+      "size": 318088
+    },
+    "data/geojson.day/last-of-us-201-day-00165.geojson.gz": {
+      "sha256": "64727cd04ea5b158a853c991e853de456601045a580111e727a86c56678edd13",
+      "size": 319924
+    },
+    "data/geojson.day/last-of-us-201-day-00166.geojson.gz": {
+      "sha256": "a8e8480289909e6428166f05fd7189b23bc5f7471692d1d854bc9e231febf223",
+      "size": 346179
+    },
+    "data/geojson.day/last-of-us-201-day-00167.geojson.gz": {
+      "sha256": "7e1cbee26fc733b66b6b8ad2cf07fe4be5883416c8a02fbb650cc31ea167faa1",
+      "size": 316232
+    },
+    "data/geojson.day/last-of-us-201-day-00168.geojson.gz": {
+      "sha256": "ee92ef7b1615f94ef470eb84062ffa43d3e876e2b62b1fdd4adbc9b4d2ec2603",
+      "size": 272866
+    },
+    "data/geojson.day/last-of-us-201-day-00169.geojson.gz": {
+      "sha256": "08788ac8de63dd8a6dabd14bbb34750ce3a561388ce1a8571ece16e07fd8ddae",
+      "size": 322309
+    },
+    "data/geojson.day/last-of-us-201-day-00170.geojson.gz": {
+      "sha256": "2854592426b0550ae5ab309a349ca04704cc886cb5d9b0be3eb930ab87bef945",
+      "size": 324266
+    },
+    "data/geojson.day/last-of-us-201-day-00171.geojson.gz": {
+      "sha256": "d8209d2c01979b7f2d925fd80b768ff037a9301876ee41817d649160ccff6952",
+      "size": 311488
+    },
+    "data/geojson.day/last-of-us-201-day-00172.geojson.gz": {
+      "sha256": "38ab0322f9ce8ed46d10d57227503a615e35d1203982397c37af83b17b71a4d2",
+      "size": 308306
+    },
+    "data/geojson.day/last-of-us-201-day-00173.geojson.gz": {
+      "sha256": "95c9784aec814e7165f00a338e77e8bec95ac8da99f062393f0d40b7f99c76cc",
+      "size": 311244
+    },
+    "data/geojson.day/last-of-us-201-day-00174.geojson.gz": {
+      "sha256": "b67165bfb979745fe16cf9259ba54f3418d0c9a46e8e760c55781093723ecac6",
+      "size": 294030
+    },
+    "data/geojson.day/last-of-us-201-day-00175.geojson.gz": {
+      "sha256": "59fde968b68b4f4f95c17c1b6aba1e76182e614598dd038da930edc1af7486f0",
+      "size": 301589
+    },
+    "data/geojson.day/last-of-us-201-day-00176.geojson.gz": {
+      "sha256": "13ce414802b2dd2b94ef6a4c8c29fee0eab00a22bf14c20a6934250bee2aec6d",
+      "size": 310743
+    },
+    "data/geojson.day/last-of-us-201-day-00177.geojson.gz": {
+      "sha256": "df9d72754ad3dbd6d3c0dae21a1c9003f405b7c53271ef893b1dd7a7fe2e6812",
+      "size": 301571
+    },
+    "data/geojson.day/last-of-us-201-day-00178.geojson.gz": {
+      "sha256": "25676c71634ec7413cd876cffed9c9479818c2cef9adb3e1cadc50f8b7aef297",
+      "size": 323983
+    },
+    "data/geojson.day/last-of-us-201-day-00179.geojson.gz": {
+      "sha256": "0cb9dc955ae144d634f114dd681de450f770afecc563d2448bb5cf1a3e886273",
+      "size": 324334
+    },
+    "data/geojson.day/last-of-us-201-day-00180.geojson.gz": {
+      "sha256": "d51635dfbea166b6bdb457597b42abc7bdcf9cdd535a8119e5b03dde55f5efa9",
+      "size": 327385
+    },
+    "data/geojson.day/last-of-us-201-day-00181.geojson.gz": {
+      "sha256": "b662b0c852443caacbf7cf46539932651d13fe562227d58d5e8ee02c79002a31",
+      "size": 319513
+    },
+    "data/geojson.day/last-of-us-201-day-00182.geojson.gz": {
+      "sha256": "4dd5853379bd00e612a1d804aa74fa628ed947be97a78f1c22da26b783002cd3",
+      "size": 319150
+    },
+    "data/geojson.day/last-of-us-201-day-00183.geojson.gz": {
+      "sha256": "7eb9a5c864e9c9029c2a15fe39b75441248028b715a2b1bd1338acd7b72d1194",
+      "size": 328728
+    },
+    "data/geojson.day/last-of-us-201-day-00184.geojson.gz": {
+      "sha256": "7fe44d9273be1fe5a4972acdea31338922280458eec71e3e1b0f7ce29923f635",
+      "size": 313690
+    },
+    "data/geojson.day/last-of-us-201-day-00185.geojson.gz": {
+      "sha256": "14fa6398260508652a6b90947919e031e8b077780637f5652968b97a885b2cbe",
+      "size": 315592
+    },
+    "data/geojson.day/last-of-us-201-day-00186.geojson.gz": {
+      "sha256": "829c398e03496ab422db2bed48afbd5fe291256b6b2fe7fb6ae8174d0e81c8d6",
+      "size": 311647
+    },
+    "data/geojson.day/last-of-us-201-day-00187.geojson.gz": {
+      "sha256": "c43b910de2e9d6c1baa18e1156e8c99d8fdc850654d28d182836aee726bc9e79",
+      "size": 319913
+    },
+    "data/geojson.day/last-of-us-201-day-00188.geojson.gz": {
+      "sha256": "f7519f8c572d6c6dc084d7cb6061f5cafc1e8d24a4455ce9c0b49e4cfb2292b0",
+      "size": 332504
+    },
+    "data/geojson.day/last-of-us-201-day-00189.geojson.gz": {
+      "sha256": "083fd269b0fa476c57bb9890a510d3d9b1cc55e1eeab27af4631a7de9795285a",
+      "size": 327431
+    },
+    "data/geojson.day/last-of-us-201-day-00190.geojson.gz": {
+      "sha256": "ee1dd095402aab75965daeb021b6e5c26dbbf16d196af289e0e17a955e725376",
+      "size": 340016
+    },
+    "data/geojson.day/last-of-us-201-day-00191.geojson.gz": {
+      "sha256": "1139582ea11de386b4a858e893232ed5160541b7ae9fbf7f8bcb49ddc0b8ce0f",
+      "size": 331903
+    },
+    "data/geojson.day/last-of-us-201-day-00192.geojson.gz": {
+      "sha256": "990f74d50157a6a8240f32e77e04e67db483d1b9f28ab934502fe1d0fbfb25a6",
+      "size": 325975
+    },
+    "data/geojson.day/last-of-us-201-day-00193.geojson.gz": {
+      "sha256": "ecac8dacea9b5208d0e1b162295707f74cd60749306ae9e0c68dfb70f6df7065",
+      "size": 316616
+    },
+    "data/geojson.day/last-of-us-201-day-00194.geojson.gz": {
+      "sha256": "f00bec3a4b780df893fdefb3b3107815b6320267f493999bc53c74179a74e3fb",
+      "size": 354341
+    },
+    "data/geojson.day/last-of-us-201-day-00195.geojson.gz": {
+      "sha256": "6ba484c23b19309e64151d8a7d3acd2bcd75b0e4a24b8f0db09631065d3ac330",
+      "size": 322274
+    },
+    "data/geojson.day/last-of-us-201-day-00196.geojson.gz": {
+      "sha256": "1e7f0f84acb780b9544f6b611256c6393600377d5d4c1d6fe9946160f587c290",
+      "size": 318648
+    },
+    "data/json/last-of-us-201-swarm-day-00001-2025-04-14.json": {
+      "sha256": "cc6ca621845d13073c376c4e3dda51e71ff1af19e8a38d597e25b4972f484e53",
+      "size": 452
+    },
+    "data/json/last-of-us-201-swarm-day-00002-2025-04-15.json": {
+      "sha256": "a661248a34ae2709381a760eb7e1d736b41624cc4ac5c5279e7c5ca3f35f781b",
+      "size": 454
+    },
+    "data/json/last-of-us-201-swarm-day-00003-2025-04-16.json": {
+      "sha256": "88e1de8a2319a05de95593aced91ab1a8728b12b0b1bffc990f00f76040f5a18",
+      "size": 454
+    },
+    "data/json/last-of-us-201-swarm-day-00004-2025-04-17.json": {
+      "sha256": "38f890f72b625091edfbff3a206cff9adcc207f0aae2f23d793cbee2e4bb4633",
+      "size": 454
+    },
+    "data/json/last-of-us-201-swarm-day-00005-2025-04-18.json": {
+      "sha256": "1d26dd4843b2e78bd6425906e7d864a7aff4a39531f7b63f7c330599eaf85aba",
+      "size": 454
+    },
+    "data/json/last-of-us-201-swarm-day-00006-2025-04-19.json": {
+      "sha256": "c84f7d0848c95f903d2a8a768e088110fd1900997e9c8a83c1ff5db58371e66c",
+      "size": 454
+    },
+    "data/json/last-of-us-201-swarm-day-00007-2025-04-20.json": {
+      "sha256": "1fcd6b24d63b9e0a9302150d86b4fd960166d88458ef00d4776a98542b88706b",
+      "size": 454
+    },
+    "data/json/last-of-us-201-swarm-day-00008-2025-04-21.json": {
+      "sha256": "2f5730c0ed43373c8a39ec9ac6661a0d0ffd9107560ecfa978b380ac3108df5b",
+      "size": 454
+    },
+    "data/json/last-of-us-201-swarm-day-00009-2025-04-22.json": {
+      "sha256": "8d9973776bbaf2e572b87902737328e03c818d85636bd320e119fc1b374a91cd",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00010-2025-04-23.json": {
+      "sha256": "3b8592fe9d0659a266526090c423c7a634aa5506d76730a3a650cd9f2a5c0acc",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00011-2025-04-24.json": {
+      "sha256": "34a3cd09ed06c3d42d7b3c0b7b46504c1e0f554b6d65cdb45e230fa715f88dad",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00012-2025-04-25.json": {
+      "sha256": "808b8fb59e7f8a8327fbddfcd58b6f34e14799ccb1f124a2e171350f5ec9a7b7",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00013-2025-04-26.json": {
+      "sha256": "936a292391ba1c66583c000cf02402de09b5d758519a17982e908049e97af067",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00014-2025-04-27.json": {
+      "sha256": "bd2ac18d0f7532aa39c1325d1463c2cc21022f24c373b7af1e028ea2e17a517c",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00015-2025-04-28.json": {
+      "sha256": "3911d7c35a8f8db91623513dc22a8a84cd1022f8dcce60c6581a74ac6f52ed50",
+      "size": 456
+    },
+    "data/json/last-of-us-201-swarm-day-00016-2025-04-29.json": {
+      "sha256": "0bdbe7696b7b98f1031c896948ddd9fb81b76b8a1dc21229281326b0e2c27fb6",
+      "size": 456
+    },
+    "data/json/last-of-us-201-swarm-day-00017-2025-04-30.json": {
+      "sha256": "610082e9d50cd5410528854c6c4c923779967c2ccc04f62c626fbfb8e81e498c",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00018-2025-05-01.json": {
+      "sha256": "20757e6ff89e3f9bc69c3a548fb357a361500edc8a618e0d3b3137b0e0117634",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00019-2025-05-02.json": {
+      "sha256": "610cf08f0f567f17368972db9435f93cfa2d70185cf95ab2d977bb2739f42194",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00020-2025-05-03.json": {
+      "sha256": "2a9a00e3c657686bf28efa291623fa108635f2211f5d6b57c5cb641669aa938c",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00021-2025-05-04.json": {
+      "sha256": "2f73b51ac368c37cbfeeb7bc752cce43f658e7cebefef80c7f28e01e82f93a2e",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00022-2025-05-05.json": {
+      "sha256": "df4fd1154ca19828e9602164bafc141dc2f2cfdb91b2544d55097fb9293549a3",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00023-2025-05-06.json": {
+      "sha256": "ca0f892ea6151c2d605b5e6fb9ed2ea0db51c103adc96ae3ce49560de56f50fd",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00024-2025-05-07.json": {
+      "sha256": "0061550f33156dfc1ffbf67fa40a3eac6195cdf05056e1a50ce22834bf267e86",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00025-2025-05-08.json": {
+      "sha256": "a1a638ff0607c9b9ef8f6114aac457502d3c5a74c88979bd9cb030365413618d",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00026-2025-05-09.json": {
+      "sha256": "76dea05ed3bd2ddb327d30aa6b2e041e74028d8660756d96f6bd1850e8bc8e4a",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00027-2025-05-10.json": {
+      "sha256": "d7d612cf114270dd529a346816d65dce4876be796365346408ad68bc4ae4cf79",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00028-2025-05-11.json": {
+      "sha256": "874ae7af4e9c4e3b8b6e8acf3d637f95082c6d2c1154ce614fc3e9d864f59d1c",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00029-2025-05-12.json": {
+      "sha256": "ee1f6f4bbe0a5ccd181af40e5166e5d2e72df59396dd5d07450b9e576e47cd29",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00030-2025-05-13.json": {
+      "sha256": "1c81a1cf093aee731d92a53c22d5021d3cc4d06d28eb90e9c0415790ce04f924",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00031-2025-05-14.json": {
+      "sha256": "e6d07865552ddaa0617940b1b6f1cdd185d5cc6e31b4731fedb817bcff44c262",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00032-2025-05-15.json": {
+      "sha256": "3ac6f2837bb5cde17d1c54a6a0f79573dde6217d0aea30ec7acd03b24a519c35",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00033-2025-05-16.json": {
+      "sha256": "2fa7c6eb12acac7a1fba6cdafcc485e54f3fbd27ac1d22d3e2cd95bf929aa21d",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00034-2025-05-17.json": {
+      "sha256": "d053a6687d594b651efaa6c9af3afa9833d900084da54a5fd96af8da300291ec",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00035-2025-05-18.json": {
+      "sha256": "20f1d22d185a5297680344394b5df1fa23ff70c70ef0e3102655a252418ec805",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00036-2025-05-19.json": {
+      "sha256": "c160e1a34b31ee0af3d3de63d775925836a47a251977e26ed388646e36e58a5c",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00037-2025-05-20.json": {
+      "sha256": "088a0f42f3454baacf910bb03f8e031bb188e2f6fe417b5ade5feae6f6794915",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00038-2025-05-21.json": {
+      "sha256": "ace02cb59358403a26a8fd827cc4b10e9485c0f8dfc478cc03f646d53bf2e613",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00039-2025-05-22.json": {
+      "sha256": "6b82f076897f9c78ee43b2b2edf2752e167818cb4154e68a209ad6bb86a5b4a2",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00040-2025-05-23.json": {
+      "sha256": "004632290855893ca83e72b9293b0a5c8d43516f7f0b3e7e37a58aa08666dbfe",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00041-2025-05-24.json": {
+      "sha256": "ee9115d8f5d354e4b7a50f7349d5d8ce3126c2839bc5892dd5dc03d26126e4c6",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00042-2025-05-25.json": {
+      "sha256": "5424e3e9b8a91c8aa31d209d34e037acf072a7f492e13348c43ddd12b60213ad",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00043-2025-05-26.json": {
+      "sha256": "b02fa796e4d527ec5c49e9c12eaf209a27235f9cd13e82446bbd616205267944",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00044-2025-05-27.json": {
+      "sha256": "54edd2ab7a0c0307d9f6c6e56b73f704e5860a4378119f368cb875d4b0ddbe14",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00045-2025-05-28.json": {
+      "sha256": "b90ae203b005c4d7799933c28301d74f111c91b0bb4b70c380b746628fa371af",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00046-2025-05-29.json": {
+      "sha256": "5b2c7bfa060651e8f4b519bb80893c14342406218bc5a21e58caccba2ae18284",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00047-2025-05-30.json": {
+      "sha256": "50d0407af5d877c0135f4f85a99eb4d6039464cb284ee73d057501b76ffa8fba",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00048-2025-05-31.json": {
+      "sha256": "b1273624b4c7b3517941fc78fc4eccf9b7aecf6f5fd5b745a7acdd01c8a68f73",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00049-2025-06-01.json": {
+      "sha256": "5899e389b665d99f480ba4a07acf8bb0ba458303dd9c94e6e9a3e56ec186f94e",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00050-2025-06-02.json": {
+      "sha256": "ac0b5cd446fa9fe27378451c46cd36cf9f40c0de151f4b073d3e593efab5e06f",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00051-2025-06-03.json": {
+      "sha256": "ed1569d98bbe5f7ab5f065be476c94f326dae03425718f811c29335dd610af95",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00052-2025-06-04.json": {
+      "sha256": "2938e3df9874e4d6249530c09878329936d2bdcfd687c25de8f2a7fe42ef35bc",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00053-2025-06-05.json": {
+      "sha256": "ba00ca33fb52f55674904d464a58b178281c077b796ec1ab5ad649ab3221f89a",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00054-2025-06-06.json": {
+      "sha256": "3d0b8aeba83aaf23b1bc75f84d83e13e426d95f51ee2fb01ebcb61dab0586044",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00055-2025-06-07.json": {
+      "sha256": "b4c378c54d15f8bc5f301753382c049b0e0238ebd9e92530341645413bce2a26",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00056-2025-06-08.json": {
+      "sha256": "f582a244fca9e7726687499155be373bf55b1a8233b3c3a22622253b9df37da0",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00057-2025-06-09.json": {
+      "sha256": "617ef3b929b0ab7844a0d949715e327b09ce66ec66b038fd598308955b31c8af",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00058-2025-06-10.json": {
+      "sha256": "5419f15391165574fcd1bba6e7d2bdb820852207f6a74529913f114beea7d3b5",
+      "size": 454
+    },
+    "data/json/last-of-us-201-swarm-day-00059-2025-06-11.json": {
+      "sha256": "029b778e828294a9c56cad5448a7aa2b576b2d185671b95ee50f061cfe257e37",
+      "size": 454
+    },
+    "data/json/last-of-us-201-swarm-day-00063-2025-06-15.json": {
+      "sha256": "242a2cb66298478d36b49dad902632e6c0579b53329b20035d3875fd06d6a6b7",
+      "size": 454
+    },
+    "data/json/last-of-us-201-swarm-day-00064-2025-06-16.json": {
+      "sha256": "0bb2b534e05744d0d68536d2131022c29856e9b77a9d952b6bfe840043f6cb5e",
+      "size": 454
+    },
+    "data/json/last-of-us-201-swarm-day-00065-2025-06-17.json": {
+      "sha256": "a8b870b47f62ca80e93bbe46ecc0ac0d6ff17258e8cafd13269bbb7a32b43aa1",
+      "size": 454
+    },
+    "data/json/last-of-us-201-swarm-day-00066-2025-06-18.json": {
+      "sha256": "4d469b0a91288261a8384ebb537f2d75e4e8945128ac19c306b8e959fcb5ffb1",
+      "size": 454
+    },
+    "data/json/last-of-us-201-swarm-day-00067-2025-06-19.json": {
+      "sha256": "11db3c7854db90e6918e24b7c674724a10b68d4aecc721c2ae58ac6c68b1e168",
+      "size": 454
+    },
+    "data/json/last-of-us-201-swarm-day-00068-2025-06-20.json": {
+      "sha256": "e36a1e259dced995a48f5fdbff8443e70468ba59517721bc3fa670f27f8e4f90",
+      "size": 454
+    },
+    "data/json/last-of-us-201-swarm-day-00069-2025-06-21.json": {
+      "sha256": "76ac8a425c5fd3862a25439b7117d58f07050869e426456ad9226f33b86e8210",
+      "size": 454
+    },
+    "data/json/last-of-us-201-swarm-day-00070-2025-06-22.json": {
+      "sha256": "129dc508daa80da730f401d63a31e56c6ef61525053ea40b8fd6085cd45511c9",
+      "size": 454
+    },
+    "data/json/last-of-us-201-swarm-day-00071-2025-06-23.json": {
+      "sha256": "56df50f1b2a1bd738ec0f560758b40abff1b863b8231b0587ea544c5d4db783f",
+      "size": 454
+    },
+    "data/json/last-of-us-201-swarm-day-00072-2025-06-24.json": {
+      "sha256": "14e2c7afddbd161ab351710717a0255130496b396a5649ffe981c40fadd3f407",
+      "size": 454
+    },
+    "data/json/last-of-us-201-swarm-day-00073-2025-06-25.json": {
+      "sha256": "37ec9777367d0f5b1e34215a35dd7997eff7e09c81a4e62cffb2140e19c7fae9",
+      "size": 454
+    },
+    "data/json/last-of-us-201-swarm-day-00074-2025-06-26.json": {
+      "sha256": "c83b93115ccc4c51cf951174255a628181918a597bc6ce10d3ffc8faada5ce15",
+      "size": 454
+    },
+    "data/json/last-of-us-201-swarm-day-00075-2025-06-27.json": {
+      "sha256": "1768870e731717ccd7f5cdfc140c4c4bae21d40fa495443eeffa9f090fca1d13",
+      "size": 454
+    },
+    "data/json/last-of-us-201-swarm-day-00076-2025-06-28.json": {
+      "sha256": "901eaab4372c81f82503b007404e6621b89fa2cde7163163ab89124b6c632f6f",
+      "size": 454
+    },
+    "data/json/last-of-us-201-swarm-day-00077-2025-06-29.json": {
+      "sha256": "97c59460e66d77b1b504097861555d7e63a0b57867d9fc299b1594d6bca77d18",
+      "size": 454
+    },
+    "data/json/last-of-us-201-swarm-day-00078-2025-06-30.json": {
+      "sha256": "9b0320836a2d06cf7a8cc50abec6121766aa8cbd842840be8c91201731a36885",
+      "size": 454
+    },
+    "data/json/last-of-us-201-swarm-day-00079-2025-07-01.json": {
+      "sha256": "bdc0581da790bf2fd2954b81109fdb0e1bbd47d5e018f75d5846fa60e2302860",
+      "size": 454
+    },
+    "data/json/last-of-us-201-swarm-day-00080-2025-07-02.json": {
+      "sha256": "c48d63baa5fbd790c266c66746029bb666d8a1eb34b065cac2310508db709a5f",
+      "size": 454
+    },
+    "data/json/last-of-us-201-swarm-day-00081-2025-07-03.json": {
+      "sha256": "9609327e20c2a0ea3be358bbd9fc4c8f9ec758ec8ef0e52da2bcf1593c20d0c3",
+      "size": 454
+    },
+    "data/json/last-of-us-201-swarm-day-00082-2025-07-04.json": {
+      "sha256": "fa6af04eb3813e264196c9f123c738e12c35bf587623253facd386768cdb4930",
+      "size": 454
+    },
+    "data/json/last-of-us-201-swarm-day-00083-2025-07-05.json": {
+      "sha256": "802d601605b7fe11e140309ec1f24d850e43d8d96d3ca231ecc3dcb7adbe26fd",
+      "size": 454
+    },
+    "data/json/last-of-us-201-swarm-day-00084-2025-07-06.json": {
+      "sha256": "f3df53b3c13fcf226b981ed02ee2115c53f5bca997bb6695b26d3bc6e00b4546",
+      "size": 454
+    },
+    "data/json/last-of-us-201-swarm-day-00085-2025-07-07.json": {
+      "sha256": "9e81acf1055bf20ec447d03386bbb1c32986e171781f1e6f9e8f052b9fdeab85",
+      "size": 454
+    },
+    "data/json/last-of-us-201-swarm-day-00086-2025-07-08.json": {
+      "sha256": "a4c5baa543992e0a894004bff6e7820a74e86b80d399889b290da481049a9f29",
+      "size": 454
+    },
+    "data/json/last-of-us-201-swarm-day-00087-2025-07-09.json": {
+      "sha256": "cb14138a7886a71dc13675843f271c4a2cc6d02ccda9be3aa92a44d60531de9c",
+      "size": 454
+    },
+    "data/json/last-of-us-201-swarm-day-00088-2025-07-10.json": {
+      "sha256": "06b82767564d4f209a74b54e49d8e5d86a54e2644f2eccb3b6bf85d3e8d862fd",
+      "size": 454
+    },
+    "data/json/last-of-us-201-swarm-day-00089-2025-07-11.json": {
+      "sha256": "62156a04b0b8c1697adf03861ce6f82d88c734d27da717167eb2dcbdeac4015f",
+      "size": 454
+    },
+    "data/json/last-of-us-201-swarm-day-00090-2025-07-12.json": {
+      "sha256": "5212efbc2749a51c7ffa2c88209a1703991dd65620abbce4063767d5ccc2a1cd",
+      "size": 454
+    },
+    "data/json/last-of-us-201-swarm-day-00091-2025-07-13.json": {
+      "sha256": "020b1915c6969c76f01112978824653a260316175d5648662f027e4dffabdefe",
+      "size": 454
+    },
+    "data/json/last-of-us-201-swarm-day-00092-2025-07-14.json": {
+      "sha256": "2a4ff7603960131e5824c732065bf3917695e899faa326922b8be304edf97e33",
+      "size": 454
+    },
+    "data/json/last-of-us-201-swarm-day-00093-2025-07-15.json": {
+      "sha256": "89faaf664bfa24f0528ae99aebe38673e51953bd2a3995162510ed8076a13cc4",
+      "size": 454
+    },
+    "data/json/last-of-us-201-swarm-day-00094-2025-07-16.json": {
+      "sha256": "d3acacf81fb86248e91e9eb916e38a143763a4a80263aae2abc039d02ed844df",
+      "size": 454
+    },
+    "data/json/last-of-us-201-swarm-day-00095-2025-07-17.json": {
+      "sha256": "1bb09f920f50f45d944a10bcff1b535f5a298f2e1bee3731b19022a1f544c93c",
+      "size": 454
+    },
+    "data/json/last-of-us-201-swarm-day-00096-2025-07-18.json": {
+      "sha256": "06b68d5a0a20c215f32a088fd084863fe3f00ff9998b8905dddea6232bf9cabb",
+      "size": 454
+    },
+    "data/json/last-of-us-201-swarm-day-00097-2025-07-19.json": {
+      "sha256": "9ea77603abe304d3e78b92c643f2f8b123cf4fd87454c217a8be5ba65c2ae275",
+      "size": 454
+    },
+    "data/json/last-of-us-201-swarm-day-00098-2025-07-20.json": {
+      "sha256": "8d84a8b7e57ce098d54ad22bd7f80889afa1b2b6aa6347997c4f27e1376e5dd2",
+      "size": 454
+    },
+    "data/json/last-of-us-201-swarm-day-00099-2025-07-21.json": {
+      "sha256": "68a1791263fc99e6085ec70c28a116eb50bf62cc434f60a9660be8ecbbb2ec14",
+      "size": 454
+    },
+    "data/json/last-of-us-201-swarm-day-00100-2025-07-22.json": {
+      "sha256": "7d2adb701232ad6d722af99277b0bdac45bd48ab25701fd3728b8879d86c2b58",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00101-2025-07-23.json": {
+      "sha256": "cb1bfa087c30e40967b11e9ff3895b17e723a2c42dac1eb674a119aa20be67e3",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00102-2025-07-24.json": {
+      "sha256": "0b3f27738778cd9a512ebcdbdd00b0604cb7307a6114b853b72e051cce01427f",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00103-2025-07-25.json": {
+      "sha256": "9409174653b142899f90e87239a0c3939bbdf7d8709728c3baff3fecea726c98",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00104-2025-07-26.json": {
+      "sha256": "85734e9e403f32c7668103ee8204a660c12d17f4d5b081d340a21a8bb12818c1",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00105-2025-07-27.json": {
+      "sha256": "fb3f2fb81a659548a2cc8be2cede6dfd4791b530104404f2b01491595e0bb1c5",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00106-2025-07-28.json": {
+      "sha256": "7c2a3485d7ff8b5011833de3efdb9e8d45048cb8e0deee4ecfbd7fc8cf0d5e52",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00107-2025-07-29.json": {
+      "sha256": "deb00533f18c326ecfd262c2519faa737921247da9ed6d81c73b8057a55625ed",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00108-2025-07-30.json": {
+      "sha256": "4a9da247545ddd442f9eb77517c8c14d4c4cc7bc4b584999ef4c92aa62e98aa4",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00109-2025-07-31.json": {
+      "sha256": "70a784724f28345d99d8b66771cfb51cd2eb0425ed3de1d74d8269b9361e956c",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00110-2025-08-01.json": {
+      "sha256": "bb0cdaa468307a06a6c60efd1c01064f7cd42188b58ae2fc597463c343f0754a",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00111-2025-08-02.json": {
+      "sha256": "aef8972438a34dfc028777162697434d1ddd8e3fcd3b8630704ecfd14f097194",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00112-2025-08-03.json": {
+      "sha256": "9f85c2328f1f6d1f169e5c8ad23a08489767693ce4ff2174a537c0d3b703c3be",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00113-2025-08-04.json": {
+      "sha256": "e29b79ba0c6025569fd13ba67cb0986cfbaa3b27c64dd1df47a7dbd27cc5327a",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00114-2025-08-05.json": {
+      "sha256": "4bf8e07b24b1a5404ccf6fafa2f410dea3aafc65e2ab97011776b95899ee6d13",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00115-2025-08-06.json": {
+      "sha256": "94ff1c34418c503203a5a023442267fea514dc0825c2e13f9f96e38164e5a56c",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00116-2025-08-07.json": {
+      "sha256": "33e2da181fa614683b57c7232d4b842d1e8d17a78ea535a5d6bdd0e5506f34b5",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00117-2025-08-08.json": {
+      "sha256": "2392c6eefd632c8aa98be7e26d98ed83240739c665cefc1251a51672a3074cf2",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00118-2025-08-09.json": {
+      "sha256": "5d4a97e841bf702b8f6026a37c74bd07024b4d2ad9cec01be4e8a105ba0d8740",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00119-2025-08-10.json": {
+      "sha256": "0f2fc89c35aace3a9e338e95c72af0af3a07b6843bf63dcde9f47ce9dddce14d",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00120-2025-08-11.json": {
+      "sha256": "eb2e4b2fdcf26de568a1d18766b3e5aeb19ea96bd540ac2a36c9df787b5aa150",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00121-2025-08-12.json": {
+      "sha256": "a6e122eed32f1a544c74a9f61e746aca7a294491ccbdd718a8ad1dca7f220313",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00122-2025-08-13.json": {
+      "sha256": "296ac0e5e9dcae0b0595d0aa1b2c090d52ed8c42cf425164738250eb33ba362e",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00123-2025-08-14.json": {
+      "sha256": "0f44b405955487b855b6df915af3f8f9b97022baa084024d4a2db7190443030e",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00124-2025-08-15.json": {
+      "sha256": "bfb106425d8ecf8f2a3ad58c20f73ab753709311fd2ccc6e10d2d7c42f749b4b",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00125-2025-08-16.json": {
+      "sha256": "4d652a3e06ec95c5f8730d164727c1c21c8af58c7504d605b86b3145c3aefb1f",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00126-2025-08-17.json": {
+      "sha256": "4e553ac7af87694ad5333e65deb4967373dbeefaeeb9ceb6a497d202b748126a",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00127-2025-08-18.json": {
+      "sha256": "7c6f7e9764a95bb9c770362f5daf6658196fd11b24004060384deab1221ae967",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00128-2025-08-19.json": {
+      "sha256": "60e71948a130580b3c12cae9c830b4147cfd950f7451e8b7052cecff981282b2",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00129-2025-08-20.json": {
+      "sha256": "0372cbfa1fdb009515c08342dc76cd9fc1e4ca254c3ba8bf95d6145a9eba7eb8",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00130-2025-08-21.json": {
+      "sha256": "6688d26225c40f94f300675640a0121859ce8c12daf58975c8abc1895273953c",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00131-2025-08-22.json": {
+      "sha256": "60da4777ef6161a6e9bf69be8ec1ff27562fa302504e360636ff2ec33f31e7a4",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00132-2025-08-23.json": {
+      "sha256": "5628b01e5178f606618c862a4156d45d1fd3dbcc3c3ce5c4283562142b237036",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00133-2025-08-24.json": {
+      "sha256": "f9f1aea070f52087707a3d58aa9972e85f2c2c7aae170466ea22a7871b48e117",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00134-2025-08-25.json": {
+      "sha256": "dfabe04a3e2078bded61ebfeb9c881f0f3a026c49c7f977fbf41f4044cbeddf7",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00135-2025-08-26.json": {
+      "sha256": "5a5e2366ecfa76170f78a2c5736ef44fb7593e4633cf87d8825fa75fd6cda620",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00136-2025-08-27.json": {
+      "sha256": "5c85949383fa3f924a80f930a9239caa8b3afeb45ca67f2bbfbd0018c258ab8e",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00137-2025-08-28.json": {
+      "sha256": "e1264b044c11832508c78aba5fd5819f17261b2629fcba5c1ae2c374838caacc",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00138-2025-08-29.json": {
+      "sha256": "74fd4e36341e0d28e6126e53a11143065617b8cda95ae9ff78b818b785c8c4ab",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00139-2025-08-30.json": {
+      "sha256": "2469078f0f4b75d8720d17b6167c2c2dde3e4b477f1a6c4b820af7e3fff61dd1",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00140-2025-08-31.json": {
+      "sha256": "c1ce35f0b6e71089865ea56e555cf08675ac2aec73143e5b44b08e4458655240",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00141-2025-09-01.json": {
+      "sha256": "a0c78dc72ed8018cba384db9533306f72fd97bb15a11b0f7bbb059282ddc68d7",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00142-2025-09-02.json": {
+      "sha256": "577f60da0f23427782e485b6727063a47edb88d0d53cdac93df96901a7869cc3",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00143-2025-09-03.json": {
+      "sha256": "e5253dd204c78bb95c4b7c5d99d32e2125894f3088d77e36e805436dbbdfe0ac",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00144-2025-09-04.json": {
+      "sha256": "5f5a1748309679344fd823010cbaa07737812d104cf291ea69e5fda7eb272715",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00145-2025-09-05.json": {
+      "sha256": "37859c269b553c3cc0e0c1198316f31783bfae80a1d2b68411eea3354026fabb",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00146-2025-09-06.json": {
+      "sha256": "c72e2f87643d98a582a351dd168f2b05a08764be0f2e1093cada426669dc26ed",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00147-2025-09-07.json": {
+      "sha256": "51098e8024d36a018def00c99eea32b2f488236980347980ccc4504e98aadfc4",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00148-2025-09-08.json": {
+      "sha256": "01a576e838ef5f38cf1dba783de17ea36c881dabed0f927caf2c53277ee987c1",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00149-2025-09-09.json": {
+      "sha256": "ddfce0efbe05dbbd2408bdc88becdded677e6405eb7c930fccda9365f656cea5",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00150-2025-09-10.json": {
+      "sha256": "1ff2126f625c6c9db117e31844fa761ded682c9797e3ff5b02f98b7bd0b98b7e",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00151-2025-09-11.json": {
+      "sha256": "cbaf6b9896ff22df2bc2fec9d92a19b6322a357fe4494aeb220bcf5fd717c10d",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00152-2025-09-12.json": {
+      "sha256": "59fabdc59ff4be337ff7bc811c3edcf4fe24497f19cd6b29aa0af4d127a5bcb7",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00153-2025-09-13.json": {
+      "sha256": "049cee2b164d34c65fb024e5d5443e8a14881b60cabcb217f905fe99372ca60f",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00154-2025-09-14.json": {
+      "sha256": "2bd9326ba4bbd22a40605810f1f79c19bf96185925f6d105fcf369054467b587",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00155-2025-09-15.json": {
+      "sha256": "b2505dd29e3892e0ab97e301a530df69e7fcae7bdedbd5214967cbd27cbcbbb9",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00156-2025-09-16.json": {
+      "sha256": "1d979cf78149a044e63724ded97cbe37166e83cf8ebdfc4728243207af45c045",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00157-2025-09-17.json": {
+      "sha256": "245a80266e43500dc2aeb8eb25a3856d573e17381504ff8e1d3bb11b17eee0d3",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00158-2025-09-18.json": {
+      "sha256": "cc4cea082edf3fd74ae4341d3815dd35c4bfdf9705d06dc8ebdd266a0103ef11",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00159-2025-09-19.json": {
+      "sha256": "0daf32e9740e4ff0776edab42f261e05c2851cba0b79fa6a26f11cb501d08243",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00160-2025-09-20.json": {
+      "sha256": "e5d6abc5226716d8f4340ee8c546f706dbedd37a5d93f01c29711cb5b7c35731",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00161-2025-09-21.json": {
+      "sha256": "21dd039dd9510204c9577c78217cbacf1f863296790033a5a0fca8b326532588",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00162-2025-09-22.json": {
+      "sha256": "d1940c0f8d176df946f559165163f08a0f4d5df033a4985ddbde18a96f8e083d",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00163-2025-09-23.json": {
+      "sha256": "b817c5857f021fcbf6b167c30247ece041727891783c06db6673e0a9f638de16",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00164-2025-09-24.json": {
+      "sha256": "be82306c37b1df59461c37557585f6a7aaa0639f625562d6b9104ca68771fb59",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00165-2025-09-25.json": {
+      "sha256": "db7705fa4a526939c55996b0518bd4fe4358b4903f93c0101ce3ccb0ebb9acdc",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00166-2025-09-26.json": {
+      "sha256": "3b597324dcc5a8f330be12c4a608e79fe3e34e2e8eb7999903ce703d220c49e4",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00167-2025-09-27.json": {
+      "sha256": "ea2ad95e31f69c499462803efd5576782dd5a6d81c9dd3e4a4b336b939d9435d",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00168-2025-09-28.json": {
+      "sha256": "c64413abdf9b091ea3f0b51f9e77297e333cc9ece573e77bda17365abbbd5b6e",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00169-2025-09-29.json": {
+      "sha256": "40abb43ea8253197c271a60b5660226bb5f38e8f99a7b2ca4a6cdf4f48d030eb",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00170-2025-09-30.json": {
+      "sha256": "c66bb50c93eb55951b98af0aa32a642fbc535b139d2133ea42f4139830b752f1",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00171-2025-10-01.json": {
+      "sha256": "5b638c0030d8b687cc53930b0fe7778e43d4d1f8881c6e1f32d724b3b22204cd",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00172-2025-10-02.json": {
+      "sha256": "d1c1caa287dcc04801ffbe23c5dbe7b2d95c12fc73845621e0b2ea2c5b4d5d37",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00173-2025-10-03.json": {
+      "sha256": "32a775a6095be7f118792a29a619bf81709108944b29a67a7c65d07338d28259",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00174-2025-10-04.json": {
+      "sha256": "ead1166d0a426ea2cd976f764ffe48f93fe517d69c4c821959cdd69fb3894093",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00175-2025-10-05.json": {
+      "sha256": "d68553627f8fd77334ab7090f6dd25ba4407e4aebb1d69271aa1d9c7538c0198",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00176-2025-10-06.json": {
+      "sha256": "e3a507b2bcf1d733b059d826b0e5479837253fb846e27b0986bd8964042030db",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00177-2025-10-07.json": {
+      "sha256": "2c657c76005fb555a8bc35edb1c62ff35a82579be5b3079c264d53c1847260aa",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00178-2025-10-08.json": {
+      "sha256": "13ace6d43cd3b576131a82d4f6e3c12e0cef8d8d37348d115abefcd726cc7c0f",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00179-2025-10-09.json": {
+      "sha256": "89331b5eb8332cc235b3fb9fd6296ce9a62bc2e2270c30a286a7504c5f81e318",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00180-2025-10-10.json": {
+      "sha256": "3f10a3044202c58b2fd71fc09903cb3fab85c7ea5a6083781adab2c76138516e",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00181-2025-10-11.json": {
+      "sha256": "bfdcfac4382d0448488c5cce0de8488f4f7468fa6a986babe5ddae665c2636fe",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00182-2025-10-12.json": {
+      "sha256": "ddf98f96137aa795eff414efa934890b163f13af02eb85feb0985a3db1f4737b",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00183-2025-10-13.json": {
+      "sha256": "393cbfa6ed09e0832f88fac87c85cda7ab1ad9d499b4e8ae2785490c1bfdd588",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00184-2025-10-14.json": {
+      "sha256": "a669d020797761bcdaa02524ad11b8390470bf488d4b24eddb1cc942722028d4",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00185-2025-10-15.json": {
+      "sha256": "82e660460a9f54554068b2d4c52b8d004262836deaf60df2fe846a0bed8918e5",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00186-2025-10-16.json": {
+      "sha256": "bbb6aad0a8445baf9edafd818f891a192cc13920daed1675f43b7027ad2c26f8",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00187-2025-10-17.json": {
+      "sha256": "2d1d48feca7770df54d126376af32b1f90c2c51442c2de6d81b0cbc65718ca24",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00188-2025-10-18.json": {
+      "sha256": "dcabd311eb98961567b0a0e0669ee2937bfc2b7a926c7e1bf440278bffa57218",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00189-2025-10-19.json": {
+      "sha256": "668a752d066f9626b50ec11fbda0cfa4595bcdd35fba523f29df871e9b6aafa0",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00190-2025-10-20.json": {
+      "sha256": "4485b4b3bfe5b1e1c2504f7f70de9d871f8a58c4b621ab0d265ada96a7636ddd",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00191-2025-10-21.json": {
+      "sha256": "cd25503c79f2f2614984662452b9817b168793db9a4b9651ce55d63dfc179f5a",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00192-2025-10-22.json": {
+      "sha256": "1f546068eaa1d1d496d9d9006fd16b2d5d289cc0fcb6ea8f028523e4310ec2d7",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00193-2025-10-23.json": {
+      "sha256": "e7709755ecf1d1c07b62d389f312049c93b67d87a587b1d54ef4c1d4b00196cb",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00194-2025-10-24.json": {
+      "sha256": "654fe0193aed939d25034b77ad1db2d0b986110fe7fe0a35638c51370ce20d9e",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00195-2025-10-25.json": {
+      "sha256": "d4a95a92a8d8122d999b6549e4a1d0c07f1b9d22f706ed9b83c0c6b06d79bf4a",
+      "size": 455
+    },
+    "data/json/last-of-us-201-swarm-day-00196-2025-10-26.json": {
+      "sha256": "73a8af25c25b05731ac85cf3f1b7c44c93e3f61bd3a64a1d7000fe6970f55233",
+      "size": 455
+    }
+  },
+  "schema": "alpha60-year-day-product-bundle/1",
+  "source_revisions": {
+    "aggregate_binary": {
+      "sha256": "7408569641f7247fbd00969cffddaf1bb0cf2768c7fc1529f4cc6191ccfeae05",
+      "size": 38582648
+    },
+    "alpha60": "eba8537ed9a6e7a09ae3de163b01460f5ad1ad7e",
+    "alpha60_data": "8faeae67a5d274d1fc00bffe9fc9318329163b20",
+    "day_product_contract": {
+      "sha256": "0aa0bee3ac14b512c786d3496ab5218a46aff11786ffa6aa9ea85e762fbd6370",
+      "size": 9897
+    },
+    "generate_cache_aggregates": {
+      "sha256": "504078e192d9c8182df74e41b98cec08123c5a8b7d0eb7f812d09c1fe5d07010",
+      "size": 17151
+    },
+    "metadata": "fbeb53a0b523f937fae2f23d14689d8c5c84dd5a",
+    "package_script": {
+      "sha256": "516d6ecdccd24b1b66cf80c185219fa47d52af22f672b836773896df621b1666",
+      "size": 14724
+    },
+    "year_day_contract": {
+      "sha256": "f1c07d6f2fdc19475a6f25ddaee5923957447a6f49a8009d8b4c9984a63bd883",
+      "size": 9356
+    }
+  },
+  "status": "pass"
+}
