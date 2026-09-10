@@ -1,0 +1,26 @@
+{
+  "schema": "alpha60-results-baseline-v2-audit/1",
+  "year": "2025",
+  "status": "pass",
+  "counts": {
+    "passed": 2,
+    "absent": 0,
+    "old": 0,
+    "failed": 0,
+    "inventory": 2,
+    "unique": 2
+  },
+  "duplicate_keys": [],
+  "records": [
+    {
+      "collection_key": "andor-112",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "yellowjackets-201",
+      "status": "passed",
+      "issues": []
+    }
+  ]
+}

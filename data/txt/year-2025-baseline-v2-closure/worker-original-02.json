@@ -1,0 +1,39 @@
+{
+  "archive_verification": {
+    "path": "/home/bkoz/src/alpha60-xperiments/year-2025-control/archive-verification.json",
+    "sha256": "c818526ae8b4e43fd5f42b89ec1a2da3012bf3cf75da4171e783ec6b2b274121",
+    "size": 1316
+  },
+  "counts": {
+    "errors": 0,
+    "passed": 1,
+    "records": 1
+  },
+  "executor": "ord",
+  "finished_at": "2026-09-10T15:26:52.123214+00:00",
+  "owner": "ord",
+  "records": [
+    {
+      "aggregate": "pass",
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2025-archives/yellowjackets-201.cache/cache.20250216.tar.xz",
+      "collection_key": "yellowjackets-201",
+      "executor": "ord",
+      "finished_at": "2026-09-10T15:26:52.122595+00:00",
+      "owner": "ord",
+      "results_revision": "531d3349ce8530a8ca610d10b2a8c1eb6f61dba1",
+      "started_at": "2026-09-10T15:26:31.862593+00:00",
+      "status": "pass",
+      "visualizations": "pass"
+    }
+  ],
+  "schema": "alpha60-year-baseline-v2-worker-run/1",
+  "started_at": "2026-09-10T15:26:31.861751+00:00",
+  "status": "pass",
+  "stolen": false,
+  "worker_map": {
+    "path": "/home/bkoz/src/alpha60-xperiments/year-2025-control/worker-map.json",
+    "sha256": "d18bcc807ea2d116d48b8bff32978d58e882c349b26fa10667634f37a2c47bd6",
+    "size": 2816
+  },
+  "year": "2025"
+}

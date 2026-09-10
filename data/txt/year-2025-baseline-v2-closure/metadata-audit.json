@@ -1,0 +1,615 @@
+{
+  "schema": "alpha60-year-media-object-metadata-readiness/1",
+  "year": "2025",
+  "inventory": "/home/bkoz/src/alpha60/config/year-cache-campaigns/raw-discovery/year-2025-cohort.txt",
+  "metadata_directory": "/home/bkoz/src/alpha60-swarm-metadata/metadata",
+  "approved_empty_collection_ids": [],
+  "approved_not_applicable_identity_ids": [],
+  "campaign_sample_contracts": 85,
+  "prevalidated_predecessor_records": 83,
+  "status": "pass",
+  "counts": {
+    "inventory_entries": 85,
+    "unique_keys": 85,
+    "ready_records": 85,
+    "error_records": 0,
+    "errors": 0
+  },
+  "inventory_issues": [],
+  "duplicate_keys": [],
+  "records": [
+    {
+      "collection_key": "alien-earth-101",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/alien-earth-101.json"
+    },
+    {
+      "collection_key": "alien-earth-106",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/alien-earth-106.json"
+    },
+    {
+      "collection_key": "american-primeval",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/american-primeval.json"
+    },
+    {
+      "collection_key": "american-revolution-2025",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/american-revolution-2025.json"
+    },
+    {
+      "collection_key": "andor-112",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "current-canonical-metadata"
+    },
+    {
+      "collection_key": "andor-201",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/andor-201.json"
+    },
+    {
+      "collection_key": "andor-210",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/andor-210.json"
+    },
+    {
+      "collection_key": "ballard-01",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/ballard-01.json"
+    },
+    {
+      "collection_key": "bear-04",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/bear-04.json"
+    },
+    {
+      "collection_key": "beatles-anthology",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/beatles-anthology.json"
+    },
+    {
+      "collection_key": "black-bag-2025",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/black-bag-2025.json"
+    },
+    {
+      "collection_key": "chief-of-war-101",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/chief-of-war-101.json"
+    },
+    {
+      "collection_key": "chief-of-war-107",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/chief-of-war-107.json"
+    },
+    {
+      "collection_key": "cobra-kai-06.3",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/cobra-kai-06.3.json"
+    },
+    {
+      "collection_key": "common-side-effects-01",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/common-side-effects-01.json"
+    },
+    {
+      "collection_key": "companion-2025",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/companion-2025.json"
+    },
+    {
+      "collection_key": "dan-da-dan-210",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/dan-da-dan-210.json"
+    },
+    {
+      "collection_key": "dark-winds-301",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/dark-winds-301.json"
+    },
+    {
+      "collection_key": "death-by-lightning",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/death-by-lightning.json"
+    },
+    {
+      "collection_key": "demon-slayer-kimetsu-no-yaiba-the-movie-infinity-castle",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/demon-slayer-kimetsu-no-yaiba-the-movie-infinity-castle.json"
+    },
+    {
+      "collection_key": "dope-thief-101",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/dope-thief-101.json"
+    },
+    {
+      "collection_key": "down-cemetery-road-101",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/down-cemetery-road-101.json"
+    },
+    {
+      "collection_key": "duster-101",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/duster-101.json"
+    },
+    {
+      "collection_key": "duster-106",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/duster-106.json"
+    },
+    {
+      "collection_key": "eyes-of-wakanda-01",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/eyes-of-wakanda-01.json"
+    },
+    {
+      "collection_key": "fallout-2024-201",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/fallout-2024-201.json"
+    },
+    {
+      "collection_key": "frankenstein-2025",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/frankenstein-2025.json"
+    },
+    {
+      "collection_key": "gen-v-201",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/gen-v-201.json"
+    },
+    {
+      "collection_key": "gen-v-206",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/gen-v-206.json"
+    },
+    {
+      "collection_key": "hacks-401",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/hacks-401.json"
+    },
+    {
+      "collection_key": "hacks-408",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/hacks-408.json"
+    },
+    {
+      "collection_key": "highest-2-lowest",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/highest-2-lowest.json"
+    },
+    {
+      "collection_key": "invasion-301",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/invasion-301.json"
+    },
+    {
+      "collection_key": "invincible-301",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/invincible-301.json"
+    },
+    {
+      "collection_key": "ironheart-01",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/ironheart-01.json"
+    },
+    {
+      "collection_key": "king-of-the-hill-14",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/king-of-the-hill-14.json"
+    },
+    {
+      "collection_key": "last-of-us-201",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/last-of-us-201.json"
+    },
+    {
+      "collection_key": "last-of-us-206",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/last-of-us-206.json"
+    },
+    {
+      "collection_key": "lazarus-101",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/lazarus-101.json"
+    },
+    {
+      "collection_key": "lazarus-108",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/lazarus-108.json"
+    },
+    {
+      "collection_key": "lazarus-111",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/lazarus-111.json"
+    },
+    {
+      "collection_key": "long-story-short-01",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/long-story-short-01.json"
+    },
+    {
+      "collection_key": "love-death-robots-04",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/love-death-robots-04.json"
+    },
+    {
+      "collection_key": "lowdown-101",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/lowdown-101.json"
+    },
+    {
+      "collection_key": "mickey-17",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/mickey-17.json"
+    },
+    {
+      "collection_key": "mid-century-modern-01",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/mid-century-modern-01.json"
+    },
+    {
+      "collection_key": "minecraft-movie-2025",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/minecraft-movie-2025.json"
+    },
+    {
+      "collection_key": "moana-2",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/moana-2.json"
+    },
+    {
+      "collection_key": "night-agent-02",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/night-agent-02.json"
+    },
+    {
+      "collection_key": "nouvelle-vague",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/nouvelle-vague.json"
+    },
+    {
+      "collection_key": "one-battle-after-another",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/one-battle-after-another.json"
+    },
+    {
+      "collection_key": "only-murders-in-the-building-501",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/only-murders-in-the-building-501.json"
+    },
+    {
+      "collection_key": "only-murders-in-the-building-508",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/only-murders-in-the-building-508.json"
+    },
+    {
+      "collection_key": "peacemaker-201",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/peacemaker-201.json"
+    },
+    {
+      "collection_key": "pluribus-107",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/pluribus-107.json"
+    },
+    {
+      "collection_key": "predator-badlands",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/predator-badlands.json"
+    },
+    {
+      "collection_key": "predator-killer-of-killers",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/predator-killer-of-killers.json"
+    },
+    {
+      "collection_key": "prehistoric-planet-03",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/prehistoric-planet-03.json"
+    },
+    {
+      "collection_key": "reacher-301",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/reacher-301.json"
+    },
+    {
+      "collection_key": "reacher-307",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/reacher-307.json"
+    },
+    {
+      "collection_key": "sean-combs-the-reckoning",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/sean-combs-the-reckoning.json"
+    },
+    {
+      "collection_key": "severance-201",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/severance-201.json"
+    },
+    {
+      "collection_key": "severance-209",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/severance-209.json"
+    },
+    {
+      "collection_key": "sinners-2025",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/sinners-2025.json"
+    },
+    {
+      "collection_key": "sly-lives",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/sly-lives.json"
+    },
+    {
+      "collection_key": "south-park-27",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/south-park-27.json"
+    },
+    {
+      "collection_key": "squid-game-03",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/squid-game-03.json"
+    },
+    {
+      "collection_key": "star-wars-visions-03",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/star-wars-visions-03.json"
+    },
+    {
+      "collection_key": "stranger-things-05.1",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/stranger-things-05.1.json"
+    },
+    {
+      "collection_key": "stranger-things-05.2",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/stranger-things-05.2.json"
+    },
+    {
+      "collection_key": "studio-2025-101",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/studio-2025-101.json"
+    },
+    {
+      "collection_key": "summer-i-turned-pretty-311",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/summer-i-turned-pretty-311.json"
+    },
+    {
+      "collection_key": "superman-2025",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/superman-2025.json"
+    },
+    {
+      "collection_key": "tron-ares",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/tron-ares.json"
+    },
+    {
+      "collection_key": "weapons-2025",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/weapons-2025.json"
+    },
+    {
+      "collection_key": "wednesday-02.1",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/wednesday-02.1.json"
+    },
+    {
+      "collection_key": "wednesday-02.2",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/wednesday-02.2.json"
+    },
+    {
+      "collection_key": "white-lotus-301",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/white-lotus-301.json"
+    },
+    {
+      "collection_key": "white-lotus-307",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/white-lotus-307.json"
+    },
+    {
+      "collection_key": "wicked-2024",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/wicked-2024.json"
+    },
+    {
+      "collection_key": "wicked-for-good-2025",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/wicked-for-good-2025.json"
+    },
+    {
+      "collection_key": "witcher-04",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/witcher-04.json"
+    },
+    {
+      "collection_key": "yellowjackets-201",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "current-canonical-metadata"
+    },
+    {
+      "collection_key": "your-friendly-neighborhood-spider-man-01",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/your-friendly-neighborhood-spider-man-01.json"
+    },
+    {
+      "collection_key": "zero-day-01",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/zero-day-01.json"
+    }
+  ]
+}

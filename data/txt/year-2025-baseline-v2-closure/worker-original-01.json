@@ -1,0 +1,39 @@
+{
+  "archive_verification": {
+    "path": "/home/bkoz/src/alpha60-xperiments/year-2025-control/archive-verification.json",
+    "sha256": "e2015759a7acf961527070c46d30039c8a233312dc641b09f6e750373873ffb3",
+    "size": 1307
+  },
+  "counts": {
+    "errors": 0,
+    "passed": 1,
+    "records": 1
+  },
+  "executor": "eureka",
+  "finished_at": "2026-09-10T15:27:43.064992+00:00",
+  "owner": "eureka",
+  "records": [
+    {
+      "aggregate": "pass",
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2025-archives/andor-112.cache/cache.20250812.tar.xz",
+      "collection_key": "andor-112",
+      "executor": "eureka",
+      "finished_at": "2026-09-10T15:27:43.064221+00:00",
+      "owner": "eureka",
+      "results_revision": "89ed4a0785ac65d1f7d1b0c7bd64b4efe9e706ec",
+      "started_at": "2026-09-10T15:26:31.491648+00:00",
+      "status": "pass",
+      "visualizations": "pass"
+    }
+  ],
+  "schema": "alpha60-year-baseline-v2-worker-run/1",
+  "started_at": "2026-09-10T15:26:31.490763+00:00",
+  "status": "pass",
+  "stolen": false,
+  "worker_map": {
+    "path": "/home/bkoz/src/alpha60-xperiments/year-2025-control/worker-map.json",
+    "sha256": "62ba380a144a6f387e768443769bf3b5b376036e141f8fb811e3de97a51cf91d",
+    "size": 2895
+  },
+  "year": "2025"
+}
