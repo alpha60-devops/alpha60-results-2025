@@ -1,0 +1,3160 @@
+{
+  "cache_root": "/mnt/gold/src/alpha60-samples-cache.gold",
+  "owner": "ord",
+  "records": [
+    {
+      "archive": {
+        "filename": "cache.20260210.tar.xz",
+        "filename_date": "20260210",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/alien-earth-101.cache/cache.20260210.tar.xz",
+        "sha256": "382905707e40942e001877df080538c558d187d1215bb0a92466fb79a417b5dd",
+        "size": 4550948368
+      },
+      "collection_key": "alien-earth-101",
+      "day_cache_validation": {
+        "allow_leading_sparse": false,
+        "authorization": {
+          "archive_mutated": false,
+          "excluded_member_classes": [
+            "hour",
+            "week",
+            "cumulative"
+          ],
+          "raw_samples_opened": false,
+          "scope": "read only streaming of per-torrent day records"
+        },
+        "observed": {
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 182,
+          "post_release_day_products": 0,
+          "sample_end": "2026-02-10",
+          "sample_span_days": 182,
+          "sample_start": "2025-08-13"
+        },
+        "required_collection_key": "alien-earth-101",
+        "required_day_products": 182,
+        "required_sample_days": 182,
+        "required_sample_end": "2026-02-10",
+        "required_sample_start": "2025-08-13",
+        "required_sparse_intervals": [],
+        "reused_evidence": {
+          "kind": "closed-day-product-receipt",
+          "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-day-product-receipts/alien-earth-101.json",
+          "sha256": "241ed300d9522c68dc1b20e09c8414076ba554f08f964bb64d2073470d81f792"
+        },
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "101, 102, 103",
+        "collection_name": "Alien: Earth",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 182,
+        "sample_end": "2026-02-10",
+        "sample_start": "2025-08-13",
+        "sha256": "36d0665e3fb11db56b70b60b7da0dfae3210e56bb28567185edaadcddc4bfc6c",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/alien-earth-101-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20260210.tar.xz",
+            "size": 4550948368
+          }
+        ],
+        "expected_filename_date": "20260210"
+      },
+      "successor_evidence": {
+        "source_map": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-cache-archive-map.json",
+        "source_map_sha256": "07df6768b09300f45368bce76aa0f855dc87c0135f5d2f754100a09fad43a0e6",
+        "source_record_sha256": "76edaf1732fa502756e75232fe1e0441eafdff9ece46213edce6cba57dcc9a55",
+        "status": "reused-closed-predecessor"
+      },
+      "worker_archive_relative_path": "alien-earth-101.cache/cache.20260210.tar.xz"
+    },
+    {
+      "archive": {
+        "filename": "cache.20250504.tar.xz",
+        "filename_date": "20250504",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/american-primeval.cache/cache.20250504.tar.xz",
+        "sha256": "d34e471b78ed6e9e36a42a88bfbf5a834ace016edb9c004558b376a8d2d027ea",
+        "size": 1913354700
+      },
+      "collection_key": "american-primeval",
+      "day_cache_validation": {
+        "allow_leading_sparse": false,
+        "authorization": {
+          "archive_mutated": false,
+          "excluded_member_classes": [
+            "hour",
+            "week",
+            "cumulative"
+          ],
+          "raw_samples_opened": false,
+          "scope": "read only streaming of per-torrent day records"
+        },
+        "observed": {
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 115,
+          "post_release_day_products": 0,
+          "sample_end": "2025-05-04",
+          "sample_span_days": 115,
+          "sample_start": "2025-01-10"
+        },
+        "required_collection_key": "american-primeval",
+        "required_day_products": 115,
+        "required_sample_days": 115,
+        "required_sample_end": "2025-05-04",
+        "required_sample_start": "2025-01-10",
+        "required_sparse_intervals": [],
+        "reused_evidence": {
+          "kind": "closed-day-product-receipt",
+          "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-day-product-receipts/american-primeval.json",
+          "sha256": "5478a2579967c5fbaf1b90d21559c353258851d6f54ccc748af92ddcde90b97f"
+        },
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "S01",
+        "collection_name": "American Primeval",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 115,
+        "sample_end": "2025-05-04",
+        "sample_start": "2025-01-10",
+        "sha256": "d0119fd3cf76544fd68b6803b8ef0bdd85ff069aa2abba88df05f6e1cc6b2ca7",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/american-primeval-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20250213.tar.xz",
+            "size": 762227388
+          },
+          {
+            "filename": "cache.20250504.tar.xz",
+            "size": 1913354700
+          }
+        ],
+        "expected_filename_date": "20250504"
+      },
+      "successor_evidence": {
+        "source_map": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-cache-archive-map.json",
+        "source_map_sha256": "07df6768b09300f45368bce76aa0f855dc87c0135f5d2f754100a09fad43a0e6",
+        "source_record_sha256": "34ab5017b67912f29b3946e050fba0ec12e09666c1983f7f4e4f98a4bda26524",
+        "status": "reused-closed-predecessor"
+      },
+      "worker_archive_relative_path": "american-primeval.cache/cache.20250504.tar.xz"
+    },
+    {
+      "archive": {
+        "filename": "cache.20260518.tar.xz",
+        "filename_date": "20260518",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/american-revolution-2025.cache/cache.20260518.tar.xz",
+        "sha256": "b9e2d4f9cfcb31e5d63ca156ab5ee8042ce4b26ccaa07531f05b5d7daffb4f58",
+        "size": 653297484
+      },
+      "collection_key": "american-revolution-2025",
+      "day_cache_validation": {
+        "allow_leading_sparse": false,
+        "authorization": {
+          "archive_mutated": false,
+          "excluded_member_classes": [
+            "hour",
+            "week",
+            "cumulative"
+          ],
+          "raw_samples_opened": false,
+          "scope": "read only streaming of per-torrent day records"
+        },
+        "observed": {
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 182,
+          "post_release_day_products": 0,
+          "sample_end": "2026-05-18",
+          "sample_span_days": 182,
+          "sample_start": "2025-11-18"
+        },
+        "required_collection_key": "american-revolution-2025",
+        "required_day_products": 182,
+        "required_sample_days": 182,
+        "required_sample_end": "2026-05-18",
+        "required_sample_start": "2025-11-18",
+        "required_sparse_intervals": [],
+        "reused_evidence": {
+          "kind": "closed-day-product-receipt",
+          "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-day-product-receipts/american-revolution-2025.json",
+          "sha256": "82d461310f54d7af95eaab59453598ea893542d67ea7053246dcc7b2132da211"
+        },
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "2025",
+        "collection_name": "American Revolution",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 182,
+        "sample_end": "2026-05-18",
+        "sample_start": "2025-11-18",
+        "sha256": "84ea163f0235b6b5cd6c84db3bf2317ffeff6161291698c8842e617bcb4dc610",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/american-revolution-2025-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20260316.tar.xz",
+            "size": 459868956
+          },
+          {
+            "filename": "cache.20260420.tar.xz",
+            "size": 580960124
+          },
+          {
+            "filename": "cache.20260518.tar.xz",
+            "size": 653297484
+          }
+        ],
+        "expected_filename_date": "20260518"
+      },
+      "successor_evidence": {
+        "source_map": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-cache-archive-map.json",
+        "source_map_sha256": "07df6768b09300f45368bce76aa0f855dc87c0135f5d2f754100a09fad43a0e6",
+        "source_record_sha256": "fdbdff4b2a1e958a494a517a332f1a29ec96353df4d9a0d9b015b5de5628c477",
+        "status": "reused-closed-predecessor"
+      },
+      "worker_archive_relative_path": "american-revolution-2025.cache/cache.20260518.tar.xz"
+    },
+    {
+      "archive": {
+        "filename": "cache.20250812.tar.xz",
+        "filename_date": "20250812",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/andor-112.cache/cache.20250812.tar.xz",
+        "sha256": "e0e255253f95b5aa85fa80de807e834f0788666fddb1de38aa107dc231d15371",
+        "size": 951779392
+      },
+      "collection_key": "andor-112",
+      "day_cache_validation": {
+        "allow_leading_sparse": false,
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 112,
+          "cache_members": 27104,
+          "first_observed_day_index": 1,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2025-08-12",
+          "sample_span_days": 112,
+          "sample_start": "2025-04-23",
+          "torrent_indices": 242
+        },
+        "required_collection_key": "andor-112",
+        "required_day_products": 112,
+        "required_sample_days": 112,
+        "required_sample_end": "2025-08-12",
+        "required_sample_start": "2025-04-23",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "112",
+        "collection_name": "Andor",
+        "metadata_version": "2025-11-22",
+        "sample_contract_sha256": "306c45cadcad8e7448660fcf3489e0d39b5455e5dad6ee3d858ebb0fd18bc4a2",
+        "sample_contract_source": "frozen-campaign-reconciliation",
+        "sample_days": 112,
+        "sample_end": "2025-08-12",
+        "sample_start": "2025-04-23",
+        "sha256": "42d7a690a2a1ae3b92d45aae33f6d87df5b8b2ec60f57bad0ae4e058488de97d",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/andor-112.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20230307.tar.xz",
+            "size": 666426560
+          },
+          {
+            "filename": "cache.20250812.tar.xz",
+            "size": 951779392
+          }
+        ],
+        "expected_filename_date": "20250812"
+      },
+      "successor_evidence": {
+        "source_map": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-v2-cache-archive-map-delta.json",
+        "source_map_sha256": "b7386ee4567e00a8c8ac66aab032482208c833a71f86260e51807cdd97bcd6fa",
+        "source_record_sha256": "3e7e43d571c90232b33f0c45754f44d72a34d902b2e9fdaea9669cc580e4efff",
+        "status": "verified-successor-delta"
+      },
+      "worker_archive_relative_path": "andor-112.cache/cache.20250812.tar.xz"
+    },
+    {
+      "archive": {
+        "filename": "cache.20251027.tar.xz",
+        "filename_date": "20251027",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/andor-201.cache/cache.20251027.tar.xz",
+        "sha256": "a1b31832108a26aa07dc82b0268f915a27339532705f350667e49c81e89c75e1",
+        "size": 3337709816
+      },
+      "collection_key": "andor-201",
+      "day_cache_validation": {
+        "allow_leading_sparse": false,
+        "authorization": {
+          "archive_mutated": false,
+          "excluded_member_classes": [
+            "hour",
+            "week",
+            "cumulative"
+          ],
+          "raw_samples_opened": false,
+          "scope": "read only streaming of per-torrent day records"
+        },
+        "observed": {
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 181,
+          "post_release_day_products": 0,
+          "sample_end": "2025-10-27",
+          "sample_span_days": 188,
+          "sample_start": "2025-04-23"
+        },
+        "required_collection_key": "andor-201",
+        "required_day_products": 181,
+        "required_sample_days": 188,
+        "required_sample_end": "2025-10-27",
+        "required_sample_start": "2025-04-23",
+        "required_sparse_intervals": [
+          {
+            "days": 7,
+            "first_index": 50,
+            "last_index": 56
+          }
+        ],
+        "reused_evidence": {
+          "kind": "closed-day-product-receipt",
+          "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-day-product-receipts/andor-201.json",
+          "sha256": "d0372fe5d6e5b24921a78a6fb165ebdca2c5a6541aef7bd8cac6c8a57a9007b9"
+        },
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "201, 202, 203",
+        "collection_name": "Andor",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 188,
+        "sample_end": "2025-10-27",
+        "sample_start": "2025-04-23",
+        "sha256": "5d31e1ad17371c12eb8541f5b9354dd1425882ff378c09b19fc8863167d841aa",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/andor-201-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20251027.tar.xz",
+            "size": 3337709816
+          }
+        ],
+        "expected_filename_date": "20251027"
+      },
+      "successor_evidence": {
+        "source_map": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-cache-archive-map.json",
+        "source_map_sha256": "07df6768b09300f45368bce76aa0f855dc87c0135f5d2f754100a09fad43a0e6",
+        "source_record_sha256": "872e8f445d3647cc856b67375881e450416089b0496c6b88c20e9507959cdea5",
+        "status": "reused-closed-predecessor"
+      },
+      "worker_archive_relative_path": "andor-201.cache/cache.20251027.tar.xz"
+    },
+    {
+      "archive": {
+        "filename": "cache.20260107.tar.xz",
+        "filename_date": "20260107",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/ballard-01.cache/cache.20260107.tar.xz",
+        "sha256": "efd2ad98d64b06535984bb976f26426b1814fbce15edfa6daa8040b7dba34dd6",
+        "size": 2186070264
+      },
+      "collection_key": "ballard-01",
+      "day_cache_validation": {
+        "allow_leading_sparse": false,
+        "authorization": {
+          "archive_mutated": false,
+          "excluded_member_classes": [
+            "hour",
+            "week",
+            "cumulative"
+          ],
+          "raw_samples_opened": false,
+          "scope": "read only streaming of per-torrent day records"
+        },
+        "observed": {
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 181,
+          "post_release_day_products": 0,
+          "sample_end": "2026-01-07",
+          "sample_span_days": 182,
+          "sample_start": "2025-07-10"
+        },
+        "required_collection_key": "ballard-01",
+        "required_day_products": 181,
+        "required_sample_days": 182,
+        "required_sample_end": "2026-01-07",
+        "required_sample_start": "2025-07-10",
+        "required_sparse_intervals": [
+          {
+            "days": 1,
+            "first_index": 47,
+            "last_index": 47
+          }
+        ],
+        "reused_evidence": {
+          "kind": "closed-day-product-receipt",
+          "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-day-product-receipts/ballard-01.json",
+          "sha256": "0b12b604d4dafcfdd79f63c9b42d509382e872f56bc0c871f446087975e866d6"
+        },
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "101, 102, 103, 104, 105, 106, 107, 108, 109, 110",
+        "collection_name": "Ballard",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 182,
+        "sample_end": "2026-01-07",
+        "sample_start": "2025-07-10",
+        "sha256": "88c908c69a36eb5eea240b1883f4b96008c1c8d28a398effa7b40e01c6bf95ed",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/ballard-01-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20260107.tar.xz",
+            "size": 2186070264
+          }
+        ],
+        "expected_filename_date": "20260107"
+      },
+      "successor_evidence": {
+        "source_map": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-cache-archive-map.json",
+        "source_map_sha256": "07df6768b09300f45368bce76aa0f855dc87c0135f5d2f754100a09fad43a0e6",
+        "source_record_sha256": "4a536f04ede103002bf9ce7fe893cb10baf7a83e840003c7319165f695f0f2a4",
+        "status": "reused-closed-predecessor"
+      },
+      "worker_archive_relative_path": "ballard-01.cache/cache.20260107.tar.xz"
+    },
+    {
+      "archive": {
+        "filename": "cache.20251231.tar.xz",
+        "filename_date": "20251231",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/bear-04.cache/cache.20251231.tar.xz",
+        "sha256": "c9e3da1a9e3d39cf33756a3269c38ef47dd681542468717db4e53721ee7c53a4",
+        "size": 4184361208
+      },
+      "collection_key": "bear-04",
+      "day_cache_validation": {
+        "allow_leading_sparse": false,
+        "authorization": {
+          "archive_mutated": false,
+          "excluded_member_classes": [
+            "hour",
+            "week",
+            "cumulative"
+          ],
+          "raw_samples_opened": false,
+          "scope": "read only streaming of per-torrent day records"
+        },
+        "observed": {
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 184,
+          "post_release_day_products": 0,
+          "sample_end": "2025-12-31",
+          "sample_span_days": 189,
+          "sample_start": "2025-06-26"
+        },
+        "required_collection_key": "bear-04",
+        "required_day_products": 184,
+        "required_sample_days": 189,
+        "required_sample_end": "2025-12-31",
+        "required_sample_start": "2025-06-26",
+        "required_sparse_intervals": [
+          {
+            "days": 5,
+            "first_index": 184,
+            "last_index": 188
+          }
+        ],
+        "reused_evidence": {
+          "kind": "closed-day-product-receipt",
+          "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-day-product-receipts/bear-04.json",
+          "sha256": "55ca7b5cbe11c478defc5bd3ea409faaf1dbd8d52fac304374dc666e1088099d"
+        },
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "S04",
+        "collection_name": "The Bear",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 189,
+        "sample_end": "2025-12-31",
+        "sample_start": "2025-06-26",
+        "sha256": "8c5d875d788b65168d2b591ec9e0c08d74fd3c4bb093f62b0eb72fde2f4d4fea",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/bear-04-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20251231.tar.xz",
+            "size": 4184361208
+          }
+        ],
+        "expected_filename_date": "20251231"
+      },
+      "successor_evidence": {
+        "source_map": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-cache-archive-map.json",
+        "source_map_sha256": "07df6768b09300f45368bce76aa0f855dc87c0135f5d2f754100a09fad43a0e6",
+        "source_record_sha256": "f05b27686837c4be666c4ee227dbca649753aa417a365e56e71987c3ddd504cb",
+        "status": "reused-closed-predecessor"
+      },
+      "worker_archive_relative_path": "bear-04.cache/cache.20251231.tar.xz"
+    },
+    {
+      "archive": {
+        "filename": "cache.20260310.tar.xz",
+        "filename_date": "20260310",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/beatles-anthology.cache/cache.20260310.tar.xz",
+        "sha256": "d72ba34a9427b2ce6429d08dd1d608226e7cda8201844cc4017a2b9e377c42b2",
+        "size": 448287336
+      },
+      "collection_key": "beatles-anthology",
+      "day_cache_validation": {
+        "allow_leading_sparse": false,
+        "authorization": {
+          "archive_mutated": false,
+          "excluded_member_classes": [
+            "hour",
+            "week",
+            "cumulative"
+          ],
+          "raw_samples_opened": false,
+          "scope": "read only streaming of per-torrent day records"
+        },
+        "observed": {
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 105,
+          "post_release_day_products": 0,
+          "sample_end": "2026-03-10",
+          "sample_span_days": 105,
+          "sample_start": "2025-11-26"
+        },
+        "required_collection_key": "beatles-anthology",
+        "required_day_products": 105,
+        "required_sample_days": 105,
+        "required_sample_end": "2026-03-10",
+        "required_sample_start": "2025-11-26",
+        "required_sparse_intervals": [],
+        "reused_evidence": {
+          "kind": "closed-day-product-receipt",
+          "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-day-product-receipts/beatles-anthology.json",
+          "sha256": "c89585b58ea38cd65cb7827a7e6f759a7be7a9bd39e674183ec99198d96a08ab"
+        },
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "",
+        "collection_name": "The Beatles: Anthology",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 105,
+        "sample_end": "2026-03-10",
+        "sample_start": "2025-11-26",
+        "sha256": "8ba780057df0eb4cb4e8c049d007b7f2e2dcefd6b363b17bc5d2f5d7ac648922",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/beatles-anthology-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20260310.tar.xz",
+            "size": 448287336
+          }
+        ],
+        "expected_filename_date": "20260310"
+      },
+      "successor_evidence": {
+        "source_map": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-cache-archive-map.json",
+        "source_map_sha256": "07df6768b09300f45368bce76aa0f855dc87c0135f5d2f754100a09fad43a0e6",
+        "source_record_sha256": "6f83d4d6f191867411fcc1119045d7694e1f18084af089e52840ec47c50cd55d",
+        "status": "reused-closed-predecessor"
+      },
+      "worker_archive_relative_path": "beatles-anthology.cache/cache.20260310.tar.xz"
+    },
+    {
+      "archive": {
+        "filename": "cache.20251218.tar.xz",
+        "filename_date": "20251218",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/chief-of-war-107.cache/cache.20251218.tar.xz",
+        "sha256": "ee72f8cc3b6624270a8b3d0e08ea7af909c8caf302d0dabaad4865b467fd88c4",
+        "size": 1400873300
+      },
+      "collection_key": "chief-of-war-107",
+      "day_cache_validation": {
+        "allow_leading_sparse": false,
+        "authorization": {
+          "archive_mutated": false,
+          "excluded_member_classes": [
+            "hour",
+            "week",
+            "cumulative"
+          ],
+          "raw_samples_opened": false,
+          "scope": "read only streaming of per-torrent day records"
+        },
+        "observed": {
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 105,
+          "post_release_day_products": 0,
+          "sample_end": "2025-12-18",
+          "sample_span_days": 105,
+          "sample_start": "2025-09-05"
+        },
+        "required_collection_key": "chief-of-war-107",
+        "required_day_products": 105,
+        "required_sample_days": 105,
+        "required_sample_end": "2025-12-18",
+        "required_sample_start": "2025-09-05",
+        "required_sparse_intervals": [],
+        "reused_evidence": {
+          "kind": "closed-day-product-receipt",
+          "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-day-product-receipts/chief-of-war-107.json",
+          "sha256": "e8a575496612a27267f2466fb6ab0c3f77e55025cc2b9e29264f2f20a1059166"
+        },
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "107, 108, 109",
+        "collection_name": "Chief of War",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 105,
+        "sample_end": "2025-12-18",
+        "sample_start": "2025-09-05",
+        "sha256": "83ef0a2ff8936f6d34724fa440ae553baa6758e62c20c8420aeebed17cc6db44",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/chief-of-war-107-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20251218.tar.xz",
+            "size": 1400873300
+          }
+        ],
+        "expected_filename_date": "20251218"
+      },
+      "successor_evidence": {
+        "source_map": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-cache-archive-map.json",
+        "source_map_sha256": "07df6768b09300f45368bce76aa0f855dc87c0135f5d2f754100a09fad43a0e6",
+        "source_record_sha256": "6275ded5161bf326c06529eac8e10ae409c4dbf0b221d62dff449d5de9e05694",
+        "status": "reused-closed-predecessor"
+      },
+      "worker_archive_relative_path": "chief-of-war-107.cache/cache.20251218.tar.xz"
+    },
+    {
+      "archive": {
+        "filename": "cache.20250609.tar.xz",
+        "filename_date": "20250609",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/companion-2025.cache/cache.20250609.tar.xz",
+        "sha256": "fd4feb7a802e56b6a7a80c1269ef9d50739169cbbfb8ee158958e817c4c7453f",
+        "size": 1810724964
+      },
+      "collection_key": "companion-2025",
+      "day_cache_validation": {
+        "allow_leading_sparse": false,
+        "authorization": {
+          "archive_mutated": false,
+          "excluded_member_classes": [
+            "hour",
+            "week",
+            "cumulative"
+          ],
+          "raw_samples_opened": false,
+          "scope": "read only streaming of per-torrent day records"
+        },
+        "observed": {
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 112,
+          "post_release_day_products": 0,
+          "sample_end": "2025-06-09",
+          "sample_span_days": 112,
+          "sample_start": "2025-02-18"
+        },
+        "required_collection_key": "companion-2025",
+        "required_day_products": 112,
+        "required_sample_days": 112,
+        "required_sample_end": "2025-06-09",
+        "required_sample_start": "2025-02-18",
+        "required_sparse_intervals": [],
+        "reused_evidence": {
+          "kind": "closed-day-product-receipt",
+          "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-day-product-receipts/companion-2025.json",
+          "sha256": "1e41b79a0abb3bbcd1ca739b2fb27852565f75d8234da3968665deaa201f174b"
+        },
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "",
+        "collection_name": "Companion",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 112,
+        "sample_end": "2025-06-09",
+        "sample_start": "2025-02-18",
+        "sha256": "1c22793e77a1f722cf9c208bebc28dbbf324105880bb10f5c053a87751a50da1",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/companion-2025-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20250609.tar.xz",
+            "size": 1810724964
+          }
+        ],
+        "expected_filename_date": "20250609"
+      },
+      "successor_evidence": {
+        "source_map": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-cache-archive-map.json",
+        "source_map_sha256": "07df6768b09300f45368bce76aa0f855dc87c0135f5d2f754100a09fad43a0e6",
+        "source_record_sha256": "93ec62fe3ebab32b764239cc5368b182dea189241a5f7c21619eb974f7865b56",
+        "status": "reused-closed-predecessor"
+      },
+      "worker_archive_relative_path": "companion-2025.cache/cache.20250609.tar.xz"
+    },
+    {
+      "archive": {
+        "filename": "cache.20250621.tar.xz",
+        "filename_date": "20250621",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/dark-winds-301.cache/cache.20250621.tar.xz",
+        "sha256": "88f8254943e9c09733e6fee27974c160c8a5975ee1b0c21b4ecf092c8c1a1296",
+        "size": 549007740
+      },
+      "collection_key": "dark-winds-301",
+      "day_cache_validation": {
+        "allow_leading_sparse": false,
+        "authorization": {
+          "archive_mutated": false,
+          "excluded_member_classes": [
+            "hour",
+            "week",
+            "cumulative"
+          ],
+          "raw_samples_opened": false,
+          "scope": "read only streaming of per-torrent day records"
+        },
+        "observed": {
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 105,
+          "post_release_day_products": 0,
+          "sample_end": "2025-06-21",
+          "sample_span_days": 105,
+          "sample_start": "2025-03-09"
+        },
+        "required_collection_key": "dark-winds-301",
+        "required_day_products": 105,
+        "required_sample_days": 105,
+        "required_sample_end": "2025-06-21",
+        "required_sample_start": "2025-03-09",
+        "required_sparse_intervals": [],
+        "reused_evidence": {
+          "kind": "closed-day-product-receipt",
+          "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-day-product-receipts/dark-winds-301.json",
+          "sha256": "a4d4023d29050e2e42ec9edb74638f66311ab14bf05789333190cb3b1dedeae2"
+        },
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "301, 302, 303",
+        "collection_name": "Dark Winds",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 105,
+        "sample_end": "2025-06-21",
+        "sample_start": "2025-03-09",
+        "sha256": "f163caf1b487b7e1766f4a24dd137bd6c4ecc51712109e8f78a379aba2edf93c",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/dark-winds-301-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20250621.tar.xz",
+            "size": 549007740
+          }
+        ],
+        "expected_filename_date": "20250621"
+      },
+      "successor_evidence": {
+        "source_map": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-cache-archive-map.json",
+        "source_map_sha256": "07df6768b09300f45368bce76aa0f855dc87c0135f5d2f754100a09fad43a0e6",
+        "source_record_sha256": "f5f8ef6e7cfad6fbbc176fb4bc25c72ad371836d214a42c40c2ecfad3bed451f",
+        "status": "reused-closed-predecessor"
+      },
+      "worker_archive_relative_path": "dark-winds-301.cache/cache.20250621.tar.xz"
+    },
+    {
+      "archive": {
+        "filename": "cache.20260629.tar.xz",
+        "filename_date": "20260629",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/demon-slayer-kimetsu-no-yaiba-the-movie-infinity-castle.cache/cache.20260629.tar.xz",
+        "sha256": "82698ae41bf7e3a0a61c075648e179145821dc974863934bc1401f4bf34308e8",
+        "size": 649370900
+      },
+      "collection_key": "demon-slayer-kimetsu-no-yaiba-the-movie-infinity-castle",
+      "day_cache_validation": {
+        "allow_leading_sparse": false,
+        "authorization": {
+          "archive_mutated": false,
+          "excluded_member_classes": [
+            "hour",
+            "week",
+            "cumulative"
+          ],
+          "raw_samples_opened": false,
+          "scope": "read only streaming of per-torrent day records"
+        },
+        "observed": {
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 182,
+          "post_release_day_products": 0,
+          "sample_end": "2026-06-29",
+          "sample_span_days": 182,
+          "sample_start": "2025-12-30"
+        },
+        "required_collection_key": "demon-slayer-kimetsu-no-yaiba-the-movie-infinity-castle",
+        "required_day_products": 182,
+        "required_sample_days": 182,
+        "required_sample_end": "2026-06-29",
+        "required_sample_start": "2025-12-30",
+        "required_sparse_intervals": [],
+        "reused_evidence": {
+          "kind": "closed-day-product-receipt",
+          "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-day-product-receipts/demon-slayer-kimetsu-no-yaiba-the-movie-infinity-castle.json",
+          "sha256": "de8cde6f3a2879e173596c4cb3cf47daba93aa7a827bb874bf6908aeef50fb91"
+        },
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "",
+        "collection_name": "Demon Slayer Kimetsu No Yaiba The Movie Infinity Castle",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 182,
+        "sample_end": "2026-06-29",
+        "sample_start": "2025-12-30",
+        "sha256": "528403c573a834e469edeefa5738b01031b0f4af0aabdb07491e9540c6f740ca",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/demon-slayer-kimetsu-no-yaiba-the-movie-infinity-castle-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20260629.tar.xz",
+            "size": 649370900
+          }
+        ],
+        "expected_filename_date": "20260629"
+      },
+      "successor_evidence": {
+        "source_map": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-cache-archive-map.json",
+        "source_map_sha256": "07df6768b09300f45368bce76aa0f855dc87c0135f5d2f754100a09fad43a0e6",
+        "source_record_sha256": "4280afbdaa832b506233fe37c8a88aafab4d219a9d7d46541cd783ddeeba1609",
+        "status": "reused-closed-predecessor"
+      },
+      "worker_archive_relative_path": "demon-slayer-kimetsu-no-yaiba-the-movie-infinity-castle.cache/cache.20260629.tar.xz"
+    },
+    {
+      "archive": {
+        "filename": "cache.20260210.tar.xz",
+        "filename_date": "20260210",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/down-cemetery-road-101.cache/cache.20260210.tar.xz",
+        "sha256": "5538bfe96314aa33cb1e9110e4212e4616dc6ac0caea2ce35e855caeef29e53d",
+        "size": 823231432
+      },
+      "collection_key": "down-cemetery-road-101",
+      "day_cache_validation": {
+        "allow_leading_sparse": false,
+        "authorization": {
+          "archive_mutated": false,
+          "excluded_member_classes": [
+            "hour",
+            "week",
+            "cumulative"
+          ],
+          "raw_samples_opened": false,
+          "scope": "read only streaming of per-torrent day records"
+        },
+        "observed": {
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 105,
+          "post_release_day_products": 0,
+          "sample_end": "2026-02-10",
+          "sample_span_days": 105,
+          "sample_start": "2025-10-29"
+        },
+        "required_collection_key": "down-cemetery-road-101",
+        "required_day_products": 105,
+        "required_sample_days": 105,
+        "required_sample_end": "2026-02-10",
+        "required_sample_start": "2025-10-29",
+        "required_sparse_intervals": [],
+        "reused_evidence": {
+          "kind": "closed-day-product-receipt",
+          "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-day-product-receipts/down-cemetery-road-101.json",
+          "sha256": "2e75024aa7c31066fdd4723cf76827df80d676c349f259275dd0a9058912c5d0"
+        },
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "101",
+        "collection_name": "Down Cemetery Road",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 105,
+        "sample_end": "2026-02-10",
+        "sample_start": "2025-10-29",
+        "sha256": "48f78b906d907b9bced279a706eb2db14a4926c4cd9b51b7cc8a4e1c6042b94b",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/down-cemetery-road-101-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20251223.tar.xz",
+            "size": 211611552
+          },
+          {
+            "filename": "cache.20260210.tar.xz",
+            "size": 823231432
+          }
+        ],
+        "expected_filename_date": "20260210"
+      },
+      "successor_evidence": {
+        "source_map": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-cache-archive-map.json",
+        "source_map_sha256": "07df6768b09300f45368bce76aa0f855dc87c0135f5d2f754100a09fad43a0e6",
+        "source_record_sha256": "66e838c5d21fc9f517d012bdf9196db76430533719bdb1787cb7817434c6ffe5",
+        "status": "reused-closed-predecessor"
+      },
+      "worker_archive_relative_path": "down-cemetery-road-101.cache/cache.20260210.tar.xz"
+    },
+    {
+      "archive": {
+        "filename": "cache.20251004.tar.xz",
+        "filename_date": "20251004",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/duster-106.cache/cache.20251004.tar.xz",
+        "sha256": "003dd7c2fdb16f5371f50a19e63f304269cb384b339b91d6245df002f29731e2",
+        "size": 706082796
+      },
+      "collection_key": "duster-106",
+      "day_cache_validation": {
+        "allow_leading_sparse": false,
+        "authorization": {
+          "archive_mutated": false,
+          "excluded_member_classes": [
+            "hour",
+            "week",
+            "cumulative"
+          ],
+          "raw_samples_opened": false,
+          "scope": "read only streaming of per-torrent day records"
+        },
+        "observed": {
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 106,
+          "post_release_day_products": 0,
+          "sample_end": "2025-10-04",
+          "sample_span_days": 106,
+          "sample_start": "2025-06-21"
+        },
+        "required_collection_key": "duster-106",
+        "required_day_products": 106,
+        "required_sample_days": 106,
+        "required_sample_end": "2025-10-04",
+        "required_sample_start": "2025-06-21",
+        "required_sparse_intervals": [],
+        "reused_evidence": {
+          "kind": "closed-day-product-receipt",
+          "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-day-product-receipts/duster-106.json",
+          "sha256": "a766465feb7e79b18697fc78091dda076b4b4604fad72cd7589ef13a0af8ff30"
+        },
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "106, 107, 108",
+        "collection_name": "Duster",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 106,
+        "sample_end": "2025-10-04",
+        "sample_start": "2025-06-21",
+        "sha256": "067823962a159476e36379c4b8a96c306d0cb415615aca3f93bf249deb97bd8c",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/duster-106-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20251004.tar.xz",
+            "size": 706082796
+          }
+        ],
+        "expected_filename_date": "20251004"
+      },
+      "successor_evidence": {
+        "source_map": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-cache-archive-map.json",
+        "source_map_sha256": "07df6768b09300f45368bce76aa0f855dc87c0135f5d2f754100a09fad43a0e6",
+        "source_record_sha256": "61022a01b9245acaf9e4a695473ad29988602e9912210bcb3867d83e6d0314f4",
+        "status": "reused-closed-predecessor"
+      },
+      "worker_archive_relative_path": "duster-106.cache/cache.20251004.tar.xz"
+    },
+    {
+      "archive": {
+        "filename": "cache.20260129.tar.xz",
+        "filename_date": "20260129",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/eyes-of-wakanda-01.cache/cache.20260129.tar.xz",
+        "sha256": "4b7ff9613687d0423171010a3aa5b20a40b2e5d42c97dc746cda2ac8887c84ef",
+        "size": 1133741048
+      },
+      "collection_key": "eyes-of-wakanda-01",
+      "day_cache_validation": {
+        "allow_leading_sparse": false,
+        "authorization": {
+          "archive_mutated": false,
+          "excluded_member_classes": [
+            "hour",
+            "week",
+            "cumulative"
+          ],
+          "raw_samples_opened": false,
+          "scope": "read only streaming of per-torrent day records"
+        },
+        "observed": {
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 182,
+          "post_release_day_products": 0,
+          "sample_end": "2026-01-29",
+          "sample_span_days": 182,
+          "sample_start": "2025-08-01"
+        },
+        "required_collection_key": "eyes-of-wakanda-01",
+        "required_day_products": 182,
+        "required_sample_days": 182,
+        "required_sample_end": "2026-01-29",
+        "required_sample_start": "2025-08-01",
+        "required_sparse_intervals": [],
+        "reused_evidence": {
+          "kind": "closed-day-product-receipt",
+          "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-day-product-receipts/eyes-of-wakanda-01.json",
+          "sha256": "24274eba042da1a02f015c9067b6bf38917864f6461ec2607501d3fa250305ab"
+        },
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "101, 102, 103, 104",
+        "collection_name": "Eyes of Wakanda",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 182,
+        "sample_end": "2026-01-29",
+        "sample_start": "2025-08-01",
+        "sha256": "585876971f20a79a2c05fdad07f7936a4bc2912893976fbbe480388fd5a3a58d",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/eyes-of-wakanda-01-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20260129.tar.xz",
+            "size": 1133741048
+          }
+        ],
+        "expected_filename_date": "20260129"
+      },
+      "successor_evidence": {
+        "source_map": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-cache-archive-map.json",
+        "source_map_sha256": "07df6768b09300f45368bce76aa0f855dc87c0135f5d2f754100a09fad43a0e6",
+        "source_record_sha256": "7839151f1ec3426be0a2ba0da1b0d3a9e27a396497b7c3cacc2ce92c86d0a4d0",
+        "status": "reused-closed-predecessor"
+      },
+      "worker_archive_relative_path": "eyes-of-wakanda-01.cache/cache.20260129.tar.xz"
+    },
+    {
+      "archive": {
+        "filename": "cache.20260508.tar.xz",
+        "filename_date": "20260508",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/frankenstein-2025.cache/cache.20260508.tar.xz",
+        "sha256": "da1e62835e8d4e4adb3fabec2c27c883d356c2dc010044fece39150f233c183e",
+        "size": 4370595892
+      },
+      "collection_key": "frankenstein-2025",
+      "day_cache_validation": {
+        "allow_leading_sparse": false,
+        "authorization": {
+          "archive_mutated": false,
+          "excluded_member_classes": [
+            "hour",
+            "week",
+            "cumulative"
+          ],
+          "raw_samples_opened": false,
+          "scope": "read only streaming of per-torrent day records"
+        },
+        "observed": {
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 182,
+          "post_release_day_products": 0,
+          "sample_end": "2026-05-08",
+          "sample_span_days": 182,
+          "sample_start": "2025-11-08"
+        },
+        "required_collection_key": "frankenstein-2025",
+        "required_day_products": 182,
+        "required_sample_days": 182,
+        "required_sample_end": "2026-05-08",
+        "required_sample_start": "2025-11-08",
+        "required_sparse_intervals": [],
+        "reused_evidence": {
+          "kind": "closed-day-product-receipt",
+          "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-day-product-receipts/frankenstein-2025.json",
+          "sha256": "b399c9f354f07cdeb65ef934ca7353a98ee7800dc06e29235e293eb8c21d3380"
+        },
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "",
+        "collection_name": "Frankenstein",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 182,
+        "sample_end": "2026-05-08",
+        "sample_start": "2025-11-08",
+        "sha256": "a34bbb7e73b910ec8e271f39ff816f14008e760c8a44c016955f83fd1dbc0d12",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/frankenstein-2025-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20260410.tar.xz",
+            "size": 3910776200
+          },
+          {
+            "filename": "cache.20260424.tar.xz",
+            "size": 4145530036
+          },
+          {
+            "filename": "cache.20260508.tar.xz",
+            "size": 4370595892
+          }
+        ],
+        "expected_filename_date": "20260508"
+      },
+      "successor_evidence": {
+        "source_map": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-cache-archive-map.json",
+        "source_map_sha256": "07df6768b09300f45368bce76aa0f855dc87c0135f5d2f754100a09fad43a0e6",
+        "source_record_sha256": "40f203b643960e11dce33114bdb4004e19747244552274d778404d1fd522c5ad",
+        "status": "reused-closed-predecessor"
+      },
+      "worker_archive_relative_path": "frankenstein-2025.cache/cache.20260508.tar.xz"
+    },
+    {
+      "archive": {
+        "filename": "cache.20260414.tar.xz",
+        "filename_date": "20260414",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/gen-v-206.cache/cache.20260414.tar.xz",
+        "sha256": "2587b6aa70a1d0618b018e87f55e59a2a9afe2867d17c492bd1f671ba32ac966",
+        "size": 2477801024
+      },
+      "collection_key": "gen-v-206",
+      "day_cache_validation": {
+        "allow_leading_sparse": false,
+        "authorization": {
+          "archive_mutated": false,
+          "excluded_member_classes": [
+            "hour",
+            "week",
+            "cumulative"
+          ],
+          "raw_samples_opened": false,
+          "scope": "read only streaming of per-torrent day records"
+        },
+        "observed": {
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 189,
+          "post_release_day_products": 0,
+          "sample_end": "2026-04-14",
+          "sample_span_days": 189,
+          "sample_start": "2025-10-08"
+        },
+        "required_collection_key": "gen-v-206",
+        "required_day_products": 189,
+        "required_sample_days": 189,
+        "required_sample_end": "2026-04-14",
+        "required_sample_start": "2025-10-08",
+        "required_sparse_intervals": [],
+        "reused_evidence": {
+          "kind": "closed-day-product-receipt",
+          "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-day-product-receipts/gen-v-206.json",
+          "sha256": "cdbefc40397655c92987ff4cd508a4a8812ba055b9666dcea04b9b68143d5a80"
+        },
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "206, 207, 208",
+        "collection_name": "Gen V",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 189,
+        "sample_end": "2026-04-14",
+        "sample_start": "2025-10-08",
+        "sha256": "071fa5ad209ba1ce8cbe0584014baa84949e306776491354254bd47e8dc93641",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/gen-v-206-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20260414.tar.xz",
+            "size": 2477801024
+          }
+        ],
+        "expected_filename_date": "20260414"
+      },
+      "successor_evidence": {
+        "source_map": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-cache-archive-map.json",
+        "source_map_sha256": "07df6768b09300f45368bce76aa0f855dc87c0135f5d2f754100a09fad43a0e6",
+        "source_record_sha256": "5b29ce82655299484cb978b3c3737d50ed2285aff0dc913d1c9111844a3bee07",
+        "status": "reused-closed-predecessor"
+      },
+      "worker_archive_relative_path": "gen-v-206.cache/cache.20260414.tar.xz"
+    },
+    {
+      "archive": {
+        "filename": "cache.20250724.tar.xz",
+        "filename_date": "20250724",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/hacks-401.cache/cache.20250724.tar.xz",
+        "sha256": "76ac2b138f19c8d2aa8ba8f7286afa5b988388502b737abf8367649e8998a633",
+        "size": 481479184
+      },
+      "collection_key": "hacks-401",
+      "day_cache_validation": {
+        "allow_leading_sparse": false,
+        "authorization": {
+          "archive_mutated": false,
+          "excluded_member_classes": [
+            "hour",
+            "week",
+            "cumulative"
+          ],
+          "raw_samples_opened": false,
+          "scope": "read only streaming of per-torrent day records"
+        },
+        "observed": {
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 105,
+          "post_release_day_products": 0,
+          "sample_end": "2025-07-24",
+          "sample_span_days": 105,
+          "sample_start": "2025-04-11"
+        },
+        "required_collection_key": "hacks-401",
+        "required_day_products": 105,
+        "required_sample_days": 105,
+        "required_sample_end": "2025-07-24",
+        "required_sample_start": "2025-04-11",
+        "required_sparse_intervals": [],
+        "reused_evidence": {
+          "kind": "closed-day-product-receipt",
+          "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-day-product-receipts/hacks-401.json",
+          "sha256": "d35e9e68cadaed6f642d0369270091ac3db815db8328218752f65e6bb587d4ef"
+        },
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "401, 402, 403",
+        "collection_name": "Hacks",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 105,
+        "sample_end": "2025-07-24",
+        "sample_start": "2025-04-11",
+        "sha256": "ff778776e620716843f20e6cdb93da0bce83e9a94ac462790046b9fbc35151ff",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/hacks-401-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20250724.tar.xz",
+            "size": 481479184
+          }
+        ],
+        "expected_filename_date": "20250724"
+      },
+      "successor_evidence": {
+        "source_map": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-cache-archive-map.json",
+        "source_map_sha256": "07df6768b09300f45368bce76aa0f855dc87c0135f5d2f754100a09fad43a0e6",
+        "source_record_sha256": "de13ce6b43a7f6670803bb13a8929034798683be79ad178cb732b61dcb624a11",
+        "status": "reused-closed-predecessor"
+      },
+      "worker_archive_relative_path": "hacks-401.cache/cache.20250724.tar.xz"
+    },
+    {
+      "archive": {
+        "filename": "cache.20250521.tar.xz",
+        "filename_date": "20250521",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/invincible-301.cache/cache.20250521.tar.xz",
+        "sha256": "a0cb58e6982bc97a022bf7522920efcf984cb3c3900c67e23a5490dd29633820",
+        "size": 1366711152
+      },
+      "collection_key": "invincible-301",
+      "day_cache_validation": {
+        "allow_leading_sparse": false,
+        "authorization": {
+          "archive_mutated": false,
+          "excluded_member_classes": [
+            "hour",
+            "week",
+            "cumulative"
+          ],
+          "raw_samples_opened": false,
+          "scope": "read only streaming of per-torrent day records"
+        },
+        "observed": {
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 105,
+          "post_release_day_products": 0,
+          "sample_end": "2025-05-21",
+          "sample_span_days": 105,
+          "sample_start": "2025-02-06"
+        },
+        "required_collection_key": "invincible-301",
+        "required_day_products": 105,
+        "required_sample_days": 105,
+        "required_sample_end": "2025-05-21",
+        "required_sample_start": "2025-02-06",
+        "required_sparse_intervals": [],
+        "reused_evidence": {
+          "kind": "closed-day-product-receipt",
+          "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-day-product-receipts/invincible-301.json",
+          "sha256": "cf838e5ebb483c7ea76331d16f86b7049a39a879535749112ff7f156a1770dc9"
+        },
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "301, 302, 303",
+        "collection_name": "Invincible",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 105,
+        "sample_end": "2025-05-21",
+        "sample_start": "2025-02-06",
+        "sha256": "e557a8086be82d8c5ce9249e35a3fa1aeb8ba83aa1e5e619303a8dc1e2c44f97",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/invincible-301-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20250521.tar.xz",
+            "size": 1366711152
+          }
+        ],
+        "expected_filename_date": "20250521"
+      },
+      "successor_evidence": {
+        "source_map": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-cache-archive-map.json",
+        "source_map_sha256": "07df6768b09300f45368bce76aa0f855dc87c0135f5d2f754100a09fad43a0e6",
+        "source_record_sha256": "1e4fa371e754b224570f2061f2ec86627dd2bf15d7dec04164267cee4d0b18f6",
+        "status": "reused-closed-predecessor"
+      },
+      "worker_archive_relative_path": "invincible-301.cache/cache.20250521.tar.xz"
+    },
+    {
+      "archive": {
+        "filename": "cache.20251116.tar.xz",
+        "filename_date": "20251116",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/last-of-us-206.cache/cache.20251116.tar.xz",
+        "sha256": "ee73cfad9219e2cad6ab22fce4b5d07ec657e69b141b438e41a5094cc4a339f2",
+        "size": 4237545208
+      },
+      "collection_key": "last-of-us-206",
+      "day_cache_validation": {
+        "allow_leading_sparse": false,
+        "authorization": {
+          "archive_mutated": false,
+          "excluded_member_classes": [
+            "hour",
+            "week",
+            "cumulative"
+          ],
+          "raw_samples_opened": false,
+          "scope": "read only streaming of per-torrent day records"
+        },
+        "observed": {
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 181,
+          "post_release_day_products": 0,
+          "sample_end": "2025-11-16",
+          "sample_span_days": 182,
+          "sample_start": "2025-05-19"
+        },
+        "required_collection_key": "last-of-us-206",
+        "required_day_products": 181,
+        "required_sample_days": 182,
+        "required_sample_end": "2025-11-16",
+        "required_sample_start": "2025-05-19",
+        "required_sparse_intervals": [
+          {
+            "days": 1,
+            "first_index": 148,
+            "last_index": 148
+          }
+        ],
+        "reused_evidence": {
+          "kind": "closed-day-product-receipt",
+          "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-day-product-receipts/last-of-us-206.json",
+          "sha256": "042ad62a5166c4a160268790c15de2a24176b27714700dada4f976975d88ba4a"
+        },
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "206, 207",
+        "collection_name": "Last of Us",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 182,
+        "sample_end": "2025-11-16",
+        "sample_start": "2025-05-19",
+        "sha256": "a1a9c8b6f95826127e267d6e08dc26b22aee77426997a390bf7130de4d037231",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/last-of-us-206-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20251116.tar.xz",
+            "size": 4237545208
+          }
+        ],
+        "expected_filename_date": "20251116"
+      },
+      "successor_evidence": {
+        "source_map": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-cache-archive-map.json",
+        "source_map_sha256": "07df6768b09300f45368bce76aa0f855dc87c0135f5d2f754100a09fad43a0e6",
+        "source_record_sha256": "6939bfe8fe13f40f7fa42cedb2f7294e1855b9cee30372257b8768e2a710272a",
+        "status": "reused-closed-predecessor"
+      },
+      "worker_archive_relative_path": "last-of-us-206.cache/cache.20251116.tar.xz"
+    },
+    {
+      "archive": {
+        "filename": "cache.20251006.tar.xz",
+        "filename_date": "20251006",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/lazarus-111.cache/cache.20251006.tar.xz",
+        "sha256": "6f51fe5911f30000d326975db41b03868de0cc0ba32b882f5e15c1d5070ca959",
+        "size": 828322188
+      },
+      "collection_key": "lazarus-111",
+      "day_cache_validation": {
+        "allow_leading_sparse": false,
+        "authorization": {
+          "archive_mutated": false,
+          "excluded_member_classes": [
+            "hour",
+            "week",
+            "cumulative"
+          ],
+          "raw_samples_opened": false,
+          "scope": "read only streaming of per-torrent day records"
+        },
+        "observed": {
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 112,
+          "post_release_day_products": 0,
+          "sample_end": "2025-10-06",
+          "sample_span_days": 113,
+          "sample_start": "2025-06-16"
+        },
+        "required_collection_key": "lazarus-111",
+        "required_day_products": 112,
+        "required_sample_days": 113,
+        "required_sample_end": "2025-10-06",
+        "required_sample_start": "2025-06-16",
+        "required_sparse_intervals": [
+          {
+            "days": 1,
+            "first_index": 106,
+            "last_index": 106
+          }
+        ],
+        "reused_evidence": {
+          "kind": "closed-day-product-receipt",
+          "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-day-product-receipts/lazarus-111.json",
+          "sha256": "2a0c41437943820238b185bb54759f3253d31a0e7b0feb0f82b416097729a5ee"
+        },
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "111, 112, 113",
+        "collection_name": "Lazarus",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 113,
+        "sample_end": "2025-10-06",
+        "sample_start": "2025-06-16",
+        "sha256": "b57ad886f1b8802edeb84a175bcb3ef6ff09afb5c32342889962c73bef6d3973",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/lazarus-111-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20251006.tar.xz",
+            "size": 828322188
+          }
+        ],
+        "expected_filename_date": "20251006"
+      },
+      "successor_evidence": {
+        "source_map": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-cache-archive-map.json",
+        "source_map_sha256": "07df6768b09300f45368bce76aa0f855dc87c0135f5d2f754100a09fad43a0e6",
+        "source_record_sha256": "76aca190c96567f72fafb668a1020768eef43dfd6292e53e8e0381dfdb57d9e3",
+        "status": "reused-closed-predecessor"
+      },
+      "worker_archive_relative_path": "lazarus-111.cache/cache.20251006.tar.xz"
+    },
+    {
+      "archive": {
+        "filename": "cache.20250711.tar.xz",
+        "filename_date": "20250711",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/mid-century-modern-01.cache/cache.20250711.tar.xz",
+        "sha256": "8e21bd71eafdd7d5754adb6891322daedb1cf2989e50719304d178f763ca31c0",
+        "size": 428045772
+      },
+      "collection_key": "mid-century-modern-01",
+      "day_cache_validation": {
+        "allow_leading_sparse": false,
+        "authorization": {
+          "archive_mutated": false,
+          "excluded_member_classes": [
+            "hour",
+            "week",
+            "cumulative"
+          ],
+          "raw_samples_opened": false,
+          "scope": "read only streaming of per-torrent day records"
+        },
+        "observed": {
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 105,
+          "post_release_day_products": 0,
+          "sample_end": "2025-07-11",
+          "sample_span_days": 105,
+          "sample_start": "2025-03-29"
+        },
+        "required_collection_key": "mid-century-modern-01",
+        "required_day_products": 105,
+        "required_sample_days": 105,
+        "required_sample_end": "2025-07-11",
+        "required_sample_start": "2025-03-29",
+        "required_sparse_intervals": [],
+        "reused_evidence": {
+          "kind": "closed-day-product-receipt",
+          "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-day-product-receipts/mid-century-modern-01.json",
+          "sha256": "26d6174ca5baa2240ebbfe853c3cc18560278984ce88e382f7169170e3fc22c3"
+        },
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "1",
+        "collection_name": "Mid Century Modern",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 105,
+        "sample_end": "2025-07-11",
+        "sample_start": "2025-03-29",
+        "sha256": "39a92eea2983a1539322e026f8e60743f06d8019e8f49026b230ef39653ecb17",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/mid-century-modern-01-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20250711.tar.xz",
+            "size": 428045772
+          }
+        ],
+        "expected_filename_date": "20250711"
+      },
+      "successor_evidence": {
+        "source_map": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-cache-archive-map.json",
+        "source_map_sha256": "07df6768b09300f45368bce76aa0f855dc87c0135f5d2f754100a09fad43a0e6",
+        "source_record_sha256": "dd4c37638dc569cd5ec56ed77c9c831f19e06f28243f01816a75f2d88b7bcf68",
+        "status": "reused-closed-predecessor"
+      },
+      "worker_archive_relative_path": "mid-century-modern-01.cache/cache.20250711.tar.xz"
+    },
+    {
+      "archive": {
+        "filename": "cache.20250728.tar.xz",
+        "filename_date": "20250728",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/moana-2.cache/cache.20250728.tar.xz",
+        "sha256": "4a9230dddde2c308104e799920ceed8d939a9478a11d94aba21a17e2502b95b4",
+        "size": 4966346704
+      },
+      "collection_key": "moana-2",
+      "day_cache_validation": {
+        "allow_leading_sparse": false,
+        "authorization": {
+          "archive_mutated": false,
+          "excluded_member_classes": [
+            "hour",
+            "week",
+            "cumulative"
+          ],
+          "raw_samples_opened": false,
+          "scope": "read only streaming of per-torrent day records"
+        },
+        "observed": {
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 182,
+          "post_release_day_products": 0,
+          "sample_end": "2025-07-28",
+          "sample_span_days": 182,
+          "sample_start": "2025-01-28"
+        },
+        "required_collection_key": "moana-2",
+        "required_day_products": 182,
+        "required_sample_days": 182,
+        "required_sample_end": "2025-07-28",
+        "required_sample_start": "2025-01-28",
+        "required_sparse_intervals": [],
+        "reused_evidence": {
+          "kind": "closed-day-product-receipt",
+          "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-day-product-receipts/moana-2.json",
+          "sha256": "425c2430c8630b9f53fd6e93e2674808a4cf715895789d3f937b1b1e01f069c4"
+        },
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "",
+        "collection_name": "Moana 2",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 182,
+        "sample_end": "2025-07-28",
+        "sample_start": "2025-01-28",
+        "sha256": "fdf48458571b3c9b0a323a4f29bfddc379799d136b56fe4a3d585fe1eb8b20db",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/moana-2-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20250728.tar.xz",
+            "size": 4966346704
+          }
+        ],
+        "expected_filename_date": "20250728"
+      },
+      "successor_evidence": {
+        "source_map": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-cache-archive-map.json",
+        "source_map_sha256": "07df6768b09300f45368bce76aa0f855dc87c0135f5d2f754100a09fad43a0e6",
+        "source_record_sha256": "b172da672a1cc2f2722c32e5f156c90ffc3445f4d9734ac2f1094d9214fb306b",
+        "status": "reused-closed-predecessor"
+      },
+      "worker_archive_relative_path": "moana-2.cache/cache.20250728.tar.xz"
+    },
+    {
+      "archive": {
+        "filename": "cache.20250723.tar.xz",
+        "filename_date": "20250723",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/night-agent-02.cache/cache.20250723.tar.xz",
+        "sha256": "f60104421149e677dcc73574e21adb402277ac41c42e6a1e0f6a5bcb2d64dedf",
+        "size": 2591106396
+      },
+      "collection_key": "night-agent-02",
+      "day_cache_validation": {
+        "allow_leading_sparse": false,
+        "authorization": {
+          "archive_mutated": false,
+          "excluded_member_classes": [
+            "hour",
+            "week",
+            "cumulative"
+          ],
+          "raw_samples_opened": false,
+          "scope": "read only streaming of per-torrent day records"
+        },
+        "observed": {
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 170,
+          "post_release_day_products": 0,
+          "sample_end": "2025-07-23",
+          "sample_span_days": 182,
+          "sample_start": "2025-01-23"
+        },
+        "required_collection_key": "night-agent-02",
+        "required_day_products": 170,
+        "required_sample_days": 182,
+        "required_sample_end": "2025-07-23",
+        "required_sample_start": "2025-01-23",
+        "required_sparse_intervals": [
+          {
+            "days": 2,
+            "first_index": 34,
+            "last_index": 35
+          },
+          {
+            "days": 7,
+            "first_index": 113,
+            "last_index": 119
+          },
+          {
+            "days": 3,
+            "first_index": 141,
+            "last_index": 143
+          }
+        ],
+        "reused_evidence": {
+          "kind": "closed-day-product-receipt",
+          "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-day-product-receipts/night-agent-02.json",
+          "sha256": "444ee673cf77989f47bf4bdae08a1f42fa0d3f1b584a7262242b54ecace2617d"
+        },
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "2",
+        "collection_name": "Night Agent",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 182,
+        "sample_end": "2025-07-23",
+        "sample_start": "2025-01-23",
+        "sha256": "2c795a8410e81c8377ed41ae8ee93c1482dc6553d7c38a6cba851c4215bbb51a",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/night-agent-02-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20250723.tar.xz",
+            "size": 2591106396
+          }
+        ],
+        "expected_filename_date": "20250723"
+      },
+      "successor_evidence": {
+        "source_map": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-cache-archive-map.json",
+        "source_map_sha256": "07df6768b09300f45368bce76aa0f855dc87c0135f5d2f754100a09fad43a0e6",
+        "source_record_sha256": "2afaa0221811928ba6d911596f47beeb10f30561f8c04cd921c12ad559f08b57",
+        "status": "reused-closed-predecessor"
+      },
+      "worker_archive_relative_path": "night-agent-02.cache/cache.20250723.tar.xz"
+    },
+    {
+      "archive": {
+        "filename": "cache.20260309.tar.xz",
+        "filename_date": "20260309",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/only-murders-in-the-building-501.cache/cache.20260309.tar.xz",
+        "sha256": "eee8a05c90283b15e98041437cb775c0163d749e78ec5336ec0321a6978dd23d",
+        "size": 1529422068
+      },
+      "collection_key": "only-murders-in-the-building-501",
+      "day_cache_validation": {
+        "allow_leading_sparse": false,
+        "authorization": {
+          "archive_mutated": false,
+          "excluded_member_classes": [
+            "hour",
+            "week",
+            "cumulative"
+          ],
+          "raw_samples_opened": false,
+          "scope": "read only streaming of per-torrent day records"
+        },
+        "observed": {
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 182,
+          "post_release_day_products": 0,
+          "sample_end": "2026-03-09",
+          "sample_span_days": 182,
+          "sample_start": "2025-09-09"
+        },
+        "required_collection_key": "only-murders-in-the-building-501",
+        "required_day_products": 182,
+        "required_sample_days": 182,
+        "required_sample_end": "2026-03-09",
+        "required_sample_start": "2025-09-09",
+        "required_sparse_intervals": [],
+        "reused_evidence": {
+          "kind": "closed-day-product-receipt",
+          "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-day-product-receipts/only-murders-in-the-building-501.json",
+          "sha256": "a575be8e697e67a39801109d71f034a5c1b40932157588360eebe1ef982f5118"
+        },
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "501, 502, 503",
+        "collection_name": "Only Murders In the Building",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 182,
+        "sample_end": "2026-03-09",
+        "sample_start": "2025-09-09",
+        "sha256": "87fe39981536217172cf8c7fa1af41e106bfa550215abb3a2e2caf2aae46ce66",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/only-murders-in-the-building-501-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20260309.tar.xz",
+            "size": 1529422068
+          }
+        ],
+        "expected_filename_date": "20260309"
+      },
+      "successor_evidence": {
+        "source_map": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-cache-archive-map.json",
+        "source_map_sha256": "07df6768b09300f45368bce76aa0f855dc87c0135f5d2f754100a09fad43a0e6",
+        "source_record_sha256": "05b630a357dc88de2fe5f9a133b34dbfa6e57ef2521d6be73b5e88fe4ab0aefb",
+        "status": "reused-closed-predecessor"
+      },
+      "worker_archive_relative_path": "only-murders-in-the-building-501.cache/cache.20260309.tar.xz"
+    },
+    {
+      "archive": {
+        "filename": "cache.20260413.tar.xz",
+        "filename_date": "20260413",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/only-murders-in-the-building-508.cache/cache.20260413.tar.xz",
+        "sha256": "eb79a4a7fee06492ea0f62ea78007717faba8dc60a830e800a5364b233049bfd",
+        "size": 1736841532
+      },
+      "collection_key": "only-murders-in-the-building-508",
+      "day_cache_validation": {
+        "allow_leading_sparse": false,
+        "authorization": {
+          "archive_mutated": false,
+          "excluded_member_classes": [
+            "hour",
+            "week",
+            "cumulative"
+          ],
+          "raw_samples_opened": false,
+          "scope": "read only streaming of per-torrent day records"
+        },
+        "observed": {
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 182,
+          "post_release_day_products": 0,
+          "sample_end": "2026-04-13",
+          "sample_span_days": 182,
+          "sample_start": "2025-10-14"
+        },
+        "required_collection_key": "only-murders-in-the-building-508",
+        "required_day_products": 182,
+        "required_sample_days": 182,
+        "required_sample_end": "2026-04-13",
+        "required_sample_start": "2025-10-14",
+        "required_sparse_intervals": [],
+        "reused_evidence": {
+          "kind": "closed-day-product-receipt",
+          "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-day-product-receipts/only-murders-in-the-building-508.json",
+          "sha256": "f2a462c74ee1cb9f04c12b56d58091339db8c87b8a3272778f3c87e80f45a630"
+        },
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "508, 509, 510",
+        "collection_name": "Only Murders In the Building",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 182,
+        "sample_end": "2026-04-13",
+        "sample_start": "2025-10-14",
+        "sha256": "7a9cca993a353255934ce73fb2bf6749a5614119ea883c0ae8c77d37a0a90f53",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/only-murders-in-the-building-508-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20260413.tar.xz",
+            "size": 1736841532
+          }
+        ],
+        "expected_filename_date": "20260413"
+      },
+      "successor_evidence": {
+        "source_map": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-cache-archive-map.json",
+        "source_map_sha256": "07df6768b09300f45368bce76aa0f855dc87c0135f5d2f754100a09fad43a0e6",
+        "source_record_sha256": "fbe8e7eee5c8d2e4d16dc506e4b52de14deef2c19e1b4813e930e3edbf071506",
+        "status": "reused-closed-predecessor"
+      },
+      "worker_archive_relative_path": "only-murders-in-the-building-508.cache/cache.20260413.tar.xz"
+    },
+    {
+      "archive": {
+        "filename": "cache.20260402.tar.xz",
+        "filename_date": "20260402",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/pluribus-107.cache/cache.20260402.tar.xz",
+        "sha256": "bac00666933421ed4f56420457a3e83ad1c2a3bf9d706cc0d92ee57de2ab7423",
+        "size": 2455610540
+      },
+      "collection_key": "pluribus-107",
+      "day_cache_validation": {
+        "allow_leading_sparse": false,
+        "authorization": {
+          "archive_mutated": false,
+          "excluded_member_classes": [
+            "hour",
+            "week",
+            "cumulative"
+          ],
+          "raw_samples_opened": false,
+          "scope": "read only streaming of per-torrent day records"
+        },
+        "observed": {
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 112,
+          "post_release_day_products": 0,
+          "sample_end": "2026-04-02",
+          "sample_span_days": 112,
+          "sample_start": "2025-12-12"
+        },
+        "required_collection_key": "pluribus-107",
+        "required_day_products": 112,
+        "required_sample_days": 112,
+        "required_sample_end": "2026-04-02",
+        "required_sample_start": "2025-12-12",
+        "required_sparse_intervals": [],
+        "reused_evidence": {
+          "kind": "closed-day-product-receipt",
+          "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-day-product-receipts/pluribus-107.json",
+          "sha256": "98bde2dec83bb1d5ce3fed9ab3e5c0367378b999430e4859d9d9d9df8e0a8827"
+        },
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "107, 108, 109",
+        "collection_name": "Pluribus",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 112,
+        "sample_end": "2026-04-02",
+        "sample_start": "2025-12-12",
+        "sha256": "f5af4f92fd30ce8f54b0f53f632d64cde746475a82751d20955656e4b7f8bf6d",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/pluribus-107-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20260402.tar.xz",
+            "size": 2455610540
+          }
+        ],
+        "expected_filename_date": "20260402"
+      },
+      "successor_evidence": {
+        "source_map": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-cache-archive-map.json",
+        "source_map_sha256": "07df6768b09300f45368bce76aa0f855dc87c0135f5d2f754100a09fad43a0e6",
+        "source_record_sha256": "509b8953b45d1b1fe0ae16261813e74b24e12cd49dbff3f515c015c3bf1df139",
+        "status": "reused-closed-predecessor"
+      },
+      "worker_archive_relative_path": "pluribus-107.cache/cache.20260402.tar.xz"
+    },
+    {
+      "archive": {
+        "filename": "cache.20260610.tar.xz",
+        "filename_date": "20260610",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/predator-badlands.cache/cache.20260610.tar.xz",
+        "sha256": "4460656c95f33ee65c970fb9dcc28fa928bfaca4346a8e5eafdfe35f50cdfe8c",
+        "size": 3206384196
+      },
+      "collection_key": "predator-badlands",
+      "day_cache_validation": {
+        "allow_leading_sparse": false,
+        "authorization": {
+          "archive_mutated": false,
+          "excluded_member_classes": [
+            "hour",
+            "week",
+            "cumulative"
+          ],
+          "raw_samples_opened": false,
+          "scope": "read only streaming of per-torrent day records"
+        },
+        "observed": {
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 182,
+          "post_release_day_products": 0,
+          "sample_end": "2026-06-10",
+          "sample_span_days": 182,
+          "sample_start": "2025-12-11"
+        },
+        "required_collection_key": "predator-badlands",
+        "required_day_products": 182,
+        "required_sample_days": 182,
+        "required_sample_end": "2026-06-10",
+        "required_sample_start": "2025-12-11",
+        "required_sparse_intervals": [],
+        "reused_evidence": {
+          "kind": "closed-day-product-receipt",
+          "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-day-product-receipts/predator-badlands.json",
+          "sha256": "fa06bb821d493801a1165a41153fa2d8dfa4886011b0db5b57d723d72d130b42"
+        },
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "",
+        "collection_name": "Predator Badlands",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 182,
+        "sample_end": "2026-06-10",
+        "sample_start": "2025-12-11",
+        "sha256": "97c8d271af97c5cd8a61c042a65d546b77851906cb27d0ae7292492b1c178cfd",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/predator-badlands-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20260415.tar.xz",
+            "size": 2387566920
+          },
+          {
+            "filename": "cache.20260506.tar.xz",
+            "size": 2764389056
+          },
+          {
+            "filename": "cache.20260610.tar.xz",
+            "size": 3206384196
+          }
+        ],
+        "expected_filename_date": "20260610"
+      },
+      "successor_evidence": {
+        "source_map": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-cache-archive-map.json",
+        "source_map_sha256": "07df6768b09300f45368bce76aa0f855dc87c0135f5d2f754100a09fad43a0e6",
+        "source_record_sha256": "e1aff7ba5955b4e801f85aae4cc669b6bb708f19ca2ea357b4a3c83c853a8f72",
+        "status": "reused-closed-predecessor"
+      },
+      "worker_archive_relative_path": "predator-badlands.cache/cache.20260610.tar.xz"
+    },
+    {
+      "archive": {
+        "filename": "cache.20250927.tar.xz",
+        "filename_date": "20250927",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/predator-killer-of-killers.cache/cache.20250927.tar.xz",
+        "sha256": "3c359c5638ebaafd10fd4a711f9af3f1e937c6f42c70c07a32629e017fba6b2f",
+        "size": 1098703688
+      },
+      "collection_key": "predator-killer-of-killers",
+      "day_cache_validation": {
+        "allow_leading_sparse": false,
+        "authorization": {
+          "archive_mutated": false,
+          "excluded_member_classes": [
+            "hour",
+            "week",
+            "cumulative"
+          ],
+          "raw_samples_opened": false,
+          "scope": "read only streaming of per-torrent day records"
+        },
+        "observed": {
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 104,
+          "post_release_day_products": 0,
+          "sample_end": "2025-09-27",
+          "sample_span_days": 112,
+          "sample_start": "2025-06-08"
+        },
+        "required_collection_key": "predator-killer-of-killers",
+        "required_day_products": 104,
+        "required_sample_days": 112,
+        "required_sample_end": "2025-09-27",
+        "required_sample_start": "2025-06-08",
+        "required_sparse_intervals": [
+          {
+            "days": 7,
+            "first_index": 57,
+            "last_index": 63
+          },
+          {
+            "days": 1,
+            "first_index": 106,
+            "last_index": 106
+          }
+        ],
+        "reused_evidence": {
+          "kind": "closed-day-product-receipt",
+          "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-day-product-receipts/predator-killer-of-killers.json",
+          "sha256": "afdc09a61239d869e7db34c2cdaf4ea3237c6d46f7d5764befefb1a72f8b3e7a"
+        },
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "",
+        "collection_name": "Predator Killer of Killers",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 112,
+        "sample_end": "2025-09-27",
+        "sample_start": "2025-06-08",
+        "sha256": "dd711f916b481ea2be91a9c25674ae99f95a0721600697101863d5fabc07cb4f",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/predator-killer-of-killers-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20250927.tar.xz",
+            "size": 1098703688
+          }
+        ],
+        "expected_filename_date": "20250927"
+      },
+      "successor_evidence": {
+        "source_map": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-cache-archive-map.json",
+        "source_map_sha256": "07df6768b09300f45368bce76aa0f855dc87c0135f5d2f754100a09fad43a0e6",
+        "source_record_sha256": "825d2d9564d95a9c31495abefbf195bcc175ecbf6b6337c1a8448ed4aee98cbf",
+        "status": "reused-closed-predecessor"
+      },
+      "worker_archive_relative_path": "predator-killer-of-killers.cache/cache.20250927.tar.xz"
+    },
+    {
+      "archive": {
+        "filename": "cache.20260527.tar.xz",
+        "filename_date": "20260527",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/prehistoric-planet-03.cache/cache.20260527.tar.xz",
+        "sha256": "a25433532953c4cbebce26f619fcc01580755b30c1a26fb6c3d167844767517d",
+        "size": 1250806864
+      },
+      "collection_key": "prehistoric-planet-03",
+      "day_cache_validation": {
+        "allow_leading_sparse": false,
+        "authorization": {
+          "archive_mutated": false,
+          "excluded_member_classes": [
+            "hour",
+            "week",
+            "cumulative"
+          ],
+          "raw_samples_opened": false,
+          "scope": "read only streaming of per-torrent day records"
+        },
+        "observed": {
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 174,
+          "post_release_day_products": 0,
+          "sample_end": "2026-05-27",
+          "sample_span_days": 182,
+          "sample_start": "2025-11-27"
+        },
+        "required_collection_key": "prehistoric-planet-03",
+        "required_day_products": 174,
+        "required_sample_days": 182,
+        "required_sample_end": "2026-05-27",
+        "required_sample_start": "2025-11-27",
+        "required_sparse_intervals": [
+          {
+            "days": 8,
+            "first_index": 43,
+            "last_index": 50
+          }
+        ],
+        "reused_evidence": {
+          "kind": "closed-day-product-receipt",
+          "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-day-product-receipts/prehistoric-planet-03.json",
+          "sha256": "bf04d6fe81ade38c35100414badd90b008bf2235b12b8b5e7cbee1bb8d8edbd2"
+        },
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "3",
+        "collection_name": "Prehistoric Planet",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 182,
+        "sample_end": "2026-05-27",
+        "sample_start": "2025-11-27",
+        "sha256": "f8d4969d6074acad731a60398fde19d1c0baed45071f483d95a82be4b8a22ddf",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/prehistoric-planet-03-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20260527.tar.xz",
+            "size": 1250806864
+          }
+        ],
+        "expected_filename_date": "20260527"
+      },
+      "successor_evidence": {
+        "source_map": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-cache-archive-map.json",
+        "source_map_sha256": "07df6768b09300f45368bce76aa0f855dc87c0135f5d2f754100a09fad43a0e6",
+        "source_record_sha256": "270b676415601789a8dde96ccdecd88b461c8a56be5c62197dea4e8aa9a7b342",
+        "status": "reused-closed-predecessor"
+      },
+      "worker_archive_relative_path": "prehistoric-planet-03.cache/cache.20260527.tar.xz"
+    },
+    {
+      "archive": {
+        "filename": "cache.20250820.tar.xz",
+        "filename_date": "20250820",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/reacher-301.cache/cache.20250820.tar.xz",
+        "sha256": "747d5e182c056764a68eaba5950c0405228a1751db3aa2cf82586806a074580d",
+        "size": 2544520944
+      },
+      "collection_key": "reacher-301",
+      "day_cache_validation": {
+        "allow_leading_sparse": false,
+        "authorization": {
+          "archive_mutated": false,
+          "excluded_member_classes": [
+            "hour",
+            "week",
+            "cumulative"
+          ],
+          "raw_samples_opened": false,
+          "scope": "read only streaming of per-torrent day records"
+        },
+        "observed": {
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 180,
+          "post_release_day_products": 0,
+          "sample_end": "2025-08-20",
+          "sample_span_days": 182,
+          "sample_start": "2025-02-20"
+        },
+        "required_collection_key": "reacher-301",
+        "required_day_products": 180,
+        "required_sample_days": 182,
+        "required_sample_end": "2025-08-20",
+        "required_sample_start": "2025-02-20",
+        "required_sparse_intervals": [
+          {
+            "days": 1,
+            "first_index": 2,
+            "last_index": 2
+          },
+          {
+            "days": 1,
+            "first_index": 16,
+            "last_index": 16
+          }
+        ],
+        "reused_evidence": {
+          "kind": "closed-day-product-receipt",
+          "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-day-product-receipts/reacher-301.json",
+          "sha256": "fbfbf93c1f96884a5d3f7227813edc138eefaa7ba967b47201ef24c6039c4585"
+        },
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "301",
+        "collection_name": "Reacher",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 182,
+        "sample_end": "2025-08-20",
+        "sample_start": "2025-02-20",
+        "sha256": "6adf43bf773449cbba691f4e692cf36b7d0303a1f41b0565b785a266fe1e773f",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/reacher-301-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20250820.tar.xz",
+            "size": 2544520944
+          }
+        ],
+        "expected_filename_date": "20250820"
+      },
+      "successor_evidence": {
+        "source_map": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-cache-archive-map.json",
+        "source_map_sha256": "07df6768b09300f45368bce76aa0f855dc87c0135f5d2f754100a09fad43a0e6",
+        "source_record_sha256": "69546c38e5fcfc684ab52fa7e4141464a03757578fda25d41b5de24e83d4b85e",
+        "status": "reused-closed-predecessor"
+      },
+      "worker_archive_relative_path": "reacher-301.cache/cache.20250820.tar.xz"
+    },
+    {
+      "archive": {
+        "filename": "cache.20260601.tar.xz",
+        "filename_date": "20260601",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/sean-combs-the-reckoning.cache/cache.20260601.tar.xz",
+        "sha256": "b25759c94d4b6026d7fbbb94ec2010e08b51d29f3be7336aec8069858eabd200",
+        "size": 1128873024
+      },
+      "collection_key": "sean-combs-the-reckoning",
+      "day_cache_validation": {
+        "allow_leading_sparse": false,
+        "authorization": {
+          "archive_mutated": false,
+          "excluded_member_classes": [
+            "hour",
+            "week",
+            "cumulative"
+          ],
+          "raw_samples_opened": false,
+          "scope": "read only streaming of per-torrent day records"
+        },
+        "observed": {
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 182,
+          "post_release_day_products": 0,
+          "sample_end": "2026-06-01",
+          "sample_span_days": 182,
+          "sample_start": "2025-12-02"
+        },
+        "required_collection_key": "sean-combs-the-reckoning",
+        "required_day_products": 182,
+        "required_sample_days": 182,
+        "required_sample_end": "2026-06-01",
+        "required_sample_start": "2025-12-02",
+        "required_sparse_intervals": [],
+        "reused_evidence": {
+          "kind": "closed-day-product-receipt",
+          "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-day-product-receipts/sean-combs-the-reckoning.json",
+          "sha256": "3a4f3c1bbea5678372c0a4f2904c047263cb3c81759eb1a6b996f4d0eb50ef3f"
+        },
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "",
+        "collection_name": "Sean Combs: The Reckoning",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 182,
+        "sample_end": "2026-06-01",
+        "sample_start": "2025-12-02",
+        "sha256": "e48dc65f086689dcab0b8091102e8b112d9f985f796026890ad6ac12e2591a53",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/sean-combs-the-reckoning-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20260316.tar.xz",
+            "size": 776094516
+          },
+          {
+            "filename": "cache.20260413.tar.xz",
+            "size": 932667424
+          },
+          {
+            "filename": "cache.20260601.tar.xz",
+            "size": 1128873024
+          }
+        ],
+        "expected_filename_date": "20260601"
+      },
+      "successor_evidence": {
+        "source_map": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-cache-archive-map.json",
+        "source_map_sha256": "07df6768b09300f45368bce76aa0f855dc87c0135f5d2f754100a09fad43a0e6",
+        "source_record_sha256": "9516e5250e24e3fef382cb10c384fcc015ca14e42c0e6609abf79832a059e71e",
+        "status": "reused-closed-predecessor"
+      },
+      "worker_archive_relative_path": "sean-combs-the-reckoning.cache/cache.20260601.tar.xz"
+    },
+    {
+      "archive": {
+        "filename": "cache.20250717.tar.xz",
+        "filename_date": "20250717",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/severance-201.cache/cache.20250717.tar.xz",
+        "sha256": "a5ebbb173507d488347adc3ac23582bef8798ad5f95ed7516400ac6aa86bcb39",
+        "size": 3591874788
+      },
+      "collection_key": "severance-201",
+      "day_cache_validation": {
+        "allow_leading_sparse": false,
+        "authorization": {
+          "archive_mutated": false,
+          "excluded_member_classes": [
+            "hour",
+            "week",
+            "cumulative"
+          ],
+          "raw_samples_opened": false,
+          "scope": "read only streaming of per-torrent day records"
+        },
+        "observed": {
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 182,
+          "post_release_day_products": 0,
+          "sample_end": "2025-07-17",
+          "sample_span_days": 182,
+          "sample_start": "2025-01-17"
+        },
+        "required_collection_key": "severance-201",
+        "required_day_products": 182,
+        "required_sample_days": 182,
+        "required_sample_end": "2025-07-17",
+        "required_sample_start": "2025-01-17",
+        "required_sparse_intervals": [],
+        "reused_evidence": {
+          "kind": "closed-day-product-receipt",
+          "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-day-product-receipts/severance-201.json",
+          "sha256": "6666b9d1850548284042ad50f5dbbd19aeacb7d22e313ec7d7b1075f0f405b62"
+        },
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "201, 202",
+        "collection_name": "Severance",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 182,
+        "sample_end": "2025-07-17",
+        "sample_start": "2025-01-17",
+        "sha256": "3b77d37a5232ad59a192ffc11a849715b9557012f2be017796af693b9211de6f",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/severance-201-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20250717.tar.xz",
+            "size": 3591874788
+          }
+        ],
+        "expected_filename_date": "20250717"
+      },
+      "successor_evidence": {
+        "source_map": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-cache-archive-map.json",
+        "source_map_sha256": "07df6768b09300f45368bce76aa0f855dc87c0135f5d2f754100a09fad43a0e6",
+        "source_record_sha256": "8a667256dcedd36e99a56a18e4c02d3f12e77cfa5fb894e6c3d116414c12bfc6",
+        "status": "reused-closed-predecessor"
+      },
+      "worker_archive_relative_path": "severance-201.cache/cache.20250717.tar.xz"
+    },
+    {
+      "archive": {
+        "filename": "cache.20251128.tar.xz",
+        "filename_date": "20251128",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/sinners-2025.cache/cache.20251128.tar.xz",
+        "sha256": "20b06aaa33e3b372fd0cffe482e3a8e027d8953a53cfcc1f55e194e8a7a00deb",
+        "size": 3764450724
+      },
+      "collection_key": "sinners-2025",
+      "day_cache_validation": {
+        "allow_leading_sparse": false,
+        "authorization": {
+          "archive_mutated": false,
+          "excluded_member_classes": [
+            "hour",
+            "week",
+            "cumulative"
+          ],
+          "raw_samples_opened": false,
+          "scope": "read only streaming of per-torrent day records"
+        },
+        "observed": {
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 183,
+          "post_release_day_products": 0,
+          "sample_end": "2025-11-28",
+          "sample_span_days": 183,
+          "sample_start": "2025-05-30"
+        },
+        "required_collection_key": "sinners-2025",
+        "required_day_products": 183,
+        "required_sample_days": 183,
+        "required_sample_end": "2025-11-28",
+        "required_sample_start": "2025-05-30",
+        "required_sparse_intervals": [],
+        "reused_evidence": {
+          "kind": "closed-day-product-receipt",
+          "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-day-product-receipts/sinners-2025.json",
+          "sha256": "75723a424e0ea1adb7e07f437168251835fed15aebeeacc875efe07edaa0e6f0"
+        },
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "2025",
+        "collection_name": "Sinners",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 183,
+        "sample_end": "2025-11-28",
+        "sample_start": "2025-05-30",
+        "sha256": "304160d5e637d8826697c0961358f7d243e003b821457fe377f84174189da304",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/sinners-2025-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20251128.tar.xz",
+            "size": 3764450724
+          }
+        ],
+        "expected_filename_date": "20251128"
+      },
+      "successor_evidence": {
+        "source_map": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-cache-archive-map.json",
+        "source_map_sha256": "07df6768b09300f45368bce76aa0f855dc87c0135f5d2f754100a09fad43a0e6",
+        "source_record_sha256": "f6e4b4c007cb1082741ef7c87560dfe1f2a3f6890e3a5eb0f5951959f7f796a7",
+        "status": "reused-closed-predecessor"
+      },
+      "worker_archive_relative_path": "sinners-2025.cache/cache.20251128.tar.xz"
+    },
+    {
+      "archive": {
+        "filename": "cache.20260122.tar.xz",
+        "filename_date": "20260122",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/south-park-27.cache/cache.20260122.tar.xz",
+        "sha256": "022ca3b694b02695f4e40aabd99c95bdfdff0e558c6a00fe216cbc0301439aa6",
+        "size": 3376567868
+      },
+      "collection_key": "south-park-27",
+      "day_cache_validation": {
+        "allow_leading_sparse": false,
+        "authorization": {
+          "archive_mutated": false,
+          "excluded_member_classes": [
+            "hour",
+            "week",
+            "cumulative"
+          ],
+          "raw_samples_opened": false,
+          "scope": "read only streaming of per-torrent day records"
+        },
+        "observed": {
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 182,
+          "post_release_day_products": 0,
+          "sample_end": "2026-01-22",
+          "sample_span_days": 182,
+          "sample_start": "2025-07-25"
+        },
+        "required_collection_key": "south-park-27",
+        "required_day_products": 182,
+        "required_sample_days": 182,
+        "required_sample_end": "2026-01-22",
+        "required_sample_start": "2025-07-25",
+        "required_sparse_intervals": [],
+        "reused_evidence": {
+          "kind": "closed-day-product-receipt",
+          "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-day-product-receipts/south-park-27.json",
+          "sha256": "48a802ead3d2a692d616dacf69583f5113486b6b73104ae552e5bcf382531b98"
+        },
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "2701, 2702, 2703, 2704, 2705",
+        "collection_name": "South Park",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 182,
+        "sample_end": "2026-01-22",
+        "sample_start": "2025-07-25",
+        "sha256": "d72d226df0987ef625892348013e3ae6919fb6d8fb5f72926f019845ba38b05d",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/south-park-27-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20260122.tar.xz",
+            "size": 3376567868
+          }
+        ],
+        "expected_filename_date": "20260122"
+      },
+      "successor_evidence": {
+        "source_map": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-cache-archive-map.json",
+        "source_map_sha256": "07df6768b09300f45368bce76aa0f855dc87c0135f5d2f754100a09fad43a0e6",
+        "source_record_sha256": "32c45b71a4019dcc6341b696bbcd7c519be79d9a1e687bf365c195f2e55eaf8d",
+        "status": "reused-closed-predecessor"
+      },
+      "worker_archive_relative_path": "south-park-27.cache/cache.20260122.tar.xz"
+    },
+    {
+      "archive": {
+        "filename": "cache.20260603.tar.xz",
+        "filename_date": "20260603",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/stranger-things-05.1.cache/cache.20260603.tar.xz",
+        "sha256": "d36a9ebf75fc6b5b99d594345a8f9e8e43b9dc04dc8b62d7e43f63867e1b8f69",
+        "size": 5072249976
+      },
+      "collection_key": "stranger-things-05.1",
+      "day_cache_validation": {
+        "allow_leading_sparse": false,
+        "authorization": {
+          "archive_mutated": false,
+          "excluded_member_classes": [
+            "hour",
+            "week",
+            "cumulative"
+          ],
+          "raw_samples_opened": false,
+          "scope": "read only streaming of per-torrent day records"
+        },
+        "observed": {
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 189,
+          "post_release_day_products": 0,
+          "sample_end": "2026-06-03",
+          "sample_span_days": 189,
+          "sample_start": "2025-11-27"
+        },
+        "required_collection_key": "stranger-things-05.1",
+        "required_day_products": 189,
+        "required_sample_days": 189,
+        "required_sample_end": "2026-06-03",
+        "required_sample_start": "2025-11-27",
+        "required_sparse_intervals": [],
+        "reused_evidence": {
+          "kind": "closed-day-product-receipt",
+          "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-day-product-receipts/stranger-things-05.1.json",
+          "sha256": "c86adbc7ab60dbe0beeb2a174be6563ccacc6a8e91142c49a369babea42f1645"
+        },
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "5.1",
+        "collection_name": "Stranger Things",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 189,
+        "sample_end": "2026-06-03",
+        "sample_start": "2025-11-27",
+        "sha256": "fa2d42e6d939c2f70ad498212d6573568df0c8a766f503cffcc6eefa7fa331f8",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/stranger-things-05.1-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20260415.tar.xz",
+            "size": 2542563844
+          },
+          {
+            "filename": "cache.20260603.tar.xz",
+            "size": 5072249976
+          }
+        ],
+        "expected_filename_date": "20260603"
+      },
+      "successor_evidence": {
+        "source_map": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-cache-archive-map.json",
+        "source_map_sha256": "07df6768b09300f45368bce76aa0f855dc87c0135f5d2f754100a09fad43a0e6",
+        "source_record_sha256": "1f9e0af1f0ffad5d6f5ac4f65d0b87aaa4aca4180a84786615bc98589075a699",
+        "status": "reused-closed-predecessor"
+      },
+      "worker_archive_relative_path": "stranger-things-05.1.cache/cache.20260603.tar.xz"
+    },
+    {
+      "archive": {
+        "filename": "cache.20250708.tar.xz",
+        "filename_date": "20250708",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/studio-2025-101.cache/cache.20250708.tar.xz",
+        "sha256": "b29658e60ebaec8187666db5f0c1951169da99dc85021504ffd2ae07e380aaba",
+        "size": 997817428
+      },
+      "collection_key": "studio-2025-101",
+      "day_cache_validation": {
+        "allow_leading_sparse": false,
+        "authorization": {
+          "archive_mutated": false,
+          "excluded_member_classes": [
+            "hour",
+            "week",
+            "cumulative"
+          ],
+          "raw_samples_opened": false,
+          "scope": "read only streaming of per-torrent day records"
+        },
+        "observed": {
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 105,
+          "post_release_day_products": 0,
+          "sample_end": "2025-07-08",
+          "sample_span_days": 105,
+          "sample_start": "2025-03-26"
+        },
+        "required_collection_key": "studio-2025-101",
+        "required_day_products": 105,
+        "required_sample_days": 105,
+        "required_sample_end": "2025-07-08",
+        "required_sample_start": "2025-03-26",
+        "required_sparse_intervals": [],
+        "reused_evidence": {
+          "kind": "closed-day-product-receipt",
+          "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-day-product-receipts/studio-2025-101.json",
+          "sha256": "83b740865bff2cce133f9f09b3c4ee707e93f82065182d421633ed80b3e4356c"
+        },
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "101, 102, 103",
+        "collection_name": "The Studio 2025",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 105,
+        "sample_end": "2025-07-08",
+        "sample_start": "2025-03-26",
+        "sha256": "e0881678c2b2e4c9524068c82d546bd78a4204449c5a2e03e6dad3516e10f5b1",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/studio-2025-101-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20250708.tar.xz",
+            "size": 997817428
+          }
+        ],
+        "expected_filename_date": "20250708"
+      },
+      "successor_evidence": {
+        "source_map": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-cache-archive-map.json",
+        "source_map_sha256": "07df6768b09300f45368bce76aa0f855dc87c0135f5d2f754100a09fad43a0e6",
+        "source_record_sha256": "89ea6129d7b4789666dce9751763f9a84d5032995e5606e8c3002b5c759eb1d7",
+        "status": "reused-closed-predecessor"
+      },
+      "worker_archive_relative_path": "studio-2025-101.cache/cache.20250708.tar.xz"
+    },
+    {
+      "archive": {
+        "filename": "cache.20260601.tar.xz",
+        "filename_date": "20260601",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/tron-ares.cache/cache.20260601.tar.xz",
+        "sha256": "6f0c1cace86ad763236c1798aa9405b3cd29232299ce5f19a90e8d1e0b344119",
+        "size": 3153525728
+      },
+      "collection_key": "tron-ares",
+      "day_cache_validation": {
+        "allow_leading_sparse": false,
+        "authorization": {
+          "archive_mutated": false,
+          "excluded_member_classes": [
+            "hour",
+            "week",
+            "cumulative"
+          ],
+          "raw_samples_opened": false,
+          "scope": "read only streaming of per-torrent day records"
+        },
+        "observed": {
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 182,
+          "post_release_day_products": 0,
+          "sample_end": "2026-06-01",
+          "sample_span_days": 182,
+          "sample_start": "2025-12-02"
+        },
+        "required_collection_key": "tron-ares",
+        "required_day_products": 182,
+        "required_sample_days": 182,
+        "required_sample_end": "2026-06-01",
+        "required_sample_start": "2025-12-02",
+        "required_sparse_intervals": [],
+        "reused_evidence": {
+          "kind": "closed-day-product-receipt",
+          "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-day-product-receipts/tron-ares.json",
+          "sha256": "6727273e2e4245962e1c855d4eb741349fc7a3d024dde08f28871e57c93ee120"
+        },
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "",
+        "collection_name": "Tron Ares",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 182,
+        "sample_end": "2026-06-01",
+        "sample_start": "2025-12-02",
+        "sha256": "b3b5539827778ade87bf0761f14ba674dbed35458cf03bb033d4d7447f75acbb",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/tron-ares-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20260330.tar.xz",
+            "size": 1876989028
+          },
+          {
+            "filename": "cache.20260420.tar.xz",
+            "size": 2194858608
+          },
+          {
+            "filename": "cache.20260601.tar.xz",
+            "size": 3153525728
+          }
+        ],
+        "expected_filename_date": "20260601"
+      },
+      "successor_evidence": {
+        "source_map": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-cache-archive-map.json",
+        "source_map_sha256": "07df6768b09300f45368bce76aa0f855dc87c0135f5d2f754100a09fad43a0e6",
+        "source_record_sha256": "af1827102c45ef6de944188f82edf089fba85cea02493956bf8a8d39909f61b3",
+        "status": "reused-closed-predecessor"
+      },
+      "worker_archive_relative_path": "tron-ares.cache/cache.20260601.tar.xz"
+    },
+    {
+      "archive": {
+        "filename": "cache.20260203.tar.xz",
+        "filename_date": "20260203",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/wednesday-02.1.cache/cache.20260203.tar.xz",
+        "sha256": "96734cb7944f4a915b198b4ec0783093a36226caef200ebdbf3515dff91656f2",
+        "size": 4077486932
+      },
+      "collection_key": "wednesday-02.1",
+      "day_cache_validation": {
+        "allow_leading_sparse": false,
+        "authorization": {
+          "archive_mutated": false,
+          "excluded_member_classes": [
+            "hour",
+            "week",
+            "cumulative"
+          ],
+          "raw_samples_opened": false,
+          "scope": "read only streaming of per-torrent day records"
+        },
+        "observed": {
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 179,
+          "post_release_day_products": 0,
+          "sample_end": "2026-02-03",
+          "sample_span_days": 182,
+          "sample_start": "2025-08-06"
+        },
+        "required_collection_key": "wednesday-02.1",
+        "required_day_products": 179,
+        "required_sample_days": 182,
+        "required_sample_end": "2026-02-03",
+        "required_sample_start": "2025-08-06",
+        "required_sparse_intervals": [
+          {
+            "days": 3,
+            "first_index": 138,
+            "last_index": 140
+          }
+        ],
+        "reused_evidence": {
+          "kind": "closed-day-product-receipt",
+          "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-day-product-receipts/wednesday-02.1.json",
+          "sha256": "81f422b64bd0ac6cfbfc53a40692574c3aa12dfeb80ed2b8f7936d66e054ebbe"
+        },
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "201, 202, 203, 204",
+        "collection_name": "Wednesday",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 182,
+        "sample_end": "2026-02-03",
+        "sample_start": "2025-08-06",
+        "sha256": "872701baf6f9bfb97b9e4c68f193e5b0b64513ccd189e6b8fff58cb9f8cf6cc5",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/wednesday-02.1-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20260203.tar.xz",
+            "size": 4077486932
+          }
+        ],
+        "expected_filename_date": "20260203"
+      },
+      "successor_evidence": {
+        "source_map": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-cache-archive-map.json",
+        "source_map_sha256": "07df6768b09300f45368bce76aa0f855dc87c0135f5d2f754100a09fad43a0e6",
+        "source_record_sha256": "a72aab692ef2efdc6af7d1682431d6d349f082495556d2dd7f1525d85f0b2100",
+        "status": "reused-closed-predecessor"
+      },
+      "worker_archive_relative_path": "wednesday-02.1.cache/cache.20260203.tar.xz"
+    },
+    {
+      "archive": {
+        "filename": "cache.20251005.tar.xz",
+        "filename_date": "20251005",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/white-lotus-307.cache/cache.20251005.tar.xz",
+        "sha256": "3394f847745623075f3987f595c3c9ebaa6f01585bb887052f5a9f65f9e06dcd",
+        "size": 2232976420
+      },
+      "collection_key": "white-lotus-307",
+      "day_cache_validation": {
+        "allow_leading_sparse": false,
+        "authorization": {
+          "archive_mutated": false,
+          "excluded_member_classes": [
+            "hour",
+            "week",
+            "cumulative"
+          ],
+          "raw_samples_opened": false,
+          "scope": "read only streaming of per-torrent day records"
+        },
+        "observed": {
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 184,
+          "post_release_day_products": 0,
+          "sample_end": "2025-10-05",
+          "sample_span_days": 189,
+          "sample_start": "2025-03-31"
+        },
+        "required_collection_key": "white-lotus-307",
+        "required_day_products": 184,
+        "required_sample_days": 189,
+        "required_sample_end": "2025-10-05",
+        "required_sample_start": "2025-03-31",
+        "required_sparse_intervals": [
+          {
+            "days": 5,
+            "first_index": 22,
+            "last_index": 26
+          }
+        ],
+        "reused_evidence": {
+          "kind": "closed-day-product-receipt",
+          "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-day-product-receipts/white-lotus-307.json",
+          "sha256": "2751c0f9ef9d759eb935446393c43b7e30177f013e0b6df7c8437abe13057037"
+        },
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "307",
+        "collection_name": "White Lotus",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 189,
+        "sample_end": "2025-10-05",
+        "sample_start": "2025-03-31",
+        "sha256": "7b43d21e7e96a33243623cd362a7b8293ccf4a0869fa068fb4de72edb808b298",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/white-lotus-307-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20251005.tar.xz",
+            "size": 2232976420
+          }
+        ],
+        "expected_filename_date": "20251005"
+      },
+      "successor_evidence": {
+        "source_map": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-cache-archive-map.json",
+        "source_map_sha256": "07df6768b09300f45368bce76aa0f855dc87c0135f5d2f754100a09fad43a0e6",
+        "source_record_sha256": "2933628769ace1a883fab9a6bd38ee81cc9877e25a0836bd0602b560b9f28e78",
+        "status": "reused-closed-predecessor"
+      },
+      "worker_archive_relative_path": "white-lotus-307.cache/cache.20251005.tar.xz"
+    },
+    {
+      "archive": {
+        "filename": "cache.20250702.tar.xz",
+        "filename_date": "20250702",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/wicked-2024.cache/cache.20250702.tar.xz",
+        "sha256": "a16f8f7c25bc13475106235e2e50c998065fec8a2719c5248b12f97c640636ef",
+        "size": 3743108468
+      },
+      "collection_key": "wicked-2024",
+      "day_cache_validation": {
+        "allow_leading_sparse": false,
+        "authorization": {
+          "archive_mutated": false,
+          "excluded_member_classes": [
+            "hour",
+            "week",
+            "cumulative"
+          ],
+          "raw_samples_opened": false,
+          "scope": "read only streaming of per-torrent day records"
+        },
+        "observed": {
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 179,
+          "post_release_day_products": 0,
+          "sample_end": "2025-07-02",
+          "sample_span_days": 182,
+          "sample_start": "2025-01-02"
+        },
+        "required_collection_key": "wicked-2024",
+        "required_day_products": 179,
+        "required_sample_days": 182,
+        "required_sample_end": "2025-07-02",
+        "required_sample_start": "2025-01-02",
+        "required_sparse_intervals": [
+          {
+            "days": 1,
+            "first_index": 39,
+            "last_index": 39
+          },
+          {
+            "days": 1,
+            "first_index": 51,
+            "last_index": 51
+          },
+          {
+            "days": 1,
+            "first_index": 65,
+            "last_index": 65
+          }
+        ],
+        "reused_evidence": {
+          "kind": "closed-day-product-receipt",
+          "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-day-product-receipts/wicked-2024.json",
+          "sha256": "dfc09da10ebefa4756442d3438a281c75592cb611b80b6cd1a398ee9ff93dbce"
+        },
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "",
+        "collection_name": "Wicked Part 1",
+        "data_version": "2026-06-18",
+        "ip_geolocation_version": "6:1777968300",
+        "sample_days": 182,
+        "sample_end": "2025-07-02",
+        "sample_start": "2025-01-02",
+        "sha256": "3a422140100fa7146a4f085181badfc232a1281d886f0e36b577fc37c3669b1b",
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/wicked-2024-week.json"
+      },
+      "selection": {
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20250702.tar.xz",
+            "size": 3743108468
+          }
+        ],
+        "expected_filename_date": "20250702"
+      },
+      "successor_evidence": {
+        "source_map": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-cache-archive-map.json",
+        "source_map_sha256": "07df6768b09300f45368bce76aa0f855dc87c0135f5d2f754100a09fad43a0e6",
+        "source_record_sha256": "691a3bd830c3f574d04be14bc76628bbc70d0407746811d311fe2d88dba01906",
+        "status": "reused-closed-predecessor"
+      },
+      "worker_archive_relative_path": "wicked-2024.cache/cache.20250702.tar.xz"
+    }
+  ],
+  "schema": "alpha60-year-day-worker-map/1",
+  "source_map_sha256": "dba9d6d99a32e5a1ad1c59d582ea6ccf6dfdc970fb42aaa4013ac1f4c34ea30e",
+  "status": "pass",
+  "year": "2025"
+}
