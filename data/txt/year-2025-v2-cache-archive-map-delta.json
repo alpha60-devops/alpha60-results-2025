@@ -1,0 +1,181 @@
+{
+  "assignment_policy": "largest-archive-first-minimum-assigned-bytes",
+  "cache_root": "/mnt/gold/src/alpha60-samples-cache.gold",
+  "counts": {
+    "approved_filename_date_mismatches": 0,
+    "approved_observed_endpoint_mismatches": 0,
+    "checkpoint_records_reused": 2,
+    "day_member_streams_validated": 2,
+    "eligible_archives": 3,
+    "post_release_archive_records": 0,
+    "records": 2,
+    "sample_end_matches": 2,
+    "selected_archive_bytes": 955081436,
+    "selected_archive_hashes": 2,
+    "sparse_sample_records": 0,
+    "unique_records": 2
+  },
+  "identity_source": {
+    "campaign_contract_records": 2,
+    "campaign_contract_sha256": "306c45cadcad8e7448660fcf3489e0d39b5455e5dad6ee3d858ebb0fd18bc4a2",
+    "kind": "canonical-swarm-metadata",
+    "root": "/home/bkoz/src/alpha60-swarm-metadata/metadata"
+  },
+  "inventory": {
+    "path": "/home/bkoz/src/alpha60/config/year-cache-campaigns/raw-discovery/year-2025-additions.txt",
+    "sha256": "d1a24d37a731825762913a468718b03599fd46b3b19bb0054d884fdcf84a0d67"
+  },
+  "overrides": {
+    "count": 0
+  },
+  "owners": {
+    "eureka": {
+      "archive_bytes": 951779392,
+      "records": 1
+    },
+    "ord": {
+      "archive_bytes": 3302044,
+      "records": 1
+    }
+  },
+  "records": [
+    {
+      "archive": {
+        "filename": "cache.20250812.tar.xz",
+        "filename_date": "20250812",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/andor-112.cache/cache.20250812.tar.xz",
+        "sha256": "e0e255253f95b5aa85fa80de807e834f0788666fddb1de38aa107dc231d15371",
+        "size": 951779392
+      },
+      "collection_key": "andor-112",
+      "day_cache_validation": {
+        "allow_leading_sparse": false,
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 112,
+          "cache_members": 27104,
+          "first_observed_day_index": 1,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2025-08-12",
+          "sample_span_days": 112,
+          "sample_start": "2025-04-23",
+          "torrent_indices": 242
+        },
+        "required_collection_key": "andor-112",
+        "required_day_products": 112,
+        "required_sample_days": 112,
+        "required_sample_end": "2025-08-12",
+        "required_sample_start": "2025-04-23",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "112",
+        "collection_name": "Andor",
+        "metadata_version": "2025-11-22",
+        "sample_contract_sha256": "306c45cadcad8e7448660fcf3489e0d39b5455e5dad6ee3d858ebb0fd18bc4a2",
+        "sample_contract_source": "frozen-campaign-reconciliation",
+        "sample_days": 112,
+        "sample_end": "2025-08-12",
+        "sample_start": "2025-04-23",
+        "sha256": "42d7a690a2a1ae3b92d45aae33f6d87df5b8b2ec60f57bad0ae4e058488de97d",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/andor-112.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20230307.tar.xz",
+            "size": 666426560
+          },
+          {
+            "filename": "cache.20250812.tar.xz",
+            "size": 951779392
+          }
+        ],
+        "expected_filename_date": "20250812"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20250216.tar.xz",
+        "filename_date": "20250216",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/yellowjackets-201.cache/cache.20250216.tar.xz",
+        "sha256": "bda810ed85136278affd44fdf20a55bbf68f2a055da91094258520a30209d097",
+        "size": 3302044
+      },
+      "collection_key": "yellowjackets-201",
+      "day_cache_validation": {
+        "allow_leading_sparse": false,
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 2,
+          "cache_members": 172,
+          "first_observed_day_index": 1,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2025-02-16",
+          "sample_span_days": 2,
+          "sample_start": "2025-02-15",
+          "torrent_indices": 86
+        },
+        "required_collection_key": "yellowjackets-201",
+        "required_day_products": 2,
+        "required_sample_days": 2,
+        "required_sample_end": "2025-02-16",
+        "required_sample_start": "2025-02-15",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "201",
+        "collection_name": "Yellowjackets",
+        "metadata_version": "2025-11-22",
+        "sample_contract_sha256": "306c45cadcad8e7448660fcf3489e0d39b5455e5dad6ee3d858ebb0fd18bc4a2",
+        "sample_contract_source": "frozen-campaign-reconciliation",
+        "sample_days": 2,
+        "sample_end": "2025-02-16",
+        "sample_start": "2025-02-15",
+        "sha256": "1e91a14dc7acbb91c6350bd4e67c2b6eeae976efa68d87acc003922dc1eb8d88",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/yellowjackets-201.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20250216.tar.xz",
+            "size": 3302044
+          }
+        ],
+        "expected_filename_date": "20250216"
+      }
+    }
+  ],
+  "schema": "alpha60-year-cache-archive-map/1",
+  "selection_policy": "canonical-metadata-or-frozen-campaign-sample-end-or-explicit-override",
+  "status": "pass",
+  "year": "2025"
+}
