@@ -1,0 +1,904 @@
+{
+  "counts": {
+    "archive_records": 85,
+    "baseline_v2_pages": 2,
+    "day_complete": 2,
+    "day_product_pairs": 114,
+    "excluded_records": 0,
+    "index_links": 85,
+    "inventory": 85,
+    "reused_predecessor": 83,
+    "validated_current": 2,
+    "worker_failed": 0,
+    "worker_passed": 2
+  },
+  "day_records": [
+    {
+      "baseline_sha256": "0e7cad1165a3194dacb9f26ea56402c413952ee2b109171128c48456f60dfb43",
+      "collection_key": "andor-112",
+      "coverage_sha256": "862c3c4adac5fa8fdc97a55aca21f36b46c19e96512fcd04cb77a516b2e24bc8",
+      "day_products": 112,
+      "product_sha256": "2832835f4ff312d1fa04c5e202250b2a8f3a71ccaa3ab4f278cf0f0bfda2296e",
+      "status": "pass",
+      "stream_sha256": "d426522140e8c5ca37f90c985cc0d56868c63c07f6142243d33ed8a64875dbd9"
+    },
+    {
+      "baseline_sha256": "c72a1c33fb44a3d5820c92febfcd0338c254667b3519fec865fac179515e1818",
+      "collection_key": "yellowjackets-201",
+      "coverage_sha256": "d189c9922624de4b7cbd6b0ec9011939153f097a01ccdfabfbfffa2f365e9bfe",
+      "day_products": 2,
+      "product_sha256": "a813f647f2e1870b26e43e9648b9e4225a9abb2a855e8bdda2e76b85bcafadff",
+      "status": "pass",
+      "stream_sha256": "6d7e491a3e6356a8cc083a7466b313ae8c7a7642a86bd11b42f440dac9784d29"
+    }
+  ],
+  "excluded_outputs": {},
+  "gates": {
+    "exclusions": true,
+    "index": true,
+    "inventory_map": true,
+    "metadata": true,
+    "predecessors": true,
+    "products": true,
+    "repositories": true,
+    "site": true,
+    "workers": true
+  },
+  "generated_at": "2026-09-10T15:32:56.800591+00:00",
+  "index": {
+    "links": 85,
+    "missing_targets": [],
+    "path": "/home/bkoz/src/alpha60-results-2025/_includes/year-2025-0-media-objects.txt"
+  },
+  "inputs": {
+    "archive_map": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-v2-cache-archive-map.json",
+      "sha256": "dba9d6d99a32e5a1ad1c59d582ea6ccf6dfdc970fb42aaa4013ac1f4c34ea30e",
+      "size": 248456
+    },
+    "config": {
+      "path": "/home/bkoz/src/alpha60/config/year-cache-campaigns/year-2025-v2.json",
+      "sha256": "4d0bdb749fdb635ec39f25dc86421c17cbcc819ffe7f4863cf4151d96f58849b",
+      "size": 4188
+    },
+    "inventory": {
+      "path": "/home/bkoz/src/alpha60/config/year-cache-campaigns/raw-discovery/year-2025-cohort.txt",
+      "sha256": "017e5665658a40791118316a434700125be51f69eb8e98e228bbbfcc5b8ae541",
+      "size": 1425
+    },
+    "metadata_audit": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-closure/metadata-audit.json",
+      "sha256": "6b175eb16a65edd65a51fd4924aaaa1de18a7455d54eb77bae8d161f8e8fa7e0",
+      "size": 24913
+    },
+    "scope_exclusions": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-v2-scope-exclusions.json",
+      "sha256": "2a18e64040694f8ffc253e4a1cc3dddb2497c6e487c39d601809f732176b0a92",
+      "size": 364
+    },
+    "site_audit": {
+      "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-closure/site-audit.json",
+      "sha256": "4bce82785c4f4c467acf695e147f670d232981f5239f96ae35bfb60a0e81a72b",
+      "size": 453
+    },
+    "worker_receipts": [
+      {
+        "counts": {
+          "errors": 0,
+          "passed": 1,
+          "records": 1
+        },
+        "identity": {
+          "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-closure/worker-original-01.json",
+          "sha256": "c45834c903d2392b70c2a6cbe98943ae2d17876804901e780291ec7c39f05ac3",
+          "size": 1264
+        },
+        "kind": "original",
+        "owner": "eureka",
+        "status": "pass"
+      },
+      {
+        "counts": {
+          "errors": 0,
+          "passed": 1,
+          "records": 1
+        },
+        "identity": {
+          "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-closure/worker-original-02.json",
+          "sha256": "93de055a0d886af71b647cd0fae9e8d12759b314f19a3c30595a6647617f5d47",
+          "size": 1268
+        },
+        "kind": "original",
+        "owner": "ord",
+        "status": "pass"
+      }
+    ]
+  },
+  "issues": [],
+  "metadata_repository": {
+    "path": "/home/bkoz/src/alpha60-swarm-metadata",
+    "revision": "022a38997cfa6befb2593b4ee4671ea13780fab3",
+    "tracked_clean": true,
+    "untracked_files": [],
+    "worktree_clean": true
+  },
+  "predecessor_records": [
+    {
+      "collection_key": "alien-earth-101",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/alien-earth-101.json",
+        "sha256": "e50c38a518f1cbcf657bc064b40ce365fefcf54508602d9cca78207e72027334",
+        "size": 10189
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "alien-earth-106",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/alien-earth-106.json",
+        "sha256": "f1f846ab2ed8dde558ce49795b2acccb53fb1f63ae10e43798677cc6d893b512",
+        "size": 10192
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "american-primeval",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/american-primeval.json",
+        "sha256": "d1833c1f001b29d7ca5ecf1cfb6d7e90f4364a6f3a3dfba6d4c747ceeb1c494d",
+        "size": 10254
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "american-revolution-2025",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/american-revolution-2025.json",
+        "sha256": "338648ce1c81132c1f68e3737da9381836c3887572c523133704c365a924f38f",
+        "size": 10443
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "andor-201",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/andor-201.json",
+        "sha256": "295e5578a945eaea0df4d89e01534d5d0b4c2631e2eba4fa8e0e58133db4e1a6",
+        "size": 10023
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "andor-210",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/andor-210.json",
+        "sha256": "b9c1a92b2f96dd856e3fa9aa997330af14d60c5d74f6b0fe9660924ab1d9579a",
+        "size": 10024
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "ballard-01",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/ballard-01.json",
+        "sha256": "9ac37e749859c42e85a5ad3782038c9c3ccfb9cef91097d106c94029a59e0114",
+        "size": 10064
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "bear-04",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/bear-04.json",
+        "sha256": "7ec8643dcb16787f2bf065a6fdc3c1627c6663b699d1efbc1344dbfa7d114a06",
+        "size": 9988
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "beatles-anthology",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/beatles-anthology.json",
+        "sha256": "6bdc9ae62b4e11897c0e30175f9953e02445527b5ae446d288c9f4d5b7e053c0",
+        "size": 10256
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "black-bag-2025",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/black-bag-2025.json",
+        "sha256": "60650355e82bd0a5dd985b704b99956ce18671c156147715597d6fd4d890d15e",
+        "size": 10159
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "chief-of-war-101",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/chief-of-war-101.json",
+        "sha256": "ef6543d665fa3f4595482eced5c804cfdde99f7607a1a1d78b5c724d1f90198e",
+        "size": 10213
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "chief-of-war-107",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/chief-of-war-107.json",
+        "sha256": "31ce368ba987aac9127883995f6208e65d902d284c29dd1a95d4ff956a880172",
+        "size": 10215
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "cobra-kai-06.3",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/cobra-kai-06.3.json",
+        "sha256": "774a3329d4298d492a8febba25e04309780672ebe3be31b1c54a5d319ad08741",
+        "size": 10154
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "common-side-effects-01",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/common-side-effects-01.json",
+        "sha256": "465600d8660104d9eb7f76ca62d253e11dc1581734ec3b8d1aff2a520c0e1f9f",
+        "size": 10377
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "companion-2025",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/companion-2025.json",
+        "sha256": "b1e194e21092fadd0ac2706c02b7a4e676d60204644c14999bad09c106868232",
+        "size": 10173
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "dan-da-dan-210",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/dan-da-dan-210.json",
+        "sha256": "1959df8b06a15d7f908b1af2125ea0c295dd8504ce3136f3bd20f9773f24fca6",
+        "size": 10169
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "dark-winds-301",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/dark-winds-301.json",
+        "sha256": "62aa5c3cd1a90365595a8fee4c7d4ae43da6e16f2606e4b6d43d07d33f6b7d30",
+        "size": 10161
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "death-by-lightning",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/death-by-lightning.json",
+        "sha256": "cbea12a332adcc099862ade07ef68338a2b81274ab2ecaf5a9791310c9fb7f55",
+        "size": 10271
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "demon-slayer-kimetsu-no-yaiba-the-movie-infinity-castle",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/demon-slayer-kimetsu-no-yaiba-the-movie-infinity-castle.json",
+        "sha256": "a9fd25e8e963f69833b91b808934550d0e299b6686824b4585192c414b26ef07",
+        "size": 11276
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "dope-thief-101",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/dope-thief-101.json",
+        "sha256": "91704ebb8852e9a96c91dce8e180ceabdc60af25d390d7610031b491d8f50a26",
+        "size": 10161
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "down-cemetery-road-101",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/down-cemetery-road-101.json",
+        "sha256": "ada21ce4d774192d9872705a33f9f120783a7c8c57bd69bdb5e41977b432f7e0",
+        "size": 10376
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "duster-101",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/duster-101.json",
+        "sha256": "56978250fa6ebf939aaf6b49b84f207890f2192e3e28b3488c0006b3b651ba53",
+        "size": 10064
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "duster-106",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/duster-106.json",
+        "sha256": "6f274413d3d8e2fea6f5d57d5781523136f18754a12d562c25a16d8a195ce219",
+        "size": 10066
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "eyes-of-wakanda-01",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/eyes-of-wakanda-01.json",
+        "sha256": "ea3e36bf87cb86c912533bb9b8f8233959b5a0c3c2773bcd62a638095a891aeb",
+        "size": 10268
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "fallout-2024-201",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/fallout-2024-201.json",
+        "sha256": "f4dd0070ab719fad4665a0a574d67a3ccb6b76b00c33a805d897c3925177dbad",
+        "size": 10229
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "frankenstein-2025",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/frankenstein-2025.json",
+        "sha256": "a54b6e841e5f183031cab96c49565d3a7e5b1aaf7dc0c7e068a742877b730b7e",
+        "size": 10249
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "gen-v-201",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/gen-v-201.json",
+        "sha256": "9333c6d30bc073aa93215385f352ce6e22507e85e0c58c285f707dd2c2254d11",
+        "size": 10024
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "gen-v-206",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/gen-v-206.json",
+        "sha256": "81397b3c2411a06cf378aec383a2ecd0c26a552a6d74728bbe3a21a47fb502f4",
+        "size": 10024
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "hacks-401",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/hacks-401.json",
+        "sha256": "d6b1fc20a9e05ace746c28bca144f496c0c1f927d2867b78060c71fd028feca0",
+        "size": 10023
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "hacks-408",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/hacks-408.json",
+        "sha256": "315fbcc24d7744a90707d8c3715863d0b43c4190419ede6c16d8363230d0d396",
+        "size": 10023
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "highest-2-lowest",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/highest-2-lowest.json",
+        "sha256": "50b04b3ecf566c1a4387f25c19e4ac44e6abb06c86f2d1d50f9d3f1393cff698",
+        "size": 10216
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "invasion-301",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/invasion-301.json",
+        "sha256": "789e7740ddc8c9304c211cecd151fb193f58b6c845d6ef1cefba5ea7237566d1",
+        "size": 10120
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "invincible-301",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/invincible-301.json",
+        "sha256": "2e51708638048f06ca6b3b7334503103147a977fba88440bb78933f5c45a60b8",
+        "size": 10166
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "ironheart-01",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/ironheart-01.json",
+        "sha256": "3f5151b4ac2127ef1b4120767a275c2aae07c882e46447e4255fba59d6045ab3",
+        "size": 10122
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "king-of-the-hill-14",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/king-of-the-hill-14.json",
+        "sha256": "74e9b7c78af0abb2a8c61b125ac3837dce26b80c6d9e108f16b90e6ab9b01cab",
+        "size": 10291
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "last-of-us-201",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/last-of-us-201.json",
+        "sha256": "edc83cd4787171bca11ec2745d6e9d0011062d331956adbc906cc8645c1caf68",
+        "size": 10141
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "last-of-us-206",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/last-of-us-206.json",
+        "sha256": "9dc41ba9e8271725838f6edd82c397875195c3a0e510e608b95a3b4b40641f77",
+        "size": 10173
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "lazarus-101",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/lazarus-101.json",
+        "sha256": "9e55fd528a90d53653bdb3a0829db68819ded6c999c4e5dd8f9bc3261cf3b564",
+        "size": 10099
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "lazarus-108",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/lazarus-108.json",
+        "sha256": "1803de4c7e95c9677efbb5a9610f04a662b637da8648b6256d60561a992e80de",
+        "size": 10095
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "lazarus-111",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/lazarus-111.json",
+        "sha256": "b8b8275c98fb51a64196fe0a6d0013dd2aa6a14c0623ee3a743f02b5a6d9f79f",
+        "size": 10100
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "long-story-short-01",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/long-story-short-01.json",
+        "sha256": "ed0c75a906e29523fc64056b3f4b4723868db63526d195782b7475d162954dad",
+        "size": 10496
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "love-death-robots-04",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/love-death-robots-04.json",
+        "sha256": "e41e8f55e3204c3f617d91cb5724c3db29b78ee8855553c39af77474a4bfd9d7",
+        "size": 10324
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "lowdown-101",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/lowdown-101.json",
+        "sha256": "7b46a87028664481b84d71c99d21643957bfb2c2b91a4fd1ab15246bdfc6898a",
+        "size": 10104
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "mickey-17",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/mickey-17.json",
+        "sha256": "a9753fb56ff2560cec18c3b344e5886b26a527eca2abe2c334bbc1f86781e4dc",
+        "size": 10034
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "mid-century-modern-01",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/mid-century-modern-01.json",
+        "sha256": "a406a31a0bbe1ceb88abdedad34b61e6b90baa74dce62040e78a460a2fb3e64c",
+        "size": 10360
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "minecraft-movie-2025",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/minecraft-movie-2025.json",
+        "sha256": "a1b1adfddb683486e3e8cc0b3f4acb5a687cdae3f34478bb01074095355afed9",
+        "size": 10321
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "moana-2",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/moana-2.json",
+        "sha256": "ba94248b0ee90466923194194b60a722d0faa7ee05a578910d26419ea72f6ede",
+        "size": 9980
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "night-agent-02",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/night-agent-02.json",
+        "sha256": "0a2863f50f113c6c632394204f62820a2f35959c00a3a9d7c0ceadd15db817fa",
+        "size": 10165
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "nouvelle-vague",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/nouvelle-vague.json",
+        "sha256": "73d6e07520a8c216bdde556bc4d6a06724690a650d6ee10cc5b8a0c5a7f4969a",
+        "size": 10170
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "one-battle-after-another",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/one-battle-after-another.json",
+        "sha256": "0c0427eeef5b66c24a02f160a7b16c91faa1d3362f9c96fecf61a66fd74a4da5",
+        "size": 10433
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "only-murders-in-the-building-501",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/only-murders-in-the-building-501.json",
+        "sha256": "092565c08805f5af6aa7d7bd2b4a86d000e07678b699b2d3b4a34c3f010e21c5",
+        "size": 10645
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "only-murders-in-the-building-508",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/only-murders-in-the-building-508.json",
+        "sha256": "854d4ded765c0b3707b7f80d6a2d46715b764e6d20a74a56c69e3c44feaebd15",
+        "size": 10645
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "peacemaker-201",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/peacemaker-201.json",
+        "sha256": "9b47e94f6a855c6e3d3070885204888e6a45314f2e9ff6a0c6356af06de15f22",
+        "size": 10172
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "pluribus-107",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/pluribus-107.json",
+        "sha256": "a0d65f3f97f7aa78f40c42e29b273221fb2e71ef28872d322988741d52488f35",
+        "size": 10117
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "predator-badlands",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/predator-badlands.json",
+        "sha256": "efc1541da9db530280af43d804687bff87e0d59c1d685389c36a5c5ac9b5bf20",
+        "size": 10245
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "predator-killer-of-killers",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/predator-killer-of-killers.json",
+        "sha256": "5b80a2ef85e178f4ee366f1865d3cd84c37db2c1da4bc7373a764754c5ac01dd",
+        "size": 10488
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "prehistoric-planet-03",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/prehistoric-planet-03.json",
+        "sha256": "16636b35ede89d484e7313099866020c97c478b11fa544a8fdceb1b28cdb7e6d",
+        "size": 10349
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "reacher-301",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/reacher-301.json",
+        "sha256": "7e9ad46ab3dec8a445ab7a47654c2cc2202360632488d914c5d3111f33486ec3",
+        "size": 10090
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "reacher-307",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/reacher-307.json",
+        "sha256": "4640b057d0870651169c5528df0509a4c996ed8cb4eb82845bab89c1ef04f2ec",
+        "size": 10091
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "sean-combs-the-reckoning",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/sean-combs-the-reckoning.json",
+        "sha256": "72772d818f1c421bf02d931b488f76526df2b123a7064cf6c3ad2d58ff75833d",
+        "size": 10432
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "severance-201",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/severance-201.json",
+        "sha256": "dd69b535c65ded55bd9decd92b97973279d20911e9af34e400b972b860cc3f8c",
+        "size": 10143
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "severance-209",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/severance-209.json",
+        "sha256": "c1072b29546c7c6cf6a71d18e8029071e8c27771af5b036ece7d4303da4a6e7e",
+        "size": 10147
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "sinners-2025",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/sinners-2025.json",
+        "sha256": "1d58fc744b851be4559db9ccc4dd8ce23e1d3f963808ff8a137a0aa4631670f9",
+        "size": 10116
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "sly-lives",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/sly-lives.json",
+        "sha256": "8e1189b189b8238be7fb3f5e08b59738d320feee568fda943a8c7df2b66609be",
+        "size": 10056
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "south-park-27",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/south-park-27.json",
+        "sha256": "b8d47d9f6b5d49c7769070977454d64983a98d8983b311d4f9cd64e122118b2b",
+        "size": 10132
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "squid-game-03",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/squid-game-03.json",
+        "sha256": "9f0340b542f51b3d4c18baafc86ff3b5f9b29b388508e1e811274b33507be449",
+        "size": 10135
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "star-wars-visions-03",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/star-wars-visions-03.json",
+        "sha256": "2d2c18c821f5e7bf552053f7867fdec859c1650cf85d8ac44b937a5aac5c9940",
+        "size": 10322
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "stranger-things-05.1",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/stranger-things-05.1.json",
+        "sha256": "553c5f5458c39673b747d959af15082513154e22704a42b4993cd0d889dcaa97",
+        "size": 10318
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "stranger-things-05.2",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/stranger-things-05.2.json",
+        "sha256": "5edf55359a1ae867cbb24eae8db4e06f1f60192e28f2a09c6efbcd3fd8667463",
+        "size": 10318
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "studio-2025-101",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/studio-2025-101.json",
+        "sha256": "08d0f136c5463441f775223c3780559b35d002b649e8c2a9e82b9b5d28819fca",
+        "size": 10199
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "summer-i-turned-pretty-311",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/summer-i-turned-pretty-311.json",
+        "sha256": "a1c3d1de85f17bf827e517ad007c5f78490e9f826ec53e713f9ad13cf0d49652",
+        "size": 10500
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "superman-2025",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/superman-2025.json",
+        "sha256": "cf5ae0bc293f508299685fbb82610680492ff31995bd6047256eac28a7e96656",
+        "size": 10143
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "tron-ares",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/tron-ares.json",
+        "sha256": "4e7545503777521da6a23d7dc0f57e831d068e99837fe0bdfe63ad1dec08cea5",
+        "size": 10027
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "weapons-2025",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/weapons-2025.json",
+        "sha256": "76873e10a9912b5f33b262209626ed68538ac926841462b8d1646ac69adabc3d",
+        "size": 10115
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "wednesday-02.1",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/wednesday-02.1.json",
+        "sha256": "d8854813d4b7fa0a826781f39c896bb7012ae7cc8d59f7eeb4fb7e025cbe2066",
+        "size": 10173
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "wednesday-02.2",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/wednesday-02.2.json",
+        "sha256": "777d5bfd77330207db1acc4f3accc818a9f01bb39376ea10b57bfeb259f0e9ba",
+        "size": 10175
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "white-lotus-301",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/white-lotus-301.json",
+        "sha256": "4b9a8fee979b8f00d462c84e3d261a918976dfe162443ac88917ccf1779fa00c",
+        "size": 10191
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "white-lotus-307",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/white-lotus-307.json",
+        "sha256": "eb446cac8188fc917ba5fd8524e32d1fbff1dde6e02300e14d8ae39fe54bc368",
+        "size": 10190
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "wicked-2024",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/wicked-2024.json",
+        "sha256": "c9d34b9732ee5f0b5a13455269b08c960190e2daac375338d6c447b04c569907",
+        "size": 10086
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "wicked-for-good-2025",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/wicked-for-good-2025.json",
+        "sha256": "ef080422dac9aafa722b4e54fdd05b1fca862f710b7043f03263a8c84689b503",
+        "size": 10321
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "witcher-04",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/witcher-04.json",
+        "sha256": "17ede3f90c091de5aaac5f4f418c5bd0ff2e8fbb61fbc9816648b3c0c19d0ac3",
+        "size": 10065
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "your-friendly-neighborhood-spider-man-01",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/your-friendly-neighborhood-spider-man-01.json",
+        "sha256": "8c26cd5e9c80a92c9913e03803dbf38d1ccc0a42bb455ed733d4754edeebb02e",
+        "size": 10866
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "zero-day-01",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/txt/year-2025-baseline-v2-receipts/zero-day-01.json",
+        "sha256": "f7e46b83628c8bcc9b3490cab6a163192fb72e292121bb2d314f64748a331463",
+        "size": 10312
+      },
+      "status": "reused-closed-predecessor"
+    }
+  ],
+  "results_repository": {
+    "path": "/home/bkoz/src/alpha60-results-2025",
+    "revision": "8cdb3d6e10efff20fbabb4d083172719599002bc",
+    "tracked_clean": true,
+    "untracked_files": [],
+    "worktree_clean": true
+  },
+  "schema": "alpha60-year-baseline-v2-campaign-audit/1",
+  "status": "pass",
+  "terminal_records": [
+    {
+      "collection_key": "andor-112",
+      "executor": "eureka",
+      "final_status": "pass",
+      "original_status": "pass",
+      "owner": "eureka",
+      "repair_status": null,
+      "results_revision": "89ed4a0785ac65d1f7d1b0c7bd64b4efe9e706ec"
+    },
+    {
+      "collection_key": "yellowjackets-201",
+      "executor": "ord",
+      "final_status": "pass",
+      "original_status": "pass",
+      "owner": "ord",
+      "repair_status": null,
+      "results_revision": "531d3349ce8530a8ca610d10b2a8c1eb6f61dba1"
+    }
+  ],
+  "year": "2025"
+}
