@@ -1,6 +1,6 @@
 # Cache coverage report — andor-112
 
-- Generated: 2026-09-10T05:54:55Z
+- Generated: 2026-09-10T05:59:44Z
 - Sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/andor-112.xz/2025`
 - Hour directories: 2668
 - Zero-length sample files: 0
