@@ -1,0 +1,3634 @@
+{
+    "collection_name": "Yellowjackets",
+    "collection_id": "201",
+    "collection_key": "yellowjackets-201",
+    "collection_notes": "",
+    "data_version": "2026-08-05",
+    "data_btiha_sort": 1,
+    "ip_geolocation_version": "6:1777968300",
+    "collection_btiha_duplicates": [
+        {
+            "duplicate_id": 0,
+            "duplicate_btih": "acdd1f1f854ca66631adf66da6446990a2de55a9",
+            "duplicate_0_0": "Yellowjackets S03E01 It Girl 2160p PMTP WEB-DL DDP5 1 DV HDR H 265-NTb [IPT](1)",
+            "duplicate_0_1": "Yellowjackets S03E01 It Girl 2160p PMTP WEB-DL DDP5 1 DV HDR H 265-NTb [IPT]"
+        },
+        {
+            "duplicate_id": 1,
+            "duplicate_btih": "07c2e59f6f355a80d0618ad7d08b6bb2ccd6e74b",
+            "duplicate_1_0": "Yellowjackets.S03E01.It.Girl.1080p.HEVC.x265-MeGusta [IPT](1)",
+            "duplicate_1_1": "Yellowjackets.S03E01.It.Girl.1080p.HEVC.x265-MeGusta [IPT]"
+        },
+        {
+            "duplicate_id": 2,
+            "duplicate_btih": "dca5e6580e81271614ab3e36bcf5f696b6b0cf40",
+            "duplicate_2_0": "Yellowjackets.S03E01.It.Girl.720p.HEVC.x265-MeGusta [IPT](1)",
+            "duplicate_2_1": "Yellowjackets.S03E01.It.Girl.720p.HEVC.x265-MeGusta [IPT]"
+        },
+        {
+            "duplicate_id": 3,
+            "duplicate_btih": "5bff733a7c4d444c2b7e45ee2a1d25f00b2b12ec",
+            "duplicate_3_0": "Yellowjackets.S03E01.It.Girl.AAC.MP4-Mobile [IPT](1)",
+            "duplicate_3_1": "Yellowjackets.S03E01.It.Girl.AAC.MP4-Mobile [IPT]"
+        },
+        {
+            "duplicate_id": 4,
+            "duplicate_btih": "cddae05f76f0e88393824a9a66c67fc67edeeaa9",
+            "duplicate_4_0": "Yellowjackets.S03E02.DV.2160p.WEB.H265-SuccessfulCrab [IPT](1)",
+            "duplicate_4_1": "Yellowjackets.S03E02.DV.2160p.WEB.H265-SuccessfulCrab [IPT]"
+        },
+        {
+            "duplicate_id": 5,
+            "duplicate_btih": "7d179968ec078d23b98f5a5135ccd1ec1e4173a4",
+            "duplicate_5_0": "Yellowjackets.S03E02.Yellowjackets.Dislocation.480p.x264-mSD [IPT](1)",
+            "duplicate_5_1": "Yellowjackets.S03E02.Yellowjackets.Dislocation.480p.x264-mSD [IPT]"
+        }
+    ],
+    "collection_btiha_metadata": [
+        {
+            "id": 1,
+            "name": "www.Torrenting.com - Yellowjackets S03E02 1080p x265-ELiTE",
+            "size_total": 0.765336247,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.007082899,
+                    "path": "www.Torrenting.com - Yellowjackets S03E02 1080p x265-ELiTE/Screens/Screens.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.005479664,
+                    "path": "www.Torrenting.com - Yellowjackets S03E02 1080p x265-ELiTE/Screens/Yellowjackets.S03E02.1080p.x265-ELiTE.Screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.001162316,
+                    "path": "www.Torrenting.com - Yellowjackets S03E02 1080p x265-ELiTE/Screens/Yellowjackets.S03E02.1080p.x265-ELiTE.Screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.006928259,
+                    "path": "www.Torrenting.com - Yellowjackets S03E02 1080p x265-ELiTE/Screens/Yellowjackets.S03E02.1080p.x265-ELiTE.Screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 8.6e-8,
+                    "path": "www.Torrenting.com - Yellowjackets S03E02 1080p x265-ELiTE/Torrent Downloaded From www.Torrenting.org   .txt"
+                },
+                {
+                    "number": 6,
+                    "size": 0.744676594,
+                    "path": "www.Torrenting.com - Yellowjackets S03E02 1080p x265-ELiTE/Yellowjackets S03E02 1080p x265-ELiTE.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 0.000006429,
+                    "path": "www.Torrenting.com - Yellowjackets S03E02 1080p x265-ELiTE/Yellowjackets S03E02 1080p x265-ELiTE.nfo"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Yellowjackets S03E01 1080p x265-ELiTE [IPT]",
+            "size_total": 0.873071153,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.006902069,
+                    "path": "Yellowjackets S03E01 1080p x265-ELiTE/Screens/Screens.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.008723708,
+                    "path": "Yellowjackets S03E01 1080p x265-ELiTE/Screens/Yellowjackets.S03E01.1080p.x265-ELiTE.Screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.007636832,
+                    "path": "Yellowjackets S03E01 1080p x265-ELiTE/Screens/Yellowjackets.S03E01.1080p.x265-ELiTE.Screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.005838809,
+                    "path": "Yellowjackets S03E01 1080p x265-ELiTE/Screens/Yellowjackets.S03E01.1080p.x265-ELiTE.Screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.843963307,
+                    "path": "Yellowjackets S03E01 1080p x265-ELiTE/Yellowjackets S03E01 1080p x265-ELiTE.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000006428,
+                    "path": "Yellowjackets S03E01 1080p x265-ELiTE/Yellowjackets S03E01 1080p x265-ELiTE.nfo"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Yellowjackets S03E01 720p x264-FENiX [IPT]",
+            "size_total": 0.638228819,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000525741,
+                    "path": "Yellowjackets S03E01 720p x264-FENiX/Screens/Screens.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.001330106,
+                    "path": "Yellowjackets S03E01 720p x264-FENiX/Screens/Yellowjackets.S03E01.720p.x264-FENiX.Screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000951077,
+                    "path": "Yellowjackets S03E01 720p x264-FENiX/Screens/Yellowjackets.S03E01.720p.x264-FENiX.Screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.00047948,
+                    "path": "Yellowjackets S03E01 720p x264-FENiX/Screens/Yellowjackets.S03E01.720p.x264-FENiX.Screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.634937614,
+                    "path": "Yellowjackets S03E01 720p x264-FENiX/Yellowjackets S03E01 720p x264-FENiX.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000004801,
+                    "path": "Yellowjackets S03E01 720p x264-FENiX/Yellowjackets S03E01 720p x264-FENiX.nfo"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Yellowjackets S03E01 It Girl 1080p AMZN WEB-DL DDP5 1 H 264-FLUX [IPT]",
+            "size_total": 2.282235597,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.282230389,
+                    "path": "Yellowjackets S03E01 It Girl 1080p AMZN WEB-DL DDP5 1 H 264-FLUX/Yellowjackets S03E01 It Girl 1080p AMZN WEB-DL DDP5 1 H 264-FLUX.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000005208,
+                    "path": "Yellowjackets S03E01 It Girl 1080p AMZN WEB-DL DDP5 1 H 264-FLUX/Yellowjackets S03E01 It Girl 1080p AMZN WEB-DL DDP5 1 H 264-FLUX.nfo"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Yellowjackets S03E01 It Girl 1080p AMZN WEB-DL DDP5 1 H 264-NTb [IPT]",
+            "size_total": 2.282234631,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.282229823,
+                    "path": "Yellowjackets S03E01 It Girl 1080p AMZN WEB-DL DDP5 1 H 264-NTb/Yellowjackets S03E01 It Girl 1080p AMZN WEB-DL DDP5 1 H 264-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000004808,
+                    "path": "Yellowjackets S03E01 It Girl 1080p AMZN WEB-DL DDP5 1 H 264-NTb/Yellowjackets S03E01 It Girl 1080p AMZN WEB-DL DDP5 1 H 264-NTb.nfo"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Yellowjackets S03E01 It Girl 2160p PMTP WEB-DL DDP5 1 DV H 265-FLUX [IPT]",
+            "size_total": 6.433031399,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 6.433026514,
+                    "path": "Yellowjackets S03E01 It Girl 2160p PMTP WEB-DL DDP5 1 DV H 265-FLUX/Yellowjackets S03E01 It Girl 2160p PMTP WEB-DL DDP5 1 DV H 265-FLUX.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000004885,
+                    "path": "Yellowjackets S03E01 It Girl 2160p PMTP WEB-DL DDP5 1 DV H 265-FLUX/Yellowjackets S03E01 It Girl 2160p PMTP WEB-DL DDP5 1 DV H 265-FLUX.nfo"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Yellowjackets S03E01 It Girl 2160p PMTP WEB-DL DDP5 1 DV H 265-NTb [IPT]",
+            "size_total": 6.433033352,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 6.433028806,
+                    "path": "Yellowjackets S03E01 It Girl 2160p PMTP WEB-DL DDP5 1 DV H 265-NTb/Yellowjackets S03E01 It Girl 2160p PMTP WEB-DL DDP5 1 DV H 265-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000004546,
+                    "path": "Yellowjackets S03E01 It Girl 2160p PMTP WEB-DL DDP5 1 DV H 265-NTb/Yellowjackets S03E01 It Girl 2160p PMTP WEB-DL DDP5 1 DV H 265-NTb.nfo"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Yellowjackets S03E01 It Girl 2160p PMTP WEB-DL DDP5 1 DV HDR H 265-FLUX [IPT]",
+            "size_total": 6.311740874,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 6.311735499,
+                    "path": "Yellowjackets S03E01 It Girl 2160p PMTP WEB-DL DDP5 1 DV HDR H 265-FLUX/Yellowjackets S03E01 It Girl 2160p PMTP WEB-DL DDP5 1 DV HDR H 265-FLUX.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000005375,
+                    "path": "Yellowjackets S03E01 It Girl 2160p PMTP WEB-DL DDP5 1 DV HDR H 265-FLUX/Yellowjackets S03E01 It Girl 2160p PMTP WEB-DL DDP5 1 DV HDR H 265-FLUX.nfo"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Yellowjackets S03E01 It Girl 2160p PMTP WEB-DL DDP5 1 DV HDR H 265-NTb [IPT](1)",
+            "size_total": 6.31194959,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 6.311944554,
+                    "path": "Yellowjackets S03E01 It Girl 2160p PMTP WEB-DL DDP5 1 DV HDR H 265-NTb/Yellowjackets S03E01 It Girl 2160p PMTP WEB-DL DDP5 1 DV HDR H 265-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000005036,
+                    "path": "Yellowjackets S03E01 It Girl 2160p PMTP WEB-DL DDP5 1 DV HDR H 265-NTb/Yellowjackets S03E01 It Girl 2160p PMTP WEB-DL DDP5 1 DV HDR H 265-NTb.nfo"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Yellowjackets S03E01 It Girl 2160p PMTP WEB-DL DDP5 1 DV HDR H 265-NTb [IPT]",
+            "size_total": 6.31194959,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 6.311944554,
+                    "path": "Yellowjackets S03E01 It Girl 2160p PMTP WEB-DL DDP5 1 DV HDR H 265-NTb/Yellowjackets S03E01 It Girl 2160p PMTP WEB-DL DDP5 1 DV HDR H 265-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000005036,
+                    "path": "Yellowjackets S03E01 It Girl 2160p PMTP WEB-DL DDP5 1 DV HDR H 265-NTb/Yellowjackets S03E01 It Girl 2160p PMTP WEB-DL DDP5 1 DV HDR H 265-NTb.nfo"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Yellowjackets S03E01 It Girl 720p AMZN WEB-DL DDP5 1 H 264-FLUX [IPT]",
+            "size_total": 1.26129553,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.261290323,
+                    "path": "Yellowjackets S03E01 It Girl 720p AMZN WEB-DL DDP5 1 H 264-FLUX/Yellowjackets S03E01 It Girl 720p AMZN WEB-DL DDP5 1 H 264-FLUX.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000005207,
+                    "path": "Yellowjackets S03E01 It Girl 720p AMZN WEB-DL DDP5 1 H 264-FLUX/Yellowjackets S03E01 It Girl 720p AMZN WEB-DL DDP5 1 H 264-FLUX.nfo"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Yellowjackets S03E01 It Girl 720p AMZN WEB-DL DDP5 1 H 264-NTb [IPT]",
+            "size_total": 1.261294567,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.261289763,
+                    "path": "Yellowjackets S03E01 It Girl 720p AMZN WEB-DL DDP5 1 H 264-NTb/Yellowjackets S03E01 It Girl 720p AMZN WEB-DL DDP5 1 H 264-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000004804,
+                    "path": "Yellowjackets S03E01 It Girl 720p AMZN WEB-DL DDP5 1 H 264-NTb/Yellowjackets S03E01 It Girl 720p AMZN WEB-DL DDP5 1 H 264-NTb.nfo"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Yellowjackets S03E02 1080p x265-ELiTE [IPT]",
+            "size_total": 0.765336161,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.007082899,
+                    "path": "Yellowjackets S03E02 1080p x265-ELiTE/Screens/Screens.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.005479664,
+                    "path": "Yellowjackets S03E02 1080p x265-ELiTE/Screens/Yellowjackets.S03E02.1080p.x265-ELiTE.Screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.001162316,
+                    "path": "Yellowjackets S03E02 1080p x265-ELiTE/Screens/Yellowjackets.S03E02.1080p.x265-ELiTE.Screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.006928259,
+                    "path": "Yellowjackets S03E02 1080p x265-ELiTE/Screens/Yellowjackets.S03E02.1080p.x265-ELiTE.Screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.744676594,
+                    "path": "Yellowjackets S03E02 1080p x265-ELiTE/Yellowjackets S03E02 1080p x265-ELiTE.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000006429,
+                    "path": "Yellowjackets S03E02 1080p x265-ELiTE/Yellowjackets S03E02 1080p x265-ELiTE.nfo"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Yellowjackets S03E02 720p x264-FENiX [IPT]",
+            "size_total": 0.573568433,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.001026988,
+                    "path": "Yellowjackets S03E02 720p x264-FENiX/Screens/Screens.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.0004043,
+                    "path": "Yellowjackets S03E02 720p x264-FENiX/Screens/Yellowjackets.S03E02.720p.x264-FENiX.Screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000044678,
+                    "path": "Yellowjackets S03E02 720p x264-FENiX/Screens/Yellowjackets.S03E02.720p.x264-FENiX.Screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000750303,
+                    "path": "Yellowjackets S03E02 720p x264-FENiX/Screens/Yellowjackets.S03E02.720p.x264-FENiX.Screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.571337364,
+                    "path": "Yellowjackets S03E02 720p x264-FENiX/Yellowjackets S03E02 720p x264-FENiX.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.0000048,
+                    "path": "Yellowjackets S03E02 720p x264-FENiX/Yellowjackets S03E02 720p x264-FENiX.nfo"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Yellowjackets S03E02 Dislocation 1080p AMZN WEB-DL DDP5 1 H 264-FLUX [IPT]",
+            "size_total": 2.013975063,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.013969962,
+                    "path": "Yellowjackets S03E02 Dislocation 1080p AMZN WEB-DL DDP5 1 H 264-FLUX/Yellowjackets S03E02 Dislocation 1080p AMZN WEB-DL DDP5 1 H 264-FLUX.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000005101,
+                    "path": "Yellowjackets S03E02 Dislocation 1080p AMZN WEB-DL DDP5 1 H 264-FLUX/Yellowjackets S03E02 Dislocation 1080p AMZN WEB-DL DDP5 1 H 264-FLUX.nfo"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Yellowjackets S03E02 Dislocation 2160p PMTP WEB-DL DDP5 1 DV H 265-FLUX [IPT]",
+            "size_total": 6.31902676,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 6.319021983,
+                    "path": "Yellowjackets S03E02 Dislocation 2160p PMTP WEB-DL DDP5 1 DV H 265-FLUX/Yellowjackets S03E02 Dislocation 2160p PMTP WEB-DL DDP5 1 DV H 265-FLUX.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000004777,
+                    "path": "Yellowjackets S03E02 Dislocation 2160p PMTP WEB-DL DDP5 1 DV H 265-FLUX/Yellowjackets S03E02 Dislocation 2160p PMTP WEB-DL DDP5 1 DV H 265-FLUX.nfo"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Yellowjackets S03E02 Dislocation 2160p PMTP WEB-DL DDP5 1 DV H 265-NTb [IPT]",
+            "size_total": 6.319029286,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 6.319024632,
+                    "path": "Yellowjackets S03E02 Dislocation 2160p PMTP WEB-DL DDP5 1 DV H 265-NTb/Yellowjackets S03E02 Dislocation 2160p PMTP WEB-DL DDP5 1 DV H 265-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000004654,
+                    "path": "Yellowjackets S03E02 Dislocation 2160p PMTP WEB-DL DDP5 1 DV H 265-NTb/Yellowjackets S03E02 Dislocation 2160p PMTP WEB-DL DDP5 1 DV H 265-NTb.nfo"
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Yellowjackets S03E02 Dislocation 2160p PMTP WEB-DL DDP5 1 DV HDR H 265-FLUX [IPT]",
+            "size_total": 6.170139791,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 6.170134524,
+                    "path": "Yellowjackets S03E02 Dislocation 2160p PMTP WEB-DL DDP5 1 DV HDR H 265-FLUX/Yellowjackets S03E02 Dislocation 2160p PMTP WEB-DL DDP5 1 DV HDR H 265-FLUX.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000005267,
+                    "path": "Yellowjackets S03E02 Dislocation 2160p PMTP WEB-DL DDP5 1 DV HDR H 265-FLUX/Yellowjackets S03E02 Dislocation 2160p PMTP WEB-DL DDP5 1 DV HDR H 265-FLUX.nfo"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "name": "Yellowjackets S03E02 Dislocation 2160p PMTP WEB-DL DDP5 1 DV HDR H 265-NTb [IPT]",
+            "size_total": 6.170345594,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 6.170340449,
+                    "path": "Yellowjackets S03E02 Dislocation 2160p PMTP WEB-DL DDP5 1 DV HDR H 265-NTb/Yellowjackets S03E02 Dislocation 2160p PMTP WEB-DL DDP5 1 DV HDR H 265-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000005145,
+                    "path": "Yellowjackets S03E02 Dislocation 2160p PMTP WEB-DL DDP5 1 DV HDR H 265-NTb/Yellowjackets S03E02 Dislocation 2160p PMTP WEB-DL DDP5 1 DV HDR H 265-NTb.nfo"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "name": "Yellowjackets S03E02 Dislocation 720p AMZN WEB-DL DDP5 1 H 264-FLUX [IPT]",
+            "size_total": 1.116893376,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.116888278,
+                    "path": "Yellowjackets S03E02 Dislocation 720p AMZN WEB-DL DDP5 1 H 264-FLUX/Yellowjackets S03E02 Dislocation 720p AMZN WEB-DL DDP5 1 H 264-FLUX.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000005098,
+                    "path": "Yellowjackets S03E02 Dislocation 720p AMZN WEB-DL DDP5 1 H 264-FLUX/Yellowjackets S03E02 Dislocation 720p AMZN WEB-DL DDP5 1 H 264-FLUX.nfo"
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "name": "Yellowjackets S03E02 Dislocation 720p AMZN WEB-DL DDP5 1 H 264-FLUX[TGx]",
+            "size_total": 1.116893855,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.116888278,
+                    "path": "Yellowjackets S03E02 Dislocation 720p AMZN WEB-DL DDP5 1 H 264-FLUX[TGx]/Yellowjackets S03E02 Dislocation 720p AMZN WEB-DL DDP5 1 H 264-FLUX.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000005098,
+                    "path": "Yellowjackets S03E02 Dislocation 720p AMZN WEB-DL DDP5 1 H 264-FLUX[TGx]/Yellowjackets S03E02 Dislocation 720p AMZN WEB-DL DDP5 1 H 264-FLUX.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 4.79e-7,
+                    "path": "Yellowjackets S03E02 Dislocation 720p AMZN WEB-DL DDP5 1 H 264-FLUX[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "name": "Yellowjackets S03E02 Yellowjackets Dislocation 1080p AMZN WEB-DL DDP5 1 H 264-NTb [IPT]",
+            "size_total": 2.013974336,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.013969509,
+                    "path": "Yellowjackets S03E02 Yellowjackets Dislocation 1080p AMZN WEB-DL DDP5 1 H 264-NTb/Yellowjackets S03E02 Yellowjackets Dislocation 1080p AMZN WEB-DL DDP5 1 H 264-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000004827,
+                    "path": "Yellowjackets S03E02 Yellowjackets Dislocation 1080p AMZN WEB-DL DDP5 1 H 264-NTb/Yellowjackets S03E02 Yellowjackets Dislocation 1080p AMZN WEB-DL DDP5 1 H 264-NTb.nfo"
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "name": "Yellowjackets S03E02 Yellowjackets Dislocation 1080p AMZN WEB-DL DDP5 1 H 264-NTb[TGx]",
+            "size_total": 2.013974815,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.013969509,
+                    "path": "Yellowjackets S03E02 Yellowjackets Dislocation 1080p AMZN WEB-DL DDP5 1 H 264-NTb[TGx]/Yellowjackets S03E02 Yellowjackets Dislocation 1080p AMZN WEB-DL DDP5 1 H 264-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000004827,
+                    "path": "Yellowjackets S03E02 Yellowjackets Dislocation 1080p AMZN WEB-DL DDP5 1 H 264-NTb[TGx]/Yellowjackets S03E02 Yellowjackets Dislocation 1080p AMZN WEB-DL DDP5 1 H 264-NTb.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 4.79e-7,
+                    "path": "Yellowjackets S03E02 Yellowjackets Dislocation 1080p AMZN WEB-DL DDP5 1 H 264-NTb[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "name": "Yellowjackets S03E02 Yellowjackets Dislocation 720p AMZN WEB-DL DDP5 1 H 264-NTb [IPT]",
+            "size_total": 1.116892653,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.116887829,
+                    "path": "Yellowjackets S03E02 Yellowjackets Dislocation 720p AMZN WEB-DL DDP5 1 H 264-NTb/Yellowjackets S03E02 Yellowjackets Dislocation 720p AMZN WEB-DL DDP5 1 H 264-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000004824,
+                    "path": "Yellowjackets S03E02 Yellowjackets Dislocation 720p AMZN WEB-DL DDP5 1 H 264-NTb/Yellowjackets S03E02 Yellowjackets Dislocation 720p AMZN WEB-DL DDP5 1 H 264-NTb.nfo"
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "name": "Yellowjackets.S01E01.2021.720P-Dual-Lat",
+            "size_total": 1.773981979,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.773981716,
+                    "path": "Yellowjackets.S01E01.2021.720P-Dual-Lat/Yellowjackets.S01E01.2021.720P-Dual-Lat.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 2.13e-7,
+                    "path": "Yellowjackets.S01E01.2021.720P-Dual-Lat/Importante Leeme!.vbs"
+                },
+                {
+                    "number": 3,
+                    "size": 5e-8,
+                    "path": "Yellowjackets.S01E01.2021.720P-Dual-Lat/Descargar Películas, Series y Animes...url"
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "name": "Yellowjackets.S01E04.2021.720P-Dual-Lat",
+            "size_total": 1.782543661,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.782543398,
+                    "path": "Yellowjackets.S01E04.2021.720P-Dual-Lat/Yellowjackets.S01E04.2021.720P-Dual-Lat.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 2.13e-7,
+                    "path": "Yellowjackets.S01E04.2021.720P-Dual-Lat/Importante Leeme!.vbs"
+                },
+                {
+                    "number": 3,
+                    "size": 5e-8,
+                    "path": "Yellowjackets.S01E04.2021.720P-Dual-Lat/Descargar Películas, Series y Animes...url"
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "name": "Yellowjackets.S01E05.2021.720P-Dual-Lat",
+            "size_total": 1.753016508,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.753016245,
+                    "path": "Yellowjackets.S01E05.2021.720P-Dual-Lat/Yellowjackets.S01E05.2021.720P-Dual-Lat.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 2.13e-7,
+                    "path": "Yellowjackets.S01E05.2021.720P-Dual-Lat/Importante Leeme!.vbs"
+                },
+                {
+                    "number": 3,
+                    "size": 5e-8,
+                    "path": "Yellowjackets.S01E05.2021.720P-Dual-Lat/Descargar Películas, Series y Animes...url"
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "name": "Yellowjackets.S02E02.2023.1080P-Dual-Lat",
+            "size_total": 1.296399342,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.296399079,
+                    "path": "Yellowjackets.S02E02.2023.1080P-Dual-Lat/Yellowjackets.S02E02.2023.1080P-Dual-Lat.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 2.13e-7,
+                    "path": "Yellowjackets.S02E02.2023.1080P-Dual-Lat/Importante Leeme!.vbs"
+                },
+                {
+                    "number": 3,
+                    "size": 5e-8,
+                    "path": "Yellowjackets.S02E02.2023.1080P-Dual-Lat/Descargar Películas, Series y Animes...url"
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "name": "Yellowjackets.S02E03.2023.1080P-Dual-Lat",
+            "size_total": 1.233482849,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.233482586,
+                    "path": "Yellowjackets.S02E03.2023.1080P-Dual-Lat/Yellowjackets.S02E03.2023.1080P-Dual-Lat.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 2.13e-7,
+                    "path": "Yellowjackets.S02E03.2023.1080P-Dual-Lat/Importante Leeme!.vbs"
+                },
+                {
+                    "number": 3,
+                    "size": 5e-8,
+                    "path": "Yellowjackets.S02E03.2023.1080P-Dual-Lat/Descargar Películas, Series y Animes...url"
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "name": "Yellowjackets.S03.1080p.Ultradox",
+            "size_total": 4.40662526,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.222595675,
+                    "path": "Yellowjackets.S03.1080p.Ultradox/Yellowjackets.S03E01.1080p.Ultradox.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 2.184029585,
+                    "path": "Yellowjackets.S03.1080p.Ultradox/Yellowjackets.S03E02.1080p.Ultradox.mkv"
+                }
+            ]
+        },
+        {
+            "id": 31,
+            "name": "Yellowjackets.S03E01.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv",
+            "size_total": 0.673664751,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.673664751,
+                    "path": "Yellowjackets.S03E01.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv"
+                }
+            ]
+        },
+        {
+            "id": 32,
+            "name": "Yellowjackets.S03E01.1080p.AV1.10bit-MeGusta [IPT]",
+            "size_total": 0.56320006,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.00009769,
+                    "path": "Yellowjackets.S03E01.1080p.AV1.10bit-MeGusta/Screens/screen0001.jpg"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000076553,
+                    "path": "Yellowjackets.S03E01.1080p.AV1.10bit-MeGusta/Screens/screen0002.jpg"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000061909,
+                    "path": "Yellowjackets.S03E01.1080p.AV1.10bit-MeGusta/Screens/screen0003.jpg"
+                },
+                {
+                    "number": 4,
+                    "size": 0.562962785,
+                    "path": "Yellowjackets.S03E01.1080p.AV1.10bit-MeGusta/Yellowjackets.S03E01.1080p.AV1.10bit-MeGusta.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000001123,
+                    "path": "Yellowjackets.S03E01.1080p.AV1.10bit-MeGusta/Yellowjackets.S03E01.1080p.AV1.10bit-MeGusta.nfo"
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "name": "Yellowjackets.S03E01.1080p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.622306092,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.007969427,
+                    "path": "Yellowjackets.S03E01.1080p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.007811874,
+                    "path": "Yellowjackets.S03E01.1080p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.005475168,
+                    "path": "Yellowjackets.S03E01.1080p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.601048485,
+                    "path": "Yellowjackets.S03E01.1080p.HEVC.x265-MeGusta/Yellowjackets.S03E01.1080p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000001138,
+                    "path": "Yellowjackets.S03E01.1080p.HEVC.x265-MeGusta/Yellowjackets.S03E01.1080p.HEVC.x265-MeGusta.nfo"
+                }
+            ]
+        },
+        {
+            "id": 34,
+            "name": "Yellowjackets.S03E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv",
+            "size_total": 0.601048485,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.601048485,
+                    "path": "Yellowjackets.S03E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv"
+                }
+            ]
+        },
+        {
+            "id": 35,
+            "name": "Yellowjackets.S03E01.1080p.WEB-DL-[Feranki1980].mp4",
+            "size_total": 0.773208993,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.773208993,
+                    "path": "Yellowjackets.S03E01.1080p.WEB-DL-[Feranki1980].mp4"
+                }
+            ]
+        },
+        {
+            "id": 36,
+            "name": "Yellowjackets.S03E01.1080p.WEB.H264-SuccessfulCrab [IPT]",
+            "size_total": 2.288639693,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.001270652,
+                    "path": "Yellowjackets.S03E01.1080p.WEB.H264-SuccessfulCrab/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.001104503,
+                    "path": "Yellowjackets.S03E01.1080p.WEB.H264-SuccessfulCrab/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.002848579,
+                    "path": "Yellowjackets.S03E01.1080p.WEB.H264-SuccessfulCrab/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001233043,
+                    "path": "Yellowjackets.S03E01.1080p.WEB.H264-SuccessfulCrab/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 2.282171208,
+                    "path": "Yellowjackets.S03E01.1080p.WEB.H264-SuccessfulCrab/yellowjackets.s03e01.1080p.web.h264-successfulcrab.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000011708,
+                    "path": "Yellowjackets.S03E01.1080p.WEB.H264-SuccessfulCrab/yellowjackets.s03e01.1080p.web.h264-successfulcrab.nfo"
+                }
+            ]
+        },
+        {
+            "id": 37,
+            "name": "Yellowjackets.S03E01.1080p.WEB.H264-SuccessfulCrab",
+            "size_total": 2.282182916,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.282171208,
+                    "path": "Yellowjackets.S03E01.1080p.WEB.H264-SuccessfulCrab/yellowjackets.s03e01.1080p.web.h264-successfulcrab.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000011708,
+                    "path": "Yellowjackets.S03E01.1080p.WEB.H264-SuccessfulCrab/yellowjackets.s03e01.1080p.web.h264-successfulcrab.nfo"
+                }
+            ]
+        },
+        {
+            "id": 38,
+            "name": "Yellowjackets.S03E01.1080p.WEB.H264-SuccessfulCrab[TGx]",
+            "size_total": 2.282183395,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 4.79e-7,
+                    "path": "Yellowjackets.S03E01.1080p.WEB.H264-SuccessfulCrab[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                },
+                {
+                    "number": 2,
+                    "size": 2.282171208,
+                    "path": "Yellowjackets.S03E01.1080p.WEB.H264-SuccessfulCrab[TGx]/yellowjackets.s03e01.1080p.web.h264-successfulcrab.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000011708,
+                    "path": "Yellowjackets.S03E01.1080p.WEB.H264-SuccessfulCrab[TGx]/yellowjackets.s03e01.1080p.web.h264-successfulcrab.nfo"
+                }
+            ]
+        },
+        {
+            "id": 39,
+            "name": "Yellowjackets.S03E01.1080p.x265-ELiTE",
+            "size_total": 0.861863557,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.005994942,
+                    "path": "Yellowjackets.S03E01.1080p.x265-ELiTE/Screens/Yellowjackets.S03E01.1080p.x265-ELiTE.Screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000450497,
+                    "path": "Yellowjackets.S03E01.1080p.x265-ELiTE/Screens/Yellowjackets.S03E01.1080p.x265-ELiTE.Screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.006584735,
+                    "path": "Yellowjackets.S03E01.1080p.x265-ELiTE/Screens/Yellowjackets.S03E01.1080p.x265-ELiTE.Screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.004868778,
+                    "path": "Yellowjackets.S03E01.1080p.x265-ELiTE/Screens/Yellowjackets.S03E01.1080p.x265-ELiTE.Screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.843963307,
+                    "path": "Yellowjackets.S03E01.1080p.x265-ELiTE/Yellowjackets.S03E01.1080p.x265-ELiTE.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001298,
+                    "path": "Yellowjackets.S03E01.1080p.x265-ELiTE/Yellowjackets.S03E01.1080p.x265-ELiTE.nfo"
+                }
+            ]
+        },
+        {
+            "id": 40,
+            "name": "Yellowjackets.S03E01.480p.x264-mSD [IPT]",
+            "size_total": 0.410540432,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000298338,
+                    "path": "Yellowjackets.S03E01.480p.x264-mSD/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000266882,
+                    "path": "Yellowjackets.S03E01.480p.x264-mSD/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000171667,
+                    "path": "Yellowjackets.S03E01.480p.x264-mSD/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.409802575,
+                    "path": "Yellowjackets.S03E01.480p.x264-mSD/Yellowjackets.S03E01.480p.x264-mSD.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 9.7e-7,
+                    "path": "Yellowjackets.S03E01.480p.x264-mSD/Yellowjackets.S03E01.480p.x264-mSD.nfo"
+                }
+            ]
+        },
+        {
+            "id": 41,
+            "name": "Yellowjackets.S03E01.720p.WEB-DL-[Feranki1980].mp4",
+            "size_total": 0.454134449,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.454134449,
+                    "path": "Yellowjackets.S03E01.720p.WEB-DL-[Feranki1980].mp4"
+                }
+            ]
+        },
+        {
+            "id": 42,
+            "name": "Yellowjackets.S03E01.720p.WEB.x265-MiNX[TGx]",
+            "size_total": 0.2579198,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.25791927,
+                    "path": "Yellowjackets.S03E01.720p.WEB.x265-MiNX[TGx]/Yellowjackets.S03E01.720p.WEB.x265-MiNX.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 4.79e-7,
+                    "path": "Yellowjackets.S03E01.720p.WEB.x265-MiNX[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                },
+                {
+                    "number": 3,
+                    "size": 5.1e-8,
+                    "path": "Yellowjackets.S03E01.720p.WEB.x265-MiNX[TGx]/source.txt"
+                }
+            ]
+        },
+        {
+            "id": 43,
+            "name": "Yellowjackets.S03E01.DV.2160p.WEB.H265-SuccessfulCrab [IPT]",
+            "size_total": 6.256150791,
+            "files_total": 12,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.00001166,
+                    "path": "Yellowjackets.S03E01.DV.2160p.WEB.H265-SuccessfulCrab/yellowjackets.s03e01.dv.2160p.web.h265-successfulcrab.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.65,
+                    "path": "Yellowjackets.S03E01.DV.2160p.WEB.H265-SuccessfulCrab/yellowjackets.s03e01.dv.2160p.web.h265-successfulcrab.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.65,
+                    "path": "Yellowjackets.S03E01.DV.2160p.WEB.H265-SuccessfulCrab/yellowjackets.s03e01.dv.2160p.web.h265-successfulcrab.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.65,
+                    "path": "Yellowjackets.S03E01.DV.2160p.WEB.H265-SuccessfulCrab/yellowjackets.s03e01.dv.2160p.web.h265-successfulcrab.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.65,
+                    "path": "Yellowjackets.S03E01.DV.2160p.WEB.H265-SuccessfulCrab/yellowjackets.s03e01.dv.2160p.web.h265-successfulcrab.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.65,
+                    "path": "Yellowjackets.S03E01.DV.2160p.WEB.H265-SuccessfulCrab/yellowjackets.s03e01.dv.2160p.web.h265-successfulcrab.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.65,
+                    "path": "Yellowjackets.S03E01.DV.2160p.WEB.H265-SuccessfulCrab/yellowjackets.s03e01.dv.2160p.web.h265-successfulcrab.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.65,
+                    "path": "Yellowjackets.S03E01.DV.2160p.WEB.H265-SuccessfulCrab/yellowjackets.s03e01.dv.2160p.web.h265-successfulcrab.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.65,
+                    "path": "Yellowjackets.S03E01.DV.2160p.WEB.H265-SuccessfulCrab/yellowjackets.s03e01.dv.2160p.web.h265-successfulcrab.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.406138451,
+                    "path": "Yellowjackets.S03E01.DV.2160p.WEB.H265-SuccessfulCrab/yellowjackets.s03e01.dv.2160p.web.h265-successfulcrab.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.65,
+                    "path": "Yellowjackets.S03E01.DV.2160p.WEB.H265-SuccessfulCrab/yellowjackets.s03e01.dv.2160p.web.h265-successfulcrab.rar"
+                },
+                {
+                    "number": 12,
+                    "size": 6.8e-7,
+                    "path": "Yellowjackets.S03E01.DV.2160p.WEB.H265-SuccessfulCrab/yellowjackets.s03e01.dv.2160p.web.h265-successfulcrab.sfv"
+                }
+            ]
+        },
+        {
+            "id": 44,
+            "name": "Yellowjackets.S03E01.HDR.2160p.WEB.H265-SuccessfulCrab [IPT]",
+            "size_total": 6.096632385,
+            "files_total": 13,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000011661,
+                    "path": "Yellowjackets.S03E01.HDR.2160p.WEB.H265-SuccessfulCrab/yellowjackets.s03e01.hdr.2160p.web.h265-successfulcrab.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.6,
+                    "path": "Yellowjackets.S03E01.HDR.2160p.WEB.H265-SuccessfulCrab/yellowjackets.s03e01.hdr.2160p.web.h265-successfulcrab.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.6,
+                    "path": "Yellowjackets.S03E01.HDR.2160p.WEB.H265-SuccessfulCrab/yellowjackets.s03e01.hdr.2160p.web.h265-successfulcrab.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.6,
+                    "path": "Yellowjackets.S03E01.HDR.2160p.WEB.H265-SuccessfulCrab/yellowjackets.s03e01.hdr.2160p.web.h265-successfulcrab.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.6,
+                    "path": "Yellowjackets.S03E01.HDR.2160p.WEB.H265-SuccessfulCrab/yellowjackets.s03e01.hdr.2160p.web.h265-successfulcrab.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.6,
+                    "path": "Yellowjackets.S03E01.HDR.2160p.WEB.H265-SuccessfulCrab/yellowjackets.s03e01.hdr.2160p.web.h265-successfulcrab.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.6,
+                    "path": "Yellowjackets.S03E01.HDR.2160p.WEB.H265-SuccessfulCrab/yellowjackets.s03e01.hdr.2160p.web.h265-successfulcrab.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.6,
+                    "path": "Yellowjackets.S03E01.HDR.2160p.WEB.H265-SuccessfulCrab/yellowjackets.s03e01.hdr.2160p.web.h265-successfulcrab.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.6,
+                    "path": "Yellowjackets.S03E01.HDR.2160p.WEB.H265-SuccessfulCrab/yellowjackets.s03e01.hdr.2160p.web.h265-successfulcrab.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.6,
+                    "path": "Yellowjackets.S03E01.HDR.2160p.WEB.H265-SuccessfulCrab/yellowjackets.s03e01.hdr.2160p.web.h265-successfulcrab.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.096619965,
+                    "path": "Yellowjackets.S03E01.HDR.2160p.WEB.H265-SuccessfulCrab/yellowjackets.s03e01.hdr.2160p.web.h265-successfulcrab.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.6,
+                    "path": "Yellowjackets.S03E01.HDR.2160p.WEB.H265-SuccessfulCrab/yellowjackets.s03e01.hdr.2160p.web.h265-successfulcrab.rar"
+                },
+                {
+                    "number": 13,
+                    "size": 7.59e-7,
+                    "path": "Yellowjackets.S03E01.HDR.2160p.WEB.H265-SuccessfulCrab/yellowjackets.s03e01.hdr.2160p.web.h265-successfulcrab.sfv"
+                }
+            ]
+        },
+        {
+            "id": 45,
+            "name": "Yellowjackets.S03E01.It.Girl.1080p.HEVC.x265-MeGusta [IPT](1)",
+            "size_total": 0.62228653,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.007969427,
+                    "path": "Yellowjackets.S03E01.It.Girl.1080p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.007811874,
+                    "path": "Yellowjackets.S03E01.It.Girl.1080p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.005475168,
+                    "path": "Yellowjackets.S03E01.It.Girl.1080p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.601028903,
+                    "path": "Yellowjackets.S03E01.It.Girl.1080p.HEVC.x265-MeGusta/Yellowjackets.S03E01.It.Girl.1080p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000001158,
+                    "path": "Yellowjackets.S03E01.It.Girl.1080p.HEVC.x265-MeGusta/Yellowjackets.S03E01.It.Girl.1080p.HEVC.x265-MeGusta.nfo"
+                }
+            ]
+        },
+        {
+            "id": 46,
+            "name": "Yellowjackets.S03E01.It.Girl.1080p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.62228653,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.007969427,
+                    "path": "Yellowjackets.S03E01.It.Girl.1080p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.007811874,
+                    "path": "Yellowjackets.S03E01.It.Girl.1080p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.005475168,
+                    "path": "Yellowjackets.S03E01.It.Girl.1080p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.601028903,
+                    "path": "Yellowjackets.S03E01.It.Girl.1080p.HEVC.x265-MeGusta/Yellowjackets.S03E01.It.Girl.1080p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000001158,
+                    "path": "Yellowjackets.S03E01.It.Girl.1080p.HEVC.x265-MeGusta/Yellowjackets.S03E01.It.Girl.1080p.HEVC.x265-MeGusta.nfo"
+                }
+            ]
+        },
+        {
+            "id": 47,
+            "name": "Yellowjackets.S03E01.It.Girl.1080p.WEBRip.10bit.DDP5.1.x265-HODL.mkv [IPT]",
+            "size_total": 0.877463243,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.877463243,
+                    "path": "Yellowjackets.S03E01.It.Girl.1080p.WEBRip.10bit.DDP5.1.x265-HODL.mkv"
+                }
+            ]
+        },
+        {
+            "id": 48,
+            "name": "Yellowjackets.S03E01.It.Girl.1080p.WEBRip.10bit.DDP5.1.x265-HODL.mkv",
+            "size_total": 0.877463243,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.877463243,
+                    "path": "Yellowjackets.S03E01.It.Girl.1080p.WEBRip.10bit.DDP5.1.x265-HODL.mkv"
+                }
+            ]
+        },
+        {
+            "id": 49,
+            "name": "Yellowjackets.S03E01.It.Girl.480p.x264-mSD [IPT]",
+            "size_total": 0.41052089,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000298338,
+                    "path": "Yellowjackets.S03E01.It.Girl.480p.x264-mSD/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000266882,
+                    "path": "Yellowjackets.S03E01.It.Girl.480p.x264-mSD/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000171667,
+                    "path": "Yellowjackets.S03E01.It.Girl.480p.x264-mSD/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.409783018,
+                    "path": "Yellowjackets.S03E01.It.Girl.480p.x264-mSD/Yellowjackets.S03E01.It.Girl.480p.x264-mSD.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 9.85e-7,
+                    "path": "Yellowjackets.S03E01.It.Girl.480p.x264-mSD/Yellowjackets.S03E01.It.Girl.480p.x264-mSD.nfo"
+                }
+            ]
+        },
+        {
+            "id": 50,
+            "name": "Yellowjackets.S03E01.It.Girl.720p.HEVC.x265-MeGusta [IPT](1)",
+            "size_total": 0.476207488,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.003690893,
+                    "path": "Yellowjackets.S03E01.It.Girl.720p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.003638398,
+                    "path": "Yellowjackets.S03E01.It.Girl.720p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.002878503,
+                    "path": "Yellowjackets.S03E01.It.Girl.720p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.465998539,
+                    "path": "Yellowjackets.S03E01.It.Girl.720p.HEVC.x265-MeGusta/Yellowjackets.S03E01.It.Girl.720p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000001155,
+                    "path": "Yellowjackets.S03E01.It.Girl.720p.HEVC.x265-MeGusta/Yellowjackets.S03E01.It.Girl.720p.HEVC.x265-MeGusta.nfo"
+                }
+            ]
+        },
+        {
+            "id": 51,
+            "name": "Yellowjackets.S03E01.It.Girl.720p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.476207488,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.003690893,
+                    "path": "Yellowjackets.S03E01.It.Girl.720p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.003638398,
+                    "path": "Yellowjackets.S03E01.It.Girl.720p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.002878503,
+                    "path": "Yellowjackets.S03E01.It.Girl.720p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.465998539,
+                    "path": "Yellowjackets.S03E01.It.Girl.720p.HEVC.x265-MeGusta/Yellowjackets.S03E01.It.Girl.720p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000001155,
+                    "path": "Yellowjackets.S03E01.It.Girl.720p.HEVC.x265-MeGusta/Yellowjackets.S03E01.It.Girl.720p.HEVC.x265-MeGusta.nfo"
+                }
+            ]
+        },
+        {
+            "id": 52,
+            "name": "Yellowjackets.S03E01.It.Girl.AAC.MP4-Mobile [IPT](1)",
+            "size_total": 0.1920142,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000344595,
+                    "path": "Yellowjackets.S03E01.It.Girl.AAC.MP4-Mobile/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000306248,
+                    "path": "Yellowjackets.S03E01.It.Girl.AAC.MP4-Mobile/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000193789,
+                    "path": "Yellowjackets.S03E01.It.Girl.AAC.MP4-Mobile/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.191168325,
+                    "path": "Yellowjackets.S03E01.It.Girl.AAC.MP4-Mobile/Yellowjackets.S03E01.It.Girl.AAC.MP4-Mobile.mp4"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000001243,
+                    "path": "Yellowjackets.S03E01.It.Girl.AAC.MP4-Mobile/Yellowjackets.S03E01.It.Girl.AAC.MP4-Mobile.nfo"
+                }
+            ]
+        },
+        {
+            "id": 53,
+            "name": "Yellowjackets.S03E01.It.Girl.AAC.MP4-Mobile [IPT]",
+            "size_total": 0.1920142,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000344595,
+                    "path": "Yellowjackets.S03E01.It.Girl.AAC.MP4-Mobile/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000306248,
+                    "path": "Yellowjackets.S03E01.It.Girl.AAC.MP4-Mobile/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000193789,
+                    "path": "Yellowjackets.S03E01.It.Girl.AAC.MP4-Mobile/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.191168325,
+                    "path": "Yellowjackets.S03E01.It.Girl.AAC.MP4-Mobile/Yellowjackets.S03E01.It.Girl.AAC.MP4-Mobile.mp4"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000001243,
+                    "path": "Yellowjackets.S03E01.It.Girl.AAC.MP4-Mobile/Yellowjackets.S03E01.It.Girl.AAC.MP4-Mobile.nfo"
+                }
+            ]
+        },
+        {
+            "id": 54,
+            "name": "Yellowjackets.S03E01.It.Girl.XviD-AFG [IPT]",
+            "size_total": 0.446883002,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000334183,
+                    "path": "Yellowjackets.S03E01.It.Girl.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000304517,
+                    "path": "Yellowjackets.S03E01.It.Girl.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000200293,
+                    "path": "Yellowjackets.S03E01.It.Girl.XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.446042902,
+                    "path": "Yellowjackets.S03E01.It.Girl.XviD-AFG/Yellowjackets.S03E01.It.Girl.XviD-AFG.avi"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000001107,
+                    "path": "Yellowjackets.S03E01.It.Girl.XviD-AFG/Yellowjackets.S03E01.It.Girl.XviD-AFG.nfo"
+                }
+            ]
+        },
+        {
+            "id": 55,
+            "name": "Yellowjackets.S03E01.WEB.x264-TORRENTGALAXY[TGx]",
+            "size_total": 0.315282927,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.315282397,
+                    "path": "Yellowjackets.S03E01.WEB.x264-TORRENTGALAXY[TGx]/Yellowjackets.S03E01.WEB.x264-TORRENTGALAXY.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 4.79e-7,
+                    "path": "Yellowjackets.S03E01.WEB.x264-TORRENTGALAXY[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                },
+                {
+                    "number": 3,
+                    "size": 5.1e-8,
+                    "path": "Yellowjackets.S03E01.WEB.x264-TORRENTGALAXY[TGx]/source.txt"
+                }
+            ]
+        },
+        {
+            "id": 56,
+            "name": "Yellowjackets.S03E01.XviD-AFG [IPT]",
+            "size_total": 0.446884617,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000334183,
+                    "path": "Yellowjackets.S03E01.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000304517,
+                    "path": "Yellowjackets.S03E01.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000200293,
+                    "path": "Yellowjackets.S03E01.XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.446044534,
+                    "path": "Yellowjackets.S03E01.XviD-AFG/Yellowjackets.S03E01.XviD-AFG.avi"
+                },
+                {
+                    "number": 5,
+                    "size": 0.00000109,
+                    "path": "Yellowjackets.S03E01.XviD-AFG/Yellowjackets.S03E01.XviD-AFG.nfo"
+                }
+            ]
+        },
+        {
+            "id": 57,
+            "name": "Yellowjackets.S03E01E02.1080p.ColdFilm",
+            "size_total": 4.64953904,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.338474664,
+                    "path": "Yellowjackets.S03E01E02.1080p.ColdFilm/Yellowjackets.S03E01.1080p.ColdFilm.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 2.311064376,
+                    "path": "Yellowjackets.S03E01E02.1080p.ColdFilm/Yellowjackets.S03E02.1080p.ColdFilm.mkv"
+                }
+            ]
+        },
+        {
+            "id": 58,
+            "name": "Yellowjackets.S03E02.1080p.AV1.10bit-MeGusta [IPT]",
+            "size_total": 0.512659972,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000050064,
+                    "path": "Yellowjackets.S03E02.1080p.AV1.10bit-MeGusta/Screens/screen0001.jpg"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000033798,
+                    "path": "Yellowjackets.S03E02.1080p.AV1.10bit-MeGusta/Screens/screen0002.jpg"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000042519,
+                    "path": "Yellowjackets.S03E02.1080p.AV1.10bit-MeGusta/Screens/screen0003.jpg"
+                },
+                {
+                    "number": 4,
+                    "size": 0.512532468,
+                    "path": "Yellowjackets.S03E02.1080p.AV1.10bit-MeGusta/Yellowjackets.S03E02.1080p.AV1.10bit-MeGusta.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000001123,
+                    "path": "Yellowjackets.S03E02.1080p.AV1.10bit-MeGusta/Yellowjackets.S03E02.1080p.AV1.10bit-MeGusta.nfo"
+                }
+            ]
+        },
+        {
+            "id": 59,
+            "name": "Yellowjackets.S03E02.1080p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.560929134,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.006177502,
+                    "path": "Yellowjackets.S03E02.1080p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.002796624,
+                    "path": "Yellowjackets.S03E02.1080p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.002418994,
+                    "path": "Yellowjackets.S03E02.1080p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.549534875,
+                    "path": "Yellowjackets.S03E02.1080p.HEVC.x265-MeGusta/Yellowjackets.S03E02.1080p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000001139,
+                    "path": "Yellowjackets.S03E02.1080p.HEVC.x265-MeGusta/Yellowjackets.S03E02.1080p.HEVC.x265-MeGusta.nfo"
+                }
+            ]
+        },
+        {
+            "id": 60,
+            "name": "Yellowjackets.S03E02.1080p.WEB.h264-ETHEL [IPT]",
+            "size_total": 2.019410266,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000652181,
+                    "path": "Yellowjackets.S03E02.1080p.WEB.h264-ETHEL/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000461251,
+                    "path": "Yellowjackets.S03E02.1080p.WEB.h264-ETHEL/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.001864609,
+                    "path": "Yellowjackets.S03E02.1080p.WEB.h264-ETHEL/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.002507771,
+                    "path": "Yellowjackets.S03E02.1080p.WEB.h264-ETHEL/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 2.013923957,
+                    "path": "Yellowjackets.S03E02.1080p.WEB.h264-ETHEL/Yellowjackets.S03E02.1080p.WEB.h264-ETHEL.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 4.97e-7,
+                    "path": "Yellowjackets.S03E02.1080p.WEB.h264-ETHEL/yellowjackets.s03e02.1080p.web.h264-ethel.nfo"
+                }
+            ]
+        },
+        {
+            "id": 61,
+            "name": "Yellowjackets.S03E02.1080p.WEB.h264-ETHEL[TGx]",
+            "size_total": 2.013924933,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.013923957,
+                    "path": "Yellowjackets.S03E02.1080p.WEB.h264-ETHEL[TGx]/Yellowjackets.S03E02.1080p.WEB.h264-ETHEL.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 4.79e-7,
+                    "path": "Yellowjackets.S03E02.1080p.WEB.h264-ETHEL[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                },
+                {
+                    "number": 3,
+                    "size": 4.97e-7,
+                    "path": "Yellowjackets.S03E02.1080p.WEB.h264-ETHEL[TGx]/yellowjackets.s03e02.1080p.web.h264-ethel.nfo"
+                }
+            ]
+        },
+        {
+            "id": 62,
+            "name": "Yellowjackets.S03E02.1080p.WEB.H264-SuccessfulCrab [IPT]",
+            "size_total": 2.019398538,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000652181,
+                    "path": "Yellowjackets.S03E02.1080p.WEB.H264-SuccessfulCrab/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000461251,
+                    "path": "Yellowjackets.S03E02.1080p.WEB.H264-SuccessfulCrab/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.001864609,
+                    "path": "Yellowjackets.S03E02.1080p.WEB.H264-SuccessfulCrab/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.002507771,
+                    "path": "Yellowjackets.S03E02.1080p.WEB.H264-SuccessfulCrab/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 2.013900999,
+                    "path": "Yellowjackets.S03E02.1080p.WEB.H264-SuccessfulCrab/yellowjackets.s03e02.1080p.web.h264-successfulcrab.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000011727,
+                    "path": "Yellowjackets.S03E02.1080p.WEB.H264-SuccessfulCrab/yellowjackets.s03e02.1080p.web.h264-successfulcrab.nfo"
+                }
+            ]
+        },
+        {
+            "id": 63,
+            "name": "Yellowjackets.S03E02.1080p.WEB.H264-SuccessfulCrab[TGx]",
+            "size_total": 2.013913205,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 4.79e-7,
+                    "path": "Yellowjackets.S03E02.1080p.WEB.H264-SuccessfulCrab[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                },
+                {
+                    "number": 2,
+                    "size": 2.013900999,
+                    "path": "Yellowjackets.S03E02.1080p.WEB.H264-SuccessfulCrab[TGx]/yellowjackets.s03e02.1080p.web.h264-successfulcrab.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000011727,
+                    "path": "Yellowjackets.S03E02.1080p.WEB.H264-SuccessfulCrab[TGx]/yellowjackets.s03e02.1080p.web.h264-successfulcrab.nfo"
+                }
+            ]
+        },
+        {
+            "id": 64,
+            "name": "Yellowjackets.S03E02.480p.x264-mSD [IPT]",
+            "size_total": 0.384246997,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.00019286,
+                    "path": "Yellowjackets.S03E02.480p.x264-mSD/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000084332,
+                    "path": "Yellowjackets.S03E02.480p.x264-mSD/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000064982,
+                    "path": "Yellowjackets.S03E02.480p.x264-mSD/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.383903853,
+                    "path": "Yellowjackets.S03E02.480p.x264-mSD/Yellowjackets.S03E02.480p.x264-mSD.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 9.7e-7,
+                    "path": "Yellowjackets.S03E02.480p.x264-mSD/Yellowjackets.S03E02.480p.x264-mSD.nfo"
+                }
+            ]
+        },
+        {
+            "id": 65,
+            "name": "Yellowjackets.S03E02.720p.WEB-DL-[Feranki1980].mp4",
+            "size_total": 0.446431151,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.446431151,
+                    "path": "Yellowjackets.S03E02.720p.WEB-DL-[Feranki1980].mp4"
+                }
+            ]
+        },
+        {
+            "id": 66,
+            "name": "Yellowjackets.S03E02.720p.WEB.x265-MiNX[TGx]",
+            "size_total": 0.222676352,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.222675831,
+                    "path": "Yellowjackets.S03E02.720p.WEB.x265-MiNX[TGx]/Yellowjackets.S03E02.720p.WEB.x265-MiNX.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 4.79e-7,
+                    "path": "Yellowjackets.S03E02.720p.WEB.x265-MiNX[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                },
+                {
+                    "number": 3,
+                    "size": 4.2e-8,
+                    "path": "Yellowjackets.S03E02.720p.WEB.x265-MiNX[TGx]/source.txt"
+                }
+            ]
+        },
+        {
+            "id": 67,
+            "name": "Yellowjackets.S03E02.720p.x264-FENiX",
+            "size_total": 0.573651762,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000170264,
+                    "path": "Yellowjackets.S03E02.720p.x264-FENiX/Screens/Yellowjackets.S03E02.720p.x264-FENiX.Screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.00100487,
+                    "path": "Yellowjackets.S03E02.720p.x264-FENiX/Screens/Yellowjackets.S03E02.720p.x264-FENiX.Screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000473324,
+                    "path": "Yellowjackets.S03E02.720p.x264-FENiX/Screens/Yellowjackets.S03E02.720p.x264-FENiX.Screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.00066465,
+                    "path": "Yellowjackets.S03E02.720p.x264-FENiX/Screens/Yellowjackets.S03E02.720p.x264-FENiX.Screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.571337364,
+                    "path": "Yellowjackets.S03E02.720p.x264-FENiX/Yellowjackets.S03E02.720p.x264-FENiX.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.00000129,
+                    "path": "Yellowjackets.S03E02.720p.x264-FENiX/Yellowjackets.S03E02.720p.x264-FENiX.nfo"
+                }
+            ]
+        },
+        {
+            "id": 68,
+            "name": "Yellowjackets.S03E02.AAC.MP4-Mobile [IPT]",
+            "size_total": 0.16887318,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000215959,
+                    "path": "Yellowjackets.S03E02.AAC.MP4-Mobile/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000097898,
+                    "path": "Yellowjackets.S03E02.AAC.MP4-Mobile/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000076124,
+                    "path": "Yellowjackets.S03E02.AAC.MP4-Mobile/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.168481974,
+                    "path": "Yellowjackets.S03E02.AAC.MP4-Mobile/Yellowjackets.S03E02.AAC.MP4-Mobile.mp4"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000001225,
+                    "path": "Yellowjackets.S03E02.AAC.MP4-Mobile/Yellowjackets.S03E02.AAC.MP4-Mobile.nfo"
+                }
+            ]
+        },
+        {
+            "id": 69,
+            "name": "Yellowjackets.S03E02.Dislocation.1080p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.560889278,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.006177502,
+                    "path": "Yellowjackets.S03E02.Dislocation.1080p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.002796624,
+                    "path": "Yellowjackets.S03E02.Dislocation.1080p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.002418994,
+                    "path": "Yellowjackets.S03E02.Dislocation.1080p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.549494991,
+                    "path": "Yellowjackets.S03E02.Dislocation.1080p.HEVC.x265-MeGusta/Yellowjackets.S03E02.Dislocation.1080p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000001167,
+                    "path": "Yellowjackets.S03E02.Dislocation.1080p.HEVC.x265-MeGusta/Yellowjackets.S03E02.Dislocation.1080p.HEVC.x265-MeGusta.nfo"
+                }
+            ]
+        },
+        {
+            "id": 70,
+            "name": "Yellowjackets.S03E02.Dislocation.1080p.HEVC.x265-MeGusta[TGx]",
+            "size_total": 0.549496637,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.549494991,
+                    "path": "Yellowjackets.S03E02.Dislocation.1080p.HEVC.x265-MeGusta[TGx]/Yellowjackets.S03E02.Dislocation.1080p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001167,
+                    "path": "Yellowjackets.S03E02.Dislocation.1080p.HEVC.x265-MeGusta[TGx]/Yellowjackets.S03E02.Dislocation.1080p.HEVC.x265-MeGusta.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 4.79e-7,
+                    "path": "Yellowjackets.S03E02.Dislocation.1080p.HEVC.x265-MeGusta[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                }
+            ]
+        },
+        {
+            "id": 71,
+            "name": "Yellowjackets.S03E02.Dislocation.480p.x264-mSD [IPT]",
+            "size_total": 0.384229718,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.00019286,
+                    "path": "Yellowjackets.S03E02.Dislocation.480p.x264-mSD/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000084332,
+                    "path": "Yellowjackets.S03E02.Dislocation.480p.x264-mSD/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000064982,
+                    "path": "Yellowjackets.S03E02.Dislocation.480p.x264-mSD/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.38388655,
+                    "path": "Yellowjackets.S03E02.Dislocation.480p.x264-mSD/Yellowjackets.S03E02.Dislocation.480p.x264-mSD.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 9.94e-7,
+                    "path": "Yellowjackets.S03E02.Dislocation.480p.x264-mSD/Yellowjackets.S03E02.Dislocation.480p.x264-mSD.nfo"
+                }
+            ]
+        },
+        {
+            "id": 72,
+            "name": "Yellowjackets.S03E02.Dislocation.720p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.439910431,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.003180158,
+                    "path": "Yellowjackets.S03E02.Dislocation.720p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.001469337,
+                    "path": "Yellowjackets.S03E02.Dislocation.720p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.001247333,
+                    "path": "Yellowjackets.S03E02.Dislocation.720p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.434012441,
+                    "path": "Yellowjackets.S03E02.Dislocation.720p.HEVC.x265-MeGusta/Yellowjackets.S03E02.Dislocation.720p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000001162,
+                    "path": "Yellowjackets.S03E02.Dislocation.720p.HEVC.x265-MeGusta/Yellowjackets.S03E02.Dislocation.720p.HEVC.x265-MeGusta.nfo"
+                }
+            ]
+        },
+        {
+            "id": 73,
+            "name": "Yellowjackets.S03E02.Dislocation.AAC.MP4-Mobile [IPT]",
+            "size_total": 0.168873553,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000215959,
+                    "path": "Yellowjackets.S03E02.Dislocation.AAC.MP4-Mobile/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000097898,
+                    "path": "Yellowjackets.S03E02.Dislocation.AAC.MP4-Mobile/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000076124,
+                    "path": "Yellowjackets.S03E02.Dislocation.AAC.MP4-Mobile/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.168482322,
+                    "path": "Yellowjackets.S03E02.Dislocation.AAC.MP4-Mobile/Yellowjackets.S03E02.Dislocation.AAC.MP4-Mobile.mp4"
+                },
+                {
+                    "number": 5,
+                    "size": 0.00000125,
+                    "path": "Yellowjackets.S03E02.Dislocation.AAC.MP4-Mobile/Yellowjackets.S03E02.Dislocation.AAC.MP4-Mobile.nfo"
+                }
+            ]
+        },
+        {
+            "id": 74,
+            "name": "Yellowjackets.S03E02.Dislocation.XviD-AFG [IPT]",
+            "size_total": 0.395120976,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000221921,
+                    "path": "Yellowjackets.S03E02.Dislocation.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000095654,
+                    "path": "Yellowjackets.S03E02.Dislocation.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000069915,
+                    "path": "Yellowjackets.S03E02.Dislocation.XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.39473237,
+                    "path": "Yellowjackets.S03E02.Dislocation.XviD-AFG/Yellowjackets.S03E02.Dislocation.XviD-AFG.avi"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000001116,
+                    "path": "Yellowjackets.S03E02.Dislocation.XviD-AFG/Yellowjackets.S03E02.Dislocation.XviD-AFG.nfo"
+                }
+            ]
+        },
+        {
+            "id": 75,
+            "name": "Yellowjackets.S03E02.DV.2160p.WEB.H265-SuccessfulCrab [IPT](1)",
+            "size_total": 6.124180969,
+            "files_total": 13,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000011664,
+                    "path": "Yellowjackets.S03E02.DV.2160p.WEB.H265-SuccessfulCrab/yellowjackets.s03e02.dv.2160p.web.h265-successfulcrab.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.6,
+                    "path": "Yellowjackets.S03E02.DV.2160p.WEB.H265-SuccessfulCrab/yellowjackets.s03e02.dv.2160p.web.h265-successfulcrab.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.6,
+                    "path": "Yellowjackets.S03E02.DV.2160p.WEB.H265-SuccessfulCrab/yellowjackets.s03e02.dv.2160p.web.h265-successfulcrab.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.6,
+                    "path": "Yellowjackets.S03E02.DV.2160p.WEB.H265-SuccessfulCrab/yellowjackets.s03e02.dv.2160p.web.h265-successfulcrab.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.6,
+                    "path": "Yellowjackets.S03E02.DV.2160p.WEB.H265-SuccessfulCrab/yellowjackets.s03e02.dv.2160p.web.h265-successfulcrab.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.6,
+                    "path": "Yellowjackets.S03E02.DV.2160p.WEB.H265-SuccessfulCrab/yellowjackets.s03e02.dv.2160p.web.h265-successfulcrab.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.6,
+                    "path": "Yellowjackets.S03E02.DV.2160p.WEB.H265-SuccessfulCrab/yellowjackets.s03e02.dv.2160p.web.h265-successfulcrab.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.6,
+                    "path": "Yellowjackets.S03E02.DV.2160p.WEB.H265-SuccessfulCrab/yellowjackets.s03e02.dv.2160p.web.h265-successfulcrab.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.6,
+                    "path": "Yellowjackets.S03E02.DV.2160p.WEB.H265-SuccessfulCrab/yellowjackets.s03e02.dv.2160p.web.h265-successfulcrab.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.6,
+                    "path": "Yellowjackets.S03E02.DV.2160p.WEB.H265-SuccessfulCrab/yellowjackets.s03e02.dv.2160p.web.h265-successfulcrab.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.124168557,
+                    "path": "Yellowjackets.S03E02.DV.2160p.WEB.H265-SuccessfulCrab/yellowjackets.s03e02.dv.2160p.web.h265-successfulcrab.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.6,
+                    "path": "Yellowjackets.S03E02.DV.2160p.WEB.H265-SuccessfulCrab/yellowjackets.s03e02.dv.2160p.web.h265-successfulcrab.rar"
+                },
+                {
+                    "number": 13,
+                    "size": 7.48e-7,
+                    "path": "Yellowjackets.S03E02.DV.2160p.WEB.H265-SuccessfulCrab/yellowjackets.s03e02.dv.2160p.web.h265-successfulcrab.sfv"
+                }
+            ]
+        },
+        {
+            "id": 76,
+            "name": "Yellowjackets.S03E02.DV.2160p.WEB.H265-SuccessfulCrab [IPT]",
+            "size_total": 6.124180969,
+            "files_total": 13,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000011664,
+                    "path": "Yellowjackets.S03E02.DV.2160p.WEB.H265-SuccessfulCrab/yellowjackets.s03e02.dv.2160p.web.h265-successfulcrab.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.6,
+                    "path": "Yellowjackets.S03E02.DV.2160p.WEB.H265-SuccessfulCrab/yellowjackets.s03e02.dv.2160p.web.h265-successfulcrab.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.6,
+                    "path": "Yellowjackets.S03E02.DV.2160p.WEB.H265-SuccessfulCrab/yellowjackets.s03e02.dv.2160p.web.h265-successfulcrab.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.6,
+                    "path": "Yellowjackets.S03E02.DV.2160p.WEB.H265-SuccessfulCrab/yellowjackets.s03e02.dv.2160p.web.h265-successfulcrab.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.6,
+                    "path": "Yellowjackets.S03E02.DV.2160p.WEB.H265-SuccessfulCrab/yellowjackets.s03e02.dv.2160p.web.h265-successfulcrab.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.6,
+                    "path": "Yellowjackets.S03E02.DV.2160p.WEB.H265-SuccessfulCrab/yellowjackets.s03e02.dv.2160p.web.h265-successfulcrab.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.6,
+                    "path": "Yellowjackets.S03E02.DV.2160p.WEB.H265-SuccessfulCrab/yellowjackets.s03e02.dv.2160p.web.h265-successfulcrab.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.6,
+                    "path": "Yellowjackets.S03E02.DV.2160p.WEB.H265-SuccessfulCrab/yellowjackets.s03e02.dv.2160p.web.h265-successfulcrab.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.6,
+                    "path": "Yellowjackets.S03E02.DV.2160p.WEB.H265-SuccessfulCrab/yellowjackets.s03e02.dv.2160p.web.h265-successfulcrab.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.6,
+                    "path": "Yellowjackets.S03E02.DV.2160p.WEB.H265-SuccessfulCrab/yellowjackets.s03e02.dv.2160p.web.h265-successfulcrab.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.124168557,
+                    "path": "Yellowjackets.S03E02.DV.2160p.WEB.H265-SuccessfulCrab/yellowjackets.s03e02.dv.2160p.web.h265-successfulcrab.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.6,
+                    "path": "Yellowjackets.S03E02.DV.2160p.WEB.H265-SuccessfulCrab/yellowjackets.s03e02.dv.2160p.web.h265-successfulcrab.rar"
+                },
+                {
+                    "number": 13,
+                    "size": 7.48e-7,
+                    "path": "Yellowjackets.S03E02.DV.2160p.WEB.H265-SuccessfulCrab/yellowjackets.s03e02.dv.2160p.web.h265-successfulcrab.sfv"
+                }
+            ]
+        },
+        {
+            "id": 77,
+            "name": "Yellowjackets.S03E02.HDR.2160p.WEB.H265-SuccessfulCrab [IPT]",
+            "size_total": 5.958531589,
+            "files_total": 12,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000011665,
+                    "path": "Yellowjackets.S03E02.HDR.2160p.WEB.H265-SuccessfulCrab/yellowjackets.s03e02.hdr.2160p.web.h265-successfulcrab.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.6,
+                    "path": "Yellowjackets.S03E02.HDR.2160p.WEB.H265-SuccessfulCrab/yellowjackets.s03e02.hdr.2160p.web.h265-successfulcrab.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.6,
+                    "path": "Yellowjackets.S03E02.HDR.2160p.WEB.H265-SuccessfulCrab/yellowjackets.s03e02.hdr.2160p.web.h265-successfulcrab.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.6,
+                    "path": "Yellowjackets.S03E02.HDR.2160p.WEB.H265-SuccessfulCrab/yellowjackets.s03e02.hdr.2160p.web.h265-successfulcrab.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.6,
+                    "path": "Yellowjackets.S03E02.HDR.2160p.WEB.H265-SuccessfulCrab/yellowjackets.s03e02.hdr.2160p.web.h265-successfulcrab.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.6,
+                    "path": "Yellowjackets.S03E02.HDR.2160p.WEB.H265-SuccessfulCrab/yellowjackets.s03e02.hdr.2160p.web.h265-successfulcrab.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.6,
+                    "path": "Yellowjackets.S03E02.HDR.2160p.WEB.H265-SuccessfulCrab/yellowjackets.s03e02.hdr.2160p.web.h265-successfulcrab.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.6,
+                    "path": "Yellowjackets.S03E02.HDR.2160p.WEB.H265-SuccessfulCrab/yellowjackets.s03e02.hdr.2160p.web.h265-successfulcrab.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.6,
+                    "path": "Yellowjackets.S03E02.HDR.2160p.WEB.H265-SuccessfulCrab/yellowjackets.s03e02.hdr.2160p.web.h265-successfulcrab.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.558519244,
+                    "path": "Yellowjackets.S03E02.HDR.2160p.WEB.H265-SuccessfulCrab/yellowjackets.s03e02.hdr.2160p.web.h265-successfulcrab.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.6,
+                    "path": "Yellowjackets.S03E02.HDR.2160p.WEB.H265-SuccessfulCrab/yellowjackets.s03e02.hdr.2160p.web.h265-successfulcrab.rar"
+                },
+                {
+                    "number": 12,
+                    "size": 6.8e-7,
+                    "path": "Yellowjackets.S03E02.HDR.2160p.WEB.H265-SuccessfulCrab/yellowjackets.s03e02.hdr.2160p.web.h265-successfulcrab.sfv"
+                }
+            ]
+        },
+        {
+            "id": 78,
+            "name": "Yellowjackets.S03E02.XviD-AFG [IPT]",
+            "size_total": 0.395122175,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000221921,
+                    "path": "Yellowjackets.S03E02.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000095654,
+                    "path": "Yellowjackets.S03E02.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000069915,
+                    "path": "Yellowjackets.S03E02.XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.394733594,
+                    "path": "Yellowjackets.S03E02.XviD-AFG/Yellowjackets.S03E02.XviD-AFG.avi"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000001091,
+                    "path": "Yellowjackets.S03E02.XviD-AFG/Yellowjackets.S03E02.XviD-AFG.nfo"
+                }
+            ]
+        },
+        {
+            "id": 79,
+            "name": "Yellowjackets.S03E02.Yellowjackets.Dislocation.1080p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.560888974,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.006177502,
+                    "path": "Yellowjackets.S03E02.Yellowjackets.Dislocation.1080p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.002796624,
+                    "path": "Yellowjackets.S03E02.Yellowjackets.Dislocation.1080p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.002418994,
+                    "path": "Yellowjackets.S03E02.Yellowjackets.Dislocation.1080p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.549494663,
+                    "path": "Yellowjackets.S03E02.Yellowjackets.Dislocation.1080p.HEVC.x265-MeGusta/Yellowjackets.S03E02.Yellowjackets.Dislocation.1080p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000001191,
+                    "path": "Yellowjackets.S03E02.Yellowjackets.Dislocation.1080p.HEVC.x265-MeGusta/Yellowjackets.S03E02.Yellowjackets.Dislocation.1080p.HEVC.x265-MeGusta.nfo"
+                }
+            ]
+        },
+        {
+            "id": 80,
+            "name": "Yellowjackets.S03E02.Yellowjackets.Dislocation.1080p.WEBRip.10bit.DDP5.1.x265-HODL.mkv [IPT]",
+            "size_total": 0.848895674,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.848895674,
+                    "path": "Yellowjackets.S03E02.Yellowjackets.Dislocation.1080p.WEBRip.10bit.DDP5.1.x265-HODL.mkv"
+                }
+            ]
+        },
+        {
+            "id": 81,
+            "name": "Yellowjackets.S03E02.Yellowjackets.Dislocation.1080p.WEBRip.10bit.DDP5.1.x265-HODL.mkv",
+            "size_total": 0.848895674,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.848895674,
+                    "path": "Yellowjackets.S03E02.Yellowjackets.Dislocation.1080p.WEBRip.10bit.DDP5.1.x265-HODL.mkv"
+                }
+            ]
+        },
+        {
+            "id": 82,
+            "name": "Yellowjackets.S03E02.Yellowjackets.Dislocation.480p.x264-mSD [IPT](1)",
+            "size_total": 0.384229494,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.00019286,
+                    "path": "Yellowjackets.S03E02.Yellowjackets.Dislocation.480p.x264-mSD/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000084332,
+                    "path": "Yellowjackets.S03E02.Yellowjackets.Dislocation.480p.x264-mSD/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000064982,
+                    "path": "Yellowjackets.S03E02.Yellowjackets.Dislocation.480p.x264-mSD/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.383886298,
+                    "path": "Yellowjackets.S03E02.Yellowjackets.Dislocation.480p.x264-mSD/Yellowjackets.S03E02.Yellowjackets.Dislocation.480p.x264-mSD.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000001022,
+                    "path": "Yellowjackets.S03E02.Yellowjackets.Dislocation.480p.x264-mSD/Yellowjackets.S03E02.Yellowjackets.Dislocation.480p.x264-mSD.nfo"
+                }
+            ]
+        },
+        {
+            "id": 83,
+            "name": "Yellowjackets.S03E02.Yellowjackets.Dislocation.480p.x264-mSD [IPT]",
+            "size_total": 0.384229494,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.00019286,
+                    "path": "Yellowjackets.S03E02.Yellowjackets.Dislocation.480p.x264-mSD/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000084332,
+                    "path": "Yellowjackets.S03E02.Yellowjackets.Dislocation.480p.x264-mSD/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000064982,
+                    "path": "Yellowjackets.S03E02.Yellowjackets.Dislocation.480p.x264-mSD/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.383886298,
+                    "path": "Yellowjackets.S03E02.Yellowjackets.Dislocation.480p.x264-mSD/Yellowjackets.S03E02.Yellowjackets.Dislocation.480p.x264-mSD.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000001022,
+                    "path": "Yellowjackets.S03E02.Yellowjackets.Dislocation.480p.x264-mSD/Yellowjackets.S03E02.Yellowjackets.Dislocation.480p.x264-mSD.nfo"
+                }
+            ]
+        },
+        {
+            "id": 84,
+            "name": "Yellowjackets.S03E02.Yellowjackets.Dislocation.720p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.439911806,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.003180158,
+                    "path": "Yellowjackets.S03E02.Yellowjackets.Dislocation.720p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.001469337,
+                    "path": "Yellowjackets.S03E02.Yellowjackets.Dislocation.720p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.001247333,
+                    "path": "Yellowjackets.S03E02.Yellowjackets.Dislocation.720p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.434013793,
+                    "path": "Yellowjackets.S03E02.Yellowjackets.Dislocation.720p.HEVC.x265-MeGusta/Yellowjackets.S03E02.Yellowjackets.Dislocation.720p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000001185,
+                    "path": "Yellowjackets.S03E02.Yellowjackets.Dislocation.720p.HEVC.x265-MeGusta/Yellowjackets.S03E02.Yellowjackets.Dislocation.720p.HEVC.x265-MeGusta.nfo"
+                }
+            ]
+        },
+        {
+            "id": 85,
+            "name": "Yellowjackets.S03E02.Yellowjackets.Dislocation.AAC.MP4-Mobile [IPT]",
+            "size_total": 0.168872826,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000215959,
+                    "path": "Yellowjackets.S03E02.Yellowjackets.Dislocation.AAC.MP4-Mobile/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000097898,
+                    "path": "Yellowjackets.S03E02.Yellowjackets.Dislocation.AAC.MP4-Mobile/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000076124,
+                    "path": "Yellowjackets.S03E02.Yellowjackets.Dislocation.AAC.MP4-Mobile/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.168481566,
+                    "path": "Yellowjackets.S03E02.Yellowjackets.Dislocation.AAC.MP4-Mobile/Yellowjackets.S03E02.Yellowjackets.Dislocation.AAC.MP4-Mobile.mp4"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000001279,
+                    "path": "Yellowjackets.S03E02.Yellowjackets.Dislocation.AAC.MP4-Mobile/Yellowjackets.S03E02.Yellowjackets.Dislocation.AAC.MP4-Mobile.nfo"
+                }
+            ]
+        },
+        {
+            "id": 86,
+            "name": "Yellowjackets.S03E02.Yellowjackets.Dislocation.XviD-AFG [IPT]",
+            "size_total": 0.395121004,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000221921,
+                    "path": "Yellowjackets.S03E02.Yellowjackets.Dislocation.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000095654,
+                    "path": "Yellowjackets.S03E02.Yellowjackets.Dislocation.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000069915,
+                    "path": "Yellowjackets.S03E02.Yellowjackets.Dislocation.XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.39473237,
+                    "path": "Yellowjackets.S03E02.Yellowjackets.Dislocation.XviD-AFG/Yellowjackets.S03E02.Yellowjackets.Dislocation.XviD-AFG.avi"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000001144,
+                    "path": "Yellowjackets.S03E02.Yellowjackets.Dislocation.XviD-AFG/Yellowjackets.S03E02.Yellowjackets.Dislocation.XviD-AFG.nfo"
+                }
+            ]
+        }
+    ],
+    "collection_cumulative_by_btiha": [
+        {
+            "id": 34,
+            "name": "Yellowjackets.S03E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv",
+            "btih": "aec66b79153d231183db598291b7527c14dd1651",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.601048485,
+            "creation": "2025-02-14T06:33:07.000000000Z,EZTV,Visit us: https://eztv.li/ (eztvstatus.org, eztv.ag, eztv.it, eztv.ch)",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 14867,
+            "uuploaders": 6160
+        },
+        {
+            "id": 61,
+            "name": "Yellowjackets.S03E02.1080p.WEB.h264-ETHEL[TGx]",
+            "btih": "cebbb9568417d35ac0139daf4f41727c43bd30df",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.013924933,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 5770,
+            "uuploaders": 2834
+        },
+        {
+            "id": 38,
+            "name": "Yellowjackets.S03E01.1080p.WEB.H264-SuccessfulCrab[TGx]",
+            "btih": "c73e8bd96802f96a902615b46f2f507092bc1ffc",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.282183395,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 5447,
+            "uuploaders": 2541
+        },
+        {
+            "id": 67,
+            "name": "Yellowjackets.S03E02.720p.x264-FENiX",
+            "btih": "acad31f1b4e456229dd39dcf9d2bd4f301f2ffd9",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.573651762,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 3067,
+            "uuploaders": 1413
+        },
+        {
+            "id": 36,
+            "name": "Yellowjackets.S03E01.1080p.WEB.H264-SuccessfulCrab [IPT]",
+            "btih": "0ab99d4aaf2fa2bcf0640a78477753732a31fe80",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.288639693,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 2339,
+            "uuploaders": 383
+        },
+        {
+            "id": 42,
+            "name": "Yellowjackets.S03E01.720p.WEB.x265-MiNX[TGx]",
+            "btih": "f8a5b3b440ec3a50989d8fa7249e9025e3963000",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.2579198,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2324,
+            "uuploaders": 419
+        },
+        {
+            "id": 35,
+            "name": "Yellowjackets.S03E01.1080p.WEB-DL-[Feranki1980].mp4",
+            "btih": "6d34f51a86357b65e7b2d632ca5f6d2d06231f20",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 0.773208993,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2197,
+            "uuploaders": 423
+        },
+        {
+            "id": 62,
+            "name": "Yellowjackets.S03E02.1080p.WEB.H264-SuccessfulCrab [IPT]",
+            "btih": "e508a7b26b2a0262080b5d8f99ebe4ee561072fa",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.019398538,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 2145,
+            "uuploaders": 333
+        },
+        {
+            "id": 70,
+            "name": "Yellowjackets.S03E02.Dislocation.1080p.HEVC.x265-MeGusta[TGx]",
+            "btih": "c9cee3ea295753136d0c01e12aa3e57d3e00bc84",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.549496637,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1392,
+            "uuploaders": 26
+        },
+        {
+            "id": 55,
+            "name": "Yellowjackets.S03E01.WEB.x264-TORRENTGALAXY[TGx]",
+            "btih": "da3de185670e928ae8e9a60d0392c545b35428d3",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.315282927,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1336,
+            "uuploaders": 59
+        },
+        {
+            "id": 41,
+            "name": "Yellowjackets.S03E01.720p.WEB-DL-[Feranki1980].mp4",
+            "btih": "e62819be413a548295a5cc61eaa8d5cac721d7a8",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.454134449,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1300,
+            "uuploaders": 47
+        },
+        {
+            "id": 81,
+            "name": "Yellowjackets.S03E02.Yellowjackets.Dislocation.1080p.WEBRip.10bit.DDP5.1.x265-HODL.mkv",
+            "btih": "d685968e97f11b3fb2222092465ff47c2ceb14ec",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.848895674,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1289,
+            "uuploaders": 139
+        },
+        {
+            "id": 37,
+            "name": "Yellowjackets.S03E01.1080p.WEB.H264-SuccessfulCrab",
+            "btih": "b141bae41ae0b051ee1a5a38e7e02238c50260fa",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.282182916,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1236,
+            "uuploaders": 77
+        },
+        {
+            "id": 39,
+            "name": "Yellowjackets.S03E01.1080p.x265-ELiTE",
+            "btih": "b719c7f1796c403edb3a2722bf532dc5b233c365",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.861863557,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1216,
+            "uuploaders": 91
+        },
+        {
+            "id": 66,
+            "name": "Yellowjackets.S03E02.720p.WEB.x265-MiNX[TGx]",
+            "btih": "db6081e2bea7b7e744c9fb642a99f5d3fd6c2c5e",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.222676352,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1150,
+            "uuploaders": 225
+        },
+        {
+            "id": 33,
+            "name": "Yellowjackets.S03E01.1080p.HEVC.x265-MeGusta [IPT]",
+            "btih": "f48dd53be8de97a29b442b92937951f7d1829fe2",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.622306092,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 1091,
+            "uuploaders": 149
+        },
+        {
+            "id": 65,
+            "name": "Yellowjackets.S03E02.720p.WEB-DL-[Feranki1980].mp4",
+            "btih": "badc92d26823470453825ae75b97c9488a978808",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.446431151,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1040,
+            "uuploaders": 52
+        },
+        {
+            "id": 23,
+            "name": "Yellowjackets S03E02 Yellowjackets Dislocation 1080p AMZN WEB-DL DDP5 1 H 264-NTb[TGx]",
+            "btih": "11453eba7780da7492a34857d383fb45c8f680ec",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.013974815,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1039,
+            "uuploaders": 144
+        },
+        {
+            "id": 59,
+            "name": "Yellowjackets.S03E02.1080p.HEVC.x265-MeGusta [IPT]",
+            "btih": "25076b4c47adc6e0320f7dd0937846b0f63c89ac",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.560929134,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 1030,
+            "uuploaders": 162
+        },
+        {
+            "id": 48,
+            "name": "Yellowjackets.S03E01.It.Girl.1080p.WEBRip.10bit.DDP5.1.x265-HODL.mkv",
+            "btih": "a729ce175b56222831407bf706e485852bdc67e0",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.877463243,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1025,
+            "uuploaders": 212
+        },
+        {
+            "id": 31,
+            "name": "Yellowjackets.S03E01.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv",
+            "btih": "6312591340bc5f0478c206c48d6ae98f0c09df8e",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.673664751,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 846,
+            "uuploaders": 32
+        },
+        {
+            "id": 63,
+            "name": "Yellowjackets.S03E02.1080p.WEB.H264-SuccessfulCrab[TGx]",
+            "btih": "4bbfadd0ae394771b03d1cb687406481cbbc04a7",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.013913205,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 774,
+            "uuploaders": 99
+        },
+        {
+            "id": 88,
+            "name": "multi-btih-1-2-x-Yellowjackets.S03E01.It.Girl.1080p.HEVC.x265-MeGusta [IPT](1)",
+            "btih": "07c2e59f6f355a80d0618ad7d08b6bb2ccd6e74b",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.62228653,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 664,
+            "uuploaders": 264
+        },
+        {
+            "id": 1,
+            "name": "www.Torrenting.com - Yellowjackets S03E02 1080p x265-ELiTE",
+            "btih": "2427d8466d12bcaba1e413c208f9bdc6947f516b",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.765336247,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 548,
+            "uuploaders": 67
+        },
+        {
+            "id": 69,
+            "name": "Yellowjackets.S03E02.Dislocation.1080p.HEVC.x265-MeGusta [IPT]",
+            "btih": "629973862e4bf9f699aba9bef1eb5ad03f7d06d4",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.560889278,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 464,
+            "uuploaders": 178
+        },
+        {
+            "id": 25,
+            "name": "Yellowjackets.S01E01.2021.720P-Dual-Lat",
+            "btih": "a2e66c1a7c8cc9dfe606b3374c181acaecf095cf",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 1.773981979,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 412,
+            "uuploaders": 8
+        },
+        {
+            "id": 21,
+            "name": "Yellowjackets S03E02 Dislocation 720p AMZN WEB-DL DDP5 1 H 264-FLUX[TGx]",
+            "btih": "0a1c6f6cf7c506dc0a8a554fb8ed654143cab9e7",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.116893855,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 385,
+            "uuploaders": 30
+        },
+        {
+            "id": 47,
+            "name": "Yellowjackets.S03E01.It.Girl.1080p.WEBRip.10bit.DDP5.1.x265-HODL.mkv [IPT]",
+            "btih": "b6b7829fa90cbcf6b3b4c5b1252d87cde268a570",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.877463243,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 377,
+            "uuploaders": 167
+        },
+        {
+            "id": 80,
+            "name": "Yellowjackets.S03E02.Yellowjackets.Dislocation.1080p.WEBRip.10bit.DDP5.1.x265-HODL.mkv [IPT]",
+            "btih": "477127d9d18f2c56f802ccaabab97c6ee5416852",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.848895674,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 333,
+            "uuploaders": 140
+        },
+        {
+            "id": 79,
+            "name": "Yellowjackets.S03E02.Yellowjackets.Dislocation.1080p.HEVC.x265-MeGusta [IPT]",
+            "btih": "629e580685812282b5439ec55dc52474bedf3821",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.560888974,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 318,
+            "uuploaders": 173
+        },
+        {
+            "id": 28,
+            "name": "Yellowjackets.S02E02.2023.1080P-Dual-Lat",
+            "btih": "03b30b53be394370e8b82b28dfe1fd394e86d7a5",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 1.296399342,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 306,
+            "uuploaders": 4
+        },
+        {
+            "id": 15,
+            "name": "Yellowjackets S03E02 Dislocation 1080p AMZN WEB-DL DDP5 1 H 264-FLUX [IPT]",
+            "btih": "64cd9caa7e5290bf96ac41927d0abab100f85605",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.013975063,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 295,
+            "uuploaders": 151
+        },
+        {
+            "id": 44,
+            "name": "Yellowjackets.S03E01.HDR.2160p.WEB.H265-SuccessfulCrab [IPT]",
+            "btih": "8e4fbfe70aa382088960f0f19527e7a351ae6878",
+            "resolution": "2160",
+            "encoding": "265",
+            "gigabytes": 6.096632385,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 286,
+            "uuploaders": 163
+        },
+        {
+            "id": 4,
+            "name": "Yellowjackets S03E01 It Girl 1080p AMZN WEB-DL DDP5 1 H 264-FLUX [IPT]",
+            "btih": "4db406b4d6d34d1f24550220f287347e7818e6da",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.282235597,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 285,
+            "uuploaders": 157
+        },
+        {
+            "id": 77,
+            "name": "Yellowjackets.S03E02.HDR.2160p.WEB.H265-SuccessfulCrab [IPT]",
+            "btih": "a8d124d30f10b210291cbec281dd08cb299207b5",
+            "resolution": "2160",
+            "encoding": "265",
+            "gigabytes": 5.958531589,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 272,
+            "uuploaders": 159
+        },
+        {
+            "id": 60,
+            "name": "Yellowjackets.S03E02.1080p.WEB.h264-ETHEL [IPT]",
+            "btih": "f2a2fcca282d7d4a743aaba2910903042058621e",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.019410266,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 266,
+            "uuploaders": 167
+        },
+        {
+            "id": 27,
+            "name": "Yellowjackets.S01E05.2021.720P-Dual-Lat",
+            "btih": "68a98ef4c5435f16804c25dea022a96a1bf5cb6c",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 1.753016508,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 241,
+            "uuploaders": 6
+        },
+        {
+            "id": 26,
+            "name": "Yellowjackets.S01E04.2021.720P-Dual-Lat",
+            "btih": "97a05b5f5c6cddb897d1295769093cfe023a5805",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 1.782543661,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 222,
+            "uuploaders": 6
+        },
+        {
+            "id": 72,
+            "name": "Yellowjackets.S03E02.Dislocation.720p.HEVC.x265-MeGusta [IPT]",
+            "btih": "a5e5d1e205d00080e6e30097479b4b764a438cdc",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.439910431,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 197,
+            "uuploaders": 117
+        },
+        {
+            "id": 8,
+            "name": "Yellowjackets S03E01 It Girl 2160p PMTP WEB-DL DDP5 1 DV HDR H 265-FLUX [IPT]",
+            "btih": "fc834ad949400d511df81d14d6562305a3df2c4a",
+            "resolution": "2160",
+            "encoding": "265",
+            "gigabytes": 6.311740874,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 165,
+            "uuploaders": 61
+        },
+        {
+            "id": 29,
+            "name": "Yellowjackets.S02E03.2023.1080P-Dual-Lat",
+            "btih": "8cea6806ff08c63567d9f3bd2743d4443484a17f",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 1.233482849,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 164,
+            "uuploaders": 6
+        },
+        {
+            "id": 57,
+            "name": "Yellowjackets.S03E01E02.1080p.ColdFilm",
+            "btih": "cd2d5ca111b1113339aa47607a70b1bf7f02f459",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 4.64953904,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 161,
+            "uuploaders": 19
+        },
+        {
+            "id": 2,
+            "name": "Yellowjackets S03E01 1080p x265-ELiTE [IPT]",
+            "btih": "829f06d5c5a74223741779cd089513330d3256ba",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.873071153,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 117,
+            "uuploaders": 62
+        },
+        {
+            "id": 18,
+            "name": "Yellowjackets S03E02 Dislocation 2160p PMTP WEB-DL DDP5 1 DV HDR H 265-FLUX [IPT]",
+            "btih": "ad73756ddf725ae0cb137e7e1abe94cacf80feb2",
+            "resolution": "2160",
+            "encoding": "265",
+            "gigabytes": 6.170139791,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 115,
+            "uuploaders": 49
+        },
+        {
+            "id": 13,
+            "name": "Yellowjackets S03E02 1080p x265-ELiTE [IPT]",
+            "btih": "2362bd1c75e9b1c4cf148e032a0f2cfabc837cf6",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.765336161,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 114,
+            "uuploaders": 65
+        },
+        {
+            "id": 19,
+            "name": "Yellowjackets S03E02 Dislocation 2160p PMTP WEB-DL DDP5 1 DV HDR H 265-NTb [IPT]",
+            "btih": "4e4850a760fe6f02848c043925853effd078d4a2",
+            "resolution": "2160",
+            "encoding": "265",
+            "gigabytes": 6.170345594,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 100,
+            "uuploaders": 57
+        },
+        {
+            "id": 5,
+            "name": "Yellowjackets S03E01 It Girl 1080p AMZN WEB-DL DDP5 1 H 264-NTb [IPT]",
+            "btih": "26f8bb10d71e39ec1d4e6c0febc4c4afb67ad5f0",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.282234631,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 95,
+            "uuploaders": 41
+        },
+        {
+            "id": 89,
+            "name": "multi-btih-2-2-x-Yellowjackets.S03E01.It.Girl.720p.HEVC.x265-MeGusta [IPT](1)",
+            "btih": "dca5e6580e81271614ab3e36bcf5f696b6b0cf40",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.476207488,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 81,
+            "uuploaders": 63
+        },
+        {
+            "id": 3,
+            "name": "Yellowjackets S03E01 720p x264-FENiX [IPT]",
+            "btih": "e5241624db9cca213916cab398616be23b97233a",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.638228819,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 80,
+            "uuploaders": 34
+        },
+        {
+            "id": 87,
+            "name": "multi-btih-0-2-x-Yellowjackets S03E01 It Girl 2160p PMTP WEB-DL DDP5 1 DV HDR H 265-NTb [IPT](1)",
+            "btih": "acdd1f1f854ca66631adf66da6446990a2de55a9",
+            "resolution": "2160",
+            "encoding": "265",
+            "gigabytes": 6.31194959,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 79,
+            "uuploaders": 55
+        },
+        {
+            "id": 22,
+            "name": "Yellowjackets S03E02 Yellowjackets Dislocation 1080p AMZN WEB-DL DDP5 1 H 264-NTb [IPT]",
+            "btih": "b0a66e710bc386720a7d3988511639c1d9b5b15f",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.013974336,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 75,
+            "uuploaders": 37
+        },
+        {
+            "id": 20,
+            "name": "Yellowjackets S03E02 Dislocation 720p AMZN WEB-DL DDP5 1 H 264-FLUX [IPT]",
+            "btih": "2972fae70bc353bf8b0a11b667859386e0c40f75",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.116893376,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 70,
+            "uuploaders": 30
+        },
+        {
+            "id": 78,
+            "name": "Yellowjackets.S03E02.XviD-AFG [IPT]",
+            "btih": "bf0d04cffdd9d310a36aa3b6eb58cb84bfb83b19",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.395122175,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 67,
+            "uuploaders": 26
+        },
+        {
+            "id": 64,
+            "name": "Yellowjackets.S03E02.480p.x264-mSD [IPT]",
+            "btih": "e3214e4704dc143d6613d5d89937b4f3781d84e8",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.384246997,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 64,
+            "uuploaders": 31
+        },
+        {
+            "id": 32,
+            "name": "Yellowjackets.S03E01.1080p.AV1.10bit-MeGusta [IPT]",
+            "btih": "7829e373b184ed5186f2a40b420ad18352f067f0",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 0.56320006,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 62,
+            "uuploaders": 38
+        },
+        {
+            "id": 16,
+            "name": "Yellowjackets S03E02 Dislocation 2160p PMTP WEB-DL DDP5 1 DV H 265-FLUX [IPT]",
+            "btih": "8e1d78c8642c693ecf880d068a2cdee3b9e7decd",
+            "resolution": "2160",
+            "encoding": "265",
+            "gigabytes": 6.31902676,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 58,
+            "uuploaders": 33
+        },
+        {
+            "id": 84,
+            "name": "Yellowjackets.S03E02.Yellowjackets.Dislocation.720p.HEVC.x265-MeGusta [IPT]",
+            "btih": "57fa3f098569042578b7db7fbfe7034f741b08a1",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.439911806,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 56,
+            "uuploaders": 34
+        },
+        {
+            "id": 12,
+            "name": "Yellowjackets S03E01 It Girl 720p AMZN WEB-DL DDP5 1 H 264-NTb [IPT]",
+            "btih": "ebf0c486e60ec53d26343a2364f5e1be6adbadb8",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.261294567,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 55,
+            "uuploaders": 25
+        },
+        {
+            "id": 54,
+            "name": "Yellowjackets.S03E01.It.Girl.XviD-AFG [IPT]",
+            "btih": "cacd8dc5e95b74451438ab1c43138f0cbe45e85b",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.446883002,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 53,
+            "uuploaders": 34
+        },
+        {
+            "id": 11,
+            "name": "Yellowjackets S03E01 It Girl 720p AMZN WEB-DL DDP5 1 H 264-FLUX [IPT]",
+            "btih": "fed92c0f46e2fb0012b214e166efe79ae3ece573",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.26129553,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 52,
+            "uuploaders": 31
+        },
+        {
+            "id": 24,
+            "name": "Yellowjackets S03E02 Yellowjackets Dislocation 720p AMZN WEB-DL DDP5 1 H 264-NTb [IPT]",
+            "btih": "bf4d34713e6be02d251d9d6bbbd6eeb9908afbeb",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.116892653,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 51,
+            "uuploaders": 29
+        },
+        {
+            "id": 58,
+            "name": "Yellowjackets.S03E02.1080p.AV1.10bit-MeGusta [IPT]",
+            "btih": "48e689f1b54381d6237794cf5064cd4a5edda2b4",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 0.512659972,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 50,
+            "uuploaders": 29
+        },
+        {
+            "id": 86,
+            "name": "Yellowjackets.S03E02.Yellowjackets.Dislocation.XviD-AFG [IPT]",
+            "btih": "01b259b65b0c3e1791f2f5ab38168530fdbdc88e",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.395121004,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 47,
+            "uuploaders": 16
+        },
+        {
+            "id": 40,
+            "name": "Yellowjackets.S03E01.480p.x264-mSD [IPT]",
+            "btih": "cb27812cdb46f89fef19e060a5b511c269b9938e",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.410540432,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 41,
+            "uuploaders": 25
+        },
+        {
+            "id": 14,
+            "name": "Yellowjackets S03E02 720p x264-FENiX [IPT]",
+            "btih": "ae30097771ff83cddd63bf67afa55ba6156db0ab",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.573568433,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 41,
+            "uuploaders": 24
+        },
+        {
+            "id": 6,
+            "name": "Yellowjackets S03E01 It Girl 2160p PMTP WEB-DL DDP5 1 DV H 265-FLUX [IPT]",
+            "btih": "3bb959c66fd430675e073719773c331702671f55",
+            "resolution": "2160",
+            "encoding": "265",
+            "gigabytes": 6.433031399,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 39,
+            "uuploaders": 26
+        },
+        {
+            "id": 74,
+            "name": "Yellowjackets.S03E02.Dislocation.XviD-AFG [IPT]",
+            "btih": "34da399728d79c787f9d91d20496457563f68119",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.395120976,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 38,
+            "uuploaders": 28
+        },
+        {
+            "id": 30,
+            "name": "Yellowjackets.S03.1080p.Ultradox",
+            "btih": "d5c029550f82af0e5b5c9ba74369a695c48683e2",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 4.40662526,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 37,
+            "uuploaders": 14
+        },
+        {
+            "id": 91,
+            "name": "multi-btih-4-2-x-Yellowjackets.S03E02.DV.2160p.WEB.H265-SuccessfulCrab [IPT](1)",
+            "btih": "cddae05f76f0e88393824a9a66c67fc67edeeaa9",
+            "resolution": "2160",
+            "encoding": "265",
+            "gigabytes": 6.124180969,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 35,
+            "uuploaders": 25
+        },
+        {
+            "id": 56,
+            "name": "Yellowjackets.S03E01.XviD-AFG [IPT]",
+            "btih": "d1e44671ba3e65d3c383bc14f4c93d40de6bd1d6",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.446884617,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 29,
+            "uuploaders": 21
+        },
+        {
+            "id": 43,
+            "name": "Yellowjackets.S03E01.DV.2160p.WEB.H265-SuccessfulCrab [IPT]",
+            "btih": "b079e7eeb3917ed5f5b2aa68cdecbc16100e773e",
+            "resolution": "2160",
+            "encoding": "265",
+            "gigabytes": 6.256150791,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 28,
+            "uuploaders": 20
+        },
+        {
+            "id": 49,
+            "name": "Yellowjackets.S03E01.It.Girl.480p.x264-mSD [IPT]",
+            "btih": "09fe88399132bd832c870407870af38d0defb4bc",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.41052089,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 21,
+            "uuploaders": 18
+        },
+        {
+            "id": 68,
+            "name": "Yellowjackets.S03E02.AAC.MP4-Mobile [IPT]",
+            "btih": "85124cc5ff4291654c28028a55d9ed3bb1c903df",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.16887318,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 17,
+            "uuploaders": 11
+        },
+        {
+            "id": 90,
+            "name": "multi-btih-3-2-x-Yellowjackets.S03E01.It.Girl.AAC.MP4-Mobile [IPT](1)",
+            "btih": "5bff733a7c4d444c2b7e45ee2a1d25f00b2b12ec",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.1920142,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 17,
+            "uuploaders": 14
+        },
+        {
+            "id": 73,
+            "name": "Yellowjackets.S03E02.Dislocation.AAC.MP4-Mobile [IPT]",
+            "btih": "b8e4b342482759d8c44f220d7ff22abf4d457144",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.168873553,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 16,
+            "uuploaders": 14
+        },
+        {
+            "id": 7,
+            "name": "Yellowjackets S03E01 It Girl 2160p PMTP WEB-DL DDP5 1 DV H 265-NTb [IPT]",
+            "btih": "b2ea25b06fcaba960ed6f336427c87ab962c34bc",
+            "resolution": "2160",
+            "encoding": "265",
+            "gigabytes": 6.433033352,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 16,
+            "uuploaders": 12
+        },
+        {
+            "id": 92,
+            "name": "multi-btih-5-2-x-Yellowjackets.S03E02.Yellowjackets.Dislocation.480p.x264-mSD [IPT](1)",
+            "btih": "7d179968ec078d23b98f5a5135ccd1ec1e4173a4",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.384229494,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 16,
+            "uuploaders": 13
+        },
+        {
+            "id": 85,
+            "name": "Yellowjackets.S03E02.Yellowjackets.Dislocation.AAC.MP4-Mobile [IPT]",
+            "btih": "1cf01af0bdb8068815bca1c546329f4e0493de70",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.168872826,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 14,
+            "uuploaders": 11
+        },
+        {
+            "id": 71,
+            "name": "Yellowjackets.S03E02.Dislocation.480p.x264-mSD [IPT]",
+            "btih": "8d7e420a6b5515140036fed112f17498eec04e22",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.384229718,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 14,
+            "uuploaders": 13
+        },
+        {
+            "id": 17,
+            "name": "Yellowjackets S03E02 Dislocation 2160p PMTP WEB-DL DDP5 1 DV H 265-NTb [IPT]",
+            "btih": "3710cfe0f32aa161734885487940cced4de8bf9e",
+            "resolution": "2160",
+            "encoding": "265",
+            "gigabytes": 6.319029286,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 13,
+            "uuploaders": 8
+        }
+    ]
+}
