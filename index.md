@@ -22,9 +22,9 @@ project.
 
 <div style="height: 50px;"></div>
 
-## Results, Commentary
+## 2025 Results
 
-- Media Objects
+- 85 Media Objects
   - [alien-earth-101](docs/itemized/alien-earth-101-sample-cache-audit.md)
   - [alien-earth-106](docs/itemized/alien-earth-106-sample-cache-audit.md)
   - [american-primeval](docs/itemized/american-primeval-sample-cache-audit.md)
