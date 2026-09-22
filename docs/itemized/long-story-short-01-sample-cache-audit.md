@@ -24,7 +24,7 @@ description: "Cache coverage and visualization audit for one media object."
 | Data version | `2026-08-05` |
 | IP geolocation version | `6:1777968300` |
 
-## 2. Sample coverage report
+## 2. Coverage report
 
 - Evidence: completed year-2025 AAO successor release, revision 2
 - Release generated: 2026-08-30T16:41:11-07:00
@@ -59,11 +59,11 @@ hour, week, and cumulative cache members were excluded from that day-only
 stream. The aggregate successor correction was separately authorized and
 used the canonical cache repository as its source.
 
-## 3. Media objects file size histogram
+## 3. File sizes histogram *median[lowest, highest]*
 
 ![The Long Story Short collection size histogram](figures/long-story-short-01-cumulative-detail-btiha-itemized-by-bytes.svg)
 
-## 4. Visualization pass — graphs
+## 4. Graphs
 
 ### Downloads by week cumulative (normalized start)
 
@@ -86,24 +86,29 @@ used the canonical cache repository as its source.
 
 ![long-story-short-01 downloads by day](figures/long-story-short-01-downloads-by-day-day.svg)
 
-## 5. Visualization pass — maps
+## 5. Cumulative Maps
 
-### Cumulative geographic slices
+<script defer type="text/javascript" crossorigin="anonymous" id="geojson-map"
+        src="../../resources/izzi-map-leaflet-geojson-v7.8.js"></script>
+
+<!-- https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2025/refs/heads/main/data/ -->
+
+### <a href="https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2025/refs/heads/main/data/geojson.cumulative/long-story-short-01-cumulative-aggregate.geojson.gz" data-map-title="The Long Story Short — long-story-short-01" onclick="leaflet_map_open_window(this.href, this.dataset.mapTitle); return false;" class="table-link" aria-label="Open The Long Story Short (long-story-short-01) cumulative data map in new window" title="Opens interactive map for The Long Story Short (long-story-short-01) data">Swarm Detail</a>
+
+### Geographic Regions
 
 | Africa | Americas | Asia | Europe | Oceania | Unknown |
 | --- | --- | --- | --- | --- | --- |
 | 0.84 | 16.46 | 31.58 | 47.08 | 0.97 | 0.62 |
 
-### Cumulative network infrastructure
+### Network infrastructure
 
 [![The Long Story Short cumulative map](figures/long-story-short-01-carto.png)](figures/long-story-short-01-carto-4k.webp){:target="_blank" rel="noopener"}
 
-### Cumulative data maps
-
-**Cumulative >= 1080p**
+### Resolution >= 1080p
 
 [![Cumulative >= 1080p](figures/long-story-short-01-data-ge-1080p.webp)](figures/long-story-short-01-data-ge-1080p-4k.webp){:target="_blank" rel="noopener"}
 
-**Cumulative < 1080p**
+### Resolution < 1080p
 
 [![Cumulative < 1080p](figures/long-story-short-01-data-lt-1080p.webp)](figures/long-story-short-01-data-lt-1080p-4k.webp){:target="_blank" rel="noopener"}
